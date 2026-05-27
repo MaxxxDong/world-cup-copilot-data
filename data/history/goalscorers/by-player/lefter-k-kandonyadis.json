@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "syria",
+      "date": "1949-11-20",
+      "goalId": "goal-1949-11-20-turkey-syria-1825",
+      "homeTeamId": "turkey",
+      "matchKey": "1949-11-20-turkey-syria",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lefter Küçükandonyadis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1954-06-20",
+      "goalId": "goal-1954-06-20-south-korea-turkey-2278",
+      "homeTeamId": "south-korea",
+      "matchKey": "1954-06-20-south-korea-turkey",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lefter Küçükandonyadis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1954-06-23",
+      "goalId": "goal-1954-06-23-germany-turkey-2294",
+      "homeTeamId": "germany",
+      "matchKey": "1954-06-23-germany-turkey",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lefter Küçükandonyadis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1959-04-26",
+      "goalId": "goal-1959-04-26-turkey-romania-3166",
+      "homeTeamId": "turkey",
+      "matchKey": "1959-04-26-turkey-romania",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lefter Küçükandonyadis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1959-04-26",
+      "goalId": "goal-1959-04-26-turkey-romania-3167",
+      "homeTeamId": "turkey",
+      "matchKey": "1959-04-26-turkey-romania",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Lefter Küçükandonyadis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "lefter k kandonyadis",
+  "playerKey": "lefter-k-kandonyadis",
+  "scorer": "Lefter Küçükandonyadis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

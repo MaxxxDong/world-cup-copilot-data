@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1979-11-01",
+      "goalId": "goal-1979-11-01-portugal-norway-8642",
+      "homeTeamId": "portugal",
+      "matchKey": "1979-11-01-portugal-norway",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georg Hammer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "georg hammer",
+  "playerKey": "georg-hammer",
+  "scorer": "Georg Hammer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

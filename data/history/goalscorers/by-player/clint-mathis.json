@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "2000-11-15",
+      "goalId": "goal-2000-11-15-barbados-usa-20281",
+      "homeTeamId": "barbados",
+      "matchKey": "2000-11-15-barbados-usa",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clint Mathis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-honduras-usa-20659",
+      "homeTeamId": "honduras",
+      "matchKey": "2001-03-28-honduras-usa",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clint Mathis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2002-06-10",
+      "goalId": "goal-2002-06-10-south-korea-usa-22257",
+      "homeTeamId": "south-korea",
+      "matchKey": "2002-06-10-south-korea-usa",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clint Mathis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "clint mathis",
+  "playerKey": "clint-mathis",
+  "scorer": "Clint Mathis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

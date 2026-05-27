@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1920-09-18",
+      "goalId": "goal-1920-09-18-bra-uruguay-73",
+      "homeTeamId": "bra",
+      "matchKey": "1920-09-18-bra-uruguay",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Campolo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1928-06-07",
+      "goalId": "goal-1928-06-07-uruguay-italy-468",
+      "homeTeamId": "uruguay",
+      "matchKey": "1928-06-07-uruguay-italy",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Campolo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "antonio campolo",
+  "playerKey": "antonio-campolo",
+  "scorer": "Antonio Campolo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

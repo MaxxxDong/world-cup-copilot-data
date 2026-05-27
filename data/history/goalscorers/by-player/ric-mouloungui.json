@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-gabon-mar-29608",
+      "homeTeamId": "gabon",
+      "matchKey": "2009-10-10-gabon-mar",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Éric Mouloungui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "mali",
+      "date": "2012-02-05",
+      "goalId": "goal-2012-02-05-gabon-mali-31666",
+      "homeTeamId": "gabon",
+      "matchKey": "2012-02-05-gabon-mali",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Éric Mouloungui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "ric mouloungui",
+  "playerKey": "ric-mouloungui",
+  "scorer": "Éric Mouloungui",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon"
+  ]
+}

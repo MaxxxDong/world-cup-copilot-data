@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1981-10-14",
+      "goalId": "goal-1981-10-14-republic-of-ireland-fra-9497",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1981-10-14-republic-of-ireland-fra",
+      "minute": 5,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Philippe Mahut",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "philippe mahut",
+  "playerKey": "philippe-mahut",
+  "scorer": "Philippe Mahut",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

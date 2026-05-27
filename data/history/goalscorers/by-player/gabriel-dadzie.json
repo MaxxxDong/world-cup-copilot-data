@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "djibouti",
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-sierra-leone-djibouti-44615",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "2024-06-05-sierra-leone-djibouti",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gabriel Dadzie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "djibouti"
+    },
+    {
+      "awayTeamId": "ethiopia",
+      "date": "2024-06-09",
+      "goalId": "goal-2024-06-09-djibouti-ethiopia-44783",
+      "homeTeamId": "djibouti",
+      "matchKey": "2024-06-09-djibouti-ethiopia",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gabriel Dadzie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "djibouti"
+    }
+  ],
+  "normalizedScorer": "gabriel dadzie",
+  "playerKey": "gabriel-dadzie",
+  "scorer": "Gabriel Dadzie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "djibouti"
+  ]
+}

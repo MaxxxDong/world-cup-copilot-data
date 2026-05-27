@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1979-10-10",
+      "goalId": "goal-1979-10-10-czechoslovakia-sweden-8580",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1979-10-10-czechoslovakia-sweden",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Svensson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "1981-06-24",
+      "goalId": "goal-1981-06-24-sweden-portugal-9373",
+      "homeTeamId": "sweden",
+      "matchKey": "1981-06-24-sweden-portugal",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Svensson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "jan svensson",
+  "playerKey": "jan-svensson",
+  "scorer": "Jan Svensson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

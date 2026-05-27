@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1997-06-13",
+      "goalId": "goal-1997-06-13-bra-costa-rica-17328",
+      "homeTeamId": "bra",
+      "matchKey": "1997-06-13-bra-costa-rica",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Djalminha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1997-06-26",
+      "goalId": "goal-1997-06-26-bra-peru-17474",
+      "homeTeamId": "bra",
+      "matchKey": "1997-06-26-bra-peru",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Djalminha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "djalminha",
+  "playerKey": "djalminha",
+  "scorer": "Djalminha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

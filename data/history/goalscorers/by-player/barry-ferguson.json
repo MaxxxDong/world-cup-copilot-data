@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "2002-09-07",
+      "goalId": "goal-2002-09-07-faroe-islands-scotland-22424",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2002-09-07-faroe-islands-scotland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Barry Ferguson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-scotland-italy-27422",
+      "homeTeamId": "scotland",
+      "matchKey": "2007-11-17-scotland-italy",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Barry Ferguson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "barry ferguson",
+  "playerKey": "barry-ferguson",
+  "scorer": "Barry Ferguson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

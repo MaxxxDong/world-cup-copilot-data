@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "andorra",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-ukraine-andorra-29438",
+      "homeTeamId": "ukraine",
+      "matchKey": "2009-09-05-ukraine-andorra",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Artem Milevskyi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-ukraine-andorra-29440",
+      "homeTeamId": "ukraine",
+      "matchKey": "2009-09-05-ukraine-andorra",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Artem Milevskyi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    }
+  ],
+  "normalizedScorer": "artem milevskyi",
+  "playerKey": "artem-milevskyi",
+  "scorer": "Artem Milevskyi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ukraine"
+  ]
+}

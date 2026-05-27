@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "1996-10-09",
+      "goalId": "goal-1996-10-09-republic-of-ireland-north-macedonia-16377",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1996-10-09-republic-of-ireland-north-macedonia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jason McAteer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2000-09-02",
+      "goalId": "goal-2000-09-02-netherlands-republic-of-ireland-20004",
+      "homeTeamId": "netherlands",
+      "matchKey": "2000-09-02-netherlands-republic-of-ireland",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jason McAteer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2001-09-01",
+      "goalId": "goal-2001-09-01-republic-of-ireland-netherlands-21742",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2001-09-01-republic-of-ireland-netherlands",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jason McAteer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "jason mcateer",
+  "playerKey": "jason-mcateer",
+  "scorer": "Jason McAteer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

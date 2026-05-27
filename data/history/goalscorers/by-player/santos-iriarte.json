@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1930-07-27",
+      "goalId": "goal-1930-07-27-uruguay-yugoslavia-603",
+      "homeTeamId": "uruguay",
+      "matchKey": "1930-07-27-uruguay-yugoslavia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Santos Iriarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1930-07-30",
+      "goalId": "goal-1930-07-30-uruguay-arg-610",
+      "homeTeamId": "uruguay",
+      "matchKey": "1930-07-30-uruguay-arg",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Santos Iriarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "santos iriarte",
+  "playerKey": "santos-iriarte",
+  "scorer": "Santos Iriarte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

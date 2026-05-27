@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1991-07-09",
+      "goalId": "goal-1991-07-09-bolivia-bra-12879",
+      "homeTeamId": "bolivia",
+      "matchKey": "1991-07-09-bolivia-bra",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Neto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "neto",
+  "playerKey": "neto",
+  "scorer": "Neto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

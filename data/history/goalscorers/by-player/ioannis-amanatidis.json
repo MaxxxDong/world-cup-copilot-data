@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "2007-10-17",
+      "goalId": "goal-2007-10-17-turkey-greece-27249",
+      "homeTeamId": "turkey",
+      "matchKey": "2007-10-17-turkey-greece",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Amanatidis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-greece-malta-27387",
+      "homeTeamId": "greece",
+      "matchKey": "2007-11-17-greece-malta",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Amanatidis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "ioannis amanatidis",
+  "playerKey": "ioannis-amanatidis",
+  "scorer": "Ioannis Amanatidis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1992-10-25",
+      "goalId": "goal-1992-10-25-togo-egypt-13430",
+      "homeTeamId": "togo",
+      "matchKey": "1992-10-25-togo-egypt",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayman Mansour",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "gabon",
+      "date": "1994-03-28",
+      "goalId": "goal-1994-03-28-egypt-gabon-14760",
+      "homeTeamId": "egypt",
+      "matchKey": "1994-03-28-egypt-gabon",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayman Mansour",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "ayman mansour",
+  "playerKey": "ayman-mansour",
+  "scorer": "Ayman Mansour",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

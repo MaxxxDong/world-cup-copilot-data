@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2023-09-07",
+      "goalId": "goal-2023-09-07-colombia-venezuela-43438",
+      "homeTeamId": "colombia",
+      "matchKey": "2023-09-07-colombia-venezuela",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rafael Santos Borré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-paraguay-colombia-44162",
+      "homeTeamId": "paraguay",
+      "matchKey": "2023-11-21-paraguay-colombia",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Rafael Santos Borré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "rafael santos borr",
+  "playerKey": "rafael-santos-borr",
+  "scorer": "Rafael Santos Borré",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

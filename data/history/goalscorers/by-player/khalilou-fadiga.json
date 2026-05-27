@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "senegal",
+      "date": "2000-02-07",
+      "goalId": "goal-2000-02-07-nigeria-senegal-19260",
+      "homeTeamId": "nigeria",
+      "matchKey": "2000-02-07-nigeria-senegal",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalilou Fadiga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2001-07-21",
+      "goalId": "goal-2001-07-21-namibia-senegal-21619",
+      "homeTeamId": "namibia",
+      "matchKey": "2001-07-21-namibia-senegal",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalilou Fadiga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2002-06-11",
+      "goalId": "goal-2002-06-11-senegal-uruguay-22268",
+      "homeTeamId": "senegal",
+      "matchKey": "2002-06-11-senegal-uruguay",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Khalilou Fadiga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-senegal-liberia-25050",
+      "homeTeamId": "senegal",
+      "matchKey": "2005-03-26-senegal-liberia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalilou Fadiga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "khalilou fadiga",
+  "playerKey": "khalilou-fadiga",
+  "scorer": "Khalilou Fadiga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

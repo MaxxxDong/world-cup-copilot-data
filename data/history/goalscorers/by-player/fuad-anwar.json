@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "1994-06-20",
+      "goalId": "goal-1994-06-20-netherlands-saudi-arabia-14819",
+      "homeTeamId": "netherlands",
+      "matchKey": "1994-06-20-netherlands-saudi-arabia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fuad Anwar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1994-06-25",
+      "goalId": "goal-1994-06-25-saudi-arabia-mar-14856",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "1994-06-25-saudi-arabia-mar",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fuad Anwar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "fuad anwar",
+  "playerKey": "fuad-anwar",
+  "scorer": "Fuad Anwar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

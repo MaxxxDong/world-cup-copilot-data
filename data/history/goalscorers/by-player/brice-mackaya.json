@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "1996-01-19",
+      "goalId": "goal-1996-01-19-dr-congo-gabon-15781",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1996-01-19-dr-congo-gabon",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brice Mackaya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1996-01-28",
+      "goalId": "goal-1996-01-28-gabon-tunisia-15830",
+      "homeTeamId": "gabon",
+      "matchKey": "1996-01-28-gabon-tunisia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Mackaya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "eswatini",
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-gabon-eswatini-16061",
+      "homeTeamId": "gabon",
+      "matchKey": "1996-06-16-gabon-eswatini",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Mackaya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "brice mackaya",
+  "playerKey": "brice-mackaya",
+  "scorer": "Brice Mackaya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2006-09-02",
+      "goalId": "goal-2006-09-02-scotland-faroe-islands-26290",
+      "homeTeamId": "scotland",
+      "matchKey": "2006-09-02-scotland-faroe-islands",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Garry O'Connor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2007-06-06",
+      "goalId": "goal-2007-06-06-faroe-islands-scotland-26682",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2007-06-06-faroe-islands-scotland",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Garry O'Connor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "garry o connor",
+  "playerKey": "garry-o-connor",
+  "scorer": "Garry O'Connor",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kuwait",
+      "date": "1973-05-11",
+      "goalId": "goal-1973-05-11-syria-kuwait-6671",
+      "homeTeamId": "syria",
+      "matchKey": "1973-05-11-syria-kuwait",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Said",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "syria"
+    },
+    {
+      "awayTeamId": "philippines",
+      "date": "2001-05-07",
+      "goalId": "goal-2001-05-07-oman-philippines-21112",
+      "homeTeamId": "oman",
+      "matchKey": "2001-05-07-oman-philippines",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Said",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "oman"
+    }
+  ],
+  "normalizedScorer": "samir said",
+  "playerKey": "samir-said",
+  "scorer": "Samir Said",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "oman",
+    "syria"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1980-06-15",
+      "goalId": "goal-1980-06-15-belgium-spain-8869",
+      "homeTeamId": "belgium",
+      "matchKey": "1980-06-15-belgium-spain",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Gerets",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1986-10-14",
+      "goalId": "goal-1986-10-14-luxembourg-belgium-11294",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1986-10-14-luxembourg-belgium",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Gerets",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "eric gerets",
+  "playerKey": "eric-gerets",
+  "scorer": "Eric Gerets",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

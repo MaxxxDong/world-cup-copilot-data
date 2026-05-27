@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1993-09-05",
+      "goalId": "goal-1993-09-05-estonia-portugal-14536",
+      "homeTeamId": "estonia",
+      "matchKey": "1993-09-05-estonia-portugal",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "António Folha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "1994-12-18",
+      "goalId": "goal-1994-12-18-portugal-liechtenstein-15165",
+      "homeTeamId": "portugal",
+      "matchKey": "1994-12-18-portugal-liechtenstein",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "António Folha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "ant nio folha",
+  "playerKey": "ant-nio-folha",
+  "scorer": "António Folha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-netherlands-turkey-32111",
+      "homeTeamId": "netherlands",
+      "matchKey": "2012-09-07-netherlands-turkey",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luciano Narsingh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2015-06-12",
+      "goalId": "goal-2015-06-12-latvia-netherlands-34415",
+      "homeTeamId": "latvia",
+      "matchKey": "2015-06-12-latvia-netherlands",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luciano Narsingh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "luciano narsingh",
+  "playerKey": "luciano-narsingh",
+  "scorer": "Luciano Narsingh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

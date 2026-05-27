@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1977-02-24",
+      "goalId": "goal-1977-02-24-colombia-paraguay-7717",
+      "homeTeamId": "colombia",
+      "matchKey": "1977-02-24-colombia-paraguay",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Jara Saguier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1977-03-06",
+      "goalId": "goal-1977-03-06-paraguay-colombia-7765",
+      "homeTeamId": "paraguay",
+      "matchKey": "1977-03-06-paraguay-colombia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Jara Saguier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "carlos jara saguier",
+  "playerKey": "carlos-jara-saguier",
+  "scorer": "Carlos Jara Saguier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

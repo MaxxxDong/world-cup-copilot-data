@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2000-07-08",
+      "goalId": "goal-2000-07-08-zambia-togo-19871",
+      "homeTeamId": "zambia",
+      "matchKey": "2000-07-08-zambia-togo",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chaswe Nsofwa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "2001-07-14",
+      "goalId": "goal-2001-07-14-zambia-cameroon-21582",
+      "homeTeamId": "zambia",
+      "matchKey": "2001-07-14-zambia-cameroon",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chaswe Nsofwa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "2001-07-27",
+      "goalId": "goal-2001-07-27-libya-zambia-21638",
+      "homeTeamId": "libya",
+      "matchKey": "2001-07-27-libya-zambia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chaswe Nsofwa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "chaswe nsofwa",
+  "playerKey": "chaswe-nsofwa",
+  "scorer": "Chaswe Nsofwa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

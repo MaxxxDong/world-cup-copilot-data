@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "seychelles",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43969",
+      "homeTeamId": "civ",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jean-Philippe Krasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "guinea-bissau",
+      "date": "2024-01-13",
+      "goalId": "goal-2024-01-13-civ-guinea-bissau-44201",
+      "homeTeamId": "civ",
+      "matchKey": "2024-01-13-civ-guinea-bissau",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Philippe Krasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2025-12-31",
+      "goalId": "goal-2025-12-31-gabon-civ-47514",
+      "homeTeamId": "gabon",
+      "matchKey": "2025-12-31-gabon-civ",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Philippe Krasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "jean philippe krasso",
+  "playerKey": "jean-philippe-krasso",
+  "scorer": "Jean-Philippe Krasso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

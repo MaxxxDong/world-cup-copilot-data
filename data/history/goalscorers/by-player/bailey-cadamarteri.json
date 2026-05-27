@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-jamaica-trinidad-and-tobago-46844",
+      "homeTeamId": "jamaica",
+      "matchKey": "2025-09-09-jamaica-trinidad-and-tobago",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bailey Cadamarteri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2026-03-26",
+      "goalId": "goal-2026-03-26-new-caledonia-jamaica-47568",
+      "homeTeamId": "new-caledonia",
+      "matchKey": "2026-03-26-new-caledonia-jamaica",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bailey Cadamarteri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "bailey cadamarteri",
+  "playerKey": "bailey-cadamarteri",
+  "scorer": "Bailey Cadamarteri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

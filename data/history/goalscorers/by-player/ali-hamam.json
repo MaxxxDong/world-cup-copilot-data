@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-lebanon-south-korea-34905",
+      "homeTeamId": "lebanon",
+      "matchKey": "2015-09-08-lebanon-south-korea",
+      "minute": 26,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ali Hamam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "laos",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-lebanon-laos-35308",
+      "homeTeamId": "lebanon",
+      "matchKey": "2015-11-12-lebanon-laos",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Hamam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "ali hamam",
+  "playerKey": "ali-hamam",
+  "scorer": "Ali Hamam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon",
+    "south-korea"
+  ]
+}

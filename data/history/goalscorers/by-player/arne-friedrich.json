@@ -1,0 +1,73 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2002-10-16",
+      "goalId": "goal-2002-10-16-germany-faroe-islands-22515",
+      "homeTeamId": "germany",
+      "matchKey": "2002-10-16-germany-faroe-islands",
+      "minute": 45,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Arne Friedrich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2010-07-03",
+      "goalId": "goal-2010-07-03-arg-germany-30005",
+      "homeTeamId": "arg",
+      "matchKey": "2010-07-03-arg-germany",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arne Friedrich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2011-06-03",
+      "goalId": "goal-2011-06-03-austria-germany-30429",
+      "homeTeamId": "austria",
+      "matchKey": "2011-06-03-austria-germany",
+      "minute": 50,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Arne Friedrich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "arne friedrich",
+  "playerKey": "arne-friedrich",
+  "scorer": "Arne Friedrich",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria",
+    "faroe-islands",
+    "germany"
+  ]
+}

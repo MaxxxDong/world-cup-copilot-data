@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-dominica-panama-40261",
+      "homeTeamId": "dominica",
+      "matchKey": "2021-03-28-dominica-panama",
+      "minute": 28,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Briel Thomas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "anguilla",
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-dominica-anguilla-40453",
+      "homeTeamId": "dominica",
+      "matchKey": "2021-06-02-dominica-anguilla",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Briel Thomas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dominica"
+    }
+  ],
+  "normalizedScorer": "briel thomas",
+  "playerKey": "briel-thomas",
+  "scorer": "Briel Thomas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dominica",
+    "panama"
+  ]
+}

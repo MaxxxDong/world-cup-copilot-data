@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2019-03-24",
+      "goalId": "goal-2019-03-24-netherlands-germany-38257",
+      "homeTeamId": "netherlands",
+      "matchKey": "2019-03-24-netherlands-germany",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matthijs de Ligt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-england-netherlands-38334",
+      "homeTeamId": "england",
+      "matchKey": "2019-06-06-england-netherlands",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matthijs de Ligt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "matthijs de ligt",
+  "playerKey": "matthijs-de-ligt",
+  "scorer": "Matthijs de Ligt",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

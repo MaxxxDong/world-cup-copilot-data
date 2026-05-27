@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2010-06-16",
+      "goalId": "goal-2010-06-16-rsa-uruguay-29899",
+      "homeTeamId": "rsa",
+      "matchKey": "2010-06-16-rsa-uruguay",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Pereira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-uruguay-chile-30670",
+      "homeTeamId": "uruguay",
+      "matchKey": "2011-07-08-uruguay-chile",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Pereira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-uruguay-mex-30702",
+      "homeTeamId": "uruguay",
+      "matchKey": "2011-07-12-uruguay-mex",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Pereira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-uruguay-chile-35534",
+      "homeTeamId": "uruguay",
+      "matchKey": "2015-11-17-uruguay-chile",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Pereira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2016-06-05",
+      "goalId": "goal-2016-06-05-mex-uruguay-35763",
+      "homeTeamId": "mex",
+      "matchKey": "2016-06-05-mex-uruguay",
+      "minute": 4,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Álvaro Pereira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "lvaro pereira",
+  "playerKey": "lvaro-pereira",
+  "scorer": "Álvaro Pereira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex",
+    "uruguay"
+  ]
+}

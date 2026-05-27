@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montenegro",
+      "date": "2019-06-10",
+      "goalId": "goal-2019-06-10-czech-republic-montenegro-38428",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2019-06-10-czech-republic-montenegro",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jakub Jankto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2021-03-24",
+      "goalId": "goal-2021-03-24-estonia-czech-republic-40084",
+      "homeTeamId": "estonia",
+      "matchKey": "2021-03-24-estonia-czech-republic",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jakub Jankto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "jakub jankto",
+  "playerKey": "jakub-jankto",
+  "scorer": "Jakub Jankto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic"
+  ]
+}

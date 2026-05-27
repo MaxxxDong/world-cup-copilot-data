@@ -1,0 +1,73 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2014-06-23",
+      "goalId": "goal-2014-06-23-bra-cameroon-33699",
+      "homeTeamId": "bra",
+      "matchKey": "2014-06-23-bra-cameroon",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernandinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2018-07-06",
+      "goalId": "goal-2018-07-06-bra-belgium-37686",
+      "homeTeamId": "bra",
+      "matchKey": "2018-07-06-bra-belgium",
+      "minute": 13,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Fernandinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "singapore",
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-china-pr-singapore-44536",
+      "homeTeamId": "china-pr",
+      "matchKey": "2024-03-26-china-pr-singapore",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fernandinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "fernandinho",
+  "playerKey": "fernandinho",
+  "scorer": "Fernandinho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium",
+    "bra",
+    "china-pr"
+  ]
+}

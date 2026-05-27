@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1950-06-29",
+      "goalId": "goal-1950-06-29-paraguay-sweden-1875",
+      "homeTeamId": "paraguay",
+      "matchKey": "1950-06-29-paraguay-sweden",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stig Sundqvist",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1950-07-13",
+      "goalId": "goal-1950-07-13-sweden-uruguay-1923",
+      "homeTeamId": "sweden",
+      "matchKey": "1950-07-13-sweden-uruguay",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stig Sundqvist",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1950-07-16",
+      "goalId": "goal-1950-07-16-spain-sweden-1929",
+      "homeTeamId": "spain",
+      "matchKey": "1950-07-16-spain-sweden",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stig Sundqvist",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "stig sundqvist",
+  "playerKey": "stig-sundqvist",
+  "scorer": "Stig Sundqvist",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2016-03-25",
+      "goalId": "goal-2016-03-25-jamaica-costa-rica-35633",
+      "homeTeamId": "jamaica",
+      "matchKey": "2016-03-25-jamaica-costa-rica",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Je-Vaughn Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2016-06-13",
+      "goalId": "goal-2016-06-13-uruguay-jamaica-35849",
+      "homeTeamId": "uruguay",
+      "matchKey": "2016-06-13-uruguay-jamaica",
+      "minute": 66,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Je-Vaughn Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2017-07-26",
+      "goalId": "goal-2017-07-26-usa-jamaica-36984",
+      "homeTeamId": "usa",
+      "matchKey": "2017-07-26-usa-jamaica",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Je-Vaughn Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "je vaughn watson",
+  "playerKey": "je-vaughn-watson",
+  "scorer": "Je-Vaughn Watson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica",
+    "uruguay"
+  ]
+}

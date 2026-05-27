@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1996-06-26",
+      "goalId": "goal-1996-06-26-england-germany-16143",
+      "homeTeamId": "england",
+      "matchKey": "1996-06-26-england-germany",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefan Kuntz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1996-10-09",
+      "goalId": "goal-1996-10-09-armenia-germany-16350",
+      "homeTeamId": "armenia",
+      "matchKey": "1996-10-09-armenia-germany",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefan Kuntz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "stefan kuntz",
+  "playerKey": "stefan-kuntz",
+  "scorer": "Stefan Kuntz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

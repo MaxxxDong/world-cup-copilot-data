@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "1998-02-16",
+      "goalId": "goal-1998-02-16-tunisia-togo-18164",
+      "homeTeamId": "tunisia",
+      "matchKey": "1998-02-16-tunisia-togo",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Komlan Assignon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "2001-05-06",
+      "goalId": "goal-2001-05-06-togo-zambia-21100",
+      "homeTeamId": "togo",
+      "matchKey": "2001-05-06-togo-zambia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Komlan Assignon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "komlan assignon",
+  "playerKey": "komlan-assignon",
+  "scorer": "Komlan Assignon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1969-10-15",
+      "goalId": "goal-1969-10-15-greece-switzerland-5651",
+      "homeTeamId": "greece",
+      "matchKey": "1969-10-15-greece-switzerland",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Koudas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1973-01-17",
+      "goalId": "goal-1973-01-17-greece-spain-6518",
+      "homeTeamId": "greece",
+      "matchKey": "1973-01-17-greece-spain",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Koudas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "giorgos koudas",
+  "playerKey": "giorgos-koudas",
+  "scorer": "Giorgos Koudas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

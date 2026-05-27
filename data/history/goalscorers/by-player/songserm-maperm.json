@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bangladesh",
+      "date": "1993-04-18",
+      "goalId": "goal-1993-04-18-thailand-bangladesh-13858",
+      "homeTeamId": "thailand",
+      "matchKey": "1993-04-18-thailand-bangladesh",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Songserm Maperm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "1993-04-30",
+      "goalId": "goal-1993-04-30-united-arab-emirates-thailand-13936",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "1993-04-30-united-arab-emirates-thailand",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Songserm Maperm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    }
+  ],
+  "normalizedScorer": "songserm maperm",
+  "playerKey": "songserm-maperm",
+  "scorer": "Songserm Maperm",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "thailand"
+  ]
+}

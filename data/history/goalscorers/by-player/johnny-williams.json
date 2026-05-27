@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1985-08-11",
+      "goalId": "goal-1985-08-11-costa-rica-honduras-10906",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1985-08-11-costa-rica-honduras",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johnny Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1985-08-17",
+      "goalId": "goal-1985-08-17-canada-costa-rica-10910",
+      "homeTeamId": "canada",
+      "matchKey": "1985-08-17-canada-costa-rica",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johnny Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "johnny williams",
+  "playerKey": "johnny-williams",
+  "scorer": "Johnny Williams",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

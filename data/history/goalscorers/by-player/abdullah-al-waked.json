@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2001-09-21",
+      "goalId": "goal-2001-09-21-bahrain-saudi-arabia-21878",
+      "homeTeamId": "bahrain",
+      "matchKey": "2001-09-21-bahrain-saudi-arabia",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Al-Waked",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "2001-09-28",
+      "goalId": "goal-2001-09-28-saudi-arabia-iran-21892",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2001-09-28-saudi-arabia-iran",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Abdullah Al-Waked",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "abdullah al waked",
+  "playerKey": "abdullah-al-waked",
+  "scorer": "Abdullah Al-Waked",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

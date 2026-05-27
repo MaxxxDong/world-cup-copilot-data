@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "2016-06-18",
+      "goalId": "goal-2016-06-18-iceland-hungary-35896",
+      "homeTeamId": "iceland",
+      "matchKey": "2016-06-18-iceland-hungary",
+      "minute": 88,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Birkir Már Sævarsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2020-10-14",
+      "goalId": "goal-2020-10-14-iceland-belgium-39860",
+      "homeTeamId": "iceland",
+      "matchKey": "2020-10-14-iceland-belgium",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Birkir Már Sævarsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2021-03-31",
+      "goalId": "goal-2021-03-31-liechtenstein-iceland-40402",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2021-03-31-liechtenstein-iceland",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Birkir Már Sævarsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    }
+  ],
+  "normalizedScorer": "birkir m r s varsson",
+  "playerKey": "birkir-m-r-s-varsson",
+  "scorer": "Birkir Már Sævarsson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary",
+    "iceland"
+  ]
+}

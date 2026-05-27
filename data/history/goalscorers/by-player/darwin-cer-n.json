@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-el-salvador-saint-kitts-and-nevis-34520",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2015-06-16-el-salvador-saint-kitts-and-nevis",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Cerén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2021-06-12",
+      "goalId": "goal-2021-06-12-saint-kitts-and-nevis-el-salvador-40752",
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchKey": "2021-06-12-saint-kitts-and-nevis-el-salvador",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Darwin Cerén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2022-01-30",
+      "goalId": "goal-2022-01-30-honduras-el-salvador-42261",
+      "homeTeamId": "honduras",
+      "matchKey": "2022-01-30-honduras-el-salvador",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Cerén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "darwin cer n",
+  "playerKey": "darwin-cer-n",
+  "scorer": "Darwin Cerén",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador"
+  ]
+}

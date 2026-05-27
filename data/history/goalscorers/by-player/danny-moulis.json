@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "1980-02-24",
+      "goalId": "goal-1980-02-24-new-caledonia-australia-8690",
+      "homeTeamId": "new-caledonia",
+      "matchKey": "1980-02-24-new-caledonia-australia",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Moulis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "papua-new-guinea",
+      "date": "1980-02-26",
+      "goalId": "goal-1980-02-26-australia-papua-new-guinea-8713",
+      "homeTeamId": "australia",
+      "matchKey": "1980-02-26-australia-papua-new-guinea",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Moulis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "1980-03-01",
+      "goalId": "goal-1980-03-01-australia-tahiti-8785",
+      "homeTeamId": "australia",
+      "matchKey": "1980-03-01-australia-tahiti",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Moulis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "danny moulis",
+  "playerKey": "danny-moulis",
+  "scorer": "Danny Moulis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

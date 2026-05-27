@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1978-06-14",
+      "goalId": "goal-1978-06-14-bra-peru-8288",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-14-bra-peru",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dirceu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1978-06-14",
+      "goalId": "goal-1978-06-14-bra-peru-8289",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-14-bra-peru",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dirceu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1978-06-24",
+      "goalId": "goal-1978-06-24-bra-italy-8317",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-24-bra-italy",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dirceu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "dirceu",
+  "playerKey": "dirceu",
+  "scorer": "Dirceu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

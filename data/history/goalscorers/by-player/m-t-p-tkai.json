@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "2018-10-15",
+      "goalId": "goal-2018-10-15-estonia-hungary-37884",
+      "homeTeamId": "estonia",
+      "matchKey": "2018-10-15-estonia-hungary",
+      "minute": 70,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Máté Pátkai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2019-03-24",
+      "goalId": "goal-2019-03-24-hungary-croatia-38244",
+      "homeTeamId": "hungary",
+      "matchKey": "2019-03-24-hungary-croatia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Máté Pátkai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2019-06-11",
+      "goalId": "goal-2019-06-11-hungary-wales-38505",
+      "homeTeamId": "hungary",
+      "matchKey": "2019-06-11-hungary-wales",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Máté Pátkai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "m t p tkai",
+  "playerKey": "m-t-p-tkai",
+  "scorer": "Máté Pátkai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia",
+    "hungary"
+  ]
+}

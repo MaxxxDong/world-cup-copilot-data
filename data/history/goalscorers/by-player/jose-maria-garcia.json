@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1949-04-20",
+      "goalId": "goal-1949-04-20-paraguay-uruguay-1652",
+      "homeTeamId": "paraguay",
+      "matchKey": "1949-04-20-paraguay-uruguay",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jose Maria Garcia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1949-04-20",
+      "goalId": "goal-1949-04-20-paraguay-uruguay-1654",
+      "homeTeamId": "paraguay",
+      "matchKey": "1949-04-20-paraguay-uruguay",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jose Maria Garcia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "jose maria garcia",
+  "playerKey": "jose-maria-garcia",
+  "scorer": "Jose Maria Garcia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

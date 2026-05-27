@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1995-07-12",
+      "goalId": "goal-1995-07-12-paraguay-venezuela-15439",
+      "homeTeamId": "paraguay",
+      "matchKey": "1995-07-12-paraguay-venezuela",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Carlos Villamayor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1995-07-16",
+      "goalId": "goal-1995-07-16-paraguay-colombia-15457",
+      "homeTeamId": "paraguay",
+      "matchKey": "1995-07-16-paraguay-colombia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Carlos Villamayor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "juan carlos villamayor",
+  "playerKey": "juan-carlos-villamayor",
+  "scorer": "Juan Carlos Villamayor",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

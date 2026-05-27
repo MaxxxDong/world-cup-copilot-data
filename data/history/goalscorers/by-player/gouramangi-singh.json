@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "india",
+      "date": "2011-01-14",
+      "goalId": "goal-2011-01-14-bahrain-india-30302",
+      "homeTeamId": "bahrain",
+      "matchKey": "2011-01-14-bahrain-india",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gouramangi Singh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2011-07-28",
+      "goalId": "goal-2011-07-28-india-united-arab-emirates-30803",
+      "homeTeamId": "india",
+      "matchKey": "2011-07-28-india-united-arab-emirates",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gouramangi Singh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    }
+  ],
+  "normalizedScorer": "gouramangi singh",
+  "playerKey": "gouramangi-singh",
+  "scorer": "Gouramangi Singh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "india"
+  ]
+}

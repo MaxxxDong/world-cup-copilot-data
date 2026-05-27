@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1977-10-09",
+      "goalId": "goal-1977-10-09-denmark-portugal-7998",
+      "homeTeamId": "denmark",
+      "matchKey": "1977-10-09-denmark-portugal",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Allan Hansen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1982-09-22",
+      "goalId": "goal-1982-09-22-denmark-england-9838",
+      "homeTeamId": "denmark",
+      "matchKey": "1982-09-22-denmark-england",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Allan Hansen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "allan hansen",
+  "playerKey": "allan-hansen",
+  "scorer": "Allan Hansen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

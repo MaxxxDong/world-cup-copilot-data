@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "2022-12-10",
+      "goalId": "goal-2022-12-10-england-fra-43047",
+      "homeTeamId": "england",
+      "matchKey": "2022-12-10-england-fra",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aurélien Tchouaméni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2023-09-07",
+      "goalId": "goal-2023-09-07-fra-republic-of-ireland-43445",
+      "homeTeamId": "fra",
+      "matchKey": "2023-09-07-fra-republic-of-ireland",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aurélien Tchouaméni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "aur lien tchouam ni",
+  "playerKey": "aur-lien-tchouam-ni",
+  "scorer": "Aurélien Tchouaméni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

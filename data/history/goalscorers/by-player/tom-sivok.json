@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montenegro",
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-czech-republic-montenegro-31384",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2011-11-11-czech-republic-montenegro",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tomáš Sivok",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2014-10-10",
+      "goalId": "goal-2014-10-10-turkey-czech-republic-33881",
+      "homeTeamId": "turkey",
+      "matchKey": "2014-10-10-turkey-czech-republic",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tomáš Sivok",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "tom sivok",
+  "playerKey": "tom-sivok",
+  "scorer": "Tomáš Sivok",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "macau",
+      "date": "1985-04-13",
+      "goalId": "goal-1985-04-13-brunei-macau-10700",
+      "homeTeamId": "brunei",
+      "matchKey": "1985-04-13-brunei-macau",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Pinto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "macau"
+    },
+    {
+      "awayTeamId": "kuwait",
+      "date": "1993-05-03",
+      "goalId": "goal-1993-05-03-macau-kuwait-13974",
+      "homeTeamId": "macau",
+      "matchKey": "1993-05-03-macau-kuwait",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Pinto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "macau"
+    }
+  ],
+  "normalizedScorer": "daniel pinto",
+  "playerKey": "daniel-pinto",
+  "scorer": "Daniel Pinto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "macau"
+  ]
+}

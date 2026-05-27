@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-uruguay-venezuela-28031",
+      "homeTeamId": "uruguay",
+      "matchKey": "2008-06-14-uruguay-venezuela",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronald Vargas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-venezuela-peru-29553",
+      "homeTeamId": "venezuela",
+      "matchKey": "2009-09-09-venezuela-peru",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronald Vargas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "ronald vargas",
+  "playerKey": "ronald-vargas",
+  "scorer": "Ronald Vargas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

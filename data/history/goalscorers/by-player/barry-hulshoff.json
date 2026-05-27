@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "german-dr",
+      "date": "1971-10-10",
+      "goalId": "goal-1971-10-10-netherlands-german-dr-6129",
+      "homeTeamId": "netherlands",
+      "matchKey": "1971-10-10-netherlands-german-dr",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Barry Hulshoff",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1971-11-17",
+      "goalId": "goal-1971-11-17-netherlands-luxembourg-6173",
+      "homeTeamId": "netherlands",
+      "matchKey": "1971-11-17-netherlands-luxembourg",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Barry Hulshoff",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1973-09-12",
+      "goalId": "goal-1973-09-12-norway-netherlands-6812",
+      "homeTeamId": "norway",
+      "matchKey": "1973-09-12-norway-netherlands",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Barry Hulshoff",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "barry hulshoff",
+  "playerKey": "barry-hulshoff",
+  "scorer": "Barry Hulshoff",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

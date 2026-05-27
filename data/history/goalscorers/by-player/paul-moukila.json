@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1972-02-25",
+      "goalId": "goal-1972-02-25-congo-mar-6248",
+      "homeTeamId": "congo",
+      "matchKey": "1972-02-25-congo-mar",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paul Moukila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "1974-03-03",
+      "goalId": "goal-1974-03-03-congo-mauritius-6944",
+      "homeTeamId": "congo",
+      "matchKey": "1974-03-03-congo-mauritius",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paul Moukila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    }
+  ],
+  "normalizedScorer": "paul moukila",
+  "playerKey": "paul-moukila",
+  "scorer": "Paul Moukila",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "congo"
+  ]
+}

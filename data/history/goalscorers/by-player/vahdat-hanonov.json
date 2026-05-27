@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2024-01-28",
+      "goalId": "goal-2024-01-28-tajikistan-united-arab-emirates-44383",
+      "homeTeamId": "tajikistan",
+      "matchKey": "2024-01-28-tajikistan-united-arab-emirates",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vahdat Hanonov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tajikistan"
+    },
+    {
+      "awayTeamId": "jordan",
+      "date": "2024-02-02",
+      "goalId": "goal-2024-02-02-tajikistan-jordan-44420",
+      "homeTeamId": "tajikistan",
+      "matchKey": "2024-02-02-tajikistan-jordan",
+      "minute": 66,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Vahdat Hanonov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "pakistan",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-tajikistan-pakistan-44924",
+      "homeTeamId": "tajikistan",
+      "matchKey": "2024-06-11-tajikistan-pakistan",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vahdat Hanonov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tajikistan"
+    }
+  ],
+  "normalizedScorer": "vahdat hanonov",
+  "playerKey": "vahdat-hanonov",
+  "scorer": "Vahdat Hanonov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan",
+    "tajikistan"
+  ]
+}

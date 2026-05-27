@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vietnam-republic",
+      "date": "1973-05-24",
+      "goalId": "goal-1973-05-24-hong-kong-vietnam-republic-6718",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1973-05-24-hong-kong-vietnam-republic",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuen Kuen-Chu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1973-05-26",
+      "goalId": "goal-1973-05-26-south-korea-hong-kong-6722",
+      "homeTeamId": "south-korea",
+      "matchKey": "1973-05-26-south-korea-hong-kong",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuen Kuen-Chu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    }
+  ],
+  "normalizedScorer": "yuen kuen chu",
+  "playerKey": "yuen-kuen-chu",
+  "scorer": "Yuen Kuen-Chu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hong-kong"
+  ]
+}

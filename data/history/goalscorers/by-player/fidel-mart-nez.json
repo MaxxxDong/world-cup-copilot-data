@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-ecuador-uruguay-35299",
+      "homeTeamId": "ecuador",
+      "matchKey": "2015-11-12-ecuador-uruguay",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fidel Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-venezuela-ecuador-35536",
+      "homeTeamId": "venezuela",
+      "matchKey": "2015-11-17-venezuela-ecuador",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fidel Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "fidel mart nez",
+  "playerKey": "fidel-mart-nez",
+  "scorer": "Fidel Martínez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

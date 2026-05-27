@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1995-05-20",
+      "goalId": "goal-1995-05-20-estonia-lithuania-15327",
+      "homeTeamId": "estonia",
+      "matchKey": "1995-05-20-estonia-lithuania",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aidas Preikšaitis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "1997-09-06",
+      "goalId": "goal-1997-09-06-lithuania-north-macedonia-17653",
+      "homeTeamId": "lithuania",
+      "matchKey": "1997-09-06-lithuania-north-macedonia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aidas Preikšaitis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "aidas preik aitis",
+  "playerKey": "aidas-preik-aitis",
+  "scorer": "Aidas Preikšaitis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

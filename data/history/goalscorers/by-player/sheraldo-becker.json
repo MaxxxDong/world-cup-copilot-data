@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bermuda",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-suriname-bermuda-40537",
+      "homeTeamId": "suriname",
+      "matchKey": "2021-06-04-suriname-bermuda",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sheraldo Becker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "bermuda",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-suriname-bermuda-40539",
+      "homeTeamId": "suriname",
+      "matchKey": "2021-06-04-suriname-bermuda",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sheraldo Becker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-suriname-saint-vincent-and-the-grenadines-44618",
+      "homeTeamId": "suriname",
+      "matchKey": "2024-06-05-suriname-saint-vincent-and-the-grenadines",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Sheraldo Becker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    }
+  ],
+  "normalizedScorer": "sheraldo becker",
+  "playerKey": "sheraldo-becker",
+  "scorer": "Sheraldo Becker",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "suriname"
+  ]
+}

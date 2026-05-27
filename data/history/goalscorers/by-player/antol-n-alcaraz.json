@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2010-06-14",
+      "goalId": "goal-2010-06-14-italy-paraguay-29886",
+      "homeTeamId": "italy",
+      "matchKey": "2010-06-14-italy-paraguay",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antolín Alcaraz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2011-07-13",
+      "goalId": "goal-2011-07-13-paraguay-venezuela-30710",
+      "homeTeamId": "paraguay",
+      "matchKey": "2011-07-13-paraguay-venezuela",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antolín Alcaraz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "antol n alcaraz",
+  "playerKey": "antol-n-alcaraz",
+  "scorer": "Antolín Alcaraz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "1927-11-27",
+      "goalId": "goal-1927-11-27-peru-arg-362",
+      "homeTeamId": "peru",
+      "matchKey": "1927-11-27-peru-arg",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Maglio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1927-11-27",
+      "goalId": "goal-1927-11-27-peru-arg-363",
+      "homeTeamId": "peru",
+      "matchKey": "1927-11-27-peru-arg",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Maglio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "juan maglio",
+  "playerKey": "juan-maglio",
+  "scorer": "Juan Maglio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

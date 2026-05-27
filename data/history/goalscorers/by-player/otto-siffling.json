@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1934-05-27",
+      "goalId": "goal-1934-05-27-belgium-germany-803",
+      "homeTeamId": "belgium",
+      "matchKey": "1934-05-27-belgium-germany",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Otto Siffling",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1937-11-21",
+      "goalId": "goal-1937-11-21-germany-sweden-1026",
+      "homeTeamId": "germany",
+      "matchKey": "1937-11-21-germany-sweden",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Otto Siffling",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1937-11-21",
+      "goalId": "goal-1937-11-21-germany-sweden-1029",
+      "homeTeamId": "germany",
+      "matchKey": "1937-11-21-germany-sweden",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Otto Siffling",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "otto siffling",
+  "playerKey": "otto-siffling",
+  "scorer": "Otto Siffling",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

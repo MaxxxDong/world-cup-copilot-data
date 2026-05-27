@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-chile-paraguay-17294",
+      "homeTeamId": "chile",
+      "matchKey": "1997-06-11-chile-paraguay",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Acuña",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1997-07-06",
+      "goalId": "goal-1997-07-06-paraguay-arg-17508",
+      "homeTeamId": "paraguay",
+      "matchKey": "1997-07-06-paraguay-arg",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roberto Acuña",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "2000-08-16",
+      "goalId": "goal-2000-08-16-arg-paraguay-19950",
+      "homeTeamId": "arg",
+      "matchKey": "2000-08-16-arg-paraguay",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Acuña",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "roberto acu a",
+  "playerKey": "roberto-acu-a",
+  "scorer": "Roberto Acuña",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

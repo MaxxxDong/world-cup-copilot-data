@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "2019-06-19",
+      "goalId": "goal-2019-06-19-mex-canada-38585",
+      "homeTeamId": "mex",
+      "matchKey": "2019-06-19-mex-canada",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Alvarado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2023-07-12",
+      "goalId": "goal-2023-07-12-jamaica-mex-43433",
+      "homeTeamId": "jamaica",
+      "matchKey": "2023-07-12-jamaica-mex",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Alvarado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "roberto alvarado",
+  "playerKey": "roberto-alvarado",
+  "scorer": "Roberto Alvarado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

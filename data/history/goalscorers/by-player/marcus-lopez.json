@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "philippines",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-guam-philippines-39027",
+      "homeTeamId": "guam",
+      "matchKey": "2019-09-10-guam-philippines",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marcus Lopez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guam"
+    },
+    {
+      "awayTeamId": "guam",
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-philippines-guam-40730",
+      "homeTeamId": "philippines",
+      "matchKey": "2021-06-11-philippines-guam",
+      "minute": 60,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Marcus Lopez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "philippines"
+    }
+  ],
+  "normalizedScorer": "marcus lopez",
+  "playerKey": "marcus-lopez",
+  "scorer": "Marcus Lopez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guam",
+    "philippines"
+  ]
+}

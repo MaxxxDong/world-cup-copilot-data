@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1959-03-14",
+      "goalId": "goal-1959-03-14-peru-uruguay-3104",
+      "homeTeamId": "peru",
+      "matchKey": "1959-03-14-peru-uruguay",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Joya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1959-03-14",
+      "goalId": "goal-1959-03-14-peru-uruguay-3107",
+      "homeTeamId": "peru",
+      "matchKey": "1959-03-14-peru-uruguay",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Joya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan joya",
+  "playerKey": "juan-joya",
+  "scorer": "Juan Joya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

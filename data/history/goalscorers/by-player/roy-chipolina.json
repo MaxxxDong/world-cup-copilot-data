@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2017-06-09",
+      "goalId": "goal-2017-06-09-gibraltar-cyprus-36779",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2017-06-09-gibraltar-cyprus",
+      "minute": 10,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Roy Chipolina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "2019-10-15",
+      "goalId": "goal-2019-10-15-gibraltar-georgia-39297",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2019-10-15-gibraltar-georgia",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roy Chipolina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2022-09-23",
+      "goalId": "goal-2022-09-23-bulgaria-gibraltar-42774",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2022-09-23-bulgaria-gibraltar",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roy Chipolina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    }
+  ],
+  "normalizedScorer": "roy chipolina",
+  "playerKey": "roy-chipolina",
+  "scorer": "Roy Chipolina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus",
+    "gibraltar"
+  ]
+}

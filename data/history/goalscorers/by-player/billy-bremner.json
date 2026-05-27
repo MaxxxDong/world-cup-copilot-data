@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "1968-11-06",
+      "goalId": "goal-1968-11-06-scotland-austria-5289",
+      "homeTeamId": "scotland",
+      "matchKey": "1968-11-06-scotland-austria",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy Bremner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1974-11-20",
+      "goalId": "goal-1974-11-20-scotland-spain-7155",
+      "homeTeamId": "scotland",
+      "matchKey": "1974-11-20-scotland-spain",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy Bremner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "billy bremner",
+  "playerKey": "billy-bremner",
+  "scorer": "Billy Bremner",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

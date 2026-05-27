@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2022-06-14",
+      "goalId": "goal-2022-06-14-netherlands-wales-42727",
+      "homeTeamId": "netherlands",
+      "matchKey": "2022-06-14-netherlands-wales",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2023-06-14",
+      "goalId": "goal-2023-06-14-netherlands-croatia-43194",
+      "homeTeamId": "netherlands",
+      "matchKey": "2023-06-14-netherlands-croatia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-netherlands-malta-46411",
+      "homeTeamId": "netherlands",
+      "matchKey": "2025-06-10-netherlands-malta",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "noa lang",
+  "playerKey": "noa-lang",
+  "scorer": "Noa Lang",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "2003-06-07",
+      "goalId": "goal-2003-06-07-republic-of-ireland-albania-22701",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2003-06-07-republic-of-ireland-albania",
+      "minute": 90,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Adrian Aliaj",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "2004-09-04",
+      "goalId": "goal-2004-09-04-albania-greece-24263",
+      "homeTeamId": "albania",
+      "matchKey": "2004-09-04-albania-greece",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adrian Aliaj",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    }
+  ],
+  "normalizedScorer": "adrian aliaj",
+  "playerKey": "adrian-aliaj",
+  "scorer": "Adrian Aliaj",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania",
+    "republic-of-ireland"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1957-06-22",
+      "goalId": "goal-1957-06-22-canada-usa-2766",
+      "homeTeamId": "canada",
+      "matchKey": "1957-06-22-canada-usa",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Philley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1957-07-06",
+      "goalId": "goal-1957-07-06-usa-canada-2789",
+      "homeTeamId": "usa",
+      "matchKey": "1957-07-06-usa-canada",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Philley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "brian philley",
+  "playerKey": "brian-philley",
+  "scorer": "Brian Philley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "georgia",
+      "date": "2020-10-11",
+      "goalId": "goal-2020-10-11-armenia-georgia-39776",
+      "homeTeamId": "armenia",
+      "matchKey": "2020-10-11-armenia-georgia",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khoren Bayramyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-armenia-iceland-40243",
+      "homeTeamId": "armenia",
+      "matchKey": "2021-03-28-armenia-iceland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khoren Bayramyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    }
+  ],
+  "normalizedScorer": "khoren bayramyan",
+  "playerKey": "khoren-bayramyan",
+  "scorer": "Khoren Bayramyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "armenia"
+  ]
+}

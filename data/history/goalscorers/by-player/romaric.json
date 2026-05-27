@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "malawi",
+      "date": "2009-03-29",
+      "goalId": "goal-2009-03-29-civ-malawi-28953",
+      "homeTeamId": "civ",
+      "matchKey": "2009-03-29-civ-malawi",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romaric",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2009-06-07",
+      "goalId": "goal-2009-06-07-guinea-civ-29136",
+      "homeTeamId": "guinea",
+      "matchKey": "2009-06-07-guinea-civ",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romaric",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2010-06-25",
+      "goalId": "goal-2010-06-25-north-korea-civ-29974",
+      "homeTeamId": "north-korea",
+      "matchKey": "2010-06-25-north-korea-civ",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romaric",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "romaric",
+  "playerKey": "romaric",
+  "scorer": "Romaric",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "1989-10-17",
+      "goalId": "goal-1989-10-17-china-pr-united-arab-emirates-12376",
+      "homeTeamId": "china-pr",
+      "matchKey": "1989-10-17-china-pr-united-arab-emirates",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaleel Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "1989-10-24",
+      "goalId": "goal-1989-10-24-united-arab-emirates-qatar-12382",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "1989-10-24-united-arab-emirates-qatar",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaleel Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    }
+  ],
+  "normalizedScorer": "khaleel mubarak",
+  "playerKey": "khaleel-mubarak",
+  "scorer": "Khaleel Mubarak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "united-arab-emirates"
+  ]
+}

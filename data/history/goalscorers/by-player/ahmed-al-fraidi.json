@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-united-arab-emirates-saudi-arabia-28554",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2008-09-10-united-arab-emirates-saudi-arabia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al-Fraidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-saudi-arabia-thailand-31432",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2011-11-11-saudi-arabia-thailand",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al-Fraidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "ahmed al fraidi",
+  "playerKey": "ahmed-al-fraidi",
+  "scorer": "Ahmed Al-Fraidi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

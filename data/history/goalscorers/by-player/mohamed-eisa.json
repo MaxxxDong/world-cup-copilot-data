@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-sudan-togo-43913",
+      "homeTeamId": "sudan",
+      "matchKey": "2023-11-16-sudan-togo",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohamed Eisa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "south-sudan",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-sudan-south-sudan-46201",
+      "homeTeamId": "sudan",
+      "matchKey": "2025-03-25-sudan-south-sudan",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Eisa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "mohamed eisa",
+  "playerKey": "mohamed-eisa",
+  "scorer": "Mohamed Eisa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

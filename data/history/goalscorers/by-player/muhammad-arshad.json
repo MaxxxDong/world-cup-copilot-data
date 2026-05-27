@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lebanon",
+      "date": "2001-05-26",
+      "goalId": "goal-2001-05-26-pakistan-lebanon-21202",
+      "homeTeamId": "pakistan",
+      "matchKey": "2001-05-26-pakistan-lebanon",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhammad Arshad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "pakistan"
+    },
+    {
+      "awayTeamId": "pakistan",
+      "date": "2001-05-30",
+      "goalId": "goal-2001-05-30-sri-lanka-pakistan-21235",
+      "homeTeamId": "sri-lanka",
+      "matchKey": "2001-05-30-sri-lanka-pakistan",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhammad Arshad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "pakistan"
+    }
+  ],
+  "normalizedScorer": "muhammad arshad",
+  "playerKey": "muhammad-arshad",
+  "scorer": "Muhammad Arshad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "pakistan"
+  ]
+}

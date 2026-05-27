@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "china-pr",
+      "date": "1981-10-03",
+      "goalId": "goal-1981-10-03-new-zealand-china-pr-9460",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1981-10-03-new-zealand-china-pr",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricki Herbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "1981-11-28",
+      "goalId": "goal-1981-11-28-new-zealand-saudi-arabia-9609",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1981-11-28-new-zealand-saudi-arabia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricki Herbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "ricki herbert",
+  "playerKey": "ricki-herbert",
+  "scorer": "Ricki Herbert",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

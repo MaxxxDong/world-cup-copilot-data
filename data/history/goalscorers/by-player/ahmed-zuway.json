@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "libya",
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-togo-libya-31811",
+      "homeTeamId": "togo",
+      "matchKey": "2012-06-03-togo-libya",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Zuway",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-libya-cameroon-31920",
+      "homeTeamId": "libya",
+      "matchKey": "2012-06-10-libya-cameroon",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Zuway",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    }
+  ],
+  "normalizedScorer": "ahmed zuway",
+  "playerKey": "ahmed-zuway",
+  "scorer": "Ahmed Zuway",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "libya"
+  ]
+}

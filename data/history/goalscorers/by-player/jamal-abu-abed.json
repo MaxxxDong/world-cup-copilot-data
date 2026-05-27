@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "1985-03-29",
+      "goalId": "goal-1985-03-29-jordan-iraq-10620",
+      "homeTeamId": "jordan",
+      "matchKey": "1985-03-29-jordan-iraq",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamal Abu Abed",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "jordan",
+      "date": "1993-06-16",
+      "goalId": "goal-1993-06-16-china-pr-jordan-14233",
+      "homeTeamId": "china-pr",
+      "matchKey": "1993-06-16-china-pr-jordan",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamal Abu Abed",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "jamal abu abed",
+  "playerKey": "jamal-abu-abed",
+  "scorer": "Jamal Abu Abed",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

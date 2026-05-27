@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1949-06-02",
+      "goalId": "goal-1949-06-02-sweden-republic-of-ireland-1727",
+      "homeTeamId": "sweden",
+      "matchKey": "1949-06-02-sweden-republic-of-ireland",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nils Liedholm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1958-06-08",
+      "goalId": "goal-1958-06-08-sweden-mex-2962",
+      "homeTeamId": "sweden",
+      "matchKey": "1958-06-08-sweden-mex",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nils Liedholm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1958-06-29",
+      "goalId": "goal-1958-06-29-sweden-bra-3054",
+      "homeTeamId": "sweden",
+      "matchKey": "1958-06-29-sweden-bra",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nils Liedholm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "nils liedholm",
+  "playerKey": "nils-liedholm",
+  "scorer": "Nils Liedholm",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

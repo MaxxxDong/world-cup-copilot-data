@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "aruba",
+      "date": "1996-03-24",
+      "goalId": "goal-1996-03-24-dominican-republic-aruba-15852",
+      "homeTeamId": "dominican-republic",
+      "matchKey": "1996-03-24-dominican-republic-aruba",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raymond Davelaar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "aruba"
+    },
+    {
+      "awayTeamId": "dominican-republic",
+      "date": "1996-03-31",
+      "goalId": "goal-1996-03-31-aruba-dominican-republic-15863",
+      "homeTeamId": "aruba",
+      "matchKey": "1996-03-31-aruba-dominican-republic",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Raymond Davelaar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "aruba"
+    }
+  ],
+  "normalizedScorer": "raymond davelaar",
+  "playerKey": "raymond-davelaar",
+  "scorer": "Raymond Davelaar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "aruba"
+  ]
+}

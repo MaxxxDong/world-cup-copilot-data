@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "2018-07-06",
+      "goalId": "goal-2018-07-06-uruguay-fra-37689",
+      "homeTeamId": "uruguay",
+      "matchKey": "2018-07-06-uruguay-fra",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raphaël Varane",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2019-03-22",
+      "goalId": "goal-2019-03-22-moldova-fra-38217",
+      "homeTeamId": "moldova",
+      "matchKey": "2019-03-22-moldova-fra",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raphaël Varane",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-fra-moldova-39374",
+      "homeTeamId": "fra",
+      "matchKey": "2019-11-14-fra-moldova",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raphaël Varane",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "rapha l varane",
+  "playerKey": "rapha-l-varane",
+  "scorer": "Raphaël Varane",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

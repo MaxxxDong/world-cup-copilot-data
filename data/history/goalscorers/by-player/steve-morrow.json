@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1999-03-27",
+      "goalId": "goal-1999-03-27-northern-ireland-germany-18667",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1999-03-27-northern-ireland-germany",
+      "minute": 62,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Steve Morrow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "steve morrow",
+  "playerKey": "steve-morrow",
+  "scorer": "Steve Morrow",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

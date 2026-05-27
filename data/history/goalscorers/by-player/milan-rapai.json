@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "2002-06-08",
+      "goalId": "goal-2002-06-08-italy-croatia-22245",
+      "homeTeamId": "italy",
+      "matchKey": "2002-06-08-italy-croatia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Rapaić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2003-04-02",
+      "goalId": "goal-2003-04-02-croatia-andorra-22619",
+      "homeTeamId": "croatia",
+      "matchKey": "2003-04-02-croatia-andorra",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Milan Rapaić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2003-04-02",
+      "goalId": "goal-2003-04-02-croatia-andorra-22620",
+      "homeTeamId": "croatia",
+      "matchKey": "2003-04-02-croatia-andorra",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Rapaić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2004-06-17",
+      "goalId": "goal-2004-06-17-croatia-fra-23880",
+      "homeTeamId": "croatia",
+      "matchKey": "2004-06-17-croatia-fra",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Milan Rapaić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "milan rapai",
+  "playerKey": "milan-rapai",
+  "scorer": "Milan Rapaić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-slovakia-slovenia-37096",
+      "homeTeamId": "slovakia",
+      "matchKey": "2017-09-01-slovakia-slovenia",
+      "minute": 81,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Miha Mevlja",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2021-11-11",
+      "goalId": "goal-2021-11-11-slovakia-slovenia-41871",
+      "homeTeamId": "slovakia",
+      "matchKey": "2021-11-11-slovakia-slovenia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miha Mevlja",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    }
+  ],
+  "normalizedScorer": "miha mevlja",
+  "playerKey": "miha-mevlja",
+  "scorer": "Miha Mevlja",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "slovakia",
+    "slovenia"
+  ]
+}

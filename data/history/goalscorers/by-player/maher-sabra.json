@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lebanon",
+      "date": "2021-06-13",
+      "goalId": "goal-2021-06-13-south-korea-lebanon-40770",
+      "homeTeamId": "south-korea",
+      "matchKey": "2021-06-13-south-korea-lebanon",
+      "minute": 50,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Maher Sabra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-lebanon-iraq-42285",
+      "homeTeamId": "lebanon",
+      "matchKey": "2022-02-01-lebanon-iraq",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maher Sabra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "maher sabra",
+  "playerKey": "maher-sabra",
+  "scorer": "Maher Sabra",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon",
+    "south-korea"
+  ]
+}

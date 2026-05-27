@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1957-11-10",
+      "goalId": "goal-1957-11-10-yugoslavia-greece-2912",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1957-11-10-yugoslavia-greece",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dobrosav Krstić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "dobrosav krsti",
+  "playerKey": "dobrosav-krsti",
+  "scorer": "Dobrosav Krstić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

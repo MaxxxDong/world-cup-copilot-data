@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1971-11-21",
+      "goalId": "goal-1971-11-21-trinidad-and-tobago-honduras-6186",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1971-11-21-trinidad-and-tobago-honduras",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Douglas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1971-12-05",
+      "goalId": "goal-1971-12-05-trinidad-and-tobago-costa-rica-6234",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1971-12-05-trinidad-and-tobago-costa-rica",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Douglas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "anthony douglas",
+  "playerKey": "anthony-douglas",
+  "scorer": "Anthony Douglas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago"
+  ]
+}

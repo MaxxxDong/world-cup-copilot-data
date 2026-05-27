@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belarus",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-poland-belarus-20113",
+      "homeTeamId": "poland",
+      "matchKey": "2000-10-07-poland-belarus",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mikalay Ryndzyuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2000-10-11",
+      "goalId": "goal-2000-10-11-belarus-armenia-20165",
+      "homeTeamId": "belarus",
+      "matchKey": "2000-10-11-belarus-armenia",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mikalay Ryndzyuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    }
+  ],
+  "normalizedScorer": "mikalay ryndzyuk",
+  "playerKey": "mikalay-ryndzyuk",
+  "scorer": "Mikalay Ryndzyuk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belarus"
+  ]
+}

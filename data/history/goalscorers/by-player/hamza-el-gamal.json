@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "1994-03-28",
+      "goalId": "goal-1994-03-28-egypt-gabon-14761",
+      "homeTeamId": "egypt",
+      "matchKey": "1994-03-28-egypt-gabon",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hamza El-Gamal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "hamza el gamal",
+  "playerKey": "hamza-el-gamal",
+  "scorer": "Hamza El-Gamal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

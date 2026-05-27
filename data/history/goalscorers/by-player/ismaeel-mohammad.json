@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bhutan",
+      "date": "2015-09-03",
+      "goalId": "goal-2015-09-03-qatar-bhutan-34733",
+      "homeTeamId": "qatar",
+      "matchKey": "2015-09-03-qatar-bhutan",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismaeel Mohammad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-iran-qatar-45556",
+      "homeTeamId": "iran",
+      "matchKey": "2024-10-15-iran-qatar",
+      "minute": 90,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ismaeel Mohammad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "ismaeel mohammad",
+  "playerKey": "ismaeel-mohammad",
+  "scorer": "Ismaeel Mohammad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran",
+    "qatar"
+  ]
+}

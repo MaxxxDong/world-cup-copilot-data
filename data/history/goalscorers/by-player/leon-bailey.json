@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "2022-03-30",
+      "goalId": "goal-2022-03-30-jamaica-honduras-42456",
+      "homeTeamId": "jamaica",
+      "matchKey": "2022-03-30-jamaica-honduras",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Leon Bailey",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2023-06-28",
+      "goalId": "goal-2023-06-28-jamaica-trinidad-and-tobago-43356",
+      "homeTeamId": "jamaica",
+      "matchKey": "2023-06-28-jamaica-trinidad-and-tobago",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leon Bailey",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "guadeloupe",
+      "date": "2025-06-20",
+      "goalId": "goal-2025-06-20-jamaica-guadeloupe-46493",
+      "homeTeamId": "jamaica",
+      "matchKey": "2025-06-20-jamaica-guadeloupe",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leon Bailey",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "leon bailey",
+  "playerKey": "leon-bailey",
+  "scorer": "Leon Bailey",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-ecuador-chile-32269",
+      "homeTeamId": "ecuador",
+      "matchKey": "2012-10-12-ecuador-chile",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Segundo Castillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-venezuela-ecuador-32454",
+      "homeTeamId": "venezuela",
+      "matchKey": "2012-10-16-venezuela-ecuador",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Segundo Castillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "2013-06-11",
+      "goalId": "goal-2013-06-11-ecuador-arg-32872",
+      "homeTeamId": "ecuador",
+      "matchKey": "2013-06-11-ecuador-arg",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Segundo Castillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "segundo castillo",
+  "playerKey": "segundo-castillo",
+  "scorer": "Segundo Castillo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

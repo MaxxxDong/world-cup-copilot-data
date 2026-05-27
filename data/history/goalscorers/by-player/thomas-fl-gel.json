@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-liechtenstein-austria-20101",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2000-10-07-liechtenstein-austria",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Flögel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2001-04-25",
+      "goalId": "goal-2001-04-25-austria-liechtenstein-20951",
+      "homeTeamId": "austria",
+      "matchKey": "2001-04-25-austria-liechtenstein",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Flögel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "thomas fl gel",
+  "playerKey": "thomas-fl-gel",
+  "scorer": "Thomas Flögel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

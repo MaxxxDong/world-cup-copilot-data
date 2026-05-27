@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1989-07-03",
+      "goalId": "goal-1989-07-03-venezuela-colombia-12162",
+      "homeTeamId": "venezuela",
+      "matchKey": "1989-07-03-venezuela-colombia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "René Higuita",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1995-07-13",
+      "goalId": "goal-1995-07-13-bra-colombia-15444",
+      "homeTeamId": "bra",
+      "matchKey": "1995-07-13-bra-colombia",
+      "minute": 85,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "René Higuita",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "ren higuita",
+  "playerKey": "ren-higuita",
+  "scorer": "René Higuita",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra",
+    "colombia"
+  ]
+}

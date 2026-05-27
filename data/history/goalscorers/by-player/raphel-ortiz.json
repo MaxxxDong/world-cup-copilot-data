@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "puerto-rico",
+      "date": "2000-03-11",
+      "goalId": "goal-2000-03-11-aruba-puerto-rico-19375",
+      "homeTeamId": "aruba",
+      "matchKey": "2000-03-11-aruba-puerto-rico",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raphel Ortiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "puerto-rico"
+    },
+    {
+      "awayTeamId": "aruba",
+      "date": "2000-03-18",
+      "goalId": "goal-2000-03-18-puerto-rico-aruba-19392",
+      "homeTeamId": "puerto-rico",
+      "matchKey": "2000-03-18-puerto-rico-aruba",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raphel Ortiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "puerto-rico"
+    }
+  ],
+  "normalizedScorer": "raphel ortiz",
+  "playerKey": "raphel-ortiz",
+  "scorer": "Raphel Ortiz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "puerto-rico"
+  ]
+}

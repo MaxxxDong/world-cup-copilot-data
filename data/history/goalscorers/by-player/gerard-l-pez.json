@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "2000-09-02",
+      "goalId": "goal-2000-09-02-bosnia-and-herzegovina-spain-19985",
+      "homeTeamId": "bosnia-and-herzegovina",
+      "matchKey": "2000-09-02-bosnia-and-herzegovina-spain",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard López",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-spain-israel-20120",
+      "homeTeamId": "spain",
+      "matchKey": "2000-10-07-spain-israel",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard López",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "gerard l pez",
+  "playerKey": "gerard-l-pez",
+  "scorer": "Gerard López",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

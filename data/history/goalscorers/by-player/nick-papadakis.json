@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-10-06",
+      "goalId": "goal-1968-10-06-canada-bermuda-5232",
+      "homeTeamId": "canada",
+      "matchKey": "1968-10-06-canada-bermuda",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nick Papadakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-10-06",
+      "goalId": "goal-1968-10-06-canada-bermuda-5233",
+      "homeTeamId": "canada",
+      "matchKey": "1968-10-06-canada-bermuda",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nick Papadakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "nick papadakis",
+  "playerKey": "nick-papadakis",
+  "scorer": "Nick Papadakis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

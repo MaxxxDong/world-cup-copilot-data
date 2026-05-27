@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2021-11-12",
+      "goalId": "goal-2021-11-12-el-salvador-jamaica-41909",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2021-11-12-el-salvador-jamaica",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michail Antonio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-jamaica-usa-42104",
+      "homeTeamId": "jamaica",
+      "matchKey": "2021-11-16-jamaica-usa",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michail Antonio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2022-01-30",
+      "goalId": "goal-2022-01-30-panama-jamaica-42262",
+      "homeTeamId": "panama",
+      "matchKey": "2022-01-30-panama-jamaica",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Michail Antonio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2024-06-26",
+      "goalId": "goal-2024-06-26-ecuador-jamaica-45064",
+      "homeTeamId": "ecuador",
+      "matchKey": "2024-06-26-ecuador-jamaica",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michail Antonio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "michail antonio",
+  "playerKey": "michail-antonio",
+  "scorer": "Michail Antonio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

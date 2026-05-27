@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "thailand",
+      "date": "1989-03-08",
+      "goalId": "goal-1989-03-08-bangladesh-thailand-11925",
+      "homeTeamId": "bangladesh",
+      "matchKey": "1989-03-08-bangladesh-thailand",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sabbir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bangladesh"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "1993-05-05",
+      "goalId": "goal-1993-05-05-bangladesh-thailand-13994",
+      "homeTeamId": "bangladesh",
+      "matchKey": "1993-05-05-bangladesh-thailand",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sabbir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bangladesh"
+    }
+  ],
+  "normalizedScorer": "sabbir",
+  "playerKey": "sabbir",
+  "scorer": "Sabbir",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bangladesh"
+  ]
+}

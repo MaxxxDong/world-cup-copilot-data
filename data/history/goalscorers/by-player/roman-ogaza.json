@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1978-11-15",
+      "goalId": "goal-1978-11-15-poland-switzerland-8422",
+      "homeTeamId": "poland",
+      "matchKey": "1978-11-15-poland-switzerland",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Ogaza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1979-10-10",
+      "goalId": "goal-1979-10-10-poland-iceland-8582",
+      "homeTeamId": "poland",
+      "matchKey": "1979-10-10-poland-iceland",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Ogaza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1979-10-10",
+      "goalId": "goal-1979-10-10-poland-iceland-8583",
+      "homeTeamId": "poland",
+      "matchKey": "1979-10-10-poland-iceland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roman Ogaza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "roman ogaza",
+  "playerKey": "roman-ogaza",
+  "scorer": "Roman Ogaza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

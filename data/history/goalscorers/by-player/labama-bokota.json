@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "mauritania",
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-rwanda-mauritania-27767",
+      "homeTeamId": "rwanda",
+      "matchKey": "2008-05-31-rwanda-mauritania",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Labama Bokota",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-rwanda-mar-27999",
+      "homeTeamId": "rwanda",
+      "matchKey": "2008-06-14-rwanda-mar",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Labama Bokota",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    },
+    {
+      "awayTeamId": "eritrea",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-rwanda-eritrea-31561",
+      "homeTeamId": "rwanda",
+      "matchKey": "2011-11-15-rwanda-eritrea",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Labama Bokota",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    },
+    {
+      "awayTeamId": "benin",
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-rwanda-benin-31931",
+      "homeTeamId": "rwanda",
+      "matchKey": "2012-06-10-rwanda-benin",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Labama Bokota",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    }
+  ],
+  "normalizedScorer": "labama bokota",
+  "playerKey": "labama-bokota",
+  "scorer": "Labama Bokota",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rwanda"
+  ]
+}

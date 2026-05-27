@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2004-07-13",
+      "goalId": "goal-2004-07-13-arg-uruguay-24094",
+      "homeTeamId": "arg",
+      "matchKey": "2004-07-13-arg-uruguay",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fabián Estoyanoff",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2004-07-24",
+      "goalId": "goal-2004-07-24-colombia-uruguay-24162",
+      "homeTeamId": "colombia",
+      "matchKey": "2004-07-24-colombia-uruguay",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fabián Estoyanoff",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "fabi n estoyanoff",
+  "playerKey": "fabi-n-estoyanoff",
+  "scorer": "Fabián Estoyanoff",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

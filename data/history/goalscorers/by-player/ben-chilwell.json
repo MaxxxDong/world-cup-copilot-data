@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-andorra-england-41570",
+      "homeTeamId": "andorra",
+      "matchKey": "2021-10-09-andorra-england",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ben Chilwell",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "ben chilwell",
+  "playerKey": "ben-chilwell",
+  "scorer": "Ben Chilwell",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1974-12-01",
+      "goalId": "goal-1974-12-01-turkey-switzerland-7166",
+      "homeTeamId": "turkey",
+      "matchKey": "1974-12-01-turkey-switzerland",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "İsmail Arca",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1975-04-30",
+      "goalId": "goal-1975-04-30-switzerland-turkey-7204",
+      "homeTeamId": "switzerland",
+      "matchKey": "1975-04-30-switzerland-turkey",
+      "minute": 43,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "İsmail Arca",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "i smail arca",
+  "playerKey": "i-smail-arca",
+  "scorer": "İsmail Arca",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland",
+    "turkey"
+  ]
+}

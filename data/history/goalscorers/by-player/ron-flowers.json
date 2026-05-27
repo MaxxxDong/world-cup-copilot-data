@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1961-05-21",
+      "goalId": "goal-1961-05-21-portugal-england-3504",
+      "homeTeamId": "portugal",
+      "matchKey": "1961-05-21-portugal-england",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ron Flowers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1962-05-31",
+      "goalId": "goal-1962-05-31-england-hungary-3675",
+      "homeTeamId": "england",
+      "matchKey": "1962-05-31-england-hungary",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ron Flowers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1962-06-02",
+      "goalId": "goal-1962-06-02-arg-england-3679",
+      "homeTeamId": "arg",
+      "matchKey": "1962-06-02-arg-england",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ron Flowers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1962-10-03",
+      "goalId": "goal-1962-10-03-england-fra-3770",
+      "homeTeamId": "england",
+      "matchKey": "1962-10-03-england-fra",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ron Flowers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "ron flowers",
+  "playerKey": "ron-flowers",
+  "scorer": "Ron Flowers",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

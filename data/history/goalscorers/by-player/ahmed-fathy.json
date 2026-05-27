@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "2008-02-07",
+      "goalId": "goal-2008-02-07-civ-egypt-27679",
+      "homeTeamId": "civ",
+      "matchKey": "2008-02-07-civ-egypt",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Fathy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "2018-06-19",
+      "goalId": "goal-2018-06-19-russia-egypt-37578",
+      "homeTeamId": "russia",
+      "matchKey": "2018-06-19-russia-egypt",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ahmed Fathy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "ahmed fathy",
+  "playerKey": "ahmed-fathy",
+  "scorer": "Ahmed Fathy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt",
+    "russia"
+  ]
+}

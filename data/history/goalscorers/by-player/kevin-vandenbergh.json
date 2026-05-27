@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2005-09-07",
+      "goalId": "goal-2005-09-07-belgium-san-marino-25742",
+      "homeTeamId": "belgium",
+      "matchKey": "2005-09-07-belgium-san-marino",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kevin Vandenbergh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-belgium-azerbaijan-26439",
+      "homeTeamId": "belgium",
+      "matchKey": "2006-10-11-belgium-azerbaijan",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kevin Vandenbergh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "kevin vandenbergh",
+  "playerKey": "kevin-vandenbergh",
+  "scorer": "Kevin Vandenbergh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

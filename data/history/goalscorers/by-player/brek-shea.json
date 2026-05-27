@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2013-07-16",
+      "goalId": "goal-2013-07-16-usa-costa-rica-33058",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-16-usa-costa-rica",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brek Shea",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2013-07-28",
+      "goalId": "goal-2013-07-28-usa-panama-33081",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-28-usa-panama",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brek Shea",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "brek shea",
+  "playerKey": "brek-shea",
+  "scorer": "Brek Shea",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

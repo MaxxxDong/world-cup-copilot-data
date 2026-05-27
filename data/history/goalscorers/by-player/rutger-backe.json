@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1979-09-05",
+      "goalId": "goal-1979-09-05-sweden-fra-8553",
+      "homeTeamId": "sweden",
+      "matchKey": "1979-09-05-sweden-fra",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rutger Backe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "rutger backe",
+  "playerKey": "rutger-backe",
+  "scorer": "Rutger Backe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

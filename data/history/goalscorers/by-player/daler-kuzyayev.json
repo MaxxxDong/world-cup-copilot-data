@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-san-marino-russia-39589",
+      "homeTeamId": "san-marino",
+      "matchKey": "2019-11-19-san-marino-russia",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daler Kuzyayev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2020-11-15",
+      "goalId": "goal-2020-11-15-turkey-russia-39971",
+      "homeTeamId": "turkey",
+      "matchKey": "2020-11-15-turkey-russia",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daler Kuzyayev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "daler kuzyayev",
+  "playerKey": "daler-kuzyayev",
+  "scorer": "Daler Kuzyayev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

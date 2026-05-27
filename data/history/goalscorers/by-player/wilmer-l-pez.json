@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1996-12-01",
+      "goalId": "goal-1996-12-01-costa-rica-usa-16574",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1996-12-01-costa-rica-usa",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilmer López",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1998-02-04",
+      "goalId": "goal-1998-02-04-cuba-costa-rica-18066",
+      "homeTeamId": "cuba",
+      "matchKey": "1998-02-04-cuba-costa-rica",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Wilmer López",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "wilmer l pez",
+  "playerKey": "wilmer-l-pez",
+  "scorer": "Wilmer López",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

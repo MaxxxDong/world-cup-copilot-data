@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1966-11-16",
+      "goalId": "goal-1966-11-16-scotland-northern-ireland-4761",
+      "homeTeamId": "scotland",
+      "matchKey": "1966-11-16-scotland-northern-ireland",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bobby Lennox",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1967-04-15",
+      "goalId": "goal-1967-04-15-england-scotland-4902",
+      "homeTeamId": "england",
+      "matchKey": "1967-04-15-england-scotland",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bobby Lennox",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "bobby lennox",
+  "playerKey": "bobby-lennox",
+  "scorer": "Bobby Lennox",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

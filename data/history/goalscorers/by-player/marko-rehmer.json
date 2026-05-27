@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-greece-germany-20651",
+      "homeTeamId": "greece",
+      "matchKey": "2001-03-28-greece-germany",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marko Rehmer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2001-06-06",
+      "goalId": "goal-2001-06-06-albania-germany-21347",
+      "homeTeamId": "albania",
+      "matchKey": "2001-06-06-albania-germany",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marko Rehmer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "ukraine",
+      "date": "2001-11-14",
+      "goalId": "goal-2001-11-14-germany-ukraine-22070",
+      "homeTeamId": "germany",
+      "matchKey": "2001-11-14-germany-ukraine",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marko Rehmer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "marko rehmer",
+  "playerKey": "marko-rehmer",
+  "scorer": "Marko Rehmer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

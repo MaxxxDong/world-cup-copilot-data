@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1957-09-01",
+      "goalId": "goal-1957-09-01-iceland-fra-2824",
+      "homeTeamId": "iceland",
+      "matchKey": "1957-09-01-iceland-fra",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Þórður Jónsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1957-09-04",
+      "goalId": "goal-1957-09-04-iceland-belgium-2830",
+      "homeTeamId": "iceland",
+      "matchKey": "1957-09-04-iceland-belgium",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Þórður Jónsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    }
+  ],
+  "normalizedScorer": "r ur j nsson",
+  "playerKey": "r-ur-j-nsson",
+  "scorer": "Þórður Jónsson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iceland"
+  ]
+}

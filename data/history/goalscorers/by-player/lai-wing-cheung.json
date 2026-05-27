@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "brunei",
+      "date": "1985-02-23",
+      "goalId": "goal-1985-02-23-hong-kong-brunei-10521",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1985-02-23-hong-kong-brunei",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lai Wing-Cheung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1985-04-06",
+      "goalId": "goal-1985-04-06-brunei-hong-kong-10660",
+      "homeTeamId": "brunei",
+      "matchKey": "1985-04-06-brunei-hong-kong",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lai Wing-Cheung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    }
+  ],
+  "normalizedScorer": "lai wing cheung",
+  "playerKey": "lai-wing-cheung",
+  "scorer": "Lai Wing-Cheung",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hong-kong"
+  ]
+}

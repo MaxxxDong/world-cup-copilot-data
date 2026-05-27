@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1962-11-11",
+      "goalId": "goal-1962-11-11-netherlands-switzerland-3796",
+      "homeTeamId": "netherlands",
+      "matchKey": "1962-11-11-netherlands-switzerland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sjaak Swart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1966-11-30",
+      "goalId": "goal-1966-11-30-netherlands-denmark-4776",
+      "homeTeamId": "netherlands",
+      "matchKey": "1966-11-30-netherlands-denmark",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sjaak Swart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "sjaak swart",
+  "playerKey": "sjaak-swart",
+  "scorer": "Sjaak Swart",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

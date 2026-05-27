@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "civ",
+      "date": "1977-07-10",
+      "goalId": "goal-1977-07-10-nigeria-civ-7925",
+      "homeTeamId": "nigeria",
+      "matchKey": "1977-07-10-nigeria-civ",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Godwin Iwelumo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1977-10-21",
+      "goalId": "goal-1977-10-21-egypt-nigeria-8058",
+      "homeTeamId": "egypt",
+      "matchKey": "1977-10-21-egypt-nigeria",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Godwin Iwelumo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "godwin iwelumo",
+  "playerKey": "godwin-iwelumo",
+  "scorer": "Godwin Iwelumo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

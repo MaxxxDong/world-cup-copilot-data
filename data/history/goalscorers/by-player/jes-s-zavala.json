@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2012-06-12",
+      "goalId": "goal-2012-06-12-el-salvador-mex-31958",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2012-06-12-el-salvador-mex",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesús Zavala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-costa-rica-mex-32054",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2012-09-07-costa-rica-mex",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesús Zavala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "jes s zavala",
+  "playerKey": "jes-s-zavala",
+  "scorer": "Jesús Zavala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

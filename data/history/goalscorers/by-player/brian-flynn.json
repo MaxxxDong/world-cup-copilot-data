@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1978-10-25",
+      "goalId": "goal-1978-10-25-wales-malta-8409",
+      "homeTeamId": "wales",
+      "matchKey": "1978-10-25-wales-malta",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Flynn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1979-06-02",
+      "goalId": "goal-1979-06-02-malta-wales-8484",
+      "homeTeamId": "malta",
+      "matchKey": "1979-06-02-malta-wales",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Flynn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1980-06-02",
+      "goalId": "goal-1980-06-02-iceland-wales-8848",
+      "homeTeamId": "iceland",
+      "matchKey": "1980-06-02-iceland-wales",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brian Flynn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1980-10-15",
+      "goalId": "goal-1980-10-15-wales-turkey-9052",
+      "homeTeamId": "wales",
+      "matchKey": "1980-10-15-wales-turkey",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Flynn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1982-12-15",
+      "goalId": "goal-1982-12-15-yugoslavia-wales-9916",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1982-12-15-yugoslavia-wales",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Flynn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "brian flynn",
+  "playerKey": "brian-flynn",
+  "scorer": "Brian Flynn",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

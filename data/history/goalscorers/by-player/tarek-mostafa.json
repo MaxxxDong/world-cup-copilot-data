@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1998-02-28",
+      "goalId": "goal-1998-02-28-rsa-egypt-18193",
+      "homeTeamId": "rsa",
+      "matchKey": "1998-02-28-rsa-egypt",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tarek Mostafa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "tarek mostafa",
+  "playerKey": "tarek-mostafa",
+  "scorer": "Tarek Mostafa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

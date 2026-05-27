@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1993-06-05",
+      "goalId": "goal-1993-06-05-south-korea-hong-kong-14175",
+      "homeTeamId": "south-korea",
+      "matchKey": "1993-06-05-south-korea-hong-kong",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noh Jung-yoon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2000-10-13",
+      "goalId": "goal-2000-10-13-south-korea-china-pr-20205",
+      "homeTeamId": "south-korea",
+      "matchKey": "2000-10-13-south-korea-china-pr",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noh Jung-yoon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "noh jung yoon",
+  "playerKey": "noh-jung-yoon",
+  "scorer": "Noh Jung-yoon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

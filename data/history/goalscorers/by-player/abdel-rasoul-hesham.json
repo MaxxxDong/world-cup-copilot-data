@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1989-01-21",
+      "goalId": "goal-1989-01-21-malawi-egypt-11850",
+      "homeTeamId": "malawi",
+      "matchKey": "1989-01-21-malawi-egypt",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdel Rasoul Hesham",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "malawi",
+      "date": "1989-08-12",
+      "goalId": "goal-1989-08-12-egypt-malawi-12227",
+      "homeTeamId": "egypt",
+      "matchKey": "1989-08-12-egypt-malawi",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdel Rasoul Hesham",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "kenya",
+      "date": "1989-08-26",
+      "goalId": "goal-1989-08-26-egypt-kenya-12257",
+      "homeTeamId": "egypt",
+      "matchKey": "1989-08-26-egypt-kenya",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdel Rasoul Hesham",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "abdel rasoul hesham",
+  "playerKey": "abdel-rasoul-hesham",
+  "scorer": "Abdel Rasoul Hesham",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

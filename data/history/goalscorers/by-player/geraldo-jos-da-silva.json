@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1959-12-19",
+      "goalId": "goal-1959-12-19-ecuador-bra-3253",
+      "homeTeamId": "ecuador",
+      "matchKey": "1959-12-19-ecuador-bra",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Geraldo José da Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1959-12-22",
+      "goalId": "goal-1959-12-22-arg-bra-3257",
+      "homeTeamId": "arg",
+      "matchKey": "1959-12-22-arg-bra",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Geraldo José da Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "geraldo jos da silva",
+  "playerKey": "geraldo-jos-da-silva",
+  "scorer": "Geraldo José da Silva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

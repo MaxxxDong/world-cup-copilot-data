@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2001-04-08",
+      "goalId": "goal-2001-04-08-india-united-arab-emirates-20724",
+      "homeTeamId": "india",
+      "matchKey": "2001-04-08-india-united-arab-emirates",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jules Alberto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    },
+    {
+      "awayTeamId": "brunei",
+      "date": "2001-05-20",
+      "goalId": "goal-2001-05-20-india-brunei-21191",
+      "homeTeamId": "india",
+      "matchKey": "2001-05-20-india-brunei",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jules Alberto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    }
+  ],
+  "normalizedScorer": "jules alberto",
+  "playerKey": "jules-alberto",
+  "scorer": "Jules Alberto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "india"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1968-02-24",
+      "goalId": "goal-1968-02-24-scotland-england-5138",
+      "homeTeamId": "scotland",
+      "matchKey": "1968-02-24-scotland-england",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Hughes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "john hughes",
+  "playerKey": "john-hughes",
+  "scorer": "John Hughes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

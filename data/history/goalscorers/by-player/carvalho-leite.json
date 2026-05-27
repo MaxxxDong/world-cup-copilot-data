@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1937-01-03",
+      "goalId": "goal-1937-01-03-bra-chile-911",
+      "homeTeamId": "bra",
+      "matchKey": "1937-01-03-bra-chile",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carvalho Leite",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1937-01-13",
+      "goalId": "goal-1937-01-13-bra-paraguay-939",
+      "homeTeamId": "bra",
+      "matchKey": "1937-01-13-bra-paraguay",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carvalho Leite",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1937-01-19",
+      "goalId": "goal-1937-01-19-bra-uruguay-948",
+      "homeTeamId": "bra",
+      "matchKey": "1937-01-19-bra-uruguay",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carvalho Leite",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "carvalho leite",
+  "playerKey": "carvalho-leite",
+  "scorer": "Carvalho Leite",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

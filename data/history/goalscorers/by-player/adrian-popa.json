@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montenegro",
+      "date": "2016-09-04",
+      "goalId": "goal-2016-09-04-romania-montenegro-36033",
+      "homeTeamId": "romania",
+      "matchKey": "2016-09-04-romania-montenegro",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adrian Popa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "2016-10-08",
+      "goalId": "goal-2016-10-08-armenia-romania-36240",
+      "homeTeamId": "armenia",
+      "matchKey": "2016-10-08-armenia-romania",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adrian Popa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "adrian popa",
+  "playerKey": "adrian-popa",
+  "scorer": "Adrian Popa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

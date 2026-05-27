@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1957-03-13",
+      "goalId": "goal-1957-03-13-arg-colombia-2556",
+      "homeTeamId": "arg",
+      "matchKey": "1957-03-13-arg-colombia",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Delio \"Maravilla\" Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1957-04-01",
+      "goalId": "goal-1957-04-01-colombia-ecuador-2643",
+      "homeTeamId": "colombia",
+      "matchKey": "1957-04-01-colombia-ecuador",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio \"Maravilla\" Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1957-04-01",
+      "goalId": "goal-1957-04-01-colombia-ecuador-2645",
+      "homeTeamId": "colombia",
+      "matchKey": "1957-04-01-colombia-ecuador",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio \"Maravilla\" Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "delio maravilla gamboa",
+  "playerKey": "delio-maravilla-gamboa",
+  "scorer": "Delio \"Maravilla\" Gamboa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

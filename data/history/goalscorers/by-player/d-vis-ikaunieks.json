@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "andorra",
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-latvia-andorra-37468",
+      "homeTeamId": "latvia",
+      "matchKey": "2017-10-10-latvia-andorra",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dāvis Ikaunieks",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-turkey-latvia-40377",
+      "homeTeamId": "turkey",
+      "matchKey": "2021-03-30-turkey-latvia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dāvis Ikaunieks",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2021-06-10",
+      "goalId": "goal-2021-06-10-estonia-latvia-40691",
+      "homeTeamId": "estonia",
+      "matchKey": "2021-06-10-estonia-latvia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Dāvis Ikaunieks",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    }
+  ],
+  "normalizedScorer": "d vis ikaunieks",
+  "playerKey": "d-vis-ikaunieks",
+  "scorer": "Dāvis Ikaunieks",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "latvia"
+  ]
+}

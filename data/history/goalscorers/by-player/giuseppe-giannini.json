@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1987-12-05",
+      "goalId": "goal-1987-12-05-italy-portugal-11581",
+      "homeTeamId": "italy",
+      "matchKey": "1987-12-05-italy-portugal",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giuseppe Giannini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "1990-06-14",
+      "goalId": "goal-1990-06-14-italy-usa-12505",
+      "homeTeamId": "italy",
+      "matchKey": "1990-06-14-italy-usa",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giuseppe Giannini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "giuseppe giannini",
+  "playerKey": "giuseppe-giannini",
+  "scorer": "Giuseppe Giannini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

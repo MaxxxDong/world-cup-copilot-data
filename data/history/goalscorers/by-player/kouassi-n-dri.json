@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gambia",
+      "date": "1984-10-21",
+      "goalId": "goal-1984-10-21-civ-gambia-10383",
+      "homeTeamId": "civ",
+      "matchKey": "1984-10-21-civ-gambia",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouassi N'Dri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "mozambique",
+      "date": "1986-03-07",
+      "goalId": "goal-1986-03-07-civ-mozambique-11116",
+      "homeTeamId": "civ",
+      "matchKey": "1986-03-07-civ-mozambique",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouassi N'Dri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "kouassi n dri",
+  "playerKey": "kouassi-n-dri",
+  "scorer": "Kouassi N'Dri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

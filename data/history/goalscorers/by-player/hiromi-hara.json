@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "1985-03-21",
+      "goalId": "goal-1985-03-21-japan-north-korea-10602",
+      "homeTeamId": "japan",
+      "matchKey": "1985-03-21-japan-north-korea",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hiromi Hara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "singapore",
+      "date": "1985-05-18",
+      "goalId": "goal-1985-05-18-japan-singapore-10801",
+      "homeTeamId": "japan",
+      "matchKey": "1985-05-18-japan-singapore",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hiromi Hara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1985-08-11",
+      "goalId": "goal-1985-08-11-japan-hong-kong-10908",
+      "homeTeamId": "japan",
+      "matchKey": "1985-08-11-japan-hong-kong",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hiromi Hara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1985-09-22",
+      "goalId": "goal-1985-09-22-hong-kong-japan-10951",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1985-09-22-hong-kong-japan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hiromi Hara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "hiromi hara",
+  "playerKey": "hiromi-hara",
+  "scorer": "Hiromi Hara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

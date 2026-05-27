@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "2017-03-23",
+      "goalId": "goal-2017-03-23-united-arab-emirates-japan-36633",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2017-03-23-united-arab-emirates-japan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuya Kubo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "2017-03-28",
+      "goalId": "goal-2017-03-28-japan-thailand-36741",
+      "homeTeamId": "japan",
+      "matchKey": "2017-03-28-japan-thailand",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuya Kubo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "yuya kubo",
+  "playerKey": "yuya-kubo",
+  "scorer": "Yuya Kubo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

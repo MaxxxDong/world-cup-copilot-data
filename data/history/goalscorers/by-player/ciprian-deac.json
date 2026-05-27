@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "2017-10-08",
+      "goalId": "goal-2017-10-08-denmark-romania-37394",
+      "homeTeamId": "denmark",
+      "matchKey": "2017-10-08-denmark-romania",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ciprian Deac",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2019-03-26",
+      "goalId": "goal-2019-03-26-romania-faroe-islands-38315",
+      "homeTeamId": "romania",
+      "matchKey": "2019-03-26-romania-faroe-islands",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ciprian Deac",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "ciprian deac",
+  "playerKey": "ciprian-deac",
+  "scorer": "Ciprian Deac",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chad",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-egypt-chad-35459",
+      "homeTeamId": "egypt",
+      "matchKey": "2015-11-17-egypt-chad",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Elneny",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "2017-02-05",
+      "goalId": "goal-2017-02-05-egypt-cameroon-36613",
+      "homeTeamId": "egypt",
+      "matchKey": "2017-02-05-egypt-cameroon",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Elneny",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "2021-11-12",
+      "goalId": "goal-2021-11-12-angola-egypt-41890",
+      "homeTeamId": "angola",
+      "matchKey": "2021-11-12-angola-egypt",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Elneny",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "mohamed elneny",
+  "playerKey": "mohamed-elneny",
+  "scorer": "Mohamed Elneny",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

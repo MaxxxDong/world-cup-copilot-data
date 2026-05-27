@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yemen",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-philippines-yemen-35323",
+      "homeTeamId": "philippines",
+      "matchKey": "2015-11-12-philippines-yemen",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al-Sarori",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-yemen-uzbekistan-35543",
+      "homeTeamId": "yemen",
+      "matchKey": "2015-11-17-yemen-uzbekistan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al-Sarori",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    }
+  ],
+  "normalizedScorer": "ahmed al sarori",
+  "playerKey": "ahmed-al-sarori",
+  "scorer": "Ahmed Al-Sarori",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yemen"
+  ]
+}

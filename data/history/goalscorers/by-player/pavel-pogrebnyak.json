@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-russia-estonia-26478",
+      "homeTeamId": "russia",
+      "matchKey": "2006-10-11-russia-estonia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pavel Pogrebnyak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-russia-wales-28532",
+      "homeTeamId": "russia",
+      "matchKey": "2008-09-10-russia-wales",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pavel Pogrebnyak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2010-09-03",
+      "goalId": "goal-2010-09-03-andorra-russia-30027",
+      "homeTeamId": "andorra",
+      "matchKey": "2010-09-03-andorra-russia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pavel Pogrebnyak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2010-09-03",
+      "goalId": "goal-2010-09-03-andorra-russia-30028",
+      "homeTeamId": "andorra",
+      "matchKey": "2010-09-03-andorra-russia",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pavel Pogrebnyak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "pavel pogrebnyak",
+  "playerKey": "pavel-pogrebnyak",
+  "scorer": "Pavel Pogrebnyak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

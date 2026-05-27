@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1968-12-11",
+      "goalId": "goal-1968-12-11-greece-portugal-5355",
+      "homeTeamId": "greece",
+      "matchKey": "1968-12-11-greece-portugal",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Dedes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1969-04-16",
+      "goalId": "goal-1969-04-16-greece-romania-5413",
+      "homeTeamId": "greece",
+      "matchKey": "1969-04-16-greece-romania",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Dedes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "giorgos dedes",
+  "playerKey": "giorgos-dedes",
+  "scorer": "Giorgos Dedes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

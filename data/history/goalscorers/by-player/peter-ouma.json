@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "1972-02-28",
+      "goalId": "goal-1972-02-28-kenya-togo-6261",
+      "homeTeamId": "kenya",
+      "matchKey": "1972-02-28-kenya-togo",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Ouma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kenya"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "1973-08-19",
+      "goalId": "goal-1973-08-19-kenya-zambia-6785",
+      "homeTeamId": "kenya",
+      "matchKey": "1973-08-19-kenya-zambia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Ouma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kenya"
+    }
+  ],
+  "normalizedScorer": "peter ouma",
+  "playerKey": "peter-ouma",
+  "scorer": "Peter Ouma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kenya"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2020-09-05",
+      "goalId": "goal-2020-09-05-gibraltar-san-marino-39656",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2020-09-05-gibraltar-san-marino",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Graeme Torrilla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2022-06-12",
+      "goalId": "goal-2022-06-12-north-macedonia-gibraltar-42665",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2022-06-12-north-macedonia-gibraltar",
+      "minute": 14,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Graeme Torrilla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "graeme torrilla",
+  "playerKey": "graeme-torrilla",
+  "scorer": "Graeme Torrilla",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gibraltar",
+    "north-macedonia"
+  ]
+}

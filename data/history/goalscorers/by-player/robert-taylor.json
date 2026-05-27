@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2020-10-11",
+      "goalId": "goal-2020-10-11-finland-bulgaria-39792",
+      "homeTeamId": "finland",
+      "matchKey": "2020-10-11-finland-bulgaria",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Taylor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-finland-kazakhstan-43755",
+      "homeTeamId": "finland",
+      "matchKey": "2023-10-17-finland-kazakhstan",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Taylor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "robert taylor",
+  "playerKey": "robert-taylor",
+  "scorer": "Robert Taylor",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1971-11-26",
+      "goalId": "goal-1971-11-26-trinidad-and-tobago-mex-6202",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1971-11-26-trinidad-and-tobago-mex",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roberto Rodríguez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1971-11-28",
+      "goalId": "goal-1971-11-28-cuba-mex-6206",
+      "homeTeamId": "cuba",
+      "matchKey": "1971-11-28-cuba-mex",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roberto Rodríguez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1971-12-02",
+      "goalId": "goal-1971-12-02-costa-rica-mex-6224",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1971-12-02-costa-rica-mex",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Rodríguez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "roberto rodr guez",
+  "playerKey": "roberto-rodr-guez",
+  "scorer": "Roberto Rodríguez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

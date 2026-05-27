@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2021-07-16",
+      "goalId": "goal-2021-07-16-guadeloupe-jamaica-41045",
+      "homeTeamId": "guadeloupe",
+      "matchKey": "2021-07-16-guadeloupe-jamaica",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cory Burke",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2023-07-02",
+      "goalId": "goal-2023-07-02-jamaica-saint-kitts-and-nevis-43387",
+      "homeTeamId": "jamaica",
+      "matchKey": "2023-07-02-jamaica-saint-kitts-and-nevis",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cory Burke",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "cory burke",
+  "playerKey": "cory-burke",
+  "scorer": "Cory Burke",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

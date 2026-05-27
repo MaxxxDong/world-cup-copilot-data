@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1998-10-10",
+      "goalId": "goal-1998-10-10-scotland-estonia-18539",
+      "homeTeamId": "scotland",
+      "matchKey": "1998-10-10-scotland-estonia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maksim Smirnov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-estonia-latvia-25608",
+      "homeTeamId": "estonia",
+      "matchKey": "2005-09-03-estonia-latvia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maksim Smirnov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "maksim smirnov",
+  "playerKey": "maksim-smirnov",
+  "scorer": "Maksim Smirnov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

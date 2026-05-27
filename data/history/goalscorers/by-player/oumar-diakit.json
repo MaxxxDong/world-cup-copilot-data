@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2024-02-03",
+      "goalId": "goal-2024-02-03-civ-mali-44426",
+      "homeTeamId": "civ",
+      "matchKey": "2024-02-03-civ-mali",
+      "minute": 120,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oumar Diakité",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47015",
+      "homeTeamId": "seychelles",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oumar Diakité",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "oumar diakit",
+  "playerKey": "oumar-diakit",
+  "scorer": "Oumar Diakité",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "1993-02-17",
+      "goalId": "goal-1993-02-17-england-san-marino-13683",
+      "homeTeamId": "england",
+      "matchKey": "1993-02-17-england-san-marino",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Les Ferdinand",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "1993-09-08",
+      "goalId": "goal-1993-09-08-england-poland-14544",
+      "homeTeamId": "england",
+      "matchKey": "1993-09-08-england-poland",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Les Ferdinand",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1993-11-17",
+      "goalId": "goal-1993-11-17-san-marino-england-14737",
+      "homeTeamId": "san-marino",
+      "matchKey": "1993-11-17-san-marino-england",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Les Ferdinand",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-georgia-england-16444",
+      "homeTeamId": "georgia",
+      "matchKey": "1996-11-09-georgia-england",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Les Ferdinand",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "les ferdinand",
+  "playerKey": "les-ferdinand",
+  "scorer": "Les Ferdinand",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2010-09-03",
+      "goalId": "goal-2010-09-03-portugal-cyprus-30070",
+      "homeTeamId": "portugal",
+      "matchKey": "2010-09-03-portugal-cyprus",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andreas Avraam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-cyprus-denmark-31140",
+      "homeTeamId": "cyprus",
+      "matchKey": "2011-10-07-cyprus-denmark",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andreas Avraam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "andreas avraam",
+  "playerKey": "andreas-avraam",
+  "scorer": "Andreas Avraam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1989-08-27",
+      "goalId": "goal-1989-08-27-paraguay-colombia-12268",
+      "homeTeamId": "paraguay",
+      "matchKey": "1989-08-27-paraguay-colombia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Ferreira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1989-09-10",
+      "goalId": "goal-1989-09-10-paraguay-ecuador-12298",
+      "homeTeamId": "paraguay",
+      "matchKey": "1989-09-10-paraguay-ecuador",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Ferreira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "javier ferreira",
+  "playerKey": "javier-ferreira",
+  "scorer": "Javier Ferreira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

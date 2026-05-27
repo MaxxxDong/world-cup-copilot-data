@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-guinea-bissau-togo-31408",
+      "homeTeamId": "guinea-bissau",
+      "matchKey": "2011-11-11-guinea-bissau-togo",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serge Gakpé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "2013-01-30",
+      "goalId": "goal-2013-01-30-togo-tunisia-32515",
+      "homeTeamId": "togo",
+      "matchKey": "2013-01-30-togo-tunisia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serge Gakpé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "serge gakp",
+  "playerKey": "serge-gakp",
+  "scorer": "Serge Gakpé",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

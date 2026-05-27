@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tunisia",
+      "date": "1980-07-12",
+      "goalId": "goal-1980-07-12-nigeria-tunisia-8902",
+      "homeTeamId": "nigeria",
+      "matchKey": "1980-07-12-nigeria-tunisia",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Osigwe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1982-03-10",
+      "goalId": "goal-1982-03-10-algeria-nigeria-9650",
+      "homeTeamId": "algeria",
+      "matchKey": "1982-03-10-algeria-nigeria",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Osigwe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "emmanuel osigwe",
+  "playerKey": "emmanuel-osigwe",
+  "scorer": "Emmanuel Osigwe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

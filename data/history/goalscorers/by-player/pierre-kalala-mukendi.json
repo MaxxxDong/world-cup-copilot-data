@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "ghana",
+      "date": "1965-11-12",
+      "goalId": "goal-1965-11-12-dr-congo-ghana-4547",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1965-11-12-dr-congo-ghana",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Kalala Mukendi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "1965-11-12",
+      "goalId": "goal-1965-11-12-dr-congo-ghana-4548",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1965-11-12-dr-congo-ghana",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pierre Kalala Mukendi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "1968-01-21",
+      "goalId": "goal-1968-01-21-dr-congo-ghana-5132",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1968-01-21-dr-congo-ghana",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Kalala Mukendi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "pierre kalala mukendi",
+  "playerKey": "pierre-kalala-mukendi",
+  "scorer": "Pierre Kalala Mukendi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1976-05-22",
+      "goalId": "goal-1976-05-22-russia-czechoslovakia-7526",
+      "homeTeamId": "russia",
+      "matchKey": "1976-05-22-russia-czechoslovakia",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leonid Buryak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1977-05-18",
+      "goalId": "goal-1977-05-18-russia-hungary-7897",
+      "homeTeamId": "russia",
+      "matchKey": "1977-05-18-russia-hungary",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leonid Buryak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "leonid buryak",
+  "playerKey": "leonid-buryak",
+  "scorer": "Leonid Buryak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

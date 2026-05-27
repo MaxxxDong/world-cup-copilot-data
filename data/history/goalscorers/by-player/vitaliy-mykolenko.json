@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "armenia",
+      "date": "2022-06-11",
+      "goalId": "goal-2022-06-11-ukraine-armenia-42658",
+      "homeTeamId": "ukraine",
+      "matchKey": "2022-06-11-ukraine-armenia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vitaliy Mykolenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-ukraine-azerbaijan-47139",
+      "homeTeamId": "ukraine",
+      "matchKey": "2025-10-13-ukraine-azerbaijan",
+      "minute": 45,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Vitaliy Mykolenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "vitaliy mykolenko",
+  "playerKey": "vitaliy-mykolenko",
+  "scorer": "Vitaliy Mykolenko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan",
+    "ukraine"
+  ]
+}

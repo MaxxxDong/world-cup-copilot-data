@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1980-06-22",
+      "goalId": "goal-1980-06-22-belgium-germany-8882",
+      "homeTeamId": "belgium",
+      "matchKey": "1980-06-22-belgium-germany",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Horst Hrubesch",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1980-06-22",
+      "goalId": "goal-1980-06-22-belgium-germany-8884",
+      "homeTeamId": "belgium",
+      "matchKey": "1980-06-22-belgium-germany",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Horst Hrubesch",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1982-06-25",
+      "goalId": "goal-1982-06-25-germany-austria-9775",
+      "homeTeamId": "germany",
+      "matchKey": "1982-06-25-germany-austria",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Horst Hrubesch",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "horst hrubesch",
+  "playerKey": "horst-hrubesch",
+  "scorer": "Horst Hrubesch",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

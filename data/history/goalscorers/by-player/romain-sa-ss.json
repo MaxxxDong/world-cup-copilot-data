@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2017-01-20",
+      "goalId": "goal-2017-01-20-mar-togo-36578",
+      "homeTeamId": "mar",
+      "matchKey": "2017-01-20-mar-togo",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romain Saïss",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2022-11-27",
+      "goalId": "goal-2022-11-27-belgium-mar-42950",
+      "homeTeamId": "belgium",
+      "matchKey": "2022-11-27-belgium-mar",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romain Saïss",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "tanzania",
+      "date": "2024-01-17",
+      "goalId": "goal-2024-01-17-mar-tanzania-44256",
+      "homeTeamId": "mar",
+      "matchKey": "2024-01-17-mar-tanzania",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romain Saïss",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "romain sa ss",
+  "playerKey": "romain-sa-ss",
+  "scorer": "Romain Saïss",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

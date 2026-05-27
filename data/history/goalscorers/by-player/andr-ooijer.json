@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "2003-11-19",
+      "goalId": "goal-2003-11-19-netherlands-scotland-23221",
+      "homeTeamId": "netherlands",
+      "matchKey": "2003-11-19-netherlands-scotland",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Ooijer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2009-06-10",
+      "goalId": "goal-2009-06-10-netherlands-norway-29175",
+      "homeTeamId": "netherlands",
+      "matchKey": "2009-06-10-netherlands-norway",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Ooijer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "andr ooijer",
+  "playerKey": "andr-ooijer",
+  "scorer": "André Ooijer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

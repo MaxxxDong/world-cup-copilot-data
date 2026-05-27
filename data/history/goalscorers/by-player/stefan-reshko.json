@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1975-11-23",
+      "goalId": "goal-1975-11-23-turkey-russia-7423",
+      "homeTeamId": "turkey",
+      "matchKey": "1975-11-23-turkey-russia",
+      "minute": 22,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Stefan Reshko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "stefan reshko",
+  "playerKey": "stefan-reshko",
+  "scorer": "Stefan Reshko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

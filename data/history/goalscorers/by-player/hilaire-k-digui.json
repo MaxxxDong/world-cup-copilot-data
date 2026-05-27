@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2008-06-07",
+      "goalId": "goal-2008-06-07-chad-mali-27849",
+      "homeTeamId": "chad",
+      "matchKey": "2008-06-07-chad-mali",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hilaire Kédigui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-chad-congo-27954",
+      "homeTeamId": "chad",
+      "matchKey": "2008-06-14-chad-congo",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hilaire Kédigui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    }
+  ],
+  "normalizedScorer": "hilaire k digui",
+  "playerKey": "hilaire-k-digui",
+  "scorer": "Hilaire Kédigui",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chad"
+  ]
+}

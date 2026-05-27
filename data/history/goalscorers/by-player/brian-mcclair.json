@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1992-06-18",
+      "goalId": "goal-1992-06-18-scotland-russia-13180",
+      "homeTeamId": "scotland",
+      "matchKey": "1992-06-18-scotland-russia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian McClair",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-scotland-estonia-14162",
+      "homeTeamId": "scotland",
+      "matchKey": "1993-06-02-scotland-estonia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian McClair",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "brian mcclair",
+  "playerKey": "brian-mcclair",
+  "scorer": "Brian McClair",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

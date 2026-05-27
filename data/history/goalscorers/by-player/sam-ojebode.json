@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1976-03-01",
+      "goalId": "goal-1976-03-01-nigeria-dr-congo-7446",
+      "homeTeamId": "nigeria",
+      "matchKey": "1976-03-01-nigeria-dr-congo",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Sam Ojebode",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1976-03-06",
+      "goalId": "goal-1976-03-06-mar-nigeria-7467",
+      "homeTeamId": "mar",
+      "matchKey": "1976-03-06-mar-nigeria",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sam Ojebode",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "1977-07-10",
+      "goalId": "goal-1977-07-10-nigeria-civ-7927",
+      "homeTeamId": "nigeria",
+      "matchKey": "1977-07-10-nigeria-civ",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Sam Ojebode",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "sam ojebode",
+  "playerKey": "sam-ojebode",
+  "scorer": "Sam Ojebode",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

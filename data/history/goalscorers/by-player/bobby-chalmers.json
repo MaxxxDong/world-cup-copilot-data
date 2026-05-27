@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "1969-11-23",
+      "goalId": "goal-1969-11-23-zimbabwe-australia-5731",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1969-11-23-zimbabwe-australia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bobby Chalmers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1969-11-29",
+      "goalId": "goal-1969-11-29-zimbabwe-australia-5749",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1969-11-29-zimbabwe-australia",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bobby Chalmers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "bobby chalmers",
+  "playerKey": "bobby-chalmers",
+  "scorer": "Bobby Chalmers",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

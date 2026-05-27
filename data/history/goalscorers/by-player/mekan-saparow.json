@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkmenistan",
+      "date": "2015-09-03",
+      "goalId": "goal-2015-09-03-oman-turkmenistan-34717",
+      "homeTeamId": "oman",
+      "matchKey": "2015-09-03-oman-turkmenistan",
+      "minute": 11,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mekan Saparow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "oman"
+    },
+    {
+      "awayTeamId": "turkmenistan",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-iran-turkmenistan-35302",
+      "homeTeamId": "iran",
+      "matchKey": "2015-11-12-iran-turkmenistan",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mekan Saparow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkmenistan"
+    }
+  ],
+  "normalizedScorer": "mekan saparow",
+  "playerKey": "mekan-saparow",
+  "scorer": "Mekan Saparow",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "oman",
+    "turkmenistan"
+  ]
+}

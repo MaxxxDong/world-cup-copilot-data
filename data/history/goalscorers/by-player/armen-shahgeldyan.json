@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "1995-05-10",
+      "goalId": "goal-1995-05-10-armenia-north-macedonia-15320",
+      "homeTeamId": "armenia",
+      "matchKey": "1995-05-10-armenia-north-macedonia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armen Shahgeldyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "1995-09-06",
+      "goalId": "goal-1995-09-06-north-macedonia-armenia-15559",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "1995-09-06-north-macedonia-armenia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armen Shahgeldyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-armenia-fra-19059",
+      "homeTeamId": "armenia",
+      "matchKey": "1999-09-08-armenia-fra",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Armen Shahgeldyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "1999-10-09",
+      "goalId": "goal-1999-10-09-andorra-armenia-19129",
+      "homeTeamId": "andorra",
+      "matchKey": "1999-10-09-andorra-armenia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armen Shahgeldyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-finland-armenia-24575",
+      "homeTeamId": "finland",
+      "matchKey": "2004-10-09-finland-armenia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armen Shahgeldyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    }
+  ],
+  "normalizedScorer": "armen shahgeldyan",
+  "playerKey": "armen-shahgeldyan",
+  "scorer": "Armen Shahgeldyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "armenia"
+  ]
+}

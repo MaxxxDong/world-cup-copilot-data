@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1980-03-26",
+      "goalId": "goal-1980-03-26-scotland-portugal-8832",
+      "homeTeamId": "scotland",
+      "matchKey": "1980-03-26-scotland-portugal",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steve Archibald",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1982-06-15",
+      "goalId": "goal-1982-06-15-scotland-new-zealand-9698",
+      "homeTeamId": "scotland",
+      "matchKey": "1982-06-15-scotland-new-zealand",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steve Archibald",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "steve archibald",
+  "playerKey": "steve-archibald",
+  "scorer": "Steve Archibald",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "1999-08-01",
+      "goalId": "goal-1999-08-01-bra-saudi-arabia-18965",
+      "homeTeamId": "bra",
+      "matchKey": "1999-08-01-bra-saudi-arabia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rôni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1999-08-04",
+      "goalId": "goal-1999-08-04-mex-bra-18975",
+      "homeTeamId": "mex",
+      "matchKey": "1999-08-04-mex-bra",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rôni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "r ni",
+  "playerKey": "r-ni",
+  "scorer": "Rôni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

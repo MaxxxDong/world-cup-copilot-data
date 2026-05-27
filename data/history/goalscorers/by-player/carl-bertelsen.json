@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1962-06-28",
+      "goalId": "goal-1962-06-28-denmark-malta-3760",
+      "homeTeamId": "denmark",
+      "matchKey": "1962-06-28-denmark-malta",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carl Bertelsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1962-12-08",
+      "goalId": "goal-1962-12-08-malta-denmark-3816",
+      "homeTeamId": "malta",
+      "matchKey": "1962-12-08-malta-denmark",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carl Bertelsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1964-06-20",
+      "goalId": "goal-1964-06-20-hungary-denmark-4132",
+      "homeTeamId": "hungary",
+      "matchKey": "1964-06-20-hungary-denmark",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carl Bertelsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "carl bertelsen",
+  "playerKey": "carl-bertelsen",
+  "scorer": "Carl Bertelsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

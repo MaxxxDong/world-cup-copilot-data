@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "1993-04-14",
+      "goalId": "goal-1993-04-14-denmark-latvia-13808",
+      "homeTeamId": "denmark",
+      "matchKey": "1993-04-14-denmark-latvia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Strudal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1994-10-12",
+      "goalId": "goal-1994-10-12-denmark-belgium-15021",
+      "homeTeamId": "denmark",
+      "matchKey": "1994-10-12-denmark-belgium",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Strudal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "mark strudal",
+  "playerKey": "mark-strudal",
+  "scorer": "Mark Strudal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

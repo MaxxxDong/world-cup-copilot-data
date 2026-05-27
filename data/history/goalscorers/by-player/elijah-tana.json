@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "2001-05-06",
+      "goalId": "goal-2001-05-06-togo-zambia-21099",
+      "homeTeamId": "togo",
+      "matchKey": "2001-05-06-togo-zambia",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elijah Tana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-zambia-congo-25071",
+      "homeTeamId": "zambia",
+      "matchKey": "2005-03-26-zambia-congo",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elijah Tana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "2006-01-26",
+      "goalId": "goal-2006-01-26-zambia-guinea-26040",
+      "homeTeamId": "zambia",
+      "matchKey": "2006-01-26-zambia-guinea",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elijah Tana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "elijah tana",
+  "playerKey": "elijah-tana",
+  "scorer": "Elijah Tana",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "2009-04-01",
+      "goalId": "goal-2009-04-01-bra-peru-28984",
+      "homeTeamId": "bra",
+      "matchKey": "2009-04-01-bra-peru",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Melo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2009-06-18",
+      "goalId": "goal-2009-06-18-usa-bra-29216",
+      "homeTeamId": "usa",
+      "matchKey": "2009-06-18-usa-bra",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Melo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "felipe melo",
+  "playerKey": "felipe-melo",
+  "scorer": "Felipe Melo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

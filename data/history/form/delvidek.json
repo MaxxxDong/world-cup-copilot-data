@@ -1,0 +1,72 @@
+{
+  "generatedFromMatchCount": 2,
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "felvidek",
+      "date": "2016-08-03",
+      "homeScore": 1,
+      "homeTeamId": "delvidek",
+      "matchId": "int-2016-08-03-delvidek-felvidek",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Hungary Heritage Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "szekely-land",
+      "date": "2016-08-01",
+      "homeScore": 3,
+      "homeTeamId": "delvidek",
+      "matchId": "int-2016-08-01-delvidek-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Hungary Heritage Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "delvidek",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    }
+  }
+}

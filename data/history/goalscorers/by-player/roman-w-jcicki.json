@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1983-05-22",
+      "goalId": "goal-1983-05-22-poland-russia-10011",
+      "homeTeamId": "poland",
+      "matchKey": "1983-05-22-poland-russia",
+      "minute": 62,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Roman Wójcicki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "1987-05-17",
+      "goalId": "goal-1987-05-17-hungary-poland-11437",
+      "homeTeamId": "hungary",
+      "matchKey": "1987-05-17-hungary-poland",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Wójcicki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "roman w jcicki",
+  "playerKey": "roman-w-jcicki",
+  "scorer": "Roman Wójcicki",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland",
+    "russia"
+  ]
+}

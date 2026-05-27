@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "rsa",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-cape-verde-rsa-37051",
+      "homeTeamId": "cape-verde",
+      "matchKey": "2017-09-01-cape-verde-rsa",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nuno Miguel Monteiro Rocha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cape-verde"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-cape-verde-rsa-37052",
+      "homeTeamId": "cape-verde",
+      "matchKey": "2017-09-01-cape-verde-rsa",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nuno Miguel Monteiro Rocha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cape-verde"
+    }
+  ],
+  "normalizedScorer": "nuno miguel monteiro rocha",
+  "playerKey": "nuno-miguel-monteiro-rocha",
+  "scorer": "Nuno Miguel Monteiro Rocha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cape-verde"
+  ]
+}

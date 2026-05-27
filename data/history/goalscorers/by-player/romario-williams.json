@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2017-07-09",
+      "goalId": "goal-2017-07-09-curacao-jamaica-36942",
+      "homeTeamId": "curacao",
+      "matchKey": "2017-07-09-curacao-jamaica",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romario Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "2017-07-20",
+      "goalId": "goal-2017-07-20-jamaica-canada-36977",
+      "homeTeamId": "jamaica",
+      "matchKey": "2017-07-20-jamaica-canada",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romario Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "romario williams",
+  "playerKey": "romario-williams",
+  "scorer": "Romario Williams",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

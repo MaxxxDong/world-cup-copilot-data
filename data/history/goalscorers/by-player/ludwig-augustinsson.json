@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "2018-06-27",
+      "goalId": "goal-2018-06-27-mex-sweden-37645",
+      "homeTeamId": "mex",
+      "matchKey": "2018-06-27-mex-sweden",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ludwig Augustinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-kosovo-sweden-40271",
+      "homeTeamId": "kosovo",
+      "matchKey": "2021-03-28-kosovo-sweden",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ludwig Augustinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "ludwig augustinsson",
+  "playerKey": "ludwig-augustinsson",
+  "scorer": "Ludwig Augustinsson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

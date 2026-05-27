@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1960-05-22",
+      "goalId": "goal-1960-05-22-yugoslavia-portugal-3279",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1960-05-22-yugoslavia-portugal",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zvezdan Čebinac",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1961-10-08",
+      "goalId": "goal-1961-10-08-yugoslavia-south-korea-3569",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1961-10-08-yugoslavia-south-korea",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zvezdan Čebinac",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "zvezdan ebinac",
+  "playerKey": "zvezdan-ebinac",
+  "scorer": "Zvezdan Čebinac",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

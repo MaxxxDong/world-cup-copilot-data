@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-usa-saint-vincent-and-the-grenadines-35391",
+      "homeTeamId": "usa",
+      "matchKey": "2015-11-13-usa-saint-vincent-and-the-grenadines",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Geoff Cameron",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-usa-guatemala-35710",
+      "homeTeamId": "usa",
+      "matchKey": "2016-03-29-usa-guatemala",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Geoff Cameron",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "geoff cameron",
+  "playerKey": "geoff-cameron",
+  "scorer": "Geoff Cameron",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1965-11-14",
+      "goalId": "goal-1965-11-14-cyprus-germany-4560",
+      "homeTeamId": "cyprus",
+      "matchKey": "1965-11-14-cyprus-germany",
+      "minute": 87,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Kostas Panayiotou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1968-02-17",
+      "goalId": "goal-1968-02-17-cyprus-switzerland-5134",
+      "homeTeamId": "cyprus",
+      "matchKey": "1968-02-17-cyprus-switzerland",
+      "minute": 9,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Kostas Panayiotou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "kostas panayiotou",
+  "playerKey": "kostas-panayiotou",
+  "scorer": "Kostas Panayiotou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany",
+    "switzerland"
+  ]
+}

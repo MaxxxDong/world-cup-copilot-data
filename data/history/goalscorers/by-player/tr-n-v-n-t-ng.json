@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vietnam-republic",
+      "date": "1956-09-09",
+      "goalId": "goal-1956-09-09-hong-kong-vietnam-republic-2471",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1956-09-09-hong-kong-vietnam-republic",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trần Văn Tổng",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vietnam-republic"
+    },
+    {
+      "awayTeamId": "vietnam-republic",
+      "date": "1956-09-12",
+      "goalId": "goal-1956-09-12-israel-vietnam-republic-2477",
+      "homeTeamId": "israel",
+      "matchKey": "1956-09-12-israel-vietnam-republic",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trần Văn Tổng",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vietnam-republic"
+    }
+  ],
+  "normalizedScorer": "tr n v n t ng",
+  "playerKey": "tr-n-v-n-t-ng",
+  "scorer": "Trần Văn Tổng",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "vietnam-republic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1982-10-27",
+      "goalId": "goal-1982-10-27-bulgaria-norway-9871",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1982-10-27-bulgaria-norway",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boycho Velichkov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1984-12-05",
+      "goalId": "goal-1984-12-05-bulgaria-luxembourg-10465",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1984-12-05-bulgaria-luxembourg",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boycho Velichkov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "boycho velichkov",
+  "playerKey": "boycho-velichkov",
+  "scorer": "Boycho Velichkov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

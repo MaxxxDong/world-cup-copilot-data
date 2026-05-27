@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "1997-06-09",
+      "goalId": "goal-1997-06-09-iran-kyrgyzstan-17266",
+      "homeTeamId": "iran",
+      "matchKey": "1997-06-09-iran-kyrgyzstan",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    },
+    {
+      "awayTeamId": "syria",
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-kyrgyzstan-syria-17306",
+      "homeTeamId": "kyrgyzstan",
+      "matchKey": "1997-06-11-kyrgyzstan-syria",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "1997-06-13",
+      "goalId": "goal-1997-06-13-maldives-kyrgyzstan-17339",
+      "homeTeamId": "maldives",
+      "matchKey": "1997-06-13-maldives-kyrgyzstan",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    }
+  ],
+  "normalizedScorer": "sergey kutsov",
+  "playerKey": "sergey-kutsov",
+  "scorer": "Sergey Kutsov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kyrgyzstan"
+  ]
+}

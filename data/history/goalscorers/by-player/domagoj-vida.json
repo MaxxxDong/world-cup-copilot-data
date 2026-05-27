@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kosovo",
+      "date": "2017-09-02",
+      "goalId": "goal-2017-09-02-croatia-kosovo-37107",
+      "homeTeamId": "croatia",
+      "matchKey": "2017-09-02-croatia-kosovo",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domagoj Vida",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2018-07-07",
+      "goalId": "goal-2018-07-07-russia-croatia-37693",
+      "homeTeamId": "russia",
+      "matchKey": "2018-07-07-russia-croatia",
+      "minute": 101,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domagoj Vida",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "domagoj vida",
+  "playerKey": "domagoj-vida",
+  "scorer": "Domagoj Vida",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

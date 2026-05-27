@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "poland",
+      "date": "1965-10-13",
+      "goalId": "goal-1965-10-13-scotland-poland-4486",
+      "homeTeamId": "scotland",
+      "matchKey": "1965-10-13-scotland-poland",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy McNeill",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1969-05-17",
+      "goalId": "goal-1969-05-17-scotland-cyprus-5460",
+      "homeTeamId": "scotland",
+      "matchKey": "1969-05-17-scotland-cyprus",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy McNeill",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "billy mcneill",
+  "playerKey": "billy-mcneill",
+  "scorer": "Billy McNeill",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

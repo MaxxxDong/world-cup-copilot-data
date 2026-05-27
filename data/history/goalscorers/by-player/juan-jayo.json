@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "2000-04-26",
+      "goalId": "goal-2000-04-26-chile-peru-19628",
+      "homeTeamId": "chile",
+      "matchKey": "2000-04-26-chile-peru",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Jayo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan jayo",
+  "playerKey": "juan-jayo",
+  "scorer": "Juan Jayo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

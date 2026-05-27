@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1991-11-13",
+      "goalId": "goal-1991-11-13-poland-england-13009",
+      "homeTeamId": "poland",
+      "matchKey": "1991-11-13-poland-england",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Szewczyk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "roman szewczyk",
+  "playerKey": "roman-szewczyk",
+  "scorer": "Roman Szewczyk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

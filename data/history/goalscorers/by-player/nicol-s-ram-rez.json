@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1997-04-20",
+      "goalId": "goal-1997-04-20-usa-mex-16969",
+      "homeTeamId": "usa",
+      "matchKey": "1997-04-20-usa-mex",
+      "minute": 74,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nicolás Ramírez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1997-06-25",
+      "goalId": "goal-1997-06-25-bolivia-mex-17459",
+      "homeTeamId": "bolivia",
+      "matchKey": "1997-06-25-bolivia-mex",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nicolás Ramírez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "nicol s ram rez",
+  "playerKey": "nicol-s-ram-rez",
+  "scorer": "Nicolás Ramírez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex",
+    "usa"
+  ]
+}

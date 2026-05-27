@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2015-09-07",
+      "goalId": "goal-2015-09-07-scotland-germany-34858",
+      "homeTeamId": "scotland",
+      "matchKey": "2015-09-07-scotland-germany",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James McArthur",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "2016-10-08",
+      "goalId": "goal-2016-10-08-scotland-lithuania-36275",
+      "homeTeamId": "scotland",
+      "matchKey": "2016-10-08-scotland-lithuania",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James McArthur",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-lithuania-scotland-37067",
+      "homeTeamId": "lithuania",
+      "matchKey": "2017-09-01-lithuania-scotland",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James McArthur",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "james mcarthur",
+  "playerKey": "james-mcarthur",
+  "scorer": "James McArthur",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

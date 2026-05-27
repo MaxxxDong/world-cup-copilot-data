@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1992-04-28",
+      "goalId": "goal-1992-04-28-northern-ireland-lithuania-13113",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1992-04-28-northern-ireland-lithuania",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arminas Narbekovas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "1996-10-09",
+      "goalId": "goal-1996-10-09-lithuania-liechtenstein-16370",
+      "homeTeamId": "lithuania",
+      "matchKey": "1996-10-09-lithuania-liechtenstein",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arminas Narbekovas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "arminas narbekovas",
+  "playerKey": "arminas-narbekovas",
+  "scorer": "Arminas Narbekovas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

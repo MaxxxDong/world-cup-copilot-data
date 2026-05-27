@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2007-06-02",
+      "goalId": "goal-2007-06-02-germany-san-marino-26643",
+      "homeTeamId": "germany",
+      "matchKey": "2007-06-02-germany-san-marino",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clemens Fritz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-germany-cyprus-27381",
+      "homeTeamId": "germany",
+      "matchKey": "2007-11-17-germany-cyprus",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clemens Fritz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "clemens fritz",
+  "playerKey": "clemens-fritz",
+  "scorer": "Clemens Fritz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

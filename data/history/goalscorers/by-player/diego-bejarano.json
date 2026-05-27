@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-peru-bolivia-33501",
+      "homeTeamId": "peru",
+      "matchKey": "2013-10-15-peru-bolivia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego Bejarano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-bolivia-venezuela-40481",
+      "homeTeamId": "bolivia",
+      "matchKey": "2021-06-03-bolivia-venezuela",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego Bejarano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "diego bejarano",
+  "playerKey": "diego-bejarano",
+  "scorer": "Diego Bejarano",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

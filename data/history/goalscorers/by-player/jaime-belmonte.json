@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1957-10-20",
+      "goalId": "goal-1957-10-20-mex-costa-rica-2871",
+      "homeTeamId": "mex",
+      "matchKey": "1957-10-20-mex-costa-rica",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaime Belmonte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1958-06-11",
+      "goalId": "goal-1958-06-11-mex-wales-2980",
+      "homeTeamId": "mex",
+      "matchKey": "1958-06-11-mex-wales",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaime Belmonte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "jaime belmonte",
+  "playerKey": "jaime-belmonte",
+  "scorer": "Jaime Belmonte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

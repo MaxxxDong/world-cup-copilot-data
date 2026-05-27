@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guinea",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-egypt-guinea-33248",
+      "homeTeamId": "egypt",
+      "matchKey": "2013-09-10-egypt-guinea",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seydouba Soumah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2016-11-13",
+      "goalId": "goal-2016-11-13-guinea-dr-congo-36498",
+      "homeTeamId": "guinea",
+      "matchKey": "2016-11-13-guinea-dr-congo",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Seydouba Soumah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "seydouba soumah",
+  "playerKey": "seydouba-soumah",
+  "scorer": "Seydouba Soumah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

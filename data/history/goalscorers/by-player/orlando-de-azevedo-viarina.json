@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1949-04-17",
+      "goalId": "goal-1949-04-17-bra-colombia-1642",
+      "homeTeamId": "bra",
+      "matchKey": "1949-04-17-bra-colombia",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Orlando de Azevedo Viarina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1949-04-24",
+      "goalId": "goal-1949-04-24-bra-peru-1662",
+      "homeTeamId": "bra",
+      "matchKey": "1949-04-24-bra-peru",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Orlando de Azevedo Viarina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "orlando de azevedo viarina",
+  "playerKey": "orlando-de-azevedo-viarina",
+  "scorer": "Orlando de Azevedo Viarina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1974-03-03",
+      "goalId": "goal-1974-03-03-guinea-dr-congo-6947",
+      "homeTeamId": "guinea",
+      "matchKey": "1974-03-03-guinea-dr-congo",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bengally Sylla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "1976-02-29",
+      "goalId": "goal-1976-02-29-egypt-guinea-7438",
+      "homeTeamId": "egypt",
+      "matchKey": "1976-02-29-egypt-guinea",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Bengally Sylla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "uganda",
+      "date": "1976-03-05",
+      "goalId": "goal-1976-03-05-guinea-uganda-7462",
+      "homeTeamId": "guinea",
+      "matchKey": "1976-03-05-guinea-uganda",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bengally Sylla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "bengally sylla",
+  "playerKey": "bengally-sylla",
+  "scorer": "Bengally Sylla",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

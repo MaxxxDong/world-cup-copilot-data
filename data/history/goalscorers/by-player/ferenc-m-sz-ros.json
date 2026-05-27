@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1987-09-23",
+      "goalId": "goal-1987-09-23-poland-hungary-11511",
+      "homeTeamId": "poland",
+      "matchKey": "1987-09-23-poland-hungary",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ferenc Mészáros",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1987-10-14",
+      "goalId": "goal-1987-10-14-hungary-greece-11528",
+      "homeTeamId": "hungary",
+      "matchKey": "1987-10-14-hungary-greece",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ferenc Mészáros",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "ferenc m sz ros",
+  "playerKey": "ferenc-m-sz-ros",
+  "scorer": "Ferenc Mészáros",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

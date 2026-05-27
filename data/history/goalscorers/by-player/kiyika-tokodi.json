@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mozambique",
+      "date": "1980-07-13",
+      "goalId": "goal-1980-07-13-dr-congo-mozambique-8904",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1980-07-13-dr-congo-mozambique",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kiyika Tokodi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "mozambique",
+      "date": "1980-07-13",
+      "goalId": "goal-1980-07-13-dr-congo-mozambique-8907",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1980-07-13-dr-congo-mozambique",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kiyika Tokodi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "kiyika tokodi",
+  "playerKey": "kiyika-tokodi",
+  "scorer": "Kiyika Tokodi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

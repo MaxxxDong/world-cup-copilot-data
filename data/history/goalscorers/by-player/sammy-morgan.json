@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1972-02-16",
+      "goalId": "goal-1972-02-16-northern-ireland-spain-6237",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1972-02-16-northern-ireland-spain",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sammy Morgan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1973-05-08",
+      "goalId": "goal-1973-05-08-northern-ireland-cyprus-6665",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1973-05-08-northern-ireland-cyprus",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sammy Morgan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1975-10-29",
+      "goalId": "goal-1975-10-29-northern-ireland-norway-7389",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1975-10-29-northern-ireland-norway",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sammy Morgan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "sammy morgan",
+  "playerKey": "sammy-morgan",
+  "scorer": "Sammy Morgan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

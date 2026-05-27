@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "guatemala",
+      "date": "1957-02-17",
+      "goalId": "goal-1957-02-17-costa-rica-guatemala-2530",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1957-02-17-costa-rica-guatemala",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mario Cordero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1957-08-04",
+      "goalId": "goal-1957-08-04-curacao-costa-rica-2808",
+      "homeTeamId": "curacao",
+      "matchKey": "1957-08-04-curacao-costa-rica",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mario Cordero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "1963-03-28",
+      "goalId": "goal-1963-03-28-costa-rica-curacao-3936",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1963-03-28-costa-rica-curacao",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mario Cordero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "mario cordero",
+  "playerKey": "mario-cordero",
+  "scorer": "Mario Cordero",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1959-05-10",
+      "goalId": "goal-1959-05-10-czechoslovakia-republic-of-ireland-3170",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1959-05-10-czechoslovakia-republic-of-ireland",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ladislav Pavlovič",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1960-07-09",
+      "goalId": "goal-1960-07-09-fra-czechoslovakia-3299",
+      "homeTeamId": "fra",
+      "matchKey": "1960-07-09-fra-czechoslovakia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ladislav Pavlovič",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "ladislav pavlovi",
+  "playerKey": "ladislav-pavlovi",
+  "scorer": "Ladislav Pavlovič",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

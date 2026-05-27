@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1975-11-12",
+      "goalId": "goal-1975-11-12-russia-switzerland-7406",
+      "homeTeamId": "russia",
+      "matchKey": "1975-11-12-russia-switzerland",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Onishchenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1975-11-12",
+      "goalId": "goal-1975-11-12-russia-switzerland-7408",
+      "homeTeamId": "russia",
+      "matchKey": "1975-11-12-russia-switzerland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Onishchenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "vladimir onishchenko",
+  "playerKey": "vladimir-onishchenko",
+  "scorer": "Vladimir Onishchenko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

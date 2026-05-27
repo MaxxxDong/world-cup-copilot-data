@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-paraguay-colombia-16896",
+      "homeTeamId": "paraguay",
+      "matchKey": "1997-04-02-paraguay-colombia",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Derlis Soto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1997-04-30",
+      "goalId": "goal-1997-04-30-paraguay-uruguay-17038",
+      "homeTeamId": "paraguay",
+      "matchKey": "1997-04-30-paraguay-uruguay",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Derlis Soto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "derlis soto",
+  "playerKey": "derlis-soto",
+  "scorer": "Derlis Soto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

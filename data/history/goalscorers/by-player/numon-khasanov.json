@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "1997-05-09",
+      "goalId": "goal-1997-05-09-yemen-uzbekistan-17076",
+      "homeTeamId": "yemen",
+      "matchKey": "1997-05-09-yemen-uzbekistan",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Numon Khasanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "1997-05-25",
+      "goalId": "goal-1997-05-25-uzbekistan-cambodia-17120",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "1997-05-25-uzbekistan-cambodia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Numon Khasanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    }
+  ],
+  "normalizedScorer": "numon khasanov",
+  "playerKey": "numon-khasanov",
+  "scorer": "Numon Khasanov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uzbekistan"
+  ]
+}

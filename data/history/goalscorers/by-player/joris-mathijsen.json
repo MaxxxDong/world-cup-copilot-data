@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2006-09-02",
+      "goalId": "goal-2006-09-02-luxembourg-netherlands-26265",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2006-09-02-luxembourg-netherlands",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joris Mathijsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-netherlands-iceland-28637",
+      "homeTeamId": "netherlands",
+      "matchKey": "2008-10-11-netherlands-iceland",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joris Mathijsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "joris mathijsen",
+  "playerKey": "joris-mathijsen",
+  "scorer": "Joris Mathijsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

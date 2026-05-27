@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1968-10-13",
+      "goalId": "goal-1968-10-13-canada-usa-5249",
+      "homeTeamId": "canada",
+      "matchKey": "1968-10-13-canada-usa",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willy Roy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-11-02",
+      "goalId": "goal-1968-11-02-usa-bermuda-5282",
+      "homeTeamId": "usa",
+      "matchKey": "1968-11-02-usa-bermuda",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willy Roy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "1968-11-11",
+      "goalId": "goal-1968-11-11-bermuda-usa-5297",
+      "homeTeamId": "bermuda",
+      "matchKey": "1968-11-11-bermuda-usa",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willy Roy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "willy roy",
+  "playerKey": "willy-roy",
+  "scorer": "Willy Roy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

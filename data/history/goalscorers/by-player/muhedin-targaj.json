@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1981-09-02",
+      "goalId": "goal-1981-09-02-finland-albania-9423",
+      "homeTeamId": "finland",
+      "matchKey": "1981-09-02-finland-albania",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Muhedin Targaj",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1983-03-30",
+      "goalId": "goal-1983-03-30-albania-germany-9945",
+      "homeTeamId": "albania",
+      "matchKey": "1983-03-30-albania-germany",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Muhedin Targaj",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1983-06-08",
+      "goalId": "goal-1983-06-08-albania-austria-10023",
+      "homeTeamId": "albania",
+      "matchKey": "1983-06-08-albania-austria",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhedin Targaj",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    }
+  ],
+  "normalizedScorer": "muhedin targaj",
+  "playerKey": "muhedin-targaj",
+  "scorer": "Muhedin Targaj",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania"
+  ]
+}

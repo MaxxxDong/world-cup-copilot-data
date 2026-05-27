@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1971-10-10",
+      "goalId": "goal-1971-10-10-austria-republic-of-ireland-6123",
+      "homeTeamId": "austria",
+      "matchKey": "1971-10-10-austria-republic-of-ireland",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hans Pirkner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1977-04-30",
+      "goalId": "goal-1977-04-30-austria-malta-7881",
+      "homeTeamId": "austria",
+      "matchKey": "1977-04-30-austria-malta",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Pirkner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "hans pirkner",
+  "playerKey": "hans-pirkner",
+  "scorer": "Hans Pirkner",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

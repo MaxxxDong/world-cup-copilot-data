@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1982-09-22",
+      "goalId": "goal-1982-09-22-austria-albania-9833",
+      "homeTeamId": "austria",
+      "matchKey": "1982-09-22-austria-albania",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Gasselich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1983-09-21",
+      "goalId": "goal-1983-09-21-northern-ireland-austria-10083",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1983-09-21-northern-ireland-austria",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Gasselich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "felix gasselich",
+  "playerKey": "felix-gasselich",
+  "scorer": "Felix Gasselich",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "barbados",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-dominican-republic-barbados-40511",
+      "homeTeamId": "dominican-republic",
+      "matchKey": "2021-06-04-dominican-republic-barbados",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Niall Reid-Stephen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "barbados"
+    },
+    {
+      "awayTeamId": "barbados",
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-curacao-barbados-44600",
+      "homeTeamId": "curacao",
+      "matchKey": "2024-06-05-curacao-barbados",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Niall Reid-Stephen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "barbados"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2024-06-09",
+      "goalId": "goal-2024-06-09-barbados-haiti-44773",
+      "homeTeamId": "barbados",
+      "matchKey": "2024-06-09-barbados-haiti",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Niall Reid-Stephen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "barbados"
+    }
+  ],
+  "normalizedScorer": "niall reid stephen",
+  "playerKey": "niall-reid-stephen",
+  "scorer": "Niall Reid-Stephen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "barbados"
+  ]
+}

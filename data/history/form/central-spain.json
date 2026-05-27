@@ -1,0 +1,72 @@
+{
+  "generatedFromMatchCount": 2,
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "galicia",
+      "date": "1923-11-25",
+      "homeScore": 1,
+      "homeTeamId": "central-spain",
+      "matchId": "int-1923-11-25-central-spain-galicia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "central-spain",
+      "date": "1922-11-19",
+      "homeScore": 4,
+      "homeTeamId": "galicia",
+      "matchId": "int-1922-11-19-galicia-central-spain",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "central-spain",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    }
+  }
+}

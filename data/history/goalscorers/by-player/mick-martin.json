@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1973-05-19",
+      "goalId": "goal-1973-05-19-fra-republic-of-ireland-6690",
+      "homeTeamId": "fra",
+      "matchKey": "1973-05-19-fra-republic-of-ireland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mick Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1975-05-10",
+      "goalId": "goal-1975-05-10-republic-of-ireland-switzerland-7210",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1975-05-10-republic-of-ireland-switzerland",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mick Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1979-10-17",
+      "goalId": "goal-1979-10-17-republic-of-ireland-bulgaria-8615",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1979-10-17-republic-of-ireland-bulgaria",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mick Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1982-11-17",
+      "goalId": "goal-1982-11-17-republic-of-ireland-spain-9896",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1982-11-17-republic-of-ireland-spain",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mick Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "mick martin",
+  "playerKey": "mick-martin",
+  "scorer": "Mick Martin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland",
+    "spain"
+  ]
+}

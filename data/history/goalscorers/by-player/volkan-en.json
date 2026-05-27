@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kosovo",
+      "date": "2016-11-12",
+      "goalId": "goal-2016-11-12-turkey-kosovo-36475",
+      "homeTeamId": "turkey",
+      "matchKey": "2016-11-12-turkey-kosovo",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Volkan Şen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2017-06-11",
+      "goalId": "goal-2017-06-11-kosovo-turkey-36842",
+      "homeTeamId": "kosovo",
+      "matchKey": "2017-06-11-kosovo-turkey",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Volkan Şen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "volkan en",
+  "playerKey": "volkan-en",
+  "scorer": "Volkan Şen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

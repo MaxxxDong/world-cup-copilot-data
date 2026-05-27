@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2000-04-26",
+      "goalId": "goal-2000-04-26-bra-ecuador-19625",
+      "homeTeamId": "bra",
+      "matchKey": "2000-04-26-bra-ecuador",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antônio Carlos Zago",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2000-06-04",
+      "goalId": "goal-2000-06-04-peru-bra-19681",
+      "homeTeamId": "peru",
+      "matchKey": "2000-06-04-peru-bra",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antônio Carlos Zago",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "ant nio carlos zago",
+  "playerKey": "ant-nio-carlos-zago",
+  "scorer": "Antônio Carlos Zago",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1983-03-30",
+      "goalId": "goal-1983-03-30-northern-ireland-turkey-9952",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1983-03-30-northern-ireland-turkey",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hasan Şengün",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1983-10-26",
+      "goalId": "goal-1983-10-26-germany-turkey-10131",
+      "homeTeamId": "germany",
+      "matchKey": "1983-10-26-germany-turkey",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hasan Şengün",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "hasan eng n",
+  "playerKey": "hasan-eng-n",
+  "scorer": "Hasan Şengün",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1922-10-05",
+      "goalId": "goal-1922-10-05-chile-paraguay-109",
+      "homeTeamId": "chile",
+      "matchKey": "1922-10-05-chile-paraguay",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fretes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1923-10-29",
+      "goalId": "goal-1923-10-29-arg-paraguay-123",
+      "homeTeamId": "arg",
+      "matchKey": "1923-10-29-arg-paraguay",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fretes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1925-12-17",
+      "goalId": "goal-1925-12-17-bra-paraguay-264",
+      "homeTeamId": "bra",
+      "matchKey": "1925-12-17-bra-paraguay",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fretes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "luis fretes",
+  "playerKey": "luis-fretes",
+  "scorer": "Luis Fretes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

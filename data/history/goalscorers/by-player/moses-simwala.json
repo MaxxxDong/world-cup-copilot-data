@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "ethiopia",
+      "date": "1973-04-15",
+      "goalId": "goal-1973-04-15-zambia-ethiopia-6637",
+      "homeTeamId": "zambia",
+      "matchKey": "1973-04-15-zambia-ethiopia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moses Simwala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "1973-08-19",
+      "goalId": "goal-1973-08-19-kenya-zambia-6786",
+      "homeTeamId": "kenya",
+      "matchKey": "1973-08-19-kenya-zambia",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moses Simwala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1973-10-21",
+      "goalId": "goal-1973-10-21-zambia-mar-6853",
+      "homeTeamId": "zambia",
+      "matchKey": "1973-10-21-zambia-mar",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moses Simwala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "moses simwala",
+  "playerKey": "moses-simwala",
+  "scorer": "Moses Simwala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

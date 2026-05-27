@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1991-10-16",
+      "goalId": "goal-1991-10-16-faroe-islands-yugoslavia-12979",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "1991-10-16-faroe-islands-yugoslavia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Jugović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "1996-10-06",
+      "goalId": "goal-1996-10-06-faroe-islands-serbia-16323",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "1996-10-06-faroe-islands-serbia",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Jugović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "1997-10-11",
+      "goalId": "goal-1997-10-11-malta-serbia-17842",
+      "homeTeamId": "malta",
+      "matchKey": "1997-10-11-malta-serbia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Jugović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    }
+  ],
+  "normalizedScorer": "vladimir jugovi",
+  "playerKey": "vladimir-jugovi",
+  "scorer": "Vladimir Jugović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "serbia",
+    "yugoslavia"
+  ]
+}

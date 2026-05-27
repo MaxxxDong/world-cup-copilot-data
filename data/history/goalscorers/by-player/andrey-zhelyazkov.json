@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1977-06-01",
+      "goalId": "goal-1977-06-01-bulgaria-republic-of-ireland-7905",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1977-06-01-bulgaria-republic-of-ireland",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrey Zhelyazkov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1979-10-31",
+      "goalId": "goal-1979-10-31-bulgaria-denmark-8632",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1979-10-31-bulgaria-denmark",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrey Zhelyazkov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1980-10-19",
+      "goalId": "goal-1980-10-19-bulgaria-albania-9056",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1980-10-19-bulgaria-albania",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrey Zhelyazkov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "andrey zhelyazkov",
+  "playerKey": "andrey-zhelyazkov",
+  "scorer": "Andrey Zhelyazkov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "barbados",
+      "date": "2000-04-01",
+      "goalId": "goal-2000-04-01-aruba-barbados-19455",
+      "homeTeamId": "aruba",
+      "matchKey": "2000-04-01-aruba-barbados",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wandel Gross",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "aruba"
+    }
+  ],
+  "normalizedScorer": "wandel gross",
+  "playerKey": "wandel-gross",
+  "scorer": "Wandel Gross",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "aruba"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kenya",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-gabon-kenya-43845",
+      "homeTeamId": "gabon",
+      "matchKey": "2023-11-16-gabon-kenya",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Guélor Kanga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2025-12-31",
+      "goalId": "goal-2025-12-31-gabon-civ-47512",
+      "homeTeamId": "gabon",
+      "matchKey": "2025-12-31-gabon-civ",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Guélor Kanga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "gu lor kanga",
+  "playerKey": "gu-lor-kanga",
+  "scorer": "Guélor Kanga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon"
+  ]
+}

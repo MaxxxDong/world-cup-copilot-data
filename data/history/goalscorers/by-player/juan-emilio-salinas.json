@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1949-04-20",
+      "goalId": "goal-1949-04-20-ecuador-peru-1648",
+      "homeTeamId": "ecuador",
+      "matchKey": "1949-04-20-ecuador-peru",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Emilio Salinas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1949-04-24",
+      "goalId": "goal-1949-04-24-bra-peru-1659",
+      "homeTeamId": "bra",
+      "matchKey": "1949-04-24-bra-peru",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Emilio Salinas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan emilio salinas",
+  "playerKey": "juan-emilio-salinas",
+  "scorer": "Juan Emilio Salinas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

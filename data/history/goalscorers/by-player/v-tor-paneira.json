@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1989-02-15",
+      "goalId": "goal-1989-02-15-portugal-belgium-11905",
+      "homeTeamId": "portugal",
+      "matchKey": "1989-02-15-portugal-belgium",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vítor Paneira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1989-04-26",
+      "goalId": "goal-1989-04-26-portugal-switzerland-11987",
+      "homeTeamId": "portugal",
+      "matchKey": "1989-04-26-portugal-switzerland",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vítor Paneira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1991-02-20",
+      "goalId": "goal-1991-02-20-portugal-malta-12719",
+      "homeTeamId": "portugal",
+      "matchKey": "1991-02-20-portugal-malta",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Vítor Paneira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "v tor paneira",
+  "playerKey": "v-tor-paneira",
+  "scorer": "Vítor Paneira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

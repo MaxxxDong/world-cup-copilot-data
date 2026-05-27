@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-russia-san-marino-38411",
+      "homeTeamId": "russia",
+      "matchKey": "2019-06-08-russia-san-marino",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Miranchuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2020-09-06",
+      "goalId": "goal-2020-09-06-hungary-russia-39668",
+      "homeTeamId": "hungary",
+      "matchKey": "2020-09-06-hungary-russia",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Miranchuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2020-10-11",
+      "goalId": "goal-2020-10-11-russia-turkey-39812",
+      "homeTeamId": "russia",
+      "matchKey": "2020-10-11-russia-turkey",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Miranchuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "anton miranchuk",
+  "playerKey": "anton-miranchuk",
+  "scorer": "Anton Miranchuk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

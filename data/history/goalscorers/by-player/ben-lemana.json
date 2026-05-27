@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "samoa",
+      "date": "2001-04-09",
+      "goalId": "goal-2001-04-09-american-samoa-samoa-20734",
+      "homeTeamId": "american-samoa",
+      "matchKey": "2001-04-09-american-samoa-samoa",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ben Lemana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "samoa"
+    },
+    {
+      "awayTeamId": "fiji",
+      "date": "2001-04-11",
+      "goalId": "goal-2001-04-11-samoa-fiji-20793",
+      "homeTeamId": "samoa",
+      "matchKey": "2001-04-11-samoa-fiji",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ben Lemana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "samoa"
+    }
+  ],
+  "normalizedScorer": "ben lemana",
+  "playerKey": "ben-lemana",
+  "scorer": "Ben Lemana",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "samoa"
+  ]
+}

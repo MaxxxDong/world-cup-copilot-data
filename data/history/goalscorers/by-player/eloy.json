@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1986-06-12",
+      "goalId": "goal-1986-06-12-algeria-spain-11222",
+      "homeTeamId": "algeria",
+      "matchKey": "1986-06-12-algeria-spain",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eloy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "eloy",
+  "playerKey": "eloy",
+  "scorer": "Eloy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

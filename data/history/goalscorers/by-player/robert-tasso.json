@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "new-caledonia",
+      "date": "2012-06-01",
+      "goalId": "goal-2012-06-01-vanuatu-new-caledonia-31749",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2012-06-01-vanuatu-new-caledonia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "samoa",
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-vanuatu-samoa-31816",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2012-06-03-vanuatu-samoa",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2012-06-05",
+      "goalId": "goal-2012-06-05-tahiti-vanuatu-31835",
+      "homeTeamId": "tahiti",
+      "matchKey": "2012-06-05-tahiti-vanuatu",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    }
+  ],
+  "normalizedScorer": "robert tasso",
+  "playerKey": "robert-tasso",
+  "scorer": "Robert Tasso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "vanuatu"
+  ]
+}

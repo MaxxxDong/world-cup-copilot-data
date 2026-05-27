@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2015-06-12",
+      "goalId": "goal-2015-06-12-andorra-cyprus-34400",
+      "homeTeamId": "andorra",
+      "matchKey": "2015-06-12-andorra-cyprus",
+      "minute": 2,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Dossa Júnior",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "andorra"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2015-10-10",
+      "goalId": "goal-2015-10-10-israel-cyprus-35089",
+      "homeTeamId": "israel",
+      "matchKey": "2015-10-10-israel-cyprus",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dossa Júnior",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "dossa j nior",
+  "playerKey": "dossa-j-nior",
+  "scorer": "Dossa Júnior",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "andorra",
+    "cyprus"
+  ]
+}

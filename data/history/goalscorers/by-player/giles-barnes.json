@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2015-07-18",
+      "goalId": "goal-2015-07-18-haiti-jamaica-34637",
+      "homeTeamId": "haiti",
+      "matchKey": "2015-07-18-haiti-jamaica",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giles Barnes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2015-07-22",
+      "goalId": "goal-2015-07-22-usa-jamaica-34651",
+      "homeTeamId": "usa",
+      "matchKey": "2015-07-22-usa-jamaica",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giles Barnes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "giles barnes",
+  "playerKey": "giles-barnes",
+  "scorer": "Giles Barnes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

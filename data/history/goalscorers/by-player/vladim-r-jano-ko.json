@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2003-04-02",
+      "goalId": "goal-2003-04-02-slovakia-liechtenstein-22651",
+      "homeTeamId": "slovakia",
+      "matchKey": "2003-04-02-slovakia-liechtenstein",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimír Janočko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2003-06-11",
+      "goalId": "goal-2003-06-11-england-slovakia-22741",
+      "homeTeamId": "england",
+      "matchKey": "2003-06-11-england-slovakia",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimír Janočko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    }
+  ],
+  "normalizedScorer": "vladim r jano ko",
+  "playerKey": "vladim-r-jano-ko",
+  "scorer": "Vladimír Janočko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "slovakia"
+  ]
+}

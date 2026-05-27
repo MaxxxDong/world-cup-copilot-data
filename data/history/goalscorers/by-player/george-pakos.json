@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "1985-08-25",
+      "goalId": "goal-1985-08-25-honduras-canada-10914",
+      "homeTeamId": "honduras",
+      "matchKey": "1985-08-25-honduras-canada",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "George Pakos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "1985-09-14",
+      "goalId": "goal-1985-09-14-canada-honduras-10940",
+      "homeTeamId": "canada",
+      "matchKey": "1985-09-14-canada-honduras",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "George Pakos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "george pakos",
+  "playerKey": "george-pakos",
+  "scorer": "George Pakos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

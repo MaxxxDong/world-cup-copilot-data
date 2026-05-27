@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "1965-11-21",
+      "goalId": "goal-1965-11-21-north-korea-australia-4590",
+      "homeTeamId": "north-korea",
+      "matchKey": "1965-11-21-north-korea-australia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Bong-Zin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1965-11-21",
+      "goalId": "goal-1965-11-21-north-korea-australia-4593",
+      "homeTeamId": "north-korea",
+      "matchKey": "1965-11-21-north-korea-australia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Bong-Zin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "han bong zin",
+  "playerKey": "han-bong-zin",
+  "scorer": "Han Bong-Zin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

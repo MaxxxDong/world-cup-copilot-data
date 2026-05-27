@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "2003-06-19",
+      "goalId": "goal-2003-06-19-turkey-usa-22783",
+      "homeTeamId": "turkey",
+      "matchKey": "2003-06-19-turkey-usa",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Okan Yılmaz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2003-06-23",
+      "goalId": "goal-2003-06-23-bra-turkey-22802",
+      "homeTeamId": "bra",
+      "matchKey": "2003-06-23-bra-turkey",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Okan Yılmaz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2003-06-28",
+      "goalId": "goal-2003-06-28-colombia-turkey-22812",
+      "homeTeamId": "colombia",
+      "matchKey": "2003-06-28-colombia-turkey",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Okan Yılmaz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "okan y lmaz",
+  "playerKey": "okan-y-lmaz",
+  "scorer": "Okan Yılmaz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-iran-saudi-arabia-28891",
+      "homeTeamId": "iran",
+      "matchKey": "2009-03-28-iran-saudi-arabia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Osama Al-Muwallad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "2011-07-23",
+      "goalId": "goal-2011-07-23-saudi-arabia-hong-kong-30770",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2011-07-23-saudi-arabia-hong-kong",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Osama Al-Muwallad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "osama al muwallad",
+  "playerKey": "osama-al-muwallad",
+  "scorer": "Osama Al-Muwallad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

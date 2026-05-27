@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "2000-09-03",
+      "goalId": "goal-2000-09-03-peru-arg-20055",
+      "homeTeamId": "peru",
+      "matchKey": "2000-09-03-peru-arg",
+      "minute": 68,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Walter Samuel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-arg-venezuela-20630",
+      "homeTeamId": "arg",
+      "matchKey": "2001-03-28-arg-venezuela",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Samuel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2001-11-08",
+      "goalId": "goal-2001-11-08-arg-peru-22045",
+      "homeTeamId": "arg",
+      "matchKey": "2001-11-08-arg-peru",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Samuel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "walter samuel",
+  "playerKey": "walter-samuel",
+  "scorer": "Walter Samuel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg",
+    "peru"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1962-06-06",
+      "goalId": "goal-1962-06-06-chile-germany-3711",
+      "homeTeamId": "chile",
+      "matchKey": "1962-06-06-chile-germany",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Horst Szymaniak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1965-11-14",
+      "goalId": "goal-1965-11-14-cyprus-germany-4558",
+      "homeTeamId": "cyprus",
+      "matchKey": "1965-11-14-cyprus-germany",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Horst Szymaniak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "horst szymaniak",
+  "playerKey": "horst-szymaniak",
+  "scorer": "Horst Szymaniak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

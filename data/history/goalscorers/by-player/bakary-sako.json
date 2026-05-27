@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2015-01-24",
+      "goalId": "goal-2015-01-24-civ-mali-34134",
+      "homeTeamId": "civ",
+      "matchKey": "2015-01-24-civ-mali",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bakary Sako",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "botswana",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-mali-botswana-35487",
+      "homeTeamId": "mali",
+      "matchKey": "2015-11-17-mali-botswana",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bakary Sako",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "bakary sako",
+  "playerKey": "bakary-sako",
+  "scorer": "Bakary Sako",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali"
+  ]
+}

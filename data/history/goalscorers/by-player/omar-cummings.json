@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "2008-11-19",
+      "goalId": "goal-2008-11-19-jamaica-canada-28819",
+      "homeTeamId": "jamaica",
+      "matchKey": "2008-11-19-jamaica-canada",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Cummings",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2009-07-10",
+      "goalId": "goal-2009-07-10-el-salvador-jamaica-29290",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2009-07-10-el-salvador-jamaica",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Cummings",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "omar cummings",
+  "playerKey": "omar-cummings",
+  "scorer": "Omar Cummings",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

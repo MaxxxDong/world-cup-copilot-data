@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "slovakia",
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-fra-slovakia-15291",
+      "homeTeamId": "fra",
+      "matchKey": "1995-04-26-fra-slovakia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Guérin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "1995-09-06",
+      "goalId": "goal-1995-09-06-fra-azerbaijan-15536",
+      "homeTeamId": "fra",
+      "matchKey": "1995-09-06-fra-azerbaijan",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Guérin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "vincent gu rin",
+  "playerKey": "vincent-gu-rin",
+  "scorer": "Vincent Guérin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

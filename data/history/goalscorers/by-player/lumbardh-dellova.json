@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kosovo",
+      "date": "2024-09-09",
+      "goalId": "goal-2024-09-09-cyprus-kosovo-45297",
+      "homeTeamId": "cyprus",
+      "matchKey": "2024-09-09-cyprus-kosovo",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lumbardh Dellova",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-kosovo-iceland-45899",
+      "homeTeamId": "kosovo",
+      "matchKey": "2025-03-20-kosovo-iceland",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lumbardh Dellova",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    }
+  ],
+  "normalizedScorer": "lumbardh dellova",
+  "playerKey": "lumbardh-dellova",
+  "scorer": "Lumbardh Dellova",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kosovo"
+  ]
+}

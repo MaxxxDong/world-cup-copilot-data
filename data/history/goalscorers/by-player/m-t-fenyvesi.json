@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1961-04-30",
+      "goalId": "goal-1961-04-30-netherlands-hungary-3473",
+      "homeTeamId": "netherlands",
+      "matchKey": "1961-04-30-netherlands-hungary",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Máté Fenyvesi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1965-06-13",
+      "goalId": "goal-1965-06-13-austria-hungary-4383",
+      "homeTeamId": "austria",
+      "matchKey": "1965-06-13-austria-hungary",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Máté Fenyvesi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1965-09-05",
+      "goalId": "goal-1965-09-05-hungary-austria-4444",
+      "homeTeamId": "hungary",
+      "matchKey": "1965-09-05-hungary-austria",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Máté Fenyvesi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "m t fenyvesi",
+  "playerKey": "m-t-fenyvesi",
+  "scorer": "Máté Fenyvesi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

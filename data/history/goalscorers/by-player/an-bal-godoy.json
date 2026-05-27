@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2017-07-19",
+      "goalId": "goal-2017-07-19-costa-rica-panama-36973",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2017-07-19-costa-rica-panama",
+      "minute": 77,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Aníbal Godoy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "dominican-republic",
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-panama-dominican-republic-40671",
+      "homeTeamId": "panama",
+      "matchKey": "2021-06-08-panama-dominican-republic",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aníbal Godoy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2021-10-10",
+      "goalId": "goal-2021-10-10-panama-usa-41655",
+      "homeTeamId": "panama",
+      "matchKey": "2021-10-10-panama-usa",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aníbal Godoy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2022-03-27",
+      "goalId": "goal-2022-03-27-usa-panama-42413",
+      "homeTeamId": "usa",
+      "matchKey": "2022-03-27-usa-panama",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aníbal Godoy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "an bal godoy",
+  "playerKey": "an-bal-godoy",
+  "scorer": "Aníbal Godoy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica",
+    "panama"
+  ]
+}

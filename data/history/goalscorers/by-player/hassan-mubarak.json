@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "1997-10-26",
+      "goalId": "goal-1997-10-26-japan-united-arab-emirates-17908",
+      "homeTeamId": "japan",
+      "matchKey": "1997-10-26-japan-united-arab-emirates",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "1997-12-15",
+      "goalId": "goal-1997-12-15-united-arab-emirates-rsa-18026",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "1997-12-15-united-arab-emirates-rsa",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    }
+  ],
+  "normalizedScorer": "hassan mubarak",
+  "playerKey": "hassan-mubarak",
+  "scorer": "Hassan Mubarak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "united-arab-emirates"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1984-03-18",
+      "goalId": "goal-1984-03-18-cameroon-nigeria-10250",
+      "homeTeamId": "cameroon",
+      "matchKey": "1984-03-18-cameroon-nigeria",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernest Ebongué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "1992-01-19",
+      "goalId": "goal-1992-01-19-senegal-cameroon-13074",
+      "homeTeamId": "senegal",
+      "matchKey": "1992-01-19-senegal-cameroon",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernest Ebongué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "1993-01-10",
+      "goalId": "goal-1993-01-10-dr-congo-cameroon-13624",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1993-01-10-dr-congo-cameroon",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernest Ebongué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "ernest ebongu",
+  "playerKey": "ernest-ebongu",
+  "scorer": "Ernest Ebongué",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2023-06-15",
+      "goalId": "goal-2023-06-15-spain-italy-43197",
+      "homeTeamId": "spain",
+      "matchKey": "2023-06-15-spain-italy",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yeremy Pino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-spain-switzerland-45771",
+      "homeTeamId": "spain",
+      "matchKey": "2024-11-18-spain-switzerland",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yeremy Pino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "yeremy pino",
+  "playerKey": "yeremy-pino",
+  "scorer": "Yeremy Pino",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-denmark-bosnia-and-herzegovina-17216",
+      "homeTeamId": "denmark",
+      "matchKey": "1997-06-08-denmark-bosnia-and-herzegovina",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marc Rieper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1998-06-12",
+      "goalId": "goal-1998-06-12-saudi-arabia-denmark-18218",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "1998-06-12-saudi-arabia-denmark",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marc Rieper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "marc rieper",
+  "playerKey": "marc-rieper",
+  "scorer": "Marc Rieper",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

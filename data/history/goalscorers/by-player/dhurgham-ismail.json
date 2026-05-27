@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "2015-01-23",
+      "goalId": "goal-2015-01-23-iran-iraq-34126",
+      "homeTeamId": "iran",
+      "matchKey": "2015-01-23-iran-iraq",
+      "minute": 116,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Dhurgham Ismail",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-taiwan-iraq-35515",
+      "homeTeamId": "taiwan",
+      "matchKey": "2015-11-17-taiwan-iraq",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dhurgham Ismail",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "dhurgham ismail",
+  "playerKey": "dhurgham-ismail",
+  "scorer": "Dhurgham Ismail",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

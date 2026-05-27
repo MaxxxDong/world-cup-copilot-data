@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "1989-05-27",
+      "goalId": "goal-1989-05-27-hong-kong-north-korea-12039",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1989-05-27-hong-kong-north-korea",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Kwang-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1992-11-01",
+      "goalId": "goal-1992-11-01-japan-north-korea-13465",
+      "homeTeamId": "japan",
+      "matchKey": "1992-11-01-japan-north-korea",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kim Kwang-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1992-11-03",
+      "goalId": "goal-1992-11-03-united-arab-emirates-north-korea-13475",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "1992-11-03-united-arab-emirates-north-korea",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Kwang-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "1993-10-15",
+      "goalId": "goal-1993-10-15-north-korea-iraq-14653",
+      "homeTeamId": "north-korea",
+      "matchKey": "1993-10-15-north-korea-iraq",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Kwang-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "kim kwang min",
+  "playerKey": "kim-kwang-min",
+  "scorer": "Kim Kwang-min",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

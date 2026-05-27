@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-venezuela-arg-41213",
+      "homeTeamId": "venezuela",
+      "matchKey": "2021-09-02-venezuela-arg",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Yeferson Soteldo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-venezuela-chile-43788",
+      "homeTeamId": "venezuela",
+      "matchKey": "2023-10-17-venezuela-chile",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yeferson Soteldo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "yeferson soteldo",
+  "playerKey": "yeferson-soteldo",
+  "scorer": "Yeferson Soteldo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

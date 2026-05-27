@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-russia-san-marino-38410",
+      "homeTeamId": "russia",
+      "matchKey": "2019-06-08-russia-san-marino",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fyodor Kudryashov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2021-11-14",
+      "goalId": "goal-2021-11-14-croatia-russia-41991",
+      "homeTeamId": "croatia",
+      "matchKey": "2021-11-14-croatia-russia",
+      "minute": 81,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Fyodor Kudryashov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "fyodor kudryashov",
+  "playerKey": "fyodor-kudryashov",
+  "scorer": "Fyodor Kudryashov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia",
+    "russia"
+  ]
+}

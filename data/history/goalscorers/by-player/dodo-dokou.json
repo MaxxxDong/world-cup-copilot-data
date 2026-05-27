@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "rwanda",
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-benin-rwanda-44634",
+      "homeTeamId": "benin",
+      "matchKey": "2024-06-06-benin-rwanda",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dodo Dokou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "benin"
+    },
+    {
+      "awayTeamId": "benin",
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-zimbabwe-benin-45941",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "2025-03-20-zimbabwe-benin",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dodo Dokou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "benin"
+    }
+  ],
+  "normalizedScorer": "dodo dokou",
+  "playerKey": "dodo-dokou",
+  "scorer": "Dodo Dokou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "benin"
+  ]
+}

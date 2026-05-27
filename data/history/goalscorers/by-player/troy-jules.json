@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2024-06-09",
+      "goalId": "goal-2024-06-09-dominica-jamaica-44789",
+      "homeTeamId": "dominica",
+      "matchKey": "2024-06-09-dominica-jamaica",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Troy Jules",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dominica"
+    },
+    {
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-dominica-british-virgin-islands-46213",
+      "homeTeamId": "dominica",
+      "matchKey": "2025-06-04-dominica-british-virgin-islands",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Troy Jules",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dominica"
+    }
+  ],
+  "normalizedScorer": "troy jules",
+  "playerKey": "troy-jules",
+  "scorer": "Troy Jules",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dominica"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "2002-10-16",
+      "goalId": "goal-2002-10-16-norway-bosnia-and-herzegovina-22536",
+      "homeTeamId": "norway",
+      "matchKey": "2002-10-16-norway-bosnia-and-herzegovina",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Claus Lundekvam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-slovenia-norway-25658",
+      "homeTeamId": "slovenia",
+      "matchKey": "2005-09-03-slovenia-norway",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Claus Lundekvam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "claus lundekvam",
+  "playerKey": "claus-lundekvam",
+  "scorer": "Claus Lundekvam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

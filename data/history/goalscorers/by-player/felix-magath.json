@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1981-10-14",
+      "goalId": "goal-1981-10-14-austria-germany-9481",
+      "homeTeamId": "austria",
+      "matchKey": "1981-10-14-austria-germany",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Magath",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1985-03-27",
+      "goalId": "goal-1985-03-27-germany-malta-10612",
+      "homeTeamId": "germany",
+      "matchKey": "1985-03-27-germany-malta",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Magath",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "felix magath",
+  "playerKey": "felix-magath",
+  "scorer": "Felix Magath",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

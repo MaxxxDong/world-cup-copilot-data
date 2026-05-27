@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "2019-06-14",
+      "goalId": "goal-2019-06-14-bra-bolivia-38530",
+      "homeTeamId": "bra",
+      "matchKey": "2019-06-14-bra-bolivia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Everton Soares",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2019-06-22",
+      "goalId": "goal-2019-06-22-bra-peru-38609",
+      "homeTeamId": "bra",
+      "matchKey": "2019-06-22-bra-peru",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Everton Soares",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2019-07-07",
+      "goalId": "goal-2019-07-07-bra-peru-38759",
+      "homeTeamId": "bra",
+      "matchKey": "2019-07-07-bra-peru",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Everton Soares",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "everton soares",
+  "playerKey": "everton-soares",
+  "scorer": "Everton Soares",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

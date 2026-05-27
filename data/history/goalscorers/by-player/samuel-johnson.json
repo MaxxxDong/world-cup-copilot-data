@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "tanzania",
+      "date": "1996-06-17",
+      "goalId": "goal-1996-06-17-ghana-tanzania-16086",
+      "homeTeamId": "ghana",
+      "matchKey": "1996-06-17-ghana-tanzania",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samuel Johnson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-ghana-mar-16711",
+      "homeTeamId": "ghana",
+      "matchKey": "1997-01-12-ghana-mar",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samuel Johnson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1998-02-12",
+      "goalId": "goal-1998-02-12-ghana-togo-18132",
+      "homeTeamId": "ghana",
+      "matchKey": "1998-02-12-ghana-togo",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Samuel Johnson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    }
+  ],
+  "normalizedScorer": "samuel johnson",
+  "playerKey": "samuel-johnson",
+  "scorer": "Samuel Johnson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ghana"
+  ]
+}

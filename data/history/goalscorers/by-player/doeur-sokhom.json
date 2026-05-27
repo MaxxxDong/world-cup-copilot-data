@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1972-05-10",
+      "goalId": "goal-1972-05-10-cambodia-south-korea-6326",
+      "homeTeamId": "cambodia",
+      "matchKey": "1972-05-10-cambodia-south-korea",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Doeur Sokhom",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    },
+    {
+      "awayTeamId": "kuwait",
+      "date": "1972-05-14",
+      "goalId": "goal-1972-05-14-cambodia-kuwait-6344",
+      "homeTeamId": "cambodia",
+      "matchKey": "1972-05-14-cambodia-kuwait",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Doeur Sokhom",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "1972-05-16",
+      "goalId": "goal-1972-05-16-iran-cambodia-6353",
+      "homeTeamId": "iran",
+      "matchKey": "1972-05-16-iran-cambodia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Doeur Sokhom",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    }
+  ],
+  "normalizedScorer": "doeur sokhom",
+  "playerKey": "doeur-sokhom",
+  "scorer": "Doeur Sokhom",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cambodia"
+  ]
+}

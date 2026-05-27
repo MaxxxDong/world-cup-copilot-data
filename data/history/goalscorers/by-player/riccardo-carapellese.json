@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1950-06-25",
+      "goalId": "goal-1950-06-25-italy-sweden-1851",
+      "homeTeamId": "italy",
+      "matchKey": "1950-06-25-italy-sweden",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Riccardo Carapellese",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1950-07-02",
+      "goalId": "goal-1950-07-02-italy-paraguay-1897",
+      "homeTeamId": "italy",
+      "matchKey": "1950-07-02-italy-paraguay",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Riccardo Carapellese",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "riccardo carapellese",
+  "playerKey": "riccardo-carapellese",
+  "scorer": "Riccardo Carapellese",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

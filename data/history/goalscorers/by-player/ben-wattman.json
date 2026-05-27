@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1949-09-18",
+      "goalId": "goal-1949-09-18-mex-usa-1773",
+      "homeTeamId": "mex",
+      "matchKey": "1949-09-18-mex-usa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ben Wattman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "ben wattman",
+  "playerKey": "ben-wattman",
+  "scorer": "Ben Wattman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

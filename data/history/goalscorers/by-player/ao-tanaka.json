@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "2021-10-12",
+      "goalId": "goal-2021-10-12-japan-australia-41726",
+      "homeTeamId": "japan",
+      "matchKey": "2021-10-12-japan-australia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ao Tanaka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2022-12-01",
+      "goalId": "goal-2022-12-01-japan-spain-43001",
+      "homeTeamId": "japan",
+      "matchKey": "2022-12-01-japan-spain",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ao Tanaka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-japan-north-korea-44478",
+      "homeTeamId": "japan",
+      "matchKey": "2024-03-21-japan-north-korea",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ao Tanaka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "ao tanaka",
+  "playerKey": "ao-tanaka",
+  "scorer": "Ao Tanaka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

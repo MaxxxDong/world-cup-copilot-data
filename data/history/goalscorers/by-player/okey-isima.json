@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1980-03-15",
+      "goalId": "goal-1980-03-15-nigeria-egypt-8808",
+      "homeTeamId": "nigeria",
+      "matchKey": "1980-03-15-nigeria-egypt",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Okey Isima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1982-03-10",
+      "goalId": "goal-1982-03-10-algeria-nigeria-9651",
+      "homeTeamId": "algeria",
+      "matchKey": "1982-03-10-algeria-nigeria",
+      "minute": 44,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Okey Isima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1985-07-06",
+      "goalId": "goal-1985-07-06-nigeria-tunisia-10886",
+      "homeTeamId": "nigeria",
+      "matchKey": "1985-07-06-nigeria-tunisia",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Okey Isima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "okey isima",
+  "playerKey": "okey-isima",
+  "scorer": "Okey Isima",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria",
+    "nigeria"
+  ]
+}

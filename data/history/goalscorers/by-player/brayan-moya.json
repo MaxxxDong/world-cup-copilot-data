@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41421",
+      "homeTeamId": "honduras",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brayan Moya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2021-11-12",
+      "goalId": "goal-2021-11-12-honduras-panama-41918",
+      "homeTeamId": "honduras",
+      "matchKey": "2021-11-12-honduras-panama",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brayan Moya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    }
+  ],
+  "normalizedScorer": "brayan moya",
+  "playerKey": "brayan-moya",
+  "scorer": "Brayan Moya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "honduras"
+  ]
+}

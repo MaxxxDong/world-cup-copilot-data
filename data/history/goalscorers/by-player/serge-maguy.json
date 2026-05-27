@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1990-03-02",
+      "goalId": "goal-1990-03-02-civ-egypt-12449",
+      "homeTeamId": "civ",
+      "matchKey": "1990-03-02-civ-egypt",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serge Maguy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "serge maguy",
+  "playerKey": "serge-maguy",
+  "scorer": "Serge Maguy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

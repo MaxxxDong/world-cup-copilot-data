@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "sudan",
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-mozambique-sudan-19611",
+      "homeTeamId": "mozambique",
+      "matchKey": "2000-04-23-mozambique-sudan",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mujahid Ahmed",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2000-06-18",
+      "goalId": "goal-2000-06-18-sudan-liberia-19754",
+      "homeTeamId": "sudan",
+      "matchKey": "2000-06-18-sudan-liberia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mujahid Ahmed",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "eritrea",
+      "date": "2003-10-11",
+      "goalId": "goal-2003-10-11-sudan-eritrea-23090",
+      "homeTeamId": "sudan",
+      "matchKey": "2003-10-11-sudan-eritrea",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mujahid Ahmed",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "mujahid ahmed",
+  "playerKey": "mujahid-ahmed",
+  "scorer": "Mujahid Ahmed",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

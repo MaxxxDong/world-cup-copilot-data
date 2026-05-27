@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1981-01-28",
+      "goalId": "goal-1981-01-28-greece-luxembourg-9157",
+      "homeTeamId": "greece",
+      "matchKey": "1981-01-28-greece-luxembourg",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgios Kostikos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1981-04-29",
+      "goalId": "goal-1981-04-29-yugoslavia-greece-9282",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1981-04-29-yugoslavia-greece",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Georgios Kostikos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1983-05-15",
+      "goalId": "goal-1983-05-15-hungary-greece-9996",
+      "homeTeamId": "hungary",
+      "matchKey": "1983-05-15-hungary-greece",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgios Kostikos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "georgios kostikos",
+  "playerKey": "georgios-kostikos",
+  "scorer": "Georgios Kostikos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

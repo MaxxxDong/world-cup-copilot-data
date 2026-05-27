@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2006-09-06",
+      "goalId": "goal-2006-09-06-sweden-liechtenstein-26363",
+      "homeTeamId": "sweden",
+      "matchKey": "2006-09-06-sweden-liechtenstein",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Markus Rosenberg",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2007-06-06",
+      "goalId": "goal-2007-06-06-sweden-iceland-26714",
+      "homeTeamId": "sweden",
+      "matchKey": "2007-06-06-sweden-iceland",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Markus Rosenberg",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "markus rosenberg",
+  "playerKey": "markus-rosenberg",
+  "scorer": "Markus Rosenberg",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

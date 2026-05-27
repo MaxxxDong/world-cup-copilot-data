@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1917-10-03",
+      "goalId": "goal-1917-10-03-arg-bra-24",
+      "homeTeamId": "arg",
+      "matchKey": "1917-10-03-arg-bra",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Calomino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "pedro calomino",
+  "playerKey": "pedro-calomino",
+  "scorer": "Pedro Calomino",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

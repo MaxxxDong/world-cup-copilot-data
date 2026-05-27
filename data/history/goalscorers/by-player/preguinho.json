@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1930-07-14",
+      "goalId": "goal-1930-07-14-bra-yugoslavia-552",
+      "homeTeamId": "bra",
+      "matchKey": "1930-07-14-bra-yugoslavia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Preguinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1930-07-20",
+      "goalId": "goal-1930-07-20-bolivia-bra-581",
+      "homeTeamId": "bolivia",
+      "matchKey": "1930-07-20-bolivia-bra",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Preguinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1930-07-20",
+      "goalId": "goal-1930-07-20-bolivia-bra-583",
+      "homeTeamId": "bolivia",
+      "matchKey": "1930-07-20-bolivia-bra",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Preguinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "preguinho",
+  "playerKey": "preguinho",
+  "scorer": "Preguinho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

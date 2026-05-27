@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guinea",
+      "date": "1980-03-16",
+      "goalId": "goal-1980-03-16-algeria-guinea-8813",
+      "homeTeamId": "algeria",
+      "matchKey": "1980-03-16-algeria-guinea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seydouba Bangoura",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "1980-12-21",
+      "goalId": "goal-1980-12-21-guinea-liberia-9124",
+      "homeTeamId": "guinea",
+      "matchKey": "1980-12-21-guinea-liberia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seydouba Bangoura",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "seydouba bangoura",
+  "playerKey": "seydouba-bangoura",
+  "scorer": "Seydouba Bangoura",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

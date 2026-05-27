@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1969-10-18",
+      "goalId": "goal-1969-10-18-south-korea-japan-5671",
+      "homeTeamId": "south-korea",
+      "matchKey": "1969-10-18-south-korea-japan",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jeong Gang-Ji",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1969-10-18",
+      "goalId": "goal-1969-10-18-south-korea-japan-5672",
+      "homeTeamId": "south-korea",
+      "matchKey": "1969-10-18-south-korea-japan",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jeong Gang-Ji",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "jeong gang ji",
+  "playerKey": "jeong-gang-ji",
+  "scorer": "Jeong Gang-Ji",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

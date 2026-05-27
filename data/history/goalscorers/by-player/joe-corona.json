@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cuba",
+      "date": "2013-07-13",
+      "goalId": "goal-2013-07-13-usa-cuba-33044",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-13-usa-cuba",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Corona",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2013-07-21",
+      "goalId": "goal-2013-07-21-usa-el-salvador-33069",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-21-usa-el-salvador",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Corona",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "nicaragua",
+      "date": "2017-07-15",
+      "goalId": "goal-2017-07-15-usa-nicaragua-36966",
+      "homeTeamId": "usa",
+      "matchKey": "2017-07-15-usa-nicaragua",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Corona",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "joe corona",
+  "playerKey": "joe-corona",
+  "scorer": "Joe Corona",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

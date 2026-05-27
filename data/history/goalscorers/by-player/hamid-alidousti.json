@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "1980-09-20",
+      "goalId": "goal-1980-09-20-china-pr-iran-8962",
+      "homeTeamId": "china-pr",
+      "matchKey": "1980-09-20-china-pr-iran",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hamid Alidousti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-24",
+      "goalId": "goal-1980-09-24-iran-north-korea-8983",
+      "homeTeamId": "iran",
+      "matchKey": "1980-09-24-iran-north-korea",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hamid Alidousti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "1984-12-01",
+      "goalId": "goal-1984-12-01-iran-united-arab-emirates-10449",
+      "homeTeamId": "iran",
+      "matchKey": "1984-12-01-iran-united-arab-emirates",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hamid Alidousti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "hamid alidousti",
+  "playerKey": "hamid-alidousti",
+  "scorer": "Hamid Alidousti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

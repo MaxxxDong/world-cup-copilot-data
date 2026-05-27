@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1965-11-21",
+      "goalId": "goal-1965-11-21-czechoslovakia-turkey-4580",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1965-11-21-czechoslovakia-turkey",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayhan Elmastaşoğlu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1967-02-22",
+      "goalId": "goal-1967-02-22-turkey-republic-of-ireland-4843",
+      "homeTeamId": "turkey",
+      "matchKey": "1967-02-22-turkey-republic-of-ireland",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayhan Elmastaşoğlu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "ayhan elmasta o lu",
+  "playerKey": "ayhan-elmasta-o-lu",
+  "scorer": "Ayhan Elmastaşoğlu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

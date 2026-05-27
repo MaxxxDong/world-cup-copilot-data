@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1972-12-03",
+      "goalId": "goal-1972-12-03-senegal-mar-6496",
+      "homeTeamId": "senegal",
+      "matchKey": "1972-12-03-senegal-mar",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moustapha Choukri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1973-02-11",
+      "goalId": "goal-1973-02-11-guinea-mar-6529",
+      "homeTeamId": "guinea",
+      "matchKey": "1973-02-11-guinea-mar",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moustapha Choukri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "1973-06-03",
+      "goalId": "goal-1973-06-03-mar-civ-6738",
+      "homeTeamId": "mar",
+      "matchKey": "1973-06-03-mar-civ",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moustapha Choukri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "moustapha choukri",
+  "playerKey": "moustapha-choukri",
+  "scorer": "Moustapha Choukri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

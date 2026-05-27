@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-venezuela-bra-41517",
+      "homeTeamId": "venezuela",
+      "matchKey": "2021-10-07-venezuela-bra",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antony",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-bra-paraguay-42279",
+      "homeTeamId": "bra",
+      "matchKey": "2022-02-01-bra-paraguay",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antony",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "antony",
+  "playerKey": "antony",
+  "scorer": "Antony",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

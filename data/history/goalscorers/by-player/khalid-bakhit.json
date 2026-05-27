@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sudan",
+      "date": "2001-03-10",
+      "goalId": "goal-2001-03-10-sierra-leone-sudan-20510",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "2001-03-10-sierra-leone-sudan",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalid Bakhit",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "2001-07-29",
+      "goalId": "goal-2001-07-29-sudan-sierra-leone-21654",
+      "homeTeamId": "sudan",
+      "matchKey": "2001-07-29-sudan-sierra-leone",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalid Bakhit",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "khalid bakhit",
+  "playerKey": "khalid-bakhit",
+  "scorer": "Khalid Bakhit",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

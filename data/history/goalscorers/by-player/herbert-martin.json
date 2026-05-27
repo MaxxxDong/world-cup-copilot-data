@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1954-03-28",
+      "goalId": "goal-1954-03-28-saarland-germany-2189",
+      "homeTeamId": "saarland",
+      "matchKey": "1954-03-28-saarland-germany",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Herbert Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saarland"
+    }
+  ],
+  "normalizedScorer": "herbert martin",
+  "playerKey": "herbert-martin",
+  "scorer": "Herbert Martin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saarland"
+  ]
+}

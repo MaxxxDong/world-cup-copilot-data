@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "2016-11-10",
+      "goalId": "goal-2016-11-10-paraguay-peru-36390",
+      "homeTeamId": "paraguay",
+      "matchKey": "2016-11-10-paraguay-peru",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Ramos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2017-11-15",
+      "goalId": "goal-2017-11-15-peru-new-zealand-37534",
+      "homeTeamId": "peru",
+      "matchKey": "2017-11-15-peru-new-zealand",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Ramos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "christian ramos",
+  "playerKey": "christian-ramos",
+  "scorer": "Christian Ramos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

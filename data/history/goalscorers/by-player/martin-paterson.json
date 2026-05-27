@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2013-08-14",
+      "goalId": "goal-2013-08-14-northern-ireland-russia-33082",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "2013-08-14-northern-ireland-russia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Paterson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-luxembourg-northern-ireland-33277",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2013-09-10-luxembourg-northern-ireland",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Paterson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "martin paterson",
+  "playerKey": "martin-paterson",
+  "scorer": "Martin Paterson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

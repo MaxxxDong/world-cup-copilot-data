@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1998-02-04",
+      "goalId": "goal-1998-02-04-cuba-costa-rica-18069",
+      "homeTeamId": "cuba",
+      "matchKey": "1998-02-04-cuba-costa-rica",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Martén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cuba"
+    },
+    {
+      "awayTeamId": "cayman-islands",
+      "date": "2000-03-05",
+      "goalId": "goal-2000-03-05-cuba-cayman-islands-19353",
+      "homeTeamId": "cuba",
+      "matchKey": "2000-03-05-cuba-cayman-islands",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Martén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cuba"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "2004-02-22",
+      "goalId": "goal-2004-02-22-cayman-islands-cuba-23431",
+      "homeTeamId": "cayman-islands",
+      "matchKey": "2004-02-22-cayman-islands-cuba",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Martén",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cuba"
+    }
+  ],
+  "normalizedScorer": "luis mart n",
+  "playerKey": "luis-mart-n",
+  "scorer": "Luis Martén",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cuba"
+  ]
+}

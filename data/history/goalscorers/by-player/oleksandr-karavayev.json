@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "armenia",
+      "date": "2022-06-11",
+      "goalId": "goal-2022-06-11-ukraine-armenia-42657",
+      "homeTeamId": "ukraine",
+      "matchKey": "2022-06-11-ukraine-armenia",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleksandr Karavayev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2023-10-14",
+      "goalId": "goal-2023-10-14-ukraine-north-macedonia-43696",
+      "homeTeamId": "ukraine",
+      "matchKey": "2023-10-14-ukraine-north-macedonia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleksandr Karavayev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    }
+  ],
+  "normalizedScorer": "oleksandr karavayev",
+  "playerKey": "oleksandr-karavayev",
+  "scorer": "Oleksandr Karavayev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ukraine"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1931-08-30",
+      "goalId": "goal-1931-08-30-estonia-lithuania-627",
+      "homeTeamId": "estonia",
+      "matchKey": "1931-08-30-estonia-lithuania",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leonhard Kass",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1933-06-11",
+      "goalId": "goal-1933-06-11-sweden-estonia-646",
+      "homeTeamId": "sweden",
+      "matchKey": "1933-06-11-sweden-estonia",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leonhard Kass",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1938-09-05",
+      "goalId": "goal-1938-09-05-estonia-latvia-1159",
+      "homeTeamId": "estonia",
+      "matchKey": "1938-09-05-estonia-latvia",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leonhard Kass",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "leonhard kass",
+  "playerKey": "leonhard-kass",
+  "scorer": "Leonhard Kass",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

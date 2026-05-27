@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2019-09-07",
+      "goalId": "goal-2019-09-07-serbia-portugal-38943",
+      "homeTeamId": "serbia",
+      "matchKey": "2019-09-07-serbia-portugal",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikola Milenković",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2021-09-04",
+      "goalId": "goal-2021-09-04-serbia-luxembourg-41252",
+      "homeTeamId": "serbia",
+      "matchKey": "2021-09-04-serbia-luxembourg",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikola Milenković",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-republic-of-ireland-serbia-41383",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2021-09-07-republic-of-ireland-serbia",
+      "minute": 87,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nikola Milenković",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "nikola milenkovi",
+  "playerKey": "nikola-milenkovi",
+  "scorer": "Nikola Milenković",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland",
+    "serbia"
+  ]
+}

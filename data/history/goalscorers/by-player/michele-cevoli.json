@@ -1,0 +1,73 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2017-09-04",
+      "goalId": "goal-2017-09-04-azerbaijan-san-marino-37157",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2017-09-04-azerbaijan-san-marino",
+      "minute": 71,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Michele Cevoli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-russia-san-marino-38408",
+      "homeTeamId": "russia",
+      "matchKey": "2019-06-08-russia-san-marino",
+      "minute": 25,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Michele Cevoli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "2025-03-24",
+      "goalId": "goal-2025-03-24-san-marino-romania-46110",
+      "homeTeamId": "san-marino",
+      "matchKey": "2025-03-24-san-marino-romania",
+      "minute": 6,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Michele Cevoli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "michele cevoli",
+  "playerKey": "michele-cevoli",
+  "scorer": "Michele Cevoli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan",
+    "romania",
+    "russia"
+  ]
+}

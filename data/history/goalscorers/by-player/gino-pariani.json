@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1950-06-25",
+      "goalId": "goal-1950-06-25-spain-usa-1856",
+      "homeTeamId": "spain",
+      "matchKey": "1950-06-25-spain-usa",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gino Pariani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "gino pariani",
+  "playerKey": "gino-pariani",
+  "scorer": "Gino Pariani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

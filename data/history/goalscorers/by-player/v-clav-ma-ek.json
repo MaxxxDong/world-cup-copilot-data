@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1962-06-07",
+      "goalId": "goal-1962-06-07-czechoslovakia-mex-3721",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1962-06-07-czechoslovakia-mex",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Václav Mašek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "german-dr",
+      "date": "1963-03-31",
+      "goalId": "goal-1963-03-31-czechoslovakia-german-dr-3975",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1963-03-31-czechoslovakia-german-dr",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Václav Mašek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "v clav ma ek",
+  "playerKey": "v-clav-ma-ek",
+  "scorer": "Václav Mašek",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

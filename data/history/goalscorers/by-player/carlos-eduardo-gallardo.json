@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "guatemala",
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-trinidad-and-tobago-guatemala-28418",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2008-09-06-trinidad-and-tobago-guatemala",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Eduardo Gallardo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "grenada",
+      "date": "2011-06-13",
+      "goalId": "goal-2011-06-13-guatemala-grenada-30555",
+      "homeTeamId": "guatemala",
+      "matchKey": "2011-06-13-guatemala-grenada",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Eduardo Gallardo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "belize",
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-guatemala-belize-31266",
+      "homeTeamId": "guatemala",
+      "matchKey": "2011-10-11-guatemala-belize",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Carlos Eduardo Gallardo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "carlos eduardo gallardo",
+  "playerKey": "carlos-eduardo-gallardo",
+  "scorer": "Carlos Eduardo Gallardo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala"
+  ]
+}

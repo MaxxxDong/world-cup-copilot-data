@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "1960-11-13",
+      "goalId": "goal-1960-11-13-cyprus-israel-3393",
+      "homeTeamId": "cyprus",
+      "matchKey": "1960-11-13-cyprus-israel",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michalis Yasemis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1960-11-27",
+      "goalId": "goal-1960-11-27-israel-cyprus-3413",
+      "homeTeamId": "israel",
+      "matchKey": "1960-11-27-israel-cyprus",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Michalis Yasemis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "michalis yasemis",
+  "playerKey": "michalis-yasemis",
+  "scorer": "Michalis Yasemis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus"
+  ]
+}

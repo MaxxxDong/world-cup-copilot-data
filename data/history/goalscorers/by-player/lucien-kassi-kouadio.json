@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1986-03-20",
+      "goalId": "goal-1986-03-20-civ-mar-11140",
+      "homeTeamId": "civ",
+      "matchKey": "1986-03-20-civ-mar",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucien Kassi-Kouadio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1986-03-20",
+      "goalId": "goal-1986-03-20-civ-mar-11142",
+      "homeTeamId": "civ",
+      "matchKey": "1986-03-20-civ-mar",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Lucien Kassi-Kouadio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "botswana",
+      "date": "1992-10-10",
+      "goalId": "goal-1992-10-10-civ-botswana-13343",
+      "homeTeamId": "civ",
+      "matchKey": "1992-10-10-civ-botswana",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucien Kassi-Kouadio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "lucien kassi kouadio",
+  "playerKey": "lucien-kassi-kouadio",
+  "scorer": "Lucien Kassi-Kouadio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

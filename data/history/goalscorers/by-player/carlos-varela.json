@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1947-12-09",
+      "goalId": "goal-1947-12-09-chile-peru-1519",
+      "homeTeamId": "chile",
+      "matchKey": "1947-12-09-chile-peru",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Varela",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "carlos varela",
+  "playerKey": "carlos-varela",
+  "scorer": "Carlos Varela",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

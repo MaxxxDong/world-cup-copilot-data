@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1972-10-04",
+      "goalId": "goal-1972-10-04-norway-belgium-6425",
+      "homeTeamId": "norway",
+      "matchKey": "1972-10-04-norway-belgium",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Léon Dolmans",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1973-10-31",
+      "goalId": "goal-1973-10-31-belgium-norway-6856",
+      "homeTeamId": "belgium",
+      "matchKey": "1973-10-31-belgium-norway",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Léon Dolmans",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "l on dolmans",
+  "playerKey": "l-on-dolmans",
+  "scorer": "Léon Dolmans",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

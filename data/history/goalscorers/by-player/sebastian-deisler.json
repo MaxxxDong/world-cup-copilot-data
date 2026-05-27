@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "2000-09-02",
+      "goalId": "goal-2000-09-02-germany-greece-19993",
+      "homeTeamId": "germany",
+      "matchKey": "2000-09-02-germany-greece",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Deisler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2001-03-24",
+      "goalId": "goal-2001-03-24-germany-albania-20560",
+      "homeTeamId": "germany",
+      "matchKey": "2001-03-24-germany-albania",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Deisler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "sebastian deisler",
+  "playerKey": "sebastian-deisler",
+  "scorer": "Sebastian Deisler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

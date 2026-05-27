@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "1972-03-12",
+      "goalId": "goal-1972-03-12-guinea-algeria-6295",
+      "homeTeamId": "guinea",
+      "matchKey": "1972-03-12-guinea-algeria",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rabah Gamouh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "algeria",
+      "date": "1980-12-28",
+      "goalId": "goal-1980-12-28-sudan-algeria-9144",
+      "homeTeamId": "sudan",
+      "matchKey": "1980-12-28-sudan-algeria",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rabah Gamouh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    }
+  ],
+  "normalizedScorer": "rabah gamouh",
+  "playerKey": "rabah-gamouh",
+  "scorer": "Rabah Gamouh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria"
+  ]
+}

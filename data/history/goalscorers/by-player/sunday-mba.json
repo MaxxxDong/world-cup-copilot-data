@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "2013-02-03",
+      "goalId": "goal-2013-02-03-civ-nigeria-32524",
+      "homeTeamId": "civ",
+      "matchKey": "2013-02-03-civ-nigeria",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sunday Mba",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2013-02-10",
+      "goalId": "goal-2013-02-10-nigeria-burkina-faso-32543",
+      "homeTeamId": "nigeria",
+      "matchKey": "2013-02-10-nigeria-burkina-faso",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sunday Mba",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "sunday mba",
+  "playerKey": "sunday-mba",
+  "scorer": "Sunday Mba",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

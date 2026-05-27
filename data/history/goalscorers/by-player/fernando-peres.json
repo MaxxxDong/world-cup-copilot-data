@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1969-05-04",
+      "goalId": "goal-1969-05-04-portugal-greece-5444",
+      "homeTeamId": "portugal",
+      "matchKey": "1969-05-04-portugal-greece",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Peres",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1971-11-21",
+      "goalId": "goal-1971-11-21-portugal-belgium-6185",
+      "homeTeamId": "portugal",
+      "matchKey": "1971-11-21-portugal-belgium",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fernando Peres",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "fernando peres",
+  "playerKey": "fernando-peres",
+  "scorer": "Fernando Peres",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "2014-07-04",
+      "goalId": "goal-2014-07-04-bra-colombia-33752",
+      "homeTeamId": "bra",
+      "matchKey": "2014-07-04-bra-colombia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2015-06-21",
+      "goalId": "goal-2015-06-21-bra-venezuela-34575",
+      "homeTeamId": "bra",
+      "matchKey": "2015-06-21-bra-venezuela",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2018-06-27",
+      "goalId": "goal-2018-06-27-serbia-bra-37649",
+      "homeTeamId": "serbia",
+      "matchKey": "2018-06-27-serbia-bra",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "thiago silva",
+  "playerKey": "thiago-silva",
+  "scorer": "Thiago Silva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1969-10-22",
+      "goalId": "goal-1969-10-22-germany-scotland-5679",
+      "homeTeamId": "germany",
+      "matchKey": "1969-10-22-germany-scotland",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy Johnstone",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "jimmy johnstone",
+  "playerKey": "jimmy-johnstone",
+  "scorer": "Jimmy Johnstone",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

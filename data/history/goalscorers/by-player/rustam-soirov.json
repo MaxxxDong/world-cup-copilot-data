@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tajikistan",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-pakistan-tajikistan-44155",
+      "homeTeamId": "pakistan",
+      "matchKey": "2023-11-21-pakistan-tajikistan",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rustam Soirov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tajikistan"
+    },
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-tajikistan-saudi-arabia-44574",
+      "homeTeamId": "tajikistan",
+      "matchKey": "2024-03-26-tajikistan-saudi-arabia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rustam Soirov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tajikistan"
+    }
+  ],
+  "normalizedScorer": "rustam soirov",
+  "playerKey": "rustam-soirov",
+  "scorer": "Rustam Soirov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tajikistan"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "serbia",
+      "date": "2019-10-14",
+      "goalId": "goal-2019-10-14-lithuania-serbia-39277",
+      "homeTeamId": "lithuania",
+      "matchKey": "2019-10-14-lithuania-serbia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Donatas Kazlauskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "2020-09-07",
+      "goalId": "goal-2020-09-07-albania-lithuania-39687",
+      "homeTeamId": "albania",
+      "matchKey": "2020-09-07-albania-lithuania",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Donatas Kazlauskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "donatas kazlauskas",
+  "playerKey": "donatas-kazlauskas",
+  "scorer": "Donatas Kazlauskas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

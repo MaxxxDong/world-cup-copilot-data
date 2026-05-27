@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1984-09-30",
+      "goalId": "goal-1984-09-30-zimbabwe-egypt-10331",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1984-09-30-zimbabwe-egypt",
+      "minute": 9,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Hamada Sedki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "hamada sedki",
+  "playerKey": "hamada-sedki",
+  "scorer": "Hamada Sedki",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

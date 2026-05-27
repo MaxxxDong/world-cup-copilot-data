@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "1976-10-27",
+      "goalId": "goal-1976-10-27-denmark-cyprus-7638",
+      "homeTeamId": "denmark",
+      "matchKey": "1976-10-27-denmark-cyprus",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benny Nielsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1978-05-24",
+      "goalId": "goal-1978-05-24-denmark-republic-of-ireland-8215",
+      "homeTeamId": "denmark",
+      "matchKey": "1978-05-24-denmark-republic-of-ireland",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Benny Nielsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1978-10-11",
+      "goalId": "goal-1978-10-11-denmark-bulgaria-8367",
+      "homeTeamId": "denmark",
+      "matchKey": "1978-10-11-denmark-bulgaria",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benny Nielsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "benny nielsen",
+  "playerKey": "benny-nielsen",
+  "scorer": "Benny Nielsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

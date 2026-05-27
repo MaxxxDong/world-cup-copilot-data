@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "benin",
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-nigeria-benin-47185",
+      "homeTeamId": "nigeria",
+      "matchKey": "2025-10-14-nigeria-benin",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Onyeka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2025-11-16",
+      "goalId": "goal-2025-11-16-nigeria-dr-congo-47333",
+      "homeTeamId": "nigeria",
+      "matchKey": "2025-11-16-nigeria-dr-congo",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Onyeka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "frank onyeka",
+  "playerKey": "frank-onyeka",
+  "scorer": "Frank Onyeka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

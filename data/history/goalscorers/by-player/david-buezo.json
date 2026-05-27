@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "haiti",
+      "date": "1981-11-03",
+      "goalId": "goal-1981-11-03-honduras-haiti-9531",
+      "homeTeamId": "honduras",
+      "matchKey": "1981-11-03-honduras-haiti",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Buezo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "1981-11-08",
+      "goalId": "goal-1981-11-08-honduras-cuba-9539",
+      "homeTeamId": "honduras",
+      "matchKey": "1981-11-08-honduras-cuba",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Buezo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    }
+  ],
+  "normalizedScorer": "david buezo",
+  "playerKey": "david-buezo",
+  "scorer": "David Buezo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "honduras"
+  ]
+}

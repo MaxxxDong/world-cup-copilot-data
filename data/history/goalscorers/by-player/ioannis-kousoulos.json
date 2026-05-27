@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2019-03-21",
+      "goalId": "goal-2019-03-21-cyprus-san-marino-38182",
+      "homeTeamId": "cyprus",
+      "matchKey": "2019-03-21-cyprus-san-marino",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Kousoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-scotland-cyprus-38418",
+      "homeTeamId": "scotland",
+      "matchKey": "2019-06-08-scotland-cyprus",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Kousoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2019-09-09",
+      "goalId": "goal-2019-09-09-san-marino-cyprus-38990",
+      "homeTeamId": "san-marino",
+      "matchKey": "2019-09-09-san-marino-cyprus",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Kousoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2019-09-09",
+      "goalId": "goal-2019-09-09-san-marino-cyprus-38992",
+      "homeTeamId": "san-marino",
+      "matchKey": "2019-09-09-san-marino-cyprus",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ioannis Kousoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2020-11-14",
+      "goalId": "goal-2020-11-14-cyprus-luxembourg-39910",
+      "homeTeamId": "cyprus",
+      "matchKey": "2020-11-14-cyprus-luxembourg",
+      "minute": 5,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ioannis Kousoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "ioannis kousoulos",
+  "playerKey": "ioannis-kousoulos",
+  "scorer": "Ioannis Kousoulos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus",
+    "luxembourg"
+  ]
+}

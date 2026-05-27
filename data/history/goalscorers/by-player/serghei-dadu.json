@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "belarus",
+      "date": "2003-09-10",
+      "goalId": "goal-2003-09-10-moldova-belarus-23000",
+      "homeTeamId": "moldova",
+      "matchKey": "2003-09-10-moldova-belarus",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serghei Dadu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-moldova-scotland-24734",
+      "homeTeamId": "moldova",
+      "matchKey": "2004-10-13-moldova-scotland",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serghei Dadu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-san-marino-moldova-32443",
+      "homeTeamId": "san-marino",
+      "matchKey": "2012-10-16-san-marino-moldova",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Serghei Dadu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    }
+  ],
+  "normalizedScorer": "serghei dadu",
+  "playerKey": "serghei-dadu",
+  "scorer": "Serghei Dadu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "moldova"
+  ]
+}

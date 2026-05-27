@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2003-06-21",
+      "goalId": "goal-2003-06-21-cameroon-turkey-22793",
+      "homeTeamId": "cameroon",
+      "matchKey": "2003-06-21-cameroon-turkey",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Geremi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2006-01-29",
+      "goalId": "goal-2006-01-29-cameroon-dr-congo-26055",
+      "homeTeamId": "cameroon",
+      "matchKey": "2006-01-29-cameroon-dr-congo",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Geremi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "geremi",
+  "playerKey": "geremi",
+  "scorer": "Geremi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

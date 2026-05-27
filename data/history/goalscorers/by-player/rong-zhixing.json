@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "macau",
+      "date": "1980-12-24",
+      "goalId": "goal-1980-12-24-china-pr-macau-9132",
+      "homeTeamId": "china-pr",
+      "matchKey": "1980-12-24-china-pr-macau",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rong Zhixing",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1980-12-26",
+      "goalId": "goal-1980-12-26-china-pr-japan-9135",
+      "homeTeamId": "china-pr",
+      "matchKey": "1980-12-26-china-pr-japan",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rong Zhixing",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "kuwait",
+      "date": "1981-10-18",
+      "goalId": "goal-1981-10-18-china-pr-kuwait-9508",
+      "homeTeamId": "china-pr",
+      "matchKey": "1981-10-18-china-pr-kuwait",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rong Zhixing",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "rong zhixing",
+  "playerKey": "rong-zhixing",
+  "scorer": "Rong Zhixing",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr"
+  ]
+}

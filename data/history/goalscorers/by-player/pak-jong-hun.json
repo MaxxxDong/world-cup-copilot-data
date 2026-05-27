@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-24",
+      "goalId": "goal-1980-09-24-iran-north-korea-8987",
+      "homeTeamId": "iran",
+      "matchKey": "1980-09-24-iran-north-korea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Jong-hun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-28",
+      "goalId": "goal-1980-09-28-south-korea-north-korea-9018",
+      "homeTeamId": "south-korea",
+      "matchKey": "1980-09-28-south-korea-north-korea",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pak Jong-hun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "pak jong hun",
+  "playerKey": "pak-jong-hun",
+  "scorer": "Pak Jong-hun",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

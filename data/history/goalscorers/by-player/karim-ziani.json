@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "liberia",
+      "date": "2008-06-06",
+      "goalId": "goal-2008-06-06-algeria-liberia-27836",
+      "homeTeamId": "algeria",
+      "matchKey": "2008-06-06-algeria-liberia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karim Ziani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2008-06-06",
+      "goalId": "goal-2008-06-06-algeria-liberia-27837",
+      "homeTeamId": "algeria",
+      "matchKey": "2008-06-06-algeria-liberia",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Karim Ziani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "rwanda",
+      "date": "2009-10-11",
+      "goalId": "goal-2009-10-11-algeria-rwanda-29665",
+      "homeTeamId": "algeria",
+      "matchKey": "2009-10-11-algeria-rwanda",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Karim Ziani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    }
+  ],
+  "normalizedScorer": "karim ziani",
+  "playerKey": "karim-ziani",
+  "scorer": "Karim Ziani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria"
+  ]
+}

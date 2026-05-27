@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1984-11-14",
+      "goalId": "goal-1984-11-14-turkey-england-10436",
+      "homeTeamId": "turkey",
+      "matchKey": "1984-11-14-turkey-england",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viv Anderson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1986-11-12",
+      "goalId": "goal-1986-11-12-england-yugoslavia-11327",
+      "homeTeamId": "england",
+      "matchKey": "1986-11-12-england-yugoslavia",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viv Anderson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "viv anderson",
+  "playerKey": "viv-anderson",
+  "scorer": "Viv Anderson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

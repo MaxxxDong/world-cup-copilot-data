@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1949-09-18",
+      "goalId": "goal-1949-09-18-mex-usa-1766",
+      "homeTeamId": "mex",
+      "matchKey": "1949-09-18-mex-usa",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Héctor Ortiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1950-06-28",
+      "goalId": "goal-1950-06-28-mex-yugoslavia-1871",
+      "homeTeamId": "mex",
+      "matchKey": "1950-06-28-mex-yugoslavia",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Héctor Ortiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "h ctor ortiz",
+  "playerKey": "h-ctor-ortiz",
+  "scorer": "Héctor Ortiz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

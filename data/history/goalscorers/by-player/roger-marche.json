@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1958-12-03",
+      "goalId": "goal-1958-12-03-greece-fra-3077",
+      "homeTeamId": "greece",
+      "matchKey": "1958-12-03-greece-fra",
+      "minute": 85,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Roger Marche",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "roger marche",
+  "playerKey": "roger-marche",
+  "scorer": "Roger Marche",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

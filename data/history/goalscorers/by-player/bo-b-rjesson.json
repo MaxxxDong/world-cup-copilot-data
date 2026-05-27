@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1976-10-09",
+      "goalId": "goal-1976-10-09-switzerland-sweden-7610",
+      "homeTeamId": "switzerland",
+      "matchKey": "1976-10-09-switzerland-sweden",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bo Börjesson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1977-06-08",
+      "goalId": "goal-1977-06-08-sweden-switzerland-7910",
+      "homeTeamId": "sweden",
+      "matchKey": "1977-06-08-sweden-switzerland",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bo Börjesson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "1981-06-24",
+      "goalId": "goal-1981-06-24-sweden-portugal-9371",
+      "homeTeamId": "sweden",
+      "matchKey": "1981-06-24-sweden-portugal",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bo Börjesson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "bo b rjesson",
+  "playerKey": "bo-b-rjesson",
+  "scorer": "Bo Börjesson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

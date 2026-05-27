@@ -1,0 +1,89 @@
+{
+  "generatedFromMatchCount": 3,
+  "recentMatches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "franconia",
+      "date": "2019-06-25",
+      "homeScore": 3,
+      "homeTeamId": "raetia",
+      "matchId": "int-2019-06-25-raetia-franconia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "franconia",
+      "date": "2015-09-06",
+      "homeScore": 6,
+      "homeTeamId": "raetia",
+      "matchId": "int-2015-09-06-raetia-franconia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Benedikt Fontana Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "raetia",
+      "date": "2014-05-29",
+      "homeScore": 4,
+      "homeTeamId": "franconia",
+      "matchId": "int-2014-05-29-franconia-raetia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "franconia",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    }
+  }
+}

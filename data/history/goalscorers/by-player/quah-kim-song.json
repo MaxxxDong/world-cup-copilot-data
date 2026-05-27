@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "thailand",
+      "date": "1977-02-27",
+      "goalId": "goal-1977-02-27-singapore-thailand-7728",
+      "homeTeamId": "singapore",
+      "matchKey": "1977-02-27-singapore-thailand",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Quah Kim Song",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1977-03-02",
+      "goalId": "goal-1977-03-02-singapore-hong-kong-7754",
+      "homeTeamId": "singapore",
+      "matchKey": "1977-03-02-singapore-hong-kong",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Quah Kim Song",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    }
+  ],
+  "normalizedScorer": "quah kim song",
+  "playerKey": "quah-kim-song",
+  "scorer": "Quah Kim Song",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "singapore"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1972-06-18",
+      "goalId": "goal-1972-06-18-germany-russia-6397",
+      "homeTeamId": "germany",
+      "matchKey": "1972-06-18-germany-russia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Herbert Wimmer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1974-11-20",
+      "goalId": "goal-1974-11-20-greece-germany-7150",
+      "homeTeamId": "greece",
+      "matchKey": "1974-11-20-greece-germany",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Herbert Wimmer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "herbert wimmer",
+  "playerKey": "herbert-wimmer",
+  "scorer": "Herbert Wimmer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

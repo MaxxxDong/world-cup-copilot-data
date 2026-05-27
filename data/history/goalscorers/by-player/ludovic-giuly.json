@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2003-06-22",
+      "goalId": "goal-2003-06-22-fra-new-zealand-22797",
+      "homeTeamId": "fra",
+      "matchKey": "2003-06-22-fra-new-zealand",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ludovic Giuly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-faroe-islands-fra-24405",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2004-09-08-faroe-islands-fra",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ludovic Giuly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2005-10-12",
+      "goalId": "goal-2005-10-12-fra-cyprus-25941",
+      "homeTeamId": "fra",
+      "matchKey": "2005-10-12-fra-cyprus",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ludovic Giuly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "ludovic giuly",
+  "playerKey": "ludovic-giuly",
+  "scorer": "Ludovic Giuly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

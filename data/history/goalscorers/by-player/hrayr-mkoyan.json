@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2015-06-13",
+      "goalId": "goal-2015-06-13-armenia-portugal-34427",
+      "homeTeamId": "armenia",
+      "matchKey": "2015-06-13-armenia-portugal",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hrayr Mkoyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2016-10-11",
+      "goalId": "goal-2016-10-11-poland-armenia-36372",
+      "homeTeamId": "poland",
+      "matchKey": "2016-10-11-poland-armenia",
+      "minute": 48,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Hrayr Mkoyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "hrayr mkoyan",
+  "playerKey": "hrayr-mkoyan",
+  "scorer": "Hrayr Mkoyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "armenia",
+    "poland"
+  ]
+}

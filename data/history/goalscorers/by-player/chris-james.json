@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2013-11-13",
+      "goalId": "goal-2013-11-13-mex-new-zealand-33555",
+      "homeTeamId": "mex",
+      "matchKey": "2013-11-13-mex-new-zealand",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris James",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2013-11-20",
+      "goalId": "goal-2013-11-20-new-zealand-mex-33591",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2013-11-20-new-zealand-mex",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Chris James",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "chris james",
+  "playerKey": "chris-james",
+  "scorer": "Chris James",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montenegro",
+      "date": "2023-09-07",
+      "goalId": "goal-2023-09-07-lithuania-montenegro-43448",
+      "homeTeamId": "lithuania",
+      "matchKey": "2023-09-07-lithuania-montenegro",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gytis Paulauskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2023-09-10",
+      "goalId": "goal-2023-09-10-lithuania-serbia-43531",
+      "homeTeamId": "lithuania",
+      "matchKey": "2023-09-10-lithuania-serbia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gytis Paulauskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "gytis paulauskas",
+  "playerKey": "gytis-paulauskas",
+  "scorer": "Gytis Paulauskas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

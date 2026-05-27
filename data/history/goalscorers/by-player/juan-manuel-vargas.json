@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "2007-11-18",
+      "goalId": "goal-2007-11-18-peru-bra-27435",
+      "homeTeamId": "peru",
+      "matchKey": "2007-11-18-peru-bra",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Manuel Vargas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2009-06-07",
+      "goalId": "goal-2009-06-07-peru-ecuador-29143",
+      "homeTeamId": "peru",
+      "matchKey": "2009-06-07-peru-ecuador",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Manuel Vargas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2011-07-16",
+      "goalId": "goal-2011-07-16-colombia-peru-30718",
+      "homeTeamId": "colombia",
+      "matchKey": "2011-07-16-colombia-peru",
+      "minute": 111,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Manuel Vargas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan manuel vargas",
+  "playerKey": "juan-manuel-vargas",
+  "scorer": "Juan Manuel Vargas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

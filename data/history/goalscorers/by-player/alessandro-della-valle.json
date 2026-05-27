@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-san-marino-england-32615",
+      "homeTeamId": "san-marino",
+      "matchKey": "2013-03-22-san-marino-england",
+      "minute": 12,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Alessandro Della Valle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-san-marino-poland-33304",
+      "homeTeamId": "san-marino",
+      "matchKey": "2013-09-10-san-marino-poland",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alessandro Della Valle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "san-marino"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2014-10-09",
+      "goalId": "goal-2014-10-09-england-san-marino-33841",
+      "homeTeamId": "england",
+      "matchKey": "2014-10-09-england-san-marino",
+      "minute": 78,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Alessandro Della Valle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "alessandro della valle",
+  "playerKey": "alessandro-della-valle",
+  "scorer": "Alessandro Della Valle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england",
+    "san-marino"
+  ]
+}

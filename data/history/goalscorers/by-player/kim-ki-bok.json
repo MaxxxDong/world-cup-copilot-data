@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1969-10-12",
+      "goalId": "goal-1969-10-12-south-korea-japan-5644",
+      "homeTeamId": "south-korea",
+      "matchKey": "1969-10-12-south-korea-japan",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Ki-bok",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "kim ki bok",
+  "playerKey": "kim-ki-bok",
+  "scorer": "Kim Ki-bok",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

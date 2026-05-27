@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liberia",
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-angola-liberia-33189",
+      "homeTeamId": "angola",
+      "matchKey": "2013-09-07-angola-liberia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Macauley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "liberia"
+    },
+    {
+      "awayTeamId": "central-african-republic",
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-liberia-central-african-republic-42106",
+      "homeTeamId": "liberia",
+      "matchKey": "2021-11-16-liberia-central-african-republic",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Macauley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "liberia"
+    }
+  ],
+  "normalizedScorer": "marcus macauley",
+  "playerKey": "marcus-macauley",
+  "scorer": "Marcus Macauley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "liberia"
+  ]
+}

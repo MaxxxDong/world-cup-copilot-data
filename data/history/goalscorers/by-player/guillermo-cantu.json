@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1993-07-25",
+      "goalId": "goal-1993-07-25-mex-usa-14450",
+      "homeTeamId": "mex",
+      "matchKey": "1993-07-25-mex-usa",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Guillermo Cantu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "guillermo cantu",
+  "playerKey": "guillermo-cantu",
+  "scorer": "Guillermo Cantu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

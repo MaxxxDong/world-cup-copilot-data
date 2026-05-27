@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1970-06-06",
+      "goalId": "goal-1970-06-06-czechoslovakia-romania-5866",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1970-06-06-czechoslovakia-romania",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexandru Neagu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1972-05-14",
+      "goalId": "goal-1972-05-14-romania-hungary-6351",
+      "homeTeamId": "romania",
+      "matchKey": "1972-05-14-romania-hungary",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexandru Neagu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1972-05-17",
+      "goalId": "goal-1972-05-17-hungary-romania-6356",
+      "homeTeamId": "hungary",
+      "matchKey": "1972-05-17-hungary-romania",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexandru Neagu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "alexandru neagu",
+  "playerKey": "alexandru-neagu",
+  "scorer": "Alexandru Neagu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

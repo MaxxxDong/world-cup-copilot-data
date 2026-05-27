@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1989-09-10",
+      "goalId": "goal-1989-09-10-paraguay-ecuador-12299",
+      "homeTeamId": "paraguay",
+      "matchKey": "1989-09-10-paraguay-ecuador",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raúl Avilés",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1989-09-24",
+      "goalId": "goal-1989-09-24-ecuador-paraguay-12318",
+      "homeTeamId": "ecuador",
+      "matchKey": "1989-09-24-ecuador-paraguay",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raúl Avilés",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "ra l avil s",
+  "playerKey": "ra-l-avil-s",
+  "scorer": "Raúl Avilés",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "1997-11-16",
+      "goalId": "goal-1997-11-16-costa-rica-canada-17978",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1997-11-16-costa-rica-canada",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luis Marín Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "2001-06-20",
+      "goalId": "goal-2001-06-20-costa-rica-jamaica-21475",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2001-06-20-costa-rica-jamaica",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Marín Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2004-07-11",
+      "goalId": "goal-2004-07-11-bra-costa-rica-24085",
+      "homeTeamId": "bra",
+      "matchKey": "2004-07-11-bra-costa-rica",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Marín Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "luis mar n murillo",
+  "playerKey": "luis-mar-n-murillo",
+  "scorer": "Luis Marín Murillo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

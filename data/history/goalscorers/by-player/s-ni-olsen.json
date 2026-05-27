@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "2003-09-10",
+      "goalId": "goal-2003-09-10-faroe-islands-lithuania-22985",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2003-09-10-faroe-islands-lithuania",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Súni Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-fra-faroe-islands-25611",
+      "homeTeamId": "fra",
+      "matchKey": "2005-09-03-fra-faroe-islands",
+      "minute": 18,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Súni Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-faroe-islands-lithuania-29495",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2009-09-09-faroe-islands-lithuania",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Súni Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    }
+  ],
+  "normalizedScorer": "s ni olsen",
+  "playerKey": "s-ni-olsen",
+  "scorer": "Súni Olsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "faroe-islands",
+    "fra"
+  ]
+}

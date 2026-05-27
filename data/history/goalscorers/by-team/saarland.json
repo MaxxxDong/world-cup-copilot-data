@@ -1,0 +1,70 @@
+{
+  "goalCount": 4,
+  "recentGoals": [
+    {
+      "date": "1954-03-28",
+      "goalId": "goal-1954-03-28-saarland-germany-2189",
+      "matchKey": "1954-03-28-saarland-germany",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Herbert Martin"
+    },
+    {
+      "date": "1953-06-24",
+      "goalId": "goal-1953-06-24-norway-saarland-2018",
+      "matchKey": "1953-06-24-norway-saarland",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerhard Siedl"
+    },
+    {
+      "date": "1953-06-24",
+      "goalId": "goal-1953-06-24-norway-saarland-2017",
+      "matchKey": "1953-06-24-norway-saarland",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Werner Otto"
+    },
+    {
+      "date": "1953-06-24",
+      "goalId": "goal-1953-06-24-norway-saarland-2016",
+      "matchKey": "1953-06-24-norway-saarland",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Herbert Binkert"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "saarland",
+  "topScorers": [
+    {
+      "goals": 1,
+      "playerKey": "gerhard-siedl",
+      "scorer": "Gerhard Siedl"
+    },
+    {
+      "goals": 1,
+      "playerKey": "herbert-binkert",
+      "scorer": "Herbert Binkert"
+    },
+    {
+      "goals": 1,
+      "playerKey": "herbert-martin",
+      "scorer": "Herbert Martin"
+    },
+    {
+      "goals": 1,
+      "playerKey": "werner-otto",
+      "scorer": "Werner Otto"
+    }
+  ]
+}

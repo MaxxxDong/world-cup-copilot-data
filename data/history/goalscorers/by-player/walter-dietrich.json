@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1924-05-25",
+      "goalId": "goal-1924-05-25-switzerland-lithuania-146",
+      "homeTeamId": "switzerland",
+      "matchKey": "1924-05-25-switzerland-lithuania",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Dietrich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1924-05-28",
+      "goalId": "goal-1924-05-28-switzerland-czechoslovakia-182",
+      "homeTeamId": "switzerland",
+      "matchKey": "1924-05-28-switzerland-czechoslovakia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Dietrich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "walter dietrich",
+  "playerKey": "walter-dietrich",
+  "scorer": "Walter Dietrich",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

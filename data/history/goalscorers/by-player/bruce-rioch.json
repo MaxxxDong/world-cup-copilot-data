@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1975-10-29",
+      "goalId": "goal-1975-10-29-scotland-denmark-7398",
+      "homeTeamId": "scotland",
+      "matchKey": "1975-10-29-scotland-denmark",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruce Rioch",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1975-12-17",
+      "goalId": "goal-1975-12-17-scotland-romania-7425",
+      "homeTeamId": "scotland",
+      "matchKey": "1975-12-17-scotland-romania",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruce Rioch",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "bruce rioch",
+  "playerKey": "bruce-rioch",
+  "scorer": "Bruce Rioch",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

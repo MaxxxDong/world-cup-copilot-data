@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "new-caledonia",
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-new-zealand-new-caledonia-42360",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2022-03-24-new-zealand-new-caledonia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andre de Jong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "andre de jong",
+  "playerKey": "andre-de-jong",
+  "scorer": "Andre de Jong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

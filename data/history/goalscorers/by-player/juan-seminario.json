@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1957-03-23",
+      "goalId": "goal-1957-03-23-peru-uruguay-2605",
+      "homeTeamId": "peru",
+      "matchKey": "1957-03-23-peru-uruguay",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Seminario",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1959-03-10",
+      "goalId": "goal-1959-03-10-bra-peru-3094",
+      "homeTeamId": "bra",
+      "matchKey": "1959-03-10-bra-peru",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Seminario",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1959-03-10",
+      "goalId": "goal-1959-03-10-bra-peru-3095",
+      "homeTeamId": "bra",
+      "matchKey": "1959-03-10-bra-peru",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Seminario",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan seminario",
+  "playerKey": "juan-seminario",
+  "scorer": "Juan Seminario",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

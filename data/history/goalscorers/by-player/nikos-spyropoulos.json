@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "georgia",
+      "date": "2010-09-03",
+      "goalId": "goal-2010-09-03-greece-georgia-30043",
+      "homeTeamId": "greece",
+      "matchKey": "2010-09-03-greece-georgia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikos Spyropoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2010-10-12",
+      "goalId": "goal-2010-10-12-greece-israel-30227",
+      "homeTeamId": "greece",
+      "matchKey": "2010-10-12-greece-israel",
+      "minute": 59,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nikos Spyropoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-latvia-greece-32084",
+      "homeTeamId": "latvia",
+      "matchKey": "2012-09-07-latvia-greece",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikos Spyropoulos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "nikos spyropoulos",
+  "playerKey": "nikos-spyropoulos",
+  "scorer": "Nikos Spyropoulos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece",
+    "israel"
+  ]
+}

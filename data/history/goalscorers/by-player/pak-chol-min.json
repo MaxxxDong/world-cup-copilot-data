@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "2007-10-21",
+      "goalId": "goal-2007-10-21-mongolia-north-korea-27269",
+      "homeTeamId": "mongolia",
+      "matchKey": "2007-10-21-mongolia-north-korea",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Chol-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "mongolia",
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-north-korea-mongolia-27309",
+      "homeTeamId": "north-korea",
+      "matchKey": "2007-10-28-north-korea-mongolia",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Chol-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "mongolia",
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-north-korea-mongolia-27313",
+      "homeTeamId": "north-korea",
+      "matchKey": "2007-10-28-north-korea-mongolia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Chol-min",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "pak chol min",
+  "playerKey": "pak-chol-min",
+  "scorer": "Pak Chol-min",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

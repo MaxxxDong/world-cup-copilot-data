@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belize",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-nicaragua-belize-40532",
+      "homeTeamId": "nicaragua",
+      "matchKey": "2021-06-04-nicaragua-belize",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Byron Bonilla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nicaragua"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-nicaragua-costa-rica-46659",
+      "homeTeamId": "nicaragua",
+      "matchKey": "2025-09-05-nicaragua-costa-rica",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Byron Bonilla",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nicaragua"
+    }
+  ],
+  "normalizedScorer": "byron bonilla",
+  "playerKey": "byron-bonilla",
+  "scorer": "Byron Bonilla",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nicaragua"
+  ]
+}

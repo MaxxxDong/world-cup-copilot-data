@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "2019-11-18",
+      "goalId": "goal-2019-11-18-gibraltar-switzerland-39511",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2019-11-18-gibraltar-switzerland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Reece Styche",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-montenegro-gibraltar-40209",
+      "homeTeamId": "montenegro",
+      "matchKey": "2021-03-27-montenegro-gibraltar",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Reece Styche",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-norway-gibraltar-41378",
+      "homeTeamId": "norway",
+      "matchKey": "2021-09-07-norway-gibraltar",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Reece Styche",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    }
+  ],
+  "normalizedScorer": "reece styche",
+  "playerKey": "reece-styche",
+  "scorer": "Reece Styche",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gibraltar"
+  ]
+}

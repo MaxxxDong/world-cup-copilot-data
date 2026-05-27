@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1961-10-08",
+      "goalId": "goal-1961-10-08-yugoslavia-south-korea-3571",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1961-10-08-yugoslavia-south-korea",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petar Radaković",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1962-06-10",
+      "goalId": "goal-1962-06-10-germany-yugoslavia-3736",
+      "homeTeamId": "germany",
+      "matchKey": "1962-06-10-germany-yugoslavia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petar Radaković",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "petar radakovi",
+  "playerKey": "petar-radakovi",
+  "scorer": "Petar Radaković",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

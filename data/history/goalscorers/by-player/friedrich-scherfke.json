@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "poland",
+      "date": "1938-06-05",
+      "goalId": "goal-1938-06-05-bra-poland-1072",
+      "homeTeamId": "bra",
+      "matchKey": "1938-06-05-bra-poland",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Friedrich Scherfke",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "friedrich scherfke",
+  "playerKey": "friedrich-scherfke",
+  "scorer": "Friedrich Scherfke",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

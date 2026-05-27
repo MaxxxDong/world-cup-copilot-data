@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "barbados",
+      "date": "2021-03-25",
+      "goalId": "goal-2021-03-25-panama-barbados-40161",
+      "homeTeamId": "panama",
+      "matchKey": "2021-03-25-panama-barbados",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jair Catuy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "anguilla",
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-panama-anguilla-40572",
+      "homeTeamId": "panama",
+      "matchKey": "2021-06-05-panama-anguilla",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jair Catuy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "jair catuy",
+  "playerKey": "jair-catuy",
+  "scorer": "Jair Catuy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "panama"
+  ]
+}

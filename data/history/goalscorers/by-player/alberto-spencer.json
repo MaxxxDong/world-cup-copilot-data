@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1959-12-25",
+      "goalId": "goal-1959-12-25-ecuador-paraguay-3263",
+      "homeTeamId": "ecuador",
+      "matchKey": "1959-12-25-ecuador-paraguay",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Spencer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1960-12-04",
+      "goalId": "goal-1960-12-04-ecuador-arg-3420",
+      "homeTeamId": "ecuador",
+      "matchKey": "1960-12-04-ecuador-arg",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Spencer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1965-08-15",
+      "goalId": "goal-1965-08-15-ecuador-chile-4424",
+      "homeTeamId": "ecuador",
+      "matchKey": "1965-08-15-ecuador-chile",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Spencer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1965-08-22",
+      "goalId": "goal-1965-08-22-chile-ecuador-4437",
+      "homeTeamId": "chile",
+      "matchKey": "1965-08-22-chile-ecuador",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Spencer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "alberto spencer",
+  "playerKey": "alberto-spencer",
+  "scorer": "Alberto Spencer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

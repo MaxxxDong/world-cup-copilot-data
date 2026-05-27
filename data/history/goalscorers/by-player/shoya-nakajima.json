@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "2019-06-24",
+      "goalId": "goal-2019-06-24-ecuador-japan-38654",
+      "homeTeamId": "ecuador",
+      "matchKey": "2019-06-24-ecuador-japan",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shoya Nakajima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-myanmar-japan-39070",
+      "homeTeamId": "myanmar",
+      "matchKey": "2019-09-10-myanmar-japan",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shoya Nakajima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "shoya nakajima",
+  "playerKey": "shoya-nakajima",
+  "scorer": "Shoya Nakajima",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

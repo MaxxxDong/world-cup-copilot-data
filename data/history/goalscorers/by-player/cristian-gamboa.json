@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "guyana",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-costa-rica-guyana-32359",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2012-10-16-costa-rica-guyana",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristian Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-costa-rica-haiti-35364",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2015-11-13-costa-rica-haiti",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristian Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2017-09-05",
+      "goalId": "goal-2017-09-05-costa-rica-mex-37205",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2017-09-05-costa-rica-mex",
+      "minute": 42,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Cristian Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "cristian gamboa",
+  "playerKey": "cristian-gamboa",
+  "scorer": "Cristian Gamboa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica",
+    "mex"
+  ]
+}

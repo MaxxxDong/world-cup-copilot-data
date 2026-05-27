@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1941-02-02",
+      "goalId": "goal-1941-02-02-chile-ecuador-1211",
+      "homeTeamId": "chile",
+      "matchKey": "1941-02-02-chile-ecuador",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armando Contreras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1942-01-10",
+      "goalId": "goal-1942-01-10-uruguay-chile-1240",
+      "homeTeamId": "uruguay",
+      "matchKey": "1942-01-10-uruguay-chile",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armando Contreras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "armando contreras",
+  "playerKey": "armando-contreras",
+  "scorer": "Armando Contreras",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

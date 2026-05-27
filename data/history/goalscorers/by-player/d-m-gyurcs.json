@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "2016-10-10",
+      "goalId": "goal-2016-10-10-latvia-hungary-36337",
+      "homeTeamId": "latvia",
+      "matchKey": "2016-10-10-latvia-hungary",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ádám Gyurcsó",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2016-11-13",
+      "goalId": "goal-2016-11-13-hungary-andorra-36503",
+      "homeTeamId": "hungary",
+      "matchKey": "2016-11-13-hungary-andorra",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ádám Gyurcsó",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "d m gyurcs",
+  "playerKey": "d-m-gyurcs",
+  "scorer": "Ádám Gyurcsó",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

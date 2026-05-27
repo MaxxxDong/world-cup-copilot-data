@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2006-06-22",
+      "goalId": "goal-2006-06-22-czech-republic-italy-26187",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2006-06-22-czech-republic-italy",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Materazzi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2006-07-09",
+      "goalId": "goal-2006-07-09-italy-fra-26232",
+      "homeTeamId": "italy",
+      "matchKey": "2006-07-09-italy-fra",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Materazzi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "marco materazzi",
+  "playerKey": "marco-materazzi",
+  "scorer": "Marco Materazzi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

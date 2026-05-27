@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-serbia-italy-31197",
+      "homeTeamId": "serbia",
+      "matchKey": "2011-10-07-serbia-italy",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Claudio Marchisio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2014-06-14",
+      "goalId": "goal-2014-06-14-england-italy-33616",
+      "homeTeamId": "england",
+      "matchKey": "2014-06-14-england-italy",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Claudio Marchisio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "claudio marchisio",
+  "playerKey": "claudio-marchisio",
+  "scorer": "Claudio Marchisio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

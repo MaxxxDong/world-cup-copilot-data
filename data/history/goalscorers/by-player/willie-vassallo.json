@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1970-10-11",
+      "goalId": "goal-1970-10-11-malta-greece-5941",
+      "homeTeamId": "malta",
+      "matchKey": "1970-10-11-malta-greece",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willie Vassallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "willie vassallo",
+  "playerKey": "willie-vassallo",
+  "scorer": "Willie Vassallo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malta"
+  ]
+}

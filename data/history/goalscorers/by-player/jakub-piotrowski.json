@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-poland-czech-republic-43983",
+      "homeTeamId": "poland",
+      "matchKey": "2023-11-17-poland-czech-republic",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jakub Piotrowski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-poland-estonia-44493",
+      "homeTeamId": "poland",
+      "matchKey": "2024-03-21-poland-estonia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jakub Piotrowski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "jakub piotrowski",
+  "playerKey": "jakub-piotrowski",
+  "scorer": "Jakub Piotrowski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

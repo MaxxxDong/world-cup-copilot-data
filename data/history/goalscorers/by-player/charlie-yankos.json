@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "1988-12-03",
+      "goalId": "goal-1988-12-03-australia-fiji-11753",
+      "homeTeamId": "australia",
+      "matchKey": "1988-12-03-australia-fiji",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Yankos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "fiji",
+      "date": "1988-12-03",
+      "goalId": "goal-1988-12-03-australia-fiji-11755",
+      "homeTeamId": "australia",
+      "matchKey": "1988-12-03-australia-fiji",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Charlie Yankos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1989-03-12",
+      "goalId": "goal-1989-03-12-australia-new-zealand-11935",
+      "homeTeamId": "australia",
+      "matchKey": "1989-03-12-australia-new-zealand",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Yankos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1989-03-19",
+      "goalId": "goal-1989-03-19-israel-australia-11948",
+      "homeTeamId": "israel",
+      "matchKey": "1989-03-19-israel-australia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Yankos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "charlie yankos",
+  "playerKey": "charlie-yankos",
+  "scorer": "Charlie Yankos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

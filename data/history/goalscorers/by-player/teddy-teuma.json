@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "2022-09-23",
+      "goalId": "goal-2022-09-23-estonia-malta-42780",
+      "homeTeamId": "estonia",
+      "matchKey": "2022-09-23-estonia-malta",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2024-10-13",
+      "goalId": "goal-2024-10-13-malta-moldova-45504",
+      "homeTeamId": "malta",
+      "matchKey": "2024-10-13-malta-moldova",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2025-11-17",
+      "goalId": "goal-2025-11-17-malta-poland-47365",
+      "homeTeamId": "malta",
+      "matchKey": "2025-11-17-malta-poland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "teddy teuma",
+  "playerKey": "teddy-teuma",
+  "scorer": "Teddy Teuma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malta"
+  ]
+}

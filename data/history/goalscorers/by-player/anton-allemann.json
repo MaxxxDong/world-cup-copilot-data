@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "1963-03-31",
+      "goalId": "goal-1963-03-31-switzerland-netherlands-3981",
+      "homeTeamId": "switzerland",
+      "matchKey": "1963-03-31-switzerland-netherlands",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Allemann",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1965-11-14",
+      "goalId": "goal-1965-11-14-switzerland-netherlands-4567",
+      "homeTeamId": "switzerland",
+      "matchKey": "1965-11-14-switzerland-netherlands",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Allemann",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "anton allemann",
+  "playerKey": "anton-allemann",
+  "scorer": "Anton Allemann",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

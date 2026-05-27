@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "poland",
+      "date": "2023-06-20",
+      "goalId": "goal-2023-06-20-moldova-poland-43325",
+      "homeTeamId": "moldova",
+      "matchKey": "2023-06-20-moldova-poland",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladislav Baboglo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-moldova-albania-43982",
+      "homeTeamId": "moldova",
+      "matchKey": "2023-11-17-moldova-albania",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladislav Baboglo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2025-11-16",
+      "goalId": "goal-2025-11-16-moldova-israel-47332",
+      "homeTeamId": "moldova",
+      "matchKey": "2025-11-16-moldova-israel",
+      "minute": 88,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Vladislav Baboglo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "vladislav baboglo",
+  "playerKey": "vladislav-baboglo",
+  "scorer": "Vladislav Baboglo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel",
+    "moldova"
+  ]
+}

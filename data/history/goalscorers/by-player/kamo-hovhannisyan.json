@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "2015-10-11",
+      "goalId": "goal-2015-10-11-armenia-albania-35100",
+      "homeTeamId": "armenia",
+      "matchKey": "2015-10-11-armenia-albania",
+      "minute": 9,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Kamo Hovhannisyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2020-10-14",
+      "goalId": "goal-2020-10-14-estonia-armenia-39856",
+      "homeTeamId": "estonia",
+      "matchKey": "2020-10-14-estonia-armenia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamo Hovhannisyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-iceland-armenia-41553",
+      "homeTeamId": "iceland",
+      "matchKey": "2021-10-08-iceland-armenia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamo Hovhannisyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    }
+  ],
+  "normalizedScorer": "kamo hovhannisyan",
+  "playerKey": "kamo-hovhannisyan",
+  "scorer": "Kamo Hovhannisyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania",
+    "armenia"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1981-08-16",
+      "goalId": "goal-1981-08-16-peru-colombia-9418",
+      "homeTeamId": "peru",
+      "matchKey": "1981-08-16-peru-colombia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Julio César Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1981-08-23",
+      "goalId": "goal-1981-08-23-uruguay-peru-9420",
+      "homeTeamId": "uruguay",
+      "matchKey": "1981-08-23-uruguay-peru",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio César Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1985-06-02",
+      "goalId": "goal-1985-06-02-venezuela-peru-10843",
+      "homeTeamId": "venezuela",
+      "matchKey": "1985-06-02-venezuela-peru",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio César Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "julio c sar uribe",
+  "playerKey": "julio-c-sar-uribe",
+  "scorer": "Julio César Uribe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

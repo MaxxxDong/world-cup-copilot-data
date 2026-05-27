@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1993-04-28",
+      "goalId": "goal-1993-04-28-czechoslovakia-wales-13890",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1993-04-28-czechoslovakia-wales",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radoslav Látal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-czechoslovakia-romania-14144",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1993-06-02-czechoslovakia-romania",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radoslav Látal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "radoslav l tal",
+  "playerKey": "radoslav-l-tal",
+  "scorer": "Radoslav Látal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

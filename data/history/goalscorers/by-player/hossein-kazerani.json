@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "1977-06-19",
+      "goalId": "goal-1977-06-19-hong-kong-iran-7914",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1977-06-19-hong-kong-iran",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossein Kazerani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1977-11-18",
+      "goalId": "goal-1977-11-18-iran-hong-kong-8139",
+      "homeTeamId": "iran",
+      "matchKey": "1977-11-18-iran-hong-kong",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossein Kazerani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "hossein kazerani",
+  "playerKey": "hossein-kazerani",
+  "scorer": "Hossein Kazerani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

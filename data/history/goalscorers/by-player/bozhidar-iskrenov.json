@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1983-12-21",
+      "goalId": "goal-1983-12-21-yugoslavia-bulgaria-10203",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1983-12-21-yugoslavia-bulgaria",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bozhidar Iskrenov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1989-10-11",
+      "goalId": "goal-1989-10-11-bulgaria-greece-12342",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1989-10-11-bulgaria-greece",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bozhidar Iskrenov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "bozhidar iskrenov",
+  "playerKey": "bozhidar-iskrenov",
+  "scorer": "Bozhidar Iskrenov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "1975-08-06",
+      "goalId": "goal-1975-08-06-bra-arg-7280",
+      "homeTeamId": "bra",
+      "matchKey": "1975-08-06-bra-arg",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1975-08-06",
+      "goalId": "goal-1975-08-06-bra-arg-7281",
+      "homeTeamId": "bra",
+      "matchKey": "1975-08-06-bra-arg",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nelinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1975-08-13",
+      "goalId": "goal-1975-08-13-bra-venezuela-7304",
+      "homeTeamId": "bra",
+      "matchKey": "1975-08-13-bra-venezuela",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "1978-06-21",
+      "goalId": "goal-1978-06-21-bra-poland-8308",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-21-bra-poland",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1978-06-24",
+      "goalId": "goal-1978-06-24-bra-italy-8316",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-24-bra-italy",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelinho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "nelinho",
+  "playerKey": "nelinho",
+  "scorer": "Nelinho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

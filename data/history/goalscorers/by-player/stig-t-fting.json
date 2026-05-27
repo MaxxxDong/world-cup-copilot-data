@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1999-06-09",
+      "goalId": "goal-1999-06-09-wales-denmark-18849",
+      "homeTeamId": "wales",
+      "matchKey": "1999-06-09-wales-denmark",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Stig Tøfting",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1999-11-13",
+      "goalId": "goal-1999-11-13-israel-denmark-19187",
+      "homeTeamId": "israel",
+      "matchKey": "1999-11-13-israel-denmark",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stig Tøfting",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "stig t fting",
+  "playerKey": "stig-t-fting",
+  "scorer": "Stig Tøfting",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

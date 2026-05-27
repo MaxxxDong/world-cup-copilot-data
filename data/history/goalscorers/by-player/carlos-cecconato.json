@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1955-03-16",
+      "goalId": "goal-1955-03-16-arg-peru-2393",
+      "homeTeamId": "arg",
+      "matchKey": "1955-03-16-arg-peru",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Cecconato",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1956-02-01",
+      "goalId": "goal-1956-02-01-arg-paraguay-2439",
+      "homeTeamId": "arg",
+      "matchKey": "1956-02-01-arg-paraguay",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Cecconato",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "carlos cecconato",
+  "playerKey": "carlos-cecconato",
+  "scorer": "Carlos Cecconato",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "2020-09-03",
+      "goalId": "goal-2020-09-03-germany-spain-39619",
+      "homeTeamId": "germany",
+      "matchKey": "2020-09-03-germany-spain",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Gayà",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "2021-09-05",
+      "goalId": "goal-2021-09-05-spain-georgia-41304",
+      "homeTeamId": "spain",
+      "matchKey": "2021-09-05-spain-georgia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Gayà",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "jos gay",
+  "playerKey": "jos-gay",
+  "scorer": "José Gayà",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

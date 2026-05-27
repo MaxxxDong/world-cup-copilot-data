@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2009-06-06",
+      "goalId": "goal-2009-06-06-slovakia-san-marino-29104",
+      "homeTeamId": "slovakia",
+      "matchKey": "2009-06-06-slovakia-san-marino",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Pekarík",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2015-03-27",
+      "goalId": "goal-2015-03-27-slovakia-luxembourg-34259",
+      "homeTeamId": "slovakia",
+      "matchKey": "2015-03-27-slovakia-luxembourg",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Pekarík",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    }
+  ],
+  "normalizedScorer": "peter pekar k",
+  "playerKey": "peter-pekar-k",
+  "scorer": "Peter Pekarík",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "slovakia"
+  ]
+}

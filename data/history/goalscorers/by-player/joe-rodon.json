@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2025-06-06",
+      "goalId": "goal-2025-06-06-wales-liechtenstein-46300",
+      "homeTeamId": "wales",
+      "matchKey": "2025-06-06-wales-liechtenstein",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Rodon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-wales-belgium-47141",
+      "homeTeamId": "wales",
+      "matchKey": "2025-10-13-wales-belgium",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Rodon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "joe rodon",
+  "playerKey": "joe-rodon",
+  "scorer": "Joe Rodon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

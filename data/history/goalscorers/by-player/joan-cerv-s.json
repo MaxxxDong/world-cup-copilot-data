@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "andorra",
+      "date": "2022-09-22",
+      "goalId": "goal-2022-09-22-liechtenstein-andorra-42758",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2022-09-22-liechtenstein-andorra",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joan Cervós",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "andorra"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-andorra-israel-44099",
+      "homeTeamId": "andorra",
+      "matchKey": "2023-11-21-andorra-israel",
+      "minute": 29,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Joan Cervós",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "joan cerv s",
+  "playerKey": "joan-cerv-s",
+  "scorer": "Joan Cervós",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "andorra",
+    "israel"
+  ]
+}

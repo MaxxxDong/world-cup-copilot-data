@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "1981-03-15",
+      "goalId": "goal-1981-03-15-venezuela-bolivia-9176",
+      "homeTeamId": "venezuela",
+      "matchKey": "1981-03-15-venezuela-bolivia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Acosta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1987-06-30",
+      "goalId": "goal-1987-06-30-venezuela-chile-11467",
+      "homeTeamId": "venezuela",
+      "matchKey": "1987-06-30-venezuela-chile",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pedro Acosta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1989-08-20",
+      "goalId": "goal-1989-08-20-bra-venezuela-12247",
+      "homeTeamId": "bra",
+      "matchKey": "1989-08-20-bra-venezuela",
+      "minute": 39,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Pedro Acosta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "pedro acosta",
+  "playerKey": "pedro-acosta",
+  "scorer": "Pedro Acosta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra",
+    "venezuela"
+  ]
+}

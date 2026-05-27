@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2014-10-11",
+      "goalId": "goal-2014-10-11-republic-of-ireland-gibraltar-33899",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2014-10-11-republic-of-ireland-gibraltar",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wes Hoolahan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2016-06-13",
+      "goalId": "goal-2016-06-13-republic-of-ireland-sweden-35845",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2016-06-13-republic-of-ireland-sweden",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wes Hoolahan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "wes hoolahan",
+  "playerKey": "wes-hoolahan",
+  "scorer": "Wes Hoolahan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

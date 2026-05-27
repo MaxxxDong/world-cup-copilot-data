@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-norway-cyprus-31317",
+      "homeTeamId": "norway",
+      "matchKey": "2011-10-11-norway-cyprus",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Høgli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2013-06-07",
+      "goalId": "goal-2013-06-07-albania-norway-32764",
+      "homeTeamId": "albania",
+      "matchKey": "2013-06-07-albania-norway",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Høgli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "tom h gli",
+  "playerKey": "tom-h-gli",
+  "scorer": "Tom Høgli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

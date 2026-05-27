@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2000-04-16",
+      "goalId": "goal-2000-04-16-dominican-republic-trinidad-and-tobago-19531",
+      "homeTeamId": "dominican-republic",
+      "matchKey": "2000-04-16-dominican-republic-trinidad-and-tobago",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nigel Pierre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2000-08-16",
+      "goalId": "goal-2000-08-16-trinidad-and-tobago-panama-19968",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2000-08-16-trinidad-and-tobago-panama",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nigel Pierre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2000-11-15",
+      "goalId": "goal-2000-11-15-trinidad-and-tobago-panama-20305",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2000-11-15-trinidad-and-tobago-panama",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nigel Pierre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "nigel pierre",
+  "playerKey": "nigel-pierre",
+  "scorer": "Nigel Pierre",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "2018-09-07",
+      "goalId": "goal-2018-09-07-faroe-islands-malta-37731",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2018-09-07-faroe-islands-malta",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Joensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2018-10-14",
+      "goalId": "goal-2018-10-14-faroe-islands-kosovo-37868",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2018-10-14-faroe-islands-kosovo",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Joensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2018-11-20",
+      "goalId": "goal-2018-11-20-malta-faroe-islands-38025",
+      "homeTeamId": "malta",
+      "matchKey": "2018-11-20-malta-faroe-islands",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Joensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    }
+  ],
+  "normalizedScorer": "ren joensen",
+  "playerKey": "ren-joensen",
+  "scorer": "René Joensen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "faroe-islands"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1985-10-23",
+      "goalId": "goal-1985-10-23-australia-taiwan-11024",
+      "homeTeamId": "australia",
+      "matchKey": "1985-10-23-australia-taiwan",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robbie Dunn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "1985-10-23",
+      "goalId": "goal-1985-10-23-australia-taiwan-11030",
+      "homeTeamId": "australia",
+      "matchKey": "1985-10-23-australia-taiwan",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Robbie Dunn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "robbie dunn",
+  "playerKey": "robbie-dunn",
+  "scorer": "Robbie Dunn",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

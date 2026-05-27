@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1983-08-14",
+      "goalId": "goal-1983-08-14-bolivia-colombia-10029",
+      "homeTeamId": "bolivia",
+      "matchKey": "1983-08-14-bolivia-colombia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alex Valderrama",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1983-08-31",
+      "goalId": "goal-1983-08-31-colombia-bolivia-10039",
+      "homeTeamId": "colombia",
+      "matchKey": "1983-08-31-colombia-bolivia",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alex Valderrama",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "alex valderrama",
+  "playerKey": "alex-valderrama",
+  "scorer": "Alex Valderrama",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

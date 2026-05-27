@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1963-03-14",
+      "goalId": "goal-1963-03-14-bra-colombia-3852",
+      "homeTeamId": "bra",
+      "matchKey": "1963-03-14-bra-colombia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1963-03-20",
+      "goalId": "goal-1963-03-20-colombia-paraguay-3874",
+      "homeTeamId": "colombia",
+      "matchKey": "1963-03-20-colombia-paraguay",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1966-11-30",
+      "goalId": "goal-1966-11-30-chile-colombia-4774",
+      "homeTeamId": "chile",
+      "matchKey": "1966-11-30-chile-colombia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio Gamboa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "delio gamboa",
+  "playerKey": "delio-gamboa",
+  "scorer": "Delio Gamboa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

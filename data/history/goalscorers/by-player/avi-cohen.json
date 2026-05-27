@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1985-09-08",
+      "goalId": "goal-1985-09-08-israel-taiwan-10929",
+      "homeTeamId": "israel",
+      "matchKey": "1985-09-08-israel-taiwan",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Avi Cohen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "1985-10-20",
+      "goalId": "goal-1985-10-20-australia-israel-11023",
+      "homeTeamId": "australia",
+      "matchKey": "1985-10-20-australia-israel",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Avi Cohen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "avi cohen",
+  "playerKey": "avi-cohen",
+  "scorer": "Avi Cohen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

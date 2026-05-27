@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-luxembourg-portugal-40359",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2021-03-30-luxembourg-portugal",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "João Palhinha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2021-10-12",
+      "goalId": "goal-2021-10-12-portugal-luxembourg-41758",
+      "homeTeamId": "portugal",
+      "matchKey": "2021-10-12-portugal-luxembourg",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "João Palhinha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "jo o palhinha",
+  "playerKey": "jo-o-palhinha",
+  "scorer": "João Palhinha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

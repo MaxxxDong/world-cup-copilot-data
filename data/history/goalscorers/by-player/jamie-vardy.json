@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2016-06-16",
+      "goalId": "goal-2016-06-16-england-wales-35872",
+      "homeTeamId": "england",
+      "matchKey": "2016-06-16-england-wales",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamie Vardy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "2017-03-26",
+      "goalId": "goal-2017-03-26-england-lithuania-36706",
+      "homeTeamId": "england",
+      "matchKey": "2017-03-26-england-lithuania",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamie Vardy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "jamie vardy",
+  "playerKey": "jamie-vardy",
+  "scorer": "Jamie Vardy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

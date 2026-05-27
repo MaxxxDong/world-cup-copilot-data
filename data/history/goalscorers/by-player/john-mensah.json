@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "botswana",
+      "date": "2012-01-24",
+      "goalId": "goal-2012-01-24-ghana-botswana-31612",
+      "homeTeamId": "ghana",
+      "matchKey": "2012-01-24-ghana-botswana",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Mensah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "2012-02-05",
+      "goalId": "goal-2012-02-05-ghana-tunisia-31668",
+      "homeTeamId": "ghana",
+      "matchKey": "2012-02-05-ghana-tunisia",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Mensah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    }
+  ],
+  "normalizedScorer": "john mensah",
+  "playerKey": "john-mensah",
+  "scorer": "John Mensah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ghana"
+  ]
+}

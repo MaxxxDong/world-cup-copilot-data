@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montserrat",
+      "date": "2015-03-27",
+      "goalId": "goal-2015-03-27-curacao-montserrat-34240",
+      "homeTeamId": "curacao",
+      "matchKey": "2015-03-27-curacao-montserrat",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Papito Merencia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "2015-06-14",
+      "goalId": "goal-2015-06-14-cuba-curacao-34462",
+      "homeTeamId": "cuba",
+      "matchKey": "2015-06-14-cuba-curacao",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Papito Merencia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    }
+  ],
+  "normalizedScorer": "papito merencia",
+  "playerKey": "papito-merencia",
+  "scorer": "Papito Merencia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "curacao"
+  ]
+}

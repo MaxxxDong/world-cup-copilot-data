@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1983-08-28",
+      "goalId": "goal-1983-08-28-colombia-peru-10038",
+      "homeTeamId": "colombia",
+      "matchKey": "1983-08-28-colombia-peru",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Caballero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1983-09-04",
+      "goalId": "goal-1983-09-04-peru-bolivia-10052",
+      "homeTeamId": "peru",
+      "matchKey": "1983-09-04-peru-bolivia",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Caballero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "juan caballero",
+  "playerKey": "juan-caballero",
+  "scorer": "Juan Caballero",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "armenia",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-poland-armenia-20672",
+      "homeTeamId": "poland",
+      "matchKey": "2001-03-28-poland-armenia",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Michał Żewłakow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-poland-slovenia-28391",
+      "homeTeamId": "poland",
+      "matchKey": "2008-09-06-poland-slovenia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Michał Żewłakow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-northern-ireland-poland-28923",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "2009-03-28-northern-ireland-poland",
+      "minute": 61,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Michał Żewłakow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "micha ew akow",
+  "playerKey": "micha-ew-akow",
+  "scorer": "Michał Żewłakow",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland",
+    "poland"
+  ]
+}

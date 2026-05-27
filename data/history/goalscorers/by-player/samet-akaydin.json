@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2024-06-22",
+      "goalId": "goal-2024-06-22-turkey-portugal-45033",
+      "homeTeamId": "turkey",
+      "matchKey": "2024-06-22-turkey-portugal",
+      "minute": 28,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Samet Akaydin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2024-07-06",
+      "goalId": "goal-2024-07-06-netherlands-turkey-45149",
+      "homeTeamId": "netherlands",
+      "matchKey": "2024-07-06-netherlands-turkey",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samet Akaydin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "samet akaydin",
+  "playerKey": "samet-akaydin",
+  "scorer": "Samet Akaydin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal",
+    "turkey"
+  ]
+}

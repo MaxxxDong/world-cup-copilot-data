@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1985-05-31",
+      "goalId": "goal-1985-05-31-usa-costa-rica-10830",
+      "homeTeamId": "usa",
+      "matchKey": "1985-05-31-usa-costa-rica",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evaristo Coronado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "1989-04-02",
+      "goalId": "goal-1989-04-02-costa-rica-guatemala-11958",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1989-04-02-costa-rica-guatemala",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evaristo Coronado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1989-05-28",
+      "goalId": "goal-1989-05-28-trinidad-and-tobago-costa-rica-12051",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1989-05-28-trinidad-and-tobago-costa-rica",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evaristo Coronado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "evaristo coronado",
+  "playerKey": "evaristo-coronado",
+  "scorer": "Evaristo Coronado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

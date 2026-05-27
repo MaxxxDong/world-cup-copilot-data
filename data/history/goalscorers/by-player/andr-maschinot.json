@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1930-07-13",
+      "goalId": "goal-1930-07-13-fra-mex-547",
+      "homeTeamId": "fra",
+      "matchKey": "1930-07-13-fra-mex",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Maschinot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1930-07-13",
+      "goalId": "goal-1930-07-13-fra-mex-549",
+      "homeTeamId": "fra",
+      "matchKey": "1930-07-13-fra-mex",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Maschinot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "andr maschinot",
+  "playerKey": "andr-maschinot",
+  "scorer": "André Maschinot",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

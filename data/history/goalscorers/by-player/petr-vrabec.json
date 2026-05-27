@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-czechoslovakia-romania-14142",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1993-06-02-czechoslovakia-romania",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petr Vrabec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "petr vrabec",
+  "playerKey": "petr-vrabec",
+  "scorer": "Petr Vrabec",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

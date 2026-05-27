@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1954-02-14",
+      "goalId": "goal-1954-02-14-paraguay-chile-2150",
+      "homeTeamId": "paraguay",
+      "matchKey": "1954-02-14-paraguay-chile",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Lugo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1954-02-21",
+      "goalId": "goal-1954-02-21-chile-paraguay-2155",
+      "homeTeamId": "chile",
+      "matchKey": "1954-02-21-chile-paraguay",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Lugo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1954-02-21",
+      "goalId": "goal-1954-02-21-chile-paraguay-2156",
+      "homeTeamId": "chile",
+      "matchKey": "1954-02-21-chile-paraguay",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Lugo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "manuel lugo",
+  "playerKey": "manuel-lugo",
+  "scorer": "Manuel Lugo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

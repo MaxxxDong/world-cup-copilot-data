@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "liberia",
+      "date": "1992-10-11",
+      "goalId": "goal-1992-10-11-dr-congo-liberia-13353",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1992-10-11-dr-congo-liberia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roger Lukaku",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "1992-10-11",
+      "goalId": "goal-1992-10-11-dr-congo-liberia-13354",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1992-10-11-dr-congo-liberia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roger Lukaku",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1996-01-25",
+      "goalId": "goal-1996-01-25-liberia-dr-congo-15814",
+      "homeTeamId": "liberia",
+      "matchKey": "1996-01-25-liberia-dr-congo",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roger Lukaku",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "roger lukaku",
+  "playerKey": "roger-lukaku",
+  "scorer": "Roger Lukaku",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "maldives",
+      "date": "1997-06-06",
+      "goalId": "goal-1997-06-06-kyrgyzstan-maldives-17188",
+      "homeTeamId": "kyrgyzstan",
+      "matchKey": "1997-06-06-kyrgyzstan-maldives",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Merzlikin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "1997-06-13",
+      "goalId": "goal-1997-06-13-maldives-kyrgyzstan-17337",
+      "homeTeamId": "maldives",
+      "matchKey": "1997-06-13-maldives-kyrgyzstan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Merzlikin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    }
+  ],
+  "normalizedScorer": "aleksandr merzlikin",
+  "playerKey": "aleksandr-merzlikin",
+  "scorer": "Aleksandr Merzlikin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kyrgyzstan"
+  ]
+}

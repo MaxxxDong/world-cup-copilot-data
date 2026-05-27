@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "2016-10-08",
+      "goalId": "goal-2016-10-08-england-malta-36252",
+      "homeTeamId": "england",
+      "matchKey": "2016-10-08-england-malta",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dele Alli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2018-07-07",
+      "goalId": "goal-2018-07-07-sweden-england-37696",
+      "homeTeamId": "sweden",
+      "matchKey": "2018-07-07-sweden-england",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dele Alli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "dele alli",
+  "playerKey": "dele-alli",
+  "scorer": "Dele Alli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

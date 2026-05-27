@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "cambodia",
+      "date": "1997-05-25",
+      "goalId": "goal-1997-05-25-uzbekistan-cambodia-17122",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "1997-05-25-uzbekistan-cambodia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrei Fyodorov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "1997-09-07",
+      "goalId": "goal-1997-09-07-japan-uzbekistan-17674",
+      "homeTeamId": "japan",
+      "matchKey": "1997-09-07-japan-uzbekistan",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Andrei Fyodorov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1997-10-18",
+      "goalId": "goal-1997-10-18-uzbekistan-south-korea-17899",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "1997-10-18-uzbekistan-south-korea",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Andrei Fyodorov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "1997-10-25",
+      "goalId": "goal-1997-10-25-uzbekistan-kazakhstan-17905",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "1997-10-25-uzbekistan-kazakhstan",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrei Fyodorov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    }
+  ],
+  "normalizedScorer": "andrei fyodorov",
+  "playerKey": "andrei-fyodorov",
+  "scorer": "Andrei Fyodorov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uzbekistan"
+  ]
+}

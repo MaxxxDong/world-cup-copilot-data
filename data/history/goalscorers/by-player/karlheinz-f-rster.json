@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1979-10-17",
+      "goalId": "goal-1979-10-17-germany-wales-8598",
+      "homeTeamId": "germany",
+      "matchKey": "1979-10-17-germany-wales",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karlheinz Förster",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1984-12-16",
+      "goalId": "goal-1984-12-16-malta-germany-10498",
+      "homeTeamId": "malta",
+      "matchKey": "1984-12-16-malta-germany",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karlheinz Förster",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "karlheinz f rster",
+  "playerKey": "karlheinz-f-rster",
+  "scorer": "Karlheinz Förster",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

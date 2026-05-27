@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1978-10-04",
+      "goalId": "goal-1978-10-04-yugoslavia-spain-8360",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1978-10-04-yugoslavia-spain",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juanito",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1982-06-20",
+      "goalId": "goal-1982-06-20-spain-yugoslavia-9735",
+      "homeTeamId": "spain",
+      "matchKey": "1982-06-20-spain-yugoslavia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Juanito",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2006-06-23",
+      "goalId": "goal-2006-06-23-saudi-arabia-spain-26197",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2006-06-23-saudi-arabia-spain",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juanito",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "juanito",
+  "playerKey": "juanito",
+  "scorer": "Juanito",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

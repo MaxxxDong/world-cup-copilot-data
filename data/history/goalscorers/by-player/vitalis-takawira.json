@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "1996-06-02",
+      "goalId": "goal-1996-06-02-madagascar-zimbabwe-15976",
+      "homeTeamId": "madagascar",
+      "matchKey": "1996-06-02-madagascar-zimbabwe",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vitalis Takawira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "madagascar",
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-zimbabwe-madagascar-16085",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1996-06-16-zimbabwe-madagascar",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vitalis Takawira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-zimbabwe-togo-16722",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1997-01-12-zimbabwe-togo",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Vitalis Takawira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-zimbabwe-togo-16723",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "1997-01-12-zimbabwe-togo",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vitalis Takawira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-togo-zimbabwe-17256",
+      "homeTeamId": "togo",
+      "matchKey": "1997-06-08-togo-zimbabwe",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Vitalis Takawira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "vitalis takawira",
+  "playerKey": "vitalis-takawira",
+  "scorer": "Vitalis Takawira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

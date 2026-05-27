@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1982-09-22",
+      "goalId": "goal-1982-09-22-denmark-england-9840",
+      "homeTeamId": "denmark",
+      "matchKey": "1982-09-22-denmark-england",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesper Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1983-06-01",
+      "goalId": "goal-1983-06-01-denmark-hungary-10017",
+      "homeTeamId": "denmark",
+      "matchKey": "1983-06-01-denmark-hungary",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesper Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1986-06-08",
+      "goalId": "goal-1986-06-08-denmark-uruguay-11189",
+      "homeTeamId": "denmark",
+      "matchKey": "1986-06-08-denmark-uruguay",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesper Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1986-06-13",
+      "goalId": "goal-1986-06-13-denmark-germany-11226",
+      "homeTeamId": "denmark",
+      "matchKey": "1986-06-13-denmark-germany",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jesper Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1986-06-18",
+      "goalId": "goal-1986-06-18-denmark-spain-11245",
+      "homeTeamId": "denmark",
+      "matchKey": "1986-06-18-denmark-spain",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jesper Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "jesper olsen",
+  "playerKey": "jesper-olsen",
+  "scorer": "Jesper Olsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

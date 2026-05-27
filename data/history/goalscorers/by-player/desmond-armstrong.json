@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1993-07-25",
+      "goalId": "goal-1993-07-25-mex-usa-14448",
+      "homeTeamId": "mex",
+      "matchKey": "1993-07-25-mex-usa",
+      "minute": 31,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Desmond Armstrong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "desmond armstrong",
+  "playerKey": "desmond-armstrong",
+  "scorer": "Desmond Armstrong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

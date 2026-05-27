@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "1973-02-17",
+      "goalId": "goal-1973-02-17-new-zealand-fiji-6541",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1973-02-17-new-zealand-fiji",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alan Vest",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "1973-02-18",
+      "goalId": "goal-1973-02-18-new-zealand-tahiti-6548",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1973-02-18-new-zealand-tahiti",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alan Vest",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1973-03-11",
+      "goalId": "goal-1973-03-11-indonesia-new-zealand-6592",
+      "homeTeamId": "indonesia",
+      "matchKey": "1973-03-11-indonesia-new-zealand",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alan Vest",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1973-03-16",
+      "goalId": "goal-1973-03-16-australia-new-zealand-6598",
+      "homeTeamId": "australia",
+      "matchKey": "1973-03-16-australia-new-zealand",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alan Vest",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "alan vest",
+  "playerKey": "alan-vest",
+  "scorer": "Alan Vest",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

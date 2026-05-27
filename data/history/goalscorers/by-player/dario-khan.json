@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "benin",
+      "date": "2010-01-12",
+      "goalId": "goal-2010-01-12-mozambique-benin-29818",
+      "homeTeamId": "mozambique",
+      "matchKey": "2010-01-12-mozambique-benin",
+      "minute": 20,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Dario Khan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "benin"
+    },
+    {
+      "awayTeamId": "mozambique",
+      "date": "2010-01-16",
+      "goalId": "goal-2010-01-16-egypt-mozambique-29831",
+      "homeTeamId": "egypt",
+      "matchKey": "2010-01-16-egypt-mozambique",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Dario Khan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "dario khan",
+  "playerKey": "dario-khan",
+  "scorer": "Dario Khan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "benin",
+    "egypt"
+  ]
+}

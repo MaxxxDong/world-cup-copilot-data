@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1959-09-23",
+      "goalId": "goal-1959-09-23-austria-norway-3197",
+      "homeTeamId": "austria",
+      "matchKey": "1959-09-23-austria-norway",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ove Ødegaard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1959-09-23",
+      "goalId": "goal-1959-09-23-austria-norway-3200",
+      "homeTeamId": "austria",
+      "matchKey": "1959-09-23-austria-norway",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ove Ødegaard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "ove degaard",
+  "playerKey": "ove-degaard",
+  "scorer": "Ove Ødegaard",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

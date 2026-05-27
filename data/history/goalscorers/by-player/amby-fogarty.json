@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1961-10-29",
+      "goalId": "goal-1961-10-29-czechoslovakia-republic-of-ireland-3602",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1961-10-29-czechoslovakia-republic-of-ireland",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amby Fogarty",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1962-08-12",
+      "goalId": "goal-1962-08-12-republic-of-ireland-iceland-3763",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1962-08-12-republic-of-ireland-iceland",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amby Fogarty",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1963-10-13",
+      "goalId": "goal-1963-10-13-republic-of-ireland-austria-4020",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1963-10-13-republic-of-ireland-austria",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amby Fogarty",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "amby fogarty",
+  "playerKey": "amby-fogarty",
+  "scorer": "Amby Fogarty",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

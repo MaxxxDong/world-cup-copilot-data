@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1985-10-16",
+      "goalId": "goal-1985-10-16-england-turkey-11003",
+      "homeTeamId": "england",
+      "matchKey": "1985-10-16-england-turkey",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Waddle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1986-10-15",
+      "goalId": "goal-1986-10-15-england-northern-ireland-11307",
+      "homeTeamId": "england",
+      "matchKey": "1986-10-15-england-northern-ireland",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Waddle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1987-04-01",
+      "goalId": "goal-1987-04-01-northern-ireland-england-11398",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1987-04-01-northern-ireland-england",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Waddle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1989-04-26",
+      "goalId": "goal-1989-04-26-england-albania-11978",
+      "homeTeamId": "england",
+      "matchKey": "1989-04-26-england-albania",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Waddle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "chris waddle",
+  "playerKey": "chris-waddle",
+  "scorer": "Chris Waddle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

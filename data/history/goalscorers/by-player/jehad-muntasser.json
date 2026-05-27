@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2000-04-09",
+      "goalId": "goal-2000-04-09-libya-mali-19511",
+      "homeTeamId": "libya",
+      "matchKey": "2000-04-09-libya-mali",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jehad Muntasser",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    },
+    {
+      "awayTeamId": "libya",
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-angola-libya-20358",
+      "homeTeamId": "angola",
+      "matchKey": "2001-01-28-angola-libya",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jehad Muntasser",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    }
+  ],
+  "normalizedScorer": "jehad muntasser",
+  "playerKey": "jehad-muntasser",
+  "scorer": "Jehad Muntasser",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "libya"
+  ]
+}

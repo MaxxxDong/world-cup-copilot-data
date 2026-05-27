@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1981-05-20",
+      "goalId": "goal-1981-05-20-norway-hungary-9307",
+      "homeTeamId": "norway",
+      "matchKey": "1981-05-20-norway-hungary",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallvar Thoresen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1981-09-09",
+      "goalId": "goal-1981-09-09-norway-england-9441",
+      "homeTeamId": "norway",
+      "matchKey": "1981-09-09-norway-england",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallvar Thoresen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1982-10-27",
+      "goalId": "goal-1982-10-27-bulgaria-norway-9872",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1982-10-27-bulgaria-norway",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hallvar Thoresen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1983-10-12",
+      "goalId": "goal-1983-10-12-yugoslavia-norway-10118",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1983-10-12-yugoslavia-norway",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallvar Thoresen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1984-10-10",
+      "goalId": "goal-1984-10-10-norway-russia-10333",
+      "homeTeamId": "norway",
+      "matchKey": "1984-10-10-norway-russia",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hallvar Thoresen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "hallvar thoresen",
+  "playerKey": "hallvar-thoresen",
+  "scorer": "Hallvar Thoresen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

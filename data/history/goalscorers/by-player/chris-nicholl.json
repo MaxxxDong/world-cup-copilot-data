@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1974-10-30",
+      "goalId": "goal-1974-10-30-sweden-northern-ireland-7135",
+      "homeTeamId": "sweden",
+      "matchKey": "1974-10-30-sweden-northern-ireland",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nicholl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1979-05-02",
+      "goalId": "goal-1979-05-02-northern-ireland-bulgaria-8463",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1979-05-02-northern-ireland-bulgaria",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nicholl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "chris nicholl",
+  "playerKey": "chris-nicholl",
+  "scorer": "Chris Nicholl",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

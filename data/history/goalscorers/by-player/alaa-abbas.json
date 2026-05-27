@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "2019-01-12",
+      "goalId": "goal-2019-01-12-yemen-iraq-38096",
+      "homeTeamId": "yemen",
+      "matchKey": "2019-01-12-yemen-iraq",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alaa Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-iraq-iran-39378",
+      "homeTeamId": "iraq",
+      "matchKey": "2019-11-14-iraq-iran",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alaa Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "alaa abbas",
+  "playerKey": "alaa-abbas",
+  "scorer": "Alaa Abbas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

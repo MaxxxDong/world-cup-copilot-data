@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "curacao",
+      "date": "1965-01-20",
+      "goalId": "goal-1965-01-20-cuba-curacao-4177",
+      "homeTeamId": "cuba",
+      "matchKey": "1965-01-20-cuba-curacao",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgilio Sille",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "1965-01-30",
+      "goalId": "goal-1965-01-30-cuba-curacao-4187",
+      "homeTeamId": "cuba",
+      "matchKey": "1965-01-30-cuba-curacao",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgilio Sille",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    }
+  ],
+  "normalizedScorer": "virgilio sille",
+  "playerKey": "virgilio-sille",
+  "scorer": "Virgilio Sille",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "curacao"
+  ]
+}

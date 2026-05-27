@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "angola",
+      "date": "2003-10-12",
+      "goalId": "goal-2003-10-12-chad-angola-23103",
+      "homeTeamId": "chad",
+      "matchKey": "2003-10-12-chad-angola",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Mauro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    },
+    {
+      "awayTeamId": "chad",
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-angola-chad-23164",
+      "homeTeamId": "angola",
+      "matchKey": "2003-11-16-angola-chad",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Mauro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    }
+  ],
+  "normalizedScorer": "bruno mauro",
+  "playerKey": "bruno-mauro",
+  "scorer": "Bruno Mauro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "angola"
+  ]
+}

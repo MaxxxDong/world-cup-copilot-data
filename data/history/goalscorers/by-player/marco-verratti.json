@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2019-03-26",
+      "goalId": "goal-2019-03-26-italy-liechtenstein-38301",
+      "homeTeamId": "italy",
+      "matchKey": "2019-03-26-italy-liechtenstein",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Verratti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "2019-06-11",
+      "goalId": "goal-2019-06-11-italy-bosnia-and-herzegovina-38511",
+      "homeTeamId": "italy",
+      "matchKey": "2019-06-11-italy-bosnia-and-herzegovina",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Verratti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "marco verratti",
+  "playerKey": "marco-verratti",
+  "scorer": "Marco Verratti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

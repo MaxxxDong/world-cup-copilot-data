@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "india",
+      "date": "1993-06-09",
+      "goalId": "goal-1993-06-09-south-korea-india-14194",
+      "homeTeamId": "south-korea",
+      "matchKey": "1993-06-09-south-korea-india",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Tae-Young",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "india",
+      "date": "1993-06-09",
+      "goalId": "goal-1993-06-09-south-korea-india-14198",
+      "homeTeamId": "south-korea",
+      "matchKey": "1993-06-09-south-korea-india",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Tae-Young",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "kim tae young",
+  "playerKey": "kim-tae-young",
+  "scorer": "Kim Tae-Young",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

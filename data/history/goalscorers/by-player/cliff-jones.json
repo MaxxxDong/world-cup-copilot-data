@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "german-dr",
+      "date": "1957-09-25",
+      "goalId": "goal-1957-09-25-wales-german-dr-2849",
+      "homeTeamId": "wales",
+      "matchKey": "1957-09-25-wales-german-dr",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cliff Jones",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "1958-02-05",
+      "goalId": "goal-1958-02-05-wales-israel-2934",
+      "homeTeamId": "wales",
+      "matchKey": "1958-02-05-wales-israel",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cliff Jones",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1963-03-20",
+      "goalId": "goal-1963-03-20-wales-hungary-3876",
+      "homeTeamId": "wales",
+      "matchKey": "1963-03-20-wales-hungary",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Cliff Jones",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "cliff jones",
+  "playerKey": "cliff-jones",
+  "scorer": "Cliff Jones",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

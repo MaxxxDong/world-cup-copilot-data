@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2011-07-16",
+      "goalId": "goal-2011-07-16-arg-uruguay-30715",
+      "homeTeamId": "arg",
+      "matchKey": "2011-07-16-arg-uruguay",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego Pérez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "2013-06-23",
+      "goalId": "goal-2013-06-23-uruguay-tahiti-32999",
+      "homeTeamId": "uruguay",
+      "matchKey": "2013-06-23-uruguay-tahiti",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego Pérez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "diego p rez",
+  "playerKey": "diego-p-rez",
+  "scorer": "Diego Pérez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

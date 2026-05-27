@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1990-11-25",
+      "goalId": "goal-1990-11-25-malta-finland-12679",
+      "homeTeamId": "malta",
+      "matchKey": "1990-11-25-malta-finland",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erik Holmgren",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1991-06-05",
+      "goalId": "goal-1991-06-05-finland-netherlands-12801",
+      "homeTeamId": "finland",
+      "matchKey": "1991-06-05-finland-netherlands",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erik Holmgren",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "erik holmgren",
+  "playerKey": "erik-holmgren",
+  "scorer": "Erik Holmgren",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

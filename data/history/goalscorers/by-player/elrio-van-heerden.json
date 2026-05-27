@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2005-07-08",
+      "goalId": "goal-2005-07-08-rsa-mex-25497",
+      "homeTeamId": "rsa",
+      "matchKey": "2005-07-08-rsa-mex",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elrio van Heerden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "angola",
+      "date": "2008-01-23",
+      "goalId": "goal-2008-01-23-rsa-angola-27565",
+      "homeTeamId": "rsa",
+      "matchKey": "2008-01-23-rsa-angola",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elrio van Heerden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2008-01-31",
+      "goalId": "goal-2008-01-31-senegal-rsa-27612",
+      "homeTeamId": "senegal",
+      "matchKey": "2008-01-31-senegal-rsa",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elrio van Heerden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    }
+  ],
+  "normalizedScorer": "elrio van heerden",
+  "playerKey": "elrio-van-heerden",
+  "scorer": "Elrio van Heerden",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rsa"
+  ]
+}

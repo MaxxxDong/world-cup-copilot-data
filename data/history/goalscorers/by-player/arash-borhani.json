@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-qatar-iran-24766",
+      "homeTeamId": "qatar",
+      "matchKey": "2004-10-13-qatar-iran",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arash Borhani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "laos",
+      "date": "2004-11-17",
+      "goalId": "goal-2004-11-17-iran-laos-24864",
+      "homeTeamId": "iran",
+      "matchKey": "2004-11-17-iran-laos",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arash Borhani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "arash borhani",
+  "playerKey": "arash-borhani",
+  "scorer": "Arash Borhani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

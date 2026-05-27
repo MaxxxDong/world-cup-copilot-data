@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "1961-05-14",
+      "goalId": "goal-1961-05-14-german-dr-netherlands-3497",
+      "homeTeamId": "german-dr",
+      "matchKey": "1961-05-14-german-dr-netherlands",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dieter Erler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1961-09-10",
+      "goalId": "goal-1961-09-10-german-dr-hungary-3537",
+      "homeTeamId": "german-dr",
+      "matchKey": "1961-09-10-german-dr-hungary",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dieter Erler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1962-11-21",
+      "goalId": "goal-1962-11-21-german-dr-czechoslovakia-3798",
+      "homeTeamId": "german-dr",
+      "matchKey": "1962-11-21-german-dr-czechoslovakia",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dieter Erler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    },
+    {
+      "awayTeamId": "german-dr",
+      "date": "1963-11-03",
+      "goalId": "goal-1963-11-03-hungary-german-dr-4042",
+      "homeTeamId": "hungary",
+      "matchKey": "1963-11-03-hungary-german-dr",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dieter Erler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    }
+  ],
+  "normalizedScorer": "dieter erler",
+  "playerKey": "dieter-erler",
+  "scorer": "Dieter Erler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "german-dr"
+  ]
+}

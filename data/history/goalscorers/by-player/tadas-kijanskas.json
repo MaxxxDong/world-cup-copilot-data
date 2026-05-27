@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "2011-03-29",
+      "goalId": "goal-2011-03-29-lithuania-spain-30409",
+      "homeTeamId": "lithuania",
+      "matchKey": "2011-03-29-lithuania-spain",
+      "minute": 70,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Tadas Kijanskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-lithuania-liechtenstein-33276",
+      "homeTeamId": "lithuania",
+      "matchKey": "2013-09-10-lithuania-liechtenstein",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tadas Kijanskas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "tadas kijanskas",
+  "playerKey": "tadas-kijanskas",
+  "scorer": "Tadas Kijanskas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania",
+    "spain"
+  ]
+}

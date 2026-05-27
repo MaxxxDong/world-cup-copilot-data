@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1962-06-02",
+      "goalId": "goal-1962-06-02-uruguay-yugoslavia-3686",
+      "homeTeamId": "uruguay",
+      "matchKey": "1962-06-02-uruguay-yugoslavia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Josip Skoblar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1962-11-04",
+      "goalId": "goal-1962-11-04-yugoslavia-belgium-3781",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1962-11-04-yugoslavia-belgium",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Josip Skoblar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1962-11-04",
+      "goalId": "goal-1962-11-04-yugoslavia-belgium-3783",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1962-11-04-yugoslavia-belgium",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Josip Skoblar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1967-05-03",
+      "goalId": "goal-1967-05-03-yugoslavia-germany-4913",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1967-05-03-yugoslavia-germany",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Josip Skoblar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "josip skoblar",
+  "playerKey": "josip-skoblar",
+  "scorer": "Josip Skoblar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "1991-10-16",
+      "goalId": "goal-1991-10-16-northern-ireland-austria-12988",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1991-10-16-northern-ireland-austria",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kingsley Black",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "kingsley black",
+  "playerKey": "kingsley-black",
+  "scorer": "Kingsley Black",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

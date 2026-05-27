@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1968-05-11",
+      "goalId": "goal-1968-05-11-myanmar-taiwan-5164",
+      "homeTeamId": "myanmar",
+      "matchKey": "1968-05-11-myanmar-taiwan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hla Htay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    },
+    {
+      "awayTeamId": "myanmar",
+      "date": "1968-05-16",
+      "goalId": "goal-1968-05-16-iran-myanmar-5184",
+      "homeTeamId": "iran",
+      "matchKey": "1968-05-16-iran-myanmar",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hla Htay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    }
+  ],
+  "normalizedScorer": "hla htay",
+  "playerKey": "hla-htay",
+  "scorer": "Hla Htay",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "myanmar"
+  ]
+}

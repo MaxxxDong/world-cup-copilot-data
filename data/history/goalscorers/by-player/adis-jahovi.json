@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-serbia-north-macedonia-33526",
+      "homeTeamId": "serbia",
+      "matchKey": "2013-10-15-serbia-north-macedonia",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adis Jahović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2014-10-09",
+      "goalId": "goal-2014-10-09-north-macedonia-luxembourg-33849",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2014-10-09-north-macedonia-luxembourg",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Adis Jahović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "adis jahovi",
+  "playerKey": "adis-jahovi",
+  "scorer": "Adis Jahović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-macedonia"
+  ]
+}

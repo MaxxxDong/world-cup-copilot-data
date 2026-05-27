@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1977-11-11",
+      "goalId": "goal-1977-11-11-iran-south-korea-8102",
+      "homeTeamId": "iran",
+      "matchKey": "1977-11-11-iran-south-korea",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Young-Moo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1977-11-11",
+      "goalId": "goal-1977-11-11-iran-south-korea-8105",
+      "homeTeamId": "iran",
+      "matchKey": "1977-11-11-iran-south-korea",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Young-Moo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "lee young moo",
+  "playerKey": "lee-young-moo",
+  "scorer": "Lee Young-Moo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

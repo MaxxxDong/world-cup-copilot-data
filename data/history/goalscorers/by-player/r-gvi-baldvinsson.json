@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "2011-06-03",
+      "goalId": "goal-2011-06-03-faroe-islands-slovenia-30439",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2011-06-03-faroe-islands-slovenia",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Rógvi Baldvinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-faroe-islands-sweden-32277",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2012-10-12-faroe-islands-sweden",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rógvi Baldvinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2017-08-31",
+      "goalId": "goal-2017-08-31-portugal-faroe-islands-37035",
+      "homeTeamId": "portugal",
+      "matchKey": "2017-08-31-portugal-faroe-islands",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rógvi Baldvinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2019-10-15",
+      "goalId": "goal-2019-10-15-faroe-islands-malta-39290",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2019-10-15-faroe-islands-malta",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rógvi Baldvinsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    }
+  ],
+  "normalizedScorer": "r gvi baldvinsson",
+  "playerKey": "r-gvi-baldvinsson",
+  "scorer": "Rógvi Baldvinsson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "faroe-islands",
+    "slovenia"
+  ]
+}

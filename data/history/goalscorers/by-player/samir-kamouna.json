@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1996-01-27",
+      "goalId": "goal-1996-01-27-zambia-egypt-15825",
+      "homeTeamId": "zambia",
+      "matchKey": "1996-01-27-zambia-egypt",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Kamouna",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "1997-08-17",
+      "goalId": "goal-1997-08-17-egypt-liberia-17543",
+      "homeTeamId": "egypt",
+      "matchKey": "1997-08-17-egypt-liberia",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Kamouna",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "1999-07-27",
+      "goalId": "goal-1999-07-27-mex-egypt-18944",
+      "homeTeamId": "mex",
+      "matchKey": "1999-07-27-mex-egypt",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Kamouna",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "1999-07-29",
+      "goalId": "goal-1999-07-29-egypt-saudi-arabia-18951",
+      "homeTeamId": "egypt",
+      "matchKey": "1999-07-29-egypt-saudi-arabia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Samir Kamouna",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-egypt-mauritius-19590",
+      "homeTeamId": "egypt",
+      "matchKey": "2000-04-23-egypt-mauritius",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samir Kamouna",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "samir kamouna",
+  "playerKey": "samir-kamouna",
+  "scorer": "Samir Kamouna",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "poland",
+      "date": "1977-05-15",
+      "goalId": "goal-1977-05-15-cyprus-poland-7896",
+      "homeTeamId": "cyprus",
+      "matchKey": "1977-05-15-cyprus-poland",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Włodzimierz Mazur",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1979-05-02",
+      "goalId": "goal-1979-05-02-poland-netherlands-8466",
+      "homeTeamId": "poland",
+      "matchKey": "1979-05-02-poland-netherlands",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Włodzimierz Mazur",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "w odzimierz mazur",
+  "playerKey": "w-odzimierz-mazur",
+  "scorer": "Włodzimierz Mazur",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

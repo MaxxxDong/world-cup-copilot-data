@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "haiti",
+      "date": "1985-04-13",
+      "goalId": "goal-1985-04-13-canada-haiti-10701",
+      "homeTeamId": "canada",
+      "matchKey": "1985-04-13-canada-haiti",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Vrablic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1985-05-08",
+      "goalId": "goal-1985-05-08-haiti-canada-10779",
+      "homeTeamId": "haiti",
+      "matchKey": "1985-05-08-haiti-canada",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Vrablic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "1985-09-14",
+      "goalId": "goal-1985-09-14-canada-honduras-10942",
+      "homeTeamId": "canada",
+      "matchKey": "1985-09-14-canada-honduras",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Vrablic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "igor vrablic",
+  "playerKey": "igor-vrablic",
+  "scorer": "Igor Vrablic",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

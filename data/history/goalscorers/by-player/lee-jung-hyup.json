@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "2015-01-17",
+      "goalId": "goal-2015-01-17-australia-south-korea-34077",
+      "homeTeamId": "australia",
+      "matchKey": "2015-01-17-australia-south-korea",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Jung-hyup",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2015-01-26",
+      "goalId": "goal-2015-01-26-south-korea-iraq-34143",
+      "homeTeamId": "south-korea",
+      "matchKey": "2015-01-26-south-korea-iraq",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Jung-hyup",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "lee jung hyup",
+  "playerKey": "lee-jung-hyup",
+  "scorer": "Lee Jung-hyup",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

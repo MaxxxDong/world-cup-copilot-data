@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "2000-10-24",
+      "goalId": "goal-2000-10-24-japan-iraq-20258",
+      "homeTeamId": "japan",
+      "matchKey": "2000-10-24-japan-iraq",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tomokazu Myojin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2000-10-26",
+      "goalId": "goal-2000-10-26-china-pr-japan-20268",
+      "homeTeamId": "china-pr",
+      "matchKey": "2000-10-26-china-pr-japan",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tomokazu Myojin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "tomokazu myojin",
+  "playerKey": "tomokazu-myojin",
+  "scorer": "Tomokazu Myojin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

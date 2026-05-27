@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1981-09-23",
+      "goalId": "goal-1981-09-23-germany-finland-9453",
+      "homeTeamId": "germany",
+      "matchKey": "1981-09-23-germany-finland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wolfgang Dremmler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1983-04-23",
+      "goalId": "goal-1983-04-23-turkey-germany-9975",
+      "homeTeamId": "turkey",
+      "matchKey": "1983-04-23-turkey-germany",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wolfgang Dremmler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "wolfgang dremmler",
+  "playerKey": "wolfgang-dremmler",
+  "scorer": "Wolfgang Dremmler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-yemen-saudi-arabia-39093",
+      "homeTeamId": "yemen",
+      "matchKey": "2019-09-10-yemen-saudi-arabia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    },
+    {
+      "awayTeamId": "palestine",
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-yemen-palestine-39433",
+      "homeTeamId": "yemen",
+      "matchKey": "2019-11-14-yemen-palestine",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    },
+    {
+      "awayTeamId": "yemen",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-nepal-yemen-44149",
+      "homeTeamId": "nepal",
+      "matchKey": "2023-11-21-nepal-yemen",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    }
+  ],
+  "normalizedScorer": "omar al dahi",
+  "playerKey": "omar-al-dahi",
+  "scorer": "Omar Al-Dahi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yemen"
+  ]
+}

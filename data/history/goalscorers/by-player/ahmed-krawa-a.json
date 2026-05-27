@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "libya",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-eswatini-libya-43947",
+      "homeTeamId": "eswatini",
+      "matchKey": "2023-11-17-eswatini-libya",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Krawa'a",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-libya-mauritius-44667",
+      "homeTeamId": "libya",
+      "matchKey": "2024-06-06-libya-mauritius",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Krawa'a",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    }
+  ],
+  "normalizedScorer": "ahmed krawa a",
+  "playerKey": "ahmed-krawa-a",
+  "scorer": "Ahmed Krawa'a",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "libya"
+  ]
+}

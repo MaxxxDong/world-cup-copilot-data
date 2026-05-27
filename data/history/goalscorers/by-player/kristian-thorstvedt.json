@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2021-03-24",
+      "goalId": "goal-2021-03-24-gibraltar-norway-40093",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2021-03-24-gibraltar-norway",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-norway-gibraltar-41375",
+      "homeTeamId": "norway",
+      "matchKey": "2021-09-07-norway-gibraltar",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-turkey-norway-41569",
+      "homeTeamId": "turkey",
+      "matchKey": "2021-10-08-turkey-norway",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "kristian thorstvedt",
+  "playerKey": "kristian-thorstvedt",
+  "scorer": "Kristian Thorstvedt",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

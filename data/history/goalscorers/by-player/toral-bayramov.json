@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2023-10-13",
+      "goalId": "goal-2023-10-13-estonia-azerbaijan-43660",
+      "homeTeamId": "estonia",
+      "matchKey": "2023-10-13-estonia-azerbaijan",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Toral Bayramov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-estonia-azerbaijan-45448",
+      "homeTeamId": "estonia",
+      "matchKey": "2024-10-11-estonia-azerbaijan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Toral Bayramov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2024-10-14",
+      "goalId": "goal-2024-10-14-azerbaijan-slovakia-45506",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2024-10-14-azerbaijan-slovakia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Toral Bayramov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "toral bayramov",
+  "playerKey": "toral-bayramov",
+  "scorer": "Toral Bayramov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan"
+  ]
+}

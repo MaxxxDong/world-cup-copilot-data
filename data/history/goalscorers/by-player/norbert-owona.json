@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "1968-12-07",
+      "goalId": "goal-1968-12-07-nigeria-cameroon-5344",
+      "homeTeamId": "nigeria",
+      "matchKey": "1968-12-07-nigeria-cameroon",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norbert Owona",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1972-03-04",
+      "goalId": "goal-1972-03-04-cameroon-dr-congo-6284",
+      "homeTeamId": "cameroon",
+      "matchKey": "1972-03-04-cameroon-dr-congo",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norbert Owona",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "norbert owona",
+  "playerKey": "norbert-owona",
+  "scorer": "Norbert Owona",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "andorra",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-netherlands-andorra-32300",
+      "homeTeamId": "netherlands",
+      "matchKey": "2012-10-12-netherlands-andorra",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Schaken",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-netherlands-estonia-32603",
+      "homeTeamId": "netherlands",
+      "matchKey": "2013-03-22-netherlands-estonia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Schaken",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "ruben schaken",
+  "playerKey": "ruben-schaken",
+  "scorer": "Ruben Schaken",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

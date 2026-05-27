@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-lithuania-scotland-37066",
+      "homeTeamId": "lithuania",
+      "matchKey": "2017-09-01-lithuania-scotland",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrew Robertson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-scotland-cyprus-38417",
+      "homeTeamId": "scotland",
+      "matchKey": "2019-06-08-scotland-cyprus",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andrew Robertson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "andrew robertson",
+  "playerKey": "andrew-robertson",
+  "scorer": "Andrew Robertson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

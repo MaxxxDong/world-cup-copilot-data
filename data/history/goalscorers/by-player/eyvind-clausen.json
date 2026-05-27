@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1962-06-28",
+      "goalId": "goal-1962-06-28-denmark-malta-3756",
+      "homeTeamId": "denmark",
+      "matchKey": "1962-06-28-denmark-malta",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eyvind Clausen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1963-06-29",
+      "goalId": "goal-1963-06-29-denmark-albania-4008",
+      "homeTeamId": "denmark",
+      "matchKey": "1963-06-29-denmark-albania",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eyvind Clausen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "eyvind clausen",
+  "playerKey": "eyvind-clausen",
+  "scorer": "Eyvind Clausen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mauritania",
+      "date": "2015-10-07",
+      "goalId": "goal-2015-10-07-south-sudan-mauritania-34956",
+      "homeTeamId": "south-sudan",
+      "matchKey": "2015-10-07-south-sudan-mauritania",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boubacar Bagili",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritania"
+    },
+    {
+      "awayTeamId": "south-sudan",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-mauritania-south-sudan-35201",
+      "homeTeamId": "mauritania",
+      "matchKey": "2015-10-13-mauritania-south-sudan",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boubacar Bagili",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritania"
+    }
+  ],
+  "normalizedScorer": "boubacar bagili",
+  "playerKey": "boubacar-bagili",
+  "scorer": "Boubacar Bagili",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mauritania"
+  ]
+}

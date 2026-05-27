@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1937-01-06",
+      "goalId": "goal-1937-01-06-peru-uruguay-923",
+      "homeTeamId": "peru",
+      "matchKey": "1937-01-06-peru-uruguay",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adolfo Magallanes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1942-01-18",
+      "goalId": "goal-1942-01-18-paraguay-peru-1264",
+      "homeTeamId": "paraguay",
+      "matchKey": "1942-01-18-paraguay-peru",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adolfo Magallanes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "adolfo magallanes",
+  "playerKey": "adolfo-magallanes",
+  "scorer": "Adolfo Magallanes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

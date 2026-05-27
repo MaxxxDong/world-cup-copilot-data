@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2022-06-11",
+      "goalId": "goal-2022-06-11-hungary-germany-42642",
+      "homeTeamId": "hungary",
+      "matchKey": "2022-06-11-hungary-germany",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zsolt Nagy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "2022-06-14",
+      "goalId": "goal-2022-06-14-england-hungary-42709",
+      "homeTeamId": "england",
+      "matchKey": "2022-06-14-england-hungary",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zsolt Nagy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "zsolt nagy",
+  "playerKey": "zsolt-nagy",
+  "scorer": "Zsolt Nagy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

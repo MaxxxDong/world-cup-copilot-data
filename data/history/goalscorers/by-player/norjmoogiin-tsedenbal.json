@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "brunei",
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-mongolia-brunei-38339",
+      "homeTeamId": "mongolia",
+      "matchKey": "2019-06-06-mongolia-brunei",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norjmoogiin Tsedenbal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mongolia"
+    },
+    {
+      "awayTeamId": "mongolia",
+      "date": "2019-06-11",
+      "goalId": "goal-2019-06-11-brunei-mongolia-38486",
+      "homeTeamId": "brunei",
+      "matchKey": "2019-06-11-brunei-mongolia",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Norjmoogiin Tsedenbal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mongolia"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "2019-10-15",
+      "goalId": "goal-2019-10-15-mongolia-kyrgyzstan-39322",
+      "homeTeamId": "mongolia",
+      "matchKey": "2019-10-15-mongolia-kyrgyzstan",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Norjmoogiin Tsedenbal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mongolia"
+    }
+  ],
+  "normalizedScorer": "norjmoogiin tsedenbal",
+  "playerKey": "norjmoogiin-tsedenbal",
+  "scorer": "Norjmoogiin Tsedenbal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mongolia"
+  ]
+}

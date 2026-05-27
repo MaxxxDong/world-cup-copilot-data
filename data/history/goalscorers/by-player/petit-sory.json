@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "guinea",
+      "date": "1970-02-09",
+      "goalId": "goal-1970-02-09-dr-congo-guinea-5810",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1970-02-09-dr-congo-guinea",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petit Sory",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "algeria",
+      "date": "1972-03-12",
+      "goalId": "goal-1972-03-12-guinea-algeria-6293",
+      "homeTeamId": "guinea",
+      "matchKey": "1972-03-12-guinea-algeria",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petit Sory",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "1976-03-03",
+      "goalId": "goal-1976-03-03-ethiopia-guinea-7456",
+      "homeTeamId": "ethiopia",
+      "matchKey": "1976-03-03-ethiopia-guinea",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petit Sory",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "petit sory",
+  "playerKey": "petit-sory",
+  "scorer": "Petit Sory",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

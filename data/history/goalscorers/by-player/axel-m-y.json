@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "2017-09-05",
+      "goalId": "goal-2017-09-05-civ-gabon-37225",
+      "homeTeamId": "civ",
+      "matchKey": "2017-09-05-civ-gabon",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Méyé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "gabon",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-angola-gabon-41527",
+      "homeTeamId": "angola",
+      "matchKey": "2021-10-08-angola-gabon",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Méyé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "axel m y",
+  "playerKey": "axel-m-y",
+  "scorer": "Axel Méyé",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon"
+  ]
+}

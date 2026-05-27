@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-north-macedonia-netherlands-28518",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2008-09-10-north-macedonia-netherlands",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Heitinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-netherlands-san-marino-30932",
+      "homeTeamId": "netherlands",
+      "matchKey": "2011-09-02-netherlands-san-marino",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Heitinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "john heitinga",
+  "playerKey": "john-heitinga",
+  "scorer": "John Heitinga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tunisia",
+      "date": "1997-04-06",
+      "goalId": "goal-1997-04-06-namibia-tunisia-16943",
+      "homeTeamId": "namibia",
+      "matchKey": "1997-04-06-namibia-tunisia",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Ouseb",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "namibia"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "1997-04-26",
+      "goalId": "goal-1997-04-26-namibia-egypt-16976",
+      "homeTeamId": "namibia",
+      "matchKey": "1997-04-26-namibia-egypt",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohammed Ouseb",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "namibia"
+    }
+  ],
+  "normalizedScorer": "mohammed ouseb",
+  "playerKey": "mohammed-ouseb",
+  "scorer": "Mohammed Ouseb",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "namibia"
+  ]
+}

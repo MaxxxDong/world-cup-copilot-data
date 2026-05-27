@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "1993-05-24",
+      "goalId": "goal-1993-05-24-jordan-iraq-14104",
+      "homeTeamId": "jordan",
+      "matchKey": "1993-05-24-jordan-iraq",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Munthir Khalaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "1993-05-28",
+      "goalId": "goal-1993-05-28-pakistan-iraq-14131",
+      "homeTeamId": "pakistan",
+      "matchKey": "1993-05-28-pakistan-iraq",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Munthir Khalaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "munthir khalaf",
+  "playerKey": "munthir-khalaf",
+  "scorer": "Munthir Khalaf",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

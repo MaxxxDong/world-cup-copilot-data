@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1942-01-10",
+      "goalId": "goal-1942-01-10-uruguay-chile-1241",
+      "homeTeamId": "uruguay",
+      "matchKey": "1942-01-10-uruguay-chile",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Ernesto Castro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1942-01-10",
+      "goalId": "goal-1942-01-10-uruguay-chile-1246",
+      "homeTeamId": "uruguay",
+      "matchKey": "1942-01-10-uruguay-chile",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Ernesto Castro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1942-02-01",
+      "goalId": "goal-1942-02-01-uruguay-peru-1313",
+      "homeTeamId": "uruguay",
+      "matchKey": "1942-02-01-uruguay-peru",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Ernesto Castro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "luis ernesto castro",
+  "playerKey": "luis-ernesto-castro",
+  "scorer": "Luis Ernesto Castro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1957-11-24",
+      "goalId": "goal-1957-11-24-poland-russia-2919",
+      "homeTeamId": "poland",
+      "matchKey": "1957-11-24-poland-russia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Genrich Fedosov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "genrich fedosov",
+  "playerKey": "genrich-fedosov",
+  "scorer": "Genrich Fedosov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2023-09-07",
+      "goalId": "goal-2023-09-07-fra-republic-of-ireland-43446",
+      "homeTeamId": "fra",
+      "matchKey": "2023-09-07-fra-republic-of-ireland",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Thuram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2023-11-18",
+      "goalId": "goal-2023-11-18-fra-gibraltar-43999",
+      "homeTeamId": "fra",
+      "matchKey": "2023-11-18-fra-gibraltar",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Thuram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "marcus thuram",
+  "playerKey": "marcus-thuram",
+  "scorer": "Marcus Thuram",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1953-11-22",
+      "goalId": "goal-1953-11-22-germany-norway-2112",
+      "homeTeamId": "germany",
+      "matchKey": "1953-11-22-germany-norway",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Nordahl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "hans nordahl",
+  "playerKey": "hans-nordahl",
+  "scorer": "Hans Nordahl",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

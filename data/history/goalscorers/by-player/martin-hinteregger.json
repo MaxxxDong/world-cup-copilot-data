@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "2016-09-05",
+      "goalId": "goal-2016-09-05-georgia-austria-36044",
+      "homeTeamId": "georgia",
+      "matchKey": "2016-09-05-georgia-austria",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Hinteregger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "2017-06-11",
+      "goalId": "goal-2017-06-11-republic-of-ireland-austria-36859",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2017-06-11-republic-of-ireland-austria",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Hinteregger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "2019-06-10",
+      "goalId": "goal-2019-06-10-north-macedonia-austria-38448",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2019-06-10-north-macedonia-austria",
+      "minute": 18,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Martin Hinteregger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-austria-israel-39106",
+      "homeTeamId": "austria",
+      "matchKey": "2019-10-10-austria-israel",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Hinteregger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "martin hinteregger",
+  "playerKey": "martin-hinteregger",
+  "scorer": "Martin Hinteregger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria",
+    "north-macedonia"
+  ]
+}

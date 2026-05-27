@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "indonesia",
+      "date": "1997-04-27",
+      "goalId": "goal-1997-04-27-cambodia-indonesia-16985",
+      "homeTeamId": "cambodia",
+      "matchKey": "1997-04-27-cambodia-indonesia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hok Sochetra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "1997-06-29",
+      "goalId": "goal-1997-06-29-cambodia-uzbekistan-17490",
+      "homeTeamId": "cambodia",
+      "matchKey": "1997-06-29-cambodia-uzbekistan",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hok Sochetra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    }
+  ],
+  "normalizedScorer": "hok sochetra",
+  "playerKey": "hok-sochetra",
+  "scorer": "Hok Sochetra",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cambodia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1999-10-09",
+      "goalId": "goal-1999-10-09-scotland-lithuania-19174",
+      "homeTeamId": "scotland",
+      "matchKey": "1999-10-09-scotland-lithuania",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Colin Cameron",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-scotland-san-marino-20684",
+      "homeTeamId": "scotland",
+      "matchKey": "2001-03-28-scotland-san-marino",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Colin Cameron",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "colin cameron",
+  "playerKey": "colin-cameron",
+  "scorer": "Colin Cameron",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1993-03-31",
+      "goalId": "goal-1993-03-31-hungary-greece-13742",
+      "homeTeamId": "hungary",
+      "matchKey": "1993-03-31-hungary-greece",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Stratos Apostolakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1993-10-12",
+      "goalId": "goal-1993-10-12-luxembourg-greece-14613",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1993-10-12-luxembourg-greece",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stratos Apostolakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1994-09-07",
+      "goalId": "goal-1994-09-07-faroe-islands-greece-14968",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "1994-09-07-faroe-islands-greece",
+      "minute": 90,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Stratos Apostolakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1994-12-18",
+      "goalId": "goal-1994-12-18-greece-scotland-15159",
+      "homeTeamId": "greece",
+      "matchKey": "1994-12-18-greece-scotland",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Stratos Apostolakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "1996-09-01",
+      "goalId": "goal-1996-09-01-greece-bosnia-and-herzegovina-16210",
+      "homeTeamId": "greece",
+      "matchKey": "1996-09-01-greece-bosnia-and-herzegovina",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stratos Apostolakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "stratos apostolakis",
+  "playerKey": "stratos-apostolakis",
+  "scorer": "Stratos Apostolakis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "faroe-islands",
+    "greece"
+  ]
+}

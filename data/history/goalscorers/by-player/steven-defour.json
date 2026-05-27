@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-belgium-estonia-28306",
+      "homeTeamId": "belgium",
+      "matchKey": "2008-09-06-belgium-estonia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steven Defour",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2013-09-06",
+      "goalId": "goal-2013-09-06-scotland-belgium-33158",
+      "homeTeamId": "scotland",
+      "matchKey": "2013-09-06-scotland-belgium",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steven Defour",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "steven defour",
+  "playerKey": "steven-defour",
+  "scorer": "Steven Defour",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

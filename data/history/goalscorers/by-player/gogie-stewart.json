@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1957-06-22",
+      "goalId": "goal-1957-06-22-canada-usa-2769",
+      "homeTeamId": "canada",
+      "matchKey": "1957-06-22-canada-usa",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gogie Stewart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1957-07-06",
+      "goalId": "goal-1957-07-06-usa-canada-2791",
+      "homeTeamId": "usa",
+      "matchKey": "1957-07-06-usa-canada",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gogie Stewart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "gogie stewart",
+  "playerKey": "gogie-stewart",
+  "scorer": "Gogie Stewart",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

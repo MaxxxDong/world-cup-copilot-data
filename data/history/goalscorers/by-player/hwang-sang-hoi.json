@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "china-pr",
+      "date": "1980-09-18",
+      "goalId": "goal-1980-09-18-north-korea-china-pr-8958",
+      "homeTeamId": "north-korea",
+      "matchKey": "1980-09-18-north-korea-china-pr",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hwang Sang-hoi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-24",
+      "goalId": "goal-1980-09-24-iran-north-korea-8986",
+      "homeTeamId": "iran",
+      "matchKey": "1980-09-24-iran-north-korea",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hwang Sang-hoi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "hwang sang hoi",
+  "playerKey": "hwang-sang-hoi",
+  "scorer": "Hwang Sang-hoi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

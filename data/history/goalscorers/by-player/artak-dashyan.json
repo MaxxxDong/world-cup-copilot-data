@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "armenia",
+      "date": "2022-09-27",
+      "goalId": "goal-2022-09-27-republic-of-ireland-armenia-42879",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2022-09-27-republic-of-ireland-armenia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Artak Dashyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2023-09-08",
+      "goalId": "goal-2023-09-08-turkey-armenia-43496",
+      "homeTeamId": "turkey",
+      "matchKey": "2023-09-08-turkey-armenia",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Artak Dashyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    }
+  ],
+  "normalizedScorer": "artak dashyan",
+  "playerKey": "artak-dashyan",
+  "scorer": "Artak Dashyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "armenia"
+  ]
+}

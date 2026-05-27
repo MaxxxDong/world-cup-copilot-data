@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1997-08-20",
+      "goalId": "goal-1997-08-20-turkey-wales-17601",
+      "homeTeamId": "turkey",
+      "matchKey": "1997-08-20-turkey-wales",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robbie Savage",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2001-09-05",
+      "goalId": "goal-2001-09-05-norway-wales-21827",
+      "homeTeamId": "norway",
+      "matchKey": "2001-09-05-norway-wales",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robbie Savage",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "robbie savage",
+  "playerKey": "robbie-savage",
+  "scorer": "Robbie Savage",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

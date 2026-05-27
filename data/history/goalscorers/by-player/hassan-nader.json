@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "1988-03-26",
+      "goalId": "goal-1988-03-26-mar-algeria-11616",
+      "homeTeamId": "mar",
+      "matchKey": "1988-03-26-mar-algeria",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Nader",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1994-06-29",
+      "goalId": "goal-1994-06-29-mar-netherlands-14886",
+      "homeTeamId": "mar",
+      "matchKey": "1994-06-29-mar-netherlands",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Nader",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "hassan nader",
+  "playerKey": "hassan-nader",
+  "scorer": "Hassan Nader",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

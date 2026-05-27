@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2023-06-28",
+      "goalId": "goal-2023-06-28-jamaica-trinidad-and-tobago-43359",
+      "homeTeamId": "jamaica",
+      "matchKey": "2023-06-28-jamaica-trinidad-and-tobago",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dujuan Richards",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "bermuda",
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-jamaica-bermuda-47175",
+      "homeTeamId": "jamaica",
+      "matchKey": "2025-10-14-jamaica-bermuda",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dujuan Richards",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "dujuan richards",
+  "playerKey": "dujuan-richards",
+  "scorer": "Dujuan Richards",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

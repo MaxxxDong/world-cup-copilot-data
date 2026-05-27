@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "1990-06-15",
+      "goalId": "goal-1990-06-15-germany-united-arab-emirates-12512",
+      "homeTeamId": "germany",
+      "matchKey": "1990-06-15-germany-united-arab-emirates",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uwe Bein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1990-10-31",
+      "goalId": "goal-1990-10-31-luxembourg-germany-12646",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1990-10-31-luxembourg-germany",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uwe Bein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "uwe bein",
+  "playerKey": "uwe-bein",
+  "scorer": "Uwe Bein",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2004-06-30",
+      "goalId": "goal-2004-06-30-portugal-netherlands-24024",
+      "homeTeamId": "portugal",
+      "matchKey": "2004-06-30-portugal-netherlands",
+      "minute": 63,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Jorge Andrade",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-portugal-luxembourg-25642",
+      "homeTeamId": "portugal",
+      "matchKey": "2005-09-03-portugal-luxembourg",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Andrade",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "jorge andrade",
+  "playerKey": "jorge-andrade",
+  "scorer": "Jorge Andrade",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands",
+    "portugal"
+  ]
+}

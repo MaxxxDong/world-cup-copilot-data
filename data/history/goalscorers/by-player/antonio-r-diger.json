@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2017-10-08",
+      "goalId": "goal-2017-10-08-germany-azerbaijan-37401",
+      "homeTeamId": "germany",
+      "matchKey": "2017-10-08-germany-azerbaijan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Rüdiger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-iceland-germany-41430",
+      "homeTeamId": "iceland",
+      "matchKey": "2021-09-08-iceland-germany",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Rüdiger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2024-06-14",
+      "goalId": "goal-2024-06-14-germany-scotland-44940",
+      "homeTeamId": "germany",
+      "matchKey": "2024-06-14-germany-scotland",
+      "minute": 87,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Antonio Rüdiger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "antonio r diger",
+  "playerKey": "antonio-r-diger",
+  "scorer": "Antonio Rüdiger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany",
+    "scotland"
+  ]
+}

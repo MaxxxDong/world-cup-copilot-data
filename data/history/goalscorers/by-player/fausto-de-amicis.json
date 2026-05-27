@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "american-samoa",
+      "date": "2001-04-11",
+      "goalId": "goal-2001-04-11-australia-american-samoa-20778",
+      "homeTeamId": "australia",
+      "matchKey": "2001-04-11-australia-american-samoa",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fausto De Amicis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "fiji",
+      "date": "2002-07-10",
+      "goalId": "goal-2002-07-10-australia-fiji-22395",
+      "homeTeamId": "australia",
+      "matchKey": "2002-07-10-australia-fiji",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fausto De Amicis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "fausto de amicis",
+  "playerKey": "fausto-de-amicis",
+  "scorer": "Fausto De Amicis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

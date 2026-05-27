@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2019-09-06",
+      "goalId": "goal-2019-09-06-germany-netherlands-38902",
+      "homeTeamId": "germany",
+      "matchKey": "2019-09-06-germany-netherlands",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frenkie de Jong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2022-11-29",
+      "goalId": "goal-2022-11-29-qatar-netherlands-42979",
+      "homeTeamId": "qatar",
+      "matchKey": "2022-11-29-qatar-netherlands",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frenkie de Jong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "frenkie de jong",
+  "playerKey": "frenkie-de-jong",
+  "scorer": "Frenkie de Jong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

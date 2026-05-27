@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-indonesia-iraq-44658",
+      "homeTeamId": "indonesia",
+      "matchKey": "2024-06-06-indonesia-iraq",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Jasim",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "vietnam",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-iraq-vietnam-44854",
+      "homeTeamId": "iraq",
+      "matchKey": "2024-06-11-iraq-vietnam",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Jasim",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "ali jasim",
+  "playerKey": "ali-jasim",
+  "scorer": "Ali Jasim",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

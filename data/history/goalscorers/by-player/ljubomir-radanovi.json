@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1983-12-21",
+      "goalId": "goal-1983-12-21-yugoslavia-bulgaria-10207",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1983-12-21-yugoslavia-bulgaria",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ljubomir Radanović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1987-12-16",
+      "goalId": "goal-1987-12-16-turkey-yugoslavia-11590",
+      "homeTeamId": "turkey",
+      "matchKey": "1987-12-16-turkey-yugoslavia",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ljubomir Radanović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "ljubomir radanovi",
+  "playerKey": "ljubomir-radanovi",
+  "scorer": "Ljubomir Radanović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

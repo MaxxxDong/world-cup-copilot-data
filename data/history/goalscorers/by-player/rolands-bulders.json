@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "1994-07-30",
+      "goalId": "goal-1994-07-30-estonia-latvia-14944",
+      "homeTeamId": "estonia",
+      "matchKey": "1994-07-30-estonia-latvia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rolands Bulders",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1996-07-07",
+      "goalId": "goal-1996-07-07-estonia-latvia-16167",
+      "homeTeamId": "estonia",
+      "matchKey": "1996-07-07-estonia-latvia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rolands Bulders",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    }
+  ],
+  "normalizedScorer": "rolands bulders",
+  "playerKey": "rolands-bulders",
+  "scorer": "Rolands Bulders",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "latvia"
+  ]
+}

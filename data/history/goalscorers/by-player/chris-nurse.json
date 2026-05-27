@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guyana",
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-barbados-guyana-31115",
+      "homeTeamId": "barbados",
+      "matchKey": "2011-10-07-barbados-guyana",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nurse",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guyana"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2012-09-11",
+      "goalId": "goal-2012-09-11-guyana-el-salvador-32154",
+      "homeTeamId": "guyana",
+      "matchKey": "2012-09-11-guyana-el-salvador",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nurse",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guyana"
+    }
+  ],
+  "normalizedScorer": "chris nurse",
+  "playerKey": "chris-nurse",
+  "scorer": "Chris Nurse",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guyana"
+  ]
+}

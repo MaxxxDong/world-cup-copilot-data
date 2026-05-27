@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1998-06-16",
+      "goalId": "goal-1998-06-16-scotland-norway-18243",
+      "homeTeamId": "scotland",
+      "matchKey": "1998-06-16-scotland-norway",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Craig Burley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-scotland-faroe-islands-18598",
+      "homeTeamId": "scotland",
+      "matchKey": "1998-10-14-scotland-faroe-islands",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Craig Burley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "craig burley",
+  "playerKey": "craig-burley",
+  "scorer": "Craig Burley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

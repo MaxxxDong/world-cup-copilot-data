@@ -1,0 +1,127 @@
+{
+  "goalCount": 6,
+  "goals": [
+    {
+      "awayTeamId": "rsa",
+      "date": "2004-01-31",
+      "goalId": "goal-2004-01-31-nigeria-rsa-23326",
+      "homeTeamId": "nigeria",
+      "matchKey": "2004-01-31-nigeria-rsa",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "algeria",
+      "date": "2004-07-03",
+      "goalId": "goal-2004-07-03-nigeria-algeria-24035",
+      "homeTeamId": "nigeria",
+      "matchKey": "2004-07-03-nigeria-algeria",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "2008-06-07",
+      "goalId": "goal-2008-06-07-sierra-leone-nigeria-27871",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "2008-06-07-sierra-leone-nigeria",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "2008-06-15",
+      "goalId": "goal-2008-06-15-equatorial-guinea-nigeria-28044",
+      "homeTeamId": "equatorial-guinea",
+      "matchKey": "2008-06-15-equatorial-guinea-nigeria",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-nigeria-sierra-leone-28640",
+      "homeTeamId": "nigeria",
+      "matchKey": "2008-10-11-nigeria-sierra-leone",
+      "minute": 32,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sierra-leone"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "2014-06-30",
+      "goalId": "goal-2014-06-30-fra-nigeria-33744",
+      "homeTeamId": "fra",
+      "matchKey": "2014-06-30-fra-nigeria",
+      "minute": 90,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Joseph Yobo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "joseph yobo",
+  "playerKey": "joseph-yobo",
+  "scorer": "Joseph Yobo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra",
+    "nigeria",
+    "sierra-leone"
+  ]
+}

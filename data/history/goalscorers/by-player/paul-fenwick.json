@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "2000-08-15",
+      "goalId": "goal-2000-08-15-mex-canada-19949",
+      "homeTeamId": "mex",
+      "matchKey": "2000-08-15-mex-canada",
+      "minute": 81,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Paul Fenwick",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "paul fenwick",
+  "playerKey": "paul-fenwick",
+  "scorer": "Paul Fenwick",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

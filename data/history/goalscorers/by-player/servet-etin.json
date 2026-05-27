@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2007-09-08",
+      "goalId": "goal-2007-09-08-malta-turkey-26984",
+      "homeTeamId": "malta",
+      "matchKey": "2007-09-08-malta-turkey",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Servet Çetin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2009-10-14",
+      "goalId": "goal-2009-10-14-turkey-armenia-29759",
+      "homeTeamId": "turkey",
+      "matchKey": "2009-10-14-turkey-armenia",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Servet Çetin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "servet etin",
+  "playerKey": "servet-etin",
+  "scorer": "Servet Çetin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1968-10-09",
+      "goalId": "goal-1968-10-09-belgium-finland-5240",
+      "homeTeamId": "belgium",
+      "matchKey": "1968-10-09-belgium-finland",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tommy Lindholm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1969-06-25",
+      "goalId": "goal-1969-06-25-finland-spain-5519",
+      "homeTeamId": "finland",
+      "matchKey": "1969-06-25-finland-spain",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tommy Lindholm",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "tommy lindholm",
+  "playerKey": "tommy-lindholm",
+  "scorer": "Tommy Lindholm",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

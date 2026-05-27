@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1992-10-25",
+      "goalId": "goal-1992-10-25-togo-egypt-13433",
+      "homeTeamId": "togo",
+      "matchKey": "1992-10-25-togo-egypt",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hany Ramzy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2000-02-01",
+      "goalId": "goal-2000-02-01-egypt-burkina-faso-19244",
+      "homeTeamId": "egypt",
+      "matchKey": "2000-02-01-egypt-burkina-faso",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hany Ramzy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "hany ramzy",
+  "playerKey": "hany-ramzy",
+  "scorer": "Hany Ramzy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

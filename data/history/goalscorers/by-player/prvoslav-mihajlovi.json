@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1949-12-11",
+      "goalId": "goal-1949-12-11-fra-yugoslavia-1829",
+      "homeTeamId": "fra",
+      "matchKey": "1949-12-11-fra-yugoslavia",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Prvoslav Mihajlović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1949-12-11",
+      "goalId": "goal-1949-12-11-fra-yugoslavia-1832",
+      "homeTeamId": "fra",
+      "matchKey": "1949-12-11-fra-yugoslavia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Prvoslav Mihajlović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "prvoslav mihajlovi",
+  "playerKey": "prvoslav-mihajlovi",
+  "scorer": "Prvoslav Mihajlović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

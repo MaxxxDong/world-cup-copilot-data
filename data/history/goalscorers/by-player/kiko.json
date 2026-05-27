@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "1995-11-15",
+      "goalId": "goal-1995-11-15-spain-north-macedonia-15714",
+      "homeTeamId": "spain",
+      "matchKey": "1995-11-15-spain-north-macedonia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kiko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1997-09-24",
+      "goalId": "goal-1997-09-24-slovakia-spain-17767",
+      "homeTeamId": "slovakia",
+      "matchKey": "1997-09-24-slovakia-spain",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kiko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1998-06-24",
+      "goalId": "goal-1998-06-24-spain-bulgaria-18310",
+      "homeTeamId": "spain",
+      "matchKey": "1998-06-24-spain-bulgaria",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kiko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "kiko",
+  "playerKey": "kiko",
+  "scorer": "Kiko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

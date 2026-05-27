@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "2024-06-27",
+      "goalId": "goal-2024-06-27-vanuatu-fiji-45084",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2024-06-27-vanuatu-fiji",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johnathan Spokeyjack",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-tahiti-vanuatu-45776",
+      "homeTeamId": "tahiti",
+      "matchKey": "2024-11-18-tahiti-vanuatu",
+      "minute": 8,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Johnathan Spokeyjack",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    }
+  ],
+  "normalizedScorer": "johnathan spokeyjack",
+  "playerKey": "johnathan-spokeyjack",
+  "scorer": "Johnathan Spokeyjack",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tahiti",
+    "vanuatu"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1953-11-04",
+      "goalId": "goal-1953-11-04-scotland-wales-2098",
+      "homeTeamId": "scotland",
+      "matchKey": "1953-11-04-scotland-wales",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Allan Brown",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1954-04-03",
+      "goalId": "goal-1954-04-03-scotland-england-2199",
+      "homeTeamId": "scotland",
+      "matchKey": "1954-04-03-scotland-england",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Allan Brown",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "allan brown",
+  "playerKey": "allan-brown",
+  "scorer": "Allan Brown",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

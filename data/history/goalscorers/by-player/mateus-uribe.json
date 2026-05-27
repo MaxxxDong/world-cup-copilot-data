@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-peru-colombia-40497",
+      "homeTeamId": "peru",
+      "matchKey": "2021-06-03-peru-colombia",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mateus Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-colombia-bolivia-42341",
+      "homeTeamId": "colombia",
+      "matchKey": "2022-03-24-colombia-bolivia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mateus Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-colombia-uruguay-43612",
+      "homeTeamId": "colombia",
+      "matchKey": "2023-10-12-colombia-uruguay",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mateus Uribe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "mateus uribe",
+  "playerKey": "mateus-uribe",
+  "scorer": "Mateus Uribe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

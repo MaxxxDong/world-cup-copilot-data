@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belize",
+      "date": "2013-07-09",
+      "goalId": "goal-2013-07-09-usa-belize-33033",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-09-usa-belize",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Orozco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-panama-usa-33493",
+      "homeTeamId": "panama",
+      "matchKey": "2013-10-15-panama-usa",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Orozco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "michael orozco",
+  "playerKey": "michael-orozco",
+  "scorer": "Michael Orozco",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-trinidad-and-tobago-panama-25273",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2005-06-04-trinidad-and-tobago-panama",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Lawrence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2005-11-16",
+      "goalId": "goal-2005-11-16-bahrain-trinidad-and-tobago-26003",
+      "homeTeamId": "bahrain",
+      "matchKey": "2005-11-16-bahrain-trinidad-and-tobago",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Lawrence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "dennis lawrence",
+  "playerKey": "dennis-lawrence",
+  "scorer": "Dennis Lawrence",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago"
+  ]
+}

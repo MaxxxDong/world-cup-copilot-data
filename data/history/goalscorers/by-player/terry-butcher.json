@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1983-11-16",
+      "goalId": "goal-1983-11-16-luxembourg-england-10157",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1983-11-16-luxembourg-england",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Terry Butcher",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "terry butcher",
+  "playerKey": "terry-butcher",
+  "scorer": "Terry Butcher",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

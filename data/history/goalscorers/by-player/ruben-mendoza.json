@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1954-04-04",
+      "goalId": "goal-1954-04-04-haiti-usa-2206",
+      "homeTeamId": "haiti",
+      "matchKey": "1954-04-04-haiti-usa",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Mendoza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1957-07-06",
+      "goalId": "goal-1957-07-06-usa-canada-2792",
+      "homeTeamId": "usa",
+      "matchKey": "1957-07-06-usa-canada",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Mendoza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "ruben mendoza",
+  "playerKey": "ruben-mendoza",
+  "scorer": "Ruben Mendoza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uganda",
+      "date": "1984-07-29",
+      "goalId": "goal-1984-07-29-zambia-uganda-10313",
+      "homeTeamId": "zambia",
+      "matchKey": "1984-07-29-zambia-uganda",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucky Msiska",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1989-01-22",
+      "goalId": "goal-1989-01-22-zambia-dr-congo-11866",
+      "homeTeamId": "zambia",
+      "matchKey": "1989-01-22-zambia-dr-congo",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucky Msiska",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "lucky msiska",
+  "playerKey": "lucky-msiska",
+  "scorer": "Lucky Msiska",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1983-03-27",
+      "goalId": "goal-1983-03-27-luxembourg-hungary-9935",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1983-03-27-luxembourg-hungary",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jeannot Reiter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1983-04-17",
+      "goalId": "goal-1983-04-17-hungary-luxembourg-9967",
+      "homeTeamId": "hungary",
+      "matchKey": "1983-04-17-hungary-luxembourg",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jeannot Reiter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "jeannot reiter",
+  "playerKey": "jeannot-reiter",
+  "scorer": "Jeannot Reiter",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

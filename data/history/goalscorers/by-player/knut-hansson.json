@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1933-06-29",
+      "goalId": "goal-1933-06-29-lithuania-sweden-650",
+      "homeTeamId": "lithuania",
+      "matchKey": "1933-06-29-lithuania-sweden",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Knut Hansson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1933-06-29",
+      "goalId": "goal-1933-06-29-lithuania-sweden-651",
+      "homeTeamId": "lithuania",
+      "matchKey": "1933-06-29-lithuania-sweden",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Knut Hansson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "knut hansson",
+  "playerKey": "knut-hansson",
+  "scorer": "Knut Hansson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

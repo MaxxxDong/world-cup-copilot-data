@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "haiti",
+      "date": "2025-06-07",
+      "goalId": "goal-2025-06-07-aruba-haiti-46309",
+      "homeTeamId": "aruba",
+      "matchKey": "2025-06-07-aruba-haiti",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Providence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    },
+    {
+      "awayTeamId": "nicaragua",
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-haiti-nicaragua-47394",
+      "homeTeamId": "haiti",
+      "matchKey": "2025-11-18-haiti-nicaragua",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ruben Providence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    }
+  ],
+  "normalizedScorer": "ruben providence",
+  "playerKey": "ruben-providence",
+  "scorer": "Ruben Providence",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "haiti"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1984-06-30",
+      "goalId": "goal-1984-06-30-sierra-leone-mar-10300",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "1984-06-30-sierra-leone-mar",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mustapha Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "1984-07-15",
+      "goalId": "goal-1984-07-15-mar-sierra-leone-10303",
+      "homeTeamId": "mar",
+      "matchKey": "1984-07-15-mar-sierra-leone",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mustapha Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "1984-07-15",
+      "goalId": "goal-1984-07-15-mar-sierra-leone-10305",
+      "homeTeamId": "mar",
+      "matchKey": "1984-07-15-mar-sierra-leone",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mustapha Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "libya",
+      "date": "1985-10-06",
+      "goalId": "goal-1985-10-06-mar-libya-10978",
+      "homeTeamId": "mar",
+      "matchKey": "1985-10-06-mar-libya",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mustapha Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "mustapha merry",
+  "playerKey": "mustapha-merry",
+  "scorer": "Mustapha Merry",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

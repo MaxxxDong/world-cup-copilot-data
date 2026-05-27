@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1975-07-20",
+      "goalId": "goal-1975-07-20-bolivia-chile-7256",
+      "homeTeamId": "bolivia",
+      "matchKey": "1975-07-20-bolivia-chile",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ovidio Mezza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1975-07-20",
+      "goalId": "goal-1975-07-20-bolivia-chile-7257",
+      "homeTeamId": "bolivia",
+      "matchKey": "1975-07-20-bolivia-chile",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ovidio Mezza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1975-08-07",
+      "goalId": "goal-1975-08-07-peru-bolivia-7287",
+      "homeTeamId": "peru",
+      "matchKey": "1975-08-07-peru-bolivia",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ovidio Mezza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1977-03-06",
+      "goalId": "goal-1977-03-06-venezuela-bolivia-7767",
+      "homeTeamId": "venezuela",
+      "matchKey": "1977-03-06-venezuela-bolivia",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ovidio Mezza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "ovidio mezza",
+  "playerKey": "ovidio-mezza",
+  "scorer": "Ovidio Mezza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

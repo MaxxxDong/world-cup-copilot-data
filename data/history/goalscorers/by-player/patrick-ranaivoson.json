@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "madagascar",
+      "date": "2001-04-28",
+      "goalId": "goal-2001-04-28-congo-madagascar-21004",
+      "homeTeamId": "congo",
+      "matchKey": "2001-04-28-congo-madagascar",
+      "minute": 42,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Patrick Ranaivoson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    }
+  ],
+  "normalizedScorer": "patrick ranaivoson",
+  "playerKey": "patrick-ranaivoson",
+  "scorer": "Patrick Ranaivoson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "congo"
+  ]
+}

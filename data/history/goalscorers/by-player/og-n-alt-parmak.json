@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1966-11-16",
+      "goalId": "goal-1966-11-16-republic-of-ireland-turkey-4758",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1966-11-16-republic-of-ireland-turkey",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ogün Altıparmak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1967-02-22",
+      "goalId": "goal-1967-02-22-turkey-republic-of-ireland-4844",
+      "homeTeamId": "turkey",
+      "matchKey": "1967-02-22-turkey-republic-of-ireland",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ogün Altıparmak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1968-10-23",
+      "goalId": "goal-1968-10-23-northern-ireland-turkey-5259",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1968-10-23-northern-ireland-turkey",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ogün Altıparmak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "og n alt parmak",
+  "playerKey": "og-n-alt-parmak",
+  "scorer": "Ogün Altıparmak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

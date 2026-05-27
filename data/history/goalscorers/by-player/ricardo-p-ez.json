@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2001-09-04",
+      "goalId": "goal-2001-09-04-chile-venezuela-21764",
+      "homeTeamId": "chile",
+      "matchKey": "2001-09-04-chile-venezuela",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Páez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2007-06-26",
+      "goalId": "goal-2007-06-26-venezuela-bolivia-26780",
+      "homeTeamId": "venezuela",
+      "matchKey": "2007-06-26-venezuela-bolivia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Páez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "ricardo p ez",
+  "playerKey": "ricardo-p-ez",
+  "scorer": "Ricardo Páez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

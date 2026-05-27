@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2004-06-22",
+      "goalId": "goal-2004-06-22-italy-bulgaria-23998",
+      "homeTeamId": "italy",
+      "matchKey": "2004-06-22-italy-bulgaria",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simone Perrotta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-georgia-italy-26455",
+      "homeTeamId": "georgia",
+      "matchKey": "2006-10-11-georgia-italy",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simone Perrotta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "simone perrotta",
+  "playerKey": "simone-perrotta",
+  "scorer": "Simone Perrotta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

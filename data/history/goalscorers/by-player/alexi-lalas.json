@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1993-06-22",
+      "goalId": "goal-1993-06-22-usa-venezuela-14289",
+      "homeTeamId": "usa",
+      "matchKey": "1993-06-22-usa-venezuela",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexi Lalas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "1993-07-17",
+      "goalId": "goal-1993-07-17-usa-honduras-14412",
+      "homeTeamId": "usa",
+      "matchKey": "1993-07-17-usa-honduras",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexi Lalas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "1995-07-14",
+      "goalId": "goal-1995-07-14-arg-usa-15451",
+      "homeTeamId": "arg",
+      "matchKey": "1995-07-14-arg-usa",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexi Lalas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "alexi lalas",
+  "playerKey": "alexi-lalas",
+  "scorer": "Alexi Lalas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

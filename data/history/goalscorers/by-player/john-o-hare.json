@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1970-11-11",
+      "goalId": "goal-1970-11-11-scotland-denmark-5967",
+      "homeTeamId": "scotland",
+      "matchKey": "1970-11-11-scotland-denmark",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John O'Hare",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "1971-10-13",
+      "goalId": "goal-1971-10-13-scotland-portugal-6139",
+      "homeTeamId": "scotland",
+      "matchKey": "1971-10-13-scotland-portugal",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John O'Hare",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1971-11-10",
+      "goalId": "goal-1971-11-10-scotland-belgium-6160",
+      "homeTeamId": "scotland",
+      "matchKey": "1971-11-10-scotland-belgium",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John O'Hare",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "john o hare",
+  "playerKey": "john-o-hare",
+  "scorer": "John O'Hare",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

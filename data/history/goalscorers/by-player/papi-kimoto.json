@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1998-02-12",
+      "goalId": "goal-1998-02-12-tunisia-dr-congo-18136",
+      "homeTeamId": "tunisia",
+      "matchKey": "1998-02-12-tunisia-dr-congo",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Papi Kimoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2002-01-29",
+      "goalId": "goal-2002-01-29-dr-congo-civ-22146",
+      "homeTeamId": "dr-congo",
+      "matchKey": "2002-01-29-dr-congo-civ",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Papi Kimoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "papi kimoto",
+  "playerKey": "papi-kimoto",
+  "scorer": "Papi Kimoto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

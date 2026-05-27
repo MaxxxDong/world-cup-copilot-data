@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2004-09-04",
+      "goalId": "goal-2004-09-04-republic-of-ireland-cyprus-24323",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2004-09-04-republic-of-ireland-cyprus",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andy Reid",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2006-11-15",
+      "goalId": "goal-2006-11-15-republic-of-ireland-san-marino-26515",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2006-11-15-republic-of-ireland-san-marino",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andy Reid",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "andy reid",
+  "playerKey": "andy-reid",
+  "scorer": "Andy Reid",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

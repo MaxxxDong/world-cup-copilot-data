@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1963-12-04",
+      "goalId": "goal-1963-12-04-luxembourg-denmark-4080",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1963-12-04-luxembourg-denmark",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henri Klein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1963-12-04",
+      "goalId": "goal-1963-12-04-luxembourg-denmark-4083",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1963-12-04-luxembourg-denmark",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henri Klein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "henri klein",
+  "playerKey": "henri-klein",
+  "scorer": "Henri Klein",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

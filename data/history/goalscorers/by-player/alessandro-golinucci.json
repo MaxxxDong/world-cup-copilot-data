@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-san-marino-denmark-43775",
+      "homeTeamId": "san-marino",
+      "matchKey": "2023-10-17-san-marino-denmark",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alessandro Golinucci",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "san-marino"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-liechtenstein-san-marino-45750",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2024-11-18-liechtenstein-san-marino",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alessandro Golinucci",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "san-marino"
+    }
+  ],
+  "normalizedScorer": "alessandro golinucci",
+  "playerKey": "alessandro-golinucci",
+  "scorer": "Alessandro Golinucci",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "san-marino"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "2019-11-16",
+      "goalId": "goal-2019-11-16-russia-belgium-39484",
+      "homeTeamId": "russia",
+      "matchKey": "2019-11-16-russia-belgium",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Dzhikiya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2021-10-11",
+      "goalId": "goal-2021-10-11-slovenia-russia-41708",
+      "homeTeamId": "slovenia",
+      "matchKey": "2021-10-11-slovenia-russia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Dzhikiya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "georgi dzhikiya",
+  "playerKey": "georgi-dzhikiya",
+  "scorer": "Georgi Dzhikiya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1989-09-17",
+      "goalId": "goal-1989-09-17-el-salvador-usa-12306",
+      "homeTeamId": "el-salvador",
+      "matchKey": "1989-09-17-el-salvador-usa",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hugo Pérez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1991-07-03",
+      "goalId": "goal-1991-07-03-usa-costa-rica-12856",
+      "homeTeamId": "usa",
+      "matchKey": "1991-07-03-usa-costa-rica",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hugo Pérez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "hugo p rez",
+  "playerKey": "hugo-p-rez",
+  "scorer": "Hugo Pérez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1968-05-11",
+      "goalId": "goal-1968-05-11-myanmar-taiwan-5165",
+      "homeTeamId": "myanmar",
+      "matchKey": "1968-05-11-myanmar-taiwan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wong Chi-keung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "taiwan"
+    },
+    {
+      "awayTeamId": "india",
+      "date": "1993-06-13",
+      "goalId": "goal-1993-06-13-hong-kong-india-14212",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1993-06-13-hong-kong-india",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wong Chi Keung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    }
+  ],
+  "normalizedScorer": "wong chi keung",
+  "playerKey": "wong-chi-keung",
+  "scorer": "Wong Chi-keung",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hong-kong",
+    "taiwan"
+  ]
+}

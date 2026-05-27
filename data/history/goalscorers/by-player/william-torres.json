@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belize",
+      "date": "2000-03-05",
+      "goalId": "goal-2000-03-05-el-salvador-belize-19364",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2000-03-05-el-salvador-belize",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "William Torres",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-el-salvador-haiti-28338",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2008-09-06-el-salvador-haiti",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "William Torres",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "william torres",
+  "playerKey": "william-torres",
+  "scorer": "William Torres",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador"
+  ]
+}

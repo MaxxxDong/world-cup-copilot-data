@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "german-dr",
+      "date": "1981-04-04",
+      "goalId": "goal-1981-04-04-malta-german-dr-9211",
+      "homeTeamId": "malta",
+      "matchKey": "1981-04-04-malta-german-dr",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emanuel Fabri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1982-06-05",
+      "goalId": "goal-1982-06-05-malta-iceland-9675",
+      "homeTeamId": "malta",
+      "matchKey": "1982-06-05-malta-iceland",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emanuel Fabri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "emanuel fabri",
+  "playerKey": "emanuel-fabri",
+  "scorer": "Emanuel Fabri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malta"
+  ]
+}

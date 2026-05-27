@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dominican-republic",
+      "date": "1996-06-23",
+      "goalId": "goal-1996-06-23-trinidad-and-tobago-dominican-republic-16137",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1996-06-23-trinidad-and-tobago-dominican-republic",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Rougier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2000-08-16",
+      "goalId": "goal-2000-08-16-trinidad-and-tobago-panama-19963",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2000-08-16-trinidad-and-tobago-panama",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Rougier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "anthony rougier",
+  "playerKey": "anthony-rougier",
+  "scorer": "Anthony Rougier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago"
+  ]
+}

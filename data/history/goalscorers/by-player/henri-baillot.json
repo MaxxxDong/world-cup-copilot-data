@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1949-10-09",
+      "goalId": "goal-1949-10-09-yugoslavia-fra-1797",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1949-10-09-yugoslavia-fra",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henri Baillot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1949-10-30",
+      "goalId": "goal-1949-10-30-fra-yugoslavia-1803",
+      "homeTeamId": "fra",
+      "matchKey": "1949-10-30-fra-yugoslavia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henri Baillot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "henri baillot",
+  "playerKey": "henri-baillot",
+  "scorer": "Henri Baillot",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

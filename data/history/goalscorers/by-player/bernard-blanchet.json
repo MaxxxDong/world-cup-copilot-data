@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1971-09-08",
+      "goalId": "goal-1971-09-08-norway-fra-6101",
+      "homeTeamId": "norway",
+      "matchKey": "1971-09-08-norway-fra",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernard Blanchet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1971-12-04",
+      "goalId": "goal-1971-12-04-bulgaria-fra-6227",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1971-12-04-bulgaria-fra",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernard Blanchet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "bernard blanchet",
+  "playerKey": "bernard-blanchet",
+  "scorer": "Bernard Blanchet",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

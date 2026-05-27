@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2004-09-05",
+      "goalId": "goal-2004-09-05-egypt-cameroon-24359",
+      "homeTeamId": "egypt",
+      "matchKey": "2004-09-05-egypt-cameroon",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Shawky",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "2005-10-08",
+      "goalId": "goal-2005-10-08-cameroon-egypt-25826",
+      "homeTeamId": "cameroon",
+      "matchKey": "2005-10-08-cameroon-egypt",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Shawky",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "2009-06-15",
+      "goalId": "goal-2009-06-15-bra-egypt-29199",
+      "homeTeamId": "bra",
+      "matchKey": "2009-06-15-bra-egypt",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Shawky",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "mohamed shawky",
+  "playerKey": "mohamed-shawky",
+  "scorer": "Mohamed Shawky",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

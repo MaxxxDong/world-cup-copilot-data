@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-hungary-greece-27495",
+      "homeTeamId": "hungary",
+      "matchKey": "2007-11-21-hungary-greece",
+      "minute": 22,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Vilmos Vanczák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-moldova-hungary-31032",
+      "homeTeamId": "moldova",
+      "matchKey": "2011-09-06-moldova-hungary",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vilmos Vanczák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-hungary-romania-32583",
+      "homeTeamId": "hungary",
+      "matchKey": "2013-03-22-hungary-romania",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vilmos Vanczák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "vilmos vancz k",
+  "playerKey": "vilmos-vancz-k",
+  "scorer": "Vilmos Vanczák",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece",
+    "hungary"
+  ]
+}

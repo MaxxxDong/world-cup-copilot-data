@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2006-10-07",
+      "goalId": "goal-2006-10-07-czech-republic-san-marino-26387",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2006-10-07-czech-republic-san-marino",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marek Kulič",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-czech-republic-slovakia-27369",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2007-11-17-czech-republic-slovakia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marek Kulič",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "marek kuli",
+  "playerKey": "marek-kuli",
+  "scorer": "Marek Kulič",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic"
+  ]
+}

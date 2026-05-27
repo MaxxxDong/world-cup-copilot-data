@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "central-african-republic",
+      "date": "2021-11-13",
+      "goalId": "goal-2021-11-13-cape-verde-central-african-republic-41947",
+      "homeTeamId": "cape-verde",
+      "matchKey": "2021-11-13-cape-verde-central-african-republic",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cape-verde"
+    },
+    {
+      "awayTeamId": "cape-verde",
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-nigeria-cape-verde-42124",
+      "homeTeamId": "nigeria",
+      "matchKey": "2021-11-16-nigeria-cape-verde",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cape-verde"
+    },
+    {
+      "awayTeamId": "eswatini",
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-cape-verde-eswatini-47112",
+      "homeTeamId": "cape-verde",
+      "matchKey": "2025-10-13-cape-verde-eswatini",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cape-verde"
+    }
+  ],
+  "normalizedScorer": "stopira",
+  "playerKey": "stopira",
+  "scorer": "Stopira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cape-verde"
+  ]
+}

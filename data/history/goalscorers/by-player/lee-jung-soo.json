@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "2010-06-12",
+      "goalId": "goal-2010-06-12-south-korea-greece-29878",
+      "homeTeamId": "south-korea",
+      "matchKey": "2010-06-12-south-korea-greece",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Jung-soo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "2010-06-22",
+      "goalId": "goal-2010-06-22-nigeria-south-korea-29946",
+      "homeTeamId": "nigeria",
+      "matchKey": "2010-06-22-nigeria-south-korea",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Jung-soo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "lee jung soo",
+  "playerKey": "lee-jung-soo",
+  "scorer": "Lee Jung-soo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-cameroon-algeria-37342",
+      "homeTeamId": "cameroon",
+      "matchKey": "2017-10-07-cameroon-algeria",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clinton N'Jie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "2019-07-06",
+      "goalId": "goal-2019-07-06-nigeria-cameroon-38753",
+      "homeTeamId": "nigeria",
+      "matchKey": "2019-07-06-nigeria-cameroon",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clinton N'Jie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "clinton n jie",
+  "playerKey": "clinton-n-jie",
+  "scorer": "Clinton N'Jie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

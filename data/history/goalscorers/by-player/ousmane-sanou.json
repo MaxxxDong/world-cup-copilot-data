@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "kenya",
+      "date": "1997-08-16",
+      "goalId": "goal-1997-08-16-burkina-faso-kenya-17533",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "1997-08-16-burkina-faso-kenya",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ousmane Sanou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burkina-faso"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2000-01-25",
+      "goalId": "goal-2000-01-25-burkina-faso-senegal-19221",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "2000-01-25-burkina-faso-senegal",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ousmane Sanou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burkina-faso"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2000-02-01",
+      "goalId": "goal-2000-02-01-egypt-burkina-faso-19241",
+      "homeTeamId": "egypt",
+      "matchKey": "2000-02-01-egypt-burkina-faso",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ousmane Sanou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burkina-faso"
+    }
+  ],
+  "normalizedScorer": "ousmane sanou",
+  "playerKey": "ousmane-sanou",
+  "scorer": "Ousmane Sanou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "burkina-faso"
+  ]
+}

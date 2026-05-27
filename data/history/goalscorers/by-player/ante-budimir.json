@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "armenia",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-croatia-armenia-44111",
+      "homeTeamId": "croatia",
+      "matchKey": "2023-11-21-croatia-armenia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Budimir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-croatia-fra-45871",
+      "homeTeamId": "croatia",
+      "matchKey": "2025-03-20-croatia-fra",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Budimir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2025-06-06",
+      "goalId": "goal-2025-06-06-gibraltar-croatia-46271",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2025-06-06-gibraltar-croatia",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Budimir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2025-06-09",
+      "goalId": "goal-2025-06-09-croatia-czech-republic-46347",
+      "homeTeamId": "croatia",
+      "matchKey": "2025-06-09-croatia-czech-republic",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ante Budimir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "ante budimir",
+  "playerKey": "ante-budimir",
+  "scorer": "Ante Budimir",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

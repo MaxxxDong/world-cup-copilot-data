@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2024-09-08",
+      "goalId": "goal-2024-09-08-gibraltar-liechtenstein-45278",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2024-09-08-gibraltar-liechtenstein",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Scanlon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    },
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2025-06-09",
+      "goalId": "goal-2025-06-09-faroe-islands-gibraltar-46350",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2025-06-09-faroe-islands-gibraltar",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Scanlon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gibraltar"
+    }
+  ],
+  "normalizedScorer": "james scanlon",
+  "playerKey": "james-scanlon",
+  "scorer": "James Scanlon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gibraltar"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "2022-06-11",
+      "goalId": "goal-2022-06-11-republic-of-ireland-scotland-42654",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2022-06-11-republic-of-ireland-scotland",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Obafemi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2022-09-27",
+      "goalId": "goal-2022-09-27-republic-of-ireland-armenia-42878",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2022-09-27-republic-of-ireland-armenia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Obafemi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "michael obafemi",
+  "playerKey": "michael-obafemi",
+  "scorer": "Michael Obafemi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

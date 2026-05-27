@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1997-09-06",
+      "goalId": "goal-1997-09-06-iceland-republic-of-ireland-17641",
+      "homeTeamId": "iceland",
+      "matchKey": "1997-09-06-iceland-republic-of-ireland",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Kennedy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "1999-09-01",
+      "goalId": "goal-1999-09-01-republic-of-ireland-serbia-18986",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1999-09-01-republic-of-ireland-serbia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Kennedy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "mark kennedy",
+  "playerKey": "mark-kennedy",
+  "scorer": "Mark Kennedy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

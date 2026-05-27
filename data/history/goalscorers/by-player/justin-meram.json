@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "2015-09-03",
+      "goalId": "goal-2015-09-03-iraq-taiwan-34697",
+      "homeTeamId": "iraq",
+      "matchKey": "2015-09-03-iraq-taiwan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Justin Meram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-thailand-iraq-34940",
+      "homeTeamId": "thailand",
+      "matchKey": "2015-09-08-thailand-iraq",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Justin Meram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2017-08-31",
+      "goalId": "goal-2017-08-31-thailand-iraq-37046",
+      "homeTeamId": "thailand",
+      "matchKey": "2017-08-31-thailand-iraq",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Justin Meram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "justin meram",
+  "playerKey": "justin-meram",
+  "scorer": "Justin Meram",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

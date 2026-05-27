@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "2018-11-18",
+      "goalId": "goal-2018-11-18-hungary-finland-37986",
+      "homeTeamId": "hungary",
+      "matchKey": "2018-11-18-hungary-finland",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ádám Nagy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "montenegro",
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-hungary-montenegro-44042",
+      "homeTeamId": "hungary",
+      "matchKey": "2023-11-19-hungary-montenegro",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ádám Nagy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "d m nagy",
+  "playerKey": "d-m-nagy",
+  "scorer": "Ádám Nagy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

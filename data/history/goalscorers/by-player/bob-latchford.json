@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1978-09-20",
+      "goalId": "goal-1978-09-20-denmark-england-8341",
+      "homeTeamId": "denmark",
+      "matchKey": "1978-09-20-denmark-england",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bob Latchford",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1978-10-25",
+      "goalId": "goal-1978-10-25-republic-of-ireland-england-8391",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1978-10-25-republic-of-ireland-england",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bob Latchford",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1979-02-07",
+      "goalId": "goal-1979-02-07-england-northern-ireland-8434",
+      "homeTeamId": "england",
+      "matchKey": "1979-02-07-england-northern-ireland",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bob Latchford",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1979-02-07",
+      "goalId": "goal-1979-02-07-england-northern-ireland-8436",
+      "homeTeamId": "england",
+      "matchKey": "1979-02-07-england-northern-ireland",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bob Latchford",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "bob latchford",
+  "playerKey": "bob-latchford",
+  "scorer": "Bob Latchford",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

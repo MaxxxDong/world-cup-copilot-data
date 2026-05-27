@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "poland",
+      "date": "2022-06-08",
+      "goalId": "goal-2022-06-08-belgium-poland-42594",
+      "homeTeamId": "belgium",
+      "matchKey": "2022-06-08-belgium-poland",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Loïs Openda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2024-10-14",
+      "goalId": "goal-2024-10-14-belgium-fra-45510",
+      "homeTeamId": "belgium",
+      "matchKey": "2024-10-14-belgium-fra",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Loïs Openda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "lo s openda",
+  "playerKey": "lo-s-openda",
+  "scorer": "Loïs Openda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

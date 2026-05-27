@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "civ",
+      "date": "2019-07-01",
+      "goalId": "goal-2019-07-01-namibia-civ-38725",
+      "homeTeamId": "namibia",
+      "matchKey": "2019-07-01-namibia-civ",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilfried Zaha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2019-07-08",
+      "goalId": "goal-2019-07-08-mali-civ-38770",
+      "homeTeamId": "mali",
+      "matchKey": "2019-07-08-mali-civ",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilfried Zaha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "wilfried zaha",
+  "playerKey": "wilfried-zaha",
+  "scorer": "Wilfried Zaha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

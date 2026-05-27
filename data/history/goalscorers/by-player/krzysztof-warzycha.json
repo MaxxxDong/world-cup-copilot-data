@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1988-10-19",
+      "goalId": "goal-1988-10-19-poland-albania-11706",
+      "homeTeamId": "poland",
+      "matchKey": "1988-10-19-poland-albania",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Krzysztof Warzycha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "1993-05-19",
+      "goalId": "goal-1993-05-19-san-marino-poland-14086",
+      "homeTeamId": "san-marino",
+      "matchKey": "1993-05-19-san-marino-poland",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Krzysztof Warzycha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-poland-moldova-16521",
+      "homeTeamId": "poland",
+      "matchKey": "1996-11-10-poland-moldova",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Krzysztof Warzycha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "krzysztof warzycha",
+  "playerKey": "krzysztof-warzycha",
+  "scorer": "Krzysztof Warzycha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

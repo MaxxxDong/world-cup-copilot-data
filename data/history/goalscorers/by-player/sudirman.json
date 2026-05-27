@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "qatar",
+      "date": "1993-04-24",
+      "goalId": "goal-1993-04-24-indonesia-qatar-13863",
+      "homeTeamId": "indonesia",
+      "matchKey": "1993-04-24-indonesia-qatar",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Sudirman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "indonesia"
+    },
+    {
+      "awayTeamId": "vietnam",
+      "date": "1993-04-30",
+      "goalId": "goal-1993-04-30-indonesia-vietnam-13932",
+      "homeTeamId": "indonesia",
+      "matchKey": "1993-04-30-indonesia-vietnam",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sudirman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "indonesia"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "1997-06-01",
+      "goalId": "goal-1997-06-01-indonesia-uzbekistan-17138",
+      "homeTeamId": "indonesia",
+      "matchKey": "1997-06-01-indonesia-uzbekistan",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sudirman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "indonesia"
+    }
+  ],
+  "normalizedScorer": "sudirman",
+  "playerKey": "sudirman",
+  "scorer": "Sudirman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "indonesia"
+  ]
+}

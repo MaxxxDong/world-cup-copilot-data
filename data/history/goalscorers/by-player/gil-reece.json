@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1971-10-13",
+      "goalId": "goal-1971-10-13-wales-finland-6149",
+      "homeTeamId": "wales",
+      "matchKey": "1971-10-13-wales-finland",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gil Reece",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1975-05-01",
+      "goalId": "goal-1975-05-01-luxembourg-wales-7206",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1975-05-01-luxembourg-wales",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gil Reece",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "gil reece",
+  "playerKey": "gil-reece",
+  "scorer": "Gil Reece",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

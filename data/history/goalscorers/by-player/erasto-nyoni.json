@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gambia",
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-tanzania-gambia-31944",
+      "homeTeamId": "tanzania",
+      "matchKey": "2012-06-10-tanzania-gambia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Erasto Nyoni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tanzania"
+    },
+    {
+      "awayTeamId": "madagascar",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-tanzania-madagascar-41397",
+      "homeTeamId": "tanzania",
+      "matchKey": "2021-09-07-tanzania-madagascar",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Erasto Nyoni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tanzania"
+    }
+  ],
+  "normalizedScorer": "erasto nyoni",
+  "playerKey": "erasto-nyoni",
+  "scorer": "Erasto Nyoni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tanzania"
+  ]
+}

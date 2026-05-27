@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "2001-10-27",
+      "goalId": "goal-2001-10-27-israel-austria-22030",
+      "homeTeamId": "israel",
+      "matchKey": "2001-10-27-israel-austria",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shimon Gershon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2006-09-06",
+      "goalId": "goal-2006-09-06-israel-andorra-26325",
+      "homeTeamId": "israel",
+      "matchKey": "2006-09-06-israel-andorra",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shimon Gershon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "shimon gershon",
+  "playerKey": "shimon-gershon",
+  "scorer": "Shimon Gershon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "timor-leste",
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-taiwan-timor-leste-43784",
+      "homeTeamId": "taiwan",
+      "matchKey": "2023-10-17-taiwan-timor-leste",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wu Yen-shu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "taiwan"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-kyrgyzstan-taiwan-44556",
+      "homeTeamId": "kyrgyzstan",
+      "matchKey": "2024-03-26-kyrgyzstan-taiwan",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Wu Yen-shu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "taiwan"
+    }
+  ],
+  "normalizedScorer": "wu yen shu",
+  "playerKey": "wu-yen-shu",
+  "scorer": "Wu Yen-shu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "taiwan"
+  ]
+}

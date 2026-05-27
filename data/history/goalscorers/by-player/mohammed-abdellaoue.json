@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2010-09-03",
+      "goalId": "goal-2010-09-03-iceland-norway-30046",
+      "homeTeamId": "iceland",
+      "matchKey": "2010-09-03-iceland-norway",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Abdellaoue",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-norway-iceland-30942",
+      "homeTeamId": "norway",
+      "matchKey": "2011-09-02-norway-iceland",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohammed Abdellaoue",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "mohammed abdellaoue",
+  "playerKey": "mohammed-abdellaoue",
+  "scorer": "Mohammed Abdellaoue",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

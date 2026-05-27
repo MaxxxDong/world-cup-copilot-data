@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "1993-07-11",
+      "goalId": "goal-1993-07-11-mex-martinique-14392",
+      "homeTeamId": "mex",
+      "matchKey": "1993-07-11-mex-martinique",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Hernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "juan hern ndez",
+  "playerKey": "juan-hern-ndez",
+  "scorer": "Juan Hernández",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "laos",
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-jordan-laos-23386",
+      "homeTeamId": "jordan",
+      "matchKey": "2004-02-18-jordan-laos",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hatem Aqel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-jordan-kyrgyzstan-27300",
+      "homeTeamId": "jordan",
+      "matchKey": "2007-10-28-jordan-kyrgyzstan",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hatem Aqel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "hatem aqel",
+  "playerKey": "hatem-aqel",
+  "scorer": "Hatem Aqel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

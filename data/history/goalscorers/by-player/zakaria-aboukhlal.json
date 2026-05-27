@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "comoros",
+      "date": "2022-01-14",
+      "goalId": "goal-2022-01-14-mar-comoros-42166",
+      "homeTeamId": "mar",
+      "matchKey": "2022-01-14-mar-comoros",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zakaria Aboukhlal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2022-11-27",
+      "goalId": "goal-2022-11-27-belgium-mar-42951",
+      "homeTeamId": "belgium",
+      "matchKey": "2022-11-27-belgium-mar",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zakaria Aboukhlal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "zakaria aboukhlal",
+  "playerKey": "zakaria-aboukhlal",
+  "scorer": "Zakaria Aboukhlal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

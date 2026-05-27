@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-sudan-cameroon-24624",
+      "homeTeamId": "sudan",
+      "matchKey": "2004-10-09-sudan-cameroon",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Agab",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "sudan",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-chad-sudan-28462",
+      "homeTeamId": "chad",
+      "matchKey": "2008-09-10-chad-sudan",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faisal Agab",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-sudan-congo-28663",
+      "homeTeamId": "sudan",
+      "matchKey": "2008-10-11-sudan-congo",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Agab",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "faisal agab",
+  "playerKey": "faisal-agab",
+  "scorer": "Faisal Agab",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

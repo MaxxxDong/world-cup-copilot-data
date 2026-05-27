@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1992-08-12",
+      "goalId": "goal-1992-08-12-latvia-lithuania-13238",
+      "homeTeamId": "latvia",
+      "matchKey": "1992-08-12-latvia-lithuania",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eimantas Poderis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "1995-05-20",
+      "goalId": "goal-1995-05-20-estonia-lithuania-15331",
+      "homeTeamId": "estonia",
+      "matchKey": "1995-05-20-estonia-lithuania",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eimantas Poderis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "eimantas poderis",
+  "playerKey": "eimantas-poderis",
+  "scorer": "Eimantas Poderis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

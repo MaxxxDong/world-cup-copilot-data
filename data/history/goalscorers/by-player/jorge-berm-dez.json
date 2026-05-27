@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1996-09-01",
+      "goalId": "goal-1996-09-01-colombia-chile-16205",
+      "homeTeamId": "colombia",
+      "matchKey": "1996-09-01-colombia-chile",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Bermúdez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1996-12-15",
+      "goalId": "goal-1996-12-15-venezuela-colombia-16672",
+      "homeTeamId": "venezuela",
+      "matchKey": "1996-12-15-venezuela-colombia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Bermúdez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "jorge berm dez",
+  "playerKey": "jorge-berm-dez",
+  "scorer": "Jorge Bermúdez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

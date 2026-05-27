@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1976-04-24",
+      "goalId": "goal-1976-04-24-yugoslavia-wales-7510",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1976-04-24-yugoslavia-wales",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danilo Popivoda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1976-06-17",
+      "goalId": "goal-1976-06-17-yugoslavia-germany-7574",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1976-06-17-yugoslavia-germany",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danilo Popivoda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "danilo popivoda",
+  "playerKey": "danilo-popivoda",
+  "scorer": "Danilo Popivoda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "brunei",
+      "date": "1985-02-17",
+      "goalId": "goal-1985-02-17-macau-brunei-10515",
+      "homeTeamId": "macau",
+      "matchKey": "1985-02-17-macau-brunei",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Carvalhal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "macau"
+    },
+    {
+      "awayTeamId": "macau",
+      "date": "1985-04-13",
+      "goalId": "goal-1985-04-13-brunei-macau-10699",
+      "homeTeamId": "brunei",
+      "matchKey": "1985-04-13-brunei-macau",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alberto Carvalhal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "macau"
+    }
+  ],
+  "normalizedScorer": "alberto carvalhal",
+  "playerKey": "alberto-carvalhal",
+  "scorer": "Alberto Carvalhal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "macau"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1996-08-31",
+      "goalId": "goal-1996-08-31-belarus-estonia-16179",
+      "homeTeamId": "belarus",
+      "matchKey": "1996-08-31-belarus-estonia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uladzimir Makowski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1996-10-09",
+      "goalId": "goal-1996-10-09-belarus-latvia-16353",
+      "homeTeamId": "belarus",
+      "matchKey": "1996-10-09-belarus-latvia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uladzimir Makowski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    }
+  ],
+  "normalizedScorer": "uladzimir makowski",
+  "playerKey": "uladzimir-makowski",
+  "scorer": "Uladzimir Makowski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belarus"
+  ]
+}

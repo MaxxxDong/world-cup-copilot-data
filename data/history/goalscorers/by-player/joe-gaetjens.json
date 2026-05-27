@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1950-06-29",
+      "goalId": "goal-1950-06-29-england-usa-1874",
+      "homeTeamId": "england",
+      "matchKey": "1950-06-29-england-usa",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Gaetjens",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "joe gaetjens",
+  "playerKey": "joe-gaetjens",
+  "scorer": "Joe Gaetjens",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

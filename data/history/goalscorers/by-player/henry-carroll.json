@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1928-05-29",
+      "goalId": "goal-1928-05-29-arg-usa-403",
+      "homeTeamId": "arg",
+      "matchKey": "1928-05-29-arg-usa",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henry Carroll",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "henry carroll",
+  "playerKey": "henry-carroll",
+  "scorer": "Henry Carroll",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

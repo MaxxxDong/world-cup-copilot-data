@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tanzania",
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-chad-tanzania-31378",
+      "homeTeamId": "chad",
+      "matchKey": "2011-11-11-chad-tanzania",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahamat Labbo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    },
+    {
+      "awayTeamId": "chad",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-tanzania-chad-31569",
+      "homeTeamId": "tanzania",
+      "matchKey": "2011-11-15-tanzania-chad",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahamat Labbo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    }
+  ],
+  "normalizedScorer": "mahamat labbo",
+  "playerKey": "mahamat-labbo",
+  "scorer": "Mahamat Labbo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chad"
+  ]
+}

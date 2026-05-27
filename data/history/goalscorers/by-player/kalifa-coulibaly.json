@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2021-11-11",
+      "goalId": "goal-2021-11-11-rwanda-mali-41868",
+      "homeTeamId": "rwanda",
+      "matchKey": "2021-11-11-rwanda-mali",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kalifa Coulibaly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "uganda",
+      "date": "2021-11-14",
+      "goalId": "goal-2021-11-14-mali-uganda-42004",
+      "homeTeamId": "mali",
+      "matchKey": "2021-11-14-mali-uganda",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kalifa Coulibaly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "kalifa coulibaly",
+  "playerKey": "kalifa-coulibaly",
+  "scorer": "Kalifa Coulibaly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali"
+  ]
+}

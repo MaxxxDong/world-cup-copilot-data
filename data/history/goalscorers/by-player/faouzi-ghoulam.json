@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "rsa",
+      "date": "2015-01-19",
+      "goalId": "goal-2015-01-19-algeria-rsa-34096",
+      "homeTeamId": "algeria",
+      "matchKey": "2015-01-19-algeria-rsa",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faouzi Ghoulam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "tanzania",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-algeria-tanzania-35429",
+      "homeTeamId": "algeria",
+      "matchKey": "2015-11-17-algeria-tanzania",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faouzi Ghoulam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "tanzania",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-algeria-tanzania-35432",
+      "homeTeamId": "algeria",
+      "matchKey": "2015-11-17-algeria-tanzania",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faouzi Ghoulam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    }
+  ],
+  "normalizedScorer": "faouzi ghoulam",
+  "playerKey": "faouzi-ghoulam",
+  "scorer": "Faouzi Ghoulam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria"
+  ]
+}

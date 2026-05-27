@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "2016-03-24",
+      "goalId": "goal-2016-03-24-chile-arg-35566",
+      "homeTeamId": "chile",
+      "matchKey": "2016-03-24-chile-arg",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gabriel Mercado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-arg-bolivia-35643",
+      "homeTeamId": "arg",
+      "matchKey": "2016-03-29-arg-bolivia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gabriel Mercado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "2018-06-30",
+      "goalId": "goal-2018-06-30-fra-arg-37664",
+      "homeTeamId": "fra",
+      "matchKey": "2018-06-30-fra-arg",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gabriel Mercado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "gabriel mercado",
+  "playerKey": "gabriel-mercado",
+  "scorer": "Gabriel Mercado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

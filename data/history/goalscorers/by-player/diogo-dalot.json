@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2022-09-24",
+      "goalId": "goal-2022-09-24-czech-republic-portugal-42794",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-09-24-czech-republic-portugal",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diogo Dalot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "2022-09-24",
+      "goalId": "goal-2022-09-24-czech-republic-portugal-42796",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-09-24-czech-republic-portugal",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diogo Dalot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2024-09-05",
+      "goalId": "goal-2024-09-05-portugal-croatia-45197",
+      "homeTeamId": "portugal",
+      "matchKey": "2024-09-05-portugal-croatia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diogo Dalot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2024-09-05",
+      "goalId": "goal-2024-09-05-portugal-croatia-45199",
+      "homeTeamId": "portugal",
+      "matchKey": "2024-09-05-portugal-croatia",
+      "minute": 41,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Diogo Dalot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "diogo dalot",
+  "playerKey": "diogo-dalot",
+  "scorer": "Diogo Dalot",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia",
+    "portugal"
+  ]
+}

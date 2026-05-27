@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "1996-01-15",
+      "goalId": "goal-1996-01-15-sierra-leone-burkina-faso-15764",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "1996-01-15-sierra-leone-burkina-faso",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Kallon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sierra-leone"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "1997-08-17",
+      "goalId": "goal-1997-08-17-ghana-sierra-leone-17546",
+      "homeTeamId": "ghana",
+      "matchKey": "1997-08-17-ghana-sierra-leone",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Kallon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sierra-leone"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-sierra-leone-rsa-28007",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "2008-06-14-sierra-leone-rsa",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohamed Kallon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sierra-leone"
+    }
+  ],
+  "normalizedScorer": "mohamed kallon",
+  "playerKey": "mohamed-kallon",
+  "scorer": "Mohamed Kallon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sierra-leone"
+  ]
+}

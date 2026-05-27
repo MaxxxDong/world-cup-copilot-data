@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "syria",
+      "date": "1957-03-08",
+      "goalId": "goal-1957-03-08-sudan-syria-2544",
+      "homeTeamId": "sudan",
+      "matchKey": "1957-03-08-sudan-syria",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Siddiq Manzul",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "sudan",
+      "date": "1959-05-29",
+      "goalId": "goal-1959-05-29-egypt-sudan-3179",
+      "homeTeamId": "egypt",
+      "matchKey": "1959-05-29-egypt-sudan",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siddiq Manzul",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "siddiq manzul",
+  "playerKey": "siddiq-manzul",
+  "scorer": "Siddiq Manzul",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

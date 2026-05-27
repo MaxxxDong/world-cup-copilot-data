@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saint-lucia",
+      "date": "1992-03-29",
+      "goalId": "goal-1992-03-29-saint-vincent-and-the-grenadines-saint-lucia-13092",
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchKey": "1992-03-29-saint-vincent-and-the-grenadines-saint-lucia",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Curtis Joseph",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saint-vincent-and-the-grenadines"
+    },
+    {
+      "awayTeamId": "suriname",
+      "date": "1992-08-30",
+      "goalId": "goal-1992-08-30-saint-vincent-and-the-grenadines-suriname-13256",
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchKey": "1992-08-30-saint-vincent-and-the-grenadines-suriname",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Curtis Joseph",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saint-vincent-and-the-grenadines"
+    }
+  ],
+  "normalizedScorer": "curtis joseph",
+  "playerKey": "curtis-joseph",
+  "scorer": "Curtis Joseph",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saint-vincent-and-the-grenadines"
+  ]
+}

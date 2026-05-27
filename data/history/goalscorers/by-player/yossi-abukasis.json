@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-israel-san-marino-19083",
+      "homeTeamId": "israel",
+      "matchKey": "1999-09-08-israel-san-marino",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yossi Abukasis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "2000-10-11",
+      "goalId": "goal-2000-10-11-israel-bosnia-and-herzegovina-20174",
+      "homeTeamId": "israel",
+      "matchKey": "2000-10-11-israel-bosnia-and-herzegovina",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yossi Abukasis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "yossi abukasis",
+  "playerKey": "yossi-abukasis",
+  "scorer": "Yossi Abukasis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

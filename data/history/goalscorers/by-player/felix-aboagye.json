@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ghana",
+      "date": "1996-01-25",
+      "goalId": "goal-1996-01-25-mozambique-ghana-15817",
+      "homeTeamId": "mozambique",
+      "matchKey": "1996-01-25-mozambique-ghana",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Aboagye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "gabon",
+      "date": "1997-04-27",
+      "goalId": "goal-1997-04-27-ghana-gabon-16992",
+      "homeTeamId": "ghana",
+      "matchKey": "1997-04-27-ghana-gabon",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felix Aboagye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    }
+  ],
+  "normalizedScorer": "felix aboagye",
+  "playerKey": "felix-aboagye",
+  "scorer": "Felix Aboagye",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ghana"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "1982-03-13",
+      "goalId": "goal-1982-03-13-nigeria-zambia-9656",
+      "homeTeamId": "nigeria",
+      "matchKey": "1982-03-13-nigeria-zambia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aaron Njovu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "1985-04-07",
+      "goalId": "goal-1985-04-07-zambia-cameroon-10681",
+      "homeTeamId": "zambia",
+      "matchKey": "1985-04-07-zambia-cameroon",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aaron Njovu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "aaron njovu",
+  "playerKey": "aaron-njovu",
+  "scorer": "Aaron Njovu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

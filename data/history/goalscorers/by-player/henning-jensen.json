@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1978-05-24",
+      "goalId": "goal-1978-05-24-denmark-republic-of-ireland-8213",
+      "homeTeamId": "denmark",
+      "matchKey": "1978-05-24-denmark-republic-of-ireland",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henning Jensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1978-10-25",
+      "goalId": "goal-1978-10-25-northern-ireland-denmark-8388",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1978-10-25-northern-ireland-denmark",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henning Jensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "henning jensen",
+  "playerKey": "henning-jensen",
+  "scorer": "Henning Jensen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

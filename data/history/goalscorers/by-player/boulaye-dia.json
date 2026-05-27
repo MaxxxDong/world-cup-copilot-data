@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "senegal",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-congo-senegal-41345",
+      "homeTeamId": "congo",
+      "matchKey": "2021-09-07-congo-senegal",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boulaye Dia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "2022-03-29",
+      "goalId": "goal-2022-03-29-senegal-egypt-42448",
+      "homeTeamId": "senegal",
+      "matchKey": "2022-03-29-senegal-egypt",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boulaye Dia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2022-11-25",
+      "goalId": "goal-2022-11-25-qatar-senegal-42936",
+      "homeTeamId": "qatar",
+      "matchKey": "2022-11-25-qatar-senegal",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boulaye Dia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "boulaye dia",
+  "playerKey": "boulaye-dia",
+  "scorer": "Boulaye Dia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

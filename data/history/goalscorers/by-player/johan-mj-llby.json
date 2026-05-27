@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1998-09-05",
+      "goalId": "goal-1998-09-05-sweden-england-18411",
+      "homeTeamId": "sweden",
+      "matchKey": "1998-09-05-sweden-england",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johan Mjällby",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1999-03-27",
+      "goalId": "goal-1999-03-27-sweden-luxembourg-18677",
+      "homeTeamId": "sweden",
+      "matchKey": "1999-03-27-sweden-luxembourg",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johan Mjällby",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2000-06-10",
+      "goalId": "goal-2000-06-10-belgium-sweden-19684",
+      "homeTeamId": "belgium",
+      "matchKey": "2000-06-10-belgium-sweden",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johan Mjällby",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "johan mj llby",
+  "playerKey": "johan-mj-llby",
+  "scorer": "Johan Mjällby",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

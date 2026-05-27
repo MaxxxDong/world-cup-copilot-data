@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2022-01-27",
+      "goalId": "goal-2022-01-27-jamaica-mex-42235",
+      "homeTeamId": "jamaica",
+      "matchKey": "2022-01-27-jamaica-mex",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Johnson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2023-07-02",
+      "goalId": "goal-2023-07-02-jamaica-saint-kitts-and-nevis-43386",
+      "homeTeamId": "jamaica",
+      "matchKey": "2023-07-02-jamaica-saint-kitts-and-nevis",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Johnson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "daniel johnson",
+  "playerKey": "daniel-johnson",
+  "scorer": "Daniel Johnson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

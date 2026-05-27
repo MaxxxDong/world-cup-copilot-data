@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2019-03-25",
+      "goalId": "goal-2019-03-25-kosovo-bulgaria-38277",
+      "homeTeamId": "kosovo",
+      "matchKey": "2019-03-25-kosovo-bulgaria",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vasil Bozhikov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2019-11-17",
+      "goalId": "goal-2019-11-17-bulgaria-czech-republic-39494",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2019-11-17-bulgaria-czech-republic",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vasil Bozhikov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "vasil bozhikov",
+  "playerKey": "vasil-bozhikov",
+  "scorer": "Vasil Bozhikov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

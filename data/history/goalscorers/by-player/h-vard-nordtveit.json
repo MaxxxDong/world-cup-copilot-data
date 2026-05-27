@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2014-11-16",
+      "goalId": "goal-2014-11-16-azerbaijan-norway-34007",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2014-11-16-azerbaijan-norway",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Håvard Nordtveit",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2019-03-26",
+      "goalId": "goal-2019-03-26-norway-sweden-38311",
+      "homeTeamId": "norway",
+      "matchKey": "2019-03-26-norway-sweden",
+      "minute": 86,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Håvard Nordtveit",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "h vard nordtveit",
+  "playerKey": "h-vard-nordtveit",
+  "scorer": "Håvard Nordtveit",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway",
+    "sweden"
+  ]
+}

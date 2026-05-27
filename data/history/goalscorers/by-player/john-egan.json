@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2021-09-01",
+      "goalId": "goal-2021-09-01-portugal-republic-of-ireland-41127",
+      "homeTeamId": "portugal",
+      "matchKey": "2021-09-01-portugal-republic-of-ireland",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Egan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2022-09-24",
+      "goalId": "goal-2022-09-24-scotland-republic-of-ireland-42804",
+      "homeTeamId": "scotland",
+      "matchKey": "2022-09-24-scotland-republic-of-ireland",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Egan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "armenia",
+      "date": "2022-09-27",
+      "goalId": "goal-2022-09-27-republic-of-ireland-armenia-42877",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2022-09-27-republic-of-ireland-armenia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Egan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "john egan",
+  "playerKey": "john-egan",
+  "scorer": "John Egan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

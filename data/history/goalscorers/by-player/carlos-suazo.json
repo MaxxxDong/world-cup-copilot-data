@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1963-03-27",
+      "goalId": "goal-1963-03-27-el-salvador-honduras-3918",
+      "homeTeamId": "el-salvador",
+      "matchKey": "1963-03-27-el-salvador-honduras",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Suazo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "1963-04-03",
+      "goalId": "goal-1963-04-03-honduras-curacao-3989",
+      "homeTeamId": "honduras",
+      "matchKey": "1963-04-03-honduras-curacao",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Suazo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    }
+  ],
+  "normalizedScorer": "carlos suazo",
+  "playerKey": "carlos-suazo",
+  "scorer": "Carlos Suazo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "honduras"
+  ]
+}

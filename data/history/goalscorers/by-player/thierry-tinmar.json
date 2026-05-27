@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "1993-07-18",
+      "goalId": "goal-1993-07-18-costa-rica-martinique-14414",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1993-07-18-costa-rica-martinique",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Thierry Tinmar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "martinique"
+    }
+  ],
+  "normalizedScorer": "thierry tinmar",
+  "playerKey": "thierry-tinmar",
+  "scorer": "Thierry Tinmar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "martinique"
+  ]
+}

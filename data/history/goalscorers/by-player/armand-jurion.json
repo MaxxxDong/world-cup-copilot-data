@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1962-11-04",
+      "goalId": "goal-1962-11-04-yugoslavia-belgium-3784",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1962-11-04-yugoslavia-belgium",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armand Jurion",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "1965-05-09",
+      "goalId": "goal-1965-05-09-belgium-israel-4331",
+      "homeTeamId": "belgium",
+      "matchKey": "1965-05-09-belgium-israel",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Armand Jurion",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "armand jurion",
+  "playerKey": "armand-jurion",
+  "scorer": "Armand Jurion",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

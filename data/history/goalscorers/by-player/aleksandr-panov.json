@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1999-06-05",
+      "goalId": "goal-1999-06-05-fra-russia-18764",
+      "homeTeamId": "fra",
+      "matchKey": "1999-06-05-fra-russia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Panov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1999-06-05",
+      "goalId": "goal-1999-06-05-fra-russia-18767",
+      "homeTeamId": "fra",
+      "matchKey": "1999-06-05-fra-russia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Panov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "aleksandr panov",
+  "playerKey": "aleksandr-panov",
+  "scorer": "Aleksandr Panov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

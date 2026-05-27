@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1997-09-06",
+      "goalId": "goal-1997-09-06-armenia-albania-17624",
+      "homeTeamId": "armenia",
+      "matchKey": "1997-09-06-armenia-albania",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Garnik Avalyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "1998-09-05",
+      "goalId": "goal-1998-09-05-armenia-andorra-18383",
+      "homeTeamId": "armenia",
+      "matchKey": "1998-09-05-armenia-andorra",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Garnik Avalyan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "armenia"
+    }
+  ],
+  "normalizedScorer": "garnik avalyan",
+  "playerKey": "garnik-avalyan",
+  "scorer": "Garnik Avalyan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "armenia"
+  ]
+}

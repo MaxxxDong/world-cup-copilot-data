@@ -1,0 +1,72 @@
+{
+  "generatedFromMatchCount": 2,
+  "recentMatches": [
+    {
+      "awayScore": 15,
+      "awayTeamId": "guam",
+      "date": "1998-08-01",
+      "homeScore": 2,
+      "homeTeamId": "palau",
+      "matchId": "int-1998-08-01-palau-guam",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "vanuatu",
+      "date": "1987-03-06",
+      "homeScore": 2,
+      "homeTeamId": "palau",
+      "matchId": "int-1987-03-06-palau-vanuatu",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "palau",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 21,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 2,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 21,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 2,
+      "wins": 0
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 21,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 2,
+      "wins": 0
+    }
+  }
+}

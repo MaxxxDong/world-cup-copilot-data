@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2023-06-16",
+      "goalId": "goal-2023-06-16-malta-england-43221",
+      "homeTeamId": "malta",
+      "matchKey": "2023-06-16-malta-england",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trent Alexander-Arnold",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2024-10-13",
+      "goalId": "goal-2024-10-13-finland-england-45498",
+      "homeTeamId": "finland",
+      "matchKey": "2024-10-13-finland-england",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trent Alexander-Arnold",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "trent alexander arnold",
+  "playerKey": "trent-alexander-arnold",
+  "scorer": "Trent Alexander-Arnold",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

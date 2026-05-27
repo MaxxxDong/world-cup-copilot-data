@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1976-02-28",
+      "goalId": "goal-1976-02-28-germany-malta-7436",
+      "homeTeamId": "germany",
+      "matchKey": "1976-02-28-germany-malta",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernd Hölzenbein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1976-06-20",
+      "goalId": "goal-1976-06-20-czechoslovakia-germany-7588",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1976-06-20-czechoslovakia-germany",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernd Hölzenbein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1978-06-21",
+      "goalId": "goal-1978-06-21-austria-germany-8306",
+      "homeTeamId": "austria",
+      "matchKey": "1978-06-21-austria-germany",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernd Hölzenbein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "bernd h lzenbein",
+  "playerKey": "bernd-h-lzenbein",
+  "scorer": "Bernd Hölzenbein",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

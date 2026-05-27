@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "2013-06-04",
+      "goalId": "goal-2013-06-04-japan-australia-32756",
+      "homeTeamId": "japan",
+      "matchKey": "2013-06-04-japan-australia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tommy Oar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-kyrgyzstan-australia-34533",
+      "homeTeamId": "kyrgyzstan",
+      "matchKey": "2015-06-16-kyrgyzstan-australia",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tommy Oar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "tommy oar",
+  "playerKey": "tommy-oar",
+  "scorer": "Tommy Oar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

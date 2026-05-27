@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "kosovo",
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-cyprus-kosovo-42479",
+      "homeTeamId": "cyprus",
+      "matchKey": "2022-06-02-cyprus-kosovo",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edon Zhegrova",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2023-03-28",
+      "goalId": "goal-2023-03-28-kosovo-andorra-43178",
+      "homeTeamId": "kosovo",
+      "matchKey": "2023-03-28-kosovo-andorra",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edon Zhegrova",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2024-10-12",
+      "goalId": "goal-2024-10-12-lithuania-kosovo-45472",
+      "homeTeamId": "lithuania",
+      "matchKey": "2024-10-12-lithuania-kosovo",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edon Zhegrova",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    }
+  ],
+  "normalizedScorer": "edon zhegrova",
+  "playerKey": "edon-zhegrova",
+  "scorer": "Edon Zhegrova",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kosovo"
+  ]
+}

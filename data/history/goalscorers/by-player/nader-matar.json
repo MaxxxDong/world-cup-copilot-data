@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkmenistan",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-lebanon-turkmenistan-39166",
+      "homeTeamId": "lebanon",
+      "matchKey": "2019-10-10-lebanon-turkmenistan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nader Matar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    },
+    {
+      "awayTeamId": "bangladesh",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-lebanon-bangladesh-44865",
+      "homeTeamId": "lebanon",
+      "matchKey": "2024-06-11-lebanon-bangladesh",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nader Matar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "nader matar",
+  "playerKey": "nader-matar",
+  "scorer": "Nader Matar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon"
+  ]
+}

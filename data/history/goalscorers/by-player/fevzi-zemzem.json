@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1965-01-24",
+      "goalId": "goal-1965-01-24-portugal-turkey-4183",
+      "homeTeamId": "portugal",
+      "matchKey": "1965-01-24-portugal-turkey",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fevzi Zemzem",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1965-10-23",
+      "goalId": "goal-1965-10-23-turkey-romania-4493",
+      "homeTeamId": "turkey",
+      "matchKey": "1965-10-23-turkey-romania",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fevzi Zemzem",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "fevzi zemzem",
+  "playerKey": "fevzi-zemzem",
+  "scorer": "Fevzi Zemzem",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2019-06-26",
+      "goalId": "goal-2019-06-26-uganda-zimbabwe-38685",
+      "homeTeamId": "uganda",
+      "matchKey": "2019-06-26-uganda-zimbabwe",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khama Billiat",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "somalia",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-zimbabwe-somalia-39098",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "2019-09-10-zimbabwe-somalia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khama Billiat",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "khama billiat",
+  "playerKey": "khama-billiat",
+  "scorer": "Khama Billiat",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "1997-05-23",
+      "goalId": "goal-1997-05-23-pakistan-iraq-17106",
+      "homeTeamId": "pakistan",
+      "matchKey": "1997-05-23-pakistan-iraq",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammad Umer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "pakistan"
+    },
+    {
+      "awayTeamId": "pakistan",
+      "date": "1997-06-20",
+      "goalId": "goal-1997-06-20-iraq-pakistan-17409",
+      "homeTeamId": "iraq",
+      "matchKey": "1997-06-20-iraq-pakistan",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammad Umer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "pakistan"
+    }
+  ],
+  "normalizedScorer": "mohammad umer",
+  "playerKey": "mohammad-umer",
+  "scorer": "Mohammad Umer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "pakistan"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "suriname",
+      "date": "1977-10-12",
+      "goalId": "goal-1977-10-12-canada-suriname-8005",
+      "homeTeamId": "canada",
+      "matchKey": "1977-10-12-canada-suriname",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Buzz Parsons",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "1977-10-16",
+      "goalId": "goal-1977-10-16-canada-guatemala-8041",
+      "homeTeamId": "canada",
+      "matchKey": "1977-10-16-canada-guatemala",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Buzz Parsons",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1977-10-22",
+      "goalId": "goal-1977-10-22-mex-canada-8059",
+      "homeTeamId": "mex",
+      "matchKey": "1977-10-22-mex-canada",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Buzz Parsons",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "buzz parsons",
+  "playerKey": "buzz-parsons",
+  "scorer": "Buzz Parsons",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cuba",
+      "date": "1949-09-21",
+      "goalId": "goal-1949-09-21-usa-cuba-1776",
+      "homeTeamId": "usa",
+      "matchKey": "1949-09-21-usa-cuba",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pete Matevich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "1949-09-21",
+      "goalId": "goal-1949-09-21-usa-cuba-1777",
+      "homeTeamId": "usa",
+      "matchKey": "1949-09-21-usa-cuba",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pete Matevich",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "pete matevich",
+  "playerKey": "pete-matevich",
+  "scorer": "Pete Matevich",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

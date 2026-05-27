@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "1973-04-29",
+      "goalId": "goal-1973-04-29-hungary-austria-6643",
+      "homeTeamId": "hungary",
+      "matchKey": "1973-04-29-hungary-austria",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Bálint",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1974-10-13",
+      "goalId": "goal-1974-10-13-luxembourg-hungary-7128",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1974-10-13-luxembourg-hungary",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Bálint",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1977-05-18",
+      "goalId": "goal-1977-05-18-russia-hungary-7898",
+      "homeTeamId": "russia",
+      "matchKey": "1977-05-18-russia-hungary",
+      "minute": 14,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "László Bálint",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1981-04-28",
+      "goalId": "goal-1981-04-28-switzerland-hungary-9263",
+      "homeTeamId": "switzerland",
+      "matchKey": "1981-04-28-switzerland-hungary",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Bálint",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1981-10-31",
+      "goalId": "goal-1981-10-31-hungary-norway-9521",
+      "homeTeamId": "hungary",
+      "matchKey": "1981-10-31-hungary-norway",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Bálint",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "l szl b lint",
+  "playerKey": "l-szl-b-lint",
+  "scorer": "László Bálint",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary",
+    "russia"
+  ]
+}

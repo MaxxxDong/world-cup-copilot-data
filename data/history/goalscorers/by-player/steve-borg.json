@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2019-03-23",
+      "goalId": "goal-2019-03-23-malta-faroe-islands-38232",
+      "homeTeamId": "malta",
+      "matchKey": "2019-03-23-malta-faroe-islands",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Steve Borg",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2020-10-13",
+      "goalId": "goal-2020-10-13-latvia-malta-39837",
+      "homeTeamId": "latvia",
+      "matchKey": "2020-10-13-latvia-malta",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steve Borg",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "steve borg",
+  "playerKey": "steve-borg",
+  "scorer": "Steve Borg",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malta"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-andorra-russia-19053",
+      "homeTeamId": "andorra",
+      "matchKey": "1999-09-08-andorra-russia",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Justo Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "andorra"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-andorra-estonia-20073",
+      "homeTeamId": "andorra",
+      "matchKey": "2000-10-07-andorra-estonia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Justo Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "andorra"
+    }
+  ],
+  "normalizedScorer": "justo ruiz",
+  "playerKey": "justo-ruiz",
+  "scorer": "Justo Ruiz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "andorra"
+  ]
+}

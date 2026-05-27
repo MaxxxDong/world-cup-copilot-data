@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-turkey-hungary-45934",
+      "homeTeamId": "turkey",
+      "matchKey": "2025-03-20-turkey-hungary",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "İrfan Can Kahveci",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2025-10-11",
+      "goalId": "goal-2025-10-11-bulgaria-turkey-47042",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2025-10-11-bulgaria-turkey",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "İrfan Can Kahveci",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "i rfan can kahveci",
+  "playerKey": "i-rfan-can-kahveci",
+  "scorer": "İrfan Can Kahveci",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

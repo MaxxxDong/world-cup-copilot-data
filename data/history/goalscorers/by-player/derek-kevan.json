@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1958-06-08",
+      "goalId": "goal-1958-06-08-england-russia-2945",
+      "homeTeamId": "england",
+      "matchKey": "1958-06-08-england-russia",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Derek Kevan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1958-06-15",
+      "goalId": "goal-1958-06-15-austria-england-2999",
+      "homeTeamId": "austria",
+      "matchKey": "1958-06-15-austria-england",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Derek Kevan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "derek kevan",
+  "playerKey": "derek-kevan",
+  "scorer": "Derek Kevan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

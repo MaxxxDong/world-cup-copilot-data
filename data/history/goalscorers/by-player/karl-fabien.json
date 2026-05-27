@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2023-06-30",
+      "goalId": "goal-2023-06-30-martinique-panama-43374",
+      "homeTeamId": "martinique",
+      "matchKey": "2023-06-30-martinique-panama",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karl Fabien",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "martinique"
+    }
+  ],
+  "normalizedScorer": "karl fabien",
+  "playerKey": "karl-fabien",
+  "scorer": "Karl Fabien",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "martinique"
+  ]
+}

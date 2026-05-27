@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "1989-05-13",
+      "goalId": "goal-1989-05-13-usa-trinidad-and-tobago-12008",
+      "homeTeamId": "usa",
+      "matchKey": "1989-05-13-usa-trinidad-and-tobago",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hutson Charles",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "1992-04-19",
+      "goalId": "goal-1992-04-19-barbados-trinidad-and-tobago-13097",
+      "homeTeamId": "barbados",
+      "matchKey": "1992-04-19-barbados-trinidad-and-tobago",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hutson Charles",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "1992-07-05",
+      "goalId": "goal-1992-07-05-trinidad-and-tobago-jamaica-13211",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "1992-07-05-trinidad-and-tobago-jamaica",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hutson Charles",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "hutson charles",
+  "playerKey": "hutson-charles",
+  "scorer": "Hutson Charles",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago"
+  ]
+}

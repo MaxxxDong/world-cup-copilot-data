@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1974-06-18",
+      "goalId": "goal-1974-06-18-yugoslavia-dr-congo-7021",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1974-06-18-yugoslavia-dr-congo",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Branko Oblak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1975-10-15",
+      "goalId": "goal-1975-10-15-yugoslavia-sweden-7373",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1975-10-15-yugoslavia-sweden",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Branko Oblak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1975-11-19",
+      "goalId": "goal-1975-11-19-yugoslavia-northern-ireland-7418",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1975-11-19-yugoslavia-northern-ireland",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Branko Oblak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "branko oblak",
+  "playerKey": "branko-oblak",
+  "scorer": "Branko Oblak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

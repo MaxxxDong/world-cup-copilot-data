@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1984-06-16",
+      "goalId": "goal-1984-06-16-fra-belgium-10271",
+      "homeTeamId": "fra",
+      "matchKey": "1984-06-16-fra-belgium",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1985-10-30",
+      "goalId": "goal-1985-10-30-fra-luxembourg-11061",
+      "homeTeamId": "fra",
+      "matchKey": "1985-10-30-fra-luxembourg",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luis Fernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1986-06-05",
+      "goalId": "goal-1986-06-05-fra-russia-11169",
+      "homeTeamId": "fra",
+      "matchKey": "1986-06-05-fra-russia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1991-10-12",
+      "goalId": "goal-1991-10-12-spain-fra-12968",
+      "homeTeamId": "spain",
+      "matchKey": "1991-10-12-spain-fra",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Fernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "luis fern ndez",
+  "playerKey": "luis-fern-ndez",
+  "scorer": "Luis Fernández",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

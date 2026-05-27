@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "namibia",
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-gambia-namibia-35036",
+      "homeTeamId": "gambia",
+      "matchKey": "2015-10-09-gambia-namibia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willy Stephanus",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "namibia"
+    },
+    {
+      "awayTeamId": "gambia",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-namibia-gambia-35209",
+      "homeTeamId": "namibia",
+      "matchKey": "2015-10-13-namibia-gambia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Willy Stephanus",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "namibia"
+    }
+  ],
+  "normalizedScorer": "willy stephanus",
+  "playerKey": "willy-stephanus",
+  "scorer": "Willy Stephanus",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "namibia"
+  ]
+}

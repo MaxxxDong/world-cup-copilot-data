@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2000-07-18",
+      "goalId": "goal-2000-07-18-uruguay-venezuela-19909",
+      "homeTeamId": "uruguay",
+      "matchKey": "2000-07-18-uruguay-venezuela",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Noriega",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "2001-11-08",
+      "goalId": "goal-2001-11-08-venezuela-paraguay-22048",
+      "homeTeamId": "venezuela",
+      "matchKey": "2001-11-08-venezuela-paraguay",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Noriega",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "daniel noriega",
+  "playerKey": "daniel-noriega",
+  "scorer": "Daniel Noriega",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

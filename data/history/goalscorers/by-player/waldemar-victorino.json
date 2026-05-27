@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1979-09-05",
+      "goalId": "goal-1979-09-05-ecuador-uruguay-8547",
+      "homeTeamId": "ecuador",
+      "matchKey": "1979-09-05-ecuador-uruguay",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Waldemar Victorino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1979-09-16",
+      "goalId": "goal-1979-09-16-uruguay-ecuador-8569",
+      "homeTeamId": "uruguay",
+      "matchKey": "1979-09-16-uruguay-ecuador",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Waldemar Victorino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1981-08-23",
+      "goalId": "goal-1981-08-23-uruguay-peru-9421",
+      "homeTeamId": "uruguay",
+      "matchKey": "1981-08-23-uruguay-peru",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Waldemar Victorino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1981-09-13",
+      "goalId": "goal-1981-09-13-colombia-uruguay-9445",
+      "homeTeamId": "colombia",
+      "matchKey": "1981-09-13-colombia-uruguay",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Waldemar Victorino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "waldemar victorino",
+  "playerKey": "waldemar-victorino",
+  "scorer": "Waldemar Victorino",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}
