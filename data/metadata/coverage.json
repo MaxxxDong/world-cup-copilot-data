@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "layers": [
+    {
+      "categories": [
+        "sources"
+      ],
+      "confidence": "high",
+      "downloadTier": "core",
+      "filePatterns": [
+        "data/sources/sources.json",
+        "data/metadata/identity-gaps.json"
+      ],
+      "layerId": "sources",
+      "runtimeUse": "Show attribution and validate sourceRefs.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "taxonomy.teams",
+        "taxonomy.aliases",
+        "taxonomy.teamQuality",
+        "taxonomy.teamIdentities",
+        "metadata.identityGaps"
+      ],
+      "confidence": "high",
+      "downloadTier": "core",
+      "filePatterns": [
+        "data/taxonomy/teams.json",
+        "data/taxonomy/team-aliases.json",
+        "data/taxonomy/team-quality.json",
+        "data/metadata/identity-gaps.json"
+      ],
+      "layerId": "team-taxonomy",
+      "runtimeUse": "Resolve team names and decide when agent should warn about inferred historical teams.",
+      "status": "available-with-quality-flags"
+    },
+    {
+      "categories": [
+        "schedule",
+        "taxonomy.venues",
+        "identification.matches"
+      ],
+      "confidence": "high",
+      "downloadTier": "core",
+      "filePatterns": [
+        "data/schedule/worldcup-2026.json",
+        "data/taxonomy/venues.json",
+        "data/identification/matches.json"
+      ],
+      "layerId": "schedule",
+      "runtimeUse": "Identify the current match from time, page context, team aliases, venue aliases, and market query hints.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "history.headToHead",
+        "history.form",
+        "history.shootouts"
+      ],
+      "confidence": "high",
+      "downloadTier": "match-context",
+      "filePatterns": [
+        "data/history/head-to-head/{teamA}__{teamB}.json",
+        "data/history/form/{teamId}.json",
+        "data/history/shootouts.json"
+      ],
+      "layerId": "historical-team-context",
+      "runtimeUse": "Lazy-load only the current match teams for head-to-head, form, split, and shootout context.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "history.goalscorers.index",
+        "history.goalscorers.byTeam",
+        "history.goalscorers.byPlayer"
+      ],
+      "confidence": "medium",
+      "downloadTier": "player-context",
+      "filePatterns": [
+        "data/history/goalscorers/index.json",
+        "data/history/goalscorers/by-team/{teamId}.json",
+        "data/history/goalscorers/by-player/{playerKey}.json"
+      ],
+      "layerId": "goalscorer-context",
+      "runtimeUse": "Use by-team summaries for team scoring history and by-player files for named-player follow-up questions.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "players.index",
+        "players.identities"
+      ],
+      "confidence": "medium",
+      "downloadTier": "player-context",
+      "filePatterns": [
+        "data/players/players-index.json",
+        "data/players/identities/{playerKey}.json"
+      ],
+      "layerId": "player-identities",
+      "runtimeUse": "Attach stable provider IDs to known historical scorers or later official-roster players.",
+      "status": "available-filtered"
+    },
+    {
+      "categories": [
+        "rosters"
+      ],
+      "confidence": "simulated",
+      "downloadTier": "tournament-context",
+      "filePatterns": [
+        "data/rosters/worldcup-2026/{teamId}.json"
+      ],
+      "layerId": "official-rosters",
+      "recommendedAction": "Replace simulated squads with FIFA official final squad lists when available.",
+      "runtimeUse": "Use only with rosterStatus and sourceUrl. Agent must say simulated/provisional unless rosterStatus is final.",
+      "status": "available-simulated"
+    },
+    {
+      "categories": [
+        "profiles.teams",
+        "profiles.teams.index"
+      ],
+      "confidence": "medium",
+      "downloadTier": "match-context",
+      "filePatterns": [
+        "data/profiles/teams/index.json",
+        "data/profiles/teams/{teamId}.json"
+      ],
+      "layerId": "team-profiles",
+      "runtimeUse": "Lazy-load a compact team profile derived from cited schedule, history, form, and goalscorer inputs.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical",
+        "profiles.keyPlayersHistorical.index"
+      ],
+      "confidence": "medium",
+      "downloadTier": "player-context",
+      "filePatterns": [
+        "data/profiles/key-players/historical/index.json",
+        "data/profiles/key-players/historical/{teamId}/{playerKey}.json"
+      ],
+      "layerId": "historical-key-player-profiles",
+      "runtimeUse": "Lazy-load historical key-player profiles derived from cited national-team goals and filtered Reep identities. Do not treat this as a current official roster.",
+      "status": "available"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent",
+        "profiles.keyPlayersCurrent.index"
+      ],
+      "confidence": "simulated",
+      "downloadTier": "tournament-context",
+      "filePatterns": [
+        "data/profiles/key-players/current/{teamId}/{playerKey}.json"
+      ],
+      "layerId": "key-player-profiles",
+      "runtimeUse": "Lazy-load current roster key-player candidates. Agent must preserve rosterStatus and say simulated/provisional unless rosterStatus is final.",
+      "status": "available-simulated"
+    },
+    {
+      "categories": [
+        "marketMapping.polymarket"
+      ],
+      "confidence": "medium",
+      "downloadTier": "core",
+      "filePatterns": [
+        "data/market-mapping/polymarket-query-seeds.json"
+      ],
+      "layerId": "market-mapping",
+      "runtimeUse": "Guide Polymarket search ranking; not a source of live market prices.",
+      "status": "available-query-seeds-only"
+    }
+  ],
+  "optionalCandidateSources": [
+    {
+      "name": "FIFA World Cup 2026 squad announcements",
+      "packagePolicy": "Do not promote media projections or provisional federation lists to canonical roster facts.",
+      "role": "official-roster-authority",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://www.fifa.com/en/articles/all-world-cup-squad-announcements",
+      "useWhen": "Import only after final official squad lists are published by FIFA."
+    },
+    {
+      "name": "Wikidata national football team entities",
+      "packagePolicy": "Keep as identity metadata with sourceRefs; do not overwrite registry/high teams without reconciliation.",
+      "role": "national-team-identity-authority",
+      "sourceId": "wikidata-national-football-teams",
+      "url": "https://www.wikidata.org/",
+      "useWhen": "Use for QIDs, multilingual aliases, and cross-source identity enrichment after batch reconciliation."
+    }
+  ],
+  "packagePhase": "phase-a",
+  "purpose": "Machine-readable coverage and readiness map for extension UI and agent routing.",
+  "qualitySignals": {
+    "goalscorerRecords": 47601,
+    "historicalMatches": 49257,
+    "playerIdentities": {
+      "count": 13229,
+      "scope": "filtered-to-known-goalscorers-or-roster-targets",
+      "status": "available"
+    },
+    "rosters": {
+      "playerCount": 384,
+      "rosterStatuses": [
+        "simulated"
+      ],
+      "status": "available-simulated",
+      "teamCount": 48
+    },
+    "scheduleMatches": 104,
+    "shootoutMatches": 677,
+    "teamIdentities": {
+      "count": 0,
+      "scope": "none",
+      "status": "not-in-package"
+    },
+    "teamIdentity": {
+      "byConfidence": {
+        "high": 48,
+        "medium": 288,
+        "placeholder": 64
+      },
+      "byStatus": {
+        "placeholder": 64,
+        "registry": 48,
+        "source-derived": 288
+      },
+      "lowConfidenceTeamCount": 0,
+      "teamCount": 400
+    }
+  },
+  "runtimeGuidance": {
+    "developerAudit": [
+      "audit"
+    ],
+    "matchAnalysis": [
+      "core",
+      "match-context"
+    ],
+    "matchDetection": [
+      "core"
+    ],
+    "playerFollowUp": [
+      "core",
+      "match-context",
+      "tournament-context",
+      "player-context"
+    ],
+    "startup": [
+      "core"
+    ]
+  }
+}
