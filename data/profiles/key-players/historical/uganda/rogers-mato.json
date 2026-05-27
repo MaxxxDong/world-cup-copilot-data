@@ -1,0 +1,86 @@
+{
+  "firstGoalDate": "2023-11-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "2003-10-10",
+    "nationality": "Uganda",
+    "playerKey": "rogers-mato",
+    "position": "winger",
+    "providerIds": {
+      "footballdatabase_eu": "477635",
+      "national_football_teams": "85251",
+      "soccerway": "793023",
+      "transfermarkt": "973449",
+      "wikidata": "Q110622354",
+      "worldfootball": "rogers-mato"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-12-30",
+  "playerKey": "rogers-mato",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-12-30",
+      "goalId": "goal-2025-12-30-uganda-nigeria-47507",
+      "matchKey": "2025-12-30-uganda-nigeria",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rogers Mato"
+    },
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-uganda-mozambique-46683",
+      "matchKey": "2025-09-05-uganda-mozambique",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rogers Mato"
+    },
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-uganda-mozambique-46682",
+      "matchKey": "2025-09-05-uganda-mozambique",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rogers Mato"
+    },
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-somalia-uganda-44174",
+      "matchKey": "2023-11-21-somalia-uganda",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rogers Mato"
+    }
+  ],
+  "scorer": "Rogers Mato",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uganda",
+  "teamName": "Uganda",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

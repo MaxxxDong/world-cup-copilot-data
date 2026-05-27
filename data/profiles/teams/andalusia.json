@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Andalusia"
+  ],
+  "allTime": {
+    "draws": 4,
+    "goalsAgainst": 14,
+    "goalsFor": 25,
+    "losses": 1,
+    "matches": 13,
+    "wins": 8
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 23,
+      "losses": 0,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 14,
+      "goalsFor": 25,
+      "losses": 1,
+      "matches": 13,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 3,
+      "goalsFor": 11,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "andalusia",
+      "date": "2013-06-07",
+      "homeScore": 1,
+      "homeTeamId": "madrid",
+      "matchId": "int-2013-06-07-madrid-andalusia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zambia",
+      "date": "2007-12-27",
+      "homeScore": 4,
+      "homeTeamId": "andalusia",
+      "matchId": "int-2007-12-27-andalusia-zambia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "china-pr",
+      "date": "2005-12-28",
+      "homeScore": 4,
+      "homeTeamId": "andalusia",
+      "matchId": "int-2005-12-28-andalusia-china-pr",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "2004-12-29",
+      "homeScore": 0,
+      "homeTeamId": "andalusia",
+      "matchId": "int-2004-12-29-andalusia-malta",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2003-12-27",
+      "homeScore": 1,
+      "homeTeamId": "andalusia",
+      "matchId": "int-2003-12-27-andalusia-latvia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "friendly": {
+      "draws": 4,
+      "goalsAgainst": 14,
+      "goalsFor": 25,
+      "losses": 1,
+      "matches": 13,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 14,
+      "goalsFor": 25,
+      "losses": 1,
+      "matches": 13,
+      "wins": 8
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "andalusia",
+  "teamName": "Andalusia",
+  "topScorers": []
+}

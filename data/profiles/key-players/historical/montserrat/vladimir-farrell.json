@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2008-03-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1981-05-31",
+    "nationality": "United Kingdom",
+    "playerKey": "vladimir-farrell",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "bf71276c",
+      "footballdatabase_eu": "33134",
+      "national_football_teams": "4464",
+      "sofifa": "3908",
+      "transfermarkt": "78906",
+      "wikidata": "Q4118354"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-03-26",
+  "playerKey": "vladimir-farrell",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-03-26",
+      "goalId": "goal-2008-03-26-montserrat-suriname-27718",
+      "matchKey": "2008-03-26-montserrat-suriname",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Farrell"
+    }
+  ],
+  "scorer": "Vladimir Farrell",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

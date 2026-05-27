@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "German DR"
+  ],
+  "allTime": {
+    "draws": 66,
+    "goalsAgainst": 361,
+    "goalsFor": 506,
+    "losses": 92,
+    "matches": 298,
+    "wins": 140
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 19,
+      "losses": 2,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 27,
+      "goalsFor": 34,
+      "losses": 6,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 11,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "german-dr",
+      "date": "1990-09-12",
+      "homeScore": 0,
+      "homeTeamId": "belgium",
+      "matchId": "int-1990-09-12-belgium-german-dr",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "german-dr",
+      "date": "1990-05-13",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1990-05-13-bra-german-dr",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "german-dr",
+      "date": "1990-04-25",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-1990-04-25-scotland-german-dr",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "1990-04-11",
+      "homeScore": 2,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1990-04-11-german-dr-egypt",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "usa",
+      "date": "1990-03-28",
+      "homeScore": 3,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1990-03-28-german-dr-usa",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 22,
+      "goalsAgainst": 127,
+      "goalsFor": 168,
+      "losses": 33,
+      "matches": 99,
+      "wins": 44
+    },
+    "friendly": {
+      "draws": 44,
+      "goalsAgainst": 234,
+      "goalsFor": 338,
+      "losses": 59,
+      "matches": 199,
+      "wins": 96
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 24,
+      "goalsFor": 22,
+      "losses": 6,
+      "matches": 17,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 63,
+      "goalsAgainst": 337,
+      "goalsFor": 484,
+      "losses": 86,
+      "matches": 281,
+      "wins": 132
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 6,
+      "wins": 2
+    }
+  },
+  "teamId": "german-dr",
+  "teamName": "German DR",
+  "topScorers": [
+    {
+      "goals": 25,
+      "playerKey": "joachim-streich",
+      "scorer": "Joachim Streich"
+    },
+    {
+      "goals": 11,
+      "playerKey": "andreas-thom",
+      "scorer": "Andreas Thom"
+    },
+    {
+      "goals": 11,
+      "playerKey": "martin-hoffmann",
+      "scorer": "Martin Hoffmann"
+    },
+    {
+      "goals": 9,
+      "playerKey": "hans-j-rgen-kreische",
+      "scorer": "Hans-Jürgen Kreische"
+    },
+    {
+      "goals": 9,
+      "playerKey": "rainer-ernst",
+      "scorer": "Rainer Ernst"
+    },
+    {
+      "goals": 8,
+      "playerKey": "eberhard-vogel",
+      "scorer": "Eberhard Vogel"
+    },
+    {
+      "goals": 7,
+      "playerKey": "henning-frenzel",
+      "scorer": "Henning Frenzel"
+    },
+    {
+      "goals": 7,
+      "playerKey": "j-rgen-sparwasser",
+      "scorer": "Jürgen Sparwasser"
+    },
+    {
+      "goals": 7,
+      "playerKey": "peter-ducke",
+      "scorer": "Peter Ducke"
+    },
+    {
+      "goals": 7,
+      "playerKey": "wolfram-l-we",
+      "scorer": "Wolfram Löwe"
+    }
+  ]
+}

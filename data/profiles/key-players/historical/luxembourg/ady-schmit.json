@@ -1,0 +1,96 @@
+{
+  "firstGoalDate": "1961-10-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1940-08-17",
+    "nationality": "Luxembourg",
+    "playerKey": "ady-schmit",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "18697",
+      "footballdatabase_eu": "45407",
+      "national_football_teams": "49218",
+      "transfermarkt": "296948",
+      "uefa": "36846",
+      "wikidata": "Q2056219",
+      "worldfootball": "ady-schmit"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1964-09-29",
+  "playerKey": "ady-schmit",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1964-09-29",
+      "goalId": "goal-1964-09-29-yugoslavia-luxembourg-4140",
+      "matchKey": "1964-09-29-yugoslavia-luxembourg",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ady Schmit"
+    },
+    {
+      "date": "1963-12-10",
+      "goalId": "goal-1963-12-10-denmark-luxembourg-4087",
+      "matchKey": "1963-12-10-denmark-luxembourg",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ady Schmit"
+    },
+    {
+      "date": "1961-10-08",
+      "goalId": "goal-1961-10-08-luxembourg-portugal-3561",
+      "matchKey": "1961-10-08-luxembourg-portugal",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ady Schmit"
+    },
+    {
+      "date": "1961-10-08",
+      "goalId": "goal-1961-10-08-luxembourg-portugal-3560",
+      "matchKey": "1961-10-08-luxembourg-portugal",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ady Schmit"
+    },
+    {
+      "date": "1961-10-08",
+      "goalId": "goal-1961-10-08-luxembourg-portugal-3559",
+      "matchKey": "1961-10-08-luxembourg-portugal",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ady Schmit"
+    }
+  ],
+  "scorer": "Ady Schmit",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

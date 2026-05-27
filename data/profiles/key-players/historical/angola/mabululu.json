@@ -1,0 +1,98 @@
+{
+  "firstGoalDate": "2013-09-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1996-06-01",
+    "nationality": "Angola",
+    "playerKey": "mabululu",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "793a50b3",
+      "footballdatabase_eu": "209052",
+      "kicker": "mabululu",
+      "lequipe": "75761",
+      "national_football_teams": "52784",
+      "soccerway": "298925",
+      "sofascore": "333341",
+      "transfermarkt": "215505",
+      "wikidata": "Q16232735"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-07",
+  "playerKey": "mabululu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-07",
+      "goalId": "goal-2024-06-07-angola-eswatini-44713",
+      "matchKey": "2024-06-07-angola-eswatini",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mabululu"
+    },
+    {
+      "date": "2024-01-27",
+      "goalId": "goal-2024-01-27-angola-namibia-44373",
+      "matchKey": "2024-01-27-angola-namibia",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mabululu"
+    },
+    {
+      "date": "2024-01-23",
+      "goalId": "goal-2024-01-23-angola-burkina-faso-44333",
+      "matchKey": "2024-01-23-angola-burkina-faso",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mabululu"
+    },
+    {
+      "date": "2024-01-15",
+      "goalId": "goal-2024-01-15-algeria-angola-44227",
+      "matchKey": "2024-01-15-algeria-angola",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mabululu"
+    },
+    {
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-angola-liberia-33186",
+      "matchKey": "2013-09-07-angola-liberia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mabululu"
+    }
+  ],
+  "scorer": "Mabululu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "angola",
+  "teamName": "Angola",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

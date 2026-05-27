@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2015-11-12",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1991-07-07",
+    "nationality": "Palestine",
+    "playerKey": "ahmad-abu-nahyeh",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "0f748a3c",
+      "national_football_teams": "60284",
+      "soccerway": "204530",
+      "transfermarkt": "297996",
+      "wikidata": "Q21076657",
+      "worldfootball": "ahmed-abu-nahyeh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-12",
+  "playerKey": "ahmad-abu-nahyeh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-palestine-malaysia-35320",
+      "matchKey": "2015-11-12-palestine-malaysia",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Abu Nahyeh"
+    },
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-palestine-malaysia-35319",
+      "matchKey": "2015-11-12-palestine-malaysia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Abu Nahyeh"
+    },
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-palestine-malaysia-35318",
+      "matchKey": "2015-11-12-palestine-malaysia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Abu Nahyeh"
+    }
+  ],
+  "scorer": "Ahmad Abu Nahyeh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "palestine",
+  "teamName": "Palestine",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

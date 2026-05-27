@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1992-04-16",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "rangelo-janga",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "2242",
+      "espn": "151834",
+      "fbref": "7e964a67",
+      "footballdatabase_eu": "118363",
+      "heimspiel": "153108",
+      "impect": "17774",
+      "kicker": "rangelo-janga",
+      "national_football_teams": "63673",
+      "opta": "1j835btnkq15067iuoe5teuvp",
+      "skillcorner": "8865",
+      "soccerway": "86235",
+      "sofascore": "128791",
+      "thesportsdb": "34240393",
+      "transfermarkt": "111183",
+      "wikidata": "Q3930067",
+      "wyscout": "540"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Rangelo Janga",
+  "playerKey": "rangelo-janga",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-curacao-barbados-44598",
+      "matchKey": "2024-06-05-curacao-barbados",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Rangelo Janga"
+    },
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-curacao-barbados-44597",
+      "matchKey": "2024-06-05-curacao-barbados",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rangelo Janga"
+    },
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-curacao-barbados-44596",
+      "matchKey": "2024-06-05-curacao-barbados",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rangelo Janga"
+    },
+    {
+      "date": "2021-06-12",
+      "goalId": "goal-2021-06-12-panama-curacao-40745",
+      "matchKey": "2021-06-12-panama-curacao",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rangelo Janga"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/curacao"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

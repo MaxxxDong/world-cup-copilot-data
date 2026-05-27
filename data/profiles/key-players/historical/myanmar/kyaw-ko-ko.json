@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-12-20",
+    "nationality": "Myanmar",
+    "playerKey": "kyaw-ko-ko",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "c3936c0c",
+      "footballdatabase_eu": "96308",
+      "kicker": "kyaw-ko-ko",
+      "national_football_teams": "36300",
+      "soccerway": "118523",
+      "sofascore": "195168",
+      "transfermarkt": "191125",
+      "wikidata": "Q1066920"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-13",
+  "playerKey": "kyaw-ko-ko",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-myanmar-laos-35206",
+      "matchKey": "2015-10-13-myanmar-laos",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kyaw Ko Ko"
+    }
+  ],
+  "scorer": "Kyaw Ko Ko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

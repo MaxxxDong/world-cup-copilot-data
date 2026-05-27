@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 7,
+  "identity": {
+    "dateOfBirth": "1948-10-31",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "mayanga-maku",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "b384d03c",
+      "footballdatabase_eu": "55377",
+      "national_football_teams": "49125",
+      "sofascore": "1419528",
+      "sofifa": "53886",
+      "transfermarkt": "145442",
+      "wikidata": "Q3605163",
+      "worldfootball": "maku-mayanga"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Mayanga Maku",
+  "playerKey": "mayanga-maku",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1974-03-07",
+      "goalId": "goal-1974-03-07-mauritius-dr-congo-6972",
+      "matchKey": "1974-03-07-mauritius-dr-congo",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1974-03-07",
+      "goalId": "goal-1974-03-07-mauritius-dr-congo-6969",
+      "matchKey": "1974-03-07-mauritius-dr-congo",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1974-03-05",
+      "goalId": "goal-1974-03-05-congo-dr-congo-6957",
+      "matchKey": "1974-03-05-congo-dr-congo",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1973-11-04",
+      "goalId": "goal-1973-11-04-zambia-dr-congo-6858",
+      "matchKey": "1973-11-04-zambia-dr-congo",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1972-03-04",
+      "goalId": "goal-1972-03-04-cameroon-dr-congo-6282",
+      "matchKey": "1972-03-04-cameroon-dr-congo",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1972-02-29",
+      "goalId": "goal-1972-02-29-mar-dr-congo-6269",
+      "matchKey": "1972-02-29-mar-dr-congo",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "date": "1972-02-25",
+      "goalId": "goal-1972-02-25-sudan-dr-congo-6249",
+      "matchKey": "1972-02-25-sudan-dr-congo",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mayanga Maku"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/dr-congo"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "dr-congo",
+  "teamName": "DR Congo"
+}

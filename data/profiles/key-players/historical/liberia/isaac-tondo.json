@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2003-11-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1981-05-02",
+    "nationality": "Liberia",
+    "playerKey": "isaac-tondo",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "8511",
+      "national_football_teams": "3821",
+      "sofascore": "1014966",
+      "transfermarkt": "130199",
+      "wikidata": "Q6077229"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-03-26",
+  "playerKey": "isaac-tondo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-senegal-liberia-25056",
+      "matchKey": "2005-03-26-senegal-liberia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isaac Tondo"
+    },
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-liberia-gambia-23180",
+      "matchKey": "2003-11-16-liberia-gambia",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isaac Tondo"
+    },
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-liberia-gambia-23179",
+      "matchKey": "2003-11-16-liberia-gambia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isaac Tondo"
+    }
+  ],
+  "scorer": "Isaac Tondo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

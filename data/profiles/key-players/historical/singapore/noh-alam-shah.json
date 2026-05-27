@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2001-02-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-09-03",
+    "nationality": "Singapore",
+    "playerKey": "noh-alam-shah",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "e5929d36",
+      "footballdatabase_eu": "7966",
+      "national_football_teams": "5949",
+      "soccerway": "74203",
+      "sofascore": "79104",
+      "transfermarkt": "95662",
+      "wikidata": "Q2700074"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2007-11-18",
+  "playerKey": "noh-alam-shah",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2007-11-18",
+      "goalId": "goal-2007-11-18-tajikistan-singapore-27444",
+      "matchKey": "2007-11-18-tajikistan-singapore",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noh Alam Shah"
+    },
+    {
+      "date": "2007-10-08",
+      "goalId": "goal-2007-10-08-palestine-singapore-27077",
+      "matchKey": "2007-10-08-palestine-singapore",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noh Alam Shah"
+    },
+    {
+      "date": "2001-02-06",
+      "goalId": "goal-2001-02-06-singapore-kuwait-20381",
+      "matchKey": "2001-02-06-singapore-kuwait",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noh Alam Shah"
+    }
+  ],
+  "scorer": "Noh Alam Shah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "singapore",
+  "teamName": "Singapore",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

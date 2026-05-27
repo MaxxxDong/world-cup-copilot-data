@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Guadeloupe"
+  ],
+  "allTime": {
+    "draws": 47,
+    "goalsAgainst": 390,
+    "goalsFor": 463,
+    "losses": 109,
+    "matches": 271,
+    "wins": 115
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 15,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 23,
+      "goalsFor": 39,
+      "losses": 7,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "guatemala",
+      "date": "2025-06-24",
+      "homeScore": 2,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-2025-06-24-guadeloupe-guatemala",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guadeloupe",
+      "date": "2025-06-20",
+      "homeScore": 2,
+      "homeTeamId": "jamaica",
+      "matchId": "int-2025-06-20-jamaica-guadeloupe",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guadeloupe",
+      "date": "2025-06-16",
+      "homeScore": 5,
+      "homeTeamId": "panama",
+      "matchId": "int-2025-06-16-panama-guadeloupe",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guadeloupe",
+      "date": "2025-03-25",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2025-03-25-nicaragua-guadeloupe",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2025-03-21",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-2025-03-21-guadeloupe-nicaragua",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 27,
+      "goalsAgainst": 207,
+      "goalsFor": 304,
+      "losses": 63,
+      "matches": 168,
+      "wins": 78
+    },
+    "friendly": {
+      "draws": 20,
+      "goalsAgainst": 183,
+      "goalsFor": 159,
+      "losses": 46,
+      "matches": 103,
+      "wins": 37
+    },
+    "neutralVenue": {
+      "draws": 15,
+      "goalsAgainst": 137,
+      "goalsFor": 189,
+      "losses": 42,
+      "matches": 105,
+      "wins": 48
+    },
+    "nonNeutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 253,
+      "goalsFor": 274,
+      "losses": 67,
+      "matches": 166,
+      "wins": 67
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "matthias-pha-ton",
+      "scorer": "Matthias Phaëton"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ange-freddy-plumain",
+      "scorer": "Ange-Freddy Plumain"
+    },
+    {
+      "goals": 2,
+      "playerKey": "brice-jovial",
+      "scorer": "Brice Jovial"
+    },
+    {
+      "goals": 2,
+      "playerKey": "david-fleurival",
+      "scorer": "David Fleurival"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jocelyn-angloma",
+      "scorer": "Jocelyn Angloma"
+    },
+    {
+      "goals": 2,
+      "playerKey": "thierry-ambrose",
+      "scorer": "Thierry Ambrose"
+    },
+    {
+      "goals": 1,
+      "playerKey": "alexandre-alphonse",
+      "scorer": "Alexandre Alphonse"
+    },
+    {
+      "goals": 1,
+      "playerKey": "andreaw-gravillon",
+      "scorer": "Andreaw Gravillon"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anthony-baron",
+      "scorer": "Anthony Baron"
+    },
+    {
+      "goals": 1,
+      "playerKey": "c-drick-fiston",
+      "scorer": "Cédrick Fiston"
+    }
+  ]
+}

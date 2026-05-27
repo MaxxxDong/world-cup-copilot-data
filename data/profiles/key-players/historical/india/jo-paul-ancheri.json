@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2001-05-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1975-08-02",
+    "nationality": "India",
+    "playerKey": "jo-paul-ancheri",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "b83642bf",
+      "footballdatabase_eu": "8326",
+      "national_football_teams": "3119",
+      "soccerway": "285508",
+      "sofifa": "162569",
+      "transfermarkt": "425273",
+      "wikidata": "Q10456051"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-20",
+  "playerKey": "jo-paul-ancheri",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-20",
+      "goalId": "goal-2001-05-20-india-brunei-21194",
+      "matchKey": "2001-05-20-india-brunei",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jo Paul Ancheri"
+    },
+    {
+      "date": "2001-05-11",
+      "goalId": "goal-2001-05-11-brunei-india-21125",
+      "matchKey": "2001-05-11-brunei-india",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jo Paul Ancheri"
+    },
+    {
+      "date": "2001-05-04",
+      "goalId": "goal-2001-05-04-yemen-india-21069",
+      "matchKey": "2001-05-04-yemen-india",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jo Paul Ancheri"
+    },
+    {
+      "date": "2001-05-04",
+      "goalId": "goal-2001-05-04-yemen-india-21067",
+      "matchKey": "2001-05-04-yemen-india",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jo Paul Ancheri"
+    }
+  ],
+  "scorer": "Jo Paul Ancheri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "india",
+  "teamName": "India",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

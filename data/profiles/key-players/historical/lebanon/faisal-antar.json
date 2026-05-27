@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2001-05-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1978-12-20",
+    "nationality": "Lebanon",
+    "playerKey": "faisal-antar",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "1164d349",
+      "footballdatabase_eu": "24253",
+      "national_football_teams": "3761",
+      "soccerway": "223974",
+      "transfermarkt": "37017",
+      "wikidata": "Q5431043"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-09-08",
+  "playerKey": "faisal-antar",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-maldives-lebanon-24455",
+      "matchKey": "2004-09-08-maldives-lebanon",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Antar"
+    },
+    {
+      "date": "2001-05-28",
+      "goalId": "goal-2001-05-28-sri-lanka-lebanon-21217",
+      "matchKey": "2001-05-28-sri-lanka-lebanon",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Antar"
+    },
+    {
+      "date": "2001-05-26",
+      "goalId": "goal-2001-05-26-pakistan-lebanon-21200",
+      "matchKey": "2001-05-26-pakistan-lebanon",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Antar"
+    }
+  ],
+  "scorer": "Faisal Antar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lebanon",
+  "teamName": "Lebanon",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

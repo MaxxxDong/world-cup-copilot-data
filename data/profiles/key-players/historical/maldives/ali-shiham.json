@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2001-04-01",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1975-06-26",
+    "nationality": "Maldives",
+    "playerKey": "ali-shiham",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "87abedef",
+      "national_football_teams": "4163",
+      "sofifa": "156581",
+      "transfermarkt": "272951",
+      "wikidata": "Q19577832"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-04-01",
+  "playerKey": "ali-shiham",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-04-01",
+      "goalId": "goal-2001-04-01-maldives-cambodia-20701",
+      "matchKey": "2001-04-01-maldives-cambodia",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Shiham"
+    }
+  ],
+  "scorer": "Ali Shiham",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "maldives",
+  "teamName": "Maldives",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

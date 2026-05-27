@@ -1,0 +1,83 @@
+{
+  "firstGoalDate": "2011-09-02",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1989-02-12",
+    "nationality": "Azerbaijan",
+    "playerKey": "rauf-aliyev",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "25914",
+      "fbref": "fd9b8e93",
+      "footballdatabase_eu": "77027",
+      "kicker": "rauf-aliyev",
+      "national_football_teams": "36411",
+      "opta": "aa0e3t1yxncaqydx04u372dp1",
+      "soccerway": "84411",
+      "sofascore": "65606",
+      "transfermarkt": "120061",
+      "uefa": "250031496",
+      "wikidata": "Q279950",
+      "worldfootball": "rauf-aliyev"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-11-14",
+  "playerKey": "rauf-aliyev",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-11-14",
+      "goalId": "goal-2012-11-14-northern-ireland-azerbaijan-32462",
+      "matchKey": "2012-11-14-northern-ireland-azerbaijan",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rauf Aliyev"
+    },
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-azerbaijan-kazakhstan-30972",
+      "matchKey": "2011-09-06-azerbaijan-kazakhstan",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rauf Aliyev"
+    },
+    {
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-azerbaijan-belgium-30859",
+      "matchKey": "2011-09-02-azerbaijan-belgium",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rauf Aliyev"
+    }
+  ],
+  "scorer": "Rauf Aliyev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "azerbaijan",
+  "teamName": "Azerbaijan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2008-05-31",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1982-08-11",
+    "nationality": "Germany",
+    "playerKey": "wilko-risser",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "e9c4edb9",
+      "footballdatabase_eu": "37323",
+      "hugman": "25118",
+      "kicker": "wilko-risser",
+      "national_football_teams": "26302",
+      "soccerbase": "64093",
+      "soccerway": "57611",
+      "sofifa": "297857",
+      "transfermarkt": "18607",
+      "wikidata": "Q480054",
+      "worldfootball": "wilko-risser"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "wilko-risser",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-namibia-zimbabwe-28634",
+      "matchKey": "2008-10-11-namibia-zimbabwe",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilko Risser"
+    },
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-namibia-zimbabwe-28631",
+      "matchKey": "2008-10-11-namibia-zimbabwe",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilko Risser"
+    },
+    {
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-namibia-kenya-27762",
+      "matchKey": "2008-05-31-namibia-kenya",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilko Risser"
+    }
+  ],
+  "scorer": "Wilko Risser",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "namibia",
+  "teamName": "Namibia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

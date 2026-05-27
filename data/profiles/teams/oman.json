@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Oman"
+  ],
+  "allTime": {
+    "draws": 137,
+    "goalsAgainst": 680,
+    "goalsFor": 701,
+    "losses": 199,
+    "matches": 542,
+    "wins": 206
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 11,
+      "goalsFor": 7,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 9,
+      "goalsAgainst": 18,
+      "goalsFor": 17,
+      "losses": 5,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 3,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "comoros",
+      "date": "2025-12-08",
+      "homeScore": 2,
+      "homeTeamId": "oman",
+      "matchId": "int-2025-12-08-oman-comoros",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mar",
+      "date": "2025-12-05",
+      "homeScore": 0,
+      "homeTeamId": "oman",
+      "matchId": "int-2025-12-05-oman-mar",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "oman",
+      "date": "2025-12-02",
+      "homeScore": 2,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2025-12-02-saudi-arabia-oman",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2025-11-26",
+      "homeScore": 0,
+      "homeTeamId": "oman",
+      "matchId": "int-2025-11-26-oman-somalia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "civ",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "oman",
+      "matchId": "int-2025-11-18-oman-civ",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 78,
+      "goalsAgainst": 450,
+      "goalsFor": 436,
+      "losses": 139,
+      "matches": 330,
+      "wins": 113
+    },
+    "friendly": {
+      "draws": 59,
+      "goalsAgainst": 230,
+      "goalsFor": 265,
+      "losses": 60,
+      "matches": 212,
+      "wins": 93
+    },
+    "neutralVenue": {
+      "draws": 55,
+      "goalsAgainst": 290,
+      "goalsFor": 241,
+      "losses": 77,
+      "matches": 192,
+      "wins": 60
+    },
+    "nonNeutralVenue": {
+      "draws": 82,
+      "goalsAgainst": 390,
+      "goalsFor": 460,
+      "losses": 122,
+      "matches": 350,
+      "wins": 146
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "oman",
+  "teamName": "Oman",
+  "topScorers": [
+    {
+      "goals": 11,
+      "playerKey": "hani-al-dhabit",
+      "scorer": "Hani Al-Dhabit"
+    },
+    {
+      "goals": 11,
+      "playerKey": "yaqoob-juma-al-mukhaini",
+      "scorer": "Yaqoob Juma Al-Mukhaini"
+    },
+    {
+      "goals": 10,
+      "playerKey": "amad-al-hosni",
+      "scorer": "Amad Al-Hosni"
+    },
+    {
+      "goals": 9,
+      "playerKey": "ahmed-mubarak-al-mahaijri",
+      "scorer": "Ahmed Mubarak Al-Mahaijri"
+    },
+    {
+      "goals": 8,
+      "playerKey": "muhsen-al-ghassani",
+      "scorer": "Muhsen Al-Ghassani"
+    },
+    {
+      "goals": 7,
+      "playerKey": "abdul-aziz-al-muqbali",
+      "scorer": "Abdul Aziz Al-Muqbali"
+    },
+    {
+      "goals": 6,
+      "playerKey": "abdullah-fawaz",
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "goals": 5,
+      "playerKey": "abdulrahman-al-mushaifri",
+      "scorer": "Abdulrahman Al-Mushaifri"
+    },
+    {
+      "goals": 5,
+      "playerKey": "badar-al-maimani",
+      "scorer": "Badar Al-Maimani"
+    },
+    {
+      "goals": 5,
+      "playerKey": "issam-al-sabhi",
+      "scorer": "Issam Al Sabhi"
+    }
+  ]
+}

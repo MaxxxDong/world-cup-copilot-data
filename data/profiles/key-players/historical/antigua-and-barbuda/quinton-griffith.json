@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2011-09-02",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1992-02-27",
+    "nationality": "Antigua and Barbuda",
+    "playerKey": "quinton-griffith",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "17cbbd59",
+      "footballdatabase_eu": "114163",
+      "national_football_teams": "39227",
+      "soccerway": "151148",
+      "sofascore": "804530",
+      "transfermarkt": "171116",
+      "wikidata": "Q7272486"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-03-27",
+  "playerKey": "quinton-griffith",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-united-states-virgin-islands-antigua-and-barbuda-40239",
+      "matchKey": "2021-03-27-united-states-virgin-islands-antigua-and-barbuda",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Quinton Griffith"
+    },
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-united-states-virgin-islands-antigua-and-barbuda-40238",
+      "matchKey": "2021-03-27-united-states-virgin-islands-antigua-and-barbuda",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Quinton Griffith"
+    },
+    {
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-jamaica-antigua-and-barbuda-32414",
+      "matchKey": "2012-10-16-jamaica-antigua-and-barbuda",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Quinton Griffith"
+    },
+    {
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-antigua-and-barbuda-curacao-30850",
+      "matchKey": "2011-09-02-antigua-and-barbuda-curacao",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Quinton Griffith"
+    }
+  ],
+  "scorer": "Quinton Griffith",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "antigua-and-barbuda",
+  "teamName": "Antigua and Barbuda",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

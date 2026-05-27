@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2008-03-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1975-11-15",
+    "nationality": "Ecuador",
+    "playerKey": "petter-villegas",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "3be3875f",
+      "footballdatabase_eu": "33054",
+      "national_football_teams": "25381",
+      "transfermarkt": "59730",
+      "wikidata": "Q3029115"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-14",
+  "playerKey": "petter-villegas",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-puerto-rico-honduras-27992",
+      "matchKey": "2008-06-14-puerto-rico-honduras",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petter Villegas"
+    },
+    {
+      "date": "2008-03-26",
+      "goalId": "goal-2008-03-26-puerto-rico-dominican-republic-27724",
+      "matchKey": "2008-03-26-puerto-rico-dominican-republic",
+      "minute": 96,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Petter Villegas"
+    }
+  ],
+  "scorer": "Petter Villegas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "puerto-rico",
+  "teamName": "Puerto Rico",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

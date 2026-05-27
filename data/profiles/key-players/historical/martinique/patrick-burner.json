@@ -1,0 +1,90 @@
+{
+  "firstGoalDate": "2023-06-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1996-04-11",
+    "nationality": "France",
+    "playerKey": "patrick-burner",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "22161",
+      "capology": "patrick-burner-35166",
+      "espn": "241016",
+      "fbref_verified": "8746d5d0",
+      "footballdatabase_eu": "237336",
+      "heimspiel": "459970",
+      "impect": "1698",
+      "kicker": "patrick-burner",
+      "lequipe": "52917",
+      "national_football_teams": "83106",
+      "opta": "blkq1t8y0wnos6jxb0uwowwk5",
+      "skillcorner": "11436",
+      "soccerway": "340853",
+      "sofascore": "846439",
+      "thesportsdb": "34245408",
+      "transfermarkt": "444725",
+      "wikidata": "Q28054147",
+      "worldfootball": "patrick-burner",
+      "wyscout": "328488"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-07-04",
+  "playerKey": "patrick-burner",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-costa-rica-martinique-43408",
+      "matchKey": "2023-07-04-costa-rica-martinique",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Burner"
+    },
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-costa-rica-martinique-43402",
+      "matchKey": "2023-07-04-costa-rica-martinique",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Burner"
+    },
+    {
+      "date": "2023-06-26",
+      "goalId": "goal-2023-06-26-el-salvador-martinique-43347",
+      "matchKey": "2023-06-26-el-salvador-martinique",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Burner"
+    }
+  ],
+  "scorer": "Patrick Burner",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "martinique",
+  "teamName": "Martinique",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

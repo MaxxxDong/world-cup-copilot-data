@@ -1,0 +1,53 @@
+{
+  "firstGoalDate": "2024-06-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2001-03-21",
+    "playerKey": "sak-hassan",
+    "providerIds": {
+      "transfermarkt": "998770",
+      "wikidata": "Q111397026"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-10",
+  "playerKey": "sak-hassan",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-10",
+      "goalId": "goal-2024-06-10-somalia-botswana-44824",
+      "matchKey": "2024-06-10-somalia-botswana",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sak Hassan"
+    }
+  ],
+  "scorer": "Sak Hassan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "somalia",
+  "teamName": "Somalia",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

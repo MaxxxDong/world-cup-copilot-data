@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Kenya"
+  ],
+  "allTime": {
+    "draws": 175,
+    "goalsAgainst": 957,
+    "goalsFor": 977,
+    "losses": 262,
+    "matches": 705,
+    "wins": 268
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 18,
+      "goalsFor": 14,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 30,
+      "goalsFor": 24,
+      "losses": 7,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "kenya",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "grenada",
+      "matchId": "int-2026-03-30-grenada-kenya",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2026-03-27",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-2026-03-27-kenya-estonia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "senegal",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "kenya",
+      "matchId": "int-2025-11-18-kenya-senegal",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "2025-10-14",
+      "homeScore": 3,
+      "homeTeamId": "civ",
+      "matchId": "int-2025-10-14-civ-kenya",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kenya",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "burundi",
+      "matchId": "int-2025-10-09-burundi-kenya",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 95,
+      "goalsAgainst": 466,
+      "goalsFor": 460,
+      "losses": 152,
+      "matches": 393,
+      "wins": 146
+    },
+    "friendly": {
+      "draws": 80,
+      "goalsAgainst": 491,
+      "goalsFor": 517,
+      "losses": 110,
+      "matches": 312,
+      "wins": 122
+    },
+    "neutralVenue": {
+      "draws": 46,
+      "goalsAgainst": 234,
+      "goalsFor": 288,
+      "losses": 61,
+      "matches": 186,
+      "wins": 79
+    },
+    "nonNeutralVenue": {
+      "draws": 129,
+      "goalsAgainst": 723,
+      "goalsFor": 689,
+      "losses": 201,
+      "matches": 519,
+      "wins": 189
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kenya",
+  "teamName": "Kenya",
+  "topScorers": [
+    {
+      "goals": 16,
+      "playerKey": "dennis-oliech",
+      "scorer": "Dennis Oliech"
+    },
+    {
+      "goals": 13,
+      "playerKey": "michael-olunga",
+      "scorer": "Michael Olunga"
+    },
+    {
+      "goals": 6,
+      "playerKey": "mike-okoth-origi",
+      "scorer": "Mike Okoth Origi"
+    },
+    {
+      "goals": 6,
+      "playerKey": "william-ouma",
+      "scorer": "William Ouma"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ryan-ogam",
+      "scorer": "Ryan Ogam"
+    },
+    {
+      "goals": 3,
+      "playerKey": "joe-masiga",
+      "scorer": "Joe Masiga"
+    },
+    {
+      "goals": 3,
+      "playerKey": "johanna-omolo",
+      "scorer": "Johanna Omolo"
+    },
+    {
+      "goals": 3,
+      "playerKey": "john-baraza",
+      "scorer": "John Baraza"
+    },
+    {
+      "goals": 3,
+      "playerKey": "musa-otieno",
+      "scorer": "Musa Otieno"
+    },
+    {
+      "goals": 2,
+      "playerKey": "henry-motego",
+      "scorer": "Henry Motego"
+    }
+  ]
+}

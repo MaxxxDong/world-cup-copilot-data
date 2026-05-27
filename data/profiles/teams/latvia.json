@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Latvia"
+  ],
+  "allTime": {
+    "draws": 110,
+    "goalsAgainst": 762,
+    "goalsFor": 540,
+    "losses": 221,
+    "matches": 459,
+    "wins": 128
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 15,
+      "goalsFor": 5,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 30,
+      "goalsFor": 12,
+      "losses": 10,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2025-11-16-serbia-latvia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2025-11-13-north-macedonia-latvia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "england",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2025-10-14-latvia-england",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "andorra",
+      "date": "2025-10-11",
+      "homeScore": 2,
+      "homeTeamId": "latvia",
+      "matchId": "int-2025-10-11-latvia-andorra",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2025-09-09",
+      "homeScore": 1,
+      "homeTeamId": "albania",
+      "matchId": "int-2025-09-09-albania-latvia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 71,
+      "goalsAgainst": 430,
+      "goalsFor": 322,
+      "losses": 132,
+      "matches": 289,
+      "wins": 86
+    },
+    "friendly": {
+      "draws": 39,
+      "goalsAgainst": 332,
+      "goalsFor": 218,
+      "losses": 89,
+      "matches": 170,
+      "wins": 42
+    },
+    "neutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 63,
+      "goalsFor": 67,
+      "losses": 19,
+      "matches": 54,
+      "wins": 19
+    },
+    "nonNeutralVenue": {
+      "draws": 94,
+      "goalsAgainst": 699,
+      "goalsFor": 473,
+      "losses": 202,
+      "matches": 405,
+      "wins": 109
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "latvia",
+  "teamName": "Latvia",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "m-ris-verpakovskis",
+      "scorer": "Māris Verpakovskis"
+    },
+    {
+      "goals": 11,
+      "playerKey": "juris-laiz-ns",
+      "scorer": "Juris Laizāns"
+    },
+    {
+      "goals": 11,
+      "playerKey": "vit-lijs-astafjevs",
+      "scorer": "Vitālijs Astafjevs"
+    },
+    {
+      "goals": 11,
+      "playerKey": "vladislavs-gutkovskis",
+      "scorer": "Vladislavs Gutkovskis"
+    },
+    {
+      "goals": 10,
+      "playerKey": "aleksandrs-cau-a",
+      "scorer": "Aleksandrs Cauņa"
+    },
+    {
+      "goals": 10,
+      "playerKey": "j-nis-ikaunieks",
+      "scorer": "Jānis Ikaunieks"
+    },
+    {
+      "goals": 9,
+      "playerKey": "riks-p-tersons",
+      "scorer": "Ēriks Pētersons"
+    },
+    {
+      "goals": 9,
+      "playerKey": "marians-pahars",
+      "scorer": "Marians Pahars"
+    },
+    {
+      "goals": 8,
+      "playerKey": "i-ja-vestermans",
+      "scorer": "Iļja Vestermans"
+    },
+    {
+      "goals": 7,
+      "playerKey": "mihails-zem-inskis",
+      "scorer": "Mihails Zemļinskis"
+    }
+  ]
+}

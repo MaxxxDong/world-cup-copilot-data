@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2024-09-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2006-09-28",
+    "nationality": "United Kingdom",
+    "playerKey": "james-scanlon",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "396729",
+      "espn": "358179",
+      "fbref": "b15811c7",
+      "heimspiel": "902529",
+      "impect": "126458",
+      "kicker": "james-scanlon",
+      "opta": "4cisxgp5rqoo05p2ezyauj504",
+      "skillcorner": "827295",
+      "soccerbase": "174458",
+      "soccerway": "830798",
+      "sofascore": "1427135",
+      "thesportsdb": "34242312",
+      "transfermarkt": "1051146",
+      "uefa": "250181149",
+      "wikidata": "Q125064089",
+      "worldfootball": "james-scanlon",
+      "wyscout": "855764"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-09",
+  "playerKey": "james-scanlon",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-09",
+      "goalId": "goal-2025-06-09-faroe-islands-gibraltar-46350",
+      "matchKey": "2025-06-09-faroe-islands-gibraltar",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Scanlon"
+    },
+    {
+      "date": "2024-09-08",
+      "goalId": "goal-2024-09-08-gibraltar-liechtenstein-45278",
+      "matchKey": "2024-09-08-gibraltar-liechtenstein",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Scanlon"
+    }
+  ],
+  "scorer": "James Scanlon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

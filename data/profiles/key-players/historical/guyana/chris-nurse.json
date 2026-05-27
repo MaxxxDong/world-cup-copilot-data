@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2011-10-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-05-07",
+    "nationality": "Guyana",
+    "playerKey": "chris-nurse",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c6a56915",
+      "footballdatabase_eu": "53107",
+      "national_football_teams": "31043",
+      "soccerbase": "41814",
+      "soccerway": "77447",
+      "transfermarkt": "119723",
+      "wikidata": "Q2437145",
+      "worldfootball": "chris-nurse"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-09-11",
+  "playerKey": "chris-nurse",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-09-11",
+      "goalId": "goal-2012-09-11-guyana-el-salvador-32154",
+      "matchKey": "2012-09-11-guyana-el-salvador",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nurse"
+    },
+    {
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-barbados-guyana-31115",
+      "matchKey": "2011-10-07-barbados-guyana",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Nurse"
+    }
+  ],
+  "scorer": "Chris Nurse",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

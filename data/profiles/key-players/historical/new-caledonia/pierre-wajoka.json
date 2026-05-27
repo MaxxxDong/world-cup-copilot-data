@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2004-05-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1978-12-19",
+    "nationality": "France",
+    "playerKey": "pierre-wajoka",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "22142",
+      "national_football_teams": "4715",
+      "sofifa": "213145",
+      "transfermarkt": "75355",
+      "wikidata": "Q1360436",
+      "worldfootball": "pierre-wajoka"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-21",
+  "playerKey": "pierre-wajoka",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-21",
+      "goalId": "goal-2008-06-21-new-caledonia-vanuatu-28166",
+      "matchKey": "2008-06-21-new-caledonia-vanuatu",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Wajoka"
+    },
+    {
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-new-caledonia-fiji-27507",
+      "matchKey": "2007-11-21-new-caledonia-fiji",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pierre Wajoka"
+    },
+    {
+      "date": "2004-05-19",
+      "goalId": "goal-2004-05-19-new-caledonia-tonga-23636",
+      "matchKey": "2004-05-19-new-caledonia-tonga",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Wajoka"
+    },
+    {
+      "date": "2004-05-19",
+      "goalId": "goal-2004-05-19-new-caledonia-tonga-23635",
+      "matchKey": "2004-05-19-new-caledonia-tonga",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Wajoka"
+    },
+    {
+      "date": "2004-05-17",
+      "goalId": "goal-2004-05-17-new-caledonia-cook-islands-23614",
+      "matchKey": "2004-05-17-new-caledonia-cook-islands",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pierre Wajoka"
+    }
+  ],
+  "scorer": "Pierre Wajoka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-caledonia",
+  "teamName": "New Caledonia",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

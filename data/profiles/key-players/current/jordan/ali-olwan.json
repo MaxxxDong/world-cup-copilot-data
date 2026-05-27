@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 9,
+  "identity": {
+    "dateOfBirth": "2000-03-26",
+    "nationality": "Jordan",
+    "playerKey": "ali-olwan",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "164026",
+      "fbref": "33c1d68d",
+      "footballdatabase_eu": "396942",
+      "impect": "79758",
+      "kicker": "ali-iyad-ali-olwan",
+      "national_football_teams": "80403",
+      "soccerway": "576375",
+      "sofascore": "980728",
+      "thesportsdb": "34228977",
+      "transfermarkt": "664057",
+      "wikidata": "Q107130635",
+      "worldfootball": "ali-olwan",
+      "wyscout": "589673"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ali Olwan",
+  "playerKey": "ali-olwan",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-oman-jordan-46246",
+      "matchKey": "2025-06-05-oman-jordan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-oman-jordan-46245",
+      "matchKey": "2025-06-05-oman-jordan",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-oman-jordan-46244",
+      "matchKey": "2025-06-05-oman-jordan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-jordan-oman-45562",
+      "matchKey": "2024-10-15-jordan-oman",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-jordan-oman-45560",
+      "matchKey": "2024-10-15-jordan-oman",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-saudi-arabia-jordan-44908",
+      "matchKey": "2024-06-11-saudi-arabia-jordan",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-jordan-tajikistan-44660",
+      "matchKey": "2024-06-06-jordan-tajikistan",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-jordan-pakistan-44546",
+      "matchKey": "2024-03-26-jordan-pakistan",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Olwan"
+    },
+    {
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-pakistan-jordan-44484",
+      "matchKey": "2024-03-21-pakistan-jordan",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Olwan"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/jordan"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "jordan",
+  "teamName": "Jordan"
+}

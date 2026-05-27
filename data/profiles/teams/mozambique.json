@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Mozambique"
+  ],
+  "allTime": {
+    "draws": 95,
+    "goalsAgainst": 484,
+    "goalsFor": 387,
+    "losses": 161,
+    "matches": 374,
+    "wins": 118
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 18,
+      "goalsFor": 10,
+      "losses": 6,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 31,
+      "goalsFor": 24,
+      "losses": 9,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "2026-01-05",
+      "homeScore": 4,
+      "homeTeamId": "nigeria",
+      "matchId": "int-2026-01-05-nigeria-mozambique",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cameroon",
+      "date": "2025-12-31",
+      "homeScore": 1,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2025-12-31-mozambique-cameroon",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mozambique",
+      "date": "2025-12-28",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2025-12-28-gabon-mozambique",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "2025-12-24",
+      "homeScore": 1,
+      "homeTeamId": "civ",
+      "matchId": "int-2025-12-24-civ-mozambique",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "chad",
+      "date": "2025-11-17",
+      "homeScore": 2,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2025-11-17-mozambique-chad",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 61,
+      "goalsAgainst": 320,
+      "goalsFor": 250,
+      "losses": 106,
+      "matches": 246,
+      "wins": 79
+    },
+    "friendly": {
+      "draws": 34,
+      "goalsAgainst": 164,
+      "goalsFor": 137,
+      "losses": 55,
+      "matches": 128,
+      "wins": 39
+    },
+    "neutralVenue": {
+      "draws": 20,
+      "goalsAgainst": 117,
+      "goalsFor": 72,
+      "losses": 41,
+      "matches": 84,
+      "wins": 23
+    },
+    "nonNeutralVenue": {
+      "draws": 75,
+      "goalsAgainst": 367,
+      "goalsFor": 315,
+      "losses": 120,
+      "matches": 290,
+      "wins": 95
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "mozambique",
+  "teamName": "Mozambique",
+  "topScorers": [
+    {
+      "goals": 8,
+      "playerKey": "geny-catamo",
+      "scorer": "Geny Catamo"
+    },
+    {
+      "goals": 5,
+      "playerKey": "d-rio-monteiro",
+      "scorer": "Dário Monteiro"
+    },
+    {
+      "goals": 5,
+      "playerKey": "tico-tico",
+      "scorer": "Tico-Tico"
+    },
+    {
+      "goals": 3,
+      "playerKey": "almiro-lobo",
+      "scorer": "Almiro Lobo"
+    },
+    {
+      "goals": 3,
+      "playerKey": "cl-sio",
+      "scorer": "Clésio"
+    },
+    {
+      "goals": 3,
+      "playerKey": "domingues",
+      "scorer": "Domingues"
+    },
+    {
+      "goals": 3,
+      "playerKey": "stanley-ratifo",
+      "scorer": "Stanley Ratifo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "faisal-bangal",
+      "scorer": "Faisal Bangal"
+    },
+    {
+      "goals": 2,
+      "playerKey": "gil-guiambe",
+      "scorer": "Gil Guiambe"
+    },
+    {
+      "goals": 2,
+      "playerKey": "pepo-santos",
+      "scorer": "Pepo Santos"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "1995-10-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1973-07-27",
+    "nationality": "San Marino",
+    "playerKey": "mauro-valentini",
+    "position": "defender",
+    "providerIds": {
+      "eu_football_info": "21655",
+      "footballdatabase_eu": "90450",
+      "national_football_teams": "18279",
+      "soccerway": "223466",
+      "transfermarkt": "173433",
+      "uefa": "12869",
+      "wikidata": "Q3852945"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1995-10-11",
+  "playerKey": "mauro-valentini",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1995-10-11",
+      "goalId": "goal-1995-10-11-san-marino-faroe-islands-15628",
+      "matchKey": "1995-10-11-san-marino-faroe-islands",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mauro Valentini"
+    }
+  ],
+  "scorer": "Mauro Valentini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "san-marino",
+  "teamName": "San Marino",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

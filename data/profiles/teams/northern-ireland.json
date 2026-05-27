@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Northern Ireland"
+  ],
+  "allTime": {
+    "draws": 160,
+    "goalsAgainst": 1293,
+    "goalsFor": 739,
+    "losses": 361,
+    "matches": 705,
+    "wins": 184
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 10,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 25,
+      "goalsFor": 26,
+      "losses": 8,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "wales",
+      "matchId": "int-2026-03-31-wales-northern-ireland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "italy",
+      "matchId": "int-2026-03-26-italy-northern-ireland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2025-11-17-northern-ireland-luxembourg",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "2025-11-14",
+      "homeScore": 1,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2025-11-14-slovakia-northern-ireland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "germany",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2025-10-13-northern-ireland-germany",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 123,
+      "goalsAgainst": 1084,
+      "goalsFor": 610,
+      "losses": 301,
+      "matches": 572,
+      "wins": 148
+    },
+    "friendly": {
+      "draws": 37,
+      "goalsAgainst": 209,
+      "goalsFor": 129,
+      "losses": 60,
+      "matches": 133,
+      "wins": 36
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 58,
+      "goalsFor": 35,
+      "losses": 20,
+      "matches": 38,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 150,
+      "goalsAgainst": 1235,
+      "goalsFor": 704,
+      "losses": 341,
+      "matches": 667,
+      "wins": 176
+    },
+    "worldCup": {
+      "draws": 5,
+      "goalsAgainst": 23,
+      "goalsFor": 13,
+      "losses": 5,
+      "matches": 13,
+      "wins": 3
+    }
+  },
+  "teamId": "northern-ireland",
+  "teamName": "Northern Ireland",
+  "topScorers": [
+    {
+      "goals": 22,
+      "playerKey": "david-healy",
+      "scorer": "David Healy"
+    },
+    {
+      "goals": 15,
+      "playerKey": "kyle-lafferty",
+      "scorer": "Kyle Lafferty"
+    },
+    {
+      "goals": 11,
+      "playerKey": "gerry-armstrong",
+      "scorer": "Gerry Armstrong"
+    },
+    {
+      "goals": 11,
+      "playerKey": "iain-dowie",
+      "scorer": "Iain Dowie"
+    },
+    {
+      "goals": 11,
+      "playerKey": "josh-magennis",
+      "scorer": "Josh Magennis"
+    },
+    {
+      "goals": 10,
+      "playerKey": "colin-clarke",
+      "scorer": "Colin Clarke"
+    },
+    {
+      "goals": 10,
+      "playerKey": "steven-davis",
+      "scorer": "Steven Davis"
+    },
+    {
+      "goals": 9,
+      "playerKey": "gareth-mcauley",
+      "scorer": "Gareth McAuley"
+    },
+    {
+      "goals": 9,
+      "playerKey": "jimmy-quinn",
+      "scorer": "Jimmy Quinn"
+    },
+    {
+      "goals": 7,
+      "playerKey": "george-best",
+      "scorer": "George Best"
+    }
+  ]
+}

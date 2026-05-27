@@ -1,0 +1,90 @@
+{
+  "firstGoalDate": "2018-11-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "2000-03-13",
+    "nationality": "United Kingdom",
+    "playerKey": "tjay-de-barr",
+    "position": "centre-forward",
+    "providerIds": {
+      "api_football": "55935",
+      "eu_football_info": "30225",
+      "fbref": "bd44949d",
+      "footballdatabase_eu": "392356",
+      "heimspiel": "447886",
+      "impect": "29946",
+      "kicker": "tjay-de-barr",
+      "national_football_teams": "70871",
+      "opta": "cxfq8o3k68x1acwci3wx812w9",
+      "skillcorner": "17820",
+      "soccerway": "427675",
+      "sofascore": "876680",
+      "sofifa": "400000015",
+      "thesportsdb": "34193809",
+      "transfermarkt": "376663",
+      "uefa": "250091572",
+      "wikidata": "Q50936059",
+      "worldfootball": "tjay-de-barr",
+      "wyscout": "406222"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-09-01",
+  "playerKey": "tjay-de-barr",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-09-01",
+      "goalId": "goal-2021-09-01-latvia-gibraltar-41110",
+      "matchKey": "2021-09-01-latvia-gibraltar",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tjay De Barr"
+    },
+    {
+      "date": "2020-10-10",
+      "goalId": "goal-2020-10-10-liechtenstein-gibraltar-39767",
+      "matchKey": "2020-10-10-liechtenstein-gibraltar",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tjay De Barr"
+    },
+    {
+      "date": "2018-11-16",
+      "goalId": "goal-2018-11-16-gibraltar-armenia-37941",
+      "matchKey": "2018-11-16-gibraltar-armenia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tjay De Barr"
+    }
+  ],
+  "scorer": "Tjay De Barr",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 15,
+  "identity": {
+    "dateOfBirth": "1957-02-28",
+    "nationality": "Belgium",
+    "playerKey": "jan-ceulemans",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "3396",
+      "fbref": "f9d0b8ea",
+      "flashscore": "ceulemans-jan/Meohzn03",
+      "footballdatabase_eu": "16495",
+      "kicker": "jan-ceulemans",
+      "national_football_teams": "14846",
+      "soccerway": "114536",
+      "sofascore": "1420019",
+      "sofifa": "43988",
+      "transfermarkt": "118147",
+      "uefa": "669",
+      "wikidata": "Q312618"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jan Ceulemans",
+  "playerKey": "jan-ceulemans",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1991-02-27",
+      "goalId": "goal-1991-02-27-belgium-luxembourg-12723",
+      "matchKey": "1991-02-27-belgium-luxembourg",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1990-06-17",
+      "goalId": "goal-1990-06-17-belgium-uruguay-12520",
+      "matchKey": "1990-06-17-belgium-uruguay",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1989-09-06",
+      "goalId": "goal-1989-09-06-belgium-portugal-12283",
+      "matchKey": "1989-09-06-belgium-portugal",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1987-11-11",
+      "goalId": "goal-1987-11-11-belgium-luxembourg-11555",
+      "matchKey": "1987-11-11-belgium-luxembourg",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1986-10-14",
+      "goalId": "goal-1986-10-14-luxembourg-belgium-11298",
+      "matchKey": "1986-10-14-luxembourg-belgium",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1986-06-28",
+      "goalId": "goal-1986-06-28-fra-belgium-11265",
+      "matchKey": "1986-06-28-fra-belgium",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1986-06-22",
+      "goalId": "goal-1986-06-22-spain-belgium-11259",
+      "matchKey": "1986-06-22-spain-belgium",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1986-06-15",
+      "goalId": "goal-1986-06-15-russia-belgium-11233",
+      "matchKey": "1986-06-15-russia-belgium",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1984-06-19",
+      "goalId": "goal-1984-06-19-denmark-belgium-10279",
+      "matchKey": "1984-06-19-denmark-belgium",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "date": "1983-04-27",
+      "goalId": "goal-1983-04-27-belgium-german-dr-9978",
+      "matchKey": "1983-04-27-belgium-german-dr",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Ceulemans"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/belgium"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "belgium",
+  "teamName": "Belgium"
+}

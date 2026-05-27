@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1996-05-22",
+    "nationality": "Myanmar",
+    "playerKey": "aung-thu",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "49386",
+      "fbref": "f9135e4a",
+      "footballdatabase_eu": "249493",
+      "national_football_teams": "60244",
+      "soccerway": "382677",
+      "sofascore": "812950",
+      "thesportsdb": "34246606",
+      "transfermarkt": "352508",
+      "wikidata": "Q17627767",
+      "worldfootball": "thu-aung"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-14",
+  "playerKey": "aung-thu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-myanmar-tajikistan-39400",
+      "matchKey": "2019-11-14-myanmar-tajikistan",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aung Thu"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-lebanon-myanmar-35673",
+      "matchKey": "2016-03-29-lebanon-myanmar",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aung Thu"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-myanmar-laos-35207",
+      "matchKey": "2015-10-13-myanmar-laos",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aung Thu"
+    }
+  ],
+  "scorer": "Aung Thu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

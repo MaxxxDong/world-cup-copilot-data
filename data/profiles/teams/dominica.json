@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Dominica"
+  ],
+  "allTime": {
+    "draws": 46,
+    "goalsAgainst": 436,
+    "goalsFor": 250,
+    "losses": 117,
+    "matches": 215,
+    "wins": 52
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 18,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 41,
+      "goalsFor": 22,
+      "losses": 10,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 3,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "sint-maarten",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "dominica",
+      "matchId": "int-2026-03-30-dominica-sint-maarten",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "guyana",
+      "matchId": "int-2026-03-27-guyana-dominica",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sint-maarten",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "dominica",
+      "matchId": "int-2025-11-15-dominica-sint-maarten",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saint-martin",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "dominica",
+      "matchId": "int-2025-11-12-dominica-saint-martin",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2025-06-10",
+      "homeScore": 5,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2025-06-10-dominican-republic-dominica",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 41,
+      "goalsAgainst": 358,
+      "goalsFor": 198,
+      "losses": 95,
+      "matches": 172,
+      "wins": 36
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 78,
+      "goalsFor": 52,
+      "losses": 22,
+      "matches": 43,
+      "wins": 16
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 143,
+      "goalsFor": 87,
+      "losses": 36,
+      "matches": 71,
+      "wins": 14
+    },
+    "nonNeutralVenue": {
+      "draws": 25,
+      "goalsAgainst": 293,
+      "goalsFor": 163,
+      "losses": 81,
+      "matches": 144,
+      "wins": 38
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "dominica",
+  "teamName": "Dominica",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "audel-laville",
+      "scorer": "Audel Laville"
+    },
+    {
+      "goals": 3,
+      "playerKey": "vincent-casimir",
+      "scorer": "Vincent Casimir"
+    },
+    {
+      "goals": 2,
+      "playerKey": "julian-wade",
+      "scorer": "Julian Wade"
+    },
+    {
+      "goals": 2,
+      "playerKey": "troy-jules",
+      "scorer": "Troy Jules"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anthony-dominique",
+      "scorer": "Anthony Dominique"
+    },
+    {
+      "goals": 1,
+      "playerKey": "briel-thomas",
+      "scorer": "Briel Thomas"
+    },
+    {
+      "goals": 1,
+      "playerKey": "chad-bertrand",
+      "scorer": "Chad Bertrand"
+    },
+    {
+      "goals": 1,
+      "playerKey": "george-dangler",
+      "scorer": "George Dangler"
+    },
+    {
+      "goals": 1,
+      "playerKey": "glensworth-elizee",
+      "scorer": "Glensworth Elizee"
+    },
+    {
+      "goals": 1,
+      "playerKey": "javid-george",
+      "scorer": "Javid George"
+    }
+  ]
+}

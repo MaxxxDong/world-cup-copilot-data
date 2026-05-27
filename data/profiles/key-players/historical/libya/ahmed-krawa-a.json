@@ -1,0 +1,64 @@
+{
+  "firstGoalDate": "2023-11-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-04-21",
+    "nationality": "Libya",
+    "playerKey": "ahmed-krawa-a",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "39981",
+      "wikidata": "Q4695892"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-06",
+  "playerKey": "ahmed-krawa-a",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-libya-mauritius-44667",
+      "matchKey": "2024-06-06-libya-mauritius",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Krawa'a"
+    },
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-eswatini-libya-43947",
+      "matchKey": "2023-11-17-eswatini-libya",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Krawa'a"
+    }
+  ],
+  "scorer": "Ahmed Krawa'a",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2011-09-18",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1992-12-19",
+    "nationality": "Saint Vincent and the Grenadines",
+    "playerKey": "myron-samuel",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "eb347e19",
+      "footballdatabase_eu": "53319",
+      "national_football_teams": "27631",
+      "soccerway": "122919",
+      "sofifa": "347759",
+      "transfermarkt": "210905",
+      "wikidata": "Q1125905"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-03-25",
+  "playerKey": "myron-samuel",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-03-25",
+      "goalId": "goal-2016-03-25-saint-vincent-and-the-grenadines-trinidad-and-tobago-35635",
+      "matchKey": "2016-03-25-saint-vincent-and-the-grenadines-trinidad-and-tobago",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Myron Samuel"
+    },
+    {
+      "date": "2015-06-14",
+      "goalId": "goal-2015-06-14-guyana-saint-vincent-and-the-grenadines-34465",
+      "matchKey": "2015-06-14-guyana-saint-vincent-and-the-grenadines",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Myron Samuel"
+    },
+    {
+      "date": "2011-10-15",
+      "goalId": "goal-2011-10-15-grenada-saint-vincent-and-the-grenadines-31365",
+      "matchKey": "2011-10-15-grenada-saint-vincent-and-the-grenadines",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Myron Samuel"
+    },
+    {
+      "date": "2011-09-18",
+      "goalId": "goal-2011-09-18-saint-vincent-and-the-grenadines-grenada-31094",
+      "matchKey": "2011-09-18-saint-vincent-and-the-grenadines-grenada",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Myron Samuel"
+    }
+  ],
+  "scorer": "Myron Samuel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-vincent-and-the-grenadines",
+  "teamName": "Saint Vincent and the Grenadines",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2011-07-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-10-25",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "frederick-gomez",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "9fd4e040",
+      "footballdatabase_eu": "47216",
+      "national_football_teams": "390",
+      "soccerway": "195406",
+      "transfermarkt": "216858",
+      "wikidata": "Q5497870"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-12",
+  "playerKey": "frederick-gomez",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30698",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frederick Gomez"
+    },
+    {
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-aruba-saint-lucia-30665",
+      "matchKey": "2011-07-08-aruba-saint-lucia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frederick Gomez"
+    }
+  ],
+  "scorer": "Frederick Gomez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2019-06-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1985-03-30",
+    "nationality": "Portugal",
+    "playerKey": "filipe-duarte",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "164506",
+      "fbref": "e16e3d6e",
+      "footballdatabase_eu": "286872",
+      "national_football_teams": "63758",
+      "soccerway": "197374",
+      "sofascore": "992838",
+      "thesportsdb": "34253178",
+      "transfermarkt": "44219",
+      "wikidata": "Q17489870"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-06",
+  "playerKey": "filipe-duarte",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-macau-sri-lanka-38338",
+      "matchKey": "2019-06-06-macau-sri-lanka",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Filipe Duarte"
+    }
+  ],
+  "scorer": "Filipe Duarte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "macau",
+  "teamName": "Macau",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

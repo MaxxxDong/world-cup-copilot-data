@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Northern Cyprus"
+  ],
+  "allTime": {
+    "draws": 7,
+    "goalsAgainst": 31,
+    "goalsFor": 98,
+    "losses": 7,
+    "matches": 34,
+    "wins": 20
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 8,
+      "goalsFor": 28,
+      "losses": 0,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 16,
+      "goalsFor": 60,
+      "losses": 3,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 16,
+      "losses": 0,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "karpatalja",
+      "date": "2018-06-09",
+      "homeScore": 0,
+      "homeTeamId": "northern-cyprus",
+      "matchId": "int-2018-06-09-northern-cyprus-karpatalja",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "padania",
+      "date": "2018-06-07",
+      "homeScore": 3,
+      "homeTeamId": "northern-cyprus",
+      "matchId": "int-2018-06-07-northern-cyprus-padania",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "northern-cyprus",
+      "date": "2018-06-05",
+      "homeScore": 0,
+      "homeTeamId": "barawa",
+      "matchId": "int-2018-06-05-barawa-northern-cyprus",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "northern-cyprus",
+      "date": "2018-06-03",
+      "homeScore": 2,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2018-06-03-abkhazia-northern-cyprus",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tibet",
+      "date": "2018-06-02",
+      "homeScore": 3,
+      "homeTeamId": "northern-cyprus",
+      "matchId": "int-2018-06-02-northern-cyprus-tibet",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 19,
+      "goalsFor": 94,
+      "losses": 3,
+      "matches": 29,
+      "wins": 19
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 5,
+      "goalsAgainst": 13,
+      "goalsFor": 45,
+      "losses": 2,
+      "matches": 17,
+      "wins": 10
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 18,
+      "goalsFor": 53,
+      "losses": 5,
+      "matches": 17,
+      "wins": 10
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "northern-cyprus",
+  "teamName": "Northern Cyprus",
+  "topScorers": []
+}

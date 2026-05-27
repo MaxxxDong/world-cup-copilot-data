@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 24,
+  "identity": {
+    "dateOfBirth": "1979-07-15",
+    "nationality": "Switzerland",
+    "playerKey": "alexander-frei",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "6268",
+      "fbref": "ca05e048",
+      "footballdatabase_eu": "864",
+      "german_fa": "alexander-frei",
+      "impect": "42756",
+      "kicker": "alexander-frei",
+      "national_football_teams": "6416",
+      "soccerway": "223",
+      "sofascore": "1422655",
+      "sofifa": "182647",
+      "transfermarkt": "4977",
+      "uefa": "31840",
+      "wikidata": "Q193024",
+      "worldfootball": "alexander-frei"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Alexander Frei",
+  "playerKey": "alexander-frei",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-latvia-switzerland-29512",
+      "matchKey": "2009-09-09-latvia-switzerland",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2009-04-01",
+      "goalId": "goal-2009-04-01-switzerland-moldova-29047",
+      "matchKey": "2009-04-01-switzerland-moldova",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-moldova-switzerland-28908",
+      "matchKey": "2009-03-28-moldova-switzerland",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2008-10-15",
+      "goalId": "goal-2008-10-15-greece-switzerland-28767",
+      "matchKey": "2008-10-15-greece-switzerland",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-switzerland-latvia-28669",
+      "matchKey": "2008-10-11-switzerland-latvia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2006-06-23",
+      "goalId": "goal-2006-06-23-switzerland-south-korea-26199",
+      "matchKey": "2006-06-23-switzerland-south-korea",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2006-06-19",
+      "goalId": "goal-2006-06-19-togo-switzerland-26159",
+      "matchKey": "2006-06-19-togo-switzerland",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2005-11-16",
+      "goalId": "goal-2005-11-16-turkey-switzerland-26007",
+      "matchKey": "2005-11-16-turkey-switzerland",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2005-09-07",
+      "goalId": "goal-2005-09-07-cyprus-switzerland-25753",
+      "matchKey": "2005-09-07-cyprus-switzerland",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    },
+    {
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-switzerland-israel-25664",
+      "matchKey": "2005-09-03-switzerland-israel",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Frei"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/switzerland"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "switzerland",
+  "teamName": "Switzerland"
+}

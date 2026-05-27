@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1989-08-21",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "charlison-benschop",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "37241",
+      "espn": "122797",
+      "fbref": "fc93fdf1",
+      "footballdatabase_eu": "70462",
+      "german_fa": "137569",
+      "heimspiel": "137569",
+      "impect": "1507",
+      "kicker": "charlison-benschop",
+      "national_football_teams": "69197",
+      "opta": "cipmd3k2nfv0ddic0l8go14gl",
+      "skillcorner": "1756",
+      "soccerway": "49374",
+      "sofascore": "40608",
+      "thesportsdb": "34250356",
+      "transfermarkt": "66783",
+      "wikidata": "Q44718",
+      "worldfootball": "charlison-benschop",
+      "wyscout": "91"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Charlison Benschop",
+  "playerKey": "charlison-benschop",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-british-virgin-islands-curacao-40554",
+      "matchKey": "2021-06-05-british-virgin-islands-curacao",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlison Benschop"
+    },
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-british-virgin-islands-curacao-40553",
+      "matchKey": "2021-06-05-british-virgin-islands-curacao",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Charlison Benschop"
+    },
+    {
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-cuba-curacao-40252",
+      "matchKey": "2021-03-28-cuba-curacao",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlison Benschop"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/curacao"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

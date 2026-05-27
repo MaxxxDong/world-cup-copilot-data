@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Slovakia"
+  ],
+  "allTime": {
+    "draws": 85,
+    "goalsAgainst": 455,
+    "goalsFor": 514,
+    "losses": 132,
+    "matches": 365,
+    "wins": 148
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 17,
+      "goalsFor": 12,
+      "losses": 5,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 26,
+      "goalsFor": 24,
+      "losses": 8,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2026-03-31-slovakia-romania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "kosovo",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2026-03-26-slovakia-kosovo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovakia",
+      "date": "2025-11-17",
+      "homeScore": 6,
+      "homeTeamId": "germany",
+      "matchId": "int-2025-11-17-germany-slovakia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "2025-11-14",
+      "homeScore": 1,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2025-11-14-slovakia-northern-ireland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "2025-10-13",
+      "homeScore": 2,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2025-10-13-slovakia-luxembourg",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 42,
+      "goalsAgainst": 260,
+      "goalsFor": 324,
+      "losses": 80,
+      "matches": 220,
+      "wins": 98
+    },
+    "friendly": {
+      "draws": 43,
+      "goalsAgainst": 195,
+      "goalsFor": 190,
+      "losses": 52,
+      "matches": 145,
+      "wins": 50
+    },
+    "neutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 56,
+      "goalsFor": 50,
+      "losses": 20,
+      "matches": 47,
+      "wins": 14
+    },
+    "nonNeutralVenue": {
+      "draws": 72,
+      "goalsAgainst": 399,
+      "goalsFor": 464,
+      "losses": 112,
+      "matches": 318,
+      "wins": 134
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    }
+  },
+  "teamId": "slovakia",
+  "teamName": "Slovakia",
+  "topScorers": [
+    {
+      "goals": 19,
+      "playerKey": "marek-ham-k",
+      "scorer": "Marek Hamšík"
+    },
+    {
+      "goals": 14,
+      "playerKey": "r-bert-vittek",
+      "scorer": "Róbert Vittek"
+    },
+    {
+      "goals": 13,
+      "playerKey": "szil-rd-n-meth",
+      "scorer": "Szilárd Németh"
+    },
+    {
+      "goals": 11,
+      "playerKey": "ondrej-duda",
+      "scorer": "Ondrej Duda"
+    },
+    {
+      "goals": 10,
+      "playerKey": "r-bert-mak",
+      "scorer": "Róbert Mak"
+    },
+    {
+      "goals": 9,
+      "playerKey": "juraj-kucka",
+      "scorer": "Juraj Kucka"
+    },
+    {
+      "goals": 9,
+      "playerKey": "marek-mint-l",
+      "scorer": "Marek Mintál"
+    },
+    {
+      "goals": 9,
+      "playerKey": "miroslav-karhan",
+      "scorer": "Miroslav Karhan"
+    },
+    {
+      "goals": 9,
+      "playerKey": "stanislav-est-k",
+      "scorer": "Stanislav Šesták"
+    },
+    {
+      "goals": 8,
+      "playerKey": "adam-nemec",
+      "scorer": "Adam Nemec"
+    }
+  ]
+}

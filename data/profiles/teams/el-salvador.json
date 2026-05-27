@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "El Salvador"
+  ],
+  "allTime": {
+    "draws": 137,
+    "goalsAgainst": 932,
+    "goalsFor": 766,
+    "losses": 275,
+    "matches": 612,
+    "wins": 200
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 5,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 25,
+      "goalsFor": 22,
+      "losses": 8,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "el-salvador",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "martinique",
+      "matchId": "int-2026-03-29-martinique-el-salvador",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "el-salvador",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2026-03-26-dominican-republic-el-salvador",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "el-salvador",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "panama",
+      "matchId": "int-2025-11-18-panama-el-salvador",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "el-salvador",
+      "date": "2025-11-13",
+      "homeScore": 4,
+      "homeTeamId": "suriname",
+      "matchId": "int-2025-11-13-suriname-el-salvador",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guatemala",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "el-salvador",
+      "matchId": "int-2025-10-14-el-salvador-guatemala",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 72,
+      "goalsAgainst": 558,
+      "goalsFor": 561,
+      "losses": 155,
+      "matches": 375,
+      "wins": 148
+    },
+    "friendly": {
+      "draws": 65,
+      "goalsAgainst": 374,
+      "goalsFor": 205,
+      "losses": 120,
+      "matches": 237,
+      "wins": 52
+    },
+    "neutralVenue": {
+      "draws": 59,
+      "goalsAgainst": 368,
+      "goalsFor": 252,
+      "losses": 110,
+      "matches": 239,
+      "wins": 70
+    },
+    "nonNeutralVenue": {
+      "draws": 78,
+      "goalsAgainst": 564,
+      "goalsFor": 514,
+      "losses": 165,
+      "matches": 373,
+      "wins": 130
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 22,
+      "goalsFor": 1,
+      "losses": 6,
+      "matches": 6,
+      "wins": 0
+    }
+  },
+  "teamId": "el-salvador",
+  "teamName": "El Salvador",
+  "topScorers": [
+    {
+      "goals": 20,
+      "playerKey": "ra-l-d-az-arce",
+      "scorer": "Raúl Díaz Arce"
+    },
+    {
+      "goals": 15,
+      "playerKey": "rodolfo-zelaya",
+      "scorer": "Rodolfo Zelaya"
+    },
+    {
+      "goals": 11,
+      "playerKey": "osael-romero",
+      "scorer": "Osael Romero"
+    },
+    {
+      "goals": 10,
+      "playerKey": "nelson-bonilla",
+      "scorer": "Nelson Bonilla"
+    },
+    {
+      "goals": 9,
+      "playerKey": "eduardo-volkswagen-hern-ndez",
+      "scorer": "Eduardo \"Volkswagen\" Hernández"
+    },
+    {
+      "goals": 8,
+      "playerKey": "david-rugamas",
+      "scorer": "David Rugamas"
+    },
+    {
+      "goals": 8,
+      "playerKey": "rudis-corrales",
+      "scorer": "Rudis Corrales"
+    },
+    {
+      "goals": 7,
+      "playerKey": "eliseo-quintanilla",
+      "scorer": "Eliseo Quintanilla"
+    },
+    {
+      "goals": 7,
+      "playerKey": "juan-ram-n-mart-nez",
+      "scorer": "Juan Ramón Martínez"
+    },
+    {
+      "goals": 7,
+      "playerKey": "m-gico-gonz-lez",
+      "scorer": "Mágico González"
+    }
+  ]
+}

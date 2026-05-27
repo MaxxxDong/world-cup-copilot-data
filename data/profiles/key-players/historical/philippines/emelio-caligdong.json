@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2011-07-03",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1982-09-28",
+    "nationality": "Philippines",
+    "playerKey": "emelio-caligdong",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "046bec3f",
+      "footballdatabase_eu": "67115",
+      "national_football_teams": "9861",
+      "soccerway": "120308",
+      "sofifa": "345359",
+      "transfermarkt": "141591",
+      "wikidata": "Q5370364"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-03",
+  "playerKey": "emelio-caligdong",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-philippines-sri-lanka-30643",
+      "matchKey": "2011-07-03-philippines-sri-lanka",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emelio Caligdong"
+    }
+  ],
+  "scorer": "Emelio Caligdong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "philippines",
+  "teamName": "Philippines",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

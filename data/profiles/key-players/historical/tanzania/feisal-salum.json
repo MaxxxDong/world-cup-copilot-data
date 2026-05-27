@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2021-09-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1998-01-11",
+    "nationality": "Tanzania",
+    "playerKey": "feisal-salum",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "3217",
+      "fbref": "939e79e2",
+      "footballdatabase_eu": "352965",
+      "impect": "100615",
+      "kicker": "feisal-salum",
+      "lequipe": "75745",
+      "national_football_teams": "69629",
+      "soccerway": "542510",
+      "sofascore": "985961",
+      "thesportsdb": "34419477",
+      "transfermarkt": "575338",
+      "wikidata": "Q64853183",
+      "worldfootball": "feisal-salum",
+      "wyscout": "563772"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-12-30",
+  "playerKey": "feisal-salum",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-12-30",
+      "goalId": "goal-2025-12-30-tanzania-tunisia-47503",
+      "matchKey": "2025-12-30-tanzania-tunisia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Feisal Salum"
+    },
+    {
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-tanzania-madagascar-41401",
+      "matchKey": "2021-09-07-tanzania-madagascar",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Feisal Salum"
+    }
+  ],
+  "scorer": "Feisal Salum",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tanzania",
+  "teamName": "Tanzania",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

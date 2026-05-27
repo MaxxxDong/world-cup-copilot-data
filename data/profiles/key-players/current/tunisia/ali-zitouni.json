@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 8,
+  "identity": {
+    "dateOfBirth": "1981-01-11",
+    "nationality": "Tunisia",
+    "playerKey": "ali-zitouni",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "936c0d9f",
+      "footballdatabase_eu": "5268",
+      "kicker": "ali-zitouni",
+      "national_football_teams": "6723",
+      "soccerway": "1196",
+      "sofascore": "14764",
+      "sofifa": "177507",
+      "transfermarkt": "37858",
+      "wikidata": "Q918983",
+      "worldfootball": "ali-zitouni"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ali Zitouni",
+  "playerKey": "ali-zitouni",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2004-06-05",
+      "goalId": "goal-2004-06-05-tunisia-botswana-23729",
+      "matchKey": "2004-06-05-tunisia-botswana",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2001-07-01",
+      "goalId": "goal-2001-07-01-tunisia-congo-21525",
+      "matchKey": "2001-07-01-tunisia-congo",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2001-05-05",
+      "goalId": "goal-2001-05-05-madagascar-tunisia-21075",
+      "matchKey": "2001-05-05-madagascar-tunisia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2001-02-25",
+      "goalId": "goal-2001-02-25-tunisia-dr-congo-20464",
+      "matchKey": "2001-02-25-tunisia-dr-congo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2001-02-25",
+      "goalId": "goal-2001-02-25-tunisia-dr-congo-20459",
+      "matchKey": "2001-02-25-tunisia-dr-congo",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-congo-tunisia-20362",
+      "matchKey": "2001-01-28-congo-tunisia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2000-02-12",
+      "goalId": "goal-2000-02-12-rsa-tunisia-19272",
+      "matchKey": "2000-02-12-rsa-tunisia",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "date": "2000-02-12",
+      "goalId": "goal-2000-02-12-rsa-tunisia-19270",
+      "matchKey": "2000-02-12-rsa-tunisia",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Zitouni"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/tunisia"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

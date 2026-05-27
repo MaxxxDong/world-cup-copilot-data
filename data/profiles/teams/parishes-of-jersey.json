@@ -1,0 +1,148 @@
+{
+  "aliases": [
+    "Parishes of Jersey"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 4,
+    "goalsFor": 11,
+    "losses": 1,
+    "matches": 3,
+    "wins": 2
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "chagos-islands",
+      "date": "2019-06-02",
+      "homeScore": 9,
+      "homeTeamId": "parishes-of-jersey",
+      "matchId": "int-2019-06-02-parishes-of-jersey-chagos-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Atlantic Heritage Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "parishes-of-jersey",
+      "date": "2019-06-01",
+      "homeScore": 1,
+      "homeTeamId": "yorkshire",
+      "matchId": "int-2019-06-01-yorkshire-parishes-of-jersey",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Atlantic Heritage Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "yorkshire",
+      "date": "2018-10-21",
+      "homeScore": 2,
+      "homeTeamId": "parishes-of-jersey",
+      "matchId": "int-2018-10-21-parishes-of-jersey-yorkshire",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 9,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "parishes-of-jersey",
+  "teamName": "Parishes of Jersey",
+  "topScorers": []
+}

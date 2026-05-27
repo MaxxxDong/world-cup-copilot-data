@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 121,
+  "identity": {
+    "dateOfBirth": "1985-02-05",
+    "nationality": "Portugal",
+    "playerKey": "cristiano-ronaldo",
+    "position": "wing half",
+    "providerIds": {
+      "11v11": "20426",
+      "api_football": "874",
+      "besoccer": "28185",
+      "capology": "cristiano-ronaldo-31083",
+      "dongqiudi": "50000356",
+      "espn": "22774",
+      "eu_football_info": "24753",
+      "fbref": "dea698d9",
+      "flashscore": "ronaldo-cristiano/WGOY4FSt",
+      "footballdatabase_eu": "2058",
+      "heimspiel": "18623",
+      "hugman": "17096",
+      "impect": "313",
+      "kicker": "cristiano-ronaldo",
+      "lequipe": "19316",
+      "national_football_teams": "5279",
+      "opta": "h17s3qts1dz1zqjw19jazzkl",
+      "opta_numeric": "14937",
+      "premier_league": "2522",
+      "skillcorner": "2073",
+      "soccerbase": "35979",
+      "soccerway": "382",
+      "sofascore": "750",
+      "sofifa": "201200",
+      "statmuse_pl": "1215",
+      "thesportsdb": "34146304",
+      "transfermarkt": "8198",
+      "uefa": "63706",
+      "understat": "2371",
+      "whoscored": "5583",
+      "wikidata": "Q11571",
+      "worldfootball": "cristiano-ronaldo",
+      "wyscout": "3322"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Cristiano Ronaldo",
+  "playerKey": "cristiano-ronaldo",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-portugal-hungary-47190",
+      "matchKey": "2025-10-14-portugal-hungary",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-portugal-hungary-47189",
+      "matchKey": "2025-10-14-portugal-hungary",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-hungary-portugal-46841",
+      "matchKey": "2025-09-09-hungary-portugal",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-09-06",
+      "goalId": "goal-2025-09-06-armenia-portugal-46690",
+      "matchKey": "2025-09-06-armenia-portugal",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-09-06",
+      "goalId": "goal-2025-09-06-armenia-portugal-46688",
+      "matchKey": "2025-09-06-armenia-portugal",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-06-08",
+      "goalId": "goal-2025-06-08-portugal-spain-46335",
+      "matchKey": "2025-06-08-portugal-spain",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-germany-portugal-46217",
+      "matchKey": "2025-06-04-germany-portugal",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2025-03-23",
+      "goalId": "goal-2025-03-23-portugal-denmark-46053",
+      "matchKey": "2025-03-23-portugal-denmark",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-portugal-poland-45680",
+      "matchKey": "2024-11-15-portugal-poland",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cristiano Ronaldo"
+    },
+    {
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-portugal-poland-45677",
+      "matchKey": "2024-11-15-portugal-poland",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Cristiano Ronaldo"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/portugal"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "portugal",
+  "teamName": "Portugal"
+}

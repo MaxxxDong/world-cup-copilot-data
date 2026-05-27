@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "United Arab Emirates"
+  ],
+  "allTime": {
+    "draws": 152,
+    "goalsAgainst": 760,
+    "goalsFor": 867,
+    "losses": 214,
+    "matches": 612,
+    "wins": 246
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 14,
+      "goalsFor": 12,
+      "losses": 4,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 23,
+      "goalsFor": 29,
+      "losses": 6,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-12-15",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-12-15-mar-united-arab-emirates",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-12-12",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2025-12-12-algeria-united-arab-emirates",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kuwait",
+      "date": "2025-12-09",
+      "homeScore": 3,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-2025-12-09-united-arab-emirates-kuwait",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "egypt",
+      "date": "2025-12-06",
+      "homeScore": 1,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-2025-12-06-united-arab-emirates-egypt",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-12-03",
+      "homeScore": 2,
+      "homeTeamId": "jordan",
+      "matchId": "int-2025-12-03-jordan-united-arab-emirates",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 94,
+      "goalsAgainst": 497,
+      "goalsFor": 575,
+      "losses": 145,
+      "matches": 405,
+      "wins": 166
+    },
+    "friendly": {
+      "draws": 58,
+      "goalsAgainst": 263,
+      "goalsFor": 292,
+      "losses": 69,
+      "matches": 207,
+      "wins": 80
+    },
+    "neutralVenue": {
+      "draws": 57,
+      "goalsAgainst": 298,
+      "goalsFor": 263,
+      "losses": 89,
+      "matches": 222,
+      "wins": 76
+    },
+    "nonNeutralVenue": {
+      "draws": 95,
+      "goalsAgainst": 462,
+      "goalsFor": 604,
+      "losses": 125,
+      "matches": 390,
+      "wins": 170
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "united-arab-emirates",
+  "teamName": "United Arab Emirates",
+  "topScorers": [
+    {
+      "goals": 35,
+      "playerKey": "ali-mabkhout",
+      "scorer": "Ali Mabkhout"
+    },
+    {
+      "goals": 23,
+      "playerKey": "ahmed-khalil",
+      "scorer": "Ahmed Khalil"
+    },
+    {
+      "goals": 18,
+      "playerKey": "adnan-al-talyani",
+      "scorer": "Adnan Al Talyani"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ismail-matar",
+      "scorer": "Ismail Matar"
+    },
+    {
+      "goals": 10,
+      "playerKey": "yaser-salem-ali",
+      "scorer": "Yaser Salem Ali"
+    },
+    {
+      "goals": 8,
+      "playerKey": "f-bio-lima",
+      "scorer": "Fábio Lima"
+    },
+    {
+      "goals": 8,
+      "playerKey": "khamees-saad-mubarak",
+      "scorer": "Khamees Saad Mubarak"
+    },
+    {
+      "goals": 7,
+      "playerKey": "saeed-al-kass",
+      "scorer": "Saeed Al Kass"
+    },
+    {
+      "goals": 7,
+      "playerKey": "sultan-adil",
+      "scorer": "Sultan Adil"
+    },
+    {
+      "goals": 7,
+      "playerKey": "zuhair-bakheet",
+      "scorer": "Zuhair Bakheet"
+    }
+  ]
+}

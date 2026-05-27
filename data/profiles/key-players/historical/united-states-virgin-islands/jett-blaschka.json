@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2024-03-22",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1999-09-16",
+    "nationality": "United States",
+    "playerKey": "jett-blaschka",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "673b1c43",
+      "footballdatabase_eu": "367368",
+      "national_football_teams": "72143",
+      "soccerway": "575858",
+      "transfermarkt": "625148",
+      "wikidata": "Q60807029"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-22",
+  "playerKey": "jett-blaschka",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-22",
+      "goalId": "goal-2024-03-22-united-states-virgin-islands-british-virgin-islands-44517",
+      "matchKey": "2024-03-22-united-states-virgin-islands-british-virgin-islands",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jett Blaschka"
+    }
+  ],
+  "scorer": "Jett Blaschka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "united-states-virgin-islands",
+  "teamName": "United States Virgin Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

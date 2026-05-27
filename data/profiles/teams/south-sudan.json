@@ -1,0 +1,212 @@
+{
+  "aliases": [
+    "South Sudan"
+  ],
+  "allTime": {
+    "draws": 16,
+    "goalsAgainst": 142,
+    "goalsFor": 50,
+    "losses": 50,
+    "matches": 78,
+    "wins": 12
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 20,
+      "goalsFor": 6,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 34,
+      "goalsFor": 11,
+      "losses": 11,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 11,
+      "goalsFor": 1,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-sudan",
+      "date": "2025-11-25",
+      "homeScore": 2,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-11-25-syria-south-sudan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2025-10-13-south-sudan-togo",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "senegal",
+      "date": "2025-10-10",
+      "homeScore": 0,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2025-10-10-south-sudan-senegal",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-sudan",
+      "date": "2025-09-09",
+      "homeScore": 0,
+      "homeTeamId": "mauritania",
+      "matchId": "int-2025-09-09-mauritania-south-sudan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "dr-congo",
+      "date": "2025-09-05",
+      "homeScore": 1,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2025-09-05-south-sudan-dr-congo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 13,
+      "goalsAgainst": 125,
+      "goalsFor": 45,
+      "losses": 44,
+      "matches": 68,
+      "wins": 11
+    },
+    "friendly": {
+      "draws": 3,
+      "goalsAgainst": 17,
+      "goalsFor": 5,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 42,
+      "goalsFor": 23,
+      "losses": 16,
+      "matches": 32,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 100,
+      "goalsFor": 27,
+      "losses": 34,
+      "matches": 46,
+      "wins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "south-sudan",
+  "teamName": "South Sudan",
+  "topScorers": [
+    {
+      "goals": 1,
+      "playerKey": "dominic-abui-pretino",
+      "scorer": "Dominic Abui Pretino"
+    },
+    {
+      "goals": 1,
+      "playerKey": "keer-majak",
+      "scorer": "Keer Majak"
+    },
+    {
+      "goals": 1,
+      "playerKey": "niko-kata",
+      "scorer": "Niko Kata"
+    },
+    {
+      "goals": 1,
+      "playerKey": "omot-sebit",
+      "scorer": "Omot Sebit"
+    },
+    {
+      "goals": 1,
+      "playerKey": "roger-aholou",
+      "scorer": "Roger Aholou"
+    }
+  ]
+}

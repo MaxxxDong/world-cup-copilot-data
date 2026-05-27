@@ -1,0 +1,158 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 22,
+  "identity": {
+    "dateOfBirth": "1984-01-23",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "arjen-robben",
+    "position": "right winger",
+    "providerIds": {
+      "11v11": "11427",
+      "eu_football_info": "17815",
+      "fbref": "09586899",
+      "footballdatabase_eu": "3359",
+      "german_fa": "arjen-robben",
+      "hugman": "16777",
+      "impect": "1060",
+      "kicker": "arjen-robben",
+      "lequipe": "17217",
+      "national_football_teams": "4663",
+      "opta": "68g2a3vuuc4znwl7pnp3mi0gl",
+      "premier_league": "2658",
+      "skillcorner": "1029",
+      "soccerbase": "32476",
+      "soccerway": "32",
+      "sofascore": "30037",
+      "sofifa": "184616",
+      "statmuse_pl": "505",
+      "transfermarkt": "4360",
+      "uefa": "57134",
+      "wikidata": "Q43913",
+      "worldfootball": "arjen-robben",
+      "wyscout": "14727"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Arjen Robben",
+  "playerKey": "arjen-robben",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-netherlands-sweden-37475",
+      "matchKey": "2017-10-10-netherlands-sweden",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-netherlands-sweden-37474",
+      "matchKey": "2017-10-10-netherlands-sweden",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-belarus-netherlands-37332",
+      "matchKey": "2017-10-07-belarus-netherlands",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2017-09-03",
+      "goalId": "goal-2017-09-03-netherlands-bulgaria-37146",
+      "matchKey": "2017-09-03-netherlands-bulgaria",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2017-06-09",
+      "goalId": "goal-2017-06-09-netherlands-luxembourg-36785",
+      "matchKey": "2017-06-09-netherlands-luxembourg",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2016-11-13",
+      "goalId": "goal-2016-11-13-luxembourg-netherlands-36505",
+      "matchKey": "2016-11-13-luxembourg-netherlands",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2014-11-16",
+      "goalId": "goal-2014-11-16-netherlands-latvia-34027",
+      "matchKey": "2014-11-16-netherlands-latvia",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2014-11-16",
+      "goalId": "goal-2014-11-16-netherlands-latvia-34024",
+      "matchKey": "2014-11-16-netherlands-latvia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2014-06-18",
+      "goalId": "goal-2014-06-18-australia-netherlands-33647",
+      "matchKey": "2014-06-18-australia-netherlands",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    },
+    {
+      "date": "2014-06-13",
+      "goalId": "goal-2014-06-13-spain-netherlands-33612",
+      "matchKey": "2014-06-13-spain-netherlands",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arjen Robben"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/netherlands"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

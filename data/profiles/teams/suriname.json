@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Suriname"
+  ],
+  "allTime": {
+    "draws": 93,
+    "goalsAgainst": 565,
+    "goalsFor": 750,
+    "losses": 133,
+    "matches": 399,
+    "wins": 173
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 14,
+      "goalsFor": 13,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 23,
+      "goalsFor": 26,
+      "losses": 7,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "suriname",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-03-26-bolivia-suriname",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "suriname",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2025-11-18-guatemala-suriname",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "el-salvador",
+      "date": "2025-11-13",
+      "homeScore": 4,
+      "homeTeamId": "suriname",
+      "matchId": "int-2025-11-13-suriname-el-salvador",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "suriname",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "panama",
+      "matchId": "int-2025-10-14-panama-suriname",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guatemala",
+      "date": "2025-10-10",
+      "homeScore": 1,
+      "homeTeamId": "suriname",
+      "matchId": "int-2025-10-10-suriname-guatemala",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 57,
+      "goalsAgainst": 317,
+      "goalsFor": 370,
+      "losses": 82,
+      "matches": 228,
+      "wins": 89
+    },
+    "friendly": {
+      "draws": 36,
+      "goalsAgainst": 248,
+      "goalsFor": 380,
+      "losses": 51,
+      "matches": 171,
+      "wins": 84
+    },
+    "neutralVenue": {
+      "draws": 19,
+      "goalsAgainst": 132,
+      "goalsFor": 149,
+      "losses": 31,
+      "matches": 77,
+      "wins": 27
+    },
+    "nonNeutralVenue": {
+      "draws": 74,
+      "goalsAgainst": 433,
+      "goalsFor": 601,
+      "losses": 102,
+      "matches": 322,
+      "wins": 146
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "suriname",
+  "teamName": "Suriname",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "nigel-hasselbaink",
+      "scorer": "Nigel Hasselbaink"
+    },
+    {
+      "goals": 5,
+      "playerKey": "wensley-christoph",
+      "scorer": "Wensley Christoph"
+    },
+    {
+      "goals": 4,
+      "playerKey": "clifton-sandvliet",
+      "scorer": "Clifton Sandvliet"
+    },
+    {
+      "goals": 4,
+      "playerKey": "marlon-felter",
+      "scorer": "Marlon Felter"
+    },
+    {
+      "goals": 4,
+      "playerKey": "richonell-margaret",
+      "scorer": "Richonell Margaret"
+    },
+    {
+      "goals": 4,
+      "playerKey": "shaquille-pinas",
+      "scorer": "Shaquille Pinas"
+    },
+    {
+      "goals": 3,
+      "playerKey": "edwin-schal",
+      "scorer": "Edwin Schal"
+    },
+    {
+      "goals": 3,
+      "playerKey": "gleofilo-vlijter",
+      "scorer": "Gleofilo Vlijter"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sheraldo-becker",
+      "scorer": "Sheraldo Becker"
+    },
+    {
+      "goals": 3,
+      "playerKey": "siegfried-haltman",
+      "scorer": "Siegfried Haltman"
+    }
+  ]
+}

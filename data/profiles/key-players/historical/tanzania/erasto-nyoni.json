@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2012-06-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1988-05-07",
+    "nationality": "Tanzania",
+    "playerKey": "erasto-nyoni",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "d4952ca7",
+      "footballdatabase_eu": "108716",
+      "kicker": "erasto-nyoni",
+      "national_football_teams": "26066",
+      "soccerway": "132874",
+      "sofascore": "979574",
+      "transfermarkt": "67768",
+      "wikidata": "Q5384994"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-09-07",
+  "playerKey": "erasto-nyoni",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-tanzania-madagascar-41397",
+      "matchKey": "2021-09-07-tanzania-madagascar",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Erasto Nyoni"
+    },
+    {
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-tanzania-gambia-31944",
+      "matchKey": "2012-06-10-tanzania-gambia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Erasto Nyoni"
+    }
+  ],
+  "scorer": "Erasto Nyoni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tanzania",
+  "teamName": "Tanzania",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

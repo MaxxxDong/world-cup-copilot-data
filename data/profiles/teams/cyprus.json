@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Cyprus"
+  ],
+  "allTime": {
+    "draws": 71,
+    "goalsAgainst": 926,
+    "goalsFor": 372,
+    "losses": 272,
+    "matches": 424,
+    "wins": 81
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 18,
+      "goalsFor": 15,
+      "losses": 5,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 39,
+      "goalsFor": 28,
+      "losses": 11,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 9,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "moldova",
+      "date": "2026-03-30",
+      "homeScore": 3,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2026-03-30-cyprus-moldova",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belarus",
+      "date": "2026-03-26",
+      "homeScore": 0,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2026-03-26-cyprus-belarus",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "estonia",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2025-11-18-cyprus-estonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "austria",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2025-11-15-cyprus-austria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "cyprus",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2025-10-12-san-marino-cyprus",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 42,
+      "goalsAgainst": 745,
+      "goalsFor": 262,
+      "losses": 212,
+      "matches": 310,
+      "wins": 56
+    },
+    "friendly": {
+      "draws": 29,
+      "goalsAgainst": 181,
+      "goalsFor": 110,
+      "losses": 60,
+      "matches": 114,
+      "wins": 25
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 4,
+      "losses": 3,
+      "matches": 6,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 69,
+      "goalsAgainst": 917,
+      "goalsFor": 368,
+      "losses": 269,
+      "matches": 418,
+      "wins": 80
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "cyprus",
+  "teamName": "Cyprus",
+  "topScorers": [
+    {
+      "goals": 22,
+      "playerKey": "michalis-konstantinou",
+      "scorer": "Michalis Konstantinou"
+    },
+    {
+      "goals": 17,
+      "playerKey": "ioannis-okkas",
+      "scorer": "Ioannis Okkas"
+    },
+    {
+      "goals": 11,
+      "playerKey": "pieros-sotiriou",
+      "scorer": "Pieros Sotiriou"
+    },
+    {
+      "goals": 9,
+      "playerKey": "efstathios-aloneftis",
+      "scorer": "Efstathios Aloneftis"
+    },
+    {
+      "goals": 7,
+      "playerKey": "ioannis-pittas",
+      "scorer": "Ioannis Pittas"
+    },
+    {
+      "goals": 6,
+      "playerKey": "andreas-sotiriou",
+      "scorer": "Andreas Sotiriou"
+    },
+    {
+      "goals": 6,
+      "playerKey": "constantinos-charalambides",
+      "scorer": "Constantinos Charalambides"
+    },
+    {
+      "goals": 6,
+      "playerKey": "grigoris-kastanos",
+      "scorer": "Grigoris Kastanos"
+    },
+    {
+      "goals": 6,
+      "playerKey": "milenko-poljari",
+      "scorer": "Milenko Špoljarić"
+    },
+    {
+      "goals": 5,
+      "playerKey": "andronikos-kakoullis",
+      "scorer": "Andronikos Kakoullis"
+    }
+  ]
+}

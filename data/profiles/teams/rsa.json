@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "South Africa",
+    "RSA",
+    "Bafana Bafana"
+  ],
+  "allTime": {
+    "draws": 144,
+    "goalsAgainst": 454,
+    "goalsFor": 648,
+    "losses": 120,
+    "matches": 477,
+    "wins": 213
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "RSA",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 11,
+      "goalsFor": 15,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 17,
+      "goalsFor": 36,
+      "losses": 4,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "panama",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "rsa",
+      "matchId": "int-2026-03-31-rsa-panama",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "panama",
+      "date": "2026-03-27",
+      "homeScore": 1,
+      "homeTeamId": "rsa",
+      "matchId": "int-2026-03-27-rsa-panama",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cameroon",
+      "date": "2026-01-04",
+      "homeScore": 1,
+      "homeTeamId": "rsa",
+      "matchId": "int-2026-01-04-rsa-cameroon",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "rsa",
+      "date": "2025-12-29",
+      "homeScore": 2,
+      "homeTeamId": "zimbabwe",
+      "matchId": "int-2025-12-29-zimbabwe-rsa",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "rsa",
+      "date": "2025-12-26",
+      "homeScore": 1,
+      "homeTeamId": "egypt",
+      "matchId": "int-2025-12-26-egypt-rsa",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 92,
+      "goalsAgainst": 252,
+      "goalsFor": 378,
+      "losses": 63,
+      "matches": 283,
+      "wins": 128
+    },
+    "friendly": {
+      "draws": 52,
+      "goalsAgainst": 202,
+      "goalsFor": 270,
+      "losses": 57,
+      "matches": 194,
+      "wins": 85
+    },
+    "neutralVenue": {
+      "draws": 33,
+      "goalsAgainst": 102,
+      "goalsFor": 112,
+      "losses": 26,
+      "matches": 89,
+      "wins": 30
+    },
+    "nonNeutralVenue": {
+      "draws": 111,
+      "goalsAgainst": 352,
+      "goalsFor": 536,
+      "losses": 94,
+      "matches": 388,
+      "wins": 183
+    },
+    "worldCup": {
+      "draws": 4,
+      "goalsAgainst": 16,
+      "goalsFor": 11,
+      "losses": 3,
+      "matches": 9,
+      "wins": 2
+    }
+  },
+  "teamId": "rsa",
+  "teamName": "South Africa",
+  "topScorers": [
+    {
+      "goals": 15,
+      "playerKey": "shaun-bartlett",
+      "scorer": "Shaun Bartlett"
+    },
+    {
+      "goals": 12,
+      "playerKey": "benni-mccarthy",
+      "scorer": "Benni McCarthy"
+    },
+    {
+      "goals": 8,
+      "playerKey": "siyabonga-nomvethe",
+      "scorer": "Siyabonga Nomvethe"
+    },
+    {
+      "goals": 7,
+      "playerKey": "bernard-parker",
+      "scorer": "Bernard Parker"
+    },
+    {
+      "goals": 7,
+      "playerKey": "phil-masinga",
+      "scorer": "Phil Masinga"
+    },
+    {
+      "goals": 5,
+      "playerKey": "katlego-mphela",
+      "scorer": "Katlego Mphela"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mark-williams",
+      "scorer": "Mark Williams"
+    },
+    {
+      "goals": 5,
+      "playerKey": "sibusiso-zuma",
+      "scorer": "Sibusiso Zuma"
+    },
+    {
+      "goals": 5,
+      "playerKey": "teboho-mokoena",
+      "scorer": "Teboho Mokoena"
+    },
+    {
+      "goals": 4,
+      "playerKey": "evidence-makgopa",
+      "scorer": "Evidence Makgopa"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1998-02-18",
+    "playerKey": "aung-kaung-mann",
+    "position": "goalkeeper",
+    "providerIds": {
+      "footballdatabase_eu": "292261",
+      "impect": "80471",
+      "national_football_teams": "84808",
+      "soccerway": "443486",
+      "sofascore": "839233",
+      "transfermarkt": "477888",
+      "wikidata": "Q30126538"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-10-12",
+  "playerKey": "aung-kaung-mann",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-myanmar-macau-43638",
+      "matchKey": "2023-10-12-myanmar-macau",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aung Kaung Mann"
+    }
+  ],
+  "scorer": "Aung Kaung Mann",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

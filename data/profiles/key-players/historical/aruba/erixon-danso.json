@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2015-09-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-07-22",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "erixon-danso",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "bb7aa6e7",
+      "footballdatabase_eu": "66064",
+      "kicker": "erixon-danso",
+      "national_football_teams": "59536",
+      "opta": "7z3jfrlzwyksrih993u345dqt",
+      "soccerway": "77338",
+      "sofascore": "50508",
+      "transfermarkt": "108709",
+      "wikidata": "Q2151386"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-09-08",
+  "playerKey": "erixon-danso",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-aruba-saint-vincent-and-the-grenadines-34867",
+      "matchKey": "2015-09-08-aruba-saint-vincent-and-the-grenadines",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erixon Danso"
+    },
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-aruba-saint-vincent-and-the-grenadines-34866",
+      "matchKey": "2015-09-08-aruba-saint-vincent-and-the-grenadines",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erixon Danso"
+    }
+  ],
+  "scorer": "Erixon Danso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

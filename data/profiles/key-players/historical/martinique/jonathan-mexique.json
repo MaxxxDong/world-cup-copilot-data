@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2023-07-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1995-03-10",
+    "nationality": "France",
+    "playerKey": "jonathan-mexique",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "24230",
+      "capology": "jonathan-mexique-34768",
+      "fbref": "8384ee32",
+      "fff_fr": "9390-mexique-jonathan",
+      "footballdatabase_eu": "206277",
+      "heimspiel": "278831",
+      "impect": "1625",
+      "kicker": "jonathan-mexique",
+      "lequipe": "46302",
+      "national_football_teams": "87794",
+      "opta": "3kbhn2unv2gsvxgwwdsa2cyqd",
+      "skillcorner": "39914",
+      "soccerway": "215656",
+      "sofascore": "191180",
+      "thesportsdb": "34245393",
+      "transfermarkt": "182823",
+      "wikidata": "Q27735415",
+      "wyscout": "134510"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-07-04",
+  "playerKey": "jonathan-mexique",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-costa-rica-martinique-43410",
+      "matchKey": "2023-07-04-costa-rica-martinique",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Mexique"
+    }
+  ],
+  "scorer": "Jonathan Mexique",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "martinique",
+  "teamName": "Martinique",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

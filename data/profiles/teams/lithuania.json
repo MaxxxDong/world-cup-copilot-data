@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Lithuania"
+  ],
+  "allTime": {
+    "draws": 83,
+    "goalsAgainst": 784,
+    "goalsFor": 430,
+    "losses": 237,
+    "matches": 431,
+    "wins": 111
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 19,
+      "goalsFor": 6,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 34,
+      "goalsFor": 15,
+      "losses": 13,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "georgia",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2026-03-29-lithuania-georgia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "lithuania",
+      "date": "2026-03-26",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2026-03-26-moldova-lithuania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lithuania",
+      "date": "2025-11-17",
+      "homeScore": 4,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2025-11-17-netherlands-lithuania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2025-11-13-lithuania-israel",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2025-10-12-lithuania-poland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 51,
+      "goalsAgainst": 438,
+      "goalsFor": 245,
+      "losses": 145,
+      "matches": 268,
+      "wins": 72
+    },
+    "friendly": {
+      "draws": 32,
+      "goalsAgainst": 346,
+      "goalsFor": 185,
+      "losses": 92,
+      "matches": 163,
+      "wins": 39
+    },
+    "neutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 91,
+      "goalsFor": 61,
+      "losses": 21,
+      "matches": 51,
+      "wins": 17
+    },
+    "nonNeutralVenue": {
+      "draws": 70,
+      "goalsAgainst": 693,
+      "goalsFor": 369,
+      "losses": 216,
+      "matches": 380,
+      "wins": 94
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "lithuania",
+  "teamName": "Lithuania",
+  "topScorers": [
+    {
+      "goals": 15,
+      "playerKey": "fedor-ernych",
+      "scorer": "Fedor Černych"
+    },
+    {
+      "goals": 9,
+      "playerKey": "arvydas-novikovas",
+      "scorer": "Arvydas Novikovas"
+    },
+    {
+      "goals": 9,
+      "playerKey": "tomas-danilevi-ius",
+      "scorer": "Tomas Danilevičius"
+    },
+    {
+      "goals": 8,
+      "playerKey": "valdas-ivanauskas",
+      "scorer": "Valdas Ivanauskas"
+    },
+    {
+      "goals": 7,
+      "playerKey": "edgaras-jankauskas",
+      "scorer": "Edgaras Jankauskas"
+    },
+    {
+      "goals": 6,
+      "playerKey": "antanas-lingis",
+      "scorer": "Antanas Lingis"
+    },
+    {
+      "goals": 6,
+      "playerKey": "armandas-ku-ys",
+      "scorer": "Armandas Kučys"
+    },
+    {
+      "goals": 6,
+      "playerKey": "igoris-morinas",
+      "scorer": "Igoris Morinas"
+    },
+    {
+      "goals": 6,
+      "playerKey": "tomas-ra-anauskas",
+      "scorer": "Tomas Ražanauskas"
+    },
+    {
+      "goals": 6,
+      "playerKey": "virginijus-baltu-nikas",
+      "scorer": "Virginijus Baltušnikas"
+    }
+  ]
+}

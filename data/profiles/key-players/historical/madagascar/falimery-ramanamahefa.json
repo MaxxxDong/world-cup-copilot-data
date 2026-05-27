@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2011-11-15",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1991-11-22",
+    "nationality": "Madagascar",
+    "playerKey": "falimery-ramanamahefa",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "44c3026b",
+      "footballdatabase_eu": "154024",
+      "national_football_teams": "44944",
+      "soccerway": "217285",
+      "sofascore": "1104861",
+      "sofifa": "351482",
+      "transfermarkt": "402457",
+      "wikidata": "Q3064753"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-13",
+  "playerKey": "falimery-ramanamahefa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-madagascar-central-african-republic-35196",
+      "matchKey": "2015-10-13-madagascar-central-african-republic",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Falimery Ramanamahefa"
+    },
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-madagascar-equatorial-guinea-31534",
+      "matchKey": "2011-11-15-madagascar-equatorial-guinea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Falimery Ramanamahefa"
+    }
+  ],
+  "scorer": "Falimery Ramanamahefa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "madagascar",
+  "teamName": "Madagascar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

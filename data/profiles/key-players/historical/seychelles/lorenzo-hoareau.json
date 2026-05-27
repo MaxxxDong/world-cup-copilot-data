@@ -1,0 +1,57 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2007-01-06",
+    "playerKey": "lorenzo-hoareau",
+    "providerIds": {
+      "national_football_teams": "83778",
+      "soccerway": "971514",
+      "sofascore": "1868022",
+      "transfermarkt": "947879",
+      "wikidata": "Q110803944",
+      "worldfootball": "lorenzo-hoareau"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-11",
+  "playerKey": "lorenzo-hoareau",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-seychelles-burundi-44913",
+      "matchKey": "2024-06-11-seychelles-burundi",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lorenzo Hoareau"
+    }
+  ],
+  "scorer": "Lorenzo Hoareau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "seychelles",
+  "teamName": "Seychelles",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

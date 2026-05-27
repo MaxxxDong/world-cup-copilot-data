@@ -1,0 +1,158 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 19,
+  "identity": {
+    "dateOfBirth": "1978-06-20",
+    "fullName": "Frank James Lampard",
+    "nationality": "United Kingdom",
+    "playerKey": "frank-lampard",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "556",
+      "espn": "8941",
+      "eu_football_info": "11728",
+      "fbref": "268df6b1",
+      "footballdatabase_eu": "2116",
+      "hugman": "11305",
+      "impect": "42475",
+      "kicker": "frank-lampard",
+      "lequipe": "7559",
+      "national_football_teams": "2178",
+      "opta": "yjqhx63akww5l4m2fkrjq6z9",
+      "premier_league": "800",
+      "soccerbase": "4370",
+      "soccerway": "189",
+      "sofascore": "1216",
+      "sofifa": "185385",
+      "statmuse_pl": "2009",
+      "thesportsdb": "34145590",
+      "transfermarkt": "3163",
+      "uefa": "31609",
+      "wikidata": "Q41533",
+      "worldfootball": "frank-lampard"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Frank Lampard",
+  "playerKey": "frank-lampard",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-san-marino-england-32619",
+      "matchKey": "2013-03-22-san-marino-england",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2012-09-11",
+      "goalId": "goal-2012-09-11-england-ukraine-32143",
+      "matchKey": "2012-09-11-england-ukraine",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-moldova-england-32102",
+      "matchKey": "2012-09-07-moldova-england",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-moldova-england-32101",
+      "matchKey": "2012-09-07-moldova-england",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2011-06-04",
+      "goalId": "goal-2011-06-04-england-switzerland-30459",
+      "matchKey": "2011-06-04-england-switzerland",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2011-03-26",
+      "goalId": "goal-2011-03-26-wales-england-30395",
+      "matchKey": "2011-03-26-wales-england",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-england-croatia-29491",
+      "matchKey": "2009-09-09-england-croatia",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-england-croatia-29489",
+      "matchKey": "2009-09-09-england-croatia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2009-06-10",
+      "goalId": "goal-2009-06-10-england-andorra-29158",
+      "matchKey": "2009-06-10-england-andorra",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Lampard"
+    },
+    {
+      "date": "2009-06-06",
+      "goalId": "goal-2009-06-06-kazakhstan-england-29097",
+      "matchKey": "2009-06-06-kazakhstan-england",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Frank Lampard"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/england"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "england",
+  "teamName": "England"
+}

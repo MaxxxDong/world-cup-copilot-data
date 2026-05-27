@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Menorca"
+  ],
+  "allTime": {
+    "draws": 6,
+    "goalsAgainst": 32,
+    "goalsFor": 56,
+    "losses": 8,
+    "matches": 25,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 12,
+      "goalsFor": 18,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 25,
+      "goalsFor": 43,
+      "losses": 6,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 6,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "menorca",
+      "date": "2023-07-13",
+      "homeScore": 2,
+      "homeTeamId": "western-isles",
+      "matchId": "int-2023-07-13-western-isles-menorca",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gozo",
+      "date": "2023-07-11",
+      "homeScore": 0,
+      "homeTeamId": "menorca",
+      "matchId": "int-2023-07-11-menorca-gozo",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "menorca",
+      "date": "2023-07-10",
+      "homeScore": 4,
+      "homeTeamId": "jersey",
+      "matchId": "int-2023-07-10-jersey-menorca",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-helena",
+      "date": "2023-07-09",
+      "homeScore": 5,
+      "homeTeamId": "menorca",
+      "matchId": "int-2023-07-09-menorca-saint-helena",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guernsey",
+      "date": "2017-06-30",
+      "homeScore": 0,
+      "homeTeamId": "menorca",
+      "matchId": "int-2017-06-30-menorca-guernsey",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 6,
+      "goalsAgainst": 32,
+      "goalsFor": 56,
+      "losses": 8,
+      "matches": 25,
+      "wins": 11
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 5,
+      "goalsAgainst": 31,
+      "goalsFor": 55,
+      "losses": 8,
+      "matches": 24,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 1,
+      "goalsFor": 1,
+      "losses": 0,
+      "matches": 1,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "menorca",
+  "teamName": "Menorca",
+  "topScorers": []
+}

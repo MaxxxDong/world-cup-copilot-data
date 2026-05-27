@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Indonesia"
+  ],
+  "allTime": {
+    "draws": 143,
+    "goalsAgainst": 1176,
+    "goalsFor": 1209,
+    "losses": 303,
+    "matches": 726,
+    "wins": 280
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 16,
+      "goalsFor": 15,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 30,
+      "goalsFor": 25,
+      "losses": 9,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2026-03-30-indonesia-bulgaria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2026-03-27-indonesia-saint-kitts-and-nevis",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "2025-10-11",
+      "homeScore": 1,
+      "homeTeamId": "iraq",
+      "matchId": "int-2025-10-11-iraq-indonesia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "indonesia",
+      "date": "2025-10-08",
+      "homeScore": 3,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2025-10-08-saudi-arabia-indonesia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lebanon",
+      "date": "2025-09-08",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2025-09-08-indonesia-lebanon",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 109,
+      "goalsAgainst": 875,
+      "goalsFor": 925,
+      "losses": 228,
+      "matches": 550,
+      "wins": 213
+    },
+    "friendly": {
+      "draws": 34,
+      "goalsAgainst": 301,
+      "goalsFor": 284,
+      "losses": 75,
+      "matches": 176,
+      "wins": 67
+    },
+    "neutralVenue": {
+      "draws": 58,
+      "goalsAgainst": 481,
+      "goalsFor": 588,
+      "losses": 128,
+      "matches": 315,
+      "wins": 129
+    },
+    "nonNeutralVenue": {
+      "draws": 85,
+      "goalsAgainst": 695,
+      "goalsFor": 621,
+      "losses": 175,
+      "matches": 411,
+      "wins": 151
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 6,
+      "goalsFor": 0,
+      "losses": 1,
+      "matches": 1,
+      "wins": 0
+    }
+  },
+  "teamId": "indonesia",
+  "teamName": "Indonesia",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "ilham-jaya-kesuma",
+      "scorer": "Ilham Jaya Kesuma"
+    },
+    {
+      "goals": 5,
+      "playerKey": "widodo-cahyono-putro",
+      "scorer": "Widodo Cahyono Putro"
+    },
+    {
+      "goals": 4,
+      "playerKey": "bambang-nurdiansyah",
+      "scorer": "Bambang Nurdiansyah"
+    },
+    {
+      "goals": 4,
+      "playerKey": "bambang-pamungkas",
+      "scorer": "Bambang Pamungkas"
+    },
+    {
+      "goals": 4,
+      "playerKey": "budi-sudarsono",
+      "scorer": "Budi Sudarsono"
+    },
+    {
+      "goals": 4,
+      "playerKey": "cristian-gonz-les",
+      "scorer": "Cristian Gonzáles"
+    },
+    {
+      "goals": 4,
+      "playerKey": "dede-sulaiman",
+      "scorer": "Dede Sulaiman"
+    },
+    {
+      "goals": 4,
+      "playerKey": "kurniawan-dwi-yulianto",
+      "scorer": "Kurniawan Dwi Yulianto"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ramadhan-sananta",
+      "scorer": "Ramadhan Sananta"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ronny-wabia",
+      "scorer": "Ronny Wabia"
+    }
+  ]
+}

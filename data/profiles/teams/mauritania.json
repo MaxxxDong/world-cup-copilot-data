@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Mauritania"
+  ],
+  "allTime": {
+    "draws": 70,
+    "goalsAgainst": 433,
+    "goalsFor": 196,
+    "losses": 150,
+    "matches": 271,
+    "wins": 51
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 25,
+      "goalsFor": 10,
+      "losses": 11,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-2026-03-27-arg-mauritania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kuwait",
+      "date": "2025-11-25",
+      "homeScore": 0,
+      "homeTeamId": "mauritania",
+      "matchId": "int-2025-11-25-mauritania-kuwait",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2025-11-15",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2025-11-15-libya-mauritania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2025-11-12-tunisia-mauritania",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "senegal",
+      "matchId": "int-2025-10-14-senegal-mauritania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 41,
+      "goalsAgainst": 319,
+      "goalsFor": 138,
+      "losses": 109,
+      "matches": 183,
+      "wins": 33
+    },
+    "friendly": {
+      "draws": 29,
+      "goalsAgainst": 114,
+      "goalsFor": 58,
+      "losses": 41,
+      "matches": 88,
+      "wins": 18
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 188,
+      "goalsFor": 70,
+      "losses": 63,
+      "matches": 94,
+      "wins": 13
+    },
+    "nonNeutralVenue": {
+      "draws": 52,
+      "goalsAgainst": 245,
+      "goalsFor": 126,
+      "losses": 87,
+      "matches": 177,
+      "wins": 38
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "mauritania",
+  "teamName": "Mauritania",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "boubacar-bagili",
+      "scorer": "Boubacar Bagili"
+    },
+    {
+      "goals": 1,
+      "playerKey": "abdallahi-mahmoud",
+      "scorer": "Abdallahi Mahmoud"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aboubakar-kamara",
+      "scorer": "Aboubakar Kamara"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aboubakary-koita",
+      "scorer": "Aboubakary Koita"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aboubakary-ko-ta",
+      "scorer": "Aboubakary Koïta"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ahmed-sidibe",
+      "scorer": "Ahmed Sidibe"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aly-abeid",
+      "scorer": "Aly Abeid"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bessam",
+      "scorer": "Bessam"
+    },
+    {
+      "goals": 1,
+      "playerKey": "cheikh-moulaye-ahmed",
+      "scorer": "Cheikh Moulaye Ahmed"
+    },
+    {
+      "goals": 1,
+      "playerKey": "dahmed-ould-teguedi",
+      "scorer": "Dahmed Ould Teguedi"
+    }
+  ]
+}

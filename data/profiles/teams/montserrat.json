@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Montserrat"
+  ],
+  "allTime": {
+    "draws": 7,
+    "goalsAgainst": 195,
+    "goalsFor": 72,
+    "losses": 42,
+    "matches": 66,
+    "wins": 17
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 6,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 43,
+      "goalsFor": 20,
+      "losses": 13,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "montserrat",
+      "date": "2025-06-10",
+      "homeScore": 3,
+      "homeTeamId": "guyana",
+      "matchId": "int-2025-06-10-guyana-montserrat",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belize",
+      "date": "2025-06-04",
+      "homeScore": 1,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2025-06-04-montserrat-belize",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "montserrat",
+      "date": "2024-11-17",
+      "homeScore": 1,
+      "homeTeamId": "el-salvador",
+      "matchId": "int-2024-11-17-el-salvador-montserrat",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2024-11-14",
+      "homeScore": 1,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2024-11-14-montserrat-saint-vincent-and-the-grenadines",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2024-10-13",
+      "homeScore": 0,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2024-10-13-montserrat-bonaire",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 195,
+      "goalsFor": 72,
+      "losses": 42,
+      "matches": 66,
+      "wins": 17
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 91,
+      "goalsFor": 41,
+      "losses": 21,
+      "matches": 31,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 104,
+      "goalsFor": 31,
+      "losses": 21,
+      "matches": 35,
+      "wins": 11
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "lyle-taylor",
+      "scorer": "Lyle Taylor"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jaylee-hodgson",
+      "scorer": "Jaylee Hodgson"
+    },
+    {
+      "goals": 2,
+      "playerKey": "adrian-clifton",
+      "scorer": "Adrian Clifton"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bradley-woods-garness",
+      "scorer": "Bradley Woods-Garness"
+    },
+    {
+      "goals": 1,
+      "playerKey": "brandon-barzey",
+      "scorer": "Brandon Barzey"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jamal-willer",
+      "scorer": "Jamal Willer"
+    },
+    {
+      "goals": 1,
+      "playerKey": "kaleem-simon",
+      "scorer": "Kaleem Simon"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mark-rogers",
+      "scorer": "Mark Rogers"
+    },
+    {
+      "goals": 1,
+      "playerKey": "nathan-pond",
+      "scorer": "Nathan Pond"
+    },
+    {
+      "goals": 1,
+      "playerKey": "rohan-ince",
+      "scorer": "Rohan Ince"
+    }
+  ]
+}

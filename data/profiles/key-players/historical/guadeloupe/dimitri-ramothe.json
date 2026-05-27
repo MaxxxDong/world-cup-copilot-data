@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2021-07-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1990-09-08",
+    "nationality": "France",
+    "playerKey": "dimitri-ramothe",
+    "providerIds": {
+      "footballdatabase_eu": "109326",
+      "kicker": "dimitri-ramothe",
+      "soccerway": "630691",
+      "sofascore": "1127018",
+      "transfermarkt": "703885",
+      "wikidata": "Q78170317",
+      "worldfootball": "dimitri-ramothe"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-07-16",
+  "playerKey": "dimitri-ramothe",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-07-16",
+      "goalId": "goal-2021-07-16-guadeloupe-jamaica-41044",
+      "matchKey": "2021-07-16-guadeloupe-jamaica",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dimitri Ramothe"
+    }
+  ],
+  "scorer": "Dimitri Ramothe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

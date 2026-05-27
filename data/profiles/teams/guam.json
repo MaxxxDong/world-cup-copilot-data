@@ -1,0 +1,227 @@
+{
+  "aliases": [
+    "Guam"
+  ],
+  "allTime": {
+    "draws": 11,
+    "goalsAgainst": 592,
+    "goalsFor": 138,
+    "losses": 85,
+    "matches": 121,
+    "wins": 25
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 20,
+      "goalsFor": 13,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 55,
+      "goalsFor": 20,
+      "losses": 16,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 9,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "guam",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "american-samoa",
+      "matchId": "int-2026-03-28-american-samoa-guam",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guam",
+      "date": "2026-03-25",
+      "homeScore": 4,
+      "homeTeamId": "puerto-rico",
+      "matchId": "int-2026-03-25-puerto-rico-guam",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guam",
+      "date": "2024-12-17",
+      "homeScore": 5,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2024-12-17-hong-kong-guam",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guam",
+      "date": "2024-12-14",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2024-12-14-macau-guam",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guam",
+      "date": "2024-04-07",
+      "homeScore": 2,
+      "homeTeamId": "northern-mariana-islands",
+      "matchId": "int-2024-04-07-northern-mariana-islands-guam",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Marianas Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 8,
+      "goalsAgainst": 567,
+      "goalsFor": 93,
+      "losses": 79,
+      "matches": 104,
+      "wins": 17
+    },
+    "friendly": {
+      "draws": 3,
+      "goalsAgainst": 25,
+      "goalsFor": 45,
+      "losses": 6,
+      "matches": 17,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 412,
+      "goalsFor": 48,
+      "losses": 51,
+      "matches": 62,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 8,
+      "goalsAgainst": 180,
+      "goalsFor": 90,
+      "losses": 34,
+      "matches": 59,
+      "wins": 17
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guam",
+  "teamName": "Guam",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "jason-cunliffe",
+      "scorer": "Jason Cunliffe"
+    },
+    {
+      "goals": 1,
+      "playerKey": "brandon-mcdonald",
+      "scorer": "Brandon McDonald"
+    },
+    {
+      "goals": 1,
+      "playerKey": "isiah-lagutang",
+      "scorer": "Isiah Lagutang"
+    },
+    {
+      "goals": 1,
+      "playerKey": "john-matkin",
+      "scorer": "John Matkin"
+    },
+    {
+      "goals": 1,
+      "playerKey": "marcus-lopez",
+      "scorer": "Marcus Lopez"
+    },
+    {
+      "goals": 1,
+      "playerKey": "serdar-annaorazow",
+      "scorer": "Serdar Annaorazow"
+    },
+    {
+      "goals": 1,
+      "playerKey": "shane-malcolm",
+      "scorer": "Shane Malcolm"
+    },
+    {
+      "goals": 1,
+      "playerKey": "travis-nicklaw",
+      "scorer": "Travis Nicklaw"
+    }
+  ]
+}

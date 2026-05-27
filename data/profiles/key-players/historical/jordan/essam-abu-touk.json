@@ -1,0 +1,91 @@
+{
+  "firstGoalDate": "2001-04-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1977-09-19",
+    "nationality": "Jordan",
+    "playerKey": "essam-abu-touk",
+    "position": "midfielder",
+    "providerIds": {
+      "national_football_teams": "3502",
+      "wikidata": "Q5399341"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-07",
+  "playerKey": "essam-abu-touk",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-07",
+      "goalId": "goal-2001-05-07-jordan-uzbekistan-21104",
+      "matchKey": "2001-05-07-jordan-uzbekistan",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Essam Abu Touk"
+    },
+    {
+      "date": "2001-05-05",
+      "goalId": "goal-2001-05-05-jordan-turkmenistan-21072",
+      "matchKey": "2001-05-05-jordan-turkmenistan",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk"
+    },
+    {
+      "date": "2001-05-03",
+      "goalId": "goal-2001-05-03-jordan-taiwan-21034",
+      "matchKey": "2001-05-03-jordan-taiwan",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Essam Abu Touk"
+    },
+    {
+      "date": "2001-05-03",
+      "goalId": "goal-2001-05-03-jordan-taiwan-21033",
+      "matchKey": "2001-05-03-jordan-taiwan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk"
+    },
+    {
+      "date": "2001-04-27",
+      "goalId": "goal-2001-04-27-uzbekistan-jordan-21000",
+      "matchKey": "2001-04-27-uzbekistan-jordan",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk"
+    }
+  ],
+  "scorer": "Essam Abu Touk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "jordan",
+  "teamName": "Jordan",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

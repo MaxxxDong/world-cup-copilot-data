@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "1997-06-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1972-09-02",
+    "nationality": "Syria",
+    "playerKey": "khaled-al-zaher",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "f81f7072",
+      "footballdatabase_eu": "10482",
+      "national_football_teams": "6459",
+      "sofifa": "157995",
+      "transfermarkt": "16357",
+      "wikidata": "Q6399313"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-11",
+  "playerKey": "khaled-al-zaher",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-11",
+      "goalId": "goal-2001-05-11-syria-laos-21134",
+      "matchKey": "2001-05-11-syria-laos",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al Zaher"
+    },
+    {
+      "date": "2001-05-11",
+      "goalId": "goal-2001-05-11-syria-laos-21133",
+      "matchKey": "2001-05-11-syria-laos",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al Zaher"
+    },
+    {
+      "date": "1997-06-09",
+      "goalId": "goal-1997-06-09-maldives-syria-17279",
+      "matchKey": "1997-06-09-maldives-syria",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al Zaher"
+    },
+    {
+      "date": "1997-06-09",
+      "goalId": "goal-1997-06-09-maldives-syria-17277",
+      "matchKey": "1997-06-09-maldives-syria",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al Zaher"
+    },
+    {
+      "date": "1997-06-04",
+      "goalId": "goal-1997-06-04-syria-maldives-17175",
+      "matchKey": "1997-06-04-syria-maldives",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al Zaher"
+    }
+  ],
+  "scorer": "Khaled Al Zaher",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "syria",
+  "teamName": "Syria",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

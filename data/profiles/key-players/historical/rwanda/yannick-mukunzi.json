@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2019-09-05",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1995-10-02",
+    "playerKey": "yannick-mukunzi",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "67553290",
+      "footballdatabase_eu": "212666",
+      "heimspiel": "399043",
+      "impect": "101000",
+      "national_football_teams": "58947",
+      "soccerway": "407238",
+      "transfermarkt": "364429",
+      "wikidata": "Q61003364",
+      "wyscout": "376499"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-10",
+  "playerKey": "yannick-mukunzi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-rwanda-seychelles-39079",
+      "matchKey": "2019-09-10-rwanda-seychelles",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yannick Mukunzi"
+    },
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-seychelles-rwanda-38874",
+      "matchKey": "2019-09-05-seychelles-rwanda",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yannick Mukunzi"
+    }
+  ],
+  "scorer": "Yannick Mukunzi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rwanda",
+  "teamName": "Rwanda",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

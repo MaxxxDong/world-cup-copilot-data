@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2021-03-28",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "2002-09-14",
+    "playerKey": "audel-laville",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "f711ef97",
+      "footballdatabase_eu": "368997",
+      "national_football_teams": "72667",
+      "soccerway": "582732",
+      "wikidata": "Q76162128"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-04",
+  "playerKey": "audel-laville",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-dominica-british-virgin-islands-46214",
+      "matchKey": "2025-06-04-dominica-british-virgin-islands",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Audel Laville"
+    },
+    {
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-dominica-british-virgin-islands-46212",
+      "matchKey": "2025-06-04-dominica-british-virgin-islands",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Audel Laville"
+    },
+    {
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-dominica-panama-40262",
+      "matchKey": "2021-03-28-dominica-panama",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Audel Laville"
+    }
+  ],
+  "scorer": "Audel Laville",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominica",
+  "teamName": "Dominica",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

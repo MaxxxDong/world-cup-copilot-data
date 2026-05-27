@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "1997-05-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1973-11-30",
+    "playerKey": "shukhrat-dzhaborov",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "19892",
+      "sofifa": "158119",
+      "transfermarkt": "199587",
+      "wikidata": "Q21005710"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-22",
+  "playerKey": "shukhrat-dzhaborov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-22",
+      "goalId": "goal-1997-06-22-tajikistan-turkmenistan-17455",
+      "matchKey": "1997-06-22-tajikistan-turkmenistan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shukhrat Dzhaborov"
+    },
+    {
+      "date": "1997-05-04",
+      "goalId": "goal-1997-05-04-tajikistan-vietnam-17066",
+      "matchKey": "1997-05-04-tajikistan-vietnam",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shukhrat Dzhaborov"
+    },
+    {
+      "date": "1997-05-04",
+      "goalId": "goal-1997-05-04-tajikistan-vietnam-17065",
+      "matchKey": "1997-05-04-tajikistan-vietnam",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shukhrat Dzhaborov"
+    }
+  ],
+  "scorer": "Shukhrat Dzhaborov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tajikistan",
+  "teamName": "Tajikistan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

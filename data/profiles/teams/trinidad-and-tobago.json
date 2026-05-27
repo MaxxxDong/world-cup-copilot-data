@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Trinidad and Tobago"
+  ],
+  "allTime": {
+    "draws": 164,
+    "goalsAgainst": 999,
+    "goalsFor": 1268,
+    "losses": 266,
+    "matches": 751,
+    "wins": 321
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 6,
+      "goalsAgainst": 16,
+      "goalsFor": 11,
+      "losses": 3,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 36,
+      "goalsFor": 28,
+      "losses": 8,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 12,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-30",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2026-03-30-gabon-trinidad-and-tobago",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "venezuela",
+      "matchId": "int-2026-03-27-venezuela-trinidad-and-tobago",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-15",
+      "homeScore": 3,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-03-15-bolivia-trinidad-and-tobago",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bermuda",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "trinidad-and-tobago",
+      "matchId": "int-2025-11-18-trinidad-and-tobago-bermuda",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "jamaica",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "trinidad-and-tobago",
+      "matchId": "int-2025-11-13-trinidad-and-tobago-jamaica",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 76,
+      "goalsAgainst": 510,
+      "goalsFor": 655,
+      "losses": 133,
+      "matches": 375,
+      "wins": 166
+    },
+    "friendly": {
+      "draws": 88,
+      "goalsAgainst": 489,
+      "goalsFor": 613,
+      "losses": 133,
+      "matches": 376,
+      "wins": 155
+    },
+    "neutralVenue": {
+      "draws": 28,
+      "goalsAgainst": 183,
+      "goalsFor": 233,
+      "losses": 53,
+      "matches": 135,
+      "wins": 54
+    },
+    "nonNeutralVenue": {
+      "draws": 136,
+      "goalsAgainst": 816,
+      "goalsFor": 1035,
+      "losses": 213,
+      "matches": 616,
+      "wins": 267
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 4,
+      "goalsFor": 0,
+      "losses": 2,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "trinidad-and-tobago",
+  "teamName": "Trinidad and Tobago",
+  "topScorers": [
+    {
+      "goals": 23,
+      "playerKey": "stern-john",
+      "scorer": "Stern John"
+    },
+    {
+      "goals": 12,
+      "playerKey": "angus-eve",
+      "scorer": "Angus Eve"
+    },
+    {
+      "goals": 12,
+      "playerKey": "russell-latapy",
+      "scorer": "Russell Latapy"
+    },
+    {
+      "goals": 10,
+      "playerKey": "dwight-yorke",
+      "scorer": "Dwight Yorke"
+    },
+    {
+      "goals": 10,
+      "playerKey": "kenwyne-jones",
+      "scorer": "Kenwyne Jones"
+    },
+    {
+      "goals": 9,
+      "playerKey": "arnold-dwarika",
+      "scorer": "Arnold Dwarika"
+    },
+    {
+      "goals": 8,
+      "playerKey": "kevin-molino",
+      "scorer": "Kevin Molino"
+    },
+    {
+      "goals": 8,
+      "playerKey": "steve-david",
+      "scorer": "Steve David"
+    },
+    {
+      "goals": 7,
+      "playerKey": "joevin-jones",
+      "scorer": "Joevin Jones"
+    },
+    {
+      "goals": 6,
+      "playerKey": "keon-daniel",
+      "scorer": "Keon Daniel"
+    }
+  ]
+}

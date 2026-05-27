@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Guyana"
+  ],
+  "allTime": {
+    "draws": 61,
+    "goalsAgainst": 550,
+    "goalsFor": 428,
+    "losses": 149,
+    "matches": 313,
+    "wins": 103
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 26,
+      "losses": 2,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 34,
+      "goalsFor": 39,
+      "losses": 9,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 14,
+      "losses": 0,
+      "matches": 5,
+      "wins": 5
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "belize",
+      "date": "2026-03-30",
+      "homeScore": 3,
+      "homeTeamId": "guyana",
+      "matchId": "int-2026-03-30-guyana-belize",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "guyana",
+      "matchId": "int-2026-03-27-guyana-dominica",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "guyana",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2025-11-18-antigua-and-barbuda-guyana",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "guyana",
+      "matchId": "int-2025-11-15-guyana-bonaire",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "montserrat",
+      "date": "2025-06-10",
+      "homeScore": 3,
+      "homeTeamId": "guyana",
+      "matchId": "int-2025-06-10-guyana-montserrat",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 27,
+      "goalsAgainst": 279,
+      "goalsFor": 249,
+      "losses": 69,
+      "matches": 153,
+      "wins": 57
+    },
+    "friendly": {
+      "draws": 34,
+      "goalsAgainst": 271,
+      "goalsFor": 179,
+      "losses": 80,
+      "matches": 160,
+      "wins": 46
+    },
+    "neutralVenue": {
+      "draws": 12,
+      "goalsAgainst": 111,
+      "goalsFor": 111,
+      "losses": 27,
+      "matches": 68,
+      "wins": 29
+    },
+    "nonNeutralVenue": {
+      "draws": 49,
+      "goalsAgainst": 439,
+      "goalsFor": 317,
+      "losses": 122,
+      "matches": 245,
+      "wins": 74
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "neil-danns",
+      "scorer": "Neil Danns"
+    },
+    {
+      "goals": 3,
+      "playerKey": "emery-welshman",
+      "scorer": "Emery Welshman"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ricky-shakes",
+      "scorer": "Ricky Shakes"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chris-nurse",
+      "scorer": "Chris Nurse"
+    },
+    {
+      "goals": 2,
+      "playerKey": "deon-moore",
+      "scorer": "Deon Moore"
+    },
+    {
+      "goals": 2,
+      "playerKey": "omari-glasgow",
+      "scorer": "Omari Glasgow"
+    },
+    {
+      "goals": 2,
+      "playerKey": "trayon-bobb",
+      "scorer": "Trayon Bobb"
+    },
+    {
+      "goals": 2,
+      "playerKey": "vurlon-mills",
+      "scorer": "Vurlon Mills"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anthony-abrams",
+      "scorer": "Anthony Abrams"
+    },
+    {
+      "goals": 1,
+      "playerKey": "antonhy-stanton",
+      "scorer": "Antonhy Stanton"
+    }
+  ]
+}

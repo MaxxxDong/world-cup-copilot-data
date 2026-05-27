@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2000-11-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1973-01-02",
+    "nationality": "Tajikistan",
+    "playerKey": "rustam-khojaev",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "71e9ca2d",
+      "footballdatabase_eu": "73263",
+      "national_football_teams": "6525",
+      "wikidata": "Q7382437"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-11-26",
+  "playerKey": "rustam-khojaev",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-11-26",
+      "goalId": "goal-2000-11-26-tajikistan-guam-20339",
+      "matchKey": "2000-11-26-tajikistan-guam",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rustam Khojaev"
+    },
+    {
+      "date": "2000-11-26",
+      "goalId": "goal-2000-11-26-tajikistan-guam-20334",
+      "matchKey": "2000-11-26-tajikistan-guam",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rustam Khojaev"
+    },
+    {
+      "date": "2000-11-26",
+      "goalId": "goal-2000-11-26-tajikistan-guam-20332",
+      "matchKey": "2000-11-26-tajikistan-guam",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rustam Khojaev"
+    }
+  ],
+  "scorer": "Rustam Khojaev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tajikistan",
+  "teamName": "Tajikistan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

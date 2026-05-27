@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-06-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1985-09-11",
+    "nationality": "Taiwan",
+    "playerKey": "huang-wei-yi",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "288edece",
+      "footballdatabase_eu": "10160",
+      "national_football_teams": "7832",
+      "transfermarkt": "69695",
+      "wikidata": "Q4118132"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-11-17",
+  "playerKey": "huang-wei-yi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-11-17",
+      "goalId": "goal-2004-11-17-uzbekistan-taiwan-24934",
+      "matchKey": "2004-11-17-uzbekistan-taiwan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Huang Wei-yi"
+    },
+    {
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-taiwan-iraq-24502",
+      "matchKey": "2004-09-08-taiwan-iraq",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Huang Wei-yi"
+    },
+    {
+      "date": "2004-06-09",
+      "goalId": "goal-2004-06-09-iraq-taiwan-23773",
+      "matchKey": "2004-06-09-iraq-taiwan",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Huang Wei-yi"
+    }
+  ],
+  "scorer": "Huang Wei-yi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "taiwan",
+  "teamName": "Taiwan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

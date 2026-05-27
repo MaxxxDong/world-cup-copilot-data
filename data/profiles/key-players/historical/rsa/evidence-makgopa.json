@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2021-10-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "2000-06-05",
+    "nationality": "South Africa",
+    "playerKey": "evidence-makgopa",
+    "providerIds": {
+      "api_football": "201354",
+      "espn": "303312",
+      "fbref": "4d76d03b",
+      "footballdatabase_eu": "407704",
+      "heimspiel": "678090",
+      "impect": "110878",
+      "kicker": "evidence-makgopa",
+      "national_football_teams": "82962",
+      "skillcorner": "164228",
+      "soccerway": "653906",
+      "sofascore": "1022170",
+      "thesportsdb": "34228107",
+      "transfermarkt": "746781",
+      "wikidata": "Q100984327",
+      "worldfootball": "evidence-makgopa",
+      "wyscout": "660678"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2026-01-04",
+  "playerKey": "evidence-makgopa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2026-01-04",
+      "goalId": "goal-2026-01-04-rsa-cameroon-47531",
+      "matchKey": "2026-01-04-rsa-cameroon",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evidence Makgopa"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-rsa-rwanda-47210",
+      "matchKey": "2025-10-14-rsa-rwanda",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evidence Makgopa"
+    },
+    {
+      "date": "2024-01-30",
+      "goalId": "goal-2024-01-30-mar-rsa-44399",
+      "matchKey": "2024-01-30-mar-rsa",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evidence Makgopa"
+    },
+    {
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-ethiopia-rsa-41581",
+      "matchKey": "2021-10-09-ethiopia-rsa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evidence Makgopa"
+    }
+  ],
+  "scorer": "Evidence Makgopa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "aliases": [
+    "Bhutan"
+  ],
+  "allTime": {
+    "draws": 7,
+    "goalsAgainst": 398,
+    "goalsFor": 61,
+    "losses": 91,
+    "matches": 109,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 26,
+      "goalsFor": 3,
+      "losses": 8,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 48,
+      "goalsFor": 11,
+      "losses": 15,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 17,
+      "goalsFor": 2,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bhutan",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "yemen",
+      "matchId": "int-2025-11-18-yemen-bhutan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "lebanon",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "bhutan",
+      "matchId": "int-2025-10-14-bhutan-lebanon",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bhutan",
+      "date": "2025-10-09",
+      "homeScore": 2,
+      "homeTeamId": "lebanon",
+      "matchId": "int-2025-10-09-lebanon-bhutan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bhutan",
+      "date": "2025-06-10",
+      "homeScore": 2,
+      "homeTeamId": "brunei",
+      "matchId": "int-2025-06-10-brunei-bhutan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bhutan",
+      "date": "2025-06-04",
+      "homeScore": 2,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-06-04-bangladesh-bhutan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 359,
+      "goalsFor": 52,
+      "losses": 78,
+      "matches": 93,
+      "wins": 8
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 39,
+      "goalsFor": 9,
+      "losses": 13,
+      "matches": 16,
+      "wins": 3
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 186,
+      "goalsFor": 26,
+      "losses": 48,
+      "matches": 53,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 212,
+      "goalsFor": 35,
+      "losses": 43,
+      "matches": 56,
+      "wins": 9
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bhutan",
+  "teamName": "Bhutan",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "chencho-gyeltshen",
+      "scorer": "Chencho Gyeltshen"
+    },
+    {
+      "goals": 4,
+      "playerKey": "tshering-dorji",
+      "scorer": "Tshering Dorji"
+    },
+    {
+      "goals": 1,
+      "playerKey": "biren-basnet",
+      "scorer": "Biren Basnet"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lobzang-chogyal",
+      "scorer": "Lobzang Chogyal"
+    }
+  ]
+}

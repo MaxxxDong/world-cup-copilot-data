@@ -1,0 +1,83 @@
+{
+  "firstGoalDate": "2023-11-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1998-08-28",
+    "nationality": "Kyrgyzstan",
+    "playerKey": "kai-merk",
+    "providerIds": {
+      "api_football": "25722",
+      "espn": "361068",
+      "footballdatabase_eu": "427526",
+      "impect": "187819",
+      "kicker": "kai-merk",
+      "national_football_teams": "90577",
+      "soccerway": "507381",
+      "sofascore": "902654",
+      "thesportsdb": "34230999",
+      "transfermarkt": "516038",
+      "wikidata": "Q57610655",
+      "worldfootball": "kai-merk",
+      "wyscout": "534034"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-10",
+  "playerKey": "kai-merk",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-kyrgyzstan-united-arab-emirates-46403",
+      "matchKey": "2025-06-10-kyrgyzstan-united-arab-emirates",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kai Merk"
+    },
+    {
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-taiwan-kyrgyzstan-44508",
+      "matchKey": "2024-03-21-taiwan-kyrgyzstan",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kai Merk"
+    },
+    {
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-malaysia-kyrgyzstan-43876",
+      "matchKey": "2023-11-16-malaysia-kyrgyzstan",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kai Merk"
+    }
+  ],
+  "scorer": "Kai Merk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

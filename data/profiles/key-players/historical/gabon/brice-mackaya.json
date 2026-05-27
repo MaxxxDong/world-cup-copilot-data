@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "1996-01-19",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1968-07-23",
+    "nationality": "Gabon",
+    "playerKey": "brice-mackaya",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "89807",
+      "national_football_teams": "51189",
+      "sofifa": "155278",
+      "transfermarkt": "439970",
+      "wikidata": "Q17496959",
+      "worldfootball": "brice-mackaya"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1996-06-16",
+  "playerKey": "brice-mackaya",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-gabon-eswatini-16061",
+      "matchKey": "1996-06-16-gabon-eswatini",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Mackaya"
+    },
+    {
+      "date": "1996-01-28",
+      "goalId": "goal-1996-01-28-gabon-tunisia-15830",
+      "matchKey": "1996-01-28-gabon-tunisia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Mackaya"
+    },
+    {
+      "date": "1996-01-19",
+      "goalId": "goal-1996-01-19-dr-congo-gabon-15781",
+      "matchKey": "1996-01-19-dr-congo-gabon",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brice Mackaya"
+    }
+  ],
+  "scorer": "Brice Mackaya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gabon",
+  "teamName": "Gabon",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

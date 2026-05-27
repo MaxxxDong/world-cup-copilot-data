@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Cape Verde",
+    "CPV",
+    "Cabo Verde"
+  ],
+  "allTime": {
+    "draws": 56,
+    "goalsAgainst": 262,
+    "goalsFor": 255,
+    "losses": 89,
+    "matches": 233,
+    "wins": 88
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "CPV",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 10,
+      "goalsFor": 17,
+      "losses": 1,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 19,
+      "goalsFor": 25,
+      "losses": 5,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 6,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "2026-03-30",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2026-03-30-cape-verde-finland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cape-verde",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "chile",
+      "matchId": "int-2026-03-27-chile-cape-verde",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "egypt",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2025-11-17-cape-verde-egypt",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Al Ain International Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "iran",
+      "matchId": "int-2025-11-13-iran-cape-verde",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Al Ain International Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "eswatini",
+      "date": "2025-10-13",
+      "homeScore": 3,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2025-10-13-cape-verde-eswatini",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 43,
+      "goalsAgainst": 209,
+      "goalsFor": 195,
+      "losses": 72,
+      "matches": 185,
+      "wins": 70
+    },
+    "friendly": {
+      "draws": 13,
+      "goalsAgainst": 53,
+      "goalsFor": 60,
+      "losses": 17,
+      "matches": 48,
+      "wins": 18
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 70,
+      "goalsFor": 78,
+      "losses": 22,
+      "matches": 72,
+      "wins": 29
+    },
+    "nonNeutralVenue": {
+      "draws": 35,
+      "goalsAgainst": 192,
+      "goalsFor": 177,
+      "losses": 67,
+      "matches": 161,
+      "wins": 59
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "cape-verde",
+  "teamName": "Cape Verde",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "arlindo-gomes-semedo",
+      "scorer": "Arlindo Gomes Semedo"
+    },
+    {
+      "goals": 5,
+      "playerKey": "garry-rodrigues",
+      "scorer": "Garry Rodrigues"
+    },
+    {
+      "goals": 5,
+      "playerKey": "h-ldon-ramos",
+      "scorer": "Héldon Ramos"
+    },
+    {
+      "goals": 4,
+      "playerKey": "dailon-livramento",
+      "scorer": "Dailon Livramento"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jamiro-monteiro",
+      "scorer": "Jamiro Monteiro"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ryan-mendes",
+      "scorer": "Ryan Mendes"
+    },
+    {
+      "goals": 3,
+      "playerKey": "carlos-morais-cal",
+      "scorer": "Carlos Morais Caló"
+    },
+    {
+      "goals": 3,
+      "playerKey": "eduardo-fernando-gomes",
+      "scorer": "Eduardo Fernando Gomes"
+    },
+    {
+      "goals": 3,
+      "playerKey": "j-lio-tavares",
+      "scorer": "Júlio Tavares"
+    },
+    {
+      "goals": 3,
+      "playerKey": "stopira",
+      "scorer": "Stopira"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Guatemala"
+  ],
+  "allTime": {
+    "draws": 140,
+    "goalsAgainst": 755,
+    "goalsFor": 773,
+    "losses": 213,
+    "matches": 552,
+    "wins": 199
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 19,
+      "goalsFor": 13,
+      "losses": 4,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 34,
+      "goalsFor": 28,
+      "losses": 8,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "guatemala",
+      "date": "2026-03-27",
+      "homeScore": 7,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-03-27-algeria-guatemala",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "suriname",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2025-11-18-guatemala-suriname",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "panama",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2025-11-13-guatemala-panama",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guatemala",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "el-salvador",
+      "matchId": "int-2025-10-14-el-salvador-guatemala",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guatemala",
+      "date": "2025-10-10",
+      "homeScore": 1,
+      "homeTeamId": "suriname",
+      "matchId": "int-2025-10-10-suriname-guatemala",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 80,
+      "goalsAgainst": 419,
+      "goalsFor": 522,
+      "losses": 107,
+      "matches": 316,
+      "wins": 129
+    },
+    "friendly": {
+      "draws": 60,
+      "goalsAgainst": 336,
+      "goalsFor": 251,
+      "losses": 106,
+      "matches": 236,
+      "wins": 70
+    },
+    "neutralVenue": {
+      "draws": 62,
+      "goalsAgainst": 312,
+      "goalsFor": 287,
+      "losses": 85,
+      "matches": 219,
+      "wins": 72
+    },
+    "nonNeutralVenue": {
+      "draws": 78,
+      "goalsAgainst": 443,
+      "goalsFor": 486,
+      "losses": 128,
+      "matches": 333,
+      "wins": 127
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guatemala",
+  "teamName": "Guatemala",
+  "topScorers": [
+    {
+      "goals": 47,
+      "playerKey": "carlos-ruiz",
+      "scorer": "Carlos Ruiz"
+    },
+    {
+      "goals": 14,
+      "playerKey": "juan-carlos-plata",
+      "scorer": "Juan Carlos Plata"
+    },
+    {
+      "goals": 9,
+      "playerKey": "freddy-garc-a",
+      "scorer": "Freddy García"
+    },
+    {
+      "goals": 8,
+      "playerKey": "dwight-pezzarossi",
+      "scorer": "Dwight Pezzarossi"
+    },
+    {
+      "goals": 6,
+      "playerKey": "guillermo-ram-rez",
+      "scorer": "Guillermo Ramírez"
+    },
+    {
+      "goals": 6,
+      "playerKey": "hugo-pe-a",
+      "scorer": "Hugo Peña"
+    },
+    {
+      "goals": 6,
+      "playerKey": "mario-rafael-rodr-guez",
+      "scorer": "Mario Rafael Rodríguez"
+    },
+    {
+      "goals": 6,
+      "playerKey": "rubio-rubin",
+      "scorer": "Rubio Rubin"
+    },
+    {
+      "goals": 5,
+      "playerKey": "darwin-lom",
+      "scorer": "Darwin Lom"
+    },
+    {
+      "goals": 5,
+      "playerKey": "gonzalo-romero",
+      "scorer": "Gonzalo Romero"
+    }
+  ]
+}

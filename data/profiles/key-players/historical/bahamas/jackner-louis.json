@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2011-07-02",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-01-15",
+    "nationality": "The Bahamas",
+    "playerKey": "jackner-louis",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "ae658d22",
+      "footballdatabase_eu": "142661",
+      "national_football_teams": "43908",
+      "soccerway": "194888",
+      "transfermarkt": "216897",
+      "wikidata": "Q3805732"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-02",
+  "playerKey": "jackner-louis",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-02",
+      "goalId": "goal-2011-07-02-turks-and-caicos-islands-bahamas-30622",
+      "matchKey": "2011-07-02-turks-and-caicos-islands-bahamas",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jackner Louis"
+    }
+  ],
+  "scorer": "Jackner Louis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bahamas",
+  "teamName": "Bahamas",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

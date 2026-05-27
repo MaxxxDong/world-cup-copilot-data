@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2019-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1997-07-07",
+    "playerKey": "sath-rosib",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "130196",
+      "fbref": "55fc1821",
+      "footballdatabase_eu": "307180",
+      "national_football_teams": "70668",
+      "sofascore": "872960",
+      "thesportsdb": "34252419",
+      "transfermarkt": "500064",
+      "wikidata": "Q57586227"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-11",
+  "playerKey": "sath-rosib",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-11",
+      "goalId": "goal-2019-06-11-pakistan-cambodia-38525",
+      "matchKey": "2019-06-11-pakistan-cambodia",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sath Rosib"
+    }
+  ],
+  "scorer": "Sath Rosib",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cambodia",
+  "teamName": "Cambodia",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

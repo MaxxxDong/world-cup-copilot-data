@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2011-07-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1990-08-30",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "erik-santos-de-gouveia",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "aef63d3d",
+      "footballdatabase_eu": "143137",
+      "national_football_teams": "44004",
+      "sofascore": "1110872",
+      "sofifa": "345189",
+      "transfermarkt": "216868",
+      "wikidata": "Q9254597"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-08",
+  "playerKey": "erik-santos-de-gouveia",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-aruba-saint-lucia-30661",
+      "matchKey": "2011-07-08-aruba-saint-lucia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erik Santos de Gouveia"
+    }
+  ],
+  "scorer": "Erik Santos de Gouveia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

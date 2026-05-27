@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Réunion"
+  ],
+  "allTime": {
+    "draws": 22,
+    "goalsAgainst": 220,
+    "goalsFor": 219,
+    "losses": 49,
+    "matches": 124,
+    "wins": 53
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 6,
+      "goalsFor": 16,
+      "losses": 2,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 13,
+      "goalsFor": 39,
+      "losses": 4,
+      "matches": 20,
+      "wins": 12
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 4,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "reunion",
+      "date": "2023-09-02",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2023-09-02-madagascar-reunion",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritius",
+      "date": "2023-08-31",
+      "homeScore": 2,
+      "homeTeamId": "reunion",
+      "matchId": "int-2023-08-31-reunion-mauritius",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "reunion",
+      "date": "2023-08-28",
+      "homeScore": 1,
+      "homeTeamId": "comoros",
+      "matchId": "int-2023-08-28-comoros-reunion",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2023-08-26",
+      "homeScore": 0,
+      "homeTeamId": "reunion",
+      "matchId": "int-2023-08-26-reunion-mayotte",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "reunion",
+      "date": "2019-07-28",
+      "homeScore": 1,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2019-07-28-mauritius-reunion",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 11,
+      "goalsAgainst": 34,
+      "goalsFor": 123,
+      "losses": 8,
+      "matches": 54,
+      "wins": 35
+    },
+    "friendly": {
+      "draws": 11,
+      "goalsAgainst": 186,
+      "goalsFor": 96,
+      "losses": 41,
+      "matches": 70,
+      "wins": 18
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 65,
+      "goalsFor": 100,
+      "losses": 13,
+      "matches": 46,
+      "wins": 27
+    },
+    "nonNeutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 155,
+      "goalsFor": 119,
+      "losses": 36,
+      "matches": 78,
+      "wins": 26
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "reunion",
+  "teamName": "Réunion",
+  "topScorers": []
+}

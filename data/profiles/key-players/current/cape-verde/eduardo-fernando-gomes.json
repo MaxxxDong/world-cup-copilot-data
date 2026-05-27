@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "name": "Eduardo Fernando Gomes",
+  "playerKey": "eduardo-fernando-gomes",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-cape-verde-mauritius-28190",
+      "matchKey": "2008-06-22-cape-verde-mauritius",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduardo Fernando Gomes"
+    },
+    {
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-cape-verde-mauritius-28189",
+      "matchKey": "2008-06-22-cape-verde-mauritius",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduardo Fernando Gomes"
+    },
+    {
+      "date": "2008-06-15",
+      "goalId": "goal-2008-06-15-mauritius-cape-verde-28059",
+      "matchKey": "2008-06-15-mauritius-cape-verde",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Eduardo Fernando Gomes"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/cape-verde"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "cape-verde",
+  "teamName": "Cape Verde"
+}

@@ -1,0 +1,146 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 27,
+  "identity": {
+    "dateOfBirth": "1955-06-21",
+    "nationality": "France",
+    "playerKey": "michel-platini",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "16763",
+      "fbref": "55512f39",
+      "fff_fr": "9777-platini-michel",
+      "footballdatabase_eu": "15257",
+      "kicker": "michel-platini",
+      "lequipe": "9663",
+      "national_football_teams": "16083",
+      "sofifa": "28528",
+      "transfermarkt": "88994",
+      "uefa": "5317",
+      "wikidata": "Q4261"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Michel Platini",
+  "playerKey": "michel-platini",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1986-06-21",
+      "goalId": "goal-1986-06-21-bra-fra-11255",
+      "matchKey": "1986-06-21-bra-fra",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1986-06-17",
+      "goalId": "goal-1986-06-17-italy-fra-11242",
+      "matchKey": "1986-06-17-italy-fra",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1985-11-06",
+      "goalId": "goal-1985-11-06-fra-yugoslavia-11072",
+      "matchKey": "1985-11-06-fra-yugoslavia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1985-11-06",
+      "goalId": "goal-1985-11-06-fra-yugoslavia-11071",
+      "matchKey": "1985-11-06-fra-yugoslavia",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-11-21",
+      "goalId": "goal-1984-11-21-fra-bulgaria-10448",
+      "matchKey": "1984-11-21-fra-bulgaria",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-10-13",
+      "goalId": "goal-1984-10-13-luxembourg-fra-10339",
+      "matchKey": "1984-10-13-luxembourg-fra",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-06-27",
+      "goalId": "goal-1984-06-27-fra-spain-10298",
+      "matchKey": "1984-06-27-fra-spain",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-06-23",
+      "goalId": "goal-1984-06-23-fra-portugal-10295",
+      "matchKey": "1984-06-23-fra-portugal",
+      "minute": 119,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-06-19",
+      "goalId": "goal-1984-06-19-fra-yugoslavia-10287",
+      "matchKey": "1984-06-19-fra-yugoslavia",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    },
+    {
+      "date": "1984-06-19",
+      "goalId": "goal-1984-06-19-fra-yugoslavia-10286",
+      "matchKey": "1984-06-19-fra-yugoslavia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michel Platini"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/fra"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "fra",
+  "teamName": "France"
+}

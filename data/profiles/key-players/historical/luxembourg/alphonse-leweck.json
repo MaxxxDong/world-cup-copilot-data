@@ -1,0 +1,83 @@
+{
+  "firstGoalDate": "2004-09-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1981-12-16",
+    "nationality": "Luxembourg",
+    "playerKey": "alphonse-leweck",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "12135",
+      "fbref": "6af6780c",
+      "footballdatabase_eu": "3666",
+      "kicker": "alphonse-leweck",
+      "national_football_teams": "3969",
+      "soccerway": "35071",
+      "sofascore": "31239",
+      "sofifa": "215381",
+      "transfermarkt": "40874",
+      "uefa": "34102",
+      "wikidata": "Q304467",
+      "worldfootball": "fons-leweck"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-09-10",
+  "playerKey": "alphonse-leweck",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-switzerland-luxembourg-28549",
+      "matchKey": "2008-09-10-switzerland-luxembourg",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alphonse Leweck"
+    },
+    {
+      "date": "2007-10-13",
+      "goalId": "goal-2007-10-13-belarus-luxembourg-27097",
+      "matchKey": "2007-10-13-belarus-luxembourg",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alphonse Leweck"
+    },
+    {
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-luxembourg-latvia-24449",
+      "matchKey": "2004-09-08-luxembourg-latvia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alphonse Leweck"
+    }
+  ],
+  "scorer": "Alphonse Leweck",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

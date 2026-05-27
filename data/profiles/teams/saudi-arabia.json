@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Saudi Arabia",
+    "KSA",
+    "Green Falcons"
+  ],
+  "allTime": {
+    "draws": 169,
+    "goalsAgainst": 775,
+    "goalsFor": 1134,
+    "losses": 219,
+    "matches": 738,
+    "wins": 350
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "KSA",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 23,
+      "goalsFor": 22,
+      "losses": 8,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 3,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "saudi-arabia",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2026-03-31-serbia-saudi-arabia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "egypt",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2026-03-27-saudi-arabia-egypt",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "jordan",
+      "date": "2025-12-15",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2025-12-15-saudi-arabia-jordan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "2025-12-11",
+      "homeScore": 1,
+      "homeTeamId": "palestine",
+      "matchId": "int-2025-12-11-palestine-saudi-arabia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saudi-arabia",
+      "date": "2025-12-08",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-12-08-mar-saudi-arabia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 99,
+      "goalsAgainst": 441,
+      "goalsFor": 756,
+      "losses": 120,
+      "matches": 454,
+      "wins": 235
+    },
+    "friendly": {
+      "draws": 70,
+      "goalsAgainst": 334,
+      "goalsFor": 378,
+      "losses": 99,
+      "matches": 284,
+      "wins": 115
+    },
+    "neutralVenue": {
+      "draws": 75,
+      "goalsAgainst": 354,
+      "goalsFor": 424,
+      "losses": 104,
+      "matches": 318,
+      "wins": 139
+    },
+    "nonNeutralVenue": {
+      "draws": 94,
+      "goalsAgainst": 421,
+      "goalsFor": 710,
+      "losses": 115,
+      "matches": 420,
+      "wins": 211
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 44,
+      "goalsFor": 14,
+      "losses": 13,
+      "matches": 19,
+      "wins": 4
+    }
+  },
+  "teamId": "saudi-arabia",
+  "teamName": "Saudi Arabia",
+  "topScorers": [
+    {
+      "goals": 21,
+      "playerKey": "sami-al-jaber",
+      "scorer": "Sami Al-Jaber"
+    },
+    {
+      "goals": 19,
+      "playerKey": "mohammad-al-sahlawi",
+      "scorer": "Mohammad Al-Sahlawi"
+    },
+    {
+      "goals": 17,
+      "playerKey": "talal-al-meshal",
+      "scorer": "Talal Al-Meshal"
+    },
+    {
+      "goals": 15,
+      "playerKey": "salem-al-dawsari",
+      "scorer": "Salem Al-Dawsari"
+    },
+    {
+      "goals": 14,
+      "playerKey": "khaled-massad",
+      "scorer": "Khaled Massad"
+    },
+    {
+      "goals": 14,
+      "playerKey": "yasser-al-qahtani",
+      "scorer": "Yasser Al-Qahtani"
+    },
+    {
+      "goals": 13,
+      "playerKey": "obeid-al-dosari",
+      "scorer": "Obeid Al-Dosari"
+    },
+    {
+      "goals": 13,
+      "playerKey": "saleh-al-shehri",
+      "scorer": "Saleh Al-Shehri"
+    },
+    {
+      "goals": 11,
+      "playerKey": "majed-abdullah",
+      "scorer": "Majed Abdullah"
+    },
+    {
+      "goals": 11,
+      "playerKey": "saeed-al-owairan",
+      "scorer": "Saeed Al-Owairan"
+    }
+  ]
+}

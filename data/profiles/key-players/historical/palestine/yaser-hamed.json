@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2019-09-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1997-12-09",
+    "nationality": "Palestine",
+    "playerKey": "yaser-hamed",
+    "position": "centre-back",
+    "providerIds": {
+      "fbref": "7cda60a6",
+      "footballdatabase_eu": "366478",
+      "heimspiel": "565263",
+      "impect": "65419",
+      "kicker": "yaser-hamed",
+      "national_football_teams": "74887",
+      "skillcorner": "287900",
+      "soccerway": "551423",
+      "sofascore": "966851",
+      "transfermarkt": "582544",
+      "wikidata": "Q67852236"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-15",
+  "playerKey": "yaser-hamed",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-15",
+      "goalId": "goal-2021-06-15-palestine-yemen-40817",
+      "matchKey": "2021-06-15-palestine-yemen",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yaser Hamed"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-palestine-singapore-40495",
+      "matchKey": "2021-06-03-palestine-singapore",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yaser Hamed"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-singapore-palestine-39082",
+      "matchKey": "2019-09-10-singapore-palestine",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yaser Hamed"
+    }
+  ],
+  "scorer": "Yaser Hamed",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "palestine",
+  "teamName": "Palestine",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "firstGoalDate": "1965-11-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1941-01-11",
+    "nationality": "North Korea",
+    "playerKey": "pak-seung-zin",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "d40f4486",
+      "footballdatabase_eu": "89422",
+      "national_football_teams": "63883",
+      "sofascore": "1418855",
+      "sofifa": "55826",
+      "transfermarkt": "236073",
+      "wikidata": "Q1208809"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1966-07-23",
+  "playerKey": "pak-seung-zin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1966-07-23",
+      "goalId": "goal-1966-07-23-north-korea-portugal-4685",
+      "matchKey": "1966-07-23-north-korea-portugal",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Seung-zin"
+    },
+    {
+      "date": "1966-07-15",
+      "goalId": "goal-1966-07-15-chile-north-korea-4645",
+      "matchKey": "1966-07-15-chile-north-korea",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Seung-zin"
+    },
+    {
+      "date": "1965-11-24",
+      "goalId": "goal-1965-11-24-australia-north-korea-4605",
+      "matchKey": "1965-11-24-australia-north-korea",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Seung-zin"
+    },
+    {
+      "date": "1965-11-21",
+      "goalId": "goal-1965-11-21-north-korea-australia-4592",
+      "matchKey": "1965-11-21-north-korea-australia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Seung-zin"
+    },
+    {
+      "date": "1965-11-21",
+      "goalId": "goal-1965-11-21-north-korea-australia-4588",
+      "matchKey": "1965-11-21-north-korea-australia",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pak Seung-zin"
+    }
+  ],
+  "scorer": "Pak Seung-zin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "north-korea",
+  "teamName": "North Korea",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

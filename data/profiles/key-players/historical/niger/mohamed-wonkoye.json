@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2021-09-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-05-19",
+    "nationality": "Niger",
+    "playerKey": "mohamed-wonkoye",
+    "providerIds": {
+      "espn": "273172",
+      "fbref": "cc4490d8",
+      "footballdatabase_eu": "185571",
+      "national_football_teams": "49394",
+      "opta": "7wdv7no91rcbholz6exf7boph",
+      "soccerway": "281242",
+      "sofascore": "794138",
+      "transfermarkt": "355484",
+      "wikidata": "Q107195329",
+      "worldfootball": "amadou-wonkoye"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-11-15",
+  "playerKey": "mohamed-wonkoye",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-niger-djibouti-42044",
+      "matchKey": "2021-11-15-niger-djibouti",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Wonkoye"
+    },
+    {
+      "date": "2021-09-06",
+      "goalId": "goal-2021-09-06-djibouti-niger-41322",
+      "matchKey": "2021-09-06-djibouti-niger",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohamed Wonkoye"
+    }
+  ],
+  "scorer": "Mohamed Wonkoye",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "niger",
+  "teamName": "Niger",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

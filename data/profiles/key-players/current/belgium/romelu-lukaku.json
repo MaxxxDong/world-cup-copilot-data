@@ -1,0 +1,167 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 64,
+  "identity": {
+    "dateOfBirth": "1993-05-13",
+    "nationality": "Belgium",
+    "playerKey": "romelu-lukaku",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "236232",
+      "api_football": "907",
+      "capology": "romelu-lukaku-34102",
+      "dongqiudi": "50055783",
+      "espn": "139437",
+      "eu_football_info": "25617",
+      "fbref": "5eae500a",
+      "footballdatabase_eu": "70663",
+      "heimspiel": "152895",
+      "hugman": "23870",
+      "impect": "110",
+      "kicker": "romelu-lukaku",
+      "lequipe": "33835",
+      "national_football_teams": "36279",
+      "opta": "8qgbxff7xlg0zjtyees7ljljp",
+      "opta_numeric": "66749",
+      "premier_league": "4290",
+      "serie_a": "romelu-lukaku-97006",
+      "skillcorner": "9269",
+      "soccerbase": "56521",
+      "soccerway": "79495",
+      "sofascore": "78893",
+      "sofifa": "358112",
+      "statmuse_pl": "5470",
+      "thesportsdb": "34145819",
+      "transfermarkt": "96341",
+      "uefa": "250010802",
+      "understat": "594",
+      "whoscored": "78498",
+      "wikidata": "Q313316",
+      "worldfootball": "romelu-lukaku",
+      "wyscout": "7905"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Romelu Lukaku",
+  "playerKey": "romelu-lukaku",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-09",
+      "goalId": "goal-2025-06-09-belgium-wales-46336",
+      "matchKey": "2025-06-09-belgium-wales",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2025-03-23",
+      "goalId": "goal-2025-03-23-belgium-ukraine-46019",
+      "matchKey": "2025-03-23-belgium-ukraine",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2025-03-23",
+      "goalId": "goal-2025-03-23-belgium-ukraine-46018",
+      "matchKey": "2025-03-23-belgium-ukraine",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-ukraine-belgium-45935",
+      "matchKey": "2025-03-20-ukraine-belgium",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-belgium-azerbaijan-44031",
+      "matchKey": "2023-11-19-belgium-azerbaijan",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-belgium-azerbaijan-44030",
+      "matchKey": "2023-11-19-belgium-azerbaijan",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-belgium-azerbaijan-44029",
+      "matchKey": "2023-11-19-belgium-azerbaijan",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-belgium-azerbaijan-44028",
+      "matchKey": "2023-11-19-belgium-azerbaijan",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-10-16",
+      "goalId": "goal-2023-10-16-belgium-sweden-43724",
+      "matchKey": "2023-10-16-belgium-sweden",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "date": "2023-10-13",
+      "goalId": "goal-2023-10-13-austria-belgium-43657",
+      "matchKey": "2023-10-13-austria-belgium",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romelu Lukaku"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/belgium"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "belgium",
+  "teamName": "Belgium"
+}

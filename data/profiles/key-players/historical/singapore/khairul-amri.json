@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2004-10-13",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1985-03-15",
+    "nationality": "Singapore",
+    "playerKey": "khairul-amri",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "16a47586",
+      "footballdatabase_eu": "19220",
+      "national_football_teams": "7886",
+      "soccerway": "24522",
+      "transfermarkt": "68625",
+      "wikidata": "Q10314253"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-08",
+  "playerKey": "khairul-amri",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-singapore-afghanistan-35017",
+      "matchKey": "2015-10-08-singapore-afghanistan",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khairul Amri"
+    },
+    {
+      "date": "2015-06-11",
+      "goalId": "goal-2015-06-11-cambodia-singapore-34356",
+      "matchKey": "2015-06-11-cambodia-singapore",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khairul Amri"
+    },
+    {
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-singapore-india-24779",
+      "matchKey": "2004-10-13-singapore-india",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khairul Amri"
+    }
+  ],
+  "scorer": "Khairul Amri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "singapore",
+  "teamName": "Singapore",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

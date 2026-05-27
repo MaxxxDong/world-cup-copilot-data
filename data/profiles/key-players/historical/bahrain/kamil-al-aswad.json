@@ -1,0 +1,100 @@
+{
+  "firstGoalDate": "2019-09-05",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1994-04-08",
+    "nationality": "Bahrain",
+    "playerKey": "kamil-al-aswad",
+    "position": "midfielder",
+    "providerIds": {
+      "espn": "226947",
+      "fbref": "83da5b10",
+      "footballdatabase_eu": "227942",
+      "impect": "3504",
+      "kicker": "kamil-al-aswad",
+      "national_football_teams": "59319",
+      "soccerway": "330388",
+      "transfermarkt": "356682",
+      "wikidata": "Q22929682",
+      "worldfootball": "kamil-al-aswad",
+      "wyscout": "300774"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-26",
+  "playerKey": "kamil-al-aswad",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-bahrain-nepal-44532",
+      "matchKey": "2024-03-26-bahrain-nepal",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Al-Aswad"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-bahrain-cambodia-40474",
+      "matchKey": "2021-06-03-bahrain-cambodia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Al Aswad"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-bahrain-cambodia-40469",
+      "matchKey": "2021-06-03-bahrain-cambodia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Al Aswad"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-cambodia-bahrain-39013",
+      "matchKey": "2019-09-10-cambodia-bahrain",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Al Aswad"
+    },
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-bahrain-iraq-38806",
+      "matchKey": "2019-09-05-bahrain-iraq",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Al Aswad"
+    }
+  ],
+  "scorer": "Kamil Al Aswad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bahrain",
+  "teamName": "Bahrain",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

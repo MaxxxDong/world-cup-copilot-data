@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2011-11-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-04-14",
+    "nationality": "Lesotho",
+    "playerKey": "lehlomela-ramabele",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "89d1c6c9",
+      "footballdatabase_eu": "152590",
+      "national_football_teams": "45686",
+      "sofifa": "350612",
+      "transfermarkt": "184956",
+      "wikidata": "Q3229122"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-11",
+  "playerKey": "lehlomela-ramabele",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-lesotho-burundi-31417",
+      "matchKey": "2011-11-11-lesotho-burundi",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lehlomela Ramabele"
+    }
+  ],
+  "scorer": "Lehlomela Ramabele",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lesotho",
+  "teamName": "Lesotho",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

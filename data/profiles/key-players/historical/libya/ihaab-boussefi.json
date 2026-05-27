@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2012-01-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1985-06-23",
+    "nationality": "Libya",
+    "playerKey": "ihaab-boussefi",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "c1b46fd7",
+      "footballdatabase_eu": "141780",
+      "kicker": "ihaab-boussefi",
+      "national_football_teams": "43704",
+      "sofascore": "218112",
+      "transfermarkt": "178284",
+      "wikidata": "Q3085659"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-01-29",
+  "playerKey": "ihaab-boussefi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-01-29",
+      "goalId": "goal-2012-01-29-libya-senegal-31647",
+      "matchKey": "2012-01-29-libya-senegal",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ihaab Boussefi"
+    },
+    {
+      "date": "2012-01-29",
+      "goalId": "goal-2012-01-29-libya-senegal-31645",
+      "matchKey": "2012-01-29-libya-senegal",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ihaab Boussefi"
+    }
+  ],
+  "scorer": "Ihaab Boussefi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

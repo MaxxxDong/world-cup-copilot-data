@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "2001-04-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1971-04-15",
+    "nationality": "Samoa",
+    "playerKey": "junior-michael",
+    "position": "forward",
+    "providerIds": {
+      "sofifa": "158711",
+      "transfermarkt": "68466",
+      "wikidata": "Q6313361"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-19",
+  "playerKey": "junior-michael",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-19",
+      "goalId": "goal-2004-05-19-samoa-papua-new-guinea-23643",
+      "matchKey": "2004-05-19-samoa-papua-new-guinea",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Junior Michael"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-samoa-american-samoa-23555",
+      "matchKey": "2004-05-10-samoa-american-samoa",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Junior Michael"
+    },
+    {
+      "date": "2001-04-09",
+      "goalId": "goal-2001-04-09-american-samoa-samoa-20735",
+      "matchKey": "2001-04-09-american-samoa-samoa",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Junior Michael"
+    }
+  ],
+  "scorer": "Junior Michael",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

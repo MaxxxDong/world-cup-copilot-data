@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "1997-03-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1973-06-03",
+    "nationality": "Bangladesh",
+    "playerKey": "alfaz-ahmed",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "1b0dcda3",
+      "national_football_teams": "605",
+      "transfermarkt": "833129",
+      "wikidata": "Q10763998"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-02-12",
+  "playerKey": "alfaz-ahmed",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-02-12",
+      "goalId": "goal-2001-02-12-mongolia-bangladesh-20399",
+      "matchKey": "2001-02-12-mongolia-bangladesh",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alfaz Ahmed"
+    },
+    {
+      "date": "2001-02-12",
+      "goalId": "goal-2001-02-12-mongolia-bangladesh-20398",
+      "matchKey": "2001-02-12-mongolia-bangladesh",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alfaz Ahmed"
+    },
+    {
+      "date": "1997-03-29",
+      "goalId": "goal-1997-03-29-taiwan-bangladesh-16840",
+      "matchKey": "1997-03-29-taiwan-bangladesh",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alfaz Ahmed"
+    }
+  ],
+  "scorer": "Alfaz Ahmed",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

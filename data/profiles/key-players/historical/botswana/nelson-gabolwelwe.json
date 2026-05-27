@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2003-10-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1977-09-03",
+    "nationality": "Botswana",
+    "playerKey": "nelson-gabolwelwe",
+    "position": "left back",
+    "providerIds": {
+      "footballdatabase_eu": "9902",
+      "national_football_teams": "966",
+      "sofascore": "1869338",
+      "transfermarkt": "78884",
+      "wikidata": "Q6990524"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-06-19",
+  "playerKey": "nelson-gabolwelwe",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-06-19",
+      "goalId": "goal-2004-06-19-botswana-malawi-23891",
+      "matchKey": "2004-06-19-botswana-malawi",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelson Gabolwelwe"
+    },
+    {
+      "date": "2003-10-11",
+      "goalId": "goal-2003-10-11-botswana-lesotho-23044",
+      "matchKey": "2003-10-11-botswana-lesotho",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nelson Gabolwelwe"
+    }
+  ],
+  "scorer": "Nelson Gabolwelwe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "botswana",
+  "teamName": "Botswana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

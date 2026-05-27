@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Chameria"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 8,
+    "goalsFor": 14,
+    "losses": 2,
+    "matches": 7,
+    "wins": 3
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 14,
+      "losses": 2,
+      "matches": 7,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 14,
+      "losses": 2,
+      "matches": 7,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 9,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "two-sicilies",
+      "date": "2023-07-01",
+      "homeScore": 3,
+      "homeTeamId": "chameria",
+      "matchId": "int-2023-07-01-chameria-two-sicilies",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "chameria",
+      "date": "2023-06-30",
+      "homeScore": 3,
+      "homeTeamId": "szekely-land",
+      "matchId": "int-2023-06-30-szekely-land-chameria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "chameria",
+      "date": "2019-06-08",
+      "homeScore": 0,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2019-06-08-abkhazia-chameria",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "chameria",
+      "date": "2019-06-06",
+      "homeScore": 0,
+      "homeTeamId": "south-ossetia",
+      "matchId": "int-2019-06-06-south-ossetia-chameria",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sapmi",
+      "date": "2019-06-04",
+      "homeScore": 4,
+      "homeTeamId": "chameria",
+      "matchId": "int-2019-06-04-chameria-sapmi",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 14,
+      "losses": 2,
+      "matches": 7,
+      "wins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 6,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "chameria",
+  "teamName": "Chameria",
+  "topScorers": []
+}

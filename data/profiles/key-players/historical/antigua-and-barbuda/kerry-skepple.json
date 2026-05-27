@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2008-06-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-11-25",
+    "nationality": "Antigua and Barbuda",
+    "playerKey": "kerry-skepple",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "2db7963f",
+      "footballdatabase_eu": "33194",
+      "national_football_teams": "253",
+      "sofascore": "816649",
+      "sofifa": "179328",
+      "transfermarkt": "78928",
+      "wikidata": "Q4118187"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-11",
+  "playerKey": "kerry-skepple",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-antigua-and-barbuda-haiti-31367",
+      "matchKey": "2011-11-11-antigua-and-barbuda-haiti",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kerry Skepple"
+    },
+    {
+      "date": "2008-06-17",
+      "goalId": "goal-2008-06-17-antigua-and-barbuda-cuba-28088",
+      "matchKey": "2008-06-17-antigua-and-barbuda-cuba",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kerry Skepple"
+    },
+    {
+      "date": "2008-06-17",
+      "goalId": "goal-2008-06-17-antigua-and-barbuda-cuba-28086",
+      "matchKey": "2008-06-17-antigua-and-barbuda-cuba",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kerry Skepple"
+    }
+  ],
+  "scorer": "Kerry Skepple",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "antigua-and-barbuda",
+  "teamName": "Antigua and Barbuda",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

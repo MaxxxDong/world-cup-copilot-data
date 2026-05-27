@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "1985-05-25",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1960-01-01",
+    "nationality": "North Korea",
+    "playerKey": "han-hyong-il",
+    "providerIds": {
+      "national_football_teams": "83425",
+      "wikidata": "Q3126636"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1989-07-09",
+  "playerKey": "han-hyong-il",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1989-07-09",
+      "goalId": "goal-1989-07-09-north-korea-indonesia-12191",
+      "matchKey": "1989-07-09-north-korea-indonesia",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il"
+    },
+    {
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12158",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il"
+    },
+    {
+      "date": "1985-05-25",
+      "goalId": "goal-1985-05-25-north-korea-singapore-10817",
+      "matchKey": "1985-05-25-north-korea-singapore",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il"
+    }
+  ],
+  "scorer": "Han Hyong-Il",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "north-korea",
+  "teamName": "North Korea",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

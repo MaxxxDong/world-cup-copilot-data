@@ -1,0 +1,64 @@
+{
+  "firstGoalDate": "1992-03-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1962-01-01",
+    "nationality": "United States",
+    "playerKey": "marcos-lugris",
+    "providerIds": {
+      "fbref": "61a99bbb",
+      "national_football_teams": "78735",
+      "wikidata": "Q105076964"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1996-05-04",
+  "playerKey": "marcos-lugris",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-05-04",
+      "goalId": "goal-1996-05-04-puerto-rico-saint-vincent-and-the-grenadines-15900",
+      "matchKey": "1996-05-04-puerto-rico-saint-vincent-and-the-grenadines",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marcos Lugris"
+    },
+    {
+      "date": "1992-03-21",
+      "goalId": "goal-1992-03-21-dominican-republic-puerto-rico-13085",
+      "matchKey": "1992-03-21-dominican-republic-puerto-rico",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcos Lugris"
+    }
+  ],
+  "scorer": "Marcos Lugris",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "puerto-rico",
+  "teamName": "Puerto Rico",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

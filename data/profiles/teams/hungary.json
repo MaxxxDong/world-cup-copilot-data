@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Hungary"
+  ],
+  "allTime": {
+    "draws": 222,
+    "goalsAgainst": 1481,
+    "goalsFor": 2006,
+    "losses": 312,
+    "matches": 1004,
+    "wins": 470
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 13,
+      "goalsFor": 14,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 32,
+      "goalsFor": 20,
+      "losses": 8,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 6,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "greece",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "hungary",
+      "matchId": "int-2026-03-31-hungary-greece",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "2026-03-28",
+      "homeScore": 1,
+      "homeTeamId": "hungary",
+      "matchId": "int-2026-03-28-hungary-slovenia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "republic-of-ireland",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "hungary",
+      "matchId": "int-2025-11-16-hungary-republic-of-ireland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "armenia",
+      "matchId": "int-2025-11-13-armenia-hungary",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "hungary",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "portugal",
+      "matchId": "int-2025-10-14-portugal-hungary",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 88,
+      "goalsAgainst": 604,
+      "goalsFor": 813,
+      "losses": 138,
+      "matches": 424,
+      "wins": 198
+    },
+    "friendly": {
+      "draws": 134,
+      "goalsAgainst": 877,
+      "goalsFor": 1193,
+      "losses": 174,
+      "matches": 580,
+      "wins": 272
+    },
+    "neutralVenue": {
+      "draws": 11,
+      "goalsAgainst": 91,
+      "goalsFor": 141,
+      "losses": 23,
+      "matches": 66,
+      "wins": 32
+    },
+    "nonNeutralVenue": {
+      "draws": 211,
+      "goalsAgainst": 1390,
+      "goalsFor": 1865,
+      "losses": 289,
+      "matches": 938,
+      "wins": 438
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 57,
+      "goalsFor": 87,
+      "losses": 14,
+      "matches": 32,
+      "wins": 15
+    }
+  },
+  "teamId": "hungary",
+  "teamName": "Hungary",
+  "topScorers": [
+    {
+      "goals": 25,
+      "playerKey": "ferenc-bene",
+      "scorer": "Ferenc Bene"
+    },
+    {
+      "goals": 23,
+      "playerKey": "d-m-szalai",
+      "scorer": "Ádám Szalai"
+    },
+    {
+      "goals": 21,
+      "playerKey": "zolt-n-gera",
+      "scorer": "Zoltán Gera"
+    },
+    {
+      "goals": 20,
+      "playerKey": "tibor-nyilasi",
+      "scorer": "Tibor Nyilasi"
+    },
+    {
+      "goals": 15,
+      "playerKey": "lajos-tichy",
+      "scorer": "Lajos Tichy"
+    },
+    {
+      "goals": 14,
+      "playerKey": "dominik-szoboszlai",
+      "scorer": "Dominik Szoboszlai"
+    },
+    {
+      "goals": 11,
+      "playerKey": "fl-ri-n-albert",
+      "scorer": "Flórián Albert"
+    },
+    {
+      "goals": 11,
+      "playerKey": "j-zsef-kiprich",
+      "scorer": "József Kiprich"
+    },
+    {
+      "goals": 11,
+      "playerKey": "roland-sallai",
+      "scorer": "Roland Sallai"
+    },
+    {
+      "goals": 11,
+      "playerKey": "s-ndor-kocsis",
+      "scorer": "Sándor Kocsis"
+    }
+  ]
+}

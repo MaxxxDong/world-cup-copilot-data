@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "1980-07-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1962-04-17",
+    "nationality": "Iraq",
+    "playerKey": "ismail-mohammed-sharif",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "baf571bf",
+      "kicker": "ismail-mohammed-sharif",
+      "national_football_teams": "84410",
+      "soccerway": "270539",
+      "sofifa": "57914",
+      "transfermarkt": "118240",
+      "wikidata": "Q3802591"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1980-07-27",
+  "playerKey": "ismail-mohammed-sharif",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1980-07-27",
+      "goalId": "goal-1980-07-27-somalia-niger-8921",
+      "matchKey": "1980-07-27-somalia-niger",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismail Mohammed Sharif"
+    }
+  ],
+  "scorer": "Ismail Mohammed Sharif",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "somalia",
+  "teamName": "Somalia",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

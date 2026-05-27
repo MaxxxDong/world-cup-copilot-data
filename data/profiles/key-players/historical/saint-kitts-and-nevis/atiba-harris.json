@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2015-03-23",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1985-01-09",
+    "nationality": "Saint Kitts and Nevis",
+    "playerKey": "atiba-harris",
+    "position": "wing half",
+    "providerIds": {
+      "espn": "77161",
+      "fbref": "e41fdd03",
+      "footballdatabase_eu": "10775",
+      "kicker": "atiba-harris",
+      "national_football_teams": "5523",
+      "opta": "8mzf1lhkgv7obfx70f45f3651",
+      "soccerway": "7395",
+      "transfermarkt": "39415",
+      "wikidata": "Q2307109"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-16",
+  "playerKey": "atiba-harris",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-el-salvador-saint-kitts-and-nevis-34523",
+      "matchKey": "2015-06-16-el-salvador-saint-kitts-and-nevis",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Atiba Harris"
+    },
+    {
+      "date": "2015-03-23",
+      "goalId": "goal-2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands-34210",
+      "matchKey": "2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Atiba Harris"
+    }
+  ],
+  "scorer": "Atiba Harris",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-kitts-and-nevis",
+  "teamName": "Saint Kitts and Nevis",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

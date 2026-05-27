@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "2015-11-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1988-04-22",
+    "nationality": "Chad",
+    "playerKey": "ezechiel-n-douassel",
+    "position": "forward",
+    "providerIds": {
+      "capology": "ezechiel-ndouasel-32255",
+      "fbref": "5743d787",
+      "footballdatabase_eu": "37524",
+      "national_football_teams": "24388",
+      "soccerway": "49240",
+      "sofascore": "79165",
+      "sofifa": "298015",
+      "transfermarkt": "82364",
+      "wikidata": "Q510225",
+      "worldfootball": "ezechiel-ndouassel"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-05",
+  "playerKey": "ezechiel-n-douassel",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-chad-sudan-38818",
+      "matchKey": "2019-09-05-chad-sudan",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ezechiel N'Douassel"
+    },
+    {
+      "date": "2015-11-14",
+      "goalId": "goal-2015-11-14-chad-egypt-35397",
+      "matchKey": "2015-11-14-chad-egypt",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ezechiel N'Douassel"
+    }
+  ],
+  "scorer": "Ezechiel N'Douassel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "chad",
+  "teamName": "Chad",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

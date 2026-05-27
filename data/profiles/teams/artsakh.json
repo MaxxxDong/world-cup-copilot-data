@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Artsakh"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 14,
+    "goalsFor": 32,
+    "losses": 3,
+    "matches": 11,
+    "wins": 6
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 31,
+      "losses": 3,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 32,
+      "losses": 3,
+      "matches": 11,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 9,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "padania",
+      "date": "2019-06-08",
+      "homeScore": 2,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-08-artsakh-padania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-06",
+      "homeScore": 2,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-06-artsakh-szekely-land",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-04",
+      "homeScore": 1,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-04-artsakh-abkhazia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "chameria",
+      "date": "2019-06-03",
+      "homeScore": 1,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-03-artsakh-chameria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sapmi",
+      "date": "2019-06-02",
+      "homeScore": 3,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-02-artsakh-sapmi",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 28,
+      "losses": 3,
+      "matches": 9,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 1,
+      "goalsFor": 4,
+      "losses": 0,
+      "matches": 2,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 14,
+      "losses": 2,
+      "matches": 3,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 18,
+      "losses": 1,
+      "matches": 8,
+      "wins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "artsakh",
+  "teamName": "Artsakh",
+  "topScorers": []
+}

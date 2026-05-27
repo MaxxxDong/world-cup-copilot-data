@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Kernow"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 19,
+    "goalsFor": 32,
+    "losses": 3,
+    "matches": 12,
+    "wins": 7
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 27,
+      "losses": 1,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 19,
+      "goalsFor": 32,
+      "losses": 3,
+      "matches": 12,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 15,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sapmi",
+      "date": "2023-07-16",
+      "homeScore": 2,
+      "homeTeamId": "kernow",
+      "matchId": "int-2023-07-16-kernow-sapmi",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "barawa",
+      "date": "2019-05-25",
+      "homeScore": 5,
+      "homeTeamId": "kernow",
+      "matchId": "int-2019-05-25-kernow-barawa",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guernsey",
+      "date": "2007-03-24",
+      "homeScore": 1,
+      "homeTeamId": "kernow",
+      "matchId": "int-2007-03-24-kernow-guernsey",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "jersey",
+      "date": "2005-10-15",
+      "homeScore": 3,
+      "homeTeamId": "kernow",
+      "matchId": "int-2005-10-15-kernow-jersey",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "kernow",
+      "date": "2004-10-16",
+      "homeScore": 1,
+      "homeTeamId": "jersey",
+      "matchId": "int-2004-10-16-jersey-kernow",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 18,
+      "goalsFor": 30,
+      "losses": 3,
+      "matches": 11,
+      "wins": 6
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 19,
+      "goalsFor": 32,
+      "losses": 3,
+      "matches": 12,
+      "wins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kernow",
+  "teamName": "Kernow",
+  "topScorers": []
+}

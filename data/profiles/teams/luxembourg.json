@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Luxembourg"
+  ],
+  "allTime": {
+    "draws": 63,
+    "goalsAgainst": 1203,
+    "goalsFor": 295,
+    "losses": 353,
+    "matches": 465,
+    "wins": 49
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 3,
+      "losses": 8,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 32,
+      "goalsFor": 7,
+      "losses": 14,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 0,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2025-11-17-northern-ireland-luxembourg",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "germany",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-2025-11-14-luxembourg-germany",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "2025-10-13",
+      "homeScore": 2,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2025-10-13-slovakia-luxembourg",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "2025-10-10",
+      "homeScore": 4,
+      "homeTeamId": "germany",
+      "matchId": "int-2025-10-10-germany-luxembourg",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovakia",
+      "date": "2025-09-07",
+      "homeScore": 0,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-2025-09-07-luxembourg-slovakia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 30,
+      "goalsAgainst": 837,
+      "goalsFor": 175,
+      "losses": 243,
+      "matches": 303,
+      "wins": 30
+    },
+    "friendly": {
+      "draws": 33,
+      "goalsAgainst": 366,
+      "goalsFor": 120,
+      "losses": 110,
+      "matches": 162,
+      "wins": 19
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 38,
+      "goalsFor": 11,
+      "losses": 13,
+      "matches": 17,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 61,
+      "goalsAgainst": 1165,
+      "goalsFor": 284,
+      "losses": 340,
+      "matches": 448,
+      "wins": 47
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "topScorers": [
+    {
+      "goals": 20,
+      "playerKey": "gerson-rodrigues",
+      "scorer": "Gerson Rodrigues"
+    },
+    {
+      "goals": 12,
+      "playerKey": "danel-sinani",
+      "scorer": "Danel Sinani"
+    },
+    {
+      "goals": 8,
+      "playerKey": "aur-lien-joachim",
+      "scorer": "Aurélien Joachim"
+    },
+    {
+      "goals": 6,
+      "playerKey": "robby-langers",
+      "scorer": "Robby Langers"
+    },
+    {
+      "goals": 5,
+      "playerKey": "ady-schmit",
+      "scorer": "Ady Schmit"
+    },
+    {
+      "goals": 5,
+      "playerKey": "david-turpel",
+      "scorer": "David Turpel"
+    },
+    {
+      "goals": 5,
+      "playerKey": "gilbert-dussier",
+      "scorer": "Gilbert Dussier"
+    },
+    {
+      "goals": 5,
+      "playerKey": "nico-braun",
+      "scorer": "Nico Braun"
+    },
+    {
+      "goals": 4,
+      "playerKey": "louis-pilot",
+      "scorer": "Louis Pilot"
+    },
+    {
+      "goals": 4,
+      "playerKey": "stefano-bensi",
+      "scorer": "Stefano Bensi"
+    }
+  ]
+}

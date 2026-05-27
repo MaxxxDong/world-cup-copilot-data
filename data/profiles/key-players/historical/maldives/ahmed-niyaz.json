@@ -1,0 +1,57 @@
+{
+  "firstGoalDate": "2016-03-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1980-03-17",
+    "nationality": "Maldives",
+    "playerKey": "ahmed-niyaz",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "38ec9789",
+      "footballdatabase_eu": "197412",
+      "transfermarkt": "394145",
+      "wikidata": "Q16218696"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-03-29",
+  "playerKey": "ahmed-niyaz",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-maldives-bhutan-35679",
+      "matchKey": "2016-03-29-maldives-bhutan",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Niyaz"
+    }
+  ],
+  "scorer": "Ahmed Niyaz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "maldives",
+  "teamName": "Maldives",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 33,
+  "identity": {
+    "dateOfBirth": "1992-02-05",
+    "nationality": "Brazil",
+    "playerKey": "neymar",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "276",
+      "besoccer": "64511",
+      "capology": "neymar-33639",
+      "dongqiudi": "50069499",
+      "espn": "132948",
+      "fbref": "69384e5d",
+      "footballdatabase_eu": "62381",
+      "heimspiel": "152036",
+      "impect": "5520",
+      "kicker": "neymar",
+      "lequipe": "39792",
+      "national_football_teams": "39625",
+      "opta": "779rrkp47akkd5usq53begatx",
+      "opta_numeric": "61278",
+      "skillcorner": "7936",
+      "soccerbase": "55850",
+      "soccerway": "102697",
+      "sofascore": "124712",
+      "sofifa": "314197",
+      "thesportsdb": "34146371",
+      "transfermarkt": "68290",
+      "uefa": "250039508",
+      "wikidata": "Q142794",
+      "worldfootball": "neymar",
+      "wyscout": "40810"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Neymar",
+  "playerKey": "neymar",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-09-08",
+      "goalId": "goal-2023-09-08-bra-bolivia-43474",
+      "matchKey": "2023-09-08-bra-bolivia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2023-09-08",
+      "goalId": "goal-2023-09-08-bra-bolivia-43472",
+      "matchKey": "2023-09-08-bra-bolivia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2022-12-09",
+      "goalId": "goal-2022-12-09-croatia-bra-43041",
+      "matchKey": "2022-12-09-croatia-bra",
+      "minute": 105,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2022-12-05",
+      "goalId": "goal-2022-12-05-bra-south-korea-43028",
+      "matchKey": "2022-12-05-bra-south-korea",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-bra-chile-42333",
+      "matchKey": "2022-03-24-bra-chile",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2021-10-14",
+      "goalId": "goal-2021-10-14-bra-uruguay-41804",
+      "matchKey": "2021-10-14-bra-uruguay",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2021-09-09",
+      "goalId": "goal-2021-09-09-bra-peru-41448",
+      "matchKey": "2021-09-09-bra-peru",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2021-06-17",
+      "goalId": "goal-2021-06-17-bra-peru-40841",
+      "matchKey": "2021-06-17-bra-peru",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2021-06-13",
+      "goalId": "goal-2021-06-13-bra-venezuela-40760",
+      "matchKey": "2021-06-13-bra-venezuela",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Neymar"
+    },
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-paraguay-bra-40674",
+      "matchKey": "2021-06-08-paraguay-bra",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Neymar"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/bra"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "bra",
+  "teamName": "Brazil"
+}

@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1999-03-23",
+    "playerKey": "soe-moe-kyaw",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "123727",
+      "fbref": "69d1bbd7",
+      "footballdatabase_eu": "393148",
+      "impect": "110077",
+      "national_football_teams": "71178",
+      "soccerway": "551915",
+      "sofascore": "963087",
+      "thesportsdb": "34243593",
+      "transfermarkt": "587093",
+      "wikidata": "Q60773585",
+      "worldfootball": "soe-moe-kyaw"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-21",
+  "playerKey": "soe-moe-kyaw",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-myanmar-syria-44479",
+      "matchKey": "2024-03-21-myanmar-syria",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Soe Moe Kyaw"
+    },
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-myanmar-macau-43637",
+      "matchKey": "2023-10-12-myanmar-macau",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Soe Moe Kyaw"
+    }
+  ],
+  "scorer": "Soe Moe Kyaw",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

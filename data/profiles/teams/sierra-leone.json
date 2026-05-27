@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Sierra Leone"
+  ],
+  "allTime": {
+    "draws": 78,
+    "goalsAgainst": 412,
+    "goalsFor": 288,
+    "losses": 131,
+    "matches": 299,
+    "wins": 90
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 9,
+      "goalsFor": 11,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 29,
+      "goalsFor": 22,
+      "losses": 8,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 6,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sierra-leone",
+      "date": "2026-03-30",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2026-03-30-azerbaijan-sierra-leone",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sierra-leone",
+      "date": "2025-10-12",
+      "homeScore": 1,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2025-10-12-djibouti-sierra-leone",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-10-08",
+      "homeScore": 0,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2025-10-08-sierra-leone-burkina-faso",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2025-09-09",
+      "homeScore": 2,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2025-09-09-sierra-leone-ethiopia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sierra-leone",
+      "date": "2025-09-04",
+      "homeScore": 1,
+      "homeTeamId": "guinea-bissau",
+      "matchId": "int-2025-09-04-guinea-bissau-sierra-leone",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 63,
+      "goalsAgainst": 252,
+      "goalsFor": 196,
+      "losses": 80,
+      "matches": 204,
+      "wins": 61
+    },
+    "friendly": {
+      "draws": 15,
+      "goalsAgainst": 160,
+      "goalsFor": 92,
+      "losses": 51,
+      "matches": 95,
+      "wins": 29
+    },
+    "neutralVenue": {
+      "draws": 24,
+      "goalsAgainst": 83,
+      "goalsFor": 81,
+      "losses": 20,
+      "matches": 73,
+      "wins": 29
+    },
+    "nonNeutralVenue": {
+      "draws": 54,
+      "goalsAgainst": 329,
+      "goalsFor": 207,
+      "losses": 111,
+      "matches": 226,
+      "wins": 61
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "kei-kamara",
+      "scorer": "Kei Kamara"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mohamed-kallon",
+      "scorer": "Mohamed Kallon"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sheriff-suma",
+      "scorer": "Sheriff Suma"
+    },
+    {
+      "goals": 2,
+      "playerKey": "abu-kanu",
+      "scorer": "Abu Kanu"
+    },
+    {
+      "goals": 2,
+      "playerKey": "alhaji-kamara",
+      "scorer": "Alhaji Kamara"
+    },
+    {
+      "goals": 2,
+      "playerKey": "alhassan-kamara",
+      "scorer": "Alhassan Kamara"
+    },
+    {
+      "goals": 2,
+      "playerKey": "augustus-kargbo",
+      "scorer": "Augustus Kargbo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chernor-mansaray",
+      "scorer": "Chernor Mansaray"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ismael-dyfan",
+      "scorer": "Ismael Dyfan"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kama-dumbuya",
+      "scorer": "Kama Dumbuya"
+    }
+  ]
+}

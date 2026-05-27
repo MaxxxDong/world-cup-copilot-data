@@ -1,0 +1,163 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 30,
+  "identity": {
+    "dateOfBirth": "1987-02-14",
+    "nationality": "Uruguay",
+    "playerKey": "edinson-cavani",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "228685",
+      "api_football": "274",
+      "capology": "edinson-cavani-31822",
+      "espn": "95469",
+      "fbref": "527f063d",
+      "footballdatabase_eu": "18577",
+      "heimspiel": "27721",
+      "impect": "2046",
+      "kicker": "edinson-cavani",
+      "lequipe": "26337",
+      "national_football_teams": "25130",
+      "opta": "afyga3n1mliw0btcuixt6xolx",
+      "opta_numeric": "40720",
+      "premier_league": "5771",
+      "skillcorner": "2941",
+      "soccerbase": "51359",
+      "soccerway": "5920",
+      "sofascore": "21521",
+      "sofifa": "267834",
+      "statmuse_pl": "1760",
+      "thesportsdb": "34152576",
+      "transfermarkt": "48280",
+      "uefa": "1905813",
+      "understat": "3294",
+      "whoscored": "24328",
+      "wikidata": "Q167790",
+      "worldfootball": "edinson-cavani",
+      "wyscout": "21174"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Edinson Cavani",
+  "playerKey": "edinson-cavani",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-uruguay-venezuela-42296",
+      "matchKey": "2022-02-01-uruguay-venezuela",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2021-06-28",
+      "goalId": "goal-2021-06-28-uruguay-paraguay-40959",
+      "matchKey": "2021-06-28-uruguay-paraguay",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2021-06-24",
+      "goalId": "goal-2021-06-24-bolivia-uruguay-40924",
+      "matchKey": "2021-06-24-bolivia-uruguay",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2020-11-13",
+      "goalId": "goal-2020-11-13-colombia-uruguay-39907",
+      "matchKey": "2020-11-13-colombia-uruguay",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2019-06-24",
+      "goalId": "goal-2019-06-24-chile-uruguay-38653",
+      "matchKey": "2019-06-24-chile-uruguay",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2019-06-16",
+      "goalId": "goal-2019-06-16-uruguay-ecuador-38556",
+      "matchKey": "2019-06-16-uruguay-ecuador",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2018-06-30",
+      "goalId": "goal-2018-06-30-uruguay-portugal-37671",
+      "matchKey": "2018-06-30-uruguay-portugal",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2018-06-30",
+      "goalId": "goal-2018-06-30-uruguay-portugal-37669",
+      "matchKey": "2018-06-30-uruguay-portugal",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2018-06-25",
+      "goalId": "goal-2018-06-25-russia-uruguay-37629",
+      "matchKey": "2018-06-25-russia-uruguay",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    },
+    {
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-uruguay-bolivia-37489",
+      "matchKey": "2017-10-10-uruguay-bolivia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edinson Cavani"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/uruguay"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "uruguay",
+  "teamName": "Uruguay"
+}

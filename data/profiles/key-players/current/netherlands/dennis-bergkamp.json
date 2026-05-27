@@ -1,0 +1,152 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 27,
+  "identity": {
+    "dateOfBirth": "1969-05-10",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "dennis-bergkamp",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "7",
+      "eu_football_info": "1725",
+      "fbref": "d8703fda",
+      "footballdatabase_eu": "2155",
+      "hugman": "1456",
+      "kicker": "dennis-bergkamp",
+      "lequipe": "3854",
+      "national_football_teams": "10390",
+      "premier_league": "991",
+      "soccerbase": "633",
+      "sofascore": "8",
+      "sofifa": "77376",
+      "statmuse_pl": "1606",
+      "transfermarkt": "3187",
+      "uefa": "1297",
+      "wikidata": "Q185389",
+      "worldfootball": "dennis-bergkamp"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Dennis Bergkamp",
+  "playerKey": "dennis-bergkamp",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1998-07-04",
+      "goalId": "goal-1998-07-04-netherlands-arg-18363",
+      "matchKey": "1998-07-04-netherlands-arg",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1998-06-29",
+      "goalId": "goal-1998-06-29-netherlands-serbia-18345",
+      "matchKey": "1998-06-29-netherlands-serbia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1998-06-20",
+      "goalId": "goal-1998-06-20-netherlands-south-korea-18263",
+      "matchKey": "1998-06-20-netherlands-south-korea",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1997-09-06",
+      "goalId": "goal-1997-09-06-netherlands-belgium-17657",
+      "matchKey": "1997-09-06-netherlands-belgium",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1997-04-30",
+      "goalId": "goal-1997-04-30-san-marino-netherlands-17049",
+      "matchKey": "1997-04-30-san-marino-netherlands",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1997-04-30",
+      "goalId": "goal-1997-04-30-san-marino-netherlands-17044",
+      "matchKey": "1997-04-30-san-marino-netherlands",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1996-12-14",
+      "goalId": "goal-1996-12-14-belgium-netherlands-16641",
+      "matchKey": "1996-12-14-belgium-netherlands",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-netherlands-wales-16470",
+      "matchKey": "1996-11-09-netherlands-wales",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-netherlands-wales-16469",
+      "matchKey": "1996-11-09-netherlands-wales",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    },
+    {
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-netherlands-wales-16463",
+      "matchKey": "1996-11-09-netherlands-wales",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Bergkamp"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/netherlands"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

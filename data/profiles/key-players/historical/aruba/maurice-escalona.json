@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-02-28",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-01-27",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "maurice-escalona",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "9b3fae84",
+      "footballdatabase_eu": "33164",
+      "national_football_teams": "404",
+      "transfermarkt": "78279",
+      "wikidata": "Q3301610"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-08",
+  "playerKey": "maurice-escalona",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-aruba-saint-lucia-30664",
+      "matchKey": "2011-07-08-aruba-saint-lucia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maurice Escalona"
+    },
+    {
+      "date": "2004-03-27",
+      "goalId": "goal-2004-03-27-suriname-aruba-23478",
+      "matchKey": "2004-03-27-suriname-aruba",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maurice Escalona"
+    },
+    {
+      "date": "2004-02-28",
+      "goalId": "goal-2004-02-28-aruba-suriname-23434",
+      "matchKey": "2004-02-28-aruba-suriname",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maurice Escalona"
+    }
+  ],
+  "scorer": "Maurice Escalona",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2024-03-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-11-11",
+    "playerKey": "luke-paris",
+    "position": "defender",
+    "providerIds": {
+      "espn": "294990",
+      "fbref": "dba8a098",
+      "footballdatabase_eu": "411849",
+      "impect": "272673",
+      "national_football_teams": "75291",
+      "soccerway": "630538",
+      "sofascore": "1110917",
+      "transfermarkt": "703364",
+      "wikidata": "Q75047596"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-26",
+  "playerKey": "luke-paris",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-turks-and-caicos-islands-anguilla-44580",
+      "matchKey": "2024-03-26-turks-and-caicos-islands-anguilla",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luke Paris"
+    }
+  ],
+  "scorer": "Luke Paris",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "anguilla",
+  "teamName": "Anguilla",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

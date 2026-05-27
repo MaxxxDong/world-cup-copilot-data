@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2021-03-30",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-10-08",
+    "nationality": "Belize",
+    "playerKey": "deshawon-nembhard",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "207043",
+      "espn": "229859",
+      "fbref": "553763d5",
+      "footballdatabase_eu": "407782",
+      "national_football_teams": "81983",
+      "soccerway": "576563",
+      "sofascore": "1019798",
+      "thesportsdb": "34243328",
+      "transfermarkt": "743566",
+      "wikidata": "Q97573237"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-03-30",
+  "playerKey": "deshawon-nembhard",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-belize-turks-and-caicos-islands-40319",
+      "matchKey": "2021-03-30-belize-turks-and-caicos-islands",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deshawon Nembhard"
+    }
+  ],
+  "scorer": "Deshawon Nembhard",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belize",
+  "teamName": "Belize",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

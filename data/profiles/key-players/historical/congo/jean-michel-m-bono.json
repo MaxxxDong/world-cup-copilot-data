@@ -1,0 +1,102 @@
+{
+  "firstGoalDate": "1972-02-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 6,
+  "identity": {
+    "dateOfBirth": "1946-01-27",
+    "nationality": "Republic of the Congo",
+    "playerKey": "jean-michel-m-bono",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "178025",
+      "sofifa": "53913",
+      "transfermarkt": "810328",
+      "wikidata": "Q3168083"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1974-03-05",
+  "playerKey": "jean-michel-m-bono",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1974-03-05",
+      "goalId": "goal-1974-03-05-congo-dr-congo-6958",
+      "matchKey": "1974-03-05-congo-dr-congo",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "date": "1972-08-05",
+      "goalId": "goal-1972-08-05-nigeria-congo-6418",
+      "matchKey": "1972-08-05-nigeria-congo",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "date": "1972-03-05",
+      "goalId": "goal-1972-03-05-congo-mali-6289",
+      "matchKey": "1972-03-05-congo-mali",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "date": "1972-03-05",
+      "goalId": "goal-1972-03-05-congo-mali-6288",
+      "matchKey": "1972-03-05-congo-mali",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "date": "1972-02-29",
+      "goalId": "goal-1972-02-29-congo-sudan-6268",
+      "matchKey": "1972-02-29-congo-sudan",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "date": "1972-02-29",
+      "goalId": "goal-1972-02-29-congo-sudan-6263",
+      "matchKey": "1972-02-29-congo-sudan",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Michel M'Bono"
+    }
+  ],
+  "scorer": "Jean-Michel M'Bono",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 6,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-02-02",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1974-06-03",
+    "nationality": "Kenya",
+    "playerKey": "john-baraza",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "7014",
+      "national_football_teams": "3577",
+      "sofifa": "179984",
+      "transfermarkt": "174051",
+      "wikidata": "Q11727855"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-09-04",
+  "playerKey": "john-baraza",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-09-04",
+      "goalId": "goal-2004-09-04-kenya-malawi-24301",
+      "matchKey": "2004-09-04-kenya-malawi",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Baraza"
+    },
+    {
+      "date": "2004-09-04",
+      "goalId": "goal-2004-09-04-kenya-malawi-24299",
+      "matchKey": "2004-09-04-kenya-malawi",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Baraza"
+    },
+    {
+      "date": "2004-02-02",
+      "goalId": "goal-2004-02-02-burkina-faso-kenya-23335",
+      "matchKey": "2004-02-02-burkina-faso-kenya",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Baraza"
+    }
+  ],
+  "scorer": "John Baraza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kenya",
+  "teamName": "Kenya",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

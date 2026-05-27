@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Somaliland"
+  ],
+  "allTime": {
+    "draws": 1,
+    "goalsAgainst": 20,
+    "goalsFor": 14,
+    "losses": 3,
+    "matches": 6,
+    "wins": 2
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 20,
+      "goalsFor": 14,
+      "losses": 3,
+      "matches": 6,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 20,
+      "goalsFor": 14,
+      "losses": 3,
+      "matches": 6,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 18,
+      "goalsFor": 12,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "somaliland",
+      "date": "2019-05-04",
+      "homeScore": 6,
+      "homeTeamId": "yorkshire",
+      "matchId": "int-2019-05-04-yorkshire-somaliland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "szekely-land",
+      "date": "2016-06-03",
+      "homeScore": 7,
+      "homeTeamId": "somaliland",
+      "matchId": "int-2016-06-03-somaliland-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "somaliland",
+      "date": "2016-06-02",
+      "homeScore": 2,
+      "homeTeamId": "chagos-islands",
+      "matchId": "int-2016-06-02-chagos-islands-somaliland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "panjab",
+      "date": "2016-05-31",
+      "homeScore": 0,
+      "homeTeamId": "somaliland",
+      "matchId": "int-2016-05-31-somaliland-panjab",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somaliland",
+      "date": "2016-05-29",
+      "homeScore": 5,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2016-05-29-sapmi-somaliland",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 12,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 6,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 1,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "somaliland",
+  "teamName": "Somaliland",
+  "topScorers": []
+}

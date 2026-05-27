@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Paraguay",
+    "PAR",
+    "La Albirroja"
+  ],
+  "allTime": {
+    "draws": 208,
+    "goalsAgainst": 1113,
+    "goalsFor": 999,
+    "losses": 300,
+    "matches": 782,
+    "wins": 274
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "PAR",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 10,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 22,
+      "goalsFor": 22,
+      "losses": 6,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-2026-03-31-mar-paraguay",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "greece",
+      "matchId": "int-2026-03-27-greece-paraguay",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "paraguay",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-2025-11-18-mex-paraguay",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2025-11-15-usa-paraguay",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "south-korea",
+      "matchId": "int-2025-10-14-south-korea-paraguay",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 130,
+      "goalsAgainst": 767,
+      "goalsFor": 665,
+      "losses": 202,
+      "matches": 507,
+      "wins": 175
+    },
+    "friendly": {
+      "draws": 78,
+      "goalsAgainst": 346,
+      "goalsFor": 334,
+      "losses": 98,
+      "matches": 275,
+      "wins": 99
+    },
+    "neutralVenue": {
+      "draws": 54,
+      "goalsAgainst": 307,
+      "goalsFor": 327,
+      "losses": 67,
+      "matches": 206,
+      "wins": 85
+    },
+    "nonNeutralVenue": {
+      "draws": 154,
+      "goalsAgainst": 806,
+      "goalsFor": 672,
+      "losses": 233,
+      "matches": 576,
+      "wins": 189
+    },
+    "worldCup": {
+      "draws": 10,
+      "goalsAgainst": 38,
+      "goalsFor": 30,
+      "losses": 10,
+      "matches": 27,
+      "wins": 7
+    }
+  },
+  "teamId": "paraguay",
+  "teamName": "Paraguay",
+  "topScorers": [
+    {
+      "goals": 21,
+      "playerKey": "roque-santa-cruz",
+      "scorer": "Roque Santa Cruz"
+    },
+    {
+      "goals": 18,
+      "playerKey": "jos-cardozo",
+      "scorer": "José Cardozo"
+    },
+    {
+      "goals": 10,
+      "playerKey": "julio-c-sar-romero",
+      "scorer": "Julio César Romero"
+    },
+    {
+      "goals": 10,
+      "playerKey": "salvador-caba-as",
+      "scorer": "Salvador Cabañas"
+    },
+    {
+      "goals": 9,
+      "playerKey": "juan-bautista-villalba",
+      "scorer": "Juan Bautista Villalba"
+    },
+    {
+      "goals": 8,
+      "playerKey": "carlos-humberto-paredes",
+      "scorer": "Carlos Humberto Paredes"
+    },
+    {
+      "goals": 8,
+      "playerKey": "cristian-riveros",
+      "scorer": "Cristian Riveros"
+    },
+    {
+      "goals": 8,
+      "playerKey": "jos-luis-chilavert",
+      "scorer": "José Luis Chilavert"
+    },
+    {
+      "goals": 8,
+      "playerKey": "marcial-barrios",
+      "scorer": "Marcial Barrios"
+    },
+    {
+      "goals": 8,
+      "playerKey": "nelson-valdez",
+      "scorer": "Nelson Valdez"
+    }
+  ]
+}

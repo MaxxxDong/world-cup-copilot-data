@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2002-01-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1975-11-03",
+    "nationality": "Canada",
+    "playerKey": "mark-rogers",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "e6d0a1bb",
+      "footballdatabase_eu": "4801",
+      "hugman": "17073",
+      "national_football_teams": "1278",
+      "soccerbase": "16371",
+      "sofifa": "179549",
+      "transfermarkt": "16674",
+      "wikidata": "Q3849543"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2002-01-26",
+  "playerKey": "mark-rogers",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2002-01-26",
+      "goalId": "goal-2002-01-26-canada-martinique-22128",
+      "matchKey": "2002-01-26-canada-martinique",
+      "minute": 63,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mark Rogers"
+    }
+  ],
+  "scorer": "Mark Rogers",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "martinique",
+  "teamName": "Martinique",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

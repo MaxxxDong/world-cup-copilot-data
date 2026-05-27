@@ -1,0 +1,66 @@
+{
+  "firstGoalDate": "2004-05-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1976-01-01",
+    "nationality": "Samoa",
+    "playerKey": "tama-fasavalu",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "201138",
+      "national_football_teams": "5648",
+      "transfermarkt": "182654",
+      "wikidata": "Q368814"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-10",
+  "playerKey": "tama-fasavalu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-samoa-american-samoa-23554",
+      "matchKey": "2004-05-10-samoa-american-samoa",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tama Fasavalu"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-samoa-american-samoa-23553",
+      "matchKey": "2004-05-10-samoa-american-samoa",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tama Fasavalu"
+    }
+  ],
+  "scorer": "Tama Fasavalu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

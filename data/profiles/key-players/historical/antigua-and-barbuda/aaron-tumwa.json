@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2015-06-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-09-27",
+    "nationality": "Antigua and Barbuda",
+    "playerKey": "aaron-tumwa",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "7e78d937",
+      "footballdatabase_eu": "176355",
+      "opta": "dhrl24ke13kmlwocqnh5so991",
+      "soccerway": "308999",
+      "thesportsdb": "34148683",
+      "transfermarkt": "247005",
+      "wikidata": "Q18638116"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-14",
+  "playerKey": "aaron-tumwa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-14",
+      "goalId": "goal-2015-06-14-antigua-and-barbuda-saint-lucia-34452",
+      "matchKey": "2015-06-14-antigua-and-barbuda-saint-lucia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aaron Tumwa"
+    }
+  ],
+  "scorer": "Aaron Tumwa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "antigua-and-barbuda",
+  "teamName": "Antigua and Barbuda",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

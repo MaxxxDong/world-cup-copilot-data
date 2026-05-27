@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2000-06-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1976-10-12",
+    "nationality": "Solomon Islands",
+    "playerKey": "gideon-omokirio",
+    "position": "defender",
+    "providerIds": {
+      "footballdatabase_eu": "12241",
+      "national_football_teams": "6073",
+      "sofascore": "142991",
+      "sofifa": "157779",
+      "transfermarkt": "69727",
+      "wikidata": "Q922547",
+      "worldfootball": "gideon-omokirio"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-15",
+  "playerKey": "gideon-omokirio",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-15",
+      "goalId": "goal-2004-05-15-solomon-islands-new-caledonia-23599",
+      "matchKey": "2004-05-15-solomon-islands-new-caledonia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gideon Omokirio"
+    },
+    {
+      "date": "2004-05-12",
+      "goalId": "goal-2004-05-12-solomon-islands-cook-islands-23581",
+      "matchKey": "2004-05-12-solomon-islands-cook-islands",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gideon Omokirio"
+    },
+    {
+      "date": "2000-06-28",
+      "goalId": "goal-2000-06-28-vanuatu-solomon-islands-19848",
+      "matchKey": "2000-06-28-vanuatu-solomon-islands",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gideon Omokirio"
+    },
+    {
+      "date": "2000-06-21",
+      "goalId": "goal-2000-06-21-solomon-islands-cook-islands-19809",
+      "matchKey": "2000-06-21-solomon-islands-cook-islands",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gideon Omokirio"
+    }
+  ],
+  "scorer": "Gideon Omokirio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "solomon-islands",
+  "teamName": "Solomon Islands",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

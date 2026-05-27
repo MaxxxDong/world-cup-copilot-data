@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Ukraine"
+  ],
+  "allTime": {
+    "draws": 94,
+    "goalsAgainst": 356,
+    "goalsFor": 472,
+    "losses": 91,
+    "matches": 336,
+    "wins": 151
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 19,
+      "goalsFor": 16,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 32,
+      "goalsFor": 29,
+      "losses": 7,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2026-03-31-ukraine-albania",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sweden",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2026-03-26-ukraine-sweden",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2025-11-16-ukraine-iceland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2025-11-13",
+      "homeScore": 4,
+      "homeTeamId": "fra",
+      "matchId": "int-2025-11-13-fra-ukraine",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "azerbaijan",
+      "date": "2025-10-13",
+      "homeScore": 2,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2025-10-13-ukraine-azerbaijan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 56,
+      "goalsAgainst": 222,
+      "goalsFor": 298,
+      "losses": 58,
+      "matches": 210,
+      "wins": 96
+    },
+    "friendly": {
+      "draws": 38,
+      "goalsAgainst": 134,
+      "goalsFor": 174,
+      "losses": 33,
+      "matches": 126,
+      "wins": 55
+    },
+    "neutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 63,
+      "goalsFor": 87,
+      "losses": 17,
+      "matches": 63,
+      "wins": 32
+    },
+    "nonNeutralVenue": {
+      "draws": 80,
+      "goalsAgainst": 293,
+      "goalsFor": 385,
+      "losses": 74,
+      "matches": 273,
+      "wins": 119
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "teamId": "ukraine",
+  "teamName": "Ukraine",
+  "topScorers": [
+    {
+      "goals": 40,
+      "playerKey": "andriy-shevchenko",
+      "scorer": "Andriy Shevchenko"
+    },
+    {
+      "goals": 28,
+      "playerKey": "andriy-yarmolenko",
+      "scorer": "Andriy Yarmolenko"
+    },
+    {
+      "goals": 14,
+      "playerKey": "roman-yaremchuk",
+      "scorer": "Roman Yaremchuk"
+    },
+    {
+      "goals": 10,
+      "playerKey": "yevhen-konoplyanka",
+      "scorer": "Yevhen Konoplyanka"
+    },
+    {
+      "goals": 9,
+      "playerKey": "artem-dovbyk",
+      "scorer": "Artem Dovbyk"
+    },
+    {
+      "goals": 9,
+      "playerKey": "ruslan-malinovskyi",
+      "scorer": "Ruslan Malinovskyi"
+    },
+    {
+      "goals": 9,
+      "playerKey": "serhii-rebrov",
+      "scorer": "Serhii Rebrov"
+    },
+    {
+      "goals": 8,
+      "playerKey": "viktor-tsyhankov",
+      "scorer": "Viktor Tsyhankov"
+    },
+    {
+      "goals": 7,
+      "playerKey": "andriy-husin",
+      "scorer": "Andriy Husin"
+    },
+    {
+      "goals": 7,
+      "playerKey": "oleh-husyev",
+      "scorer": "Oleh Husyev"
+    }
+  ]
+}

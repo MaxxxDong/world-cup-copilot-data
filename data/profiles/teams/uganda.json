@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Uganda"
+  ],
+  "allTime": {
+    "draws": 182,
+    "goalsAgainst": 809,
+    "goalsFor": 1030,
+    "losses": 218,
+    "matches": 685,
+    "wins": 285
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 14,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 28,
+      "goalsFor": 25,
+      "losses": 8,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "nigeria",
+      "date": "2025-12-30",
+      "homeScore": 1,
+      "homeTeamId": "uganda",
+      "matchId": "int-2025-12-30-uganda-nigeria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2025-12-27",
+      "homeScore": 1,
+      "homeTeamId": "uganda",
+      "matchId": "int-2025-12-27-uganda-tanzania",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uganda",
+      "date": "2025-12-23",
+      "homeScore": 3,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2025-12-23-tunisia-uganda",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uganda",
+      "date": "2025-11-18",
+      "homeScore": 4,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-11-18-mar-uganda",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chad",
+      "date": "2025-11-14",
+      "homeScore": 2,
+      "homeTeamId": "uganda",
+      "matchId": "int-2025-11-14-uganda-chad",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 98,
+      "goalsAgainst": 420,
+      "goalsFor": 558,
+      "losses": 124,
+      "matches": 401,
+      "wins": 179
+    },
+    "friendly": {
+      "draws": 84,
+      "goalsAgainst": 389,
+      "goalsFor": 472,
+      "losses": 94,
+      "matches": 284,
+      "wins": 106
+    },
+    "neutralVenue": {
+      "draws": 58,
+      "goalsAgainst": 253,
+      "goalsFor": 338,
+      "losses": 66,
+      "matches": 221,
+      "wins": 97
+    },
+    "nonNeutralVenue": {
+      "draws": 124,
+      "goalsAgainst": 556,
+      "goalsFor": 692,
+      "losses": 152,
+      "matches": 464,
+      "wins": 188
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "uganda",
+  "teamName": "Uganda",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "david-obua",
+      "scorer": "David Obua"
+    },
+    {
+      "goals": 5,
+      "playerKey": "emmanuel-okwi",
+      "scorer": "Emmanuel Okwi"
+    },
+    {
+      "goals": 5,
+      "playerKey": "farouk-miya",
+      "scorer": "Farouk Miya"
+    },
+    {
+      "goals": 4,
+      "playerKey": "fahad-bayo",
+      "scorer": "Fahad Bayo"
+    },
+    {
+      "goals": 4,
+      "playerKey": "rogers-mato",
+      "scorer": "Rogers Mato"
+    },
+    {
+      "goals": 3,
+      "playerKey": "allan-okello",
+      "scorer": "Allan Okello"
+    },
+    {
+      "goals": 3,
+      "playerKey": "denis-obua",
+      "scorer": "Denis Obua"
+    },
+    {
+      "goals": 3,
+      "playerKey": "geofrey-massa",
+      "scorer": "Geofrey Massa"
+    },
+    {
+      "goals": 3,
+      "playerKey": "phillip-omondi",
+      "scorer": "Phillip Omondi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "stanley-mubiru",
+      "scorer": "Stanley Mubiru"
+    }
+  ]
+}

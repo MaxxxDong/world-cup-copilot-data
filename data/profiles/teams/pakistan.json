@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Pakistan"
+  ],
+  "allTime": {
+    "draws": 43,
+    "goalsAgainst": 577,
+    "goalsFor": 229,
+    "losses": 153,
+    "matches": 248,
+    "wins": 52
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 31,
+      "goalsFor": 2,
+      "losses": 8,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 52,
+      "goalsFor": 4,
+      "losses": 16,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 1,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "syria",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2025-11-18-pakistan-syria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2025-10-14-afghanistan-pakistan",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2025-10-09-pakistan-afghanistan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "pakistan",
+      "date": "2025-06-10",
+      "homeScore": 1,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2025-06-10-myanmar-pakistan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "pakistan",
+      "date": "2025-03-25",
+      "homeScore": 2,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-03-25-syria-pakistan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 27,
+      "goalsAgainst": 423,
+      "goalsFor": 149,
+      "losses": 114,
+      "matches": 177,
+      "wins": 36
+    },
+    "friendly": {
+      "draws": 16,
+      "goalsAgainst": 154,
+      "goalsFor": 80,
+      "losses": 39,
+      "matches": 71,
+      "wins": 16
+    },
+    "neutralVenue": {
+      "draws": 20,
+      "goalsAgainst": 262,
+      "goalsFor": 136,
+      "losses": 65,
+      "matches": 117,
+      "wins": 32
+    },
+    "nonNeutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 315,
+      "goalsFor": 93,
+      "losses": 88,
+      "matches": 131,
+      "wins": 20
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "pakistan",
+  "teamName": "Pakistan",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "gohar-zaman",
+      "scorer": "Gohar Zaman"
+    },
+    {
+      "goals": 2,
+      "playerKey": "hassan-bashir",
+      "scorer": "Hassan Bashir"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohammad-umer",
+      "scorer": "Mohammad Umer"
+    },
+    {
+      "goals": 2,
+      "playerKey": "muhammad-arshad",
+      "scorer": "Muhammad Arshad"
+    },
+    {
+      "goals": 1,
+      "playerKey": "abdul-farooq",
+      "scorer": "Abdul Farooq"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ali-sharafat",
+      "scorer": "Ali Sharafat"
+    },
+    {
+      "goals": 1,
+      "playerKey": "harun-hamid",
+      "scorer": "Harun Hamid"
+    },
+    {
+      "goals": 1,
+      "playerKey": "rahis-nabi",
+      "scorer": "Rahis Nabi"
+    },
+    {
+      "goals": 1,
+      "playerKey": "tahir-agha",
+      "scorer": "Tahir Agha"
+    },
+    {
+      "goals": 1,
+      "playerKey": "zahir-rafiq",
+      "scorer": "Zahir Rafiq"
+    }
+  ]
+}

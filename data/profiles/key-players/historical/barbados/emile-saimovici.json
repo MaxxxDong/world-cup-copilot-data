@@ -1,0 +1,66 @@
+{
+  "firstGoalDate": "2021-03-30",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-04-10",
+    "nationality": "Barbados",
+    "playerKey": "emile-saimovici",
+    "providerIds": {
+      "fbref": "120ec950",
+      "footballdatabase_eu": "445244",
+      "national_football_teams": "81974",
+      "soccerway": "694717",
+      "wikidata": "Q106301577"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-08",
+  "playerKey": "emile-saimovici",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-barbados-dominica-40645",
+      "matchKey": "2021-06-08-barbados-dominica",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emile Saimovici"
+    },
+    {
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-barbados-anguilla-40307",
+      "matchKey": "2021-03-30-barbados-anguilla",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emile Saimovici"
+    }
+  ],
+  "scorer": "Emile Saimovici",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "barbados",
+  "teamName": "Barbados",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

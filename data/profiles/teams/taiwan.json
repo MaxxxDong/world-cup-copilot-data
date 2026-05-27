@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Taiwan"
+  ],
+  "allTime": {
+    "draws": 32,
+    "goalsAgainst": 614,
+    "goalsFor": 320,
+    "losses": 145,
+    "matches": 245,
+    "wins": 68
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 29,
+      "goalsFor": 14,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 50,
+      "goalsFor": 25,
+      "losses": 15,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 3,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "taiwan",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "turkmenistan",
+      "matchId": "int-2025-11-18-turkmenistan-taiwan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "thailand",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "taiwan",
+      "matchId": "int-2025-10-14-taiwan-thailand",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "taiwan",
+      "date": "2025-10-09",
+      "homeScore": 2,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-10-09-thailand-taiwan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "taiwan",
+      "date": "2025-09-05",
+      "homeScore": 6,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2025-09-05-indonesia-taiwan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "taiwan",
+      "date": "2025-06-10",
+      "homeScore": 3,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-06-10-sri-lanka-taiwan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 23,
+      "goalsAgainst": 521,
+      "goalsFor": 243,
+      "losses": 126,
+      "matches": 200,
+      "wins": 51
+    },
+    "friendly": {
+      "draws": 9,
+      "goalsAgainst": 93,
+      "goalsFor": 77,
+      "losses": 19,
+      "matches": 45,
+      "wins": 17
+    },
+    "neutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 245,
+      "goalsFor": 165,
+      "losses": 56,
+      "matches": 108,
+      "wins": 36
+    },
+    "nonNeutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 369,
+      "goalsFor": 155,
+      "losses": 89,
+      "matches": 137,
+      "wins": 32
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "taiwan",
+  "teamName": "Taiwan",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "chen-jui-te",
+      "scorer": "Chen Jui-te"
+    },
+    {
+      "goals": 3,
+      "playerKey": "huang-wei-yi",
+      "scorer": "Huang Wei-yi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "wu-chun-ching",
+      "scorer": "Wu Chun-ching"
+    },
+    {
+      "goals": 3,
+      "playerKey": "yu-yao-hsing",
+      "scorer": "Yu Yao-hsing"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chang-kuo-chi",
+      "scorer": "Chang Kuo Chi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chen-po-liang",
+      "scorer": "Chen Po-liang"
+    },
+    {
+      "goals": 2,
+      "playerKey": "duh-deng-sheng",
+      "scorer": "Duh Deng-Sheng"
+    },
+    {
+      "goals": 2,
+      "playerKey": "wen-chih-hao",
+      "scorer": "Wen Chih-hao"
+    },
+    {
+      "goals": 2,
+      "playerKey": "wu-yen-shu",
+      "scorer": "Wu Yen-shu"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ange-kouam",
+      "scorer": "Ange Kouamé"
+    }
+  ]
+}

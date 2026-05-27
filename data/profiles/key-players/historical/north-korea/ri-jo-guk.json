@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "2002-01-01",
+    "playerKey": "ri-jo-guk",
+    "providerIds": {
+      "soccerway": "931024",
+      "wikidata": "Q126539897"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-05",
+  "playerKey": "ri-jo-guk",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-north-korea-kyrgyzstan-46241",
+      "matchKey": "2025-06-05-north-korea-kyrgyzstan",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ri Jo-guk"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-north-korea-myanmar-44888",
+      "matchKey": "2024-06-11-north-korea-myanmar",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ri Jo-guk"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-north-korea-myanmar-44886",
+      "matchKey": "2024-06-11-north-korea-myanmar",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ri Jo-guk"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-north-korea-myanmar-44885",
+      "matchKey": "2024-06-11-north-korea-myanmar",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ri Jo-guk"
+    }
+  ],
+  "scorer": "Ri Jo-guk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "north-korea",
+  "teamName": "North Korea",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

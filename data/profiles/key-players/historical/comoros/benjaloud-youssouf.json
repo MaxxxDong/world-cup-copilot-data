@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "2023-11-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-02-11",
+    "nationality": "France",
+    "playerKey": "benjaloud-youssouf",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "63b59ae9",
+      "footballdatabase_eu": "238640",
+      "heimspiel": "380991",
+      "impect": "19497",
+      "kicker": "benjaloud-youssouf",
+      "national_football_teams": "60722",
+      "skillcorner": "13341",
+      "soccerway": "306446",
+      "sofascore": "579712",
+      "transfermarkt": "315075",
+      "wikidata": "Q21623366",
+      "wyscout": "270844"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-11-17",
+  "playerKey": "benjaloud-youssouf",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-comoros-central-african-republic-43938",
+      "matchKey": "2023-11-17-comoros-central-african-republic",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjaloud Youssouf"
+    }
+  ],
+  "scorer": "Benjaloud Youssouf",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "comoros",
+  "teamName": "Comoros",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

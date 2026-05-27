@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2025-06-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-11-16",
+    "nationality": "France",
+    "playerKey": "florian-david",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "24021",
+      "footballdatabase_eu": "151057",
+      "heimspiel": "351453",
+      "impect": "44580",
+      "kicker": "florian-david",
+      "lequipe": "52712",
+      "national_football_teams": "71976",
+      "opta": "93plhp3obida8mrtwwx05c79x",
+      "skillcorner": "23016",
+      "soccerway": "249734",
+      "thesportsdb": "34238801",
+      "transfermarkt": "170905",
+      "wikidata": "Q62334264",
+      "wyscout": "215914"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-16",
+  "playerKey": "florian-david",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-16",
+      "goalId": "goal-2025-06-16-panama-guadeloupe-46475",
+      "matchKey": "2025-06-16-panama-guadeloupe",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Florian David"
+    }
+  ],
+  "scorer": "Florian David",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2003-11-30",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1976-04-04",
+    "nationality": "Soviet Union",
+    "playerKey": "akmal-kholmatov",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "eed1c717",
+      "footballdatabase_eu": "84989",
+      "national_football_teams": "6548",
+      "soccerway": "26639",
+      "sofascore": "859108",
+      "sofifa": "208169",
+      "transfermarkt": "71238",
+      "wikidata": "Q4701452"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-06-10",
+  "playerKey": "akmal-kholmatov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-06-10",
+      "goalId": "goal-2004-06-10-syria-tajikistan-23818",
+      "matchKey": "2004-06-10-syria-tajikistan",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akmal Kholmatov"
+    },
+    {
+      "date": "2003-11-30",
+      "goalId": "goal-2003-11-30-tajikistan-bangladesh-23260",
+      "matchKey": "2003-11-30-tajikistan-bangladesh",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akmal Kholmatov"
+    }
+  ],
+  "scorer": "Akmal Kholmatov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tajikistan",
+  "teamName": "Tajikistan",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

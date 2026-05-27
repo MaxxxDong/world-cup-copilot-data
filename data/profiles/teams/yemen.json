@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Yemen"
+  ],
+  "allTime": {
+    "draws": 54,
+    "goalsAgainst": 577,
+    "goalsFor": 259,
+    "losses": 159,
+    "matches": 266,
+    "wins": 53
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 10,
+      "goalsFor": 28,
+      "losses": 2,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 26,
+      "goalsFor": 37,
+      "losses": 7,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 22,
+      "losses": 0,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "yemen",
+      "date": "2025-11-26",
+      "homeScore": 4,
+      "homeTeamId": "comoros",
+      "matchId": "int-2025-11-26-comoros-yemen",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bhutan",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "yemen",
+      "matchId": "int-2025-11-18-yemen-bhutan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2025-10-14",
+      "homeScore": 9,
+      "homeTeamId": "yemen",
+      "matchId": "int-2025-10-14-yemen-brunei",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yemen",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "brunei",
+      "matchId": "int-2025-10-09-brunei-yemen",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lebanon",
+      "date": "2025-06-10",
+      "homeScore": 0,
+      "homeTeamId": "yemen",
+      "matchId": "int-2025-06-10-yemen-lebanon",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 41,
+      "goalsAgainst": 484,
+      "goalsFor": 200,
+      "losses": 126,
+      "matches": 205,
+      "wins": 38
+    },
+    "friendly": {
+      "draws": 13,
+      "goalsAgainst": 93,
+      "goalsFor": 59,
+      "losses": 33,
+      "matches": 61,
+      "wins": 15
+    },
+    "neutralVenue": {
+      "draws": 30,
+      "goalsAgainst": 342,
+      "goalsFor": 145,
+      "losses": 87,
+      "matches": 142,
+      "wins": 25
+    },
+    "nonNeutralVenue": {
+      "draws": 24,
+      "goalsAgainst": 235,
+      "goalsFor": 114,
+      "losses": 72,
+      "matches": 124,
+      "wins": 28
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "yemen",
+  "teamName": "Yemen",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "ali-al-nono",
+      "scorer": "Ali Al-Nono"
+    },
+    {
+      "goals": 5,
+      "playerKey": "adel-al-salimi",
+      "scorer": "Adel Al-Salimi"
+    },
+    {
+      "goals": 5,
+      "playerKey": "omar-al-ariki",
+      "scorer": "Omar Al Ariki"
+    },
+    {
+      "goals": 4,
+      "playerKey": "abdulwasea-al-matari",
+      "scorer": "Abdulwasea Al-Matari"
+    },
+    {
+      "goals": 3,
+      "playerKey": "abdulsalam-al-ghurbani",
+      "scorer": "Abdulsalam Al Ghurbani"
+    },
+    {
+      "goals": 3,
+      "playerKey": "nasser-al-gahwashi",
+      "scorer": "Nasser Al-Gahwashi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "omar-al-dahi",
+      "scorer": "Omar Al-Dahi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ahmed-abdul-karim-al-brid",
+      "scorer": "Ahmed Abdul Karim Al-Brid"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ahmed-al-sarori",
+      "scorer": "Ahmed Al-Sarori"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohamed-hassan-abdullah",
+      "scorer": "Mohamed Hassan Abdullah"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "name": "Adelbert Toppenberg",
+  "playerKey": "adelbert-toppenberg",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1973-12-05",
+      "goalId": "goal-1973-12-05-guatemala-curacao-6899",
+      "matchKey": "1973-12-05-guatemala-curacao",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adelbert Toppenberg"
+    },
+    {
+      "date": "1969-12-04",
+      "goalId": "goal-1969-12-04-mex-curacao-5775",
+      "matchKey": "1969-12-04-mex-curacao",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adelbert Toppenberg"
+    },
+    {
+      "date": "1969-12-04",
+      "goalId": "goal-1969-12-04-mex-curacao-5774",
+      "matchKey": "1969-12-04-mex-curacao",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adelbert Toppenberg"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/curacao"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

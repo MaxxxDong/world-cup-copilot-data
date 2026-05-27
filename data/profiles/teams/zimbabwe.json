@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Zimbabwe"
+  ],
+  "allTime": {
+    "draws": 139,
+    "goalsAgainst": 589,
+    "goalsFor": 659,
+    "losses": 166,
+    "matches": 494,
+    "wins": 189
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 13,
+      "goalsFor": 10,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 23,
+      "goalsFor": 20,
+      "losses": 8,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 9,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "zimbabwe",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "botswana",
+      "matchId": "int-2026-03-28-botswana-zimbabwe",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Mukuru 4 Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "rsa",
+      "date": "2025-12-29",
+      "homeScore": 2,
+      "homeTeamId": "zimbabwe",
+      "matchId": "int-2025-12-29-zimbabwe-rsa",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-12-26",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-12-26-angola-zimbabwe",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-12-22",
+      "homeScore": 2,
+      "homeTeamId": "egypt",
+      "matchId": "int-2025-12-22-egypt-zimbabwe",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-11-17-qatar-zimbabwe",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 88,
+      "goalsAgainst": 339,
+      "goalsFor": 397,
+      "losses": 99,
+      "matches": 306,
+      "wins": 119
+    },
+    "friendly": {
+      "draws": 51,
+      "goalsAgainst": 250,
+      "goalsFor": 262,
+      "losses": 67,
+      "matches": 188,
+      "wins": 70
+    },
+    "neutralVenue": {
+      "draws": 44,
+      "goalsAgainst": 161,
+      "goalsFor": 180,
+      "losses": 38,
+      "matches": 128,
+      "wins": 46
+    },
+    "nonNeutralVenue": {
+      "draws": 95,
+      "goalsAgainst": 428,
+      "goalsFor": 479,
+      "losses": 128,
+      "matches": 366,
+      "wins": 143
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "zimbabwe",
+  "teamName": "Zimbabwe",
+  "topScorers": [
+    {
+      "goals": 14,
+      "playerKey": "peter-ndlovu",
+      "scorer": "Peter Ndlovu"
+    },
+    {
+      "goals": 7,
+      "playerKey": "agent-sawu",
+      "scorer": "Agent Sawu"
+    },
+    {
+      "goals": 7,
+      "playerKey": "knowledge-musona",
+      "scorer": "Knowledge Musona"
+    },
+    {
+      "goals": 5,
+      "playerKey": "adam-ndlovu",
+      "scorer": "Adam Ndlovu"
+    },
+    {
+      "goals": 5,
+      "playerKey": "benjani-mwaruwari",
+      "scorer": "Benjani Mwaruwari"
+    },
+    {
+      "goals": 5,
+      "playerKey": "vitalis-takawira",
+      "scorer": "Vitalis Takawira"
+    },
+    {
+      "goals": 4,
+      "playerKey": "shingayi-kaondera",
+      "scorer": "Shingayi Kaondera"
+    },
+    {
+      "goals": 3,
+      "playerKey": "kudakwashe-mahachi",
+      "scorer": "Kudakwashe Mahachi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "bobby-chalmers",
+      "scorer": "Bobby Chalmers"
+    },
+    {
+      "goals": 2,
+      "playerKey": "esrom-nyandoro",
+      "scorer": "Esrom Nyandoro"
+    }
+  ]
+}

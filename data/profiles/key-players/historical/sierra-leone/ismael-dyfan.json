@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "1976-10-30",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2000-01-01",
+    "nationality": "Sierra Leone",
+    "playerKey": "ismael-dyfan",
+    "providerIds": {
+      "sofifa": "48818",
+      "wikidata": "Q6084540"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1980-05-31",
+  "playerKey": "ismael-dyfan",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1980-05-31",
+      "goalId": "goal-1980-05-31-sierra-leone-algeria-8839",
+      "matchKey": "1980-05-31-sierra-leone-algeria",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismael Dyfan"
+    },
+    {
+      "date": "1976-10-30",
+      "goalId": "goal-1976-10-30-nigeria-sierra-leone-7651",
+      "matchKey": "1976-10-30-nigeria-sierra-leone",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismael Dyfan"
+    }
+  ],
+  "scorer": "Ismael Dyfan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

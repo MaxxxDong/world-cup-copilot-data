@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2023-11-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1998-01-22",
+    "nationality": "Chad",
+    "playerKey": "marius-mouandilmadji",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "394",
+      "espn": "276831",
+      "fbref_verified": "ae546ee9",
+      "flashscore": "mouandilmadji-marius/AkJnIzsM",
+      "footballdatabase_eu": "359738",
+      "heimspiel": "559810",
+      "impect": "45712",
+      "kicker": "marius",
+      "national_football_teams": "75256",
+      "opta": "8058605f3gip7nglewe7svqzu",
+      "skillcorner": "12664",
+      "soccerway": "559309",
+      "sofascore": "943593",
+      "thesportsdb": "34218044",
+      "transfermarkt": "598399",
+      "wikidata": "Q55956377",
+      "wyscout": "573902"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-12",
+  "playerKey": "marius-mouandilmadji",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-12",
+      "goalId": "goal-2025-10-12-chad-central-african-republic-47073",
+      "matchKey": "2025-10-12-chad-central-african-republic",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marius Mouandilmadji"
+    },
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-mali-chad-43978",
+      "matchKey": "2023-11-17-mali-chad",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marius Mouandilmadji"
+    }
+  ],
+  "scorer": "Marius Mouandilmadji",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "chad",
+  "teamName": "Chad",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

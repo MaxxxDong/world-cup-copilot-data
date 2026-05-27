@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Aruba"
+  ],
+  "allTime": {
+    "draws": 31,
+    "goalsAgainst": 353,
+    "goalsFor": 199,
+    "losses": 88,
+    "matches": 151,
+    "wins": 32
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 18,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 36,
+      "goalsFor": 35,
+      "losses": 9,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "liechtenstein",
+      "date": "2026-03-29",
+      "homeScore": 4,
+      "homeTeamId": "aruba",
+      "matchId": "int-2026-03-29-aruba-liechtenstein",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "macau",
+      "date": "2026-03-26",
+      "homeScore": 4,
+      "homeTeamId": "aruba",
+      "matchId": "int-2026-03-26-aruba-macau",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "aruba",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "barbados",
+      "matchId": "int-2025-11-15-barbados-aruba",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "aruba",
+      "date": "2025-11-12",
+      "homeScore": 0,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2025-11-12-antigua-and-barbuda-aruba",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "haiti",
+      "date": "2025-06-07",
+      "homeScore": 0,
+      "homeTeamId": "aruba",
+      "matchId": "int-2025-06-07-aruba-haiti",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 15,
+      "goalsAgainst": 229,
+      "goalsFor": 124,
+      "losses": 60,
+      "matches": 96,
+      "wins": 21
+    },
+    "friendly": {
+      "draws": 16,
+      "goalsAgainst": 124,
+      "goalsFor": 75,
+      "losses": 28,
+      "matches": 55,
+      "wins": 11
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 99,
+      "goalsFor": 62,
+      "losses": 25,
+      "matches": 40,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 24,
+      "goalsAgainst": 254,
+      "goalsFor": 137,
+      "losses": 63,
+      "matches": 111,
+      "wins": 24
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "maurice-escalona",
+      "scorer": "Maurice Escalona"
+    },
+    {
+      "goals": 2,
+      "playerKey": "erixon-danso",
+      "scorer": "Erixon Danso"
+    },
+    {
+      "goals": 2,
+      "playerKey": "frederick-gomez",
+      "scorer": "Frederick Gomez"
+    },
+    {
+      "goals": 2,
+      "playerKey": "joshua-john",
+      "scorer": "Joshua John"
+    },
+    {
+      "goals": 2,
+      "playerKey": "raymond-davelaar",
+      "scorer": "Raymond Davelaar"
+    },
+    {
+      "goals": 2,
+      "playerKey": "theodore-filomina",
+      "scorer": "Theodore Filomina"
+    },
+    {
+      "goals": 1,
+      "playerKey": "david-abdul",
+      "scorer": "David Abdul"
+    },
+    {
+      "goals": 1,
+      "playerKey": "diederick-luydens",
+      "scorer": "Diederick Luydens"
+    },
+    {
+      "goals": 1,
+      "playerKey": "erik-santos-de-gouveia",
+      "scorer": "Erik Santos de Gouveia"
+    },
+    {
+      "goals": 1,
+      "playerKey": "isa-marselia",
+      "scorer": "Isaï Marselia"
+    }
+  ]
+}

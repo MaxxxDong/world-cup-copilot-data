@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2017-09-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1987-03-21",
+    "nationality": "San Marino",
+    "playerKey": "mirko-palazzi",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "56099",
+      "espn": "153430",
+      "eu_football_info": "25427",
+      "fbref": "469a6042",
+      "footballdatabase_eu": "12909",
+      "heimspiel": "68195",
+      "impect": "4837",
+      "kicker": "mirko-palazzi",
+      "national_football_teams": "12499",
+      "soccerway": "95966",
+      "sofascore": "13839",
+      "sofifa": "242964",
+      "thesportsdb": "34178490",
+      "transfermarkt": "44199",
+      "uefa": "97583",
+      "wikidata": "Q3556828"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2017-09-04",
+  "playerKey": "mirko-palazzi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2017-09-04",
+      "goalId": "goal-2017-09-04-azerbaijan-san-marino-37158",
+      "matchKey": "2017-09-04-azerbaijan-san-marino",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mirko Palazzi"
+    }
+  ],
+  "scorer": "Mirko Palazzi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "san-marino",
+  "teamName": "San Marino",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

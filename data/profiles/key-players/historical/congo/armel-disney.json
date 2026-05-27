@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2004-06-20",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1980-01-07",
+    "nationality": "Republic of the Congo",
+    "playerKey": "armel-disney",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "a8f526d3",
+      "footballdatabase_eu": "9784",
+      "national_football_teams": "7735",
+      "soccerway": "163550",
+      "sofifa": "183582",
+      "transfermarkt": "46491",
+      "wikidata": "Q4118470",
+      "worldfootball": "armel-disney-mamouna-ossila"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-10-08",
+  "playerKey": "armel-disney",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-10-08",
+      "goalId": "goal-2005-10-08-congo-togo-25835",
+      "matchKey": "2005-10-08-congo-togo",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armel Disney"
+    },
+    {
+      "date": "2004-10-10",
+      "goalId": "goal-2004-10-10-congo-zambia-24648",
+      "matchKey": "2004-10-10-congo-zambia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armel Disney"
+    },
+    {
+      "date": "2004-07-04",
+      "goalId": "goal-2004-07-04-congo-mali-24052",
+      "matchKey": "2004-07-04-congo-mali",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armel Disney"
+    },
+    {
+      "date": "2004-06-20",
+      "goalId": "goal-2004-06-20-congo-liberia-23931",
+      "matchKey": "2004-06-20-congo-liberia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armel Disney"
+    }
+  ],
+  "scorer": "Armel Disney",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

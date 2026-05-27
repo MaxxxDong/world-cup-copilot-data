@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2001-04-15",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1976-12-01",
+    "nationality": "Yemen",
+    "playerKey": "abdulsalam-al-ghurbani",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "989c2c0d",
+      "national_football_teams": "9755",
+      "sofifa": "183095",
+      "wikidata": "Q4666205"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-11",
+  "playerKey": "abdulsalam-al-ghurbani",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-11",
+      "goalId": "goal-2001-05-11-yemen-united-arab-emirates-21138",
+      "matchKey": "2001-05-11-yemen-united-arab-emirates",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdulsalam Al Ghurbani"
+    },
+    {
+      "date": "2001-04-27",
+      "goalId": "goal-2001-04-27-yemen-brunei-21003",
+      "matchKey": "2001-04-27-yemen-brunei",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdulsalam Al Ghurbani"
+    },
+    {
+      "date": "2001-04-15",
+      "goalId": "goal-2001-04-15-india-yemen-20846",
+      "matchKey": "2001-04-15-india-yemen",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdulsalam Al Ghurbani"
+    }
+  ],
+  "scorer": "Abdulsalam Al Ghurbani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "yemen",
+  "teamName": "Yemen",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "firstGoalDate": "1997-06-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1967-09-15",
+    "nationality": "Soviet Union",
+    "playerKey": "aleksandr-merzlikin",
+    "providerIds": {
+      "national_football_teams": "12547",
+      "transfermarkt": "680874",
+      "wikidata": "Q65142595"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-13",
+  "playerKey": "aleksandr-merzlikin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-13",
+      "goalId": "goal-1997-06-13-maldives-kyrgyzstan-17337",
+      "matchKey": "1997-06-13-maldives-kyrgyzstan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Merzlikin"
+    },
+    {
+      "date": "1997-06-06",
+      "goalId": "goal-1997-06-06-kyrgyzstan-maldives-17188",
+      "matchKey": "1997-06-06-kyrgyzstan-maldives",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Merzlikin"
+    }
+  ],
+  "scorer": "Aleksandr Merzlikin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

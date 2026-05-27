@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2011-11-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-02-10",
+    "nationality": "Barbados",
+    "playerKey": "diquan-adamson",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "b9c328f5",
+      "footballdatabase_eu": "150374",
+      "national_football_teams": "48027",
+      "soccerway": "136722",
+      "sofifa": "349954",
+      "transfermarkt": "216988",
+      "wikidata": "Q11694262"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-11",
+  "playerKey": "diquan-adamson",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-bermuda-barbados-31374",
+      "matchKey": "2011-11-11-bermuda-barbados",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diquan Adamson"
+    }
+  ],
+  "scorer": "Diquan Adamson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "barbados",
+  "teamName": "Barbados",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

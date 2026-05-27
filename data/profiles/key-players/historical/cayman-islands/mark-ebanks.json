@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2011-09-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1990-12-26",
+    "nationality": "United Kingdom",
+    "playerKey": "mark-ebanks",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "ff5f4183",
+      "footballdatabase_eu": "119095",
+      "national_football_teams": "40171",
+      "soccerway": "157454",
+      "sofifa": "346573",
+      "transfermarkt": "217337",
+      "wikidata": "Q6767481"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-08",
+  "playerKey": "mark-ebanks",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-bermuda-cayman-islands-40647",
+      "matchKey": "2021-06-08-bermuda-cayman-islands",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Ebanks"
+    },
+    {
+      "date": "2015-03-29",
+      "goalId": "goal-2015-03-29-cayman-islands-belize-34309",
+      "matchKey": "2015-03-29-cayman-islands-belize",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Ebanks"
+    },
+    {
+      "date": "2011-11-14",
+      "goalId": "goal-2011-11-14-cayman-islands-dominican-republic-31467",
+      "matchKey": "2011-11-14-cayman-islands-dominican-republic",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Ebanks"
+    },
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-cayman-islands-el-salvador-30984",
+      "matchKey": "2011-09-06-cayman-islands-el-salvador",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mark Ebanks"
+    }
+  ],
+  "scorer": "Mark Ebanks",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cayman-islands",
+  "teamName": "Cayman Islands",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

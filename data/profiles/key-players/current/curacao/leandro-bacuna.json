@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1991-08-21",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "leandro-bacuna",
+    "position": "wing half",
+    "providerIds": {
+      "11v11": "236266",
+      "api_football": "18997",
+      "espn": "138664",
+      "fbref": "9dc69d38",
+      "footballdatabase_eu": "81684",
+      "heimspiel": "163001",
+      "hugman": "26020",
+      "impect": "18430",
+      "kicker": "leandro-bacuna",
+      "national_football_teams": "63672",
+      "opta": "9080840ngisugqraum27d0us5",
+      "opta_numeric": "74297",
+      "premier_league": "4721",
+      "skillcorner": "6091",
+      "soccerbase": "55800",
+      "soccerway": "88003",
+      "sofascore": "74545",
+      "statmuse_pl": "3634",
+      "thesportsdb": "34145458",
+      "transfermarkt": "126014",
+      "understat": "674",
+      "whoscored": "79967",
+      "wikidata": "Q249344",
+      "worldfootball": "leandro-bacuna",
+      "wyscout": "372"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Leandro Bacuna",
+  "playerKey": "leandro-bacuna",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-13",
+      "goalId": "goal-2025-11-13-bermuda-curacao-47224",
+      "matchKey": "2025-11-13-bermuda-curacao",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Leandro Bacuna"
+    },
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-british-virgin-islands-curacao-40552",
+      "matchKey": "2021-06-05-british-virgin-islands-curacao",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leandro Bacuna"
+    },
+    {
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-cuba-curacao-40250",
+      "matchKey": "2021-03-28-cuba-curacao",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leandro Bacuna"
+    },
+    {
+      "date": "2019-06-21",
+      "goalId": "goal-2019-06-21-honduras-curacao-38602",
+      "matchKey": "2019-06-21-honduras-curacao",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leandro Bacuna"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/curacao"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

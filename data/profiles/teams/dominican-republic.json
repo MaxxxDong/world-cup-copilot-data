@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Dominican Republic"
+  ],
+  "allTime": {
+    "draws": 26,
+    "goalsAgainst": 250,
+    "goalsFor": 264,
+    "losses": 70,
+    "matches": 158,
+    "wins": 62
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 13,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 22,
+      "goalsFor": 50,
+      "losses": 5,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 4,
+      "goalsFor": 5,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2026-03-29-dominican-republic-cuba",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "el-salvador",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2026-03-26-dominican-republic-el-salvador",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "martinique",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2025-11-18-dominican-republic-martinique",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2025-11-12",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2025-11-12-dominican-republic-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominican-republic",
+      "date": "2025-10-10",
+      "homeScore": 1,
+      "homeTeamId": "uruguay",
+      "matchId": "int-2025-10-10-uruguay-dominican-republic",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 21,
+      "goalsAgainst": 185,
+      "goalsFor": 219,
+      "losses": 50,
+      "matches": 120,
+      "wins": 49
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 65,
+      "goalsFor": 45,
+      "losses": 20,
+      "matches": 38,
+      "wins": 13
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 52,
+      "goalsFor": 61,
+      "losses": 13,
+      "matches": 34,
+      "wins": 15
+    },
+    "nonNeutralVenue": {
+      "draws": 20,
+      "goalsAgainst": 198,
+      "goalsFor": 203,
+      "losses": 57,
+      "matches": 124,
+      "wins": 47
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "dominican-republic",
+  "teamName": "Dominican Republic",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "dorny-romero",
+      "scorer": "Dorny Romero"
+    },
+    {
+      "goals": 5,
+      "playerKey": "erick-ozuna",
+      "scorer": "Erick Ozuna"
+    },
+    {
+      "goals": 4,
+      "playerKey": "dinardo-rodr-guez",
+      "scorer": "Dinardo Rodríguez"
+    },
+    {
+      "goals": 4,
+      "playerKey": "omar-zapata",
+      "scorer": "Omar Zapata"
+    },
+    {
+      "goals": 3,
+      "playerKey": "domingo-peralta",
+      "scorer": "Domingo Peralta"
+    },
+    {
+      "goals": 3,
+      "playerKey": "inoel-navarro",
+      "scorer": "Inoel Navarro"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jonathan-fa-a",
+      "scorer": "Jonathan Faña"
+    },
+    {
+      "goals": 2,
+      "playerKey": "alberto-jim-nez",
+      "scorer": "Alberto Jiménez"
+    },
+    {
+      "goals": 2,
+      "playerKey": "juan-contrera",
+      "scorer": "Juan Contrera"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kervin-severino",
+      "scorer": "Kervin Severino"
+    }
+  ]
+}

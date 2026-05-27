@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2019-10-12",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1998-05-27",
+    "nationality": "Liechtenstein",
+    "playerKey": "yanik-frick",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "29540",
+      "fbref": "070044e4",
+      "footballdatabase_eu": "277544",
+      "kicker": "yanik-frick",
+      "national_football_teams": "65459",
+      "soccerway": "320126",
+      "sofifa": "398557",
+      "transfermarkt": "345219",
+      "uefa": "250066921",
+      "wikidata": "Q27662558",
+      "worldfootball": "yanik-frick"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-03-31",
+  "playerKey": "yanik-frick",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-03-31",
+      "goalId": "goal-2021-03-31-liechtenstein-iceland-40405",
+      "matchKey": "2021-03-31-liechtenstein-iceland",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yanik Frick"
+    },
+    {
+      "date": "2020-09-08",
+      "goalId": "goal-2020-09-08-san-marino-liechtenstein-39730",
+      "matchKey": "2020-09-08-san-marino-liechtenstein",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yanik Frick"
+    },
+    {
+      "date": "2019-10-12",
+      "goalId": "goal-2019-10-12-liechtenstein-armenia-39231",
+      "matchKey": "2019-10-12-liechtenstein-armenia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yanik Frick"
+    }
+  ],
+  "scorer": "Yanik Frick",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liechtenstein",
+  "teamName": "Liechtenstein",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

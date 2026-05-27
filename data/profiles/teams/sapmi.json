@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Sápmi"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 54,
+    "goalsFor": 90,
+    "losses": 15,
+    "matches": 29,
+    "wins": 12
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 11,
+      "losses": 7,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 45,
+      "goalsFor": 36,
+      "losses": 13,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 13,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sapmi",
+      "date": "2023-07-16",
+      "homeScore": 2,
+      "homeTeamId": "kernow",
+      "matchId": "int-2023-07-16-kernow-sapmi",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-08",
+      "homeScore": 3,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2019-06-08-sapmi-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sapmi",
+      "date": "2019-06-06",
+      "homeScore": 4,
+      "homeTeamId": "padania",
+      "matchId": "int-2019-06-06-padania-sapmi",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sapmi",
+      "date": "2019-06-04",
+      "homeScore": 4,
+      "homeTeamId": "chameria",
+      "matchId": "int-2019-06-04-chameria-sapmi",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-03",
+      "homeScore": 0,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2019-06-03-sapmi-abkhazia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "goalsAgainst": 51,
+      "goalsFor": 88,
+      "losses": 14,
+      "matches": 28,
+      "wins": 12
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 1,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 22,
+      "goalsFor": 63,
+      "losses": 5,
+      "matches": 14,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 32,
+      "goalsFor": 27,
+      "losses": 10,
+      "matches": 15,
+      "wins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "sapmi",
+  "teamName": "Sápmi",
+  "topScorers": []
+}

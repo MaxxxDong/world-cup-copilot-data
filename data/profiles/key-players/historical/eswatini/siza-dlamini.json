@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2000-04-23",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1976-04-02",
+    "nationality": "Eswatini",
+    "playerKey": "siza-dlamini",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "a3d92f13",
+      "footballdatabase_eu": "37558",
+      "national_football_teams": "6336",
+      "soccerway": "88671",
+      "transfermarkt": "64014",
+      "wikidata": "Q3291661"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-08",
+  "playerKey": "siza-dlamini",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-08",
+      "goalId": "goal-2008-06-08-eswatini-togo-27887",
+      "matchKey": "2008-06-08-eswatini-togo",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siza Dlamini"
+    },
+    {
+      "date": "2003-10-12",
+      "goalId": "goal-2003-10-12-eswatini-cape-verde-23109",
+      "matchKey": "2003-10-12-eswatini-cape-verde",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siza Dlamini"
+    },
+    {
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-angola-eswatini-19566",
+      "matchKey": "2000-04-23-angola-eswatini",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siza Dlamini"
+    }
+  ],
+  "scorer": "Siza Dlamini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "eswatini",
+  "teamName": "Eswatini",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2012-01-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1985-05-13",
+    "nationality": "Equatorial Guinea",
+    "playerKey": "javier-balboa",
+    "position": "wing half",
+    "providerIds": {
+      "11v11": "231048",
+      "capology": "javier-balboa-31180",
+      "fbref": "cf0dbde3",
+      "footballdatabase_eu": "13396",
+      "kicker": "javier-balboa",
+      "lequipe": "23773",
+      "national_football_teams": "23180",
+      "opta": "6ths9unu9wyey6ghl1lliua51",
+      "soccerbase": "58339",
+      "soccerway": "3269",
+      "sofascore": "13143",
+      "sofifa": "298170",
+      "transfermarkt": "35640",
+      "wikidata": "Q346708",
+      "worldfootball": "balboa_2"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-01-31",
+  "playerKey": "javier-balboa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-01-31",
+      "goalId": "goal-2015-01-31-equatorial-guinea-tunisia-34171",
+      "matchKey": "2015-01-31-equatorial-guinea-tunisia",
+      "minute": 102,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Balboa"
+    },
+    {
+      "date": "2015-01-31",
+      "goalId": "goal-2015-01-31-equatorial-guinea-tunisia-34170",
+      "matchKey": "2015-01-31-equatorial-guinea-tunisia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Javier Balboa"
+    },
+    {
+      "date": "2015-01-25",
+      "goalId": "goal-2015-01-25-equatorial-guinea-gabon-34139",
+      "matchKey": "2015-01-25-equatorial-guinea-gabon",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Javier Balboa"
+    },
+    {
+      "date": "2012-01-21",
+      "goalId": "goal-2012-01-21-equatorial-guinea-libya-31599",
+      "matchKey": "2012-01-21-equatorial-guinea-libya",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Balboa"
+    }
+  ],
+  "scorer": "Javier Balboa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "equatorial-guinea",
+  "teamName": "Equatorial Guinea",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

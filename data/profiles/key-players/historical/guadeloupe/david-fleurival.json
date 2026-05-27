@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2007-06-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-02-19",
+    "nationality": "France",
+    "playerKey": "david-fleurival",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "20391",
+      "impect": "34999",
+      "kicker": "david-fleurival",
+      "national_football_teams": "22897",
+      "opta": "ej03i3u5w2257dja3r6edj4yd",
+      "soccerway": "10145",
+      "transfermarkt": "45128",
+      "wikidata": "Q2735246"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2009-07-05",
+  "playerKey": "david-fleurival",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2009-07-05",
+      "goalId": "goal-2009-07-05-panama-guadeloupe-29274",
+      "matchKey": "2009-07-05-panama-guadeloupe",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Fleurival"
+    },
+    {
+      "date": "2007-06-09",
+      "goalId": "goal-2007-06-09-canada-guadeloupe-26730",
+      "matchKey": "2007-06-09-canada-guadeloupe",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Fleurival"
+    }
+  ],
+  "scorer": "David Fleurival",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

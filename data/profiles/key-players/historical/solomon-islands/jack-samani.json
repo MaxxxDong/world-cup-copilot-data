@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "2000-06-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1979-05-07",
+    "nationality": "Solomon Islands",
+    "playerKey": "jack-samani",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "12248",
+      "national_football_teams": "6076",
+      "transfermarkt": "178037",
+      "wikidata": "Q1677195",
+      "worldfootball": "jack-samani"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-12",
+  "playerKey": "jack-samani",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-12",
+      "goalId": "goal-2004-05-12-solomon-islands-cook-islands-23582",
+      "matchKey": "2004-05-12-solomon-islands-cook-islands",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jack Samani"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-solomon-islands-tonga-23561",
+      "matchKey": "2004-05-10-solomon-islands-tonga",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jack Samani"
+    },
+    {
+      "date": "2001-06-08",
+      "goalId": "goal-2001-06-08-vanuatu-solomon-islands-21440",
+      "matchKey": "2001-06-08-vanuatu-solomon-islands",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jack Samani"
+    },
+    {
+      "date": "2000-06-21",
+      "goalId": "goal-2000-06-21-solomon-islands-cook-islands-19808",
+      "matchKey": "2000-06-21-solomon-islands-cook-islands",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jack Samani"
+    }
+  ],
+  "scorer": "Jack Samani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "solomon-islands",
+  "teamName": "Solomon Islands",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

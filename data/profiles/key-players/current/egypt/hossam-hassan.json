@@ -1,0 +1,146 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 20,
+  "identity": {
+    "dateOfBirth": "1966-08-10",
+    "nationality": "Egypt",
+    "playerKey": "hossam-hassan",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "a5f1adfe",
+      "footballdatabase_eu": "13695",
+      "kicker": "hossam-hassan",
+      "national_football_teams": "12994",
+      "soccerway": "106426",
+      "sofascore": "1421163",
+      "sofifa": "174595",
+      "transfermarkt": "38171",
+      "uefa": "10899",
+      "wikidata": "Q448937",
+      "worldfootball": "hossam-hassan"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Hossam Hassan",
+  "playerKey": "hossam-hassan",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2006-02-03",
+      "goalId": "goal-2006-02-03-egypt-dr-congo-26068",
+      "matchKey": "2006-02-03-egypt-dr-congo",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "2000-02-01",
+      "goalId": "goal-2000-02-01-egypt-burkina-faso-19243",
+      "matchKey": "2000-02-01-egypt-burkina-faso",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "2000-01-28",
+      "goalId": "goal-2000-01-28-egypt-senegal-19230",
+      "matchKey": "2000-01-28-egypt-senegal",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "2000-01-23",
+      "goalId": "goal-2000-01-23-egypt-zambia-19206",
+      "matchKey": "2000-01-23-egypt-zambia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-25",
+      "goalId": "goal-1998-02-25-burkina-faso-egypt-18180",
+      "matchKey": "1998-02-25-burkina-faso-egypt",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-25",
+      "goalId": "goal-1998-02-25-burkina-faso-egypt-18179",
+      "matchKey": "1998-02-25-burkina-faso-egypt",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-13",
+      "goalId": "goal-1998-02-13-zambia-egypt-18143",
+      "matchKey": "1998-02-13-zambia-egypt",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-13",
+      "goalId": "goal-1998-02-13-zambia-egypt-18142",
+      "matchKey": "1998-02-13-zambia-egypt",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-13",
+      "goalId": "goal-1998-02-13-zambia-egypt-18141",
+      "matchKey": "1998-02-13-zambia-egypt",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "date": "1998-02-10",
+      "goalId": "goal-1998-02-10-egypt-mozambique-18114",
+      "matchKey": "1998-02-10-egypt-mozambique",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossam Hassan"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/egypt"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "egypt",
+  "teamName": "Egypt"
+}

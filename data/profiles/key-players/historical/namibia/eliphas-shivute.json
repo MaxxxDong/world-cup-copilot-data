@@ -1,0 +1,94 @@
+{
+  "firstGoalDate": "1996-11-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1974-09-27",
+    "nationality": "Namibia",
+    "playerKey": "eliphas-shivute",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "89583",
+      "national_football_teams": "4554",
+      "soccerbase": "12193",
+      "transfermarkt": "293930",
+      "wikidata": "Q74572"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-04-08",
+  "playerKey": "eliphas-shivute",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-04-08",
+      "goalId": "goal-2000-04-08-seychelles-namibia-19482",
+      "matchKey": "2000-04-08-seychelles-namibia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eliphas Shivute"
+    },
+    {
+      "date": "1998-02-08",
+      "goalId": "goal-1998-02-08-civ-namibia-18102",
+      "matchKey": "1998-02-08-civ-namibia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eliphas Shivute"
+    },
+    {
+      "date": "1998-02-08",
+      "goalId": "goal-1998-02-08-civ-namibia-18100",
+      "matchKey": "1998-02-08-civ-namibia",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eliphas Shivute"
+    },
+    {
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-liberia-namibia-17243",
+      "matchKey": "1997-06-08-liberia-namibia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eliphas Shivute"
+    },
+    {
+      "date": "1996-11-08",
+      "goalId": "goal-1996-11-08-egypt-namibia-16433",
+      "matchKey": "1996-11-08-egypt-namibia",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eliphas Shivute"
+    }
+  ],
+  "scorer": "Eliphas Shivute",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "namibia",
+  "teamName": "Namibia",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

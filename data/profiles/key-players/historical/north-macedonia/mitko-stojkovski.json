@@ -1,0 +1,99 @@
+{
+  "firstGoalDate": "1994-09-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1972-12-18",
+    "nationality": "North Macedonia",
+    "playerKey": "mitko-stojkovski",
+    "position": "defender",
+    "providerIds": {
+      "eu_football_info": "20193",
+      "fbref": "f32d2632",
+      "footballdatabase_eu": "18110",
+      "kicker": "mitko-stojkovski",
+      "national_football_teams": "16094",
+      "sofifa": "156667",
+      "transfermarkt": "390",
+      "uefa": "7391",
+      "wikidata": "Q1371917",
+      "worldfootball": "mitko-stojkovski"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-04-02",
+  "playerKey": "mitko-stojkovski",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-north-macedonia-republic-of-ireland-16891",
+      "matchKey": "1997-04-02-north-macedonia-republic-of-ireland",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mitko Stojkovski"
+    },
+    {
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-north-macedonia-republic-of-ireland-16890",
+      "matchKey": "1997-04-02-north-macedonia-republic-of-ireland",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mitko Stojkovski"
+    },
+    {
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-liechtenstein-north-macedonia-16451",
+      "matchKey": "1996-11-09-liechtenstein-north-macedonia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mitko Stojkovski"
+    },
+    {
+      "date": "1996-11-09",
+      "goalId": "goal-1996-11-09-liechtenstein-north-macedonia-16450",
+      "matchKey": "1996-11-09-liechtenstein-north-macedonia",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mitko Stojkovski"
+    },
+    {
+      "date": "1994-09-07",
+      "goalId": "goal-1994-09-07-north-macedonia-denmark-14988",
+      "matchKey": "1994-09-07-north-macedonia-denmark",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mitko Stojkovski"
+    }
+  ],
+  "scorer": "Mitko Stojkovski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "north-macedonia",
+  "teamName": "North Macedonia",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

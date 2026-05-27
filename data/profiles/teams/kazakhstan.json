@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Kazakhstan"
+  ],
+  "allTime": {
+    "draws": 59,
+    "goalsAgainst": 440,
+    "goalsFor": 307,
+    "losses": 137,
+    "matches": 267,
+    "wins": 71
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 10,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 36,
+      "goalsFor": 17,
+      "losses": 12,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 3,
+      "goalsFor": 5,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "comoros",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2026-03-31-kazakhstan-comoros",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2026-03-25",
+      "homeScore": 2,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2026-03-25-kazakhstan-namibia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2025-11-18-faroe-islands-kazakhstan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belgium",
+      "date": "2025-11-15",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2025-11-15-kazakhstan-belgium",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kazakhstan",
+      "date": "2025-10-13",
+      "homeScore": 1,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2025-10-13-north-macedonia-kazakhstan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 37,
+      "goalsAgainst": 341,
+      "goalsFor": 225,
+      "losses": 105,
+      "matches": 187,
+      "wins": 45
+    },
+    "friendly": {
+      "draws": 22,
+      "goalsAgainst": 99,
+      "goalsFor": 82,
+      "losses": 32,
+      "matches": 80,
+      "wins": 26
+    },
+    "neutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 45,
+      "goalsFor": 88,
+      "losses": 14,
+      "matches": 48,
+      "wins": 20
+    },
+    "nonNeutralVenue": {
+      "draws": 45,
+      "goalsAgainst": 395,
+      "goalsFor": 219,
+      "losses": 123,
+      "matches": 219,
+      "wins": 51
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kazakhstan",
+  "teamName": "Kazakhstan",
+  "topScorers": [
+    {
+      "goals": 11,
+      "playerKey": "bakhtiyar-zaynutdinov",
+      "scorer": "Bakhtiyar Zaynutdinov"
+    },
+    {
+      "goals": 8,
+      "playerKey": "abat-aymbetov",
+      "scorer": "Abat Aymbetov"
+    },
+    {
+      "goals": 8,
+      "playerKey": "ruslan-baltiyev",
+      "scorer": "Ruslan Baltiyev"
+    },
+    {
+      "goals": 7,
+      "playerKey": "dmitry-byakov",
+      "scorer": "Dmitry Byakov"
+    },
+    {
+      "goals": 6,
+      "playerKey": "islambek-kuat",
+      "scorer": "Islambek Kuat"
+    },
+    {
+      "goals": 5,
+      "playerKey": "sergei-khizhnichenko",
+      "scorer": "Sergei Khizhnichenko"
+    },
+    {
+      "goals": 5,
+      "playerKey": "sergei-ostapenko",
+      "scorer": "Sergei Ostapenko"
+    },
+    {
+      "goals": 4,
+      "playerKey": "gafurzhan-suyumbayev",
+      "scorer": "Gafurzhan Suyumbayev"
+    },
+    {
+      "goals": 4,
+      "playerKey": "oleg-litvinenko",
+      "scorer": "Oleg Litvinenko"
+    },
+    {
+      "goals": 4,
+      "playerKey": "viktor-zubarev",
+      "scorer": "Viktor Zubarev"
+    }
+  ]
+}

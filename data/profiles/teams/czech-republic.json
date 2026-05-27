@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Czech Republic",
+    "CZE",
+    "Czechia"
+  ],
+  "allTime": {
+    "draws": 72,
+    "goalsAgainst": 366,
+    "goalsFor": 636,
+    "losses": 97,
+    "matches": 358,
+    "wins": 189
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "CZE",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 18,
+      "losses": 2,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 24,
+      "goalsFor": 35,
+      "losses": 4,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 12,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2026-03-31-czech-republic-denmark",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "republic-of-ireland",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2026-03-26-czech-republic-republic-of-ireland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gibraltar",
+      "date": "2025-11-17",
+      "homeScore": 6,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2025-11-17-czech-republic-gibraltar",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2025-11-13-czech-republic-san-marino",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2025-10-12",
+      "homeScore": 2,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2025-10-12-faroe-islands-czech-republic",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 42,
+      "goalsAgainst": 224,
+      "goalsFor": 403,
+      "losses": 63,
+      "matches": 232,
+      "wins": 127
+    },
+    "friendly": {
+      "draws": 30,
+      "goalsAgainst": 142,
+      "goalsFor": 233,
+      "losses": 34,
+      "matches": 126,
+      "wins": 62
+    },
+    "neutralVenue": {
+      "draws": 9,
+      "goalsAgainst": 73,
+      "goalsFor": 92,
+      "losses": 22,
+      "matches": 57,
+      "wins": 26
+    },
+    "nonNeutralVenue": {
+      "draws": 63,
+      "goalsAgainst": 293,
+      "goalsFor": 544,
+      "losses": 75,
+      "matches": 301,
+      "wins": 163
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 3,
+      "losses": 2,
+      "matches": 3,
+      "wins": 1
+    }
+  },
+  "teamId": "czech-republic",
+  "teamName": "Czech Republic",
+  "topScorers": [
+    {
+      "goals": 33,
+      "playerKey": "jan-koller",
+      "scorer": "Jan Koller"
+    },
+    {
+      "goals": 25,
+      "playerKey": "milan-baro",
+      "scorer": "Milan Baroš"
+    },
+    {
+      "goals": 21,
+      "playerKey": "patrik-schick",
+      "scorer": "Patrik Schick"
+    },
+    {
+      "goals": 20,
+      "playerKey": "vladim-r-micer",
+      "scorer": "Vladimír Šmicer"
+    },
+    {
+      "goals": 15,
+      "playerKey": "tom-rosick",
+      "scorer": "Tomáš Rosický"
+    },
+    {
+      "goals": 14,
+      "playerKey": "patrik-berger",
+      "scorer": "Patrik Berger"
+    },
+    {
+      "goals": 14,
+      "playerKey": "pavel-nedv-d",
+      "scorer": "Pavel Nedvěd"
+    },
+    {
+      "goals": 12,
+      "playerKey": "tom-sou-ek",
+      "scorer": "Tomáš Souček"
+    },
+    {
+      "goals": 9,
+      "playerKey": "marek-jankulovski",
+      "scorer": "Marek Jankulovski"
+    },
+    {
+      "goals": 9,
+      "playerKey": "vratislav-lokvenc",
+      "scorer": "Vratislav Lokvenc"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2015-01-25",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1988-02-27",
+    "nationality": "Republic of the Congo",
+    "playerKey": "fabrice-ondama",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "076ba400",
+      "footballdatabase_eu": "39514",
+      "kicker": "fabrice-nguessi-ondama",
+      "national_football_teams": "27547",
+      "opta": "bu8md81xr8u30fzkgbpv5vpp1",
+      "soccerway": "41379",
+      "sofascore": "97194",
+      "transfermarkt": "59958",
+      "wikidata": "Q3063929"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-14",
+  "playerKey": "fabrice-ondama",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-14",
+      "goalId": "goal-2015-11-14-ethiopia-congo-35400",
+      "matchKey": "2015-11-14-ethiopia-congo",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fabrice Ondama"
+    },
+    {
+      "date": "2015-01-25",
+      "goalId": "goal-2015-01-25-congo-burkina-faso-34138",
+      "matchKey": "2015-01-25-congo-burkina-faso",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fabrice Ondama"
+    }
+  ],
+  "scorer": "Fabrice Ondama",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

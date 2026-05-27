@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2000-03-19",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1977-11-24",
+    "nationality": "United Kingdom",
+    "playerKey": "wayne-dyer",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c9120cc3",
+      "footballdatabase_eu": "33129",
+      "hugman": "5638",
+      "national_football_teams": "4463",
+      "soccerbase": "9519",
+      "sofascore": "965659",
+      "transfermarkt": "189661",
+      "wikidata": "Q4018598"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-03-19",
+  "playerKey": "wayne-dyer",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-03-19",
+      "goalId": "goal-2000-03-19-montserrat-dominican-republic-19426",
+      "matchKey": "2000-03-19-montserrat-dominican-republic",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wayne Dyer"
+    }
+  ],
+  "scorer": "Wayne Dyer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

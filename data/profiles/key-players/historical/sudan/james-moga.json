@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2000-06-18",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1983-06-14",
+    "nationality": "Sudan",
+    "playerKey": "james-moga",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "fe030a07",
+      "footballdatabase_eu": "9198",
+      "national_football_teams": "6286",
+      "soccerway": "214608",
+      "sofifa": "196451",
+      "transfermarkt": "192007",
+      "wikidata": "Q2701199"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-03-10",
+  "playerKey": "james-moga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-03-10",
+      "goalId": "goal-2001-03-10-sierra-leone-sudan-20509",
+      "matchKey": "2001-03-10-sierra-leone-sudan",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Moga"
+    },
+    {
+      "date": "2001-02-25",
+      "goalId": "goal-2001-02-25-sudan-ghana-20458",
+      "matchKey": "2001-02-25-sudan-ghana",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Moga"
+    },
+    {
+      "date": "2000-06-18",
+      "goalId": "goal-2000-06-18-sudan-liberia-19753",
+      "matchKey": "2000-06-18-sudan-liberia",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Moga"
+    }
+  ],
+  "scorer": "James Moga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sudan",
+  "teamName": "Sudan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

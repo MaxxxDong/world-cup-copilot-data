@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2008-09-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-06-14",
+    "nationality": "Fiji",
+    "playerKey": "maciu-dunadamu",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "335ae912",
+      "footballdatabase_eu": "23881",
+      "national_football_teams": "17059",
+      "sofifa": "287788",
+      "transfermarkt": "64487",
+      "wikidata": "Q3842144"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-06",
+  "playerKey": "maciu-dunadamu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-06",
+      "goalId": "goal-2012-06-06-papua-new-guinea-fiji-31836",
+      "matchKey": "2012-06-06-papua-new-guinea-fiji",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maciu Dunadamu"
+    },
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-vanuatu-fiji-28561",
+      "matchKey": "2008-09-10-vanuatu-fiji",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maciu Dunadamu"
+    },
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-fiji-vanuatu-28340",
+      "matchKey": "2008-09-06-fiji-vanuatu",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maciu Dunadamu"
+    }
+  ],
+  "scorer": "Maciu Dunadamu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "fiji",
+  "teamName": "Fiji",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

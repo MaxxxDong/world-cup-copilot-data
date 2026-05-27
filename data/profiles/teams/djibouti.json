@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Djibouti"
+  ],
+  "allTime": {
+    "draws": 10,
+    "goalsAgainst": 401,
+    "goalsFor": 74,
+    "losses": 94,
+    "matches": 111,
+    "wins": 7
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 27,
+      "goalsFor": 5,
+      "losses": 8,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 55,
+      "goalsFor": 16,
+      "losses": 15,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 1,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "djibouti",
+      "date": "2025-11-26",
+      "homeScore": 1,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-11-26-bahrain-djibouti",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sierra-leone",
+      "date": "2025-10-12",
+      "homeScore": 1,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2025-10-12-djibouti-sierra-leone",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "egypt",
+      "date": "2025-10-08",
+      "homeScore": 0,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2025-10-08-djibouti-egypt",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "djibouti",
+      "date": "2025-09-08",
+      "homeScore": 2,
+      "homeTeamId": "guinea-bissau",
+      "matchId": "int-2025-09-08-guinea-bissau-djibouti",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-09-05",
+      "homeScore": 0,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2025-09-05-djibouti-burkina-faso",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 8,
+      "goalsAgainst": 334,
+      "goalsFor": 56,
+      "losses": 78,
+      "matches": 91,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 67,
+      "goalsFor": 18,
+      "losses": 16,
+      "matches": 20,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 180,
+      "goalsFor": 34,
+      "losses": 46,
+      "matches": 50,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 221,
+      "goalsFor": 40,
+      "losses": 48,
+      "matches": 61,
+      "wins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "gabriel-dadzie",
+      "scorer": "Gabriel Dadzie"
+    },
+    {
+      "goals": 2,
+      "playerKey": "samuel-akinbinu",
+      "scorer": "Samuel Akinbinu"
+    },
+    {
+      "goals": 1,
+      "playerKey": "abdi-idleh-hamza",
+      "scorer": "Abdi Idleh Hamza"
+    },
+    {
+      "goals": 1,
+      "playerKey": "abdichakour-farah",
+      "scorer": "Abdichakour Farah"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ahmed-daher",
+      "scorer": "Ahmed Daher"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anas-farah-ali",
+      "scorer": "Anas Farah Ali"
+    },
+    {
+      "goals": 1,
+      "playerKey": "hared-robleh",
+      "scorer": "Hared Robleh"
+    },
+    {
+      "goals": 1,
+      "playerKey": "hussein-yassin",
+      "scorer": "Hussein Yassin"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mahad-khaireh",
+      "scorer": "Mahad Khaireh"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mahdi-houssein-mahabeh",
+      "scorer": "Mahdi Houssein Mahabeh"
+    }
+  ]
+}

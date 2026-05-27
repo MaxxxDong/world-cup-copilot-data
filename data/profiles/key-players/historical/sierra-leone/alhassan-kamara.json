@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2013-03-23",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-03-16",
+    "nationality": "Sierra Leone",
+    "playerKey": "alhassan-kamara",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "f7c82c80",
+      "footballdatabase_eu": "153458",
+      "kicker": "alhassan-kamara",
+      "national_football_teams": "47853",
+      "soccerway": "198547",
+      "transfermarkt": "203418",
+      "uefa": "250051100",
+      "wikidata": "Q172159"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-09-07",
+  "playerKey": "alhassan-kamara",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-sierra-leone-equatorial-guinea-33209",
+      "matchKey": "2013-09-07-sierra-leone-equatorial-guinea",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alhassan Kamara"
+    },
+    {
+      "date": "2013-03-23",
+      "goalId": "goal-2013-03-23-tunisia-sierra-leone-32658",
+      "matchKey": "2013-03-23-tunisia-sierra-leone",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alhassan Kamara"
+    }
+  ],
+  "scorer": "Alhassan Kamara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

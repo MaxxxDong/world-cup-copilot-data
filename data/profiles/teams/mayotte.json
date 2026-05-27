@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Mayotte"
+  ],
+  "allTime": {
+    "draws": 11,
+    "goalsAgainst": 56,
+    "goalsFor": 51,
+    "losses": 16,
+    "matches": 38,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 12,
+      "losses": 3,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 17,
+      "goalsFor": 24,
+      "losses": 6,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 3,
+      "goalsFor": 6,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2023-08-26",
+      "homeScore": 0,
+      "homeTeamId": "reunion",
+      "matchId": "int-2023-08-26-reunion-mayotte",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2023-08-24",
+      "homeScore": 0,
+      "homeTeamId": "comoros",
+      "matchId": "int-2023-08-24-comoros-mayotte",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mayotte",
+      "date": "2019-07-26",
+      "homeScore": 1,
+      "homeTeamId": "seychelles",
+      "matchId": "int-2019-07-26-seychelles-mayotte",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2019-07-24",
+      "homeScore": 1,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2019-07-24-mauritius-mayotte",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2019-07-22",
+      "homeScore": 3,
+      "homeTeamId": "mayotte",
+      "matchId": "int-2019-07-22-mayotte-maldives",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 45,
+      "goalsFor": 45,
+      "losses": 13,
+      "matches": 31,
+      "wins": 11
+    },
+    "friendly": {
+      "draws": 4,
+      "goalsAgainst": 11,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 7,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 37,
+      "goalsFor": 44,
+      "losses": 10,
+      "matches": 28,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 19,
+      "goalsFor": 7,
+      "losses": 6,
+      "matches": 10,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "mayotte",
+  "teamName": "Mayotte",
+  "topScorers": []
+}

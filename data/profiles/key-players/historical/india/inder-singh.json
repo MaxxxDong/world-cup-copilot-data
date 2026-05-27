@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "1964-05-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1943-12-23",
+    "nationality": "Dominion of India",
+    "playerKey": "inder-singh",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "91982",
+      "transfermarkt": "765930",
+      "wikidata": "Q3150040"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1964-06-02",
+  "playerKey": "inder-singh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1964-06-02",
+      "goalId": "goal-1964-06-02-hong-kong-india-4119",
+      "matchKey": "1964-06-02-hong-kong-india",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Inder Singh"
+    },
+    {
+      "date": "1964-05-27",
+      "goalId": "goal-1964-05-27-india-south-korea-4110",
+      "matchKey": "1964-05-27-india-south-korea",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Inder Singh"
+    }
+  ],
+  "scorer": "Inder Singh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "india",
+  "teamName": "India",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

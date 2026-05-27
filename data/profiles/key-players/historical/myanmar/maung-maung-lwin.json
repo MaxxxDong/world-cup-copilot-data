@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2019-11-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1995-06-18",
+    "nationality": "Myanmar",
+    "playerKey": "maung-maung-lwin",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "4ac4ce21",
+      "footballdatabase_eu": "249496",
+      "impect": "31090",
+      "national_football_teams": "60735",
+      "soccerway": "382685",
+      "transfermarkt": "375343",
+      "wikidata": "Q21621991",
+      "worldfootball": "maung-lwin-maung"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-14",
+  "playerKey": "maung-maung-lwin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-myanmar-tajikistan-39402",
+      "matchKey": "2019-11-14-myanmar-tajikistan",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maung Maung Lwin"
+    }
+  ],
+  "scorer": "Maung Maung Lwin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

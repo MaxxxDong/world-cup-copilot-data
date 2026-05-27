@@ -1,0 +1,84 @@
+{
+  "firstGoalDate": "1993-04-13",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1962-05-29",
+    "nationality": "Singapore",
+    "playerKey": "fandi-ahmad",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "199881",
+      "national_football_teams": "16341",
+      "transfermarkt": "343502",
+      "wikidata": "Q2556661"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1993-05-02",
+  "playerKey": "fandi-ahmad",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1993-05-02",
+      "goalId": "goal-1993-05-02-singapore-indonesia-13965",
+      "matchKey": "1993-05-02-singapore-indonesia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fandi Ahmad"
+    },
+    {
+      "date": "1993-04-30",
+      "goalId": "goal-1993-04-30-singapore-qatar-13933",
+      "matchKey": "1993-04-30-singapore-qatar",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fandi Ahmad"
+    },
+    {
+      "date": "1993-04-16",
+      "goalId": "goal-1993-04-16-qatar-singapore-13830",
+      "matchKey": "1993-04-16-qatar-singapore",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fandi Ahmad"
+    },
+    {
+      "date": "1993-04-13",
+      "goalId": "goal-1993-04-13-vietnam-singapore-13799",
+      "matchKey": "1993-04-13-vietnam-singapore",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fandi Ahmad"
+    }
+  ],
+  "scorer": "Fandi Ahmad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "singapore",
+  "teamName": "Singapore",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

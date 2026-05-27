@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Burkina Faso"
+  ],
+  "allTime": {
+    "draws": 122,
+    "goalsAgainst": 612,
+    "goalsFor": 578,
+    "losses": 176,
+    "matches": 462,
+    "wins": 164
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 20,
+      "losses": 2,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 16,
+      "goalsFor": 39,
+      "losses": 4,
+      "matches": 20,
+      "wins": 13
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "guinea-bissau",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2026-03-31-burkina-faso-guinea-bissau",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea-bissau",
+      "date": "2026-03-28",
+      "homeScore": 5,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2026-03-28-burkina-faso-guinea-bissau",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "2026-01-06",
+      "homeScore": 3,
+      "homeTeamId": "civ",
+      "matchId": "int-2026-01-06-civ-burkina-faso",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-12-31",
+      "homeScore": 0,
+      "homeTeamId": "sudan",
+      "matchId": "int-2025-12-31-sudan-burkina-faso",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-12-28",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2025-12-28-algeria-burkina-faso",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 63,
+      "goalsAgainst": 342,
+      "goalsFor": 337,
+      "losses": 96,
+      "matches": 258,
+      "wins": 99
+    },
+    "friendly": {
+      "draws": 59,
+      "goalsAgainst": 270,
+      "goalsFor": 241,
+      "losses": 80,
+      "matches": 204,
+      "wins": 65
+    },
+    "neutralVenue": {
+      "draws": 33,
+      "goalsAgainst": 172,
+      "goalsFor": 201,
+      "losses": 50,
+      "matches": 142,
+      "wins": 59
+    },
+    "nonNeutralVenue": {
+      "draws": 89,
+      "goalsAgainst": 440,
+      "goalsFor": 377,
+      "losses": 126,
+      "matches": 320,
+      "wins": 105
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "burkina-faso",
+  "teamName": "Burkina Faso",
+  "topScorers": [
+    {
+      "goals": 19,
+      "playerKey": "moumouni-dagano",
+      "scorer": "Moumouni Dagano"
+    },
+    {
+      "goals": 10,
+      "playerKey": "bertrand-traor",
+      "scorer": "Bertrand Traoré"
+    },
+    {
+      "goals": 9,
+      "playerKey": "aristide-banc",
+      "scorer": "Aristide Bancé"
+    },
+    {
+      "goals": 9,
+      "playerKey": "mamadou-zongo",
+      "scorer": "Mamadou Zongo"
+    },
+    {
+      "goals": 9,
+      "playerKey": "pr-juce-nakoulma",
+      "scorer": "Préjuce Nakoulma"
+    },
+    {
+      "goals": 8,
+      "playerKey": "alain-traor",
+      "scorer": "Alain Traoré"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jonathan-pitroipa",
+      "scorer": "Jonathan Pitroipa"
+    },
+    {
+      "goals": 7,
+      "playerKey": "lassina-traor",
+      "scorer": "Lassina Traoré"
+    },
+    {
+      "goals": 5,
+      "playerKey": "dango-ouattara",
+      "scorer": "Dango Ouattara"
+    },
+    {
+      "goals": 5,
+      "playerKey": "issoufou-dayo",
+      "scorer": "Issoufou Dayo"
+    }
+  ]
+}

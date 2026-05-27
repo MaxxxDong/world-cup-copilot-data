@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2021-03-25",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "2001-02-08",
+    "playerKey": "shahrom-samiev",
+    "providerIds": {
+      "opta": "6bo3i9tfpxvutlel01cshw86i",
+      "wikidata": "reep_p43e48257"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-11-21",
+  "playerKey": "shahrom-samiev",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-pakistan-tajikistan-44160",
+      "matchKey": "2023-11-21-pakistan-tajikistan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shahrom Samiev"
+    },
+    {
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-tajikistan-jordan-43916",
+      "matchKey": "2023-11-16-tajikistan-jordan",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shahrom Samiev"
+    },
+    {
+      "date": "2021-06-15",
+      "goalId": "goal-2021-06-15-tajikistan-myanmar-40827",
+      "matchKey": "2021-06-15-tajikistan-myanmar",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shahrom Samiev"
+    },
+    {
+      "date": "2021-03-25",
+      "goalId": "goal-2021-03-25-tajikistan-mongolia-40176",
+      "matchKey": "2021-03-25-tajikistan-mongolia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shahrom Samiev"
+    }
+  ],
+  "scorer": "Shahrom Samiev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tajikistan",
+  "teamName": "Tajikistan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

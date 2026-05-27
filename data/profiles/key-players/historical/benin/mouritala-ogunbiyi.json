@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2004-06-20",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1982-10-10",
+    "nationality": "Benin",
+    "playerKey": "mouritala-ogunbiyi",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "9bfa8f1f",
+      "footballdatabase_eu": "5577",
+      "national_football_teams": "759",
+      "soccerway": "21592",
+      "sofifa": "3138",
+      "transfermarkt": "39282",
+      "wikidata": "Q25643",
+      "worldfootball": "mouri-ogounbiyi"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-07-04",
+  "playerKey": "mouritala-ogunbiyi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-07-04",
+      "goalId": "goal-2004-07-04-benin-egypt-24047",
+      "matchKey": "2004-07-04-benin-egypt",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mouritala Ogunbiyi"
+    },
+    {
+      "date": "2004-06-20",
+      "goalId": "goal-2004-06-20-benin-sudan-23924",
+      "matchKey": "2004-06-20-benin-sudan",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mouritala Ogunbiyi"
+    }
+  ],
+  "scorer": "Mouritala Ogunbiyi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "benin",
+  "teamName": "Benin",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

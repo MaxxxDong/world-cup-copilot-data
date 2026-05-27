@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2013-09-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1989-09-01",
+    "nationality": "Azerbaijan",
+    "playerKey": "rahid-amirguliyev",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "25894",
+      "fbref": "936c6af7",
+      "footballdatabase_eu": "82607",
+      "kicker": "rahid-amirguliyev",
+      "national_football_teams": "21688",
+      "soccerway": "40582",
+      "sofascore": "49544",
+      "transfermarkt": "85406",
+      "uefa": "96925",
+      "wikidata": "Q2042196",
+      "worldfootball": "rahid-amirguliyev"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-09-06",
+  "playerKey": "rahid-amirguliyev",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-09-06",
+      "goalId": "goal-2015-09-06-malta-azerbaijan-34835",
+      "matchKey": "2015-09-06-malta-azerbaijan",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rahid Amirguliyev"
+    },
+    {
+      "date": "2015-09-06",
+      "goalId": "goal-2015-09-06-malta-azerbaijan-34832",
+      "matchKey": "2015-09-06-malta-azerbaijan",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rahid Amirguliyev"
+    },
+    {
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-israel-azerbaijan-33196",
+      "matchKey": "2013-09-07-israel-azerbaijan",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rahid Amirguliyev"
+    }
+  ],
+  "scorer": "Rahid Amirguliyev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "azerbaijan",
+  "teamName": "Azerbaijan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2019-09-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1999-12-15",
+    "nationality": "Yemen",
+    "playerKey": "omar-al-dahi",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "1914816d",
+      "footballdatabase_eu": "306875",
+      "national_football_teams": "74891",
+      "wikidata": "Q77887203"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-11-21",
+  "playerKey": "omar-al-dahi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-nepal-yemen-44149",
+      "matchKey": "2023-11-21-nepal-yemen",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi"
+    },
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-yemen-palestine-39433",
+      "matchKey": "2019-11-14-yemen-palestine",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-yemen-saudi-arabia-39093",
+      "matchKey": "2019-09-10-yemen-saudi-arabia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Al-Dahi"
+    }
+  ],
+  "scorer": "Omar Al-Dahi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "yemen",
+  "teamName": "Yemen",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

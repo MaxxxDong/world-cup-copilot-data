@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2003-10-14",
+    "nationality": "United States",
+    "playerKey": "wilfredo-rivera",
+    "providerIds": {
+      "fbref": "6eee3607",
+      "footballdatabase_eu": "427048",
+      "heimspiel": "606138",
+      "impect": "103120",
+      "kicker": "wilfredo-rivera",
+      "national_football_teams": "81147",
+      "opta": "aa4v8xfn3ra4digk5h7gdrbze",
+      "skillcorner": "333213",
+      "soccerway": "585100",
+      "sofascore": "1046130",
+      "transfermarkt": "750537",
+      "wikidata": "Q98078600",
+      "wyscout": "610241"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-11",
+  "playerKey": "wilfredo-rivera",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-puerto-rico-anguilla-44896",
+      "matchKey": "2024-06-11-puerto-rico-anguilla",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilfredo Rivera"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-puerto-rico-anguilla-44893",
+      "matchKey": "2024-06-11-puerto-rico-anguilla",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilfredo Rivera"
+    }
+  ],
+  "scorer": "Wilfredo Rivera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "puerto-rico",
+  "teamName": "Puerto Rico",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

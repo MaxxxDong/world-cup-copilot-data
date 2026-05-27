@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 15,
+  "identity": {
+    "dateOfBirth": "1989-03-17",
+    "nationality": "Japan",
+    "playerKey": "shinji-kagawa",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "231797",
+      "api_football": "1991",
+      "capology": "shinji-kagawa-32584",
+      "espn": "102139",
+      "fbref": "5afafbfe",
+      "footballdatabase_eu": "36521",
+      "heimspiel": "71535",
+      "hugman": "23623",
+      "impect": "921",
+      "kicker": "shinji-kagawa",
+      "lequipe": "36343",
+      "national_football_teams": "26186",
+      "opta": "77487qauk9fkzlesgze21odsl",
+      "premier_league": "4538",
+      "skillcorner": "9812",
+      "soccerbase": "51081",
+      "soccerway": "25072",
+      "sofascore": "34853",
+      "sofifa": "268596",
+      "statmuse_pl": "5831",
+      "thesportsdb": "34154845",
+      "transfermarkt": "81785",
+      "uefa": "250021739",
+      "wikidata": "Q154708",
+      "worldfootball": "shinji-kagawa",
+      "wyscout": "14816"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Shinji Kagawa",
+  "playerKey": "shinji-kagawa",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2018-06-19",
+      "goalId": "goal-2018-06-19-colombia-japan-37572",
+      "matchKey": "2018-06-19-colombia-japan",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2017-03-28",
+      "goalId": "goal-2017-03-28-japan-thailand-36739",
+      "matchKey": "2017-03-28-japan-thailand",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-japan-syria-35671",
+      "matchKey": "2016-03-29-japan-syria",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-japan-syria-35669",
+      "matchKey": "2016-03-29-japan-syria",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-afghanistan-japan-34862",
+      "matchKey": "2015-09-08-afghanistan-japan",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-afghanistan-japan-34860",
+      "matchKey": "2015-09-08-afghanistan-japan",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2015-09-03",
+      "goalId": "goal-2015-09-03-japan-cambodia-34705",
+      "matchKey": "2015-09-03-japan-cambodia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2015-01-20",
+      "goalId": "goal-2015-01-20-japan-jordan-34110",
+      "matchKey": "2015-01-20-japan-jordan",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2013-06-19",
+      "goalId": "goal-2013-06-19-italy-japan-32966",
+      "matchKey": "2013-06-19-italy-japan",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    },
+    {
+      "date": "2013-03-26",
+      "goalId": "goal-2013-03-26-jordan-japan-32715",
+      "matchKey": "2013-03-26-jordan-japan",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Kagawa"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/japan"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "japan",
+  "teamName": "Japan"
+}

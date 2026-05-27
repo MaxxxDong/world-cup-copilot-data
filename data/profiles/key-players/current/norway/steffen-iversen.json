@@ -1,0 +1,152 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 17,
+  "identity": {
+    "dateOfBirth": "1976-11-10",
+    "nationality": "Norway",
+    "playerKey": "steffen-iversen",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "515",
+      "eu_football_info": "9177",
+      "fbref": "6454b97e",
+      "footballdatabase_eu": "1257",
+      "hugman": "9933",
+      "kicker": "steffen-iversen",
+      "national_football_teams": "4923",
+      "premier_league": "1277",
+      "soccerbase": "3833",
+      "soccerway": "7918",
+      "sofascore": "6362",
+      "sofifa": "177689",
+      "statmuse_pl": "5926",
+      "transfermarkt": "3478",
+      "uefa": "24774",
+      "wikidata": "Q311659",
+      "worldfootball": "steffen-iversen"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Steffen Iversen",
+  "playerKey": "steffen-iversen",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-norway-iceland-28388",
+      "matchKey": "2008-09-06-norway-iceland",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-norway-iceland-28386",
+      "matchKey": "2008-09-06-norway-iceland",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-malta-norway-27504",
+      "matchKey": "2007-11-21-malta-norway",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-malta-norway-27503",
+      "matchKey": "2007-11-21-malta-norway",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-malta-norway-27502",
+      "matchKey": "2007-11-21-malta-norway",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-09-08",
+      "goalId": "goal-2007-09-08-moldova-norway-26985",
+      "matchKey": "2007-09-08-moldova-norway",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-06-06",
+      "goalId": "goal-2007-06-06-norway-hungary-26705",
+      "matchKey": "2007-06-06-norway-hungary",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2007-06-02",
+      "goalId": "goal-2007-06-02-norway-malta-26659",
+      "matchKey": "2007-06-02-norway-malta",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2006-09-06",
+      "goalId": "goal-2006-09-06-norway-moldova-26341",
+      "matchKey": "2006-09-06-norway-moldova",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steffen Iversen"
+    },
+    {
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-scotland-norway-24605",
+      "matchKey": "2004-10-09-scotland-norway",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Steffen Iversen"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/norway"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "1996-01-15",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1979-10-06",
+    "nationality": "Sierra Leone",
+    "playerKey": "mohamed-kallon",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "efe5e7b3",
+      "footballdatabase_eu": "1573",
+      "kicker": "mohamed-kallon",
+      "national_football_teams": "5918",
+      "soccerway": "1517",
+      "sofascore": "16390",
+      "sofifa": "157641",
+      "transfermarkt": "3509",
+      "wikidata": "Q466127",
+      "worldfootball": "mohamed-kallon"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-14",
+  "playerKey": "mohamed-kallon",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-sierra-leone-rsa-28007",
+      "matchKey": "2008-06-14-sierra-leone-rsa",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohamed Kallon"
+    },
+    {
+      "date": "1997-08-17",
+      "goalId": "goal-1997-08-17-ghana-sierra-leone-17546",
+      "matchKey": "1997-08-17-ghana-sierra-leone",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Kallon"
+    },
+    {
+      "date": "1996-01-15",
+      "goalId": "goal-1996-01-15-sierra-leone-burkina-faso-15764",
+      "matchKey": "1996-01-15-sierra-leone-burkina-faso",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Kallon"
+    }
+  ],
+  "scorer": "Mohamed Kallon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

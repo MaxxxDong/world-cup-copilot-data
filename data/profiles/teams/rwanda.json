@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Rwanda"
+  ],
+  "allTime": {
+    "draws": 74,
+    "goalsAgainst": 336,
+    "goalsFor": 289,
+    "losses": 118,
+    "matches": 280,
+    "wins": 88
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 8,
+      "losses": 6,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 20,
+      "goalsFor": 16,
+      "losses": 9,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2026-03-30",
+      "homeScore": 2,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2026-03-30-rwanda-estonia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2026-03-27-rwanda-grenada",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "rwanda",
+      "date": "2025-10-14",
+      "homeScore": 3,
+      "homeTeamId": "rsa",
+      "matchId": "int-2025-10-14-rsa-rwanda",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "benin",
+      "date": "2025-10-10",
+      "homeScore": 0,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2025-10-10-rwanda-benin",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "rwanda",
+      "date": "2025-09-09",
+      "homeScore": 0,
+      "homeTeamId": "zimbabwe",
+      "matchId": "int-2025-09-09-zimbabwe-rwanda",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 48,
+      "goalsAgainst": 249,
+      "goalsFor": 217,
+      "losses": 90,
+      "matches": 205,
+      "wins": 67
+    },
+    "friendly": {
+      "draws": 26,
+      "goalsAgainst": 87,
+      "goalsFor": 72,
+      "losses": 28,
+      "matches": 75,
+      "wins": 21
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 78,
+      "goalsFor": 94,
+      "losses": 25,
+      "matches": 77,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 53,
+      "goalsAgainst": 258,
+      "goalsFor": 195,
+      "losses": 93,
+      "matches": 203,
+      "wins": 57
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "rwanda",
+  "teamName": "Rwanda",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "meddie-kagere",
+      "scorer": "Meddie Kagere"
+    },
+    {
+      "goals": 4,
+      "playerKey": "labama-bokota",
+      "scorer": "Labama Bokota"
+    },
+    {
+      "goals": 4,
+      "playerKey": "olivier-karekezi",
+      "scorer": "Olivier Karekezi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "abedi-sa-d",
+      "scorer": "Abedi Saïd"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jacques-tuyisenge",
+      "scorer": "Jacques Tuyisenge"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sa-d-makasi",
+      "scorer": "Saïd Makasi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "gilbert-mugisha",
+      "scorer": "Gilbert Mugisha"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jean-lomami",
+      "scorer": "Jean Lomami"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jojea-kwizera",
+      "scorer": "Jojea Kwizera"
+    },
+    {
+      "goals": 2,
+      "playerKey": "muhadjiri-hakizimana",
+      "scorer": "Muhadjiri Hakizimana"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 31,
+  "identity": {
+    "dateOfBirth": "1978-03-11",
+    "nationality": "Ivory Coast",
+    "playerKey": "didier-drogba",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "19226",
+      "dongqiudi": "50000285",
+      "espn": "18727",
+      "fbref": "945dea33",
+      "flashscore": "drogba-didier/2mm76ep2",
+      "footballdatabase_eu": "690",
+      "hugman": "5452",
+      "impect": "42224",
+      "kicker": "didier-drogba",
+      "lequipe": "7574",
+      "national_football_teams": "1649",
+      "opta": "769ysp532k2iebbrv7nf991hx",
+      "premier_league": "2662",
+      "soccerbase": "29993",
+      "soccerway": "310",
+      "sofascore": "1222",
+      "sofifa": "212306",
+      "statmuse_pl": "1637",
+      "transfermarkt": "3924",
+      "uefa": "70482",
+      "wikidata": "Q48892",
+      "worldfootball": "didier-drogba"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Didier Drogba",
+  "playerKey": "didier-drogba",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2013-10-12",
+      "goalId": "goal-2013-10-12-civ-senegal-33425",
+      "matchKey": "2013-10-12-civ-senegal",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-civ-mar-33199",
+      "matchKey": "2013-09-07-civ-mar",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2013-01-30",
+      "goalId": "goal-2013-01-30-algeria-civ-32513",
+      "matchKey": "2013-01-30-algeria-civ",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2012-06-02",
+      "goalId": "goal-2012-06-02-civ-tanzania-31772",
+      "matchKey": "2012-06-02-civ-tanzania",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2012-02-04",
+      "goalId": "goal-2012-02-04-equatorial-guinea-civ-31661",
+      "matchKey": "2012-02-04-equatorial-guinea-civ",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2012-02-04",
+      "goalId": "goal-2012-02-04-equatorial-guinea-civ-31660",
+      "matchKey": "2012-02-04-equatorial-guinea-civ",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2012-01-22",
+      "goalId": "goal-2012-01-22-civ-sudan-31606",
+      "matchKey": "2012-01-22-civ-sudan",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2010-06-20",
+      "goalId": "goal-2010-06-20-bra-civ-29925",
+      "matchKey": "2010-06-20-bra-civ",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2010-01-15",
+      "goalId": "goal-2010-01-15-civ-ghana-29829",
+      "matchKey": "2010-01-15-civ-ghana",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    },
+    {
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-malawi-civ-29633",
+      "matchKey": "2009-10-10-malawi-civ",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Didier Drogba"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/civ"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

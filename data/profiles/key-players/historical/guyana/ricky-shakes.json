@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2011-10-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1985-01-25",
+    "fullName": "Ricky Ulric Bascombe Shakes",
+    "nationality": "United Kingdom",
+    "playerKey": "ricky-shakes",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "990b642c",
+      "footballdatabase_eu": "18414",
+      "hugman": "17745",
+      "kicker": "ricky-shakes",
+      "national_football_teams": "13092",
+      "soccerbase": "37683",
+      "soccerway": "65957",
+      "sofascore": "20229",
+      "transfermarkt": "28939",
+      "wikidata": "Q3288442"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-10",
+  "playerKey": "ricky-shakes",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-10",
+      "goalId": "goal-2015-06-10-saint-vincent-and-the-grenadines-guyana-34344",
+      "matchKey": "2015-06-10-saint-vincent-and-the-grenadines-guyana",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricky Shakes"
+    },
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-guyana-trinidad-and-tobago-31410",
+      "matchKey": "2011-11-11-guyana-trinidad-and-tobago",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricky Shakes"
+    },
+    {
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-bermuda-guyana-31236",
+      "matchKey": "2011-10-11-bermuda-guyana",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricky Shakes"
+    }
+  ],
+  "scorer": "Ricky Shakes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

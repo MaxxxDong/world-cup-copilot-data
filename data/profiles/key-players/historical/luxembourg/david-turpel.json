@@ -1,0 +1,100 @@
+{
+  "firstGoalDate": "2014-10-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1992-10-19",
+    "nationality": "Luxembourg",
+    "playerKey": "david-turpel",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "28044",
+      "fbref": "60a5ee50",
+      "footballdatabase_eu": "137484",
+      "kicker": "david-turpel",
+      "national_football_teams": "49370",
+      "opta": "4y8628p88ns0v8c9j2h00pqz9",
+      "soccerway": "163360",
+      "sofifa": "358476",
+      "transfermarkt": "171252",
+      "uefa": "250040561",
+      "wikidata": "Q13102283"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-14",
+  "playerKey": "david-turpel",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-serbia-luxembourg-39419",
+      "matchKey": "2019-11-14-serbia-luxembourg",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Turpel"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-luxembourg-serbia-39049",
+      "matchKey": "2019-09-10-luxembourg-serbia",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Turpel"
+    },
+    {
+      "date": "2019-03-25",
+      "goalId": "goal-2019-03-25-luxembourg-ukraine-38279",
+      "matchKey": "2019-03-25-luxembourg-ukraine",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Turpel"
+    },
+    {
+      "date": "2018-10-15",
+      "goalId": "goal-2018-10-15-luxembourg-san-marino-37892",
+      "matchKey": "2018-10-15-luxembourg-san-marino",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Turpel"
+    },
+    {
+      "date": "2014-10-09",
+      "goalId": "goal-2014-10-09-north-macedonia-luxembourg-33848",
+      "matchKey": "2014-10-09-north-macedonia-luxembourg",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Turpel"
+    }
+  ],
+  "scorer": "David Turpel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

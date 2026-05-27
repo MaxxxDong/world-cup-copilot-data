@@ -1,0 +1,92 @@
+{
+  "firstGoalDate": "1972-02-24",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1949-09-25",
+    "nationality": "Mali",
+    "playerKey": "fantamady-keita",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "50391",
+      "transfermarkt": "461228",
+      "wikidata": "Q3066539"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1972-03-02",
+  "playerKey": "fantamady-keita",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1972-03-02",
+      "goalId": "goal-1972-03-02-mali-dr-congo-6279",
+      "matchKey": "1972-03-02-mali-dr-congo",
+      "minute": 92,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fantamady Keita"
+    },
+    {
+      "date": "1972-03-02",
+      "goalId": "goal-1972-03-02-mali-dr-congo-6275",
+      "matchKey": "1972-03-02-mali-dr-congo",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fantamady Keita"
+    },
+    {
+      "date": "1972-02-28",
+      "goalId": "goal-1972-02-28-cameroon-mali-6259",
+      "matchKey": "1972-02-28-cameroon-mali",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fantamady Keita"
+    },
+    {
+      "date": "1972-02-26",
+      "goalId": "goal-1972-02-26-kenya-mali-6253",
+      "matchKey": "1972-02-26-kenya-mali",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fantamady Keita"
+    },
+    {
+      "date": "1972-02-24",
+      "goalId": "goal-1972-02-24-mali-togo-6243",
+      "matchKey": "1972-02-24-mali-togo",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fantamady Keita"
+    }
+  ],
+  "scorer": "Fantamady Keita",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mali",
+  "teamName": "Mali",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

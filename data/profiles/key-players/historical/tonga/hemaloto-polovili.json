@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2024-09-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1997-07-27",
+    "nationality": "Tonga",
+    "playerKey": "hemaloto-polovili",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "369df56e",
+      "footballdatabase_eu": "245486",
+      "national_football_teams": "60171",
+      "soccerway": "173421",
+      "transfermarkt": "216334",
+      "wikidata": "Q21066721"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-09-06",
+  "playerKey": "hemaloto-polovili",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-09-06",
+      "goalId": "goal-2024-09-06-cook-islands-tonga-45219",
+      "matchKey": "2024-09-06-cook-islands-tonga",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hemaloto Polovili"
+    }
+  ],
+  "scorer": "Hemaloto Polovili",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tonga",
+  "teamName": "Tonga",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Gambia"
+  ],
+  "allTime": {
+    "draws": 75,
+    "goalsAgainst": 367,
+    "goalsFor": 278,
+    "losses": 117,
+    "matches": 265,
+    "wins": 73
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 16,
+      "goalsFor": 24,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 30,
+      "goalsFor": 39,
+      "losses": 8,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 15,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "gambia",
+      "date": "2026-03-31",
+      "homeScore": 3,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-03-31-senegal-gambia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "gambia",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "kuwait",
+      "matchId": "int-2025-11-18-kuwait-gambia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "gambia",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "seychelles",
+      "matchId": "int-2025-10-14-seychelles-gambia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "gabon",
+      "date": "2025-10-10",
+      "homeScore": 3,
+      "homeTeamId": "gambia",
+      "matchId": "int-2025-10-10-gambia-gabon",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burundi",
+      "date": "2025-09-09",
+      "homeScore": 2,
+      "homeTeamId": "gambia",
+      "matchId": "int-2025-09-09-gambia-burundi",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 47,
+      "goalsAgainst": 227,
+      "goalsFor": 184,
+      "losses": 73,
+      "matches": 166,
+      "wins": 46
+    },
+    "friendly": {
+      "draws": 28,
+      "goalsAgainst": 140,
+      "goalsFor": 94,
+      "losses": 44,
+      "matches": 99,
+      "wins": 27
+    },
+    "neutralVenue": {
+      "draws": 25,
+      "goalsAgainst": 113,
+      "goalsFor": 114,
+      "losses": 28,
+      "matches": 81,
+      "wins": 28
+    },
+    "nonNeutralVenue": {
+      "draws": 50,
+      "goalsAgainst": 254,
+      "goalsFor": 164,
+      "losses": 89,
+      "matches": 184,
+      "wins": 45
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "gambia",
+  "teamName": "Gambia",
+  "topScorers": [
+    {
+      "goals": 9,
+      "playerKey": "musa-barrow",
+      "scorer": "Musa Barrow"
+    },
+    {
+      "goals": 5,
+      "playerKey": "adama-sidibeh",
+      "scorer": "Adama Sidibeh"
+    },
+    {
+      "goals": 5,
+      "playerKey": "yankuba-minteh",
+      "scorer": "Yankuba Minteh"
+    },
+    {
+      "goals": 3,
+      "playerKey": "abdoulie-manneh",
+      "scorer": "Abdoulie Manneh"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ablie-jallow",
+      "scorer": "Ablie Jallow"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mustapha-jarju",
+      "scorer": "Mustapha Jarju"
+    },
+    {
+      "goals": 2,
+      "playerKey": "abdou-jammeh",
+      "scorer": "Abdou Jammeh"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ebou-adams",
+      "scorer": "Ebou Adams"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ebrima-colley",
+      "scorer": "Ebrima Colley"
+    },
+    {
+      "goals": 2,
+      "playerKey": "muhammed-badamosi",
+      "scorer": "Muhammed Badamosi"
+    }
+  ]
+}

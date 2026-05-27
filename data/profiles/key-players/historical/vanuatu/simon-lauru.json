@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2001-06-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1972-01-30",
+    "nationality": "Vanuatu",
+    "playerKey": "simon-lauru",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "201517",
+      "national_football_teams": "7620",
+      "transfermarkt": "182624",
+      "wikidata": "Q7519179"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-10",
+  "playerKey": "simon-lauru",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-papua-new-guinea-vanuatu-23551",
+      "matchKey": "2004-05-10-papua-new-guinea-vanuatu",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru"
+    },
+    {
+      "date": "2001-06-06",
+      "goalId": "goal-2001-06-06-cook-islands-vanuatu-21355",
+      "matchKey": "2001-06-06-cook-islands-vanuatu",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21344",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru"
+    }
+  ],
+  "scorer": "Simon Lauru",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

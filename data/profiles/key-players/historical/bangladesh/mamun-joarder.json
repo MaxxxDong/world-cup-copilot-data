@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "1993-04-18",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1973-04-01",
+    "playerKey": "mamun-joarder",
+    "providerIds": {
+      "national_football_teams": "23526",
+      "wikidata": "Q112210819"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1993-05-07",
+  "playerKey": "mamun-joarder",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1993-05-07",
+      "goalId": "goal-1993-05-07-bangladesh-sri-lanka-14012",
+      "matchKey": "1993-05-07-bangladesh-sri-lanka",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamun Joarder"
+    },
+    {
+      "date": "1993-05-07",
+      "goalId": "goal-1993-05-07-bangladesh-sri-lanka-14010",
+      "matchKey": "1993-05-07-bangladesh-sri-lanka",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamun Joarder"
+    },
+    {
+      "date": "1993-04-18",
+      "goalId": "goal-1993-04-18-thailand-bangladesh-13861",
+      "matchKey": "1993-04-18-thailand-bangladesh",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamun Joarder"
+    }
+  ],
+  "scorer": "Mamun Joarder",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

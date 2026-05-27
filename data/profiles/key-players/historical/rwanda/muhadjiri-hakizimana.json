@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2019-09-05",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-08-13",
+    "playerKey": "muhadjiri-hakizimana",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "1a9aa60e",
+      "footballdatabase_eu": "175749",
+      "national_football_teams": "63726",
+      "soccerway": "431648",
+      "sofascore": "990963",
+      "transfermarkt": "440122",
+      "wikidata": "Q70271206",
+      "worldfootball": "muhadjiri-hakizimana"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-10",
+  "playerKey": "muhadjiri-hakizimana",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-rwanda-seychelles-39080",
+      "matchKey": "2019-09-10-rwanda-seychelles",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhadjiri Hakizimana"
+    },
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-seychelles-rwanda-38873",
+      "matchKey": "2019-09-05-seychelles-rwanda",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhadjiri Hakizimana"
+    }
+  ],
+  "scorer": "Muhadjiri Hakizimana",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rwanda",
+  "teamName": "Rwanda",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

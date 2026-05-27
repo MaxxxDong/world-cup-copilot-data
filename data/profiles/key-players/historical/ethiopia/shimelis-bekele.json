@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2011-11-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1990-01-02",
+    "nationality": "Ethiopia",
+    "playerKey": "shimelis-bekele",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "39efcf4c",
+      "footballdatabase_eu": "150444",
+      "kicker": "shimelis-bekele",
+      "national_football_teams": "41026",
+      "soccerway": "218478",
+      "sofifa": "351318",
+      "transfermarkt": "187740",
+      "wikidata": "Q2811267",
+      "worldfootball": "shimelis-bekele"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-14",
+  "playerKey": "shimelis-bekele",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-14",
+      "goalId": "goal-2015-11-14-ethiopia-congo-35404",
+      "matchKey": "2015-11-14-ethiopia-congo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shimelis Bekele"
+    },
+    {
+      "date": "2011-11-16",
+      "goalId": "goal-2011-11-16-ethiopia-somalia-31580",
+      "matchKey": "2011-11-16-ethiopia-somalia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shimelis Bekele"
+    },
+    {
+      "date": "2011-11-16",
+      "goalId": "goal-2011-11-16-ethiopia-somalia-31579",
+      "matchKey": "2011-11-16-ethiopia-somalia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shimelis Bekele"
+    }
+  ],
+  "scorer": "Shimelis Bekele",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "ethiopia",
+  "teamName": "Ethiopia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

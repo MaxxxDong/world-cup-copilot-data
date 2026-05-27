@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2007-10-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1977-12-31",
+    "nationality": "Sierra Leone",
+    "playerKey": "kewullay-conteh",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "90ea5ad3",
+      "footballdatabase_eu": "6800",
+      "kicker": "kewullay-conteh",
+      "national_football_teams": "5941",
+      "soccerway": "4255",
+      "transfermarkt": "20917",
+      "wikidata": "Q1384568",
+      "worldfootball": "kewullay-conteh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-09-06",
+  "playerKey": "kewullay-conteh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-sierra-leone-equatorial-guinea-28406",
+      "matchKey": "2008-09-06-sierra-leone-equatorial-guinea",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kewullay Conteh"
+    },
+    {
+      "date": "2007-10-17",
+      "goalId": "goal-2007-10-17-sierra-leone-guinea-bissau-27246",
+      "matchKey": "2007-10-17-sierra-leone-guinea-bissau",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kewullay Conteh"
+    }
+  ],
+  "scorer": "Kewullay Conteh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

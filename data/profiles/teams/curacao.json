@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Curaçao",
+    "CUW",
+    "Curacao"
+  ],
+  "allTime": {
+    "draws": 100,
+    "goalsAgainst": 604,
+    "goalsFor": 630,
+    "losses": 141,
+    "matches": 383,
+    "wins": 142
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "CUW",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 13,
+      "goalsFor": 16,
+      "losses": 3,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 19,
+      "goalsFor": 40,
+      "losses": 5,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 9,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "curacao",
+      "date": "2026-03-31",
+      "homeScore": 5,
+      "homeTeamId": "australia",
+      "matchId": "int-2026-03-31-australia-curacao",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "china-pr",
+      "matchId": "int-2026-03-27-china-pr-curacao",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "jamaica",
+      "matchId": "int-2025-11-18-jamaica-curacao",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "curacao",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2025-11-13-bermuda-curacao",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "curacao",
+      "matchId": "int-2025-10-14-curacao-trinidad-and-tobago",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 66,
+      "goalsAgainst": 412,
+      "goalsFor": 402,
+      "losses": 102,
+      "matches": 251,
+      "wins": 83
+    },
+    "friendly": {
+      "draws": 34,
+      "goalsAgainst": 192,
+      "goalsFor": 228,
+      "losses": 39,
+      "matches": 132,
+      "wins": 59
+    },
+    "neutralVenue": {
+      "draws": 36,
+      "goalsAgainst": 197,
+      "goalsFor": 210,
+      "losses": 46,
+      "matches": 121,
+      "wins": 39
+    },
+    "nonNeutralVenue": {
+      "draws": 64,
+      "goalsAgainst": 407,
+      "goalsFor": 420,
+      "losses": 95,
+      "matches": 262,
+      "wins": 103
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "curacao",
+  "teamName": "Curaçao",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "rocky-siberie",
+      "scorer": "Rocky Siberie"
+    },
+    {
+      "goals": 5,
+      "playerKey": "gervane-kastaneer",
+      "scorer": "Gervane Kastaneer"
+    },
+    {
+      "goals": 5,
+      "playerKey": "juninho-bacuna",
+      "scorer": "Juninho Bacuna"
+    },
+    {
+      "goals": 5,
+      "playerKey": "kenji-gorr",
+      "scorer": "Kenji Gorré"
+    },
+    {
+      "goals": 4,
+      "playerKey": "leandro-bacuna",
+      "scorer": "Leandro Bacuna"
+    },
+    {
+      "goals": 4,
+      "playerKey": "rangelo-janga",
+      "scorer": "Rangelo Janga"
+    },
+    {
+      "goals": 3,
+      "playerKey": "adelbert-toppenberg",
+      "scorer": "Adelbert Toppenberg"
+    },
+    {
+      "goals": 3,
+      "playerKey": "charlison-benschop",
+      "scorer": "Charlison Benschop"
+    },
+    {
+      "goals": 3,
+      "playerKey": "eugene-testing",
+      "scorer": "Eugene Testing"
+    },
+    {
+      "goals": 2,
+      "playerKey": "angelo-zimmerman",
+      "scorer": "Angelo Zimmerman"
+    }
+  ]
+}

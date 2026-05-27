@@ -1,0 +1,66 @@
+{
+  "firstGoalDate": "2023-11-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1988-09-14",
+    "nationality": "Saudi Arabia",
+    "playerKey": "mohammed-al-dahi",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "a432e677",
+      "footballdatabase_eu": "135364",
+      "transfermarkt": "213898",
+      "wikidata": "Q22280284"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-11",
+  "playerKey": "mohammed-al-dahi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-yemen-nepal-44934",
+      "matchKey": "2024-06-11-yemen-nepal",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Al-Dahi"
+    },
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-nepal-yemen-44150",
+      "matchKey": "2023-11-21-nepal-yemen",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Al-Dahi"
+    }
+  ],
+  "scorer": "Mohammed Al-Dahi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "yemen",
+  "teamName": "Yemen",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

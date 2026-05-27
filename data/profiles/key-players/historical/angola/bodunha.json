@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2001-01-28",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1974-07-28",
+    "nationality": "Angola",
+    "playerKey": "bodunha",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "2022e28b",
+      "national_football_teams": "200",
+      "sofifa": "153809",
+      "transfermarkt": "25292",
+      "wikidata": "Q4936763"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-01-28",
+  "playerKey": "bodunha",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-angola-libya-20360",
+      "matchKey": "2001-01-28-angola-libya",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bodunha"
+    },
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-angola-libya-20359",
+      "matchKey": "2001-01-28-angola-libya",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bodunha"
+    }
+  ],
+  "scorer": "Bodunha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "angola",
+  "teamName": "Angola",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

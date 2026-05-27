@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2023-11-21",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2002-03-12",
+    "playerKey": "prins-tjiueza",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "303339",
+      "espn": "316982",
+      "fbref": "ba4956cf",
+      "footballdatabase_eu": "445572",
+      "heimspiel": "732528",
+      "impect": "187756",
+      "national_football_teams": "82130",
+      "soccerway": "690113",
+      "sofascore": "1103447",
+      "thesportsdb": "34228402",
+      "transfermarkt": "864136",
+      "wikidata": "Q107465987",
+      "worldfootball": "prins-tjiueza",
+      "wyscout": "575467"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-20",
+  "playerKey": "prins-tjiueza",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-malawi-namibia-45904",
+      "matchKey": "2025-03-20-malawi-namibia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Prins Tjiueza"
+    },
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-sao-tome-and-principe-namibia-44180",
+      "matchKey": "2023-11-21-sao-tome-and-principe-namibia",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Prins Tjiueza"
+    }
+  ],
+  "scorer": "Prins Tjiueza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "namibia",
+  "teamName": "Namibia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

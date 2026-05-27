@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Colombia",
+    "COL",
+    "Los Cafeteros"
+  ],
+  "allTime": {
+    "draws": 176,
+    "goalsAgainst": 735,
+    "goalsFor": 818,
+    "losses": 204,
+    "matches": 636,
+    "wins": 256
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "COL",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 10,
+      "goalsFor": 21,
+      "losses": 2,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 22,
+      "goalsFor": 34,
+      "losses": 7,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 6,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "fra",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "colombia",
+      "matchId": "int-2026-03-29-colombia-fra",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "colombia",
+      "matchId": "int-2026-03-26-colombia-croatia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "colombia",
+      "matchId": "int-2025-11-18-colombia-australia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "colombia",
+      "matchId": "int-2025-11-15-colombia-new-zealand",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "colombia",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "canada",
+      "matchId": "int-2025-10-14-canada-colombia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 104,
+      "goalsAgainst": 489,
+      "goalsFor": 489,
+      "losses": 139,
+      "matches": 395,
+      "wins": 152
+    },
+    "friendly": {
+      "draws": 72,
+      "goalsAgainst": 246,
+      "goalsFor": 329,
+      "losses": 65,
+      "matches": 241,
+      "wins": 104
+    },
+    "neutralVenue": {
+      "draws": 54,
+      "goalsAgainst": 296,
+      "goalsFor": 306,
+      "losses": 76,
+      "matches": 230,
+      "wins": 100
+    },
+    "nonNeutralVenue": {
+      "draws": 122,
+      "goalsAgainst": 439,
+      "goalsFor": 512,
+      "losses": 128,
+      "matches": 406,
+      "wins": 156
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 30,
+      "goalsFor": 32,
+      "losses": 10,
+      "matches": 22,
+      "wins": 9
+    }
+  },
+  "teamId": "colombia",
+  "teamName": "Colombia",
+  "topScorers": [
+    {
+      "goals": 23,
+      "playerKey": "james-rodr-guez",
+      "scorer": "James Rodríguez"
+    },
+    {
+      "goals": 16,
+      "playerKey": "luis-d-az",
+      "scorer": "Luis Díaz"
+    },
+    {
+      "goals": 16,
+      "playerKey": "radamel-falcao",
+      "scorer": "Radamel Falcao"
+    },
+    {
+      "goals": 14,
+      "playerKey": "arnoldo-iguar-n",
+      "scorer": "Arnoldo Iguarán"
+    },
+    {
+      "goals": 12,
+      "playerKey": "faustino-asprilla",
+      "scorer": "Faustino Asprilla"
+    },
+    {
+      "goals": 12,
+      "playerKey": "v-ctor-aristiz-bal",
+      "scorer": "Víctor Aristizábal"
+    },
+    {
+      "goals": 11,
+      "playerKey": "freddy-rinc-n",
+      "scorer": "Freddy Rincón"
+    },
+    {
+      "goals": 9,
+      "playerKey": "te-filo-guti-rrez",
+      "scorer": "Teófilo Gutiérrez"
+    },
+    {
+      "goals": 8,
+      "playerKey": "juan-pablo-ngel",
+      "scorer": "Juan Pablo Ángel"
+    },
+    {
+      "goals": 7,
+      "playerKey": "antony-de-vila",
+      "scorer": "Antony de Ávila"
+    }
+  ]
+}

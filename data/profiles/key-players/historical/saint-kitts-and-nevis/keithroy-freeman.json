@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2021-03-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1993-10-16",
+    "nationality": "Saint Kitts and Nevis",
+    "playerKey": "keithroy-freeman",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "ffd21fac",
+      "footballdatabase_eu": "198775",
+      "impect": "179963",
+      "kicker": "keithroy-freeman",
+      "national_football_teams": "62720",
+      "sofascore": "1110248",
+      "transfermarkt": "424573",
+      "wikidata": "Q106261400"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-04",
+  "playerKey": "keithroy-freeman",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-saint-kitts-and-nevis-guyana-40535",
+      "matchKey": "2021-06-04-saint-kitts-and-nevis-guyana",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keithroy Freeman"
+    },
+    {
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-saint-kitts-and-nevis-guyana-40534",
+      "matchKey": "2021-06-04-saint-kitts-and-nevis-guyana",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Keithroy Freeman"
+    },
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-bahamas-saint-kitts-and-nevis-40194",
+      "matchKey": "2021-03-27-bahamas-saint-kitts-and-nevis",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keithroy Freeman"
+    },
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-bahamas-saint-kitts-and-nevis-40192",
+      "matchKey": "2021-03-27-bahamas-saint-kitts-and-nevis",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keithroy Freeman"
+    }
+  ],
+  "scorer": "Keithroy Freeman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-kitts-and-nevis",
+  "teamName": "Saint Kitts and Nevis",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

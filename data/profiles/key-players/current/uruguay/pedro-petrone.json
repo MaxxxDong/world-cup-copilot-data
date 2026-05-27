@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 21,
+  "identity": {
+    "dateOfBirth": "1905-05-11",
+    "nationality": "Uruguay",
+    "playerKey": "pedro-petrone",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "03cf1190",
+      "footballdatabase_eu": "95237",
+      "kicker": "pedro-petrone",
+      "national_football_teams": "33696",
+      "sofifa": "56200",
+      "transfermarkt": "289451",
+      "wikidata": "Q362838",
+      "worldfootball": "pedro-petrone"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Pedro Petrone",
+  "playerKey": "pedro-petrone",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1928-06-10",
+      "goalId": "goal-1928-06-10-uruguay-arg-489",
+      "matchKey": "1928-06-10-uruguay-arg",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1928-06-03",
+      "goalId": "goal-1928-06-03-uruguay-germany-440",
+      "matchKey": "1928-06-03-uruguay-germany",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1928-06-03",
+      "goalId": "goal-1928-06-03-uruguay-germany-437",
+      "matchKey": "1928-06-03-uruguay-germany",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1928-06-03",
+      "goalId": "goal-1928-06-03-uruguay-germany-436",
+      "matchKey": "1928-06-03-uruguay-germany",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1927-11-06",
+      "goalId": "goal-1927-11-06-bolivia-uruguay-348",
+      "matchKey": "1927-11-06-bolivia-uruguay",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1927-11-06",
+      "goalId": "goal-1927-11-06-bolivia-uruguay-344",
+      "matchKey": "1927-11-06-bolivia-uruguay",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1927-11-06",
+      "goalId": "goal-1927-11-06-bolivia-uruguay-341",
+      "matchKey": "1927-11-06-bolivia-uruguay",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1924-10-26",
+      "goalId": "goal-1924-10-26-uruguay-paraguay-240",
+      "matchKey": "1924-10-26-uruguay-paraguay",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1924-10-19",
+      "goalId": "goal-1924-10-19-uruguay-chile-237",
+      "matchKey": "1924-10-19-uruguay-chile",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    },
+    {
+      "date": "1924-10-19",
+      "goalId": "goal-1924-10-19-uruguay-chile-234",
+      "matchKey": "1924-10-19-uruguay-chile",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pedro Petrone"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/uruguay"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "uruguay",
+  "teamName": "Uruguay"
+}

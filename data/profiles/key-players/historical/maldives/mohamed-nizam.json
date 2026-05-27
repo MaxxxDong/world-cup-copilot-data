@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2003-11-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1974-05-17",
+    "nationality": "Maldives",
+    "playerKey": "mohamed-nizam",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "3aca7e04",
+      "footballdatabase_eu": "5538",
+      "national_football_teams": "4165",
+      "sofascore": "1015513",
+      "sofifa": "156577",
+      "transfermarkt": "272935",
+      "wikidata": "Q1860483"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2003-12-03",
+  "playerKey": "mohamed-nizam",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2003-12-03",
+      "goalId": "goal-2003-12-03-maldives-mongolia-23267",
+      "matchKey": "2003-12-03-maldives-mongolia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Nizam"
+    },
+    {
+      "date": "2003-11-29",
+      "goalId": "goal-2003-11-29-mongolia-maldives-23257",
+      "matchKey": "2003-11-29-mongolia-maldives",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Nizam"
+    }
+  ],
+  "scorer": "Mohamed Nizam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "maldives",
+  "teamName": "Maldives",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

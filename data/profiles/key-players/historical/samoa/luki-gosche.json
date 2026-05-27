@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2011-11-22",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1986-01-13",
+    "nationality": "Samoa",
+    "playerKey": "luki-gosche",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "381db13c",
+      "footballdatabase_eu": "170005",
+      "national_football_teams": "45782",
+      "soccerway": "219035",
+      "sofifa": "351610",
+      "transfermarkt": "68458",
+      "wikidata": "Q646239"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-22",
+  "playerKey": "luki-gosche",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-22",
+      "goalId": "goal-2011-11-22-samoa-cook-islands-31588",
+      "matchKey": "2011-11-22-samoa-cook-islands",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luki Gosche"
+    },
+    {
+      "date": "2011-11-22",
+      "goalId": "goal-2011-11-22-samoa-cook-islands-31586",
+      "matchKey": "2011-11-22-samoa-cook-islands",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luki Gosche"
+    }
+  ],
+  "scorer": "Luki Gosche",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

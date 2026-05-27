@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 24,
+  "identity": {
+    "dateOfBirth": "1989-11-06",
+    "fullName": "Josmer Volmy Altidore",
+    "nationality": "United States",
+    "playerKey": "jozy-altidore",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "228045",
+      "api_football": "50820",
+      "capology": "jozy-altidore-32818",
+      "espn": "75589",
+      "fbref": "8db8ad1e",
+      "footballdatabase_eu": "19972",
+      "heimspiel": "28823",
+      "hugman": "22072",
+      "impect": "2822",
+      "kicker": "jozy-altidore",
+      "lequipe": "29668",
+      "national_football_teams": "24713",
+      "opta": "cvz7rxusmcxxv17fij7dxx6mt",
+      "premier_league": "3897",
+      "skillcorner": "27226",
+      "soccerbase": "49192",
+      "soccerway": "7422",
+      "sofascore": "801455",
+      "sofifa": "238072",
+      "statmuse_pl": "3304",
+      "thesportsdb": "34146180",
+      "transfermarkt": "39378",
+      "uefa": "250015807",
+      "wikidata": "Q208619",
+      "worldfootball": "jozy-altidore",
+      "wyscout": "89"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jozy Altidore",
+  "playerKey": "jozy-altidore",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2019-06-26",
+      "goalId": "goal-2019-06-26-usa-panama-38686",
+      "matchKey": "2019-06-26-usa-panama",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2017-10-06",
+      "goalId": "goal-2017-10-06-usa-panama-37326",
+      "matchKey": "2017-10-06-usa-panama",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2017-10-06",
+      "goalId": "goal-2017-10-06-usa-panama-37325",
+      "matchKey": "2017-10-06-usa-panama",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2017-07-26",
+      "goalId": "goal-2017-07-26-usa-jamaica-36983",
+      "matchKey": "2017-07-26-usa-jamaica",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2017-07-22",
+      "goalId": "goal-2017-07-22-usa-costa-rica-36980",
+      "matchKey": "2017-07-22-usa-costa-rica",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2016-09-06",
+      "goalId": "goal-2016-09-06-usa-trinidad-and-tobago-36131",
+      "matchKey": "2016-09-06-usa-trinidad-and-tobago",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2016-09-06",
+      "goalId": "goal-2016-09-06-usa-trinidad-and-tobago-36130",
+      "matchKey": "2016-09-06-usa-trinidad-and-tobago",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2016-09-02",
+      "goalId": "goal-2016-09-02-saint-vincent-and-the-grenadines-usa-36007",
+      "matchKey": "2016-09-02-saint-vincent-and-the-grenadines-usa",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-usa-guatemala-35712",
+      "matchKey": "2016-03-29-usa-guatemala",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    },
+    {
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-usa-saint-vincent-and-the-grenadines-35393",
+      "matchKey": "2015-11-13-usa-saint-vincent-and-the-grenadines",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jozy Altidore"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/usa"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

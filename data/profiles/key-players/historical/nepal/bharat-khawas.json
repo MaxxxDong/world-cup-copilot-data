@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2011-07-28",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-04-16",
+    "nationality": "Nepal",
+    "playerKey": "bharat-khawas",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "0d2fca8a",
+      "footballdatabase_eu": "142231",
+      "national_football_teams": "39266",
+      "transfermarkt": "191026",
+      "wikidata": "Q4901128"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-28",
+  "playerKey": "bharat-khawas",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-28",
+      "goalId": "goal-2011-07-28-nepal-jordan-30827",
+      "matchKey": "2011-07-28-nepal-jordan",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bharat Khawas"
+    }
+  ],
+  "scorer": "Bharat Khawas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

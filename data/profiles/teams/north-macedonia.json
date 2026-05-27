@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "North Macedonia"
+  ],
+  "allTime": {
+    "draws": 79,
+    "goalsAgainst": 408,
+    "goalsFor": 365,
+    "losses": 130,
+    "matches": 304,
+    "wins": 95
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 15,
+      "goalsFor": 10,
+      "losses": 3,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 22,
+      "goalsFor": 25,
+      "losses": 5,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 12,
+      "goalsFor": 2,
+      "losses": 2,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-macedonia",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-2026-03-31-republic-of-ireland-north-macedonia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-macedonia",
+      "date": "2026-03-26",
+      "homeScore": 4,
+      "homeTeamId": "denmark",
+      "matchId": "int-2026-03-26-denmark-north-macedonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-macedonia",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "wales",
+      "matchId": "int-2025-11-18-wales-north-macedonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2025-11-13-north-macedonia-latvia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kazakhstan",
+      "date": "2025-10-13",
+      "homeScore": 1,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2025-10-13-north-macedonia-kazakhstan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 44,
+      "goalsAgainst": 286,
+      "goalsFor": 235,
+      "losses": 89,
+      "matches": 189,
+      "wins": 56
+    },
+    "friendly": {
+      "draws": 35,
+      "goalsAgainst": 122,
+      "goalsFor": 130,
+      "losses": 41,
+      "matches": 115,
+      "wins": 39
+    },
+    "neutralVenue": {
+      "draws": 9,
+      "goalsAgainst": 37,
+      "goalsFor": 23,
+      "losses": 14,
+      "matches": 30,
+      "wins": 7
+    },
+    "nonNeutralVenue": {
+      "draws": 70,
+      "goalsAgainst": 371,
+      "goalsFor": 342,
+      "losses": 116,
+      "matches": 274,
+      "wins": 88
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "north-macedonia",
+  "teamName": "North Macedonia",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "enis-bardhi",
+      "scorer": "Enis Bardhi"
+    },
+    {
+      "goals": 16,
+      "playerKey": "aleksandar-trajkovski",
+      "scorer": "Aleksandar Trajkovski"
+    },
+    {
+      "goals": 16,
+      "playerKey": "goran-pandev",
+      "scorer": "Goran Pandev"
+    },
+    {
+      "goals": 12,
+      "playerKey": "elif-elmas",
+      "scorer": "Elif Elmas"
+    },
+    {
+      "goals": 12,
+      "playerKey": "ezgjan-alioski",
+      "scorer": "Ezgjan Alioski"
+    },
+    {
+      "goals": 9,
+      "playerKey": "artim-akiri",
+      "scorer": "Artim Šakiri"
+    },
+    {
+      "goals": 9,
+      "playerKey": "gjorgji-hristov",
+      "scorer": "Gjorgji Hristov"
+    },
+    {
+      "goals": 9,
+      "playerKey": "ilija-nestorovski",
+      "scorer": "Ilija Nestorovski"
+    },
+    {
+      "goals": 7,
+      "playerKey": "bojan-miovski",
+      "scorer": "Bojan Miovski"
+    },
+    {
+      "goals": 6,
+      "playerKey": "il-o-naumoski",
+      "scorer": "Ilčo Naumoski"
+    }
+  ]
+}

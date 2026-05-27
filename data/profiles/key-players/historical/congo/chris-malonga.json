@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2011-11-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-07-11",
+    "nationality": "Republic of the Congo",
+    "playerKey": "chris-malonga",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "87108",
+      "capology": "chris-malonga-31969",
+      "fbref": "44ff4af6",
+      "flashscore": "malonga-chris/0G45m1Pc",
+      "footballdatabase_eu": "20955",
+      "kicker": "chris-malonga",
+      "national_football_teams": "24387",
+      "opta": "3fy289f26r0lmr5dfax0x7u1h",
+      "opta_numeric": "57775",
+      "soccerway": "18030",
+      "sofascore": "604250",
+      "sofifa": "302830",
+      "thesportsdb": "34233594",
+      "transfermarkt": "56797",
+      "wikidata": "Q1077509",
+      "worldfootball": "chris-malonga"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-09",
+  "playerKey": "chris-malonga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-09",
+      "goalId": "goal-2012-06-09-congo-niger-31890",
+      "matchKey": "2012-06-09-congo-niger",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Malonga"
+    },
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-sao-tome-and-principe-congo-31443",
+      "matchKey": "2011-11-11-sao-tome-and-principe-congo",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Malonga"
+    }
+  ],
+  "scorer": "Chris Malonga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

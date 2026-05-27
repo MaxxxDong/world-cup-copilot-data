@@ -1,0 +1,55 @@
+{
+  "firstGoalDate": "1985-03-29",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1955-07-01",
+    "nationality": "Yemen",
+    "playerKey": "abubakar-al-mass",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "19732",
+      "wikidata": "Q4670479"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1985-03-29",
+  "playerKey": "abubakar-al-mass",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1985-03-29",
+      "goalId": "goal-1985-03-29-yemen-dpr-bahrain-10630",
+      "matchKey": "1985-03-29-yemen-dpr-bahrain",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abubakar Al-Mass"
+    }
+  ],
+  "scorer": "Abubakar Al-Mass",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "yemen-dpr",
+  "teamName": "Yemen DPR",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

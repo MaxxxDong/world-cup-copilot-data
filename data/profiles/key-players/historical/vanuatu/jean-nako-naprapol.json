@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2007-11-17",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1983-11-13",
+    "nationality": "Vanuatu",
+    "playerKey": "jean-nako-naprapol",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "6bbdf20a",
+      "footballdatabase_eu": "22309",
+      "national_football_teams": "23379",
+      "soccerway": "60297",
+      "transfermarkt": "68361",
+      "wikidata": "Q1527371"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-03",
+  "playerKey": "jean-nako-naprapol",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-vanuatu-samoa-31813",
+      "matchKey": "2012-06-03-vanuatu-samoa",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean Nako Naprapol"
+    },
+    {
+      "date": "2012-06-01",
+      "goalId": "goal-2012-06-01-vanuatu-new-caledonia-31751",
+      "matchKey": "2012-06-01-vanuatu-new-caledonia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean Nako Naprapol"
+    },
+    {
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-vanuatu-new-zealand-27427",
+      "matchKey": "2007-11-17-vanuatu-new-zealand",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean Nako Naprapol"
+    }
+  ],
+  "scorer": "Jean Nako Naprapol",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

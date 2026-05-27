@@ -1,0 +1,57 @@
+{
+  "firstGoalDate": "2011-11-22",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-11-26",
+    "nationality": "Samoa",
+    "playerKey": "albert-bell",
+    "position": "defender",
+    "providerIds": {
+      "footballdatabase_eu": "170217",
+      "national_football_teams": "45784",
+      "transfermarkt": "208205",
+      "wikidata": "Q646244"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-22",
+  "playerKey": "albert-bell",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-22",
+      "goalId": "goal-2011-11-22-samoa-cook-islands-31590",
+      "matchKey": "2011-11-22-samoa-cook-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Albert Bell"
+    }
+  ],
+  "scorer": "Albert Bell",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

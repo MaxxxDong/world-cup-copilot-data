@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Poland"
+  ],
+  "allTime": {
+    "draws": 224,
+    "goalsAgainst": 1197,
+    "goalsFor": 1497,
+    "losses": 282,
+    "matches": 890,
+    "wins": 384
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 11,
+      "goalsFor": 18,
+      "losses": 2,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 31,
+      "goalsFor": 32,
+      "losses": 7,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 10,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "2026-03-31",
+      "homeScore": 3,
+      "homeTeamId": "sweden",
+      "matchId": "int-2026-03-31-sweden-poland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "albania",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-2026-03-26-poland-albania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "poland",
+      "date": "2025-11-17",
+      "homeScore": 2,
+      "homeTeamId": "malta",
+      "matchId": "int-2025-11-17-malta-poland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "netherlands",
+      "date": "2025-11-14",
+      "homeScore": 1,
+      "homeTeamId": "poland",
+      "matchId": "int-2025-11-14-poland-netherlands",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2025-10-12-lithuania-poland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 80,
+      "goalsAgainst": 429,
+      "goalsFor": 592,
+      "losses": 111,
+      "matches": 353,
+      "wins": 162
+    },
+    "friendly": {
+      "draws": 144,
+      "goalsAgainst": 768,
+      "goalsFor": 905,
+      "losses": 171,
+      "matches": 537,
+      "wins": 222
+    },
+    "neutralVenue": {
+      "draws": 27,
+      "goalsAgainst": 109,
+      "goalsFor": 161,
+      "losses": 24,
+      "matches": 103,
+      "wins": 52
+    },
+    "nonNeutralVenue": {
+      "draws": 197,
+      "goalsAgainst": 1088,
+      "goalsFor": 1336,
+      "losses": 258,
+      "matches": 787,
+      "wins": 332
+    },
+    "worldCup": {
+      "draws": 6,
+      "goalsAgainst": 50,
+      "goalsFor": 49,
+      "losses": 15,
+      "matches": 38,
+      "wins": 17
+    }
+  },
+  "teamId": "poland",
+  "teamName": "Poland",
+  "topScorers": [
+    {
+      "goals": 69,
+      "playerKey": "robert-lewandowski",
+      "scorer": "Robert Lewandowski"
+    },
+    {
+      "goals": 21,
+      "playerKey": "w-odzimierz-luba-ski",
+      "scorer": "Włodzimierz Lubański"
+    },
+    {
+      "goals": 19,
+      "playerKey": "grzegorz-lato",
+      "scorer": "Grzegorz Lato"
+    },
+    {
+      "goals": 14,
+      "playerKey": "kazimierz-deyna",
+      "scorer": "Kazimierz Deyna"
+    },
+    {
+      "goals": 14,
+      "playerKey": "zbigniew-boniek",
+      "scorer": "Zbigniew Boniek"
+    },
+    {
+      "goals": 13,
+      "playerKey": "andrzej-szarmach",
+      "scorer": "Andrzej Szarmach"
+    },
+    {
+      "goals": 13,
+      "playerKey": "w-odzimierz-smolarek",
+      "scorer": "Włodzimierz Smolarek"
+    },
+    {
+      "goals": 12,
+      "playerKey": "arkadiusz-milik",
+      "scorer": "Arkadiusz Milik"
+    },
+    {
+      "goals": 12,
+      "playerKey": "euzebiusz-smolarek",
+      "scorer": "Euzebiusz Smolarek"
+    },
+    {
+      "goals": 12,
+      "playerKey": "karol-widerski",
+      "scorer": "Karol Świderski"
+    }
+  ]
+}

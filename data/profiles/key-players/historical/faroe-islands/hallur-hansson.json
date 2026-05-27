@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2013-10-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1992-07-08",
+    "nationality": "Kingdom of Denmark",
+    "playerKey": "hallur-hansson",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "15643",
+      "eu_football_info": "27895",
+      "fbref": "15032d57",
+      "footballdatabase_eu": "83705",
+      "heimspiel": "164141",
+      "impect": "4833",
+      "national_football_teams": "48361",
+      "opta": "en5dza9z5cnz5buzt57lvpn85",
+      "skillcorner": "17755",
+      "soccerway": "130089",
+      "sofascore": "81485",
+      "sofifa": "359869",
+      "thesportsdb": "34173724",
+      "transfermarkt": "95984",
+      "uefa": "1908320",
+      "wikidata": "Q3467441",
+      "wyscout": "81477"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2018-09-07",
+  "playerKey": "hallur-hansson",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2018-09-07",
+      "goalId": "goal-2018-09-07-faroe-islands-malta-37733",
+      "matchKey": "2018-09-07-faroe-islands-malta",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallur Hansson"
+    },
+    {
+      "date": "2015-06-13",
+      "goalId": "goal-2015-06-13-faroe-islands-greece-34430",
+      "matchKey": "2015-06-13-faroe-islands-greece",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallur Hansson"
+    },
+    {
+      "date": "2013-10-11",
+      "goalId": "goal-2013-10-11-faroe-islands-kazakhstan-33368",
+      "matchKey": "2013-10-11-faroe-islands-kazakhstan",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hallur Hansson"
+    }
+  ],
+  "scorer": "Hallur Hansson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "faroe-islands",
+  "teamName": "Faroe Islands",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

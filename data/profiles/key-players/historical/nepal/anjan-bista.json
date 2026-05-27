@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2019-09-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1998-07-22",
+    "nationality": "Nepal",
+    "playerKey": "anjan-bista",
+    "position": "forward",
+    "providerIds": {
+      "espn": "236808",
+      "footballdatabase_eu": "257005",
+      "national_football_teams": "57603",
+      "soccerway": "399624",
+      "transfermarkt": "348817",
+      "wikidata": "Q17180526",
+      "worldfootball": "anjan-bista"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-10-12",
+  "playerKey": "anjan-bista",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-nepal-laos-43642",
+      "matchKey": "2023-10-12-nepal-laos",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anjan Bista"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-nepal-taiwan-40490",
+      "matchKey": "2021-06-03-nepal-taiwan",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Anjan Bista"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-taiwan-nepal-39086",
+      "matchKey": "2019-09-10-taiwan-nepal",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anjan Bista"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-taiwan-nepal-39085",
+      "matchKey": "2019-09-10-taiwan-nepal",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anjan Bista"
+    }
+  ],
+  "scorer": "Anjan Bista",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

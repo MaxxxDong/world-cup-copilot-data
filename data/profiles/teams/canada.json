@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Canada",
+    "CAN",
+    "Les Rouges"
+  ],
+  "allTime": {
+    "draws": 107,
+    "goalsAgainst": 611,
+    "goalsFor": 605,
+    "losses": 182,
+    "matches": 467,
+    "wins": 178
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "CAN",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 4,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 11,
+      "goalsFor": 30,
+      "losses": 2,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 4,
+      "goalsAgainst": 2,
+      "goalsFor": 4,
+      "losses": 0,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "tunisia",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "canada",
+      "matchId": "int-2026-03-31-canada-tunisia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "canada",
+      "matchId": "int-2026-03-28-canada-iceland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "canada",
+      "matchId": "int-2025-11-18-canada-venezuela",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ecuador",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "canada",
+      "matchId": "int-2025-11-13-canada-ecuador",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "colombia",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "canada",
+      "matchId": "int-2025-10-14-canada-colombia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 63,
+      "goalsAgainst": 301,
+      "goalsFor": 391,
+      "losses": 82,
+      "matches": 256,
+      "wins": 111
+    },
+    "friendly": {
+      "draws": 44,
+      "goalsAgainst": 310,
+      "goalsFor": 214,
+      "losses": 100,
+      "matches": 211,
+      "wins": 67
+    },
+    "neutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 154,
+      "goalsFor": 200,
+      "losses": 45,
+      "matches": 130,
+      "wins": 53
+    },
+    "nonNeutralVenue": {
+      "draws": 75,
+      "goalsAgainst": 457,
+      "goalsFor": 405,
+      "losses": 137,
+      "matches": 337,
+      "wins": 125
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 2,
+      "losses": 6,
+      "matches": 6,
+      "wins": 0
+    }
+  },
+  "teamId": "canada",
+  "teamName": "Canada",
+  "topScorers": [
+    {
+      "goals": 21,
+      "playerKey": "cyle-larin",
+      "scorer": "Cyle Larin"
+    },
+    {
+      "goals": 19,
+      "playerKey": "jonathan-david",
+      "scorer": "Jonathan David"
+    },
+    {
+      "goals": 15,
+      "playerKey": "dwayne-de-rosario",
+      "scorer": "Dwayne De Rosario"
+    },
+    {
+      "goals": 12,
+      "playerKey": "alex-bunbury",
+      "scorer": "Alex Bunbury"
+    },
+    {
+      "goals": 12,
+      "playerKey": "ali-gerba",
+      "scorer": "Ali Gerba"
+    },
+    {
+      "goals": 11,
+      "playerKey": "lucas-cavallini",
+      "scorer": "Lucas Cavallini"
+    },
+    {
+      "goals": 10,
+      "playerKey": "dale-mitchell",
+      "scorer": "Dale Mitchell"
+    },
+    {
+      "goals": 9,
+      "playerKey": "alphonso-davies",
+      "scorer": "Alphonso Davies"
+    },
+    {
+      "goals": 9,
+      "playerKey": "junior-hoilett",
+      "scorer": "Junior Hoilett"
+    },
+    {
+      "goals": 7,
+      "playerKey": "carlo-corazzin",
+      "scorer": "Carlo Corazzin"
+    }
+  ]
+}

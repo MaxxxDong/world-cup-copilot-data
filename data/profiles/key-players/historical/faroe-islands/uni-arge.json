@@ -1,0 +1,107 @@
+{
+  "firstGoalDate": "1993-04-25",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 6,
+  "identity": {
+    "dateOfBirth": "1971-01-21",
+    "nationality": "Kingdom of Denmark",
+    "playerKey": "uni-arge",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "764",
+      "fbref": "81d1a5d9",
+      "footballdatabase_eu": "63104",
+      "national_football_teams": "14226",
+      "sofifa": "95318",
+      "transfermarkt": "135324",
+      "uefa": "19592",
+      "wikidata": "Q362521",
+      "worldfootball": "uni-arge"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-09-03",
+  "playerKey": "uni-arge",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-09-03",
+      "goalId": "goal-2000-09-03-faroe-islands-slovenia-20032",
+      "matchKey": "2000-09-03-faroe-islands-slovenia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    },
+    {
+      "date": "1999-06-09",
+      "goalId": "goal-1999-06-09-faroe-islands-bosnia-and-herzegovina-18823",
+      "matchKey": "1999-06-09-faroe-islands-bosnia-and-herzegovina",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    },
+    {
+      "date": "1999-06-09",
+      "goalId": "goal-1999-06-09-faroe-islands-bosnia-and-herzegovina-18822",
+      "matchKey": "1999-06-09-faroe-islands-bosnia-and-herzegovina",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    },
+    {
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-faroe-islands-malta-17226",
+      "matchKey": "1997-06-08-faroe-islands-malta",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    },
+    {
+      "date": "1996-09-04",
+      "goalId": "goal-1996-09-04-faroe-islands-spain-16236",
+      "matchKey": "1996-09-04-faroe-islands-spain",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    },
+    {
+      "date": "1993-04-25",
+      "goalId": "goal-1993-04-25-cyprus-faroe-islands-13872",
+      "matchKey": "1993-04-25-cyprus-faroe-islands",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Uni Arge"
+    }
+  ],
+  "scorer": "Uni Arge",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "faroe-islands",
+  "teamName": "Faroe Islands",
+  "tournaments": [
+    {
+      "goals": 6,
+      "tournament": "unknown"
+    }
+  ]
+}

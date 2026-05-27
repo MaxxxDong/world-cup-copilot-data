@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2019-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1997-08-03",
+    "nationality": "United States",
+    "playerKey": "isiah-lagutang",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "4bf33f07",
+      "footballdatabase_eu": "385787",
+      "sofascore": "992837",
+      "transfermarkt": "377874",
+      "wikidata": "Q20744958"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-11",
+  "playerKey": "isiah-lagutang",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-11",
+      "goalId": "goal-2019-06-11-guam-bhutan-38500",
+      "matchKey": "2019-06-11-guam-bhutan",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isiah Lagutang"
+    }
+  ],
+  "scorer": "Isiah Lagutang",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guam",
+  "teamName": "Guam",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

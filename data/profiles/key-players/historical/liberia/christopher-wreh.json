@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2000-07-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1975-05-14",
+    "nationality": "Liberia",
+    "playerKey": "christopher-wreh",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "4",
+      "fbref": "1d94a117",
+      "footballdatabase_eu": "3898",
+      "hugman": "21719",
+      "kicker": "christopher-wreh",
+      "lequipe": "3856",
+      "national_football_teams": "13930",
+      "premier_league": "1305",
+      "soccerbase": "10493",
+      "sofascore": "2155992",
+      "sofifa": "156341",
+      "statmuse_pl": "1067",
+      "transfermarkt": "15712",
+      "wikidata": "Q583258",
+      "worldfootball": "christopher-wreh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-07-09",
+  "playerKey": "christopher-wreh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-07-09",
+      "goalId": "goal-2000-07-09-liberia-nigeria-19884",
+      "matchKey": "2000-07-09-liberia-nigeria",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christopher Wreh"
+    },
+    {
+      "date": "2000-07-09",
+      "goalId": "goal-2000-07-09-liberia-nigeria-19882",
+      "matchKey": "2000-07-09-liberia-nigeria",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christopher Wreh"
+    }
+  ],
+  "scorer": "Christopher Wreh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

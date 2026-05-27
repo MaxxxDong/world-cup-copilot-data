@@ -1,0 +1,131 @@
+{
+  "aliases": [
+    "Délvidék"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 3,
+    "goalsFor": 4,
+    "losses": 1,
+    "matches": 2,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "felvidek",
+      "date": "2016-08-03",
+      "homeScore": 1,
+      "homeTeamId": "delvidek",
+      "matchId": "int-2016-08-03-delvidek-felvidek",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Hungary Heritage Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "szekely-land",
+      "date": "2016-08-01",
+      "homeScore": 3,
+      "homeTeamId": "delvidek",
+      "matchId": "int-2016-08-01-delvidek-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Hungary Heritage Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "delvidek",
+  "teamName": "Délvidék",
+  "topScorers": []
+}

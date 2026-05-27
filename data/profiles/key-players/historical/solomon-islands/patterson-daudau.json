@@ -1,0 +1,86 @@
+{
+  "firstGoalDate": "2001-06-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1978-02-02",
+    "nationality": "Solomon Islands",
+    "playerKey": "patterson-daudau",
+    "position": "attacker",
+    "providerIds": {
+      "footballdatabase_eu": "33027",
+      "national_football_teams": "6063",
+      "soccerway": "284465",
+      "transfermarkt": "184700",
+      "wikidata": "Q21207742",
+      "worldfootball": "patterson-daudau"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2002-07-07",
+  "playerKey": "patterson-daudau",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2002-07-07",
+      "goalId": "goal-2002-07-07-solomon-islands-tahiti-22360",
+      "matchKey": "2002-07-07-solomon-islands-tahiti",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patterson Daudau"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-solomon-islands-cook-islands-21336",
+      "matchKey": "2001-06-04-solomon-islands-cook-islands",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patterson Daudau"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-solomon-islands-cook-islands-21335",
+      "matchKey": "2001-06-04-solomon-islands-cook-islands",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patterson Daudau"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-solomon-islands-cook-islands-21332",
+      "matchKey": "2001-06-04-solomon-islands-cook-islands",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patterson Daudau"
+    }
+  ],
+  "scorer": "Patterson Daudau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "solomon-islands",
+  "teamName": "Solomon Islands",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "firstGoalDate": "1989-03-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1964-01-01",
+    "playerKey": "badal-das",
+    "providerIds": {
+      "footballdatabase_eu": "178527",
+      "national_football_teams": "84524",
+      "wikidata": "Q117465298"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1989-03-08",
+  "playerKey": "badal-das",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1989-03-08",
+      "goalId": "goal-1989-03-08-bangladesh-thailand-11926",
+      "matchKey": "1989-03-08-bangladesh-thailand",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badal Das"
+    }
+  ],
+  "scorer": "Badal Das",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

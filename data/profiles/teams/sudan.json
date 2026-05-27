@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Sudan"
+  ],
+  "allTime": {
+    "draws": 118,
+    "goalsAgainst": 634,
+    "goalsFor": 508,
+    "losses": 200,
+    "matches": 469,
+    "wins": 151
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 5,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 25,
+      "goalsFor": 8,
+      "losses": 10,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 3,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sudan",
+      "date": "2026-01-03",
+      "homeScore": 3,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-01-03-senegal-sudan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-12-31",
+      "homeScore": 0,
+      "homeTeamId": "sudan",
+      "matchId": "int-2025-12-31-sudan-burkina-faso",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sudan",
+      "date": "2025-12-28",
+      "homeScore": 0,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2025-12-28-equatorial-guinea-sudan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sudan",
+      "date": "2025-12-24",
+      "homeScore": 3,
+      "homeTeamId": "algeria",
+      "matchId": "int-2025-12-24-algeria-sudan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sudan",
+      "date": "2025-12-09",
+      "homeScore": 3,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-12-09-bahrain-sudan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 78,
+      "goalsAgainst": 449,
+      "goalsFor": 376,
+      "losses": 149,
+      "matches": 344,
+      "wins": 117
+    },
+    "friendly": {
+      "draws": 40,
+      "goalsAgainst": 185,
+      "goalsFor": 132,
+      "losses": 51,
+      "matches": 125,
+      "wins": 34
+    },
+    "neutralVenue": {
+      "draws": 52,
+      "goalsAgainst": 206,
+      "goalsFor": 183,
+      "losses": 60,
+      "matches": 160,
+      "wins": 48
+    },
+    "nonNeutralVenue": {
+      "draws": 66,
+      "goalsAgainst": 428,
+      "goalsFor": 325,
+      "losses": 140,
+      "matches": 309,
+      "wins": 103
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "sudan",
+  "teamName": "Sudan",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "haytham-tambal",
+      "scorer": "Haytham Tambal"
+    },
+    {
+      "goals": 6,
+      "playerKey": "ali-gagarin",
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "goals": 6,
+      "playerKey": "nasr-eddin-abbas",
+      "scorer": "Nasr Eddin Abbas"
+    },
+    {
+      "goals": 4,
+      "playerKey": "mudather-el-tahir",
+      "scorer": "Mudather El Tahir"
+    },
+    {
+      "goals": 4,
+      "playerKey": "omar-ali-hasab-el-rasoul",
+      "scorer": "Omar Ali Hasab El-Rasoul"
+    },
+    {
+      "goals": 3,
+      "playerKey": "babiker-santo",
+      "scorer": "Babiker Santo"
+    },
+    {
+      "goals": 3,
+      "playerKey": "faisal-agab",
+      "scorer": "Faisal Agab"
+    },
+    {
+      "goals": 3,
+      "playerKey": "james-moga",
+      "scorer": "James Moga"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mohamed-abdelrahman",
+      "scorer": "Mohamed Abdelrahman"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mujahid-ahmed",
+      "scorer": "Mujahid Ahmed"
+    }
+  ]
+}

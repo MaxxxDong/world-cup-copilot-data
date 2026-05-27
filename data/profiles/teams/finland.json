@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Finland"
+  ],
+  "allTime": {
+    "draws": 166,
+    "goalsAgainst": 1669,
+    "goalsFor": 959,
+    "losses": 434,
+    "matches": 816,
+    "wins": 216
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 12,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 35,
+      "goalsFor": 21,
+      "losses": 12,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 6,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "2026-03-30",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2026-03-30-cape-verde-finland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2026-03-27-new-zealand-finland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "andorra",
+      "date": "2025-11-17",
+      "homeScore": 4,
+      "homeTeamId": "finland",
+      "matchId": "int-2025-11-17-finland-andorra",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "malta",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "finland",
+      "matchId": "int-2025-11-14-finland-malta",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "2025-10-12",
+      "homeScore": 4,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2025-10-12-netherlands-finland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 89,
+      "goalsAgainst": 978,
+      "goalsFor": 520,
+      "losses": 262,
+      "matches": 475,
+      "wins": 124
+    },
+    "friendly": {
+      "draws": 77,
+      "goalsAgainst": 691,
+      "goalsFor": 439,
+      "losses": 172,
+      "matches": 341,
+      "wins": 92
+    },
+    "neutralVenue": {
+      "draws": 12,
+      "goalsAgainst": 71,
+      "goalsFor": 58,
+      "losses": 24,
+      "matches": 56,
+      "wins": 20
+    },
+    "nonNeutralVenue": {
+      "draws": 154,
+      "goalsAgainst": 1598,
+      "goalsFor": 901,
+      "losses": 410,
+      "matches": 760,
+      "wins": 196
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "finland",
+  "teamName": "Finland",
+  "topScorers": [
+    {
+      "goals": 31,
+      "playerKey": "teemu-pukki",
+      "scorer": "Teemu Pukki"
+    },
+    {
+      "goals": 20,
+      "playerKey": "mikael-forssell",
+      "scorer": "Mikael Forssell"
+    },
+    {
+      "goals": 18,
+      "playerKey": "jari-litmanen",
+      "scorer": "Jari Litmanen"
+    },
+    {
+      "goals": 15,
+      "playerKey": "joel-pohjanpalo",
+      "scorer": "Joel Pohjanpalo"
+    },
+    {
+      "goals": 13,
+      "playerKey": "mixu-paatelainen",
+      "scorer": "Mixu Paatelainen"
+    },
+    {
+      "goals": 11,
+      "playerKey": "jonatan-johansson",
+      "scorer": "Jonatan Johansson"
+    },
+    {
+      "goals": 10,
+      "playerKey": "alexei-eremenko",
+      "scorer": "Alexei Eremenko"
+    },
+    {
+      "goals": 8,
+      "playerKey": "benjamin-k-llman",
+      "scorer": "Benjamin Källman"
+    },
+    {
+      "goals": 7,
+      "playerKey": "antti-sumiala",
+      "scorer": "Antti Sumiala"
+    },
+    {
+      "goals": 7,
+      "playerKey": "ari-hjelm",
+      "scorer": "Ari Hjelm"
+    }
+  ]
+}

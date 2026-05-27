@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2013-06-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1990-06-04",
+    "nationality": "Libya",
+    "playerKey": "faisal-al-badri",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "31f9548b",
+      "footballdatabase_eu": "156874",
+      "kicker": "faisal-saleh",
+      "national_football_teams": "46267",
+      "soccerway": "222574",
+      "sofascore": "825066",
+      "transfermarkt": "213156",
+      "wikidata": "Q5431041"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-06",
+  "playerKey": "faisal-al-badri",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-libya-mauritius-44665",
+      "matchKey": "2024-06-06-libya-mauritius",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faisal Al Badri"
+    },
+    {
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-libya-rwanda-35372",
+      "matchKey": "2015-11-13-libya-rwanda",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faisal Al Badri"
+    },
+    {
+      "date": "2013-06-14",
+      "goalId": "goal-2013-06-14-libya-togo-32892",
+      "matchKey": "2013-06-14-libya-togo",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faisal Al Badri"
+    }
+  ],
+  "scorer": "Faisal Al Badri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

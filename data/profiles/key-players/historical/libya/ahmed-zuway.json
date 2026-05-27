@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2012-06-03",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1982-12-28",
+    "nationality": "Libya",
+    "playerKey": "ahmed-zuway",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "5f28907f",
+      "footballdatabase_eu": "12188",
+      "kicker": "ahmed-mahmoud-zuway",
+      "national_football_teams": "12239",
+      "soccerway": "157617",
+      "sofascore": "14453",
+      "transfermarkt": "63323",
+      "wikidata": "Q2701242"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-10",
+  "playerKey": "ahmed-zuway",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-libya-cameroon-31920",
+      "matchKey": "2012-06-10-libya-cameroon",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Zuway"
+    },
+    {
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-togo-libya-31811",
+      "matchKey": "2012-06-03-togo-libya",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Zuway"
+    }
+  ],
+  "scorer": "Ahmed Zuway",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

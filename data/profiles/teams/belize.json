@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Belize"
+  ],
+  "allTime": {
+    "draws": 20,
+    "goalsAgainst": 233,
+    "goalsFor": 133,
+    "losses": 70,
+    "matches": 121,
+    "wins": 31
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 27,
+      "goalsFor": 15,
+      "losses": 6,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 38,
+      "goalsFor": 30,
+      "losses": 9,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 10,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "belize",
+      "date": "2026-03-30",
+      "homeScore": 3,
+      "homeTeamId": "guyana",
+      "matchId": "int-2026-03-30-guyana-belize",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sint-maarten",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "belize",
+      "matchId": "int-2026-03-27-belize-sint-maarten",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "belize",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2025-11-18-saint-kitts-and-nevis-belize",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belize",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "saint-martin",
+      "matchId": "int-2025-11-15-saint-martin-belize",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "panama",
+      "date": "2025-06-07",
+      "homeScore": 0,
+      "homeTeamId": "belize",
+      "matchId": "int-2025-06-07-belize-panama",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 13,
+      "goalsAgainst": 205,
+      "goalsFor": 101,
+      "losses": 63,
+      "matches": 98,
+      "wins": 22
+    },
+    "friendly": {
+      "draws": 7,
+      "goalsAgainst": 28,
+      "goalsFor": 32,
+      "losses": 7,
+      "matches": 23,
+      "wins": 9
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 73,
+      "goalsFor": 41,
+      "losses": 23,
+      "matches": 36,
+      "wins": 7
+    },
+    "nonNeutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 160,
+      "goalsFor": 92,
+      "losses": 47,
+      "matches": 85,
+      "wins": 24
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "belize",
+  "teamName": "Belize",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "deon-mccaulay",
+      "scorer": "Deon McCaulay"
+    },
+    {
+      "goals": 4,
+      "playerKey": "harrison-r-chez",
+      "scorer": "Harrison Róchez"
+    },
+    {
+      "goals": 3,
+      "playerKey": "carlos-bern-rdez",
+      "scorer": "Carlos Bernárdez"
+    },
+    {
+      "goals": 3,
+      "playerKey": "elroy-kuylen",
+      "scorer": "Elroy Kuylen"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bent-burgess",
+      "scorer": "Bent Burgess"
+    },
+    {
+      "goals": 1,
+      "playerKey": "daniel-jimenez",
+      "scorer": "Daniel Jimenez"
+    },
+    {
+      "goals": 1,
+      "playerKey": "david-mccaulay",
+      "scorer": "David McCaulay"
+    },
+    {
+      "goals": 1,
+      "playerKey": "denmark-casey",
+      "scorer": "Denmark Casey"
+    },
+    {
+      "goals": 1,
+      "playerKey": "deshawon-nembhard",
+      "scorer": "Deshawon Nembhard"
+    },
+    {
+      "goals": 1,
+      "playerKey": "elroy-smith",
+      "scorer": "Elroy Smith"
+    }
+  ]
+}

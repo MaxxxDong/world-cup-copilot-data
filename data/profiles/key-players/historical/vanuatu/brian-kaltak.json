@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2012-06-03",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-09-30",
+    "nationality": "Vanuatu",
+    "playerKey": "brian-kaltak",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "38831",
+      "fbref": "41aa75c0",
+      "footballdatabase_eu": "170050",
+      "heimspiel": "279917",
+      "impect": "17049",
+      "national_football_teams": "44749",
+      "skillcorner": "795510",
+      "soccerway": "189813",
+      "sofascore": "1168420",
+      "thesportsdb": "34218246",
+      "transfermarkt": "185114",
+      "wikidata": "Q2912672",
+      "wyscout": "143003"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-06-04",
+  "playerKey": "brian-kaltak",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-06-04",
+      "goalId": "goal-2016-06-04-fiji-vanuatu-35759",
+      "matchKey": "2016-06-04-fiji-vanuatu",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brian Kaltak"
+    },
+    {
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-vanuatu-samoa-31814",
+      "matchKey": "2012-06-03-vanuatu-samoa",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Kaltak"
+    }
+  ],
+  "scorer": "Brian Kaltak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

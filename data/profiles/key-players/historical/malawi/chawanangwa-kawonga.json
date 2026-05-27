@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "2024-06-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1995-01-05",
+    "nationality": "Malawi",
+    "playerKey": "chawanangwa-kawonga",
+    "providerIds": {
+      "national_football_teams": "60417",
+      "sofascore": "1023552",
+      "transfermarkt": "401183",
+      "wikidata": "Q107985561"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-09-08",
+  "playerKey": "chawanangwa-kawonga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-malawi-liberia-46780",
+      "matchKey": "2025-09-08-malawi-liberia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chawanangwa Kawonga"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-malawi-sao-tome-and-principe-44668",
+      "matchKey": "2024-06-06-malawi-sao-tome-and-principe",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chawanangwa Kawonga"
+    }
+  ],
+  "scorer": "Chawanangwa Kawonga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malawi",
+  "teamName": "Malawi",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

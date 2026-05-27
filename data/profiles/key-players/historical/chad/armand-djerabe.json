@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2008-06-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1980-10-11",
+    "nationality": "Chad",
+    "playerKey": "armand-djerabe",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "8bd66c4e",
+      "footballdatabase_eu": "14161",
+      "national_football_teams": "1375",
+      "sofifa": "298021",
+      "transfermarkt": "39268",
+      "wikidata": "Q677359",
+      "worldfootball": "armand-djerabe"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-14",
+  "playerKey": "armand-djerabe",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-chad-congo-27955",
+      "matchKey": "2008-06-14-chad-congo",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Armand Djerabe"
+    }
+  ],
+  "scorer": "Armand Djerabe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "chad",
+  "teamName": "Chad",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

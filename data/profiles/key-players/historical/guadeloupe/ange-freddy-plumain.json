@@ -1,0 +1,90 @@
+{
+  "firstGoalDate": "2023-07-01",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1995-03-02",
+    "nationality": "France",
+    "playerKey": "ange-freddy-plumain",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "87320",
+      "capology": "ange-freddy-plumain-34760",
+      "espn": "179019",
+      "fff_fr": "7023-plumain-ange-freddy",
+      "footballdatabase_eu": "177643",
+      "heimspiel": "297849",
+      "impect": "57651",
+      "kicker": "ange-freddy-plumain",
+      "lequipe": "46371",
+      "national_football_teams": "87676",
+      "opta": "es75wkapaafpxnfe8rpwm5yol",
+      "skillcorner": "517137",
+      "soccerbase": "74196",
+      "soccerway": "260818",
+      "sofascore": "372340",
+      "thesportsdb": "34148602",
+      "transfermarkt": "182912",
+      "wikidata": "Q4761998",
+      "wyscout": "228985"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-24",
+  "playerKey": "ange-freddy-plumain",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-24",
+      "goalId": "goal-2025-06-24-guadeloupe-guatemala-46508",
+      "matchKey": "2025-06-24-guadeloupe-guatemala",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ange-Freddy Plumain"
+    },
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-guadeloupe-guatemala-43413",
+      "matchKey": "2023-07-04-guadeloupe-guatemala",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ange-Freddy Plumain"
+    },
+    {
+      "date": "2023-07-01",
+      "goalId": "goal-2023-07-01-cuba-guadeloupe-43376",
+      "matchKey": "2023-07-01-cuba-guadeloupe",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ange-Freddy Plumain"
+    }
+  ],
+  "scorer": "Ange-Freddy Plumain",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

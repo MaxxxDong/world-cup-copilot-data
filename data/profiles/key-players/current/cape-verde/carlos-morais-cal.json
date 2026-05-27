@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "name": "Carlos Morais Caló",
+  "playerKey": "carlos-morais-cal",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2005-09-04",
+      "goalId": "goal-2005-09-04-dr-congo-cape-verde-25700",
+      "matchKey": "2005-09-04-dr-congo-cape-verde",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Morais Caló"
+    },
+    {
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-burkina-faso-cape-verde-24992",
+      "matchKey": "2005-03-26-burkina-faso-cape-verde",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Morais Caló"
+    },
+    {
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-burkina-faso-cape-verde-24990",
+      "matchKey": "2005-03-26-burkina-faso-cape-verde",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Morais Caló"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/cape-verde"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "cape-verde",
+  "teamName": "Cape Verde"
+}

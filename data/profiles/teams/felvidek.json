@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Felvidék"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 20,
+    "goalsFor": 14,
+    "losses": 5,
+    "matches": 12,
+    "wins": 5
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 16,
+      "goalsFor": 11,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 14,
+      "losses": 5,
+      "matches": 12,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "felvidek",
+      "date": "2017-06-09",
+      "homeScore": 0,
+      "homeTeamId": "south-ossetia",
+      "matchId": "int-2017-06-09-south-ossetia-felvidek",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "felvidek",
+      "date": "2017-06-07",
+      "homeScore": 2,
+      "homeTeamId": "padania",
+      "matchId": "int-2017-06-07-padania-felvidek",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "felvidek",
+      "date": "2017-06-06",
+      "homeScore": 1,
+      "homeTeamId": "ellan-vannin",
+      "matchId": "int-2017-06-06-ellan-vannin-felvidek",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "szekely-land",
+      "date": "2017-06-05",
+      "homeScore": 1,
+      "homeTeamId": "felvidek",
+      "matchId": "int-2017-06-05-felvidek-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "felvidek",
+      "date": "2016-08-03",
+      "homeScore": 1,
+      "homeTeamId": "delvidek",
+      "matchId": "int-2016-08-03-delvidek-felvidek",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Hungary Heritage Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 14,
+      "losses": 5,
+      "matches": 12,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 16,
+      "goalsFor": 10,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "felvidek",
+  "teamName": "Felvidék",
+  "topScorers": []
+}

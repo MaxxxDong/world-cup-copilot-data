@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "2011-06-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-01-25",
+    "nationality": "France",
+    "playerKey": "brice-jovial",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "c8086ccb",
+      "footballdatabase_eu": "25588",
+      "lequipe": "21359",
+      "national_football_teams": "43506",
+      "opta": "c1ch9wzpvaegamrbehj82qsid",
+      "soccerway": "16485",
+      "sofascore": "105782",
+      "transfermarkt": "44895",
+      "wikidata": "Q2484987",
+      "worldfootball": "brice-jovial"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-06-07",
+  "playerKey": "brice-jovial",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-06-07",
+      "goalId": "goal-2011-06-07-panama-guadeloupe-30508",
+      "matchKey": "2011-06-07-panama-guadeloupe",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Jovial"
+    },
+    {
+      "date": "2011-06-07",
+      "goalId": "goal-2011-06-07-panama-guadeloupe-30507",
+      "matchKey": "2011-06-07-panama-guadeloupe",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brice Jovial"
+    }
+  ],
+  "scorer": "Brice Jovial",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

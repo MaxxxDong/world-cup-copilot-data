@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Cambodia"
+  ],
+  "allTime": {
+    "draws": 41,
+    "goalsAgainst": 760,
+    "goalsFor": 324,
+    "losses": 189,
+    "matches": 293,
+    "wins": 63
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 14,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 32,
+      "goalsFor": 25,
+      "losses": 10,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 6,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "cambodia",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2025-11-13-hong-kong-cambodia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "tajikistan",
+      "date": "2025-06-05",
+      "homeScore": 1,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2025-06-05-cambodia-tajikistan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "aruba",
+      "date": "2025-03-25",
+      "homeScore": 1,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2025-03-25-cambodia-aruba",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cambodia",
+      "date": "2025-03-19",
+      "homeScore": 2,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2025-03-19-vietnam-cambodia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cambodia",
+      "date": "2024-12-20",
+      "homeScore": 3,
+      "homeTeamId": "thailand",
+      "matchId": "int-2024-12-20-thailand-cambodia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ASEAN Championship"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 31,
+      "goalsAgainst": 626,
+      "goalsFor": 255,
+      "losses": 149,
+      "matches": 231,
+      "wins": 51
+    },
+    "friendly": {
+      "draws": 10,
+      "goalsAgainst": 134,
+      "goalsFor": 69,
+      "losses": 40,
+      "matches": 62,
+      "wins": 12
+    },
+    "neutralVenue": {
+      "draws": 19,
+      "goalsAgainst": 364,
+      "goalsFor": 159,
+      "losses": 87,
+      "matches": 138,
+      "wins": 32
+    },
+    "nonNeutralVenue": {
+      "draws": 22,
+      "goalsAgainst": 396,
+      "goalsFor": 165,
+      "losses": 102,
+      "matches": 155,
+      "wins": 31
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "cambodia",
+  "teamName": "Cambodia",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "doeur-sokhom",
+      "scorer": "Doeur Sokhom"
+    },
+    {
+      "goals": 3,
+      "playerKey": "kouch-sokumpheak",
+      "scorer": "Kouch Sokumpheak"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sam-el-nasa",
+      "scorer": "Sam El Nasa"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chan-vathanaka",
+      "scorer": "Chan Vathanaka"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chea-makara",
+      "scorer": "Chea Makara"
+    },
+    {
+      "goals": 2,
+      "playerKey": "hok-sochetra",
+      "scorer": "Hok Sochetra"
+    },
+    {
+      "goals": 2,
+      "playerKey": "khoun-laboravy",
+      "scorer": "Khoun Laboravy"
+    },
+    {
+      "goals": 2,
+      "playerKey": "tol-kimchi",
+      "scorer": "Tol Kimchi"
+    },
+    {
+      "goals": 1,
+      "playerKey": "chhin-chhoeun",
+      "scorer": "Chhin Chhoeun"
+    },
+    {
+      "goals": 1,
+      "playerKey": "keo-sokpheng",
+      "scorer": "Keo Sokpheng"
+    }
+  ]
+}

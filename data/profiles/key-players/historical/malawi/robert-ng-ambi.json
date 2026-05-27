@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2008-05-31",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-09-11",
+    "nationality": "Malawi",
+    "playerKey": "robert-ng-ambi",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "41911173",
+      "footballdatabase_eu": "6220",
+      "national_football_teams": "4099",
+      "soccerway": "76012",
+      "transfermarkt": "63305",
+      "wikidata": "Q2758226"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-06-12",
+  "playerKey": "robert-ng-ambi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-06-12",
+      "goalId": "goal-2013-06-12-malawi-kenya-32888",
+      "matchKey": "2013-06-12-malawi-kenya",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Ng'ambi"
+    },
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-malawi-dr-congo-28621",
+      "matchKey": "2008-10-11-malawi-dr-congo",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Ng'ambi"
+    },
+    {
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-malawi-djibouti-27760",
+      "matchKey": "2008-05-31-malawi-djibouti",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Ng'ambi"
+    }
+  ],
+  "scorer": "Robert Ng'ambi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malawi",
+  "teamName": "Malawi",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

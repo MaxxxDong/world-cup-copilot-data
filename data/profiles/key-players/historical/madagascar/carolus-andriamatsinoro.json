@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2019-06-22",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-07-06",
+    "nationality": "Madagascar",
+    "playerKey": "carolus-andriamatsinoro",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "a7d39a16",
+      "footballdatabase_eu": "117328",
+      "kicker": "carolus-andriamatsinoro",
+      "national_football_teams": "39210",
+      "soccerway": "159740",
+      "sofascore": "880088",
+      "transfermarkt": "171194",
+      "wikidata": "Q659940",
+      "worldfootball": "carolus-andriamatsinoro"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-30",
+  "playerKey": "carolus-andriamatsinoro",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-30",
+      "goalId": "goal-2019-06-30-madagascar-nigeria-38713",
+      "matchKey": "2019-06-30-madagascar-nigeria",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carolus Andriamatsinoro"
+    },
+    {
+      "date": "2019-06-22",
+      "goalId": "goal-2019-06-22-guinea-madagascar-38616",
+      "matchKey": "2019-06-22-guinea-madagascar",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carolus Andriamatsinoro"
+    }
+  ],
+  "scorer": "Carolus Andriamatsinoro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "madagascar",
+  "teamName": "Madagascar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

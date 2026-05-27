@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2021-11-16",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1996-10-09",
+    "nationality": "Sweden",
+    "playerKey": "peter-wilson",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "48178",
+      "espn": "80925",
+      "fbref": "b0f6bf47",
+      "footballdatabase_eu": "261322",
+      "heimspiel": "389842",
+      "impect": "32952",
+      "national_football_teams": "75896",
+      "opta": "cclpvd1z3yyruciida1q3x4o9",
+      "skillcorner": "31338",
+      "soccerway": "403265",
+      "sofascore": "793330",
+      "thesportsdb": "34220936",
+      "transfermarkt": "258501",
+      "wikidata": "Q20641644",
+      "wyscout": "372181"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-11-16",
+  "playerKey": "peter-wilson",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-liberia-central-african-republic-42109",
+      "matchKey": "2021-11-16-liberia-central-african-republic",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Wilson"
+    },
+    {
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-liberia-central-african-republic-42107",
+      "matchKey": "2021-11-16-liberia-central-african-republic",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Peter Wilson"
+    }
+  ],
+  "scorer": "Peter Wilson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

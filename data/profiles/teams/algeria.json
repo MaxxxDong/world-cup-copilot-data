@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Algeria",
+    "ALG",
+    "Les Fennecs"
+  ],
+  "allTime": {
+    "draws": 162,
+    "goalsAgainst": 613,
+    "goalsFor": 948,
+    "losses": 167,
+    "matches": 615,
+    "wins": 286
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "ALG",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 23,
+      "losses": 1,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 43,
+      "losses": 2,
+      "matches": 20,
+      "wins": 14
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 3,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-03-31-algeria-uruguay",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guatemala",
+      "date": "2026-03-27",
+      "homeScore": 7,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-03-27-algeria-guatemala",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "nigeria",
+      "date": "2026-01-10",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-01-10-algeria-nigeria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dr-congo",
+      "date": "2026-01-06",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-01-06-algeria-dr-congo",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "algeria",
+      "date": "2025-12-31",
+      "homeScore": 1,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2025-12-31-equatorial-guinea-algeria",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 97,
+      "goalsAgainst": 368,
+      "goalsFor": 632,
+      "losses": 96,
+      "matches": 381,
+      "wins": 188
+    },
+    "friendly": {
+      "draws": 65,
+      "goalsAgainst": 245,
+      "goalsFor": 316,
+      "losses": 71,
+      "matches": 234,
+      "wins": 98
+    },
+    "neutralVenue": {
+      "draws": 47,
+      "goalsAgainst": 176,
+      "goalsFor": 261,
+      "losses": 54,
+      "matches": 175,
+      "wins": 74
+    },
+    "nonNeutralVenue": {
+      "draws": 115,
+      "goalsAgainst": 437,
+      "goalsFor": 687,
+      "losses": 113,
+      "matches": 440,
+      "wins": 212
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 19,
+      "goalsFor": 13,
+      "losses": 7,
+      "matches": 13,
+      "wins": 3
+    }
+  },
+  "teamId": "algeria",
+  "teamName": "Algeria",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "islam-slimani",
+      "scorer": "Islam Slimani"
+    },
+    {
+      "goals": 16,
+      "playerKey": "riyad-mahrez",
+      "scorer": "Riyad Mahrez"
+    },
+    {
+      "goals": 14,
+      "playerKey": "rabah-madjer",
+      "scorer": "Rabah Madjer"
+    },
+    {
+      "goals": 12,
+      "playerKey": "djamel-menad",
+      "scorer": "Djamel Menad"
+    },
+    {
+      "goals": 12,
+      "playerKey": "lakhdar-belloumi",
+      "scorer": "Lakhdar Belloumi"
+    },
+    {
+      "goals": 10,
+      "playerKey": "abdelhafid-tasfaout",
+      "scorer": "Abdelhafid Tasfaout"
+    },
+    {
+      "goals": 10,
+      "playerKey": "baghdad-bounedjah",
+      "scorer": "Baghdad Bounedjah"
+    },
+    {
+      "goals": 9,
+      "playerKey": "sofiane-feghouli",
+      "scorer": "Sofiane Feghouli"
+    },
+    {
+      "goals": 9,
+      "playerKey": "tedj-bensaoula",
+      "scorer": "Tedj Bensaoula"
+    },
+    {
+      "goals": 8,
+      "playerKey": "mohamed-amoura",
+      "scorer": "Mohamed Amoura"
+    }
+  ]
+}

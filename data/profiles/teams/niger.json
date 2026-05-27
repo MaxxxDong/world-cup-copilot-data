@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Niger"
+  ],
+  "allTime": {
+    "draws": 61,
+    "goalsAgainst": 421,
+    "goalsFor": 255,
+    "losses": 136,
+    "matches": 258,
+    "wins": 61
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 15,
+      "goalsFor": 13,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 26,
+      "goalsFor": 28,
+      "losses": 9,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "niger",
+      "matchId": "int-2026-03-31-niger-togo",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "libya",
+      "matchId": "int-2026-03-27-libya-niger",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "guinea",
+      "matchId": "int-2025-11-18-guinea-niger",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "niger",
+      "date": "2025-11-14",
+      "homeScore": 3,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2025-11-14-burkina-faso-niger",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "zambia",
+      "matchId": "int-2025-10-12-zambia-niger",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 25,
+      "goalsAgainst": 254,
+      "goalsFor": 138,
+      "losses": 89,
+      "matches": 153,
+      "wins": 39
+    },
+    "friendly": {
+      "draws": 36,
+      "goalsAgainst": 167,
+      "goalsFor": 117,
+      "losses": 47,
+      "matches": 105,
+      "wins": 22
+    },
+    "neutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 94,
+      "goalsFor": 79,
+      "losses": 34,
+      "matches": 66,
+      "wins": 16
+    },
+    "nonNeutralVenue": {
+      "draws": 45,
+      "goalsAgainst": 327,
+      "goalsFor": 176,
+      "losses": 102,
+      "matches": 192,
+      "wins": 45
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "niger",
+  "teamName": "Niger",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "victorien-adebayor",
+      "scorer": "Victorien Adebayor"
+    },
+    {
+      "goals": 5,
+      "playerKey": "daniel-sosah",
+      "scorer": "Daniel Sosah"
+    },
+    {
+      "goals": 4,
+      "playerKey": "moussa-ma-zou",
+      "scorer": "Moussa Maâzou"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mahamane-ciss",
+      "scorer": "Mahamane Cissé"
+    },
+    {
+      "goals": 3,
+      "playerKey": "youssouf-oumarou",
+      "scorer": "Youssouf Oumarou"
+    },
+    {
+      "goals": 2,
+      "playerKey": "alhassane-issoufou",
+      "scorer": "Alhassane Issoufou"
+    },
+    {
+      "goals": 2,
+      "playerKey": "issa-djibrilla",
+      "scorer": "Issa Djibrilla"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kamilou-daouda",
+      "scorer": "Kamilou Daouda"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohamed-wonkoye",
+      "scorer": "Mohamed Wonkoye"
+    },
+    {
+      "goals": 2,
+      "playerKey": "moussa-kanfideni",
+      "scorer": "Moussa Kanfideni"
+    }
+  ]
+}

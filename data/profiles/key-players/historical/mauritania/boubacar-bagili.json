@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2015-10-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-12-07",
+    "nationality": "Mauritania",
+    "playerKey": "boubacar-bagili",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "59609",
+      "soccerway": "419193",
+      "sofascore": "967401",
+      "transfermarkt": "393446",
+      "wikidata": "Q21004925"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-13",
+  "playerKey": "boubacar-bagili",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-mauritania-south-sudan-35201",
+      "matchKey": "2015-10-13-mauritania-south-sudan",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boubacar Bagili"
+    },
+    {
+      "date": "2015-10-07",
+      "goalId": "goal-2015-10-07-south-sudan-mauritania-34956",
+      "matchKey": "2015-10-07-south-sudan-mauritania",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boubacar Bagili"
+    }
+  ],
+  "scorer": "Boubacar Bagili",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mauritania",
+  "teamName": "Mauritania",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

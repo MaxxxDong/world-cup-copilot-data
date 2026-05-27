@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2024-10-10",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1995-07-11",
+    "nationality": "France",
+    "playerKey": "joseph-athale",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c01699ed",
+      "footballdatabase_eu": "291776",
+      "national_football_teams": "63747",
+      "soccerway": "446224",
+      "sofascore": "890701",
+      "transfermarkt": "325938",
+      "wikidata": "Q23771867",
+      "worldfootball": "joseph-athale"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-11-14",
+  "playerKey": "joseph-athale",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-solomon-islands-new-caledonia-45647",
+      "matchKey": "2024-11-14-solomon-islands-new-caledonia",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Joseph Athale"
+    },
+    {
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-solomon-islands-new-caledonia-45644",
+      "matchKey": "2024-11-14-solomon-islands-new-caledonia",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Joseph Athale"
+    },
+    {
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-papua-new-guinea-new-caledonia-45427",
+      "matchKey": "2024-10-10-papua-new-guinea-new-caledonia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Joseph Athale"
+    }
+  ],
+  "scorer": "Joseph Athale",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-caledonia",
+  "teamName": "New Caledonia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

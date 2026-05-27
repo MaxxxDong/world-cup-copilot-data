@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Padania"
+  ],
+  "allTime": {
+    "draws": 8,
+    "goalsAgainst": 36,
+    "goalsFor": 121,
+    "losses": 7,
+    "matches": 45,
+    "wins": 30
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 25,
+      "losses": 3,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 16,
+      "goalsFor": 45,
+      "losses": 4,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "padania",
+      "date": "2019-06-08",
+      "homeScore": 2,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-08-artsakh-padania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sapmi",
+      "date": "2019-06-06",
+      "homeScore": 4,
+      "homeTeamId": "padania",
+      "matchId": "int-2019-06-06-padania-sapmi",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "western-armenia",
+      "date": "2019-06-04",
+      "homeScore": 1,
+      "homeTeamId": "padania",
+      "matchId": "int-2019-06-04-padania-western-armenia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "padania",
+      "date": "2019-06-03",
+      "homeScore": 2,
+      "homeTeamId": "south-ossetia",
+      "matchId": "int-2019-06-03-south-ossetia-padania",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-02",
+      "homeScore": 4,
+      "homeTeamId": "padania",
+      "matchId": "int-2019-06-02-padania-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 8,
+      "goalsAgainst": 33,
+      "goalsFor": 118,
+      "losses": 6,
+      "matches": 43,
+      "wins": 29
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 3,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 28,
+      "goalsFor": 106,
+      "losses": 5,
+      "matches": 36,
+      "wins": 24
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 15,
+      "losses": 2,
+      "matches": 9,
+      "wins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "padania",
+  "teamName": "Padania",
+  "topScorers": []
+}

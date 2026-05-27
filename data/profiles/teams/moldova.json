@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Moldova"
+  ],
+  "allTime": {
+    "draws": 68,
+    "goalsAgainst": 519,
+    "goalsFor": 240,
+    "losses": 171,
+    "matches": 297,
+    "wins": 58
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 33,
+      "goalsFor": 6,
+      "losses": 9,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 49,
+      "goalsFor": 18,
+      "losses": 13,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "moldova",
+      "date": "2026-03-30",
+      "homeScore": 3,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2026-03-30-cyprus-moldova",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "lithuania",
+      "date": "2026-03-26",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2026-03-26-moldova-lithuania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "israel",
+      "date": "2025-11-16",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2025-11-16-moldova-israel",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "italy",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2025-11-13-moldova-italy",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2025-10-14-estonia-moldova",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 33,
+      "goalsAgainst": 364,
+      "goalsFor": 144,
+      "losses": 121,
+      "matches": 188,
+      "wins": 34
+    },
+    "friendly": {
+      "draws": 35,
+      "goalsAgainst": 155,
+      "goalsFor": 96,
+      "losses": 50,
+      "matches": 109,
+      "wins": 24
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 51,
+      "goalsFor": 45,
+      "losses": 19,
+      "matches": 41,
+      "wins": 12
+    },
+    "nonNeutralVenue": {
+      "draws": 58,
+      "goalsAgainst": 468,
+      "goalsFor": 195,
+      "losses": 152,
+      "matches": 256,
+      "wins": 46
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "moldova",
+  "teamName": "Moldova",
+  "topScorers": [
+    {
+      "goals": 16,
+      "playerKey": "ion-nicolaescu",
+      "scorer": "Ion Nicolaescu"
+    },
+    {
+      "goals": 6,
+      "playerKey": "viorel-frunz",
+      "scorer": "Viorel Frunză"
+    },
+    {
+      "goals": 5,
+      "playerKey": "alexandru-suvorov",
+      "scorer": "Alexandru Suvorov"
+    },
+    {
+      "goals": 5,
+      "playerKey": "igor-bugaiov",
+      "scorer": "Igor Bugaiov"
+    },
+    {
+      "goals": 5,
+      "playerKey": "serghei-cle-cenco",
+      "scorer": "Serghei Cleșcenco"
+    },
+    {
+      "goals": 5,
+      "playerKey": "serghei-rogaciov",
+      "scorer": "Serghei Rogaciov"
+    },
+    {
+      "goals": 4,
+      "playerKey": "eugen-sidorenco",
+      "scorer": "Eugen Sidorenco"
+    },
+    {
+      "goals": 4,
+      "playerKey": "radu-g-nsari",
+      "scorer": "Radu Gînsari"
+    },
+    {
+      "goals": 3,
+      "playerKey": "alexandru-epureanu",
+      "scorer": "Alexandru Epureanu"
+    },
+    {
+      "goals": 3,
+      "playerKey": "igor-arma",
+      "scorer": "Igor Armaș"
+    }
+  ]
+}

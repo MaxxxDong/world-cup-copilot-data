@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2001-04-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1974-01-19",
+    "nationality": "Jordan",
+    "playerKey": "badran-al-shagran",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "81328813",
+      "footballdatabase_eu": "6006",
+      "national_football_teams": "3489",
+      "soccerway": "81638",
+      "transfermarkt": "273665",
+      "wikidata": "Q4841113"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-10-13",
+  "playerKey": "badran-al-shagran",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-laos-jordan-24717",
+      "matchKey": "2004-10-13-laos-jordan",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badran Al-Shagran"
+    },
+    {
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-laos-jordan-24716",
+      "matchKey": "2004-10-13-laos-jordan",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badran Al-Shagran"
+    },
+    {
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-jordan-laos-23388",
+      "matchKey": "2004-02-18-jordan-laos",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badran Al-Shagran"
+    },
+    {
+      "date": "2001-05-03",
+      "goalId": "goal-2001-05-03-jordan-taiwan-21035",
+      "matchKey": "2001-05-03-jordan-taiwan",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badran Al-Shagran"
+    },
+    {
+      "date": "2001-04-27",
+      "goalId": "goal-2001-04-27-uzbekistan-jordan-20999",
+      "matchKey": "2001-04-27-uzbekistan-jordan",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Badran Al-Shagran"
+    }
+  ],
+  "scorer": "Badran Al-Shagran",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "jordan",
+  "teamName": "Jordan",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

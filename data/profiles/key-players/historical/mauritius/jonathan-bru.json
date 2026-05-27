@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2015-10-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1985-05-02",
+    "nationality": "Mauritius",
+    "playerKey": "jonathan-bru",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "9297b753",
+      "footballdatabase_eu": "7485",
+      "kicker": "jonathan-bru",
+      "national_football_teams": "39909",
+      "soccerway": "90336",
+      "sofascore": "78785",
+      "transfermarkt": "18910",
+      "wikidata": "Q937776"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-07",
+  "playerKey": "jonathan-bru",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-07",
+      "goalId": "goal-2015-10-07-mauritius-kenya-34952",
+      "matchKey": "2015-10-07-mauritius-kenya",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Bru"
+    }
+  ],
+  "scorer": "Jonathan Bru",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mauritius",
+  "teamName": "Mauritius",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

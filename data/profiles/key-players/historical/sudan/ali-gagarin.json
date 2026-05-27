@@ -1,0 +1,101 @@
+{
+  "firstGoalDate": "1969-05-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 6,
+  "identity": {
+    "dateOfBirth": "1949-04-01",
+    "nationality": "Sudan",
+    "playerKey": "ali-gagarin",
+    "position": "forward",
+    "providerIds": {
+      "national_football_teams": "69803",
+      "transfermarkt": "760667",
+      "wikidata": "Q2165909"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1976-03-06",
+  "playerKey": "ali-gagarin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1976-03-06",
+      "goalId": "goal-1976-03-06-sudan-dr-congo-7468",
+      "matchKey": "1976-03-06-sudan-dr-congo",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "date": "1976-03-01",
+      "goalId": "goal-1976-03-01-mar-sudan-7444",
+      "matchKey": "1976-03-01-mar-sudan",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "date": "1976-03-01",
+      "goalId": "goal-1976-03-01-mar-sudan-7442",
+      "matchKey": "1976-03-01-mar-sudan",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "date": "1970-02-06",
+      "goalId": "goal-1970-02-06-sudan-ethiopia-5794",
+      "matchKey": "1970-02-06-sudan-ethiopia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "date": "1969-05-11",
+      "goalId": "goal-1969-05-11-sudan-ethiopia-5454",
+      "matchKey": "1969-05-11-sudan-ethiopia",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Gagarin"
+    },
+    {
+      "date": "1969-05-11",
+      "goalId": "goal-1969-05-11-sudan-ethiopia-5453",
+      "matchKey": "1969-05-11-sudan-ethiopia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Gagarin"
+    }
+  ],
+  "scorer": "Ali Gagarin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sudan",
+  "teamName": "Sudan",
+  "tournaments": [
+    {
+      "goals": 6,
+      "tournament": "unknown"
+    }
+  ]
+}

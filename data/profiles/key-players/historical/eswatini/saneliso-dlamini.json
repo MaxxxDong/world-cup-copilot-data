@@ -1,0 +1,57 @@
+{
+  "firstGoalDate": "2015-10-09",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-02-16",
+    "playerKey": "saneliso-dlamini",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "590237bf",
+      "footballdatabase_eu": "270639",
+      "national_football_teams": "61376",
+      "wikidata": "Q28800470",
+      "worldfootball": "saneliso-dlamini"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-09",
+  "playerKey": "saneliso-dlamini",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-djibouti-eswatini-35030",
+      "matchKey": "2015-10-09-djibouti-eswatini",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saneliso Dlamini"
+    }
+  ],
+  "scorer": "Saneliso Dlamini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "eswatini",
+  "teamName": "Eswatini",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

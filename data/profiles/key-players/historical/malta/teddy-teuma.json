@@ -1,0 +1,93 @@
+{
+  "firstGoalDate": "2022-09-23",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1993-09-30",
+    "nationality": "Nigeria",
+    "playerKey": "teddy-teuma",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "8966",
+      "espn": "232231",
+      "eu_football_info": "30961",
+      "fbref": "5c26ca51",
+      "footballdatabase_eu": "161169",
+      "heimspiel": "435585",
+      "impect": "44484",
+      "kicker": "teddy-teuma",
+      "lequipe": "57118",
+      "national_football_teams": "79197",
+      "opta": "6xam5bquregefbepxd9rwfdh",
+      "skillcorner": "18476",
+      "soccerbase": "105765",
+      "soccerway": "231415",
+      "sofascore": "829643",
+      "sofifa": "400056440",
+      "thesportsdb": "34200049",
+      "transfermarkt": "409153",
+      "uefa": "250143450",
+      "wikidata": "Q56043334",
+      "worldfootball": "teddy-teuma",
+      "wyscout": "144895"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-11-17",
+  "playerKey": "teddy-teuma",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-11-17",
+      "goalId": "goal-2025-11-17-malta-poland-47365",
+      "matchKey": "2025-11-17-malta-poland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma"
+    },
+    {
+      "date": "2024-10-13",
+      "goalId": "goal-2024-10-13-malta-moldova-45504",
+      "matchKey": "2024-10-13-malta-moldova",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma"
+    },
+    {
+      "date": "2022-09-23",
+      "goalId": "goal-2022-09-23-estonia-malta-42780",
+      "matchKey": "2022-09-23-estonia-malta",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teddy Teuma"
+    }
+  ],
+  "scorer": "Teddy Teuma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malta",
+  "teamName": "Malta",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

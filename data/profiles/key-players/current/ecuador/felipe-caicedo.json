@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 17,
+  "identity": {
+    "dateOfBirth": "1988-09-05",
+    "nationality": "Ecuador",
+    "playerKey": "felipe-caicedo",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "225374",
+      "api_football": "1861",
+      "capology": "felipe-caicedo-32391",
+      "espn": "98025",
+      "fbref": "93b891d1",
+      "footballdatabase_eu": "17602",
+      "heimspiel": "8013",
+      "hugman": "22477",
+      "impect": "7218",
+      "kicker": "felipe-caicedo",
+      "national_football_teams": "13288",
+      "opta": "bvmo38wfbtnrk5hdbxgczkzpx",
+      "premier_league": "3440",
+      "skillcorner": "3355",
+      "soccerbase": "45227",
+      "soccerway": "23232",
+      "sofascore": "18841",
+      "sofifa": "228715",
+      "statmuse_pl": "1938",
+      "thesportsdb": "34149423",
+      "transfermarkt": "37834",
+      "uefa": "1904971",
+      "wikidata": "Q351473",
+      "worldfootball": "felipe-caicedo",
+      "wyscout": "101635"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Felipe Caicedo",
+  "playerKey": "felipe-caicedo",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2017-03-23",
+      "goalId": "goal-2017-03-23-paraguay-ecuador-36627",
+      "matchKey": "2017-03-23-paraguay-ecuador",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2016-11-10",
+      "goalId": "goal-2016-11-10-uruguay-ecuador-36395",
+      "matchKey": "2016-11-10-uruguay-ecuador",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2016-10-06",
+      "goalId": "goal-2016-10-06-ecuador-chile-36153",
+      "matchKey": "2016-10-06-ecuador-chile",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-venezuela-ecuador-35538",
+      "matchKey": "2015-11-17-venezuela-ecuador",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-ecuador-uruguay-35297",
+      "matchKey": "2015-11-12-ecuador-uruguay",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-ecuador-bolivia-35179",
+      "matchKey": "2015-10-13-ecuador-bolivia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-arg-ecuador-34963",
+      "matchKey": "2015-10-08-arg-ecuador",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-chile-ecuador-33439",
+      "matchKey": "2013-10-15-chile-ecuador",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-bolivia-ecuador-33242",
+      "matchKey": "2013-09-10-bolivia-ecuador",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Felipe Caicedo"
+    },
+    {
+      "date": "2013-03-26",
+      "goalId": "goal-2013-03-26-ecuador-paraguay-32698",
+      "matchKey": "2013-03-26-ecuador-paraguay",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Caicedo"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/ecuador"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "ecuador",
+  "teamName": "Ecuador"
+}

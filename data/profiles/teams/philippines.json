@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Philippines"
+  ],
+  "allTime": {
+    "draws": 54,
+    "goalsAgainst": 777,
+    "goalsFor": 403,
+    "losses": 195,
+    "matches": 340,
+    "wins": 91
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 11,
+      "goalsFor": 21,
+      "losses": 1,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 31,
+      "goalsFor": 30,
+      "losses": 8,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 15,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "philippines",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-2025-11-18-maldives-philippines",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "timor-leste",
+      "date": "2025-10-14",
+      "homeScore": 3,
+      "homeTeamId": "philippines",
+      "matchId": "int-2025-10-14-philippines-timor-leste",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "philippines",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "timor-leste",
+      "matchId": "int-2025-10-09-timor-leste-philippines",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "tajikistan",
+      "date": "2025-06-10",
+      "homeScore": 2,
+      "homeTeamId": "philippines",
+      "matchId": "int-2025-06-10-philippines-tajikistan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2025-03-25",
+      "homeScore": 4,
+      "homeTeamId": "philippines",
+      "matchId": "int-2025-03-25-philippines-maldives",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 42,
+      "goalsAgainst": 647,
+      "goalsFor": 314,
+      "losses": 156,
+      "matches": 267,
+      "wins": 69
+    },
+    "friendly": {
+      "draws": 12,
+      "goalsAgainst": 130,
+      "goalsFor": 89,
+      "losses": 39,
+      "matches": 73,
+      "wins": 22
+    },
+    "neutralVenue": {
+      "draws": 19,
+      "goalsAgainst": 356,
+      "goalsFor": 147,
+      "losses": 85,
+      "matches": 139,
+      "wins": 35
+    },
+    "nonNeutralVenue": {
+      "draws": 35,
+      "goalsAgainst": 421,
+      "goalsFor": 256,
+      "losses": 110,
+      "matches": 201,
+      "wins": 56
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "philippines",
+  "teamName": "Philippines",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "ngel-guirado",
+      "scorer": "Ángel Guirado"
+    },
+    {
+      "goals": 4,
+      "playerKey": "stephan-schr-ck",
+      "scorer": "Stephan Schröck"
+    },
+    {
+      "goals": 3,
+      "playerKey": "iain-ramsay",
+      "scorer": "Iain Ramsay"
+    },
+    {
+      "goals": 3,
+      "playerKey": "misagh-bahadoran",
+      "scorer": "Misagh Bahadoran"
+    },
+    {
+      "goals": 3,
+      "playerKey": "patrick-reichelt",
+      "scorer": "Patrick Reichelt"
+    },
+    {
+      "goals": 2,
+      "playerKey": "javier-pati-o",
+      "scorer": "Javier Patiño"
+    },
+    {
+      "goals": 2,
+      "playerKey": "john-patrick-strau",
+      "scorer": "John-Patrick Strauß"
+    },
+    {
+      "goals": 2,
+      "playerKey": "phil-younghusband",
+      "scorer": "Phil Younghusband"
+    },
+    {
+      "goals": 1,
+      "playerKey": "emelio-caligdong",
+      "scorer": "Emelio Caligdong"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jimmy-do-a",
+      "scorer": "Jimmy Doña"
+    }
+  ]
+}

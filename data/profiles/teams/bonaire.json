@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Bonaire"
+  ],
+  "allTime": {
+    "draws": 6,
+    "goalsAgainst": 107,
+    "goalsFor": 63,
+    "losses": 23,
+    "matches": 43,
+    "wins": 14
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 22,
+      "goalsFor": 9,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 38,
+      "goalsFor": 23,
+      "losses": 12,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 15,
+      "goalsFor": 6,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-martin",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2026-03-29-bonaire-saint-martin",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2026-03-26-bonaire-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "guyana",
+      "matchId": "int-2025-11-15-guyana-bonaire",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bonaire",
+      "date": "2025-11-12",
+      "homeScore": 3,
+      "homeTeamId": "barbados",
+      "matchId": "int-2025-11-12-barbados-bonaire",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bonaire",
+      "date": "2025-03-25",
+      "homeScore": 6,
+      "homeTeamId": "niger",
+      "matchId": "int-2025-03-25-niger-bonaire",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 5,
+      "goalsAgainst": 100,
+      "goalsFor": 62,
+      "losses": 22,
+      "matches": 41,
+      "wins": 14
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 1,
+      "losses": 1,
+      "matches": 2,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 5,
+      "goalsAgainst": 85,
+      "goalsFor": 44,
+      "losses": 15,
+      "matches": 29,
+      "wins": 9
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 22,
+      "goalsFor": 19,
+      "losses": 8,
+      "matches": 14,
+      "wins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bonaire",
+  "teamName": "Bonaire",
+  "topScorers": []
+}

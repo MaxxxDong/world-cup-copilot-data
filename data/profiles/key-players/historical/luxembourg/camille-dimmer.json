@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "1961-09-28",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1939-04-20",
+    "nationality": "Luxembourg",
+    "playerKey": "camille-dimmer",
+    "providerIds": {
+      "eu_football_info": "4761",
+      "footballdatabase_eu": "103944",
+      "national_football_teams": "60938",
+      "transfermarkt": "172481",
+      "uefa": "36894",
+      "wikidata": "Q2934921",
+      "worldfootball": "camille-dimmer"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1963-10-30",
+  "playerKey": "camille-dimmer",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1963-10-30",
+      "goalId": "goal-1963-10-30-netherlands-luxembourg-4035",
+      "matchKey": "1963-10-30-netherlands-luxembourg",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Camille Dimmer"
+    },
+    {
+      "date": "1963-10-30",
+      "goalId": "goal-1963-10-30-netherlands-luxembourg-4033",
+      "matchKey": "1963-10-30-netherlands-luxembourg",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Camille Dimmer"
+    },
+    {
+      "date": "1961-09-28",
+      "goalId": "goal-1961-09-28-england-luxembourg-3544",
+      "matchKey": "1961-09-28-england-luxembourg",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Camille Dimmer"
+    }
+  ],
+  "scorer": "Camille Dimmer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

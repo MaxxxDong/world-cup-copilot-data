@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2021-06-03",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1995-11-30",
+    "nationality": "Bahrain",
+    "playerKey": "ali-madan",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "53875",
+      "espn": "249076",
+      "fbref": "10df20e1",
+      "footballdatabase_eu": "321371",
+      "impect": "79776",
+      "kicker": "ali-madan",
+      "national_football_teams": "65094",
+      "skillcorner": "163383",
+      "soccerway": "320903",
+      "sofascore": "913380",
+      "thesportsdb": "34236565",
+      "transfermarkt": "467521",
+      "wikidata": "Q28063934",
+      "worldfootball": "ali-madan",
+      "wyscout": "290113"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-21",
+  "playerKey": "ali-madan",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-bahrain-nepal-44450",
+      "matchKey": "2024-03-21-bahrain-nepal",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Madan"
+    },
+    {
+      "date": "2024-01-20",
+      "goalId": "goal-2024-01-20-bahrain-malaysia-44294",
+      "matchKey": "2024-01-20-bahrain-malaysia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Madan"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-bahrain-cambodia-40473",
+      "matchKey": "2021-06-03-bahrain-cambodia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Madan"
+    },
+    {
+      "date": "2021-06-03",
+      "goalId": "goal-2021-06-03-bahrain-cambodia-40471",
+      "matchKey": "2021-06-03-bahrain-cambodia",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Madan"
+    }
+  ],
+  "scorer": "Ali Madan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bahrain",
+  "teamName": "Bahrain",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

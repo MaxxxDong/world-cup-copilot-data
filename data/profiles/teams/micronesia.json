@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Micronesia"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 59,
+    "goalsFor": 8,
+    "losses": 6,
+    "matches": 7,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 59,
+      "goalsFor": 8,
+      "losses": 6,
+      "matches": 7,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 59,
+      "goalsFor": 8,
+      "losses": 6,
+      "matches": 7,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 52,
+      "goalsFor": 7,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "micronesia",
+      "date": "2003-07-07",
+      "homeScore": 10,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2003-07-07-papua-new-guinea-micronesia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "micronesia",
+      "date": "2003-07-05",
+      "homeScore": 7,
+      "homeTeamId": "tonga",
+      "matchId": "int-2003-07-05-tonga-micronesia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 18,
+      "awayTeamId": "new-caledonia",
+      "date": "2003-07-01",
+      "homeScore": 0,
+      "homeTeamId": "micronesia",
+      "matchId": "int-2003-07-01-micronesia-new-caledonia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "micronesia",
+      "date": "2003-06-30",
+      "homeScore": 17,
+      "homeTeamId": "tahiti",
+      "matchId": "int-2003-06-30-tahiti-micronesia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-mariana-islands",
+      "date": "1999-07-12",
+      "homeScore": 7,
+      "homeTeamId": "micronesia",
+      "matchId": "int-1999-07-12-micronesia-northern-mariana-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 52,
+      "goalsFor": 0,
+      "losses": 4,
+      "matches": 4,
+      "wins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 3,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 52,
+      "goalsFor": 0,
+      "losses": 4,
+      "matches": 4,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 3,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "micronesia",
+  "teamName": "Micronesia",
+  "topScorers": []
+}

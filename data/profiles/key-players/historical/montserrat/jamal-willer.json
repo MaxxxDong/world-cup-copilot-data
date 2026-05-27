@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2015-03-31",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-03-16",
+    "playerKey": "jamal-willer",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "1ad2fbb1",
+      "footballdatabase_eu": "251271",
+      "national_football_teams": "55619",
+      "soccerbase": "361493",
+      "transfermarkt": "326942",
+      "wikidata": "Q20128186"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-03-31",
+  "playerKey": "jamal-willer",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-03-31",
+      "goalId": "goal-2015-03-31-montserrat-curacao-34331",
+      "matchKey": "2015-03-31-montserrat-curacao",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamal Willer"
+    }
+  ],
+  "scorer": "Jamal Willer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

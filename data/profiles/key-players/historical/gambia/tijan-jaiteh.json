@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2008-06-14",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1988-12-31",
+    "nationality": "The Gambia",
+    "playerKey": "tijan-jaiteh",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "f2cca74a",
+      "footballdatabase_eu": "23489",
+      "national_football_teams": "26388",
+      "opta": "8catvs4ff4tiglsg3zks0z1zp",
+      "soccerway": "7487",
+      "sofifa": "235154",
+      "transfermarkt": "48927",
+      "wikidata": "Q541097",
+      "worldfootball": "tijan-jaiteh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "tijan-jaiteh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-senegal-gambia-28656",
+      "matchKey": "2008-10-11-senegal-gambia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tijan Jaiteh"
+    },
+    {
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-gambia-algeria-27961",
+      "matchKey": "2008-06-14-gambia-algeria",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tijan Jaiteh"
+    }
+  ],
+  "scorer": "Tijan Jaiteh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gambia",
+  "teamName": "Gambia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 19,
+  "identity": {
+    "dateOfBirth": "1953-02-14",
+    "nationality": "Austria",
+    "playerKey": "hans-krankl",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "665424a6",
+      "footballdatabase_eu": "16460",
+      "kicker": "hans-krankl",
+      "national_football_teams": "19483",
+      "sofifa": "52483",
+      "transfermarkt": "78388",
+      "uefa": "37260",
+      "wikidata": "Q131529",
+      "worldfootball": "hans-krankl"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Hans Krankl",
+  "playerKey": "hans-krankl",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1982-06-21",
+      "goalId": "goal-1982-06-21-algeria-austria-9738",
+      "matchKey": "1982-06-21-algeria-austria",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1981-06-17",
+      "goalId": "goal-1981-06-17-austria-finland-9362",
+      "matchKey": "1981-06-17-austria-finland",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1981-05-28",
+      "goalId": "goal-1981-05-28-austria-bulgaria-9326",
+      "matchKey": "1981-05-28-austria-bulgaria",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1980-11-15",
+      "goalId": "goal-1980-11-15-austria-albania-9070",
+      "matchKey": "1980-11-15-austria-albania",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1979-10-17",
+      "goalId": "goal-1979-10-17-scotland-austria-8618",
+      "matchKey": "1979-10-17-scotland-austria",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1979-08-29",
+      "goalId": "goal-1979-08-29-austria-norway-8532",
+      "matchKey": "1979-08-29-austria-norway",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1979-03-28",
+      "goalId": "goal-1979-03-28-belgium-austria-8444",
+      "matchKey": "1979-03-28-belgium-austria",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1978-08-30",
+      "goalId": "goal-1978-08-30-norway-austria-8323",
+      "matchKey": "1978-08-30-norway-austria",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1978-06-21",
+      "goalId": "goal-1978-06-21-austria-germany-8307",
+      "matchKey": "1978-06-21-austria-germany",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    },
+    {
+      "date": "1978-06-21",
+      "goalId": "goal-1978-06-21-austria-germany-8305",
+      "matchKey": "1978-06-21-austria-germany",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Krankl"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/austria"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "austria",
+  "teamName": "Austria"
+}

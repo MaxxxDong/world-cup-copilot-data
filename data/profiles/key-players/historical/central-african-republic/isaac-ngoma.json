@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2021-11-13",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2002-12-09",
+    "nationality": "Central African Republic",
+    "playerKey": "isaac-ngoma",
+    "providerIds": {
+      "impect": "243941",
+      "national_football_teams": "82902",
+      "soccerway": "690518",
+      "sofascore": "1103439",
+      "transfermarkt": "863954",
+      "wikidata": "Q109590359"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-11-16",
+  "playerKey": "isaac-ngoma",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-liberia-central-african-republic-42108",
+      "matchKey": "2021-11-16-liberia-central-african-republic",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isaac Ngoma"
+    },
+    {
+      "date": "2021-11-13",
+      "goalId": "goal-2021-11-13-cape-verde-central-african-republic-41945",
+      "matchKey": "2021-11-13-cape-verde-central-african-republic",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Isaac Ngoma"
+    }
+  ],
+  "scorer": "Isaac Ngoma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "central-african-republic",
+  "teamName": "Central African Republic",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

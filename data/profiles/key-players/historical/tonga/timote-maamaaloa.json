@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2011-11-26",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1989-06-17",
+    "nationality": "Tonga",
+    "playerKey": "timote-maamaaloa",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "d79dee1c",
+      "footballdatabase_eu": "245482",
+      "national_football_teams": "45772",
+      "soccerway": "219274",
+      "sofifa": "351596",
+      "transfermarkt": "208207",
+      "wikidata": "Q646251",
+      "worldfootball": "timote-maamaloa"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-26",
+  "playerKey": "timote-maamaaloa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-26",
+      "goalId": "goal-2011-11-26-tonga-cook-islands-31596",
+      "matchKey": "2011-11-26-tonga-cook-islands",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Timote Maamaaloa"
+    }
+  ],
+  "scorer": "Timote Maamaaloa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tonga",
+  "teamName": "Tonga",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

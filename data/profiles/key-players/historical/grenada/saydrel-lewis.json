@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2021-03-30",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1997-11-27",
+    "playerKey": "saydrel-lewis",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "6658bd5b",
+      "footballdatabase_eu": "321431",
+      "kicker": "saydrel-lewis",
+      "national_football_teams": "67955",
+      "soccerway": "482032",
+      "transfermarkt": "506871",
+      "wikidata": "Q30037895"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-04",
+  "playerKey": "saydrel-lewis",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-grenada-bahamas-46223",
+      "matchKey": "2025-06-04-grenada-bahamas",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saydrel Lewis"
+    },
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-grenada-montserrat-40665",
+      "matchKey": "2021-06-08-grenada-montserrat",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saydrel Lewis"
+    },
+    {
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-grenada-united-states-virgin-islands-40337",
+      "matchKey": "2021-03-30-grenada-united-states-virgin-islands",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saydrel Lewis"
+    }
+  ],
+  "scorer": "Saydrel Lewis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "grenada",
+  "teamName": "Grenada",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

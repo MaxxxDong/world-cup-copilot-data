@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 15,
+  "identity": {
+    "dateOfBirth": "1913-09-14",
+    "nationality": "Uruguay",
+    "playerKey": "severino-varela",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "209793",
+      "national_football_teams": "33714",
+      "wikidata": "Q928447"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Severino Varela",
+  "playerKey": "severino-varela",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "1942-01-28",
+      "goalId": "goal-1942-01-28-uruguay-paraguay-1302",
+      "matchKey": "1942-01-28-uruguay-paraguay",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1942-01-24",
+      "goalId": "goal-1942-01-24-uruguay-bra-1290",
+      "matchKey": "1942-01-24-uruguay-bra",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1942-01-18",
+      "goalId": "goal-1942-01-18-uruguay-ecuador-1271",
+      "matchKey": "1942-01-18-uruguay-ecuador",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1942-01-18",
+      "goalId": "goal-1942-01-18-uruguay-ecuador-1270",
+      "matchKey": "1942-01-18-uruguay-ecuador",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1942-01-18",
+      "goalId": "goal-1942-01-18-uruguay-ecuador-1268",
+      "matchKey": "1942-01-18-uruguay-ecuador",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1939-02-05",
+      "goalId": "goal-1939-02-05-paraguay-uruguay-1198",
+      "matchKey": "1939-02-05-paraguay-uruguay",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1939-01-29",
+      "goalId": "goal-1939-01-29-chile-uruguay-1185",
+      "matchKey": "1939-01-29-chile-uruguay",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1939-01-22",
+      "goalId": "goal-1939-01-22-ecuador-uruguay-1179",
+      "matchKey": "1939-01-22-ecuador-uruguay",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1939-01-22",
+      "goalId": "goal-1939-01-22-ecuador-uruguay-1176",
+      "matchKey": "1939-01-22-ecuador-uruguay",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    },
+    {
+      "date": "1939-01-22",
+      "goalId": "goal-1939-01-22-ecuador-uruguay-1175",
+      "matchKey": "1939-01-22-ecuador-uruguay",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Severino Varela"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/uruguay"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "uruguay",
+  "teamName": "Uruguay"
+}

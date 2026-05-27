@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Yugoslavia"
+  ],
+  "allTime": {
+    "draws": 98,
+    "goalsAgainst": 756,
+    "goalsFor": 942,
+    "losses": 162,
+    "matches": 483,
+    "wins": 223
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 13,
+      "goalsFor": 21,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 22,
+      "goalsFor": 37,
+      "losses": 6,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "yugoslavia",
+      "date": "1992-03-25",
+      "homeScore": 2,
+      "homeTeamId": "netherlands",
+      "matchId": "int-1992-03-25-netherlands-yugoslavia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yugoslavia",
+      "date": "1991-11-13",
+      "homeScore": 0,
+      "homeTeamId": "austria",
+      "matchId": "int-1991-11-13-austria-yugoslavia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "yugoslavia",
+      "date": "1991-10-30",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1991-10-30-bra-yugoslavia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yugoslavia",
+      "date": "1991-10-16",
+      "homeScore": 0,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-1991-10-16-faroe-islands-yugoslavia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "yugoslavia",
+      "date": "1991-09-04",
+      "homeScore": 4,
+      "homeTeamId": "sweden",
+      "matchId": "int-1991-09-04-sweden-yugoslavia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 42,
+      "goalsAgainst": 288,
+      "goalsFor": 446,
+      "losses": 63,
+      "matches": 223,
+      "wins": 118
+    },
+    "friendly": {
+      "draws": 56,
+      "goalsAgainst": 468,
+      "goalsFor": 496,
+      "losses": 99,
+      "matches": 260,
+      "wins": 105
+    },
+    "neutralVenue": {
+      "draws": 11,
+      "goalsAgainst": 89,
+      "goalsFor": 125,
+      "losses": 18,
+      "matches": 62,
+      "wins": 33
+    },
+    "nonNeutralVenue": {
+      "draws": 87,
+      "goalsAgainst": 667,
+      "goalsFor": 817,
+      "losses": 144,
+      "matches": 421,
+      "wins": 190
+    },
+    "worldCup": {
+      "draws": 7,
+      "goalsAgainst": 42,
+      "goalsFor": 55,
+      "losses": 12,
+      "matches": 33,
+      "wins": 14
+    }
+  },
+  "teamId": "yugoslavia",
+  "teamName": "Yugoslavia",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "zlatko-vujovi",
+      "scorer": "Zlatko Vujović"
+    },
+    {
+      "goals": 17,
+      "playerKey": "milan-gali",
+      "scorer": "Milan Galić"
+    },
+    {
+      "goals": 15,
+      "playerKey": "dragan-d-aji",
+      "scorer": "Dragan Džajić"
+    },
+    {
+      "goals": 13,
+      "playerKey": "darko-pan-ev",
+      "scorer": "Darko Pančev"
+    },
+    {
+      "goals": 9,
+      "playerKey": "safet-su-i",
+      "scorer": "Safet Sušić"
+    },
+    {
+      "goals": 8,
+      "playerKey": "dra-an-jerkovi",
+      "scorer": "Dražan Jerković"
+    },
+    {
+      "goals": 8,
+      "playerKey": "ivica-urjak",
+      "scorer": "Ivica Šurjak"
+    },
+    {
+      "goals": 7,
+      "playerKey": "josip-katalinski",
+      "scorer": "Josip Katalinski"
+    },
+    {
+      "goals": 7,
+      "playerKey": "slaven-zambata",
+      "scorer": "Slaven Zambata"
+    },
+    {
+      "goals": 6,
+      "playerKey": "dejan-savi-evi",
+      "scorer": "Dejan Savićević"
+    }
+  ]
+}

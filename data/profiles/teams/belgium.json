@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Belgium",
+    "BEL",
+    "Red Devils"
+  ],
+  "allTime": {
+    "draws": 181,
+    "goalsAgainst": 1290,
+    "goalsFor": 1543,
+    "losses": 290,
+    "matches": 851,
+    "wins": 380
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "BEL",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 10,
+      "goalsFor": 35,
+      "losses": 0,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 23,
+      "goalsFor": 45,
+      "losses": 6,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 18,
+      "losses": 0,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "belgium",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-2026-03-31-mex-belgium",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "belgium",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2026-03-28-usa-belgium",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liechtenstein",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "belgium",
+      "matchId": "int-2025-11-18-belgium-liechtenstein",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belgium",
+      "date": "2025-11-15",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2025-11-15-kazakhstan-belgium",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "belgium",
+      "date": "2025-10-13",
+      "homeScore": 2,
+      "homeTeamId": "wales",
+      "matchId": "int-2025-10-13-wales-belgium",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 78,
+      "goalsAgainst": 452,
+      "goalsFor": 751,
+      "losses": 109,
+      "matches": 393,
+      "wins": 206
+    },
+    "friendly": {
+      "draws": 103,
+      "goalsAgainst": 838,
+      "goalsFor": 792,
+      "losses": 181,
+      "matches": 458,
+      "wins": 174
+    },
+    "neutralVenue": {
+      "draws": 17,
+      "goalsAgainst": 128,
+      "goalsFor": 143,
+      "losses": 34,
+      "matches": 90,
+      "wins": 39
+    },
+    "nonNeutralVenue": {
+      "draws": 164,
+      "goalsAgainst": 1162,
+      "goalsFor": 1400,
+      "losses": 256,
+      "matches": 761,
+      "wins": 341
+    },
+    "worldCup": {
+      "draws": 10,
+      "goalsAgainst": 74,
+      "goalsFor": 69,
+      "losses": 20,
+      "matches": 51,
+      "wins": 21
+    }
+  },
+  "teamId": "belgium",
+  "teamName": "Belgium",
+  "topScorers": [
+    {
+      "goals": 64,
+      "playerKey": "romelu-lukaku",
+      "scorer": "Romelu Lukaku"
+    },
+    {
+      "goals": 30,
+      "playerKey": "kevin-de-bruyne",
+      "scorer": "Kevin De Bruyne"
+    },
+    {
+      "goals": 25,
+      "playerKey": "eden-hazard",
+      "scorer": "Eden Hazard"
+    },
+    {
+      "goals": 18,
+      "playerKey": "marc-wilmots",
+      "scorer": "Marc Wilmots"
+    },
+    {
+      "goals": 17,
+      "playerKey": "michy-batshuayi",
+      "scorer": "Michy Batshuayi"
+    },
+    {
+      "goals": 15,
+      "playerKey": "dries-mertens",
+      "scorer": "Dries Mertens"
+    },
+    {
+      "goals": 15,
+      "playerKey": "erwin-vandenbergh",
+      "scorer": "Erwin Vandenbergh"
+    },
+    {
+      "goals": 15,
+      "playerKey": "jan-ceulemans",
+      "scorer": "Jan Ceulemans"
+    },
+    {
+      "goals": 15,
+      "playerKey": "paul-van-himst",
+      "scorer": "Paul Van Himst"
+    },
+    {
+      "goals": 15,
+      "playerKey": "wesley-sonck",
+      "scorer": "Wesley Sonck"
+    }
+  ]
+}

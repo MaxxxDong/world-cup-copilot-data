@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Estonia"
+  ],
+  "allTime": {
+    "draws": 122,
+    "goalsAgainst": 974,
+    "goalsFor": 542,
+    "losses": 292,
+    "matches": 548,
+    "wins": 134
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 22,
+      "goalsFor": 9,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 37,
+      "goalsFor": 21,
+      "losses": 11,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2026-03-30",
+      "homeScore": 2,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2026-03-30-rwanda-estonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2026-03-27",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-2026-03-27-kenya-estonia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "estonia",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "cyprus",
+      "matchId": "int-2025-11-18-cyprus-estonia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2025-11-13",
+      "homeScore": 4,
+      "homeTeamId": "norway",
+      "matchId": "int-2025-11-13-norway-estonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2025-10-14-estonia-moldova",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 53,
+      "goalsAgainst": 519,
+      "goalsFor": 239,
+      "losses": 167,
+      "matches": 274,
+      "wins": 54
+    },
+    "friendly": {
+      "draws": 69,
+      "goalsAgainst": 455,
+      "goalsFor": 303,
+      "losses": 125,
+      "matches": 274,
+      "wins": 80
+    },
+    "neutralVenue": {
+      "draws": 17,
+      "goalsAgainst": 108,
+      "goalsFor": 60,
+      "losses": 28,
+      "matches": 57,
+      "wins": 12
+    },
+    "nonNeutralVenue": {
+      "draws": 105,
+      "goalsAgainst": 866,
+      "goalsFor": 482,
+      "losses": 264,
+      "matches": 491,
+      "wins": 122
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "estonia",
+  "teamName": "Estonia",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "andres-oper",
+      "scorer": "Andres Oper"
+    },
+    {
+      "goals": 15,
+      "playerKey": "konstantin-vassiljev",
+      "scorer": "Konstantin Vassiljev"
+    },
+    {
+      "goals": 12,
+      "playerKey": "henri-anier",
+      "scorer": "Henri Anier"
+    },
+    {
+      "goals": 11,
+      "playerKey": "mattias-k-it",
+      "scorer": "Mattias Käit"
+    },
+    {
+      "goals": 11,
+      "playerKey": "rauno-sappinen",
+      "scorer": "Rauno Sappinen"
+    },
+    {
+      "goals": 10,
+      "playerKey": "sergei-zenjov",
+      "scorer": "Sergei Zenjov"
+    },
+    {
+      "goals": 9,
+      "playerKey": "martin-reim",
+      "scorer": "Martin Reim"
+    },
+    {
+      "goals": 7,
+      "playerKey": "indrek-zelinski",
+      "scorer": "Indrek Zelinski"
+    },
+    {
+      "goals": 6,
+      "playerKey": "eduard-ellman-eelma",
+      "scorer": "Eduard Ellman-Eelma"
+    },
+    {
+      "goals": 6,
+      "playerKey": "raio-piiroja",
+      "scorer": "Raio Piiroja"
+    }
+  ]
+}

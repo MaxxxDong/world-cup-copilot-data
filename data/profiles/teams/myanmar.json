@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Myanmar"
+  ],
+  "allTime": {
+    "draws": 90,
+    "goalsAgainst": 840,
+    "goalsFor": 814,
+    "losses": 211,
+    "matches": 510,
+    "wins": 209
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 22,
+      "goalsFor": 11,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 53,
+      "goalsFor": 18,
+      "losses": 11,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "syria",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2025-10-14-myanmar-syria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "myanmar",
+      "date": "2025-10-09",
+      "homeScore": 5,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-10-09-syria-myanmar",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "myanmar",
+      "date": "2025-09-09",
+      "homeScore": 1,
+      "homeTeamId": "singapore",
+      "matchId": "int-2025-09-09-singapore-myanmar",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "pakistan",
+      "date": "2025-06-10",
+      "homeScore": 1,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2025-06-10-myanmar-pakistan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "afghanistan",
+      "date": "2025-03-25",
+      "homeScore": 2,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2025-03-25-myanmar-afghanistan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 70,
+      "goalsAgainst": 664,
+      "goalsFor": 713,
+      "losses": 159,
+      "matches": 414,
+      "wins": 185
+    },
+    "friendly": {
+      "draws": 20,
+      "goalsAgainst": 176,
+      "goalsFor": 101,
+      "losses": 52,
+      "matches": 96,
+      "wins": 24
+    },
+    "neutralVenue": {
+      "draws": 47,
+      "goalsAgainst": 442,
+      "goalsFor": 571,
+      "losses": 107,
+      "matches": 297,
+      "wins": 143
+    },
+    "nonNeutralVenue": {
+      "draws": 43,
+      "goalsAgainst": 398,
+      "goalsFor": 243,
+      "losses": 104,
+      "matches": 213,
+      "wins": 66
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "aung-thu",
+      "scorer": "Aung Thu"
+    },
+    {
+      "goals": 3,
+      "playerKey": "suan-lam-mang",
+      "scorer": "Suan Lam Mang"
+    },
+    {
+      "goals": 2,
+      "playerKey": "hla-htay",
+      "scorer": "Hla Htay"
+    },
+    {
+      "goals": 2,
+      "playerKey": "hlaing-bo-bo",
+      "scorer": "Hlaing Bo Bo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "lwin-moe-aung",
+      "scorer": "Lwin Moe Aung"
+    },
+    {
+      "goals": 2,
+      "playerKey": "soe-moe-kyaw",
+      "scorer": "Soe Moe Kyaw"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aung-kaung-mann",
+      "scorer": "Aung Kaung Mann"
+    },
+    {
+      "goals": 1,
+      "playerKey": "aung-khin",
+      "scorer": "Aung Khin"
+    },
+    {
+      "goals": 1,
+      "playerKey": "kyaw-ko-ko",
+      "scorer": "Kyaw Ko Ko"
+    },
+    {
+      "goals": 1,
+      "playerKey": "kyaw-zayar-win",
+      "scorer": "Kyaw Zayar Win"
+    }
+  ]
+}

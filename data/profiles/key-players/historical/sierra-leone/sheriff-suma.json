@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2008-09-06",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-10-12",
+    "nationality": "Sierra Leone",
+    "playerKey": "sheriff-suma",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "95bfd3b1",
+      "footballdatabase_eu": "36561",
+      "kicker": "sheriff-suma",
+      "national_football_teams": "16509",
+      "soccerway": "6122",
+      "sofascore": "8210",
+      "transfermarkt": "36519",
+      "wikidata": "Q2706483",
+      "worldfootball": "sheriff-suma"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-06-08",
+  "playerKey": "sheriff-suma",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-06-08",
+      "goalId": "goal-2013-06-08-sierra-leone-tunisia-32827",
+      "matchKey": "2013-06-08-sierra-leone-tunisia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sheriff Suma"
+    },
+    {
+      "date": "2012-06-02",
+      "goalId": "goal-2012-06-02-sierra-leone-cape-verde-31778",
+      "matchKey": "2012-06-02-sierra-leone-cape-verde",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sheriff Suma"
+    },
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-sierra-leone-equatorial-guinea-28407",
+      "matchKey": "2008-09-06-sierra-leone-equatorial-guinea",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sheriff Suma"
+    }
+  ],
+  "scorer": "Sheriff Suma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

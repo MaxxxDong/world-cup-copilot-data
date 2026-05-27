@@ -1,0 +1,44 @@
+{
+  "firstGoalDate": "1996-03-24",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "lastGoalDate": "1996-03-31",
+  "playerKey": "raymond-davelaar",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-03-31",
+      "goalId": "goal-1996-03-31-aruba-dominican-republic-15863",
+      "matchKey": "1996-03-31-aruba-dominican-republic",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Raymond Davelaar"
+    },
+    {
+      "date": "1996-03-24",
+      "goalId": "goal-1996-03-24-dominican-republic-aruba-15852",
+      "matchKey": "1996-03-24-dominican-republic-aruba",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raymond Davelaar"
+    }
+  ],
+  "scorer": "Raymond Davelaar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "aruba",
+  "teamName": "Aruba",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

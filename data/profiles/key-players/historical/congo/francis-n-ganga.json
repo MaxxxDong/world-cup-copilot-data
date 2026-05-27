@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "2011-11-15",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1985-06-16",
+    "nationality": "Republic of the Congo",
+    "playerKey": "francis-n-ganga",
+    "position": "defender",
+    "providerIds": {
+      "capology": "francis-nganga-31214",
+      "fbref": "1197bd10",
+      "footballdatabase_eu": "13217",
+      "kicker": "francis-nganga",
+      "lequipe": "22405",
+      "national_football_teams": "27544",
+      "opta": "7rcxofpu2fcu9p8llhyqel5g5",
+      "soccerway": "39450",
+      "sofifa": "350969",
+      "transfermarkt": "57196",
+      "wikidata": "Q2722930"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-17",
+  "playerKey": "francis-n-ganga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-congo-ethiopia-35453",
+      "matchKey": "2015-11-17-congo-ethiopia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Francis N'Ganga"
+    },
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-congo-sao-tome-and-principe-31485",
+      "matchKey": "2011-11-15-congo-sao-tome-and-principe",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Francis N'Ganga"
+    }
+  ],
+  "scorer": "Francis N'Ganga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

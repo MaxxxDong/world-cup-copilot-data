@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Lesotho"
+  ],
+  "allTime": {
+    "draws": 93,
+    "goalsAgainst": 465,
+    "goalsFor": 229,
+    "losses": 148,
+    "matches": 295,
+    "wins": 54
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 18,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 30,
+      "goalsFor": 13,
+      "losses": 11,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "malawi",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2025-11-18-lesotho-malawi",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malawi",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2025-11-15-lesotho-malawi",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-10-13",
+      "homeScore": 1,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2025-10-13-lesotho-zimbabwe",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "nigeria",
+      "date": "2025-10-10",
+      "homeScore": 1,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2025-10-10-lesotho-nigeria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lesotho",
+      "date": "2025-09-09",
+      "homeScore": 4,
+      "homeTeamId": "benin",
+      "matchId": "int-2025-09-09-benin-lesotho",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 52,
+      "goalsAgainst": 279,
+      "goalsFor": 134,
+      "losses": 87,
+      "matches": 174,
+      "wins": 35
+    },
+    "friendly": {
+      "draws": 41,
+      "goalsAgainst": 186,
+      "goalsFor": 95,
+      "losses": 61,
+      "matches": 121,
+      "wins": 19
+    },
+    "neutralVenue": {
+      "draws": 17,
+      "goalsAgainst": 113,
+      "goalsFor": 72,
+      "losses": 39,
+      "matches": 76,
+      "wins": 20
+    },
+    "nonNeutralVenue": {
+      "draws": 76,
+      "goalsAgainst": 352,
+      "goalsFor": 157,
+      "losses": 109,
+      "matches": 219,
+      "wins": 34
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "lesotho",
+  "teamName": "Lesotho",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "tsepo-seturumane",
+      "scorer": "Tsepo Seturumane"
+    },
+    {
+      "goals": 2,
+      "playerKey": "hlompho-kalake",
+      "scorer": "Hlompho Kalake"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bokang-mothoana",
+      "scorer": "Bokang Mothoana"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jane-thabantso",
+      "scorer": "Jane Thabantso"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lehlohonolo-fothoane",
+      "scorer": "Lehlohonolo Fothoane"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lehlohonolo-seema",
+      "scorer": "Lehlohonolo Seema"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lehlomela-ramabele",
+      "scorer": "Lehlomela Ramabele"
+    },
+    {
+      "goals": 1,
+      "playerKey": "litsepe-marabe",
+      "scorer": "Litsepe Marabe"
+    },
+    {
+      "goals": 1,
+      "playerKey": "moses-ramafole",
+      "scorer": "Moses Ramafole"
+    },
+    {
+      "goals": 1,
+      "playerKey": "motlomelo-mkwanazi",
+      "scorer": "Motlomelo Mkwanazi"
+    }
+  ]
+}

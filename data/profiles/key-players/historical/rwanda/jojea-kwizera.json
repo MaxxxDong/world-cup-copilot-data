@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1999-01-01",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "jojea-kwizera",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "351495",
+      "capology": "jojea-kwizera-36161",
+      "fbref": "cc61360d",
+      "footballdatabase_eu": "484661",
+      "heimspiel": "829874",
+      "impect": "113746",
+      "kicker": "jojea-kwizera",
+      "opta": "dltmx3e4llkcszs22cbfz92xg",
+      "skillcorner": "149304",
+      "thesportsdb": "34216582",
+      "wikidata": "Q111903460",
+      "wyscout": "667965"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-25",
+  "playerKey": "jojea-kwizera",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-rwanda-lesotho-46195",
+      "matchKey": "2025-03-25-rwanda-lesotho",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jojea Kwizera"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-lesotho-rwanda-44868",
+      "matchKey": "2024-06-11-lesotho-rwanda",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jojea Kwizera"
+    }
+  ],
+  "scorer": "Jojea Kwizera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rwanda",
+  "teamName": "Rwanda",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

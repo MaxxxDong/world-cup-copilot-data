@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 16,
+  "identity": {
+    "dateOfBirth": "1984-03-31",
+    "nationality": "United States",
+    "playerKey": "eddie-johnson",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "49878",
+      "fbref": "3552c7f5",
+      "footballdatabase_eu": "11064",
+      "hugman": "23575",
+      "kicker": "eddie-johnson",
+      "national_football_teams": "8675",
+      "opta": "3pikpwscbdq1pf2e46m4eaqxh",
+      "premier_league": "3399",
+      "soccerbase": "41245",
+      "soccerway": "674",
+      "sofifa": "182537",
+      "statmuse_pl": "1743",
+      "transfermarkt": "38773",
+      "wikidata": "Q376267",
+      "worldfootball": "eddie-johnson_2"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Eddie Johnson",
+  "playerKey": "eddie-johnson",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-usa-mex-33312",
+      "matchKey": "2013-09-10-usa-mex",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2013-07-24",
+      "goalId": "goal-2013-07-24-usa-honduras-33077",
+      "matchKey": "2013-07-24-usa-honduras",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2013-07-21",
+      "goalId": "goal-2013-07-21-usa-el-salvador-33071",
+      "matchKey": "2013-07-21-usa-el-salvador",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2013-06-11",
+      "goalId": "goal-2013-06-11-usa-panama-32884",
+      "matchKey": "2013-06-11-usa-panama",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-antigua-and-barbuda-usa-32241",
+      "matchKey": "2012-10-12-antigua-and-barbuda-usa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-antigua-and-barbuda-usa-32239",
+      "matchKey": "2012-10-12-antigua-and-barbuda-usa",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2008-06-15",
+      "goalId": "goal-2008-06-15-usa-barbados-28081",
+      "matchKey": "2008-06-15-usa-barbados",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2007-06-28",
+      "goalId": "goal-2007-06-28-arg-usa-26789",
+      "matchKey": "2007-06-28-arg-usa",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2007-06-09",
+      "goalId": "goal-2007-06-09-usa-trinidad-and-tobago-26735",
+      "matchKey": "2007-06-09-usa-trinidad-and-tobago",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    },
+    {
+      "date": "2005-03-30",
+      "goalId": "goal-2005-03-30-usa-guatemala-25169",
+      "matchKey": "2005-03-30-usa-guatemala",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eddie Johnson"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/usa"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

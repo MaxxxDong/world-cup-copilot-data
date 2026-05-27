@@ -1,0 +1,55 @@
+{
+  "firstGoalDate": "2000-04-23",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1978-06-13",
+    "nationality": "Equatorial Guinea",
+    "playerKey": "casiano-mba",
+    "providerIds": {
+      "footballdatabase_eu": "412440",
+      "sofifa": "173683",
+      "wikidata": "Q5048786"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-04-23",
+  "playerKey": "casiano-mba",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-congo-equatorial-guinea-19578",
+      "matchKey": "2000-04-23-congo-equatorial-guinea",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Casiano Mba"
+    }
+  ],
+  "scorer": "Casiano Mba",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "equatorial-guinea",
+  "teamName": "Equatorial Guinea",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

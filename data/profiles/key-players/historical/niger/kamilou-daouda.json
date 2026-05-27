@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "2008-09-07",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-12-29",
+    "nationality": "Niger",
+    "playerKey": "kamilou-daouda",
+    "position": "forward",
+    "providerIds": {
+      "espn": "119815",
+      "fbref": "0d597feb",
+      "footballdatabase_eu": "36835",
+      "kicker": "daouda-kamilou",
+      "national_football_teams": "21685",
+      "soccerway": "41200",
+      "sofifa": "297469",
+      "transfermarkt": "85143",
+      "wikidata": "Q366908",
+      "worldfootball": "kamilou-daouda"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-09-07",
+  "playerKey": "kamilou-daouda",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-09-07",
+      "goalId": "goal-2013-09-07-niger-congo-33202",
+      "matchKey": "2013-09-07-niger-congo",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamilou Daouda"
+    },
+    {
+      "date": "2008-09-07",
+      "goalId": "goal-2008-09-07-niger-uganda-28443",
+      "matchKey": "2008-09-07-niger-uganda",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamilou Daouda"
+    }
+  ],
+  "scorer": "Kamilou Daouda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "niger",
+  "teamName": "Niger",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

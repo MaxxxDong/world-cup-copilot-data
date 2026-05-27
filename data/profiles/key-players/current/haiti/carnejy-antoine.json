@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1991-07-27",
+    "nationality": "Haiti",
+    "playerKey": "carnejy-antoine",
+    "providerIds": {
+      "capology": "carnejy-antoine-33446",
+      "fbref": "9e3da47c",
+      "footballdatabase_eu": "179327",
+      "heimspiel": "659691",
+      "impect": "58164",
+      "kicker": "carnejy-antoine",
+      "national_football_teams": "82810",
+      "opta": "5y720qmabg25g9wbmeqlh2a51",
+      "skillcorner": "39962",
+      "soccerway": "263894",
+      "transfermarkt": "737772",
+      "wikidata": "Q107122118",
+      "wyscout": "229036"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Carnejy Antoine",
+  "playerKey": "carnejy-antoine",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-07-18",
+      "goalId": "goal-2021-07-18-martinique-haiti-41061",
+      "matchKey": "2021-07-18-martinique-haiti",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carnejy Antoine"
+    },
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-turks-and-caicos-islands-haiti-40591",
+      "matchKey": "2021-06-05-turks-and-caicos-islands-haiti",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carnejy Antoine"
+    },
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-turks-and-caicos-islands-haiti-40589",
+      "matchKey": "2021-06-05-turks-and-caicos-islands-haiti",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carnejy Antoine"
+    },
+    {
+      "date": "2021-06-05",
+      "goalId": "goal-2021-06-05-turks-and-caicos-islands-haiti-40588",
+      "matchKey": "2021-06-05-turks-and-caicos-islands-haiti",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carnejy Antoine"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/haiti"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "haiti",
+  "teamName": "Haiti"
+}

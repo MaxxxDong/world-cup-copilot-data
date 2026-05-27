@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Bahamas"
+  ],
+  "allTime": {
+    "draws": 10,
+    "goalsAgainst": 213,
+    "goalsFor": 75,
+    "losses": 43,
+    "matches": 67,
+    "wins": 14
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 39,
+      "goalsFor": 12,
+      "losses": 8,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 76,
+      "goalsFor": 21,
+      "losses": 16,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 2,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "bahamas",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2026-03-29-cayman-islands-bahamas",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "anguilla",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2026-03-26-bahamas-anguilla",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-15-bahamas-british-virgin-islands",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "anguilla",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-12-bahamas-anguilla",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "costa-rica",
+      "date": "2025-06-07",
+      "homeScore": 0,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-06-07-bahamas-costa-rica",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 10,
+      "goalsAgainst": 188,
+      "goalsFor": 64,
+      "losses": 38,
+      "matches": 60,
+      "wins": 12
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 25,
+      "goalsFor": 11,
+      "losses": 5,
+      "matches": 7,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 61,
+      "goalsFor": 20,
+      "losses": 12,
+      "matches": 17,
+      "wins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 9,
+      "goalsAgainst": 152,
+      "goalsFor": 55,
+      "losses": 31,
+      "matches": 50,
+      "wins": 10
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bahamas",
+  "teamName": "Bahamas",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "lesly-st-fleur",
+      "scorer": "Lesly St. Fleur"
+    },
+    {
+      "goals": 3,
+      "playerKey": "nesley-jean",
+      "scorer": "Nesley Jean"
+    },
+    {
+      "goals": 2,
+      "playerKey": "anton-haven",
+      "scorer": "Anton Haven"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kevin-davies",
+      "scorer": "Kevin Davies"
+    },
+    {
+      "goals": 1,
+      "playerKey": "cameron-hepple",
+      "scorer": "Cameron Hepple"
+    },
+    {
+      "goals": 1,
+      "playerKey": "damani-horton",
+      "scorer": "Damani Horton"
+    },
+    {
+      "goals": 1,
+      "playerKey": "demont-mitchell",
+      "scorer": "Demont Mitchell"
+    },
+    {
+      "goals": 1,
+      "playerKey": "george-moussis",
+      "scorer": "George Moussis"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jackner-louis",
+      "scorer": "Jackner Louis"
+    },
+    {
+      "goals": 1,
+      "playerKey": "michael-bethel",
+      "scorer": "Michael Bethel"
+    }
+  ]
+}

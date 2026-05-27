@@ -1,0 +1,101 @@
+{
+  "firstGoalDate": "2021-03-27",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1997-07-14",
+    "playerKey": "darwin-lom",
+    "providerIds": {
+      "api_football": "181885",
+      "fbref": "d04a3588",
+      "footballdatabase_eu": "429654",
+      "heimspiel": "664290",
+      "impect": "125715",
+      "kicker": "darwin-lom",
+      "national_football_teams": "77124",
+      "skillcorner": "391207",
+      "soccerway": "646448",
+      "sofascore": "1049305",
+      "thesportsdb": "34247890",
+      "transfermarkt": "747770",
+      "wikidata": "Q97924379",
+      "wyscout": "648273"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-11-18",
+  "playerKey": "darwin-lom",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-guatemala-suriname-47389",
+      "matchKey": "2025-11-18-guatemala-suriname",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Lom"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-suriname-guatemala-47025",
+      "matchKey": "2025-10-10-suriname-guatemala",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Lom"
+    },
+    {
+      "date": "2023-06-27",
+      "goalId": "goal-2023-06-27-guatemala-cuba-43354",
+      "matchKey": "2023-06-27-guatemala-cuba",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Lom"
+    },
+    {
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-guatemala-saint-vincent-and-the-grenadines-40513",
+      "matchKey": "2021-06-04-guatemala-saint-vincent-and-the-grenadines",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Lom"
+    },
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-british-virgin-islands-guatemala-40202",
+      "matchKey": "2021-03-27-british-virgin-islands-guatemala",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Darwin Lom"
+    }
+  ],
+  "scorer": "Darwin Lom",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guatemala",
+  "teamName": "Guatemala",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

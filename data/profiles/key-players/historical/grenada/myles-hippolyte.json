@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2024-06-05",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-11-09",
+    "nationality": "United Kingdom",
+    "playerKey": "myles-hippolyte",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "45257",
+      "capology": "myles-hippolyte-34647",
+      "espn": "197233",
+      "fbref": "3ed8d281",
+      "footballdatabase_eu": "237958",
+      "heimspiel": "365177",
+      "impect": "59342",
+      "national_football_teams": "90557",
+      "opta": "c840oaaw59arinkzu4cqql9ed",
+      "skillcorner": "460814",
+      "soccerbase": "76588",
+      "soccerway": "325552",
+      "sofascore": "578330",
+      "thesportsdb": "34157907",
+      "transfermarkt": "329849",
+      "wikidata": "Q17466174",
+      "wyscout": "292204"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-05",
+  "playerKey": "myles-hippolyte",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-trinidad-and-tobago-grenada-44625",
+      "matchKey": "2024-06-05-trinidad-and-tobago-grenada",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Myles Hippolyte"
+    },
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-trinidad-and-tobago-grenada-44624",
+      "matchKey": "2024-06-05-trinidad-and-tobago-grenada",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Myles Hippolyte"
+    }
+  ],
+  "scorer": "Myles Hippolyte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "grenada",
+  "teamName": "Grenada",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

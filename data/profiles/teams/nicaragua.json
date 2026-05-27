@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Nicaragua"
+  ],
+  "allTime": {
+    "draws": 26,
+    "goalsAgainst": 530,
+    "goalsFor": 234,
+    "losses": 143,
+    "matches": 220,
+    "wins": 51
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 19,
+      "goalsFor": 7,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 29,
+      "goalsFor": 21,
+      "losses": 10,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "nicaragua",
+      "date": "2026-03-27",
+      "homeScore": 3,
+      "homeTeamId": "russia",
+      "matchId": "int-2026-03-27-russia-nicaragua",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-2025-11-18-haiti-nicaragua",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "honduras",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2025-11-13-nicaragua-honduras",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "nicaragua",
+      "date": "2025-10-13",
+      "homeScore": 4,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2025-10-13-costa-rica-nicaragua",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "haiti",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2025-10-09-nicaragua-haiti",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 12,
+      "goalsAgainst": 399,
+      "goalsFor": 171,
+      "losses": 102,
+      "matches": 152,
+      "wins": 38
+    },
+    "friendly": {
+      "draws": 14,
+      "goalsAgainst": 131,
+      "goalsFor": 63,
+      "losses": 41,
+      "matches": 68,
+      "wins": 13
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 214,
+      "goalsFor": 69,
+      "losses": 55,
+      "matches": 73,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 19,
+      "goalsAgainst": 316,
+      "goalsFor": 165,
+      "losses": 88,
+      "matches": 147,
+      "wins": 40
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "nicaragua",
+  "teamName": "Nicaragua",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "juan-barrera",
+      "scorer": "Juan Barrera"
+    },
+    {
+      "goals": 5,
+      "playerKey": "ra-l-legu-as",
+      "scorer": "Raúl Leguías"
+    },
+    {
+      "goals": 4,
+      "playerKey": "carlos-chavarr-a",
+      "scorer": "Carlos Chavarría"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jaime-moreno",
+      "scorer": "Jaime Moreno"
+    },
+    {
+      "goals": 3,
+      "playerKey": "bancy-hern-ndez",
+      "scorer": "Bancy Hernández"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ariagner-smith",
+      "scorer": "Ariagner Smith"
+    },
+    {
+      "goals": 2,
+      "playerKey": "byron-bonilla",
+      "scorer": "Byron Bonilla"
+    },
+    {
+      "goals": 2,
+      "playerKey": "emilio-palacios",
+      "scorer": "Emilio Palacios"
+    },
+    {
+      "goals": 2,
+      "playerKey": "luis-copete",
+      "scorer": "Luis Copete"
+    },
+    {
+      "goals": 2,
+      "playerKey": "luis-galeano",
+      "scorer": "Luis Galeano"
+    }
+  ]
+}

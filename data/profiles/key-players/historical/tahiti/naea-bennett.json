@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "2001-06-04",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1977-07-08",
+    "nationality": "France",
+    "playerKey": "naea-bennett",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "72004",
+      "national_football_teams": "6476",
+      "sofifa": "184520",
+      "transfermarkt": "184665",
+      "wikidata": "Q3335010"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-06-11",
+  "playerKey": "naea-bennett",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-06-11",
+      "goalId": "goal-2001-06-11-cook-islands-tahiti-21448",
+      "matchKey": "2001-06-11-cook-islands-tahiti",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naea Bennett"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21345",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naea Bennett"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21342",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naea Bennett"
+    },
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21341",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naea Bennett"
+    }
+  ],
+  "scorer": "Naea Bennett",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tahiti",
+  "teamName": "Tahiti",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

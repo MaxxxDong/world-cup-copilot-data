@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2003-11-15",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1980-05-19",
+    "nationality": "Namibia",
+    "playerKey": "paulus-shipanga",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "2d5fe59d",
+      "footballdatabase_eu": "45014",
+      "national_football_teams": "4579",
+      "sofifa": "3965",
+      "transfermarkt": "86040",
+      "wikidata": "Q1672531",
+      "worldfootball": "paulus-shipanga"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "paulus-shipanga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-namibia-zimbabwe-28633",
+      "matchKey": "2008-10-11-namibia-zimbabwe",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulus Shipanga"
+    },
+    {
+      "date": "2003-11-15",
+      "goalId": "goal-2003-11-15-namibia-rwanda-23150",
+      "matchKey": "2003-11-15-namibia-rwanda",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulus Shipanga"
+    }
+  ],
+  "scorer": "Paulus Shipanga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "namibia",
+  "teamName": "Namibia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

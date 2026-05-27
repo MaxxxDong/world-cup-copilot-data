@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2001-04-12",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1973-11-22",
+    "nationality": "Soviet Union",
+    "playerKey": "oleg-litvinenko",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "24315",
+      "fbref": "29a8191f",
+      "footballdatabase_eu": "12059",
+      "national_football_teams": "3521",
+      "soccerway": "229556",
+      "sofifa": "159443",
+      "transfermarkt": "166572",
+      "wikidata": "Q1045997"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-04-25",
+  "playerKey": "oleg-litvinenko",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-04-25",
+      "goalId": "goal-2001-04-25-kazakhstan-iraq-20962",
+      "matchKey": "2001-04-25-kazakhstan-iraq",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleg Litvinenko"
+    },
+    {
+      "date": "2001-04-14",
+      "goalId": "goal-2001-04-14-kazakhstan-macau-20842",
+      "matchKey": "2001-04-14-kazakhstan-macau",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleg Litvinenko"
+    },
+    {
+      "date": "2001-04-12",
+      "goalId": "goal-2001-04-12-nepal-kazakhstan-20808",
+      "matchKey": "2001-04-12-nepal-kazakhstan",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleg Litvinenko"
+    },
+    {
+      "date": "2001-04-12",
+      "goalId": "goal-2001-04-12-nepal-kazakhstan-20806",
+      "matchKey": "2001-04-12-nepal-kazakhstan",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oleg Litvinenko"
+    }
+  ],
+  "scorer": "Oleg Litvinenko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kazakhstan",
+  "teamName": "Kazakhstan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "firstGoalDate": "2024-06-08",
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2000-01-23",
+    "playerKey": "ryan-henriette",
+    "providerIds": {
+      "footballdatabase_eu": "483290",
+      "national_football_teams": "83771",
+      "soccerway": "823386",
+      "wikidata": "Q113119088"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-08",
+  "playerKey": "ryan-henriette",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-08",
+      "goalId": "goal-2024-06-08-gambia-seychelles-44764",
+      "matchKey": "2024-06-08-gambia-seychelles",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ryan Henriette"
+    }
+  ],
+  "scorer": "Ryan Henriette",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "seychelles",
+  "teamName": "Seychelles",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

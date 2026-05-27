@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "historicalNationalTeamGoals": 13,
+  "identity": {
+    "dateOfBirth": "1976-12-31",
+    "nationality": "Ivory Coast",
+    "playerKey": "ibrahima-bakayoko",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "734",
+      "fbref": "db4c20fe",
+      "footballdatabase_eu": "18",
+      "hugman": "781",
+      "kicker": "ibrahima-bakayoko",
+      "national_football_teams": "1644",
+      "premier_league": "1562",
+      "soccerway": "4141",
+      "statmuse_pl": "2491",
+      "transfermarkt": "3899",
+      "wikidata": "Q725857",
+      "worldfootball": "ibrahima-bakayoko"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ibrahima Bakayoko",
+  "playerKey": "ibrahima-bakayoko",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-simulated",
+  "recentHistoricalGoals": [
+    {
+      "date": "2001-07-01",
+      "goalId": "goal-2001-07-01-civ-madagascar-21515",
+      "matchKey": "2001-07-01-civ-madagascar",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-07-01",
+      "goalId": "goal-2001-07-01-civ-madagascar-21511",
+      "matchKey": "2001-07-01-civ-madagascar",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-07-01",
+      "goalId": "goal-2001-07-01-civ-madagascar-21510",
+      "matchKey": "2001-07-01-civ-madagascar",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-05-20",
+      "goalId": "goal-2001-05-20-tunisia-civ-21196",
+      "matchKey": "2001-05-20-tunisia-civ",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-04-22",
+      "goalId": "goal-2001-04-22-civ-congo-20919",
+      "matchKey": "2001-04-22-civ-congo",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-03-10",
+      "goalId": "goal-2001-03-10-dr-congo-civ-20503",
+      "matchKey": "2001-03-10-dr-congo-civ",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-madagascar-civ-20370",
+      "matchKey": "2001-01-28-madagascar-civ",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-madagascar-civ-20369",
+      "matchKey": "2001-01-28-madagascar-civ",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2000-06-18",
+      "goalId": "goal-2000-06-18-civ-tunisia-19744",
+      "matchKey": "2000-06-18-civ-tunisia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    },
+    {
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-civ-rwanda-19605",
+      "matchKey": "2000-04-23-civ-rwanda",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahima Bakayoko"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-05-27",
+    "rosterStatus": "simulated",
+    "sourceUrl": "simulated://world-cup-copilot/squads/civ"
+  },
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    },
+    {
+      "path": "generated:simulated-squads",
+      "sourceId": "world-cup-copilot-simulated-squads"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

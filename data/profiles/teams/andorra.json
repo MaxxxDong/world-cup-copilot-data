@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Andorra"
+  ],
+  "allTime": {
+    "draws": 31,
+    "goalsAgainst": 539,
+    "goalsFor": 73,
+    "losses": 182,
+    "matches": 226,
+    "wins": 13
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 18,
+      "goalsFor": 3,
+      "losses": 7,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 34,
+      "goalsFor": 5,
+      "losses": 15,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 1,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "andorra",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2026-03-31-san-marino-andorra",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "andorra",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2026-03-27-montenegro-andorra",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "andorra",
+      "date": "2025-11-17",
+      "homeScore": 4,
+      "homeTeamId": "finland",
+      "matchId": "int-2025-11-17-finland-andorra",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "albania",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "andorra",
+      "matchId": "int-2025-11-13-andorra-albania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "serbia",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "andorra",
+      "matchId": "int-2025-10-14-andorra-serbia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 19,
+      "goalsAgainst": 428,
+      "goalsFor": 53,
+      "losses": 141,
+      "matches": 167,
+      "wins": 7
+    },
+    "friendly": {
+      "draws": 12,
+      "goalsAgainst": 111,
+      "goalsFor": 20,
+      "losses": 41,
+      "matches": 59,
+      "wins": 6
+    },
+    "neutralVenue": {
+      "draws": 8,
+      "goalsAgainst": 55,
+      "goalsFor": 6,
+      "losses": 22,
+      "matches": 31,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 484,
+      "goalsFor": 67,
+      "losses": 160,
+      "matches": 195,
+      "wins": 12
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "andorra",
+  "teamName": "Andorra",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "ildefons-lima",
+      "scorer": "Ildefons Lima"
+    },
+    {
+      "goals": 4,
+      "playerKey": "albert-rosas",
+      "scorer": "Albert Rosas"
+    },
+    {
+      "goals": 4,
+      "playerKey": "cristian-mart-nez",
+      "scorer": "Cristian Martínez"
+    },
+    {
+      "goals": 4,
+      "playerKey": "marc-pujol",
+      "scorer": "Marc Pujol"
+    },
+    {
+      "goals": 4,
+      "playerKey": "marc-vales",
+      "scorer": "Marc Vales"
+    },
+    {
+      "goals": 2,
+      "playerKey": "fernando-silva",
+      "scorer": "Fernando Silva"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jordi-al-ez",
+      "scorer": "Jordi Aláez"
+    },
+    {
+      "goals": 2,
+      "playerKey": "justo-ruiz",
+      "scorer": "Justo Ruiz"
+    },
+    {
+      "goals": 2,
+      "playerKey": "marc-reb-s",
+      "scorer": "Marc Rebés"
+    },
+    {
+      "goals": 2,
+      "playerKey": "m-rcio-vieira",
+      "scorer": "Márcio Vieira"
+    }
+  ]
+}

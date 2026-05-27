@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Republic of Ireland"
+  ],
+  "allTime": {
+    "draws": 178,
+    "goalsAgainst": 768,
+    "goalsFor": 851,
+    "losses": 211,
+    "matches": 630,
+    "wins": 241
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 10,
+      "goalsFor": 12,
+      "losses": 2,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 28,
+      "goalsFor": 21,
+      "losses": 7,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 8,
+      "losses": 0,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-macedonia",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-2026-03-31-republic-of-ireland-north-macedonia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "republic-of-ireland",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2026-03-26-czech-republic-republic-of-ireland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "republic-of-ireland",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "hungary",
+      "matchId": "int-2025-11-16-hungary-republic-of-ireland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "portugal",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-2025-11-13-republic-of-ireland-portugal",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "armenia",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-2025-10-14-republic-of-ireland-armenia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 108,
+      "goalsAgainst": 419,
+      "goalsFor": 487,
+      "losses": 117,
+      "matches": 362,
+      "wins": 137
+    },
+    "friendly": {
+      "draws": 70,
+      "goalsAgainst": 349,
+      "goalsFor": 364,
+      "losses": 94,
+      "matches": 268,
+      "wins": 104
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 76,
+      "goalsFor": 73,
+      "losses": 20,
+      "matches": 61,
+      "wins": 20
+    },
+    "nonNeutralVenue": {
+      "draws": 157,
+      "goalsAgainst": 692,
+      "goalsFor": 778,
+      "losses": 191,
+      "matches": 569,
+      "wins": 221
+    },
+    "worldCup": {
+      "draws": 8,
+      "goalsAgainst": 10,
+      "goalsFor": 10,
+      "losses": 3,
+      "matches": 13,
+      "wins": 2
+    }
+  },
+  "teamId": "republic-of-ireland",
+  "teamName": "Republic of Ireland",
+  "topScorers": [
+    {
+      "goals": 44,
+      "playerKey": "robbie-keane",
+      "scorer": "Robbie Keane"
+    },
+    {
+      "goals": 17,
+      "playerKey": "john-aldridge",
+      "scorer": "John Aldridge"
+    },
+    {
+      "goals": 15,
+      "playerKey": "frank-stapleton",
+      "scorer": "Frank Stapleton"
+    },
+    {
+      "goals": 14,
+      "playerKey": "niall-quinn",
+      "scorer": "Niall Quinn"
+    },
+    {
+      "goals": 13,
+      "playerKey": "tony-cascarino",
+      "scorer": "Tony Cascarino"
+    },
+    {
+      "goals": 12,
+      "playerKey": "don-givens",
+      "scorer": "Don Givens"
+    },
+    {
+      "goals": 10,
+      "playerKey": "jonathan-walters",
+      "scorer": "Jonathan Walters"
+    },
+    {
+      "goals": 9,
+      "playerKey": "kevin-doyle",
+      "scorer": "Kevin Doyle"
+    },
+    {
+      "goals": 9,
+      "playerKey": "roy-keane",
+      "scorer": "Roy Keane"
+    },
+    {
+      "goals": 8,
+      "playerKey": "gerry-daly",
+      "scorer": "Gerry Daly"
+    }
+  ]
+}

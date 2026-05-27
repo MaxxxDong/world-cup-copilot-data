@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Thailand"
+  ],
+  "allTime": {
+    "draws": 204,
+    "goalsAgainst": 1279,
+    "goalsFor": 1388,
+    "losses": 320,
+    "matches": 863,
+    "wins": 339
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 24,
+      "losses": 2,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 50,
+      "losses": 5,
+      "matches": 20,
+      "wins": 13
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 15,
+      "losses": 1,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-05-27T00:00:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "thailand",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-11-18-sri-lanka-thailand",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "singapore",
+      "date": "2025-11-13",
+      "homeScore": 3,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-11-13-thailand-singapore",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "thailand",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "taiwan",
+      "matchId": "int-2025-10-14-taiwan-thailand",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "taiwan",
+      "date": "2025-10-09",
+      "homeScore": 2,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-10-09-thailand-taiwan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iraq",
+      "date": "2025-09-07",
+      "homeScore": 0,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-09-07-thailand-iraq",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 176,
+      "goalsAgainst": 1073,
+      "goalsFor": 1177,
+      "losses": 272,
+      "matches": 730,
+      "wins": 282
+    },
+    "friendly": {
+      "draws": 28,
+      "goalsAgainst": 206,
+      "goalsFor": 211,
+      "losses": 48,
+      "matches": 133,
+      "wins": 57
+    },
+    "neutralVenue": {
+      "draws": 81,
+      "goalsAgainst": 541,
+      "goalsFor": 531,
+      "losses": 132,
+      "matches": 327,
+      "wins": 114
+    },
+    "nonNeutralVenue": {
+      "draws": 123,
+      "goalsAgainst": 738,
+      "goalsFor": 857,
+      "losses": 188,
+      "matches": 536,
+      "wins": 225
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "thailand",
+  "teamName": "Thailand",
+  "topScorers": [
+    {
+      "goals": 15,
+      "playerKey": "kiatisuk-senamuang",
+      "scorer": "Kiatisuk Senamuang"
+    },
+    {
+      "goals": 11,
+      "playerKey": "piyapong-pue-on",
+      "scorer": "Piyapong Pue-on"
+    },
+    {
+      "goals": 11,
+      "playerKey": "teerasil-dangda",
+      "scorer": "Teerasil Dangda"
+    },
+    {
+      "goals": 9,
+      "playerKey": "sarayoot-chaikamdee",
+      "scorer": "Sarayoot Chaikamdee"
+    },
+    {
+      "goals": 9,
+      "playerKey": "seksan-piturat",
+      "scorer": "Seksan Piturat"
+    },
+    {
+      "goals": 5,
+      "playerKey": "datsakorn-thonglao",
+      "scorer": "Datsakorn Thonglao"
+    },
+    {
+      "goals": 5,
+      "playerKey": "supachok-sarachat",
+      "scorer": "Supachok Sarachat"
+    },
+    {
+      "goals": 5,
+      "playerKey": "suphanat-mueanta",
+      "scorer": "Suphanat Mueanta"
+    },
+    {
+      "goals": 4,
+      "playerKey": "sutee-suksomkit",
+      "scorer": "Sutee Suksomkit"
+    },
+    {
+      "goals": 3,
+      "playerKey": "adisak-kraisorn",
+      "scorer": "Adisak Kraisorn"
+    }
+  ]
+}
