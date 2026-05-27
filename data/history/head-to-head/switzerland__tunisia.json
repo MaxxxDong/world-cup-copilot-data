@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "switzerland",
+    "date": "2012-11-14",
+    "homeScore": 1,
+    "homeTeamId": "tunisia",
+    "matchId": "int-2012-11-14-tunisia-switzerland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "switzerland",
+      "date": "1993-03-17",
+      "homeScore": 0,
+      "homeTeamId": "tunisia",
+      "matchId": "int-1993-03-17-tunisia-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "switzerland",
+      "date": "2000-11-15",
+      "homeScore": 1,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2000-11-15-tunisia-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "switzerland",
+      "date": "2012-11-14",
+      "homeScore": 1,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2012-11-14-tunisia-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "switzerland__tunisia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "switzerland",
+  "teamBId": "tunisia"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 4,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "cape-verde",
+    "date": "2023-06-12",
+    "homeScore": 0,
+    "homeTeamId": "mar",
+    "matchId": "int-2023-06-12-mar-cape-verde",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "cape-verde",
+      "date": "2013-01-23",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-2013-01-23-mar-cape-verde",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mar",
+      "date": "2016-03-26",
+      "homeScore": 0,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2016-03-26-cape-verde-mar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2016-03-29",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-2016-03-29-mar-cape-verde",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2023-06-12",
+      "homeScore": 0,
+      "homeTeamId": "mar",
+      "matchId": "int-2023-06-12-mar-cape-verde",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "cape-verde__mar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cape-verde",
+  "teamBId": "mar"
+}

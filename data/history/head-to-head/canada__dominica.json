@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "dominica",
+    "date": "2018-10-16",
+    "homeScore": 5,
+    "homeTeamId": "canada",
+    "matchId": "int-2018-10-16-canada-dominica",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "canada",
+      "date": "2015-06-11",
+      "homeScore": 0,
+      "homeTeamId": "dominica",
+      "matchId": "int-2015-06-11-dominica-canada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2015-06-16",
+      "homeScore": 4,
+      "homeTeamId": "canada",
+      "matchId": "int-2015-06-16-canada-dominica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2018-10-16",
+      "homeScore": 5,
+      "homeTeamId": "canada",
+      "matchId": "int-2018-10-16-canada-dominica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    }
+  ],
+  "pairKey": "canada__dominica",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "canada",
+  "teamBId": "dominica"
+}

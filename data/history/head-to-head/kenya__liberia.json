@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 2,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "liberia",
+    "date": "2016-11-15",
+    "homeScore": 1,
+    "homeTeamId": "kenya",
+    "matchId": "int-2016-11-15-kenya-liberia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "1989-01-22",
+      "homeScore": 0,
+      "homeTeamId": "liberia",
+      "matchId": "int-1989-01-22-liberia-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liberia",
+      "date": "1989-08-12",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-1989-08-12-kenya-liberia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liberia",
+      "date": "2016-11-15",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-2016-11-15-kenya-liberia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "kenya__liberia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kenya",
+  "teamBId": "liberia"
+}

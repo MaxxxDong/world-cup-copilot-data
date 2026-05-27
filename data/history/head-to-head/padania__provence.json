@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 7,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "provence",
+    "date": "2010-03-11",
+    "homeScore": 1,
+    "homeTeamId": "padania",
+    "matchId": "int-2010-03-11-padania-provence",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "padania",
+      "date": "2008-07-08",
+      "homeScore": 1,
+      "homeTeamId": "provence",
+      "matchId": "int-2008-07-08-provence-padania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "provence",
+      "date": "2010-03-11",
+      "homeScore": 1,
+      "homeTeamId": "padania",
+      "matchId": "int-2010-03-11-padania-provence",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "padania__provence",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "padania",
+  "teamBId": "provence"
+}

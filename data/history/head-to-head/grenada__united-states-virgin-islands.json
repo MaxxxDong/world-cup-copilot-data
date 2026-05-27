@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 13,
+    "teamAWins": 3,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "united-states-virgin-islands",
+    "date": "2021-03-30",
+    "homeScore": 1,
+    "homeTeamId": "grenada",
+    "matchId": "int-2021-03-30-grenada-united-states-virgin-islands",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "united-states-virgin-islands",
+      "date": "2008-03-26",
+      "homeScore": 10,
+      "homeTeamId": "grenada",
+      "matchId": "int-2008-03-26-grenada-united-states-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "grenada",
+      "date": "2016-03-29",
+      "homeScore": 1,
+      "homeTeamId": "united-states-virgin-islands",
+      "matchId": "int-2016-03-29-united-states-virgin-islands-grenada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "united-states-virgin-islands",
+      "date": "2021-03-30",
+      "homeScore": 1,
+      "homeTeamId": "grenada",
+      "matchId": "int-2021-03-30-grenada-united-states-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "grenada__united-states-virgin-islands",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 13,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 13,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "grenada",
+  "teamBId": "united-states-virgin-islands"
+}

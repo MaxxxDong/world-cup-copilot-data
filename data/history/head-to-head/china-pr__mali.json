@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "mali",
+    "date": "2014-06-29",
+    "homeScore": 1,
+    "homeTeamId": "china-pr",
+    "matchId": "int-2014-06-29-china-pr-mali",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "mali",
+      "date": "1963-11-12",
+      "homeScore": 3,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1963-11-12-china-pr-mali",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mali",
+      "date": "1966-08-28",
+      "homeScore": 4,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1966-08-28-china-pr-mali",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mali",
+      "date": "2014-06-29",
+      "homeScore": 1,
+      "homeTeamId": "china-pr",
+      "matchId": "int-2014-06-29-china-pr-mali",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "china-pr__mali",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "china-pr",
+  "teamBId": "mali"
+}

@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "german-dr",
+    "date": "1973-11-13",
+    "homeScore": 1,
+    "homeTeamId": "albania",
+    "matchId": "int-1973-11-13-albania-german-dr",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "german-dr",
+      "date": "1958-05-04",
+      "homeScore": 1,
+      "homeTeamId": "albania",
+      "matchId": "int-1958-05-04-albania-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "1973-04-08",
+      "homeScore": 2,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1973-04-08-german-dr-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "german-dr",
+      "date": "1973-11-13",
+      "homeScore": 1,
+      "homeTeamId": "albania",
+      "matchId": "int-1973-11-13-albania-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "albania__german-dr",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "albania",
+  "teamBId": "german-dr"
+}

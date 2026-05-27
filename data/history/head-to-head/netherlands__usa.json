@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "usa",
+    "date": "2022-12-03",
+    "homeScore": 3,
+    "homeTeamId": "netherlands",
+    "matchId": "int-2022-12-03-netherlands-usa",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "netherlands",
+      "date": "1998-02-21",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-1998-02-21-usa-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "netherlands",
+      "date": "2002-05-19",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-2002-05-19-usa-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "2004-02-18",
+      "homeScore": 1,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2004-02-18-netherlands-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "usa",
+      "date": "2010-03-03",
+      "homeScore": 2,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2010-03-03-netherlands-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "usa",
+      "date": "2015-06-05",
+      "homeScore": 3,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2015-06-05-netherlands-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "usa",
+      "date": "2022-12-03",
+      "homeScore": 3,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2022-12-03-netherlands-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "netherlands__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "netherlands",
+  "teamBId": "usa"
+}

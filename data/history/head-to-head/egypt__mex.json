@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 8,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "egypt",
+    "date": "1999-07-27",
+    "homeScore": 2,
+    "homeTeamId": "mex",
+    "matchId": "int-1999-07-27-mex-egypt",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Confederations Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "mex",
+      "date": "1985-10-20",
+      "homeScore": 2,
+      "homeTeamId": "egypt",
+      "matchId": "int-1985-10-20-egypt-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mex",
+      "date": "1999-02-19",
+      "homeScore": 0,
+      "homeTeamId": "egypt",
+      "matchId": "int-1999-02-19-egypt-mex",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Lunar New Year Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mex",
+      "date": "1999-06-18",
+      "homeScore": 0,
+      "homeTeamId": "egypt",
+      "matchId": "int-1999-06-18-egypt-mex",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Korea Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "egypt",
+      "date": "1999-07-27",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-1999-07-27-mex-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    }
+  ],
+  "pairKey": "egypt__mex",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "egypt",
+  "teamBId": "mex"
+}

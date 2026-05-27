@@ -1,0 +1,106 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 1,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "shetland",
+    "date": "2025-07-13",
+    "homeScore": 0,
+    "homeTeamId": "gozo",
+    "matchId": "int-2025-07-13-gozo-shetland",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Island Games"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "shetland",
+      "date": "2025-07-13",
+      "homeScore": 0,
+      "homeTeamId": "gozo",
+      "matchId": "int-2025-07-13-gozo-shetland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "pairKey": "gozo__shetland",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gozo",
+  "teamBId": "shetland"
+}

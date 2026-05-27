@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 0,
+    "teamBGoals": 19,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "turkey",
+    "date": "1974-01-18",
+    "homeScore": 2,
+    "homeTeamId": "pakistan",
+    "matchId": "int-1974-01-18-pakistan-turkey",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "1965-07-21",
+      "homeScore": 1,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1965-07-21-pakistan-turkey",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "turkey",
+      "date": "1967-11-28",
+      "homeScore": 4,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1967-11-28-pakistan-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "pakistan",
+      "date": "1969-09-10",
+      "homeScore": 4,
+      "homeTeamId": "turkey",
+      "matchId": "int-1969-09-10-turkey-pakistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "1970-09-09",
+      "homeScore": 1,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1970-09-09-pakistan-turkey",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turkey",
+      "date": "1974-01-18",
+      "homeScore": 2,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1974-01-18-pakistan-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "pakistan__turkey",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 0,
+      "teamBGoals": 19,
+      "teamBWins": 4
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "pakistan",
+  "teamBId": "turkey"
+}

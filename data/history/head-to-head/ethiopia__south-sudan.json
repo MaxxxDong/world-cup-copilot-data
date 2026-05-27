@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 6,
+    "teamAWins": 3,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "ethiopia",
+    "date": "2017-12-05",
+    "homeScore": 0,
+    "homeTeamId": "south-sudan",
+    "matchId": "int-2017-12-05-south-sudan-ethiopia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CECAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-sudan",
+      "date": "2012-11-24",
+      "homeScore": 1,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2012-11-24-ethiopia-south-sudan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ethiopia",
+      "date": "2013-12-03",
+      "homeScore": 0,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2013-12-03-south-sudan-ethiopia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "ethiopia",
+      "date": "2017-12-05",
+      "homeScore": 0,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2017-12-05-south-sudan-ethiopia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    }
+  ],
+  "pairKey": "ethiopia__south-sudan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "ethiopia",
+  "teamBId": "south-sudan"
+}

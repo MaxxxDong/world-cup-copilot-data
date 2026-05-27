@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "ukraine",
+    "date": "2017-10-06",
+    "homeScore": 0,
+    "homeTeamId": "kosovo",
+    "matchId": "int-2017-10-06-kosovo-ukraine",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "kosovo",
+      "date": "2016-10-09",
+      "homeScore": 3,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2016-10-09-ukraine-kosovo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ukraine",
+      "date": "2017-10-06",
+      "homeScore": 0,
+      "homeTeamId": "kosovo",
+      "matchId": "int-2017-10-06-kosovo-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "kosovo__ukraine",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kosovo",
+  "teamBId": "ukraine"
+}

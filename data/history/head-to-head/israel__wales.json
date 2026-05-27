@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 6,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "israel",
+    "date": "2015-09-06",
+    "homeScore": 0,
+    "homeTeamId": "wales",
+    "matchId": "int-2015-09-06-wales-israel",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "wales",
+      "date": "1958-01-15",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1958-01-15-israel-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "1958-02-05",
+      "homeScore": 2,
+      "homeTeamId": "wales",
+      "matchId": "int-1958-02-05-wales-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "1984-06-10",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1984-06-10-israel-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "wales",
+      "date": "1989-02-08",
+      "homeScore": 3,
+      "homeTeamId": "israel",
+      "matchId": "int-1989-02-08-israel-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "wales",
+      "date": "2015-03-28",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-2015-03-28-israel-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2015-09-06",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-2015-09-06-wales-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "israel__wales",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "israel",
+  "teamBId": "wales"
+}

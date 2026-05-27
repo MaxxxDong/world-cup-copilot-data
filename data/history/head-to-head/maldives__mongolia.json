@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 13,
+    "teamAWins": 2,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "mongolia",
+    "date": "2003-12-03",
+    "homeScore": 12,
+    "homeTeamId": "maldives",
+    "matchId": "int-2003-12-03-maldives-mongolia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2003-11-29",
+      "homeScore": 0,
+      "homeTeamId": "mongolia",
+      "matchId": "int-2003-11-29-mongolia-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mongolia",
+      "date": "2003-12-03",
+      "homeScore": 12,
+      "homeTeamId": "maldives",
+      "matchId": "int-2003-12-03-maldives-mongolia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "maldives__mongolia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 13,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 13,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "maldives",
+  "teamBId": "mongolia"
+}

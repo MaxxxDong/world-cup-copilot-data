@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "western-isles",
+    "date": "2015-06-30",
+    "homeScore": 2,
+    "homeTeamId": "alderney",
+    "matchId": "int-2015-06-30-alderney-western-isles",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Island Games"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "western-isles",
+      "date": "2015-06-30",
+      "homeScore": 2,
+      "homeTeamId": "alderney",
+      "matchId": "int-2015-06-30-alderney-western-isles",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "pairKey": "alderney__western-isles",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "alderney",
+  "teamBId": "western-isles"
+}

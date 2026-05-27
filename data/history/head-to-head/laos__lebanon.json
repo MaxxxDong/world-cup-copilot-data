@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "laos",
+    "date": "2015-11-12",
+    "homeScore": 7,
+    "homeTeamId": "lebanon",
+    "matchId": "int-2015-11-12-lebanon-laos",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "lebanon",
+      "date": "2015-06-16",
+      "homeScore": 0,
+      "homeTeamId": "laos",
+      "matchId": "int-2015-06-16-laos-lebanon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "laos",
+      "date": "2015-11-12",
+      "homeScore": 7,
+      "homeTeamId": "lebanon",
+      "matchId": "int-2015-11-12-lebanon-laos",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "laos__lebanon",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "laos",
+  "teamBId": "lebanon"
+}

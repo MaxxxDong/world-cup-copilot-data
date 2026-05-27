@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "jordan",
+    "date": "2025-10-14",
+    "homeScore": 4,
+    "homeTeamId": "albania",
+    "matchId": "int-2025-10-14-albania-jordan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "jordan",
+      "date": "2018-10-10",
+      "homeScore": 0,
+      "homeTeamId": "albania",
+      "matchId": "int-2018-10-10-albania-jordan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "jordan",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "albania",
+      "matchId": "int-2025-10-14-albania-jordan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "albania__jordan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "albania",
+  "teamBId": "jordan"
+}

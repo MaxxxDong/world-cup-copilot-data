@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "solomon-islands",
+    "date": "2018-08-29",
+    "homeScore": 1,
+    "homeTeamId": "macau",
+    "matchId": "int-2018-08-29-macau-solomon-islands",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "solomon-islands",
+      "date": "2018-08-29",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2018-08-29-macau-solomon-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "macau__solomon-islands",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "macau",
+  "teamBId": "solomon-islands"
+}

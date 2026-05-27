@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 17,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "faroe-islands",
+    "date": "2019-09-08",
+    "homeScore": 4,
+    "homeTeamId": "spain",
+    "matchId": "int-2019-09-08-spain-faroe-islands",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "spain",
+      "date": "1996-09-04",
+      "homeScore": 2,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-1996-09-04-faroe-islands-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "faroe-islands",
+      "date": "1997-10-11",
+      "homeScore": 3,
+      "homeTeamId": "spain",
+      "matchId": "int-1997-10-11-spain-faroe-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "spain",
+      "date": "2019-06-07",
+      "homeScore": 1,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2019-06-07-faroe-islands-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "faroe-islands",
+      "date": "2019-09-08",
+      "homeScore": 4,
+      "homeTeamId": "spain",
+      "matchId": "int-2019-09-08-spain-faroe-islands",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "faroe-islands__spain",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 17,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "faroe-islands",
+  "teamBId": "spain"
+}

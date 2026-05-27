@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "bulgaria",
+    "date": "2024-03-25",
+    "homeScore": 1,
+    "homeTeamId": "azerbaijan",
+    "matchId": "int-2024-03-25-azerbaijan-bulgaria",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA Series"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "azerbaijan",
+      "date": "2000-07-26",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-2000-07-26-bulgaria-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2004-11-17",
+      "homeScore": 0,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2004-11-17-azerbaijan-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bulgaria",
+      "date": "2014-09-09",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2014-09-09-azerbaijan-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "azerbaijan",
+      "date": "2015-10-13",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-2015-10-13-bulgaria-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "2024-03-25",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2024-03-25-azerbaijan-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    }
+  ],
+  "pairKey": "azerbaijan__bulgaria",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "azerbaijan",
+  "teamBId": "bulgaria"
+}

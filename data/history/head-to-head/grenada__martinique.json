@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 3,
+    "teamAGoals": 5,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "grenada",
+    "date": "2010-11-26",
+    "homeScore": 1,
+    "homeTeamId": "martinique",
+    "matchId": "int-2010-11-26-martinique-grenada",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CFU Caribbean Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "grenada",
+      "date": "2008-10-11",
+      "homeScore": 2,
+      "homeTeamId": "martinique",
+      "matchId": "int-2008-10-11-martinique-grenada",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "martinique",
+      "date": "2010-05-30",
+      "homeScore": 2,
+      "homeTeamId": "grenada",
+      "matchId": "int-2010-05-30-grenada-martinique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "grenada",
+      "date": "2010-11-26",
+      "homeScore": 1,
+      "homeTeamId": "martinique",
+      "matchId": "int-2010-11-26-martinique-grenada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    }
+  ],
+  "pairKey": "grenada__martinique",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "grenada",
+  "teamBId": "martinique"
+}

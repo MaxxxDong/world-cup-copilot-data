@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 5,
+    "awayTeamId": "honduras",
+    "date": "2002-02-12",
+    "homeScore": 1,
+    "homeTeamId": "slovenia",
+    "matchId": "int-2002-02-12-slovenia-honduras",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Lunar New Year Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "honduras",
+      "date": "2002-02-12",
+      "homeScore": 1,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2002-02-12-slovenia-honduras",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Lunar New Year Cup"
+    }
+  ],
+  "pairKey": "honduras__slovenia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "honduras",
+  "teamBId": "slovenia"
+}

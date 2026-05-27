@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "grenada",
+    "date": "2026-03-27",
+    "homeScore": 4,
+    "homeTeamId": "rwanda",
+    "matchId": "int-2026-03-27-rwanda-grenada",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA Series"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2026-03-27-rwanda-grenada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    }
+  ],
+  "pairKey": "grenada__rwanda",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "grenada",
+  "teamBId": "rwanda"
+}

@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "syria",
+    "date": "2021-06-07",
+    "homeScore": 0,
+    "homeTeamId": "guam",
+    "matchId": "int-2021-06-07-guam-syria",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "guam",
+      "date": "2019-10-15",
+      "homeScore": 4,
+      "homeTeamId": "syria",
+      "matchId": "int-2019-10-15-syria-guam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "syria",
+      "date": "2021-06-07",
+      "homeScore": 0,
+      "homeTeamId": "guam",
+      "matchId": "int-2021-06-07-guam-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "guam__syria",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guam",
+  "teamBId": "syria"
+}

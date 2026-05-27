@@ -1,0 +1,154 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 2,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "madagascar",
+    "date": "2003-06-20",
+    "homeScore": 6,
+    "homeTeamId": "egypt",
+    "matchId": "int-2003-06-20-egypt-madagascar",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "madagascar",
+      "date": "1985-04-05",
+      "homeScore": 1,
+      "homeTeamId": "egypt",
+      "matchId": "int-1985-04-05-egypt-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "1985-04-21",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1985-04-21-madagascar-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "2002-09-07",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2002-09-07-madagascar-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "madagascar",
+      "date": "2003-06-20",
+      "homeScore": 6,
+      "homeTeamId": "egypt",
+      "matchId": "int-2003-06-20-egypt-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "egypt__madagascar",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "egypt",
+  "teamBId": "madagascar"
+}

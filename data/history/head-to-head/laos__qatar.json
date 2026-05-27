@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 11,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 6,
+    "awayTeamId": "qatar",
+    "date": "2004-09-08",
+    "homeScore": 1,
+    "homeTeamId": "laos",
+    "matchId": "int-2004-09-08-laos-qatar",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "laos",
+      "date": "2004-06-09",
+      "homeScore": 5,
+      "homeTeamId": "qatar",
+      "matchId": "int-2004-06-09-qatar-laos",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "qatar",
+      "date": "2004-09-08",
+      "homeScore": 1,
+      "homeTeamId": "laos",
+      "matchId": "int-2004-09-08-laos-qatar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "laos__qatar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "laos",
+  "teamBId": "qatar"
+}

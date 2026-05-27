@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "usa",
+    "date": "2022-11-29",
+    "homeScore": 0,
+    "homeTeamId": "iran",
+    "matchId": "int-2022-11-29-iran-usa",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "iran",
+      "date": "1998-06-21",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-1998-06-21-usa-iran",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iran",
+      "date": "2000-01-16",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2000-01-16-usa-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "usa",
+      "date": "2022-11-29",
+      "homeScore": 0,
+      "homeTeamId": "iran",
+      "matchId": "int-2022-11-29-iran-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "iran__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "iran",
+  "teamBId": "usa"
+}

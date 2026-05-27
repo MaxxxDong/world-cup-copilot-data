@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 1,
+    "teamAWins": 1,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "wallis-islands-and-futuna",
+    "date": "1983-08-20",
+    "homeScore": 0,
+    "homeTeamId": "tonga",
+    "matchId": "int-1983-08-20-tonga-wallis-islands-and-futuna",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "South Pacific Games"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "wallis-islands-and-futuna",
+      "date": "1979-09-05",
+      "homeScore": 1,
+      "homeTeamId": "tonga",
+      "matchId": "int-1979-09-05-tonga-wallis-islands-and-futuna",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "wallis-islands-and-futuna",
+      "date": "1983-08-20",
+      "homeScore": 0,
+      "homeTeamId": "tonga",
+      "matchId": "int-1983-08-20-tonga-wallis-islands-and-futuna",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    }
+  ],
+  "pairKey": "tonga__wallis-islands-and-futuna",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "tonga",
+  "teamBId": "wallis-islands-and-futuna"
+}

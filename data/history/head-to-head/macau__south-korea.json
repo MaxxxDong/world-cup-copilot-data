@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "macau",
+    "date": "1978-12-25",
+    "homeScore": 4,
+    "homeTeamId": "south-korea",
+    "matchId": "int-1978-12-25-south-korea-macau",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "south-korea",
+      "date": "1949-01-25",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-1949-01-25-macau-south-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "macau",
+      "date": "1978-12-25",
+      "homeScore": 4,
+      "homeTeamId": "south-korea",
+      "matchId": "int-1978-12-25-south-korea-macau",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "pairKey": "macau__south-korea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "macau",
+  "teamBId": "south-korea"
+}

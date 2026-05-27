@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 14,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "russia",
+    "date": "2007-03-24",
+    "homeScore": 0,
+    "homeTeamId": "estonia",
+    "matchId": "int-2007-03-24-estonia-russia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "russia",
+      "date": "1923-09-18",
+      "homeScore": 2,
+      "homeTeamId": "estonia",
+      "matchId": "int-1923-09-18-estonia-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "2002-03-27",
+      "homeScore": 2,
+      "homeTeamId": "estonia",
+      "matchId": "int-2002-03-27-estonia-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2004-11-17",
+      "homeScore": 4,
+      "homeTeamId": "russia",
+      "matchId": "int-2004-11-17-russia-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "2005-03-30",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2005-03-30-estonia-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2006-10-11",
+      "homeScore": 2,
+      "homeTeamId": "russia",
+      "matchId": "int-2006-10-11-russia-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "russia",
+      "date": "2007-03-24",
+      "homeScore": 0,
+      "homeTeamId": "estonia",
+      "matchId": "int-2007-03-24-estonia-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "estonia__russia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 14,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "estonia",
+  "teamBId": "russia"
+}

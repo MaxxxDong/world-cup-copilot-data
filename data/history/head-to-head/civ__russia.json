@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "civ",
+    "date": "2017-03-24",
+    "homeScore": 0,
+    "homeTeamId": "russia",
+    "matchId": "int-2017-03-24-russia-civ",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "civ",
+      "date": "2012-08-15",
+      "homeScore": 1,
+      "homeTeamId": "russia",
+      "matchId": "int-2012-08-15-russia-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "civ",
+      "date": "2017-03-24",
+      "homeScore": 0,
+      "homeTeamId": "russia",
+      "matchId": "int-2017-03-24-russia-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "civ__russia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "civ",
+  "teamBId": "russia"
+}

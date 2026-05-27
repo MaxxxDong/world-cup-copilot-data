@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 5,
+    "teamAWins": 2,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "croatia",
+    "date": "2009-10-14",
+    "homeScore": 1,
+    "homeTeamId": "kazakhstan",
+    "matchId": "int-2009-10-14-kazakhstan-croatia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2008-09-06",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-2008-09-06-croatia-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2009-10-14",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2009-10-14-kazakhstan-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "croatia__kazakhstan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "croatia",
+  "teamBId": "kazakhstan"
+}

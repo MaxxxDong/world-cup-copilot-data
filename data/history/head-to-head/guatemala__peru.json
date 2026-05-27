@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 8,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "guatemala",
+    "date": "2014-10-14",
+    "homeScore": 1,
+    "homeTeamId": "peru",
+    "matchId": "int-2014-10-14-peru-guatemala",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "guatemala",
+      "date": "1973-03-04",
+      "homeScore": 5,
+      "homeTeamId": "peru",
+      "matchId": "int-1973-03-04-peru-guatemala",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "peru",
+      "date": "2003-07-02",
+      "homeScore": 1,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2003-07-02-guatemala-peru",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guatemala",
+      "date": "2003-08-27",
+      "homeScore": 0,
+      "homeTeamId": "peru",
+      "matchId": "int-2003-08-27-peru-guatemala",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guatemala",
+      "date": "2014-10-14",
+      "homeScore": 1,
+      "homeTeamId": "peru",
+      "matchId": "int-2014-10-14-peru-guatemala",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "guatemala__peru",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guatemala",
+  "teamBId": "peru"
+}

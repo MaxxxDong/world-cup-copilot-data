@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 8,
+    "teamAGoals": 17,
+    "teamAWins": 4,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "netherlands",
+    "date": "2019-11-16",
+    "homeScore": 0,
+    "homeTeamId": "northern-ireland",
+    "matchId": "int-2019-11-16-northern-ireland-netherlands",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "1962-05-09",
+      "homeScore": 4,
+      "homeTeamId": "netherlands",
+      "matchId": "int-1962-05-09-netherlands-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "netherlands",
+      "date": "1965-03-17",
+      "homeScore": 2,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1965-03-17-northern-ireland-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "1965-04-07",
+      "homeScore": 0,
+      "homeTeamId": "netherlands",
+      "matchId": "int-1965-04-07-netherlands-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "northern-ireland",
+      "date": "1976-10-13",
+      "homeScore": 2,
+      "homeTeamId": "netherlands",
+      "matchId": "int-1976-10-13-netherlands-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "netherlands",
+      "date": "1977-10-12",
+      "homeScore": 0,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1977-10-12-northern-ireland-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "2012-06-02",
+      "homeScore": 6,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2012-06-02-netherlands-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2019-10-10",
+      "homeScore": 3,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2019-10-10-netherlands-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "netherlands",
+      "date": "2019-11-16",
+      "homeScore": 0,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2019-11-16-northern-ireland-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "netherlands__northern-ireland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 8,
+      "teamAGoals": 17,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "netherlands",
+  "teamBId": "northern-ireland"
+}

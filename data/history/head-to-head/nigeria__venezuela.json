@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "nigeria",
+    "date": "2012-11-14",
+    "homeScore": 1,
+    "homeTeamId": "venezuela",
+    "matchId": "int-2012-11-14-venezuela-nigeria",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "2003-07-26",
+      "homeScore": 1,
+      "homeTeamId": "nigeria",
+      "matchId": "int-2003-07-26-nigeria-venezuela",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "nigeria",
+      "date": "2012-11-14",
+      "homeScore": 1,
+      "homeTeamId": "venezuela",
+      "matchId": "int-2012-11-14-venezuela-nigeria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "nigeria__venezuela",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "nigeria",
+  "teamBId": "venezuela"
+}

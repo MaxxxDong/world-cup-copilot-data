@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "philippines",
+    "date": "2011-03-25",
+    "homeScore": 0,
+    "homeTeamId": "bangladesh",
+    "matchId": "int-2011-03-25-bangladesh-philippines",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Challenge Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "philippines",
+      "date": "1984-08-13",
+      "homeScore": 3,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-1984-08-13-bangladesh-philippines",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "philippines",
+      "date": "2011-03-25",
+      "homeScore": 0,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2011-03-25-bangladesh-philippines",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Challenge Cup qualification"
+    }
+  ],
+  "pairKey": "bangladesh__philippines",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bangladesh",
+  "teamBId": "philippines"
+}

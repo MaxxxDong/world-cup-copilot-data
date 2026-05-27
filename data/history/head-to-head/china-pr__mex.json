@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "china-pr",
+    "date": "2008-04-16",
+    "homeScore": 1,
+    "homeTeamId": "mex",
+    "matchId": "int-2008-04-16-mex-china-pr",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "china-pr",
+      "date": "1987-03-17",
+      "homeScore": 3,
+      "homeTeamId": "mex",
+      "matchId": "int-1987-03-17-mex-china-pr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "china-pr",
+      "date": "1993-11-03",
+      "homeScore": 3,
+      "homeTeamId": "mex",
+      "matchId": "int-1993-11-03-mex-china-pr",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "china-pr",
+      "date": "2008-04-16",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-2008-04-16-mex-china-pr",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "china-pr__mex",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "china-pr",
+  "teamBId": "mex"
+}

@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 1,
+    "teamAWins": 1,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "australia",
+    "date": "2022-11-26",
+    "homeScore": 0,
+    "homeTeamId": "tunisia",
+    "matchId": "int-2022-11-26-tunisia-australia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "tunisia",
+      "date": "2005-06-21",
+      "homeScore": 0,
+      "homeTeamId": "australia",
+      "matchId": "int-2005-06-21-australia-tunisia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "australia",
+      "date": "2022-11-26",
+      "homeScore": 0,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2022-11-26-tunisia-australia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "australia__tunisia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "australia",
+  "teamBId": "tunisia"
+}

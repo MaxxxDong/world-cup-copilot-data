@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 19,
+    "teamAWins": 5,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "congo",
+    "date": "2015-01-17",
+    "homeScore": 1,
+    "homeTeamId": "equatorial-guinea",
+    "matchId": "int-2015-01-17-equatorial-guinea-congo",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1984-12-09",
+      "homeScore": 5,
+      "homeTeamId": "congo",
+      "matchId": "int-1984-12-09-congo-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1990-12-13",
+      "homeScore": 6,
+      "homeTeamId": "congo",
+      "matchId": "int-1990-12-13-congo-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1999-11-10",
+      "homeScore": 2,
+      "homeTeamId": "congo",
+      "matchId": "int-1999-11-10-congo-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UNIFFAC Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "congo",
+      "date": "2000-04-09",
+      "homeScore": 1,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2000-04-09-equatorial-guinea-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2000-04-23",
+      "homeScore": 2,
+      "homeTeamId": "congo",
+      "matchId": "int-2000-04-23-congo-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "congo",
+      "date": "2015-01-17",
+      "homeScore": 1,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2015-01-17-equatorial-guinea-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "congo__equatorial-guinea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 19,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 17,
+      "teamAWins": 4,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "congo",
+  "teamBId": "equatorial-guinea"
+}

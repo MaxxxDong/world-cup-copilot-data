@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "yugoslavia",
+    "date": "1991-10-16",
+    "homeScore": 0,
+    "homeTeamId": "faroe-islands",
+    "matchId": "int-1991-10-16-faroe-islands-yugoslavia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "faroe-islands",
+      "date": "1991-05-16",
+      "homeScore": 7,
+      "homeTeamId": "yugoslavia",
+      "matchId": "int-1991-05-16-yugoslavia-faroe-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yugoslavia",
+      "date": "1991-10-16",
+      "homeScore": 0,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-1991-10-16-faroe-islands-yugoslavia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "faroe-islands__yugoslavia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "faroe-islands",
+  "teamBId": "yugoslavia"
+}

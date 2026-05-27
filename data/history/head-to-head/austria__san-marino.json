@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 25,
+    "teamAWins": 4,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "san-marino",
+    "date": "2025-10-09",
+    "homeScore": 10,
+    "homeTeamId": "austria",
+    "matchId": "int-2025-10-09-austria-san-marino",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "austria",
+      "date": "1998-10-14",
+      "homeScore": 1,
+      "homeTeamId": "san-marino",
+      "matchId": "int-1998-10-14-san-marino-austria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "1999-04-28",
+      "homeScore": 7,
+      "homeTeamId": "austria",
+      "matchId": "int-1999-04-28-austria-san-marino",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "austria",
+      "date": "2025-06-10",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2025-06-10-san-marino-austria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "2025-10-09",
+      "homeScore": 10,
+      "homeTeamId": "austria",
+      "matchId": "int-2025-10-09-austria-san-marino",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "austria__san-marino",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 25,
+      "teamAWins": 4,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 25,
+      "teamAWins": 4,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "austria",
+  "teamBId": "san-marino"
+}

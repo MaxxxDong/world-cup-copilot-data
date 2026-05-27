@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 8,
+    "teamAWins": 4,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "cameroon",
+    "date": "2024-01-23",
+    "homeScore": 2,
+    "homeTeamId": "gambia",
+    "matchId": "int-2024-01-23-gambia-cameroon",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "cameroon",
+      "date": "2015-09-06",
+      "homeScore": 0,
+      "homeTeamId": "gambia",
+      "matchId": "int-2015-09-06-gambia-cameroon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "2016-09-03",
+      "homeScore": 2,
+      "homeTeamId": "cameroon",
+      "matchId": "int-2016-09-03-cameroon-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "2022-01-29",
+      "homeScore": 2,
+      "homeTeamId": "cameroon",
+      "matchId": "int-2022-01-29-cameroon-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "cameroon",
+      "date": "2024-01-23",
+      "homeScore": 2,
+      "homeTeamId": "gambia",
+      "matchId": "int-2024-01-23-gambia-cameroon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "cameroon__gambia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cameroon",
+  "teamBId": "gambia"
+}

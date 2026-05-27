@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "central-african-republic",
+    "date": "2013-06-15",
+    "homeScore": 3,
+    "homeTeamId": "botswana",
+    "matchId": "int-2013-06-15-botswana-central-african-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "botswana",
+      "date": "2012-06-02",
+      "homeScore": 2,
+      "homeTeamId": "central-african-republic",
+      "matchId": "int-2012-06-02-central-african-republic-botswana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "central-african-republic",
+      "date": "2013-06-15",
+      "homeScore": 3,
+      "homeTeamId": "botswana",
+      "matchId": "int-2013-06-15-botswana-central-african-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "botswana__central-african-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "botswana",
+  "teamBId": "central-african-republic"
+}

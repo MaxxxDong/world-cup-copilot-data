@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 8,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "arg",
+    "date": "2014-03-05",
+    "homeScore": 0,
+    "homeTeamId": "romania",
+    "matchId": "int-2014-03-05-romania-arg",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "romania",
+      "date": "1974-04-22",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-1974-04-22-arg-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "1978-04-05",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-1978-04-05-arg-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "1982-05-12",
+      "homeScore": 1,
+      "homeTeamId": "arg",
+      "matchId": "int-1982-05-12-arg-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "romania",
+      "date": "1990-06-18",
+      "homeScore": 1,
+      "homeTeamId": "arg",
+      "matchId": "int-1990-06-18-arg-romania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "arg",
+      "date": "1994-07-03",
+      "homeScore": 3,
+      "homeTeamId": "romania",
+      "matchId": "int-1994-07-03-romania-arg",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "2014-03-05",
+      "homeScore": 0,
+      "homeTeamId": "romania",
+      "matchId": "int-2014-03-05-romania-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "arg__romania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "arg",
+  "teamBId": "romania"
+}

@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 7,
+    "teamAGoals": 6,
+    "teamAWins": 0,
+    "teamBGoals": 12,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "india",
+    "date": "2023-09-10",
+    "homeScore": 1,
+    "homeTeamId": "lebanon",
+    "matchId": "int-2023-09-10-lebanon-india",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "King's Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "india",
+      "date": "1993-05-07",
+      "homeScore": 2,
+      "homeTeamId": "lebanon",
+      "matchId": "int-1993-05-07-lebanon-india",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "lebanon",
+      "date": "1993-06-11",
+      "homeScore": 1,
+      "homeTeamId": "india",
+      "matchId": "int-1993-06-11-india-lebanon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "india",
+      "date": "2007-10-08",
+      "homeScore": 4,
+      "homeTeamId": "lebanon",
+      "matchId": "int-2007-10-08-lebanon-india",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "lebanon",
+      "date": "2007-10-30",
+      "homeScore": 2,
+      "homeTeamId": "india",
+      "matchId": "int-2007-10-30-india-lebanon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "lebanon",
+      "date": "2009-08-19",
+      "homeScore": 0,
+      "homeTeamId": "india",
+      "matchId": "int-2009-08-19-india-lebanon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Nehru Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lebanon",
+      "date": "2023-07-01",
+      "homeScore": 0,
+      "homeTeamId": "india",
+      "matchId": "int-2023-07-01-india-lebanon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "SAFF Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "2023-09-10",
+      "homeScore": 1,
+      "homeTeamId": "lebanon",
+      "matchId": "int-2023-09-10-lebanon-india",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "pairKey": "india__lebanon",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 6,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "india",
+  "teamBId": "lebanon"
+}

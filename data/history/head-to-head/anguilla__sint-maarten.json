@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 11,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "anguilla",
+    "date": "2018-08-22",
+    "homeScore": 1,
+    "homeTeamId": "sint-maarten",
+    "matchId": "int-2018-08-22-sint-maarten-anguilla",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sint-maarten",
+      "date": "1993-04-06",
+      "homeScore": 0,
+      "homeTeamId": "anguilla",
+      "matchId": "int-1993-04-06-anguilla-sint-maarten",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "1996-03-29",
+      "homeScore": 4,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-1996-03-29-sint-maarten-anguilla",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "1997-04-02",
+      "homeScore": 3,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-1997-04-02-sint-maarten-anguilla",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "2016-03-13",
+      "homeScore": 2,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2016-03-13-sint-maarten-anguilla",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "anguilla",
+      "date": "2018-08-22",
+      "homeScore": 1,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2018-08-22-sint-maarten-anguilla",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "anguilla__sint-maarten",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "anguilla",
+  "teamBId": "sint-maarten"
+}

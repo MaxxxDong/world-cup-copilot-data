@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 9,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 12,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "paraguay",
+    "date": "2025-11-15",
+    "homeScore": 2,
+    "homeTeamId": "usa",
+    "matchId": "int-2025-11-15-usa-paraguay",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "usa",
+      "date": "1930-07-17",
+      "homeScore": 0,
+      "homeTeamId": "paraguay",
+      "matchId": "int-1930-07-17-paraguay-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "1997-06-04",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-1997-06-04-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "paraguay",
+      "date": "1998-03-14",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-1998-03-14-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "2003-07-06",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2003-07-06-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "paraguay",
+      "date": "2007-07-02",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2007-07-02-usa-paraguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2011-03-29",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-2011-03-29-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "2016-06-11",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2016-06-11-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "2018-03-27",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2018-03-27-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2025-11-15-usa-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "paraguay__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "paraguay",
+  "teamBId": "usa"
+}

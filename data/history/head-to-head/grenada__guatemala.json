@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 11,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "guatemala",
+    "date": "2011-11-15",
+    "homeScore": 1,
+    "homeTeamId": "grenada",
+    "matchId": "int-2011-11-15-grenada-guatemala",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2011-06-13",
+      "homeScore": 4,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2011-06-13-guatemala-grenada",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2011-11-11",
+      "homeScore": 3,
+      "homeTeamId": "guatemala",
+      "matchId": "int-2011-11-11-guatemala-grenada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "guatemala",
+      "date": "2011-11-15",
+      "homeScore": 1,
+      "homeTeamId": "grenada",
+      "matchId": "int-2011-11-15-grenada-guatemala",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "grenada__guatemala",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "grenada",
+  "teamBId": "guatemala"
+}

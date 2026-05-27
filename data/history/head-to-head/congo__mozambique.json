@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "mozambique",
+    "date": "2003-07-06",
+    "homeScore": 0,
+    "homeTeamId": "congo",
+    "matchId": "int-2003-07-06-congo-mozambique",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "1990-11-10",
+      "homeScore": 1,
+      "homeTeamId": "congo",
+      "matchId": "int-1990-11-10-congo-mozambique",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "congo",
+      "date": "2002-10-13",
+      "homeScore": 0,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2002-10-13-mozambique-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "2003-07-06",
+      "homeScore": 0,
+      "homeTeamId": "congo",
+      "matchId": "int-2003-07-06-congo-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "congo__mozambique",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "congo",
+  "teamBId": "mozambique"
+}

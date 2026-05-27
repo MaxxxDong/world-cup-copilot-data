@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "saare-county",
+    "date": "2015-07-02",
+    "homeScore": 2,
+    "homeTeamId": "gotland",
+    "matchId": "int-2015-07-02-gotland-saare-county",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Island Games"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "saare-county",
+      "date": "2003-07-03",
+      "homeScore": 3,
+      "homeTeamId": "gotland",
+      "matchId": "int-2003-07-03-gotland-saare-county",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "saare-county",
+      "date": "2015-07-02",
+      "homeScore": 2,
+      "homeTeamId": "gotland",
+      "matchId": "int-2015-07-02-gotland-saare-county",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "pairKey": "gotland__saare-county",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gotland",
+  "teamBId": "saare-county"
+}

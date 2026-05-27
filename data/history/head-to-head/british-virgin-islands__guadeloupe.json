@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "british-virgin-islands",
+    "date": "1998-04-03",
+    "homeScore": 3,
+    "homeTeamId": "guadeloupe",
+    "matchId": "int-1998-04-03-guadeloupe-british-virgin-islands",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CFU Caribbean Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "british-virgin-islands",
+      "date": "1998-04-03",
+      "homeScore": 3,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1998-04-03-guadeloupe-british-virgin-islands",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    }
+  ],
+  "pairKey": "british-virgin-islands__guadeloupe",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "british-virgin-islands",
+  "teamBId": "guadeloupe"
+}

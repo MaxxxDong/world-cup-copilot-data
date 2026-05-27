@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "fiji",
+    "date": "2017-09-02",
+    "homeScore": 0,
+    "homeTeamId": "indonesia",
+    "matchId": "int-2017-09-02-indonesia-fiji",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "1981-05-31",
+      "homeScore": 0,
+      "homeTeamId": "fiji",
+      "matchId": "int-1981-05-31-fiji-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "fiji",
+      "date": "1981-08-10",
+      "homeScore": 3,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1981-08-10-indonesia-fiji",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2017-09-02",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2017-09-02-indonesia-fiji",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "fiji__indonesia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "fiji",
+  "teamBId": "indonesia"
+}

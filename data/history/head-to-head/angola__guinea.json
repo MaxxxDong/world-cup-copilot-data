@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 6,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "guinea",
+    "date": "2007-11-20",
+    "homeScore": 0,
+    "homeTeamId": "angola",
+    "matchId": "int-2007-11-20-angola-guinea",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "angola",
+      "date": "1994-10-16",
+      "homeScore": 3,
+      "homeTeamId": "guinea",
+      "matchId": "int-1994-10-16-guinea-angola",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea",
+      "date": "1995-04-23",
+      "homeScore": 3,
+      "homeTeamId": "angola",
+      "matchId": "int-1995-04-23-angola-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "guinea",
+      "date": "2007-11-20",
+      "homeScore": 0,
+      "homeTeamId": "angola",
+      "matchId": "int-2007-11-20-angola-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "angola__guinea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "angola",
+  "teamBId": "guinea"
+}

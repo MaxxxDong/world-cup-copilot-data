@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 2,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "libya",
+    "date": "2011-11-15",
+    "homeScore": 1,
+    "homeTeamId": "belarus",
+    "matchId": "int-2011-11-15-belarus-libya",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "belarus",
+      "date": "2006-06-02",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2006-06-02-libya-belarus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "libya",
+      "date": "2011-11-15",
+      "homeScore": 1,
+      "homeTeamId": "belarus",
+      "matchId": "int-2011-11-15-belarus-libya",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "belarus__libya",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "belarus",
+  "teamBId": "libya"
+}

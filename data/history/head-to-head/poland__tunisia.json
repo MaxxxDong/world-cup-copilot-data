@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 2,
+    "teamBGoals": 1,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "poland",
+    "date": "1985-12-08",
+    "homeScore": 1,
+    "homeTeamId": "tunisia",
+    "matchId": "int-1985-12-08-tunisia-poland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "tunisia",
+      "date": "1978-06-06",
+      "homeScore": 1,
+      "homeTeamId": "poland",
+      "matchId": "int-1978-06-06-poland-tunisia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "1979-02-18",
+      "homeScore": 0,
+      "homeTeamId": "tunisia",
+      "matchId": "int-1979-02-18-tunisia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "poland",
+      "date": "1985-12-08",
+      "homeScore": 1,
+      "homeTeamId": "tunisia",
+      "matchId": "int-1985-12-08-tunisia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "poland__tunisia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "poland",
+  "teamBId": "tunisia"
+}

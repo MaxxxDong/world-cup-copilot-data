@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 5,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "mar",
+    "date": "1998-04-22",
+    "homeScore": 2,
+    "homeTeamId": "bulgaria",
+    "matchId": "int-1998-04-22-bulgaria-mar",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "1969-12-28",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-1969-12-28-mar-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mar",
+      "date": "1970-06-11",
+      "homeScore": 1,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-1970-06-11-bulgaria-mar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "1984-02-05",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-1984-02-05-mar-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "1986-02-19",
+      "homeScore": 0,
+      "homeTeamId": "mar",
+      "matchId": "int-1986-02-19-mar-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mar",
+      "date": "1998-04-22",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-1998-04-22-bulgaria-mar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bulgaria__mar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bulgaria",
+  "teamBId": "mar"
+}

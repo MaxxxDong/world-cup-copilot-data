@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 9,
+    "teamAWins": 1,
+    "teamBGoals": 22,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "georgia",
+    "date": "2025-10-14",
+    "homeScore": 4,
+    "homeTeamId": "turkey",
+    "matchId": "int-2025-10-14-turkey-georgia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "georgia",
+      "date": "2002-08-21",
+      "homeScore": 3,
+      "homeTeamId": "turkey",
+      "matchId": "int-2002-08-21-turkey-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2004-09-04",
+      "homeScore": 1,
+      "homeTeamId": "turkey",
+      "matchId": "int-2004-09-04-turkey-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "turkey",
+      "date": "2005-03-30",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-2005-03-30-georgia-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "turkey",
+      "date": "2007-02-07",
+      "homeScore": 1,
+      "homeTeamId": "georgia",
+      "matchId": "int-2007-02-07-georgia-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "2012-05-24",
+      "homeScore": 1,
+      "homeTeamId": "georgia",
+      "matchId": "int-2012-05-24-georgia-turkey",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2024-06-18",
+      "homeScore": 3,
+      "homeTeamId": "turkey",
+      "matchId": "int-2024-06-18-turkey-georgia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "2025-09-04",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-2025-09-04-georgia-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "turkey",
+      "matchId": "int-2025-10-14-turkey-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "georgia__turkey",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 7,
+      "teamAWins": 0,
+      "teamBGoals": 16,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 16,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "georgia",
+  "teamBId": "turkey"
+}

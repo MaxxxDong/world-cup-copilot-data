@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 23,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "brunei",
+    "date": "2023-09-11",
+    "homeScore": 10,
+    "homeTeamId": "hong-kong",
+    "matchId": "int-2023-09-11-hong-kong-brunei",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "1985-02-23",
+      "homeScore": 8,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1985-02-23-hong-kong-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "hong-kong",
+      "date": "1985-04-06",
+      "homeScore": 1,
+      "homeTeamId": "brunei",
+      "matchId": "int-1985-04-06-brunei-hong-kong",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2023-09-11",
+      "homeScore": 10,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2023-09-11-hong-kong-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "brunei__hong-kong",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 23,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "brunei",
+  "teamBId": "hong-kong"
+}

@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "moldova",
+    "date": "2001-09-05",
+    "homeScore": 4,
+    "homeTeamId": "slovakia",
+    "matchId": "int-2001-09-05-slovakia-moldova",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovakia",
+      "date": "2000-10-07",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2000-10-07-moldova-slovakia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "moldova",
+      "date": "2001-09-05",
+      "homeScore": 4,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2001-09-05-slovakia-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "moldova__slovakia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "moldova",
+  "teamBId": "slovakia"
+}

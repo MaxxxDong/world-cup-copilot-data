@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "switzerland",
+    "date": "2014-06-25",
+    "homeScore": 0,
+    "homeTeamId": "honduras",
+    "matchId": "int-2014-06-25-honduras-switzerland",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "honduras",
+      "date": "2010-06-25",
+      "homeScore": 0,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2010-06-25-switzerland-honduras",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "switzerland",
+      "date": "2014-06-25",
+      "homeScore": 0,
+      "homeTeamId": "honduras",
+      "matchId": "int-2014-06-25-honduras-switzerland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "honduras__switzerland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "honduras",
+  "teamBId": "switzerland"
+}

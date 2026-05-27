@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 7,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "estonia",
+    "date": "2023-01-08",
+    "homeScore": 1,
+    "homeTeamId": "iceland",
+    "matchId": "int-2023-01-08-iceland-estonia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "1994-08-16",
+      "homeScore": 4,
+      "homeTeamId": "iceland",
+      "matchId": "int-1994-08-16-iceland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "iceland",
+      "date": "1996-04-24",
+      "homeScore": 0,
+      "homeTeamId": "estonia",
+      "matchId": "int-1996-04-24-estonia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2002-11-20",
+      "homeScore": 2,
+      "homeTeamId": "estonia",
+      "matchId": "int-2002-11-20-estonia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2014-06-04",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-2014-06-04-iceland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iceland",
+      "date": "2015-03-31",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2015-03-31-estonia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2019-01-15",
+      "homeScore": 0,
+      "homeTeamId": "estonia",
+      "matchId": "int-2019-01-15-estonia-iceland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2023-01-08",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-2023-01-08-iceland-estonia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "estonia__iceland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "estonia",
+  "teamBId": "iceland"
+}

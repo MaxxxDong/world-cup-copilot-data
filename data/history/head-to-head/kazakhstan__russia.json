@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 11,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "kazakhstan",
+    "date": "2019-09-09",
+    "homeScore": 1,
+    "homeTeamId": "russia",
+    "matchId": "int-2019-09-09-russia-kazakhstan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2008-05-23",
+      "homeScore": 6,
+      "homeTeamId": "russia",
+      "matchId": "int-2008-05-23-russia-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2015-03-31",
+      "homeScore": 0,
+      "homeTeamId": "russia",
+      "matchId": "int-2015-03-31-russia-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "russia",
+      "date": "2019-03-24",
+      "homeScore": 0,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2019-03-24-kazakhstan-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2019-09-09",
+      "homeScore": 1,
+      "homeTeamId": "russia",
+      "matchId": "int-2019-09-09-russia-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "kazakhstan__russia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kazakhstan",
+  "teamBId": "russia"
+}

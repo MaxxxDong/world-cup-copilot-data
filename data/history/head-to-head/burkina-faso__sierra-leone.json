@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "burkina-faso",
+    "date": "2025-10-08",
+    "homeScore": 0,
+    "homeTeamId": "sierra-leone",
+    "matchId": "int-2025-10-08-sierra-leone-burkina-faso",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "1996-01-15",
+      "homeScore": 2,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-1996-01-15-sierra-leone-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sierra-leone",
+      "date": "2024-06-10",
+      "homeScore": 2,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2024-06-10-burkina-faso-sierra-leone",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-10-08",
+      "homeScore": 0,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2025-10-08-sierra-leone-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "burkina-faso__sierra-leone",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "burkina-faso",
+  "teamBId": "sierra-leone"
+}

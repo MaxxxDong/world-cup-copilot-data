@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 5,
+    "teamAWins": 2,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "netherlands",
+    "date": "2018-05-31",
+    "homeScore": 1,
+    "homeTeamId": "slovakia",
+    "matchId": "int-2018-05-31-slovakia-netherlands",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovakia",
+      "date": "2010-06-28",
+      "homeScore": 2,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2010-06-28-netherlands-slovakia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovakia",
+      "date": "2012-05-30",
+      "homeScore": 2,
+      "homeTeamId": "netherlands",
+      "matchId": "int-2012-05-30-netherlands-slovakia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "netherlands",
+      "date": "2018-05-31",
+      "homeScore": 1,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2018-05-31-slovakia-netherlands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "netherlands__slovakia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "netherlands",
+  "teamBId": "slovakia"
+}

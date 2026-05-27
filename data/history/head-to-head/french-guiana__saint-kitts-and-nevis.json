@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "french-guiana",
+    "date": "2023-06-20",
+    "homeScore": 1,
+    "homeTeamId": "saint-kitts-and-nevis",
+    "matchId": "int-2023-06-20-saint-kitts-and-nevis-french-guiana",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Gold Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "french-guiana",
+      "date": "1989-04-23",
+      "homeScore": 1,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-1989-04-23-saint-kitts-and-nevis-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "french-guiana",
+      "date": "2012-10-14",
+      "homeScore": 0,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2012-10-14-saint-kitts-and-nevis-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2014-10-10",
+      "homeScore": 1,
+      "homeTeamId": "french-guiana",
+      "matchId": "int-2014-10-10-french-guiana-saint-kitts-and-nevis",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2016-10-08",
+      "homeScore": 1,
+      "homeTeamId": "french-guiana",
+      "matchId": "int-2016-10-08-french-guiana-saint-kitts-and-nevis",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "french-guiana",
+      "date": "2019-09-08",
+      "homeScore": 2,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2019-09-08-saint-kitts-and-nevis-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2019-11-17",
+      "homeScore": 3,
+      "homeTeamId": "french-guiana",
+      "matchId": "int-2019-11-17-french-guiana-saint-kitts-and-nevis",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "french-guiana",
+      "date": "2023-06-20",
+      "homeScore": 1,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2023-06-20-saint-kitts-and-nevis-french-guiana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    }
+  ],
+  "pairKey": "french-guiana__saint-kitts-and-nevis",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "french-guiana",
+  "teamBId": "saint-kitts-and-nevis"
+}

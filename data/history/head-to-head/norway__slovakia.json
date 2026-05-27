@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 6,
+    "teamAWins": 3,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "slovakia",
+    "date": "2024-03-26",
+    "homeScore": 1,
+    "homeTeamId": "norway",
+    "matchId": "int-2024-03-26-norway-slovakia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovakia",
+      "date": "2000-05-27",
+      "homeScore": 2,
+      "homeTeamId": "norway",
+      "matchId": "int-2000-05-27-norway-slovakia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "norway",
+      "date": "2010-03-03",
+      "homeScore": 0,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2010-03-03-slovakia-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "norway",
+      "date": "2017-11-14",
+      "homeScore": 1,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2017-11-14-slovakia-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovakia",
+      "date": "2022-03-25",
+      "homeScore": 2,
+      "homeTeamId": "norway",
+      "matchId": "int-2022-03-25-norway-slovakia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovakia",
+      "date": "2024-03-26",
+      "homeScore": 1,
+      "homeTeamId": "norway",
+      "matchId": "int-2024-03-26-norway-slovakia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "norway__slovakia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "norway",
+  "teamBId": "slovakia"
+}

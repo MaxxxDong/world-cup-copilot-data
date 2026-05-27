@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "mayotte",
+    "date": "2023-08-24",
+    "homeScore": 0,
+    "homeTeamId": "comoros",
+    "matchId": "int-2023-08-24-comoros-mayotte",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Indian Ocean Island Games"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "mayotte",
+      "date": "2019-07-18",
+      "homeScore": 0,
+      "homeTeamId": "comoros",
+      "matchId": "int-2019-07-18-comoros-mayotte",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2023-08-24",
+      "homeScore": 0,
+      "homeTeamId": "comoros",
+      "matchId": "int-2023-08-24-comoros-mayotte",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indian Ocean Island Games"
+    }
+  ],
+  "pairKey": "comoros__mayotte",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "comoros",
+  "teamBId": "mayotte"
+}

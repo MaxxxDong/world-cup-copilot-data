@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "oman",
+    "date": "2016-11-14",
+    "homeScore": 0,
+    "homeTeamId": "myanmar",
+    "matchId": "int-2016-11-14-myanmar-oman",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "2011-07-23",
+      "homeScore": 2,
+      "homeTeamId": "oman",
+      "matchId": "int-2011-07-23-oman-myanmar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "oman",
+      "date": "2011-07-28",
+      "homeScore": 0,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2011-07-28-myanmar-oman",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "oman",
+      "date": "2016-11-14",
+      "homeScore": 0,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2016-11-14-myanmar-oman",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "myanmar__oman",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "myanmar",
+  "teamBId": "oman"
+}

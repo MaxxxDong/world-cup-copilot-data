@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 14,
+    "teamAWins": 5,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "iraq",
+    "date": "2003-10-22",
+    "homeScore": 1,
+    "homeTeamId": "myanmar",
+    "matchId": "int-2003-10-22-myanmar-iraq",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "iraq",
+      "date": "1977-07-21",
+      "homeScore": 0,
+      "homeTeamId": "myanmar",
+      "matchId": "int-1977-07-21-myanmar-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "1982-11-21",
+      "homeScore": 4,
+      "homeTeamId": "iraq",
+      "matchId": "int-1982-11-21-iraq-myanmar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Asian Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iraq",
+      "date": "2000-08-30",
+      "homeScore": 0,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2000-08-30-myanmar-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "2003-10-12",
+      "homeScore": 3,
+      "homeTeamId": "iraq",
+      "matchId": "int-2003-10-12-iraq-myanmar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "iraq",
+      "date": "2003-10-22",
+      "homeScore": 1,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2003-10-22-myanmar-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "pairKey": "iraq__myanmar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 13,
+      "teamAWins": 4,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 14,
+      "teamAWins": 5,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iraq",
+  "teamBId": "myanmar"
+}

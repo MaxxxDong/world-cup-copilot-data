@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "sint-maarten",
+    "date": "2024-11-18",
+    "homeScore": 0,
+    "homeTeamId": "aruba",
+    "matchId": "int-2024-11-18-aruba-sint-maarten",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "aruba",
+      "date": "2024-09-06",
+      "homeScore": 2,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2024-09-06-sint-maarten-aruba",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sint-maarten",
+      "date": "2024-11-18",
+      "homeScore": 0,
+      "homeTeamId": "aruba",
+      "matchId": "int-2024-11-18-aruba-sint-maarten",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "aruba__sint-maarten",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "aruba",
+  "teamBId": "sint-maarten"
+}

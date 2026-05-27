@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "czech-republic",
+    "date": "2017-10-05",
+    "homeScore": 1,
+    "homeTeamId": "azerbaijan",
+    "matchId": "int-2017-10-05-azerbaijan-czech-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "czech-republic",
+      "date": "2009-11-18",
+      "homeScore": 2,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2009-11-18-azerbaijan-czech-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "azerbaijan",
+      "date": "2016-10-11",
+      "homeScore": 0,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2016-10-11-czech-republic-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "czech-republic",
+      "date": "2017-10-05",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2017-10-05-azerbaijan-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "azerbaijan__czech-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "azerbaijan",
+  "teamBId": "czech-republic"
+}

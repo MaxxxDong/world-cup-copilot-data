@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "rsa",
+    "date": "2022-03-29",
+    "homeScore": 5,
+    "homeTeamId": "fra",
+    "matchId": "int-2022-03-29-fra-rsa",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "rsa",
+      "date": "1997-10-11",
+      "homeScore": 2,
+      "homeTeamId": "fra",
+      "matchId": "int-1997-10-11-fra-rsa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "rsa",
+      "date": "1998-06-12",
+      "homeScore": 3,
+      "homeTeamId": "fra",
+      "matchId": "int-1998-06-12-fra-rsa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fra",
+      "date": "2000-10-07",
+      "homeScore": 0,
+      "homeTeamId": "rsa",
+      "matchId": "int-2000-10-07-rsa-fra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "fra",
+      "date": "2010-06-22",
+      "homeScore": 2,
+      "homeTeamId": "rsa",
+      "matchId": "int-2010-06-22-rsa-fra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "rsa",
+      "date": "2022-03-29",
+      "homeScore": 5,
+      "homeTeamId": "fra",
+      "matchId": "int-2022-03-29-fra-rsa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "fra__rsa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "fra",
+  "teamBId": "rsa"
+}

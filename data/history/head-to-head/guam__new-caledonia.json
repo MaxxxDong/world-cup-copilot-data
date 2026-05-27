@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 37,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "guam",
+    "date": "2011-08-30",
+    "homeScore": 9,
+    "homeTeamId": "new-caledonia",
+    "matchId": "int-2011-08-30-new-caledonia-guam",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Pacific Games"
+  },
+  "matches": [
+    {
+      "awayScore": 10,
+      "awayTeamId": "new-caledonia",
+      "date": "1979-08-30",
+      "homeScore": 1,
+      "homeTeamId": "guam",
+      "matchId": "int-1979-08-30-guam-new-caledonia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 18,
+      "awayTeamId": "new-caledonia",
+      "date": "1991-09-15",
+      "homeScore": 0,
+      "homeTeamId": "guam",
+      "matchId": "int-1991-09-15-guam-new-caledonia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guam",
+      "date": "2011-08-30",
+      "homeScore": 9,
+      "homeTeamId": "new-caledonia",
+      "matchId": "int-2011-08-30-new-caledonia-guam",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pacific Games"
+    }
+  ],
+  "pairKey": "guam__new-caledonia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 37,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 28,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guam",
+  "teamBId": "new-caledonia"
+}

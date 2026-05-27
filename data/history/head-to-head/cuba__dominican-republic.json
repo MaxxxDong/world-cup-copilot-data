@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 15,
+    "teamAWins": 5,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "cuba",
+    "date": "2026-03-29",
+    "homeScore": 1,
+    "homeTeamId": "dominican-republic",
+    "matchId": "int-2026-03-29-dominican-republic-cuba",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "dominican-republic",
+      "date": "1949-05-14",
+      "homeScore": 0,
+      "homeTeamId": "cuba",
+      "matchId": "int-1949-05-14-cuba-dominican-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "cuba",
+      "date": "1995-05-25",
+      "homeScore": 0,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-1995-05-25-dominican-republic-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cuba",
+      "date": "2002-12-01",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2002-12-01-dominican-republic-cuba",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "cuba",
+      "date": "2015-03-25",
+      "homeScore": 0,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2015-03-25-dominican-republic-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominican-republic",
+      "date": "2018-11-17",
+      "homeScore": 1,
+      "homeTeamId": "cuba",
+      "matchId": "int-2018-11-17-cuba-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "cuba",
+      "date": "2022-11-16",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2022-11-16-dominican-republic-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2022-11-18",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2022-11-18-dominican-republic-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2026-03-29-dominican-republic-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "cuba__dominican-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 13,
+      "teamAWins": 4,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cuba",
+  "teamBId": "dominican-republic"
+}

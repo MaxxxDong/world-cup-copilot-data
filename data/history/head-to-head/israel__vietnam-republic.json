@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "vietnam-republic",
+    "date": "1960-10-19",
+    "homeScore": 5,
+    "homeTeamId": "israel",
+    "matchId": "int-1960-10-19-israel-vietnam-republic",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "vietnam-republic",
+      "date": "1956-09-12",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-1956-09-12-israel-vietnam-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "vietnam-republic",
+      "date": "1960-10-19",
+      "homeScore": 5,
+      "homeTeamId": "israel",
+      "matchId": "int-1960-10-19-israel-vietnam-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    }
+  ],
+  "pairKey": "israel__vietnam-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "israel",
+  "teamBId": "vietnam-republic"
+}

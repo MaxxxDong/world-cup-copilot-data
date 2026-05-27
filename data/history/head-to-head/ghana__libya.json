@@ -1,0 +1,218 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 8,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 7,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "ghana",
+    "date": "2013-08-30",
+    "homeScore": 1,
+    "homeTeamId": "libya",
+    "matchId": "int-2013-08-30-libya-ghana",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "ghana",
+      "date": "1982-03-05",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-1982-03-05-libya-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "ghana",
+      "date": "1982-03-19",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-1982-03-19-libya-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "1983-04-28",
+      "homeScore": 1,
+      "homeTeamId": "ghana",
+      "matchId": "int-1983-04-28-ghana-libya",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "1985-07-14",
+      "homeScore": 0,
+      "homeTeamId": "ghana",
+      "matchId": "int-1985-07-14-ghana-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ghana",
+      "date": "1985-07-26",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-1985-07-26-libya-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2008-06-01",
+      "homeScore": 3,
+      "homeTeamId": "ghana",
+      "matchId": "int-2008-06-01-ghana-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ghana",
+      "date": "2008-09-05",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2008-09-05-libya-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ghana",
+      "date": "2013-08-30",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2013-08-30-libya-ghana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "ghana__libya",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "ghana",
+  "teamBId": "libya"
+}

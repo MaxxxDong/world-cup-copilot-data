@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 27,
+    "teamAWins": 3,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 8,
+    "awayTeamId": "haiti",
+    "date": "2024-11-15",
+    "homeScore": 0,
+    "homeTeamId": "sint-maarten",
+    "matchId": "int-2024-11-15-sint-maarten-haiti",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "sint-maarten",
+      "date": "2018-09-10",
+      "homeScore": 13,
+      "homeTeamId": "haiti",
+      "matchId": "int-2018-09-10-haiti-sint-maarten",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sint-maarten",
+      "date": "2024-09-09",
+      "homeScore": 6,
+      "homeTeamId": "haiti",
+      "matchId": "int-2024-09-09-haiti-sint-maarten",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "haiti",
+      "date": "2024-11-15",
+      "homeScore": 0,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2024-11-15-sint-maarten-haiti",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "haiti__sint-maarten",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 27,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 14,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 13,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "haiti",
+  "teamBId": "sint-maarten"
+}

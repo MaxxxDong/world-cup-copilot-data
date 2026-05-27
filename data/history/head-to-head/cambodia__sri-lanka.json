@@ -1,0 +1,170 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "sri-lanka",
+    "date": "2024-09-10",
+    "homeScore": 2,
+    "homeTeamId": "cambodia",
+    "matchId": "int-2024-09-10-cambodia-sri-lanka",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sri-lanka",
+      "date": "1972-07-22",
+      "homeScore": 6,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1972-07-22-cambodia-sri-lanka",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cambodia",
+      "date": "2001-03-28",
+      "homeScore": 1,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2001-03-28-sri-lanka-cambodia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sri-lanka",
+      "date": "2016-10-09",
+      "homeScore": 4,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2016-10-09-cambodia-sri-lanka",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cambodia",
+      "date": "2024-09-05",
+      "homeScore": 0,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2024-09-05-sri-lanka-cambodia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sri-lanka",
+      "date": "2024-09-10",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2024-09-10-cambodia-sri-lanka",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "pairKey": "cambodia__sri-lanka",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cambodia",
+  "teamBId": "sri-lanka"
+}

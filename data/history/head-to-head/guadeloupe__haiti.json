@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 10,
+    "teamAWins": 2,
+    "teamBGoals": 18,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "guadeloupe",
+    "date": "2008-12-06",
+    "homeScore": 2,
+    "homeTeamId": "haiti",
+    "matchId": "int-2008-12-06-haiti-guadeloupe",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CFU Caribbean Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "haiti",
+      "date": "1948-12-16",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1948-12-16-guadeloupe-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guadeloupe",
+      "date": "1966-06-11",
+      "homeScore": 3,
+      "homeTeamId": "haiti",
+      "matchId": "int-1966-06-11-haiti-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "haiti",
+      "date": "1972-02-13",
+      "homeScore": 4,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1972-02-13-guadeloupe-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guadeloupe",
+      "date": "1975-09-26",
+      "homeScore": 3,
+      "homeTeamId": "haiti",
+      "matchId": "int-1975-09-26-haiti-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guadeloupe",
+      "date": "2001-04-14",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-2001-04-14-haiti-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "haiti",
+      "date": "2007-01-20",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-2007-01-20-guadeloupe-haiti",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "haiti",
+      "date": "2007-06-06",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-2007-06-06-guadeloupe-haiti",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "guadeloupe",
+      "date": "2008-12-06",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-2008-12-06-haiti-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    }
+  ],
+  "pairKey": "guadeloupe__haiti",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guadeloupe",
+  "teamBId": "haiti"
+}

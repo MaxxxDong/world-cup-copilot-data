@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 39,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 9,
+    "awayTeamId": "fiji",
+    "date": "2019-07-10",
+    "homeScore": 0,
+    "homeTeamId": "american-samoa",
+    "matchId": "int-2019-07-10-american-samoa-fiji",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Pacific Games"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "american-samoa",
+      "date": "2001-04-07",
+      "homeScore": 13,
+      "homeTeamId": "fiji",
+      "matchId": "int-2001-04-07-fiji-american-samoa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "american-samoa",
+      "date": "2004-05-15",
+      "homeScore": 11,
+      "homeTeamId": "fiji",
+      "matchId": "int-2004-05-15-fiji-american-samoa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "american-samoa",
+      "date": "2015-08-27",
+      "homeScore": 6,
+      "homeTeamId": "fiji",
+      "matchId": "int-2015-08-27-fiji-american-samoa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 9,
+      "awayTeamId": "fiji",
+      "date": "2019-07-10",
+      "homeScore": 0,
+      "homeTeamId": "american-samoa",
+      "matchId": "int-2019-07-10-american-samoa-fiji",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pacific Games"
+    }
+  ],
+  "pairKey": "american-samoa__fiji",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 33,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 33,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "american-samoa",
+  "teamBId": "fiji"
+}

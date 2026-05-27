@@ -1,0 +1,234 @@
+{
+  "allTime": {
+    "draws": 5,
+    "matches": 9,
+    "teamAGoals": 10,
+    "teamAWins": 1,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "mauritius",
+    "date": "2025-03-23",
+    "homeScore": 3,
+    "homeTeamId": "eswatini",
+    "matchId": "int-2025-03-23-eswatini-mauritius",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritius",
+      "date": "1997-11-02",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-1997-11-02-eswatini-mauritius",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritius",
+      "date": "2002-08-01",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2002-08-01-eswatini-mauritius",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritius",
+      "date": "2002-08-03",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2002-08-03-eswatini-mauritius",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritius",
+      "date": "2007-05-26",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2007-05-26-eswatini-mauritius",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "eswatini",
+      "date": "2008-07-21",
+      "homeScore": 1,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2008-07-21-mauritius-eswatini",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mauritius",
+      "date": "2019-05-25",
+      "homeScore": 2,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2019-05-25-eswatini-mauritius",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "eswatini",
+      "date": "2022-07-06",
+      "homeScore": 0,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2022-07-06-mauritius-eswatini",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "eswatini",
+      "date": "2024-06-11",
+      "homeScore": 2,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2024-06-11-mauritius-eswatini",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mauritius",
+      "date": "2025-03-23",
+      "homeScore": 3,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2025-03-23-eswatini-mauritius",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "eswatini__mauritius",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 4,
+      "matches": 6,
+      "teamAGoals": 10,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "eswatini",
+  "teamBId": "mauritius"
+}

@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "abkhazia",
+    "date": "2019-06-04",
+    "homeScore": 1,
+    "homeTeamId": "artsakh",
+    "matchId": "int-2019-06-04-artsakh-abkhazia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONIFA European Football Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "artsakh",
+      "date": "2012-09-25",
+      "homeScore": 1,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2012-09-25-abkhazia-artsakh",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "abkhazia",
+      "date": "2012-10-21",
+      "homeScore": 3,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2012-10-21-artsakh-abkhazia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-04",
+      "homeScore": 1,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-04-artsakh-abkhazia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "pairKey": "abkhazia__artsakh",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "abkhazia",
+  "teamBId": "artsakh"
+}

@@ -1,0 +1,218 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 8,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 8,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "iraq",
+    "date": "2025-12-09",
+    "homeScore": 2,
+    "homeTeamId": "algeria",
+    "matchId": "int-2025-12-09-algeria-iraq",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Arab Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "1972-01-12",
+      "homeScore": 3,
+      "homeTeamId": "iraq",
+      "matchId": "int-1972-01-12-iraq-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iraq",
+      "date": "1973-08-15",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-1973-08-15-algeria-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iraq",
+      "date": "1973-08-25",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-1973-08-25-algeria-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "algeria",
+      "date": "1978-02-21",
+      "homeScore": 3,
+      "homeTeamId": "iraq",
+      "matchId": "int-1978-02-21-iraq-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "algeria",
+      "date": "1978-02-23",
+      "homeScore": 1,
+      "homeTeamId": "iraq",
+      "matchId": "int-1978-02-23-iraq-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iraq",
+      "date": "1978-07-02",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-1978-07-02-algeria-iraq",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iraq",
+      "date": "1978-07-04",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-1978-07-04-algeria-iraq",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iraq",
+      "date": "2025-12-09",
+      "homeScore": 2,
+      "homeTeamId": "algeria",
+      "matchId": "int-2025-12-09-algeria-iraq",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    }
+  ],
+  "pairKey": "algeria__iraq",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "algeria",
+  "teamBId": "iraq"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "kyrgyzstan",
+    "date": "2018-05-29",
+    "homeScore": 3,
+    "homeTeamId": "azerbaijan",
+    "matchId": "int-2018-05-29-azerbaijan-kyrgyzstan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "kyrgyzstan",
+      "date": "1993-06-07",
+      "homeScore": 3,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-1993-06-07-azerbaijan-kyrgyzstan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2007-03-11",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2007-03-11-azerbaijan-kyrgyzstan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "azerbaijan",
+      "date": "2013-11-19",
+      "homeScore": 0,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2013-11-19-kyrgyzstan-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2018-05-29",
+      "homeScore": 3,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2018-05-29-azerbaijan-kyrgyzstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "azerbaijan__kyrgyzstan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "azerbaijan",
+  "teamBId": "kyrgyzstan"
+}

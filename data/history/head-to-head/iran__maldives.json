@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 42,
+    "teamAWins": 6,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "iran",
+    "date": "2011-07-28",
+    "homeScore": 0,
+    "homeTeamId": "maldives",
+    "matchId": "int-2011-07-28-maldives-iran",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 17,
+      "awayTeamId": "iran",
+      "date": "1997-06-02",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-1997-06-02-maldives-iran",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "1997-06-11",
+      "homeScore": 9,
+      "homeTeamId": "iran",
+      "matchId": "int-1997-06-11-iran-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "iran",
+      "date": "2000-03-31",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-2000-03-31-maldives-iran",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "2000-04-13",
+      "homeScore": 3,
+      "homeTeamId": "iran",
+      "matchId": "int-2000-04-13-iran-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "2011-07-23",
+      "homeScore": 4,
+      "homeTeamId": "iran",
+      "matchId": "int-2011-07-23-iran-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iran",
+      "date": "2011-07-28",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-2011-07-28-maldives-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "iran__maldives",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 42,
+      "teamAWins": 6,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 25,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 17,
+      "teamAWins": 4,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iran",
+  "teamBId": "maldives"
+}

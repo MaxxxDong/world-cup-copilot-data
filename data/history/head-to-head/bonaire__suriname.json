@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 19,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "bonaire",
+    "date": "2015-01-30",
+    "homeScore": 3,
+    "homeTeamId": "suriname",
+    "matchId": "int-2015-01-30-suriname-bonaire",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "ABCS Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "bonaire",
+      "date": "2010-10-29",
+      "homeScore": 4,
+      "homeTeamId": "suriname",
+      "matchId": "int-2010-10-29-suriname-bonaire",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ABCS Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bonaire",
+      "date": "2012-07-13",
+      "homeScore": 8,
+      "homeTeamId": "suriname",
+      "matchId": "int-2012-07-13-suriname-bonaire",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ABCS Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "suriname",
+      "date": "2013-11-14",
+      "homeScore": 0,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2013-11-14-bonaire-suriname",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ABCS Tournament"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "bonaire",
+      "date": "2014-09-05",
+      "homeScore": 2,
+      "homeTeamId": "suriname",
+      "matchId": "int-2014-09-05-suriname-bonaire",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bonaire",
+      "date": "2015-01-30",
+      "homeScore": 3,
+      "homeTeamId": "suriname",
+      "matchId": "int-2015-01-30-suriname-bonaire",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ABCS Tournament"
+    }
+  ],
+  "pairKey": "bonaire__suriname",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 19,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 16,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bonaire",
+  "teamBId": "suriname"
+}

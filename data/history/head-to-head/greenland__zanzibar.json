@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "zanzibar",
+    "date": "2006-11-20",
+    "homeScore": 1,
+    "homeTeamId": "greenland",
+    "matchId": "int-2006-11-20-greenland-zanzibar",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "ELF Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "zanzibar",
+      "date": "2006-05-31",
+      "homeScore": 2,
+      "homeTeamId": "greenland",
+      "matchId": "int-2006-05-31-greenland-zanzibar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zanzibar",
+      "date": "2006-11-20",
+      "homeScore": 1,
+      "homeTeamId": "greenland",
+      "matchId": "int-2006-11-20-greenland-zanzibar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ELF Cup"
+    }
+  ],
+  "pairKey": "greenland__zanzibar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "greenland",
+  "teamBId": "zanzibar"
+}

@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 9,
+    "teamAGoals": 17,
+    "teamAWins": 4,
+    "teamBGoals": 7,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "benin",
+    "date": "2022-09-24",
+    "homeScore": 1,
+    "homeTeamId": "mauritania",
+    "matchId": "int-2022-09-24-mauritania-benin",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "1961-12-26",
+      "homeScore": 7,
+      "homeTeamId": "benin",
+      "matchId": "int-1961-12-26-benin-mauritania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Friendship Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "1983-01-17",
+      "homeScore": 1,
+      "homeTeamId": "benin",
+      "matchId": "int-1983-01-17-benin-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "benin",
+      "date": "1983-02-04",
+      "homeScore": 2,
+      "homeTeamId": "mauritania",
+      "matchId": "int-1983-02-04-mauritania-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "1996-08-08",
+      "homeScore": 4,
+      "homeTeamId": "benin",
+      "matchId": "int-1996-08-08-benin-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "benin",
+      "date": "1996-08-30",
+      "homeScore": 0,
+      "homeTeamId": "mauritania",
+      "matchId": "int-1996-08-30-mauritania-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2001-11-05",
+      "homeScore": 2,
+      "homeTeamId": "benin",
+      "matchId": "int-2001-11-05-benin-mauritania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Amílcar Cabral Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "benin",
+      "date": "2017-03-24",
+      "homeScore": 1,
+      "homeTeamId": "mauritania",
+      "matchId": "int-2017-03-24-mauritania-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "2019-06-18",
+      "homeScore": 3,
+      "homeTeamId": "benin",
+      "matchId": "int-2019-06-18-benin-mauritania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "benin",
+      "date": "2022-09-24",
+      "homeScore": 1,
+      "homeTeamId": "mauritania",
+      "matchId": "int-2022-09-24-mauritania-benin",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "benin__mauritania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 13,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 12,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "benin",
+  "teamBId": "mauritania"
+}

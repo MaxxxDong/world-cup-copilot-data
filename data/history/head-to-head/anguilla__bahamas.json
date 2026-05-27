@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 8,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "anguilla",
+    "date": "2026-03-26",
+    "homeScore": 1,
+    "homeTeamId": "bahamas",
+    "matchId": "int-2026-03-26-bahamas-anguilla",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "bahamas",
+      "date": "2000-03-05",
+      "homeScore": 1,
+      "homeTeamId": "anguilla",
+      "matchId": "int-2000-03-05-anguilla-bahamas",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "anguilla",
+      "date": "2000-03-19",
+      "homeScore": 2,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2000-03-19-bahamas-anguilla",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "anguilla",
+      "date": "2018-11-18",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2018-11-18-bahamas-anguilla",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "anguilla",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-12-bahamas-anguilla",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "anguilla",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2026-03-26-bahamas-anguilla",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "anguilla__bahamas",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "anguilla",
+  "teamBId": "bahamas"
+}

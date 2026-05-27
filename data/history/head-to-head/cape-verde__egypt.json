@@ -1,0 +1,154 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 7,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "egypt",
+    "date": "2025-11-17",
+    "homeScore": 1,
+    "homeTeamId": "cape-verde",
+    "matchId": "int-2025-11-17-cape-verde-egypt",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Al Ain International Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "egypt",
+      "date": "2024-01-22",
+      "homeScore": 2,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2024-01-22-cape-verde-egypt",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2024-09-06",
+      "homeScore": 3,
+      "homeTeamId": "egypt",
+      "matchId": "int-2024-09-06-egypt-cape-verde",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "egypt",
+      "date": "2024-11-15",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2024-11-15-cape-verde-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "egypt",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2025-11-17-cape-verde-egypt",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Al Ain International Cup"
+    }
+  ],
+  "pairKey": "cape-verde__egypt",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cape-verde",
+  "teamBId": "egypt"
+}

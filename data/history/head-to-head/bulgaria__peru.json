@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 11,
+    "teamAWins": 2,
+    "teamBGoals": 11,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "bulgaria",
+    "date": "1981-02-11",
+    "homeScore": 1,
+    "homeTeamId": "peru",
+    "matchId": "int-1981-02-11-peru-bulgaria",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "bulgaria",
+      "date": "1970-02-21",
+      "homeScore": 1,
+      "homeTeamId": "peru",
+      "matchId": "int-1970-02-21-peru-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "bulgaria",
+      "date": "1970-02-24",
+      "homeScore": 5,
+      "homeTeamId": "peru",
+      "matchId": "int-1970-02-24-peru-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "peru",
+      "date": "1970-06-02",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-1970-06-02-bulgaria-peru",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "1978-04-01",
+      "homeScore": 1,
+      "homeTeamId": "peru",
+      "matchId": "int-1978-04-01-peru-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bulgaria",
+      "date": "1981-02-11",
+      "homeScore": 1,
+      "homeTeamId": "peru",
+      "matchId": "int-1981-02-11-peru-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bulgaria__peru",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "bulgaria",
+  "teamBId": "peru"
+}

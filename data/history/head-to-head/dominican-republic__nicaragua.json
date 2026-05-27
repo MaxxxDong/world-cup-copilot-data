@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "dominican-republic",
+    "date": "2023-11-21",
+    "homeScore": 0,
+    "homeTeamId": "nicaragua",
+    "matchId": "int-2023-11-21-nicaragua-dominican-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "dominican-republic",
+      "date": "2017-11-08",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2017-11-08-nicaragua-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2017-11-11",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2017-11-11-dominican-republic-nicaragua",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "nicaragua",
+      "date": "2023-09-08",
+      "homeScore": 0,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2023-09-08-dominican-republic-nicaragua",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominican-republic",
+      "date": "2023-11-21",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2023-11-21-nicaragua-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "dominican-republic__nicaragua",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "dominican-republic",
+  "teamBId": "nicaragua"
+}

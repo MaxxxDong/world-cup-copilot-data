@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 8,
+    "teamAWins": 3,
+    "teamBGoals": 6,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "guinea",
+    "date": "2017-09-04",
+    "homeScore": 1,
+    "homeTeamId": "libya",
+    "matchId": "int-2017-09-04-libya-guinea",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "1977-03-13",
+      "homeScore": 3,
+      "homeTeamId": "guinea",
+      "matchId": "int-1977-03-13-guinea-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guinea",
+      "date": "1977-03-25",
+      "homeScore": 0,
+      "homeTeamId": "libya",
+      "matchId": "int-1977-03-25-libya-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea",
+      "date": "1982-02-05",
+      "homeScore": 3,
+      "homeTeamId": "libya",
+      "matchId": "int-1982-02-05-libya-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "libya",
+      "date": "2017-08-31",
+      "homeScore": 3,
+      "homeTeamId": "guinea",
+      "matchId": "int-2017-08-31-guinea-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea",
+      "date": "2017-09-04",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2017-09-04-libya-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "guinea__libya",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guinea",
+  "teamBId": "libya"
+}

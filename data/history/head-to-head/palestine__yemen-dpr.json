@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 2,
+    "teamAWins": 1,
+    "teamBGoals": 2,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "yemen-dpr",
+    "date": "1973-08-13",
+    "homeScore": 1,
+    "homeTeamId": "palestine",
+    "matchId": "int-1973-08-13-palestine-yemen-dpr",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Palestine Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "yemen-dpr",
+      "date": "1972-01-06",
+      "homeScore": 1,
+      "homeTeamId": "palestine",
+      "matchId": "int-1972-01-06-palestine-yemen-dpr",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "yemen-dpr",
+      "date": "1973-08-13",
+      "homeScore": 1,
+      "homeTeamId": "palestine",
+      "matchId": "int-1973-08-13-palestine-yemen-dpr",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    }
+  ],
+  "pairKey": "palestine__yemen-dpr",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "palestine",
+  "teamBId": "yemen-dpr"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 11,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "botswana",
+    "date": "2008-06-22",
+    "homeScore": 4,
+    "homeTeamId": "civ",
+    "matchId": "int-2008-06-22-civ-botswana",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "botswana",
+      "date": "1992-10-10",
+      "homeScore": 6,
+      "homeTeamId": "civ",
+      "matchId": "int-1992-10-10-civ-botswana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "civ",
+      "date": "1993-01-17",
+      "homeScore": 0,
+      "homeTeamId": "botswana",
+      "matchId": "int-1993-01-17-botswana-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "civ",
+      "date": "2008-06-14",
+      "homeScore": 1,
+      "homeTeamId": "botswana",
+      "matchId": "int-2008-06-14-botswana-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "botswana",
+      "date": "2008-06-22",
+      "homeScore": 4,
+      "homeTeamId": "civ",
+      "matchId": "int-2008-06-22-civ-botswana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "botswana__civ",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "botswana",
+  "teamBId": "civ"
+}

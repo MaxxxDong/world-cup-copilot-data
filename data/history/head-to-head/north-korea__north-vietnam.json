@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 17,
+    "teamAWins": 6,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "north-vietnam",
+    "date": "1966-12-06",
+    "homeScore": 3,
+    "homeTeamId": "north-korea",
+    "matchId": "int-1966-12-06-north-korea-north-vietnam",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "GaNEFo"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-vietnam",
+      "date": "1956-10-10",
+      "homeScore": 3,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1956-10-10-north-korea-north-vietnam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-vietnam",
+      "date": "1959-10-22",
+      "homeScore": 5,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1959-10-22-north-korea-north-vietnam",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "north-korea",
+      "date": "1960-10-08",
+      "homeScore": 1,
+      "homeTeamId": "north-vietnam",
+      "matchId": "int-1960-10-08-north-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-vietnam",
+      "date": "1963-11-19",
+      "homeScore": 2,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1963-11-19-north-korea-north-vietnam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-vietnam",
+      "date": "1965-08-02",
+      "homeScore": 1,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1965-08-02-north-korea-north-vietnam",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-vietnam",
+      "date": "1966-12-06",
+      "homeScore": 3,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1966-12-06-north-korea-north-vietnam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "GaNEFo"
+    }
+  ],
+  "pairKey": "north-korea__north-vietnam",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 14,
+      "teamAWins": 5,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "north-korea",
+  "teamBId": "north-vietnam"
+}

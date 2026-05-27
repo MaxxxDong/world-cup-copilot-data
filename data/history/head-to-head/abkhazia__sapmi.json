@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 5,
+    "teamAWins": 3,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "abkhazia",
+    "date": "2019-06-03",
+    "homeScore": 0,
+    "homeTeamId": "sapmi",
+    "matchId": "int-2019-06-03-sapmi-abkhazia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONIFA European Football Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "abkhazia",
+      "date": "2014-06-02",
+      "homeScore": 1,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2014-06-02-sapmi-abkhazia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sapmi",
+      "date": "2016-06-01",
+      "homeScore": 2,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2016-06-01-abkhazia-sapmi",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-03",
+      "homeScore": 0,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2019-06-03-sapmi-abkhazia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "pairKey": "abkhazia__sapmi",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "abkhazia",
+  "teamBId": "sapmi"
+}

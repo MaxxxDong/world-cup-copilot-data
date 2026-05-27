@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 5,
+    "teamAWins": 0,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "aruba",
+    "date": "2024-03-23",
+    "homeScore": 2,
+    "homeTeamId": "dominican-republic",
+    "matchId": "int-2024-03-23-dominican-republic-aruba",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "aruba",
+      "date": "1996-03-24",
+      "homeScore": 3,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-1996-03-24-dominican-republic-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "dominican-republic",
+      "date": "1996-03-31",
+      "homeScore": 1,
+      "homeTeamId": "aruba",
+      "matchId": "int-1996-03-31-aruba-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "dominican-republic",
+      "date": "2012-09-23",
+      "homeScore": 2,
+      "homeTeamId": "aruba",
+      "matchId": "int-2012-09-23-aruba-dominican-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "aruba",
+      "date": "2024-03-23",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2024-03-23-dominican-republic-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "aruba__dominican-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "aruba",
+  "teamBId": "dominican-republic"
+}

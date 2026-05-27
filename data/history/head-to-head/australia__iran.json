@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 8,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "iran",
+    "date": "1997-11-29",
+    "homeScore": 2,
+    "homeTeamId": "australia",
+    "matchId": "int-1997-11-29-australia-iran",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "australia",
+      "date": "1970-11-04",
+      "homeScore": 1,
+      "homeTeamId": "iran",
+      "matchId": "int-1970-11-04-iran-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iran",
+      "date": "1973-08-18",
+      "homeScore": 3,
+      "homeTeamId": "australia",
+      "matchId": "int-1973-08-18-australia-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "1973-08-24",
+      "homeScore": 2,
+      "homeTeamId": "iran",
+      "matchId": "int-1973-08-24-iran-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iran",
+      "date": "1977-08-14",
+      "homeScore": 0,
+      "homeTeamId": "australia",
+      "matchId": "int-1977-08-14-australia-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "1977-11-25",
+      "homeScore": 1,
+      "homeTeamId": "iran",
+      "matchId": "int-1977-11-25-iran-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "australia",
+      "date": "1997-11-22",
+      "homeScore": 1,
+      "homeTeamId": "iran",
+      "matchId": "int-1997-11-22-iran-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iran",
+      "date": "1997-11-29",
+      "homeScore": 2,
+      "homeTeamId": "australia",
+      "matchId": "int-1997-11-29-australia-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "australia__iran",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "australia",
+  "teamBId": "iran"
+}

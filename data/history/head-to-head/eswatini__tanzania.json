@@ -1,0 +1,170 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 5,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "eswatini",
+    "date": "2015-05-18",
+    "homeScore": 0,
+    "homeTeamId": "tanzania",
+    "matchId": "int-2015-05-18-tanzania-eswatini",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "COSAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "eswatini",
+      "date": "1988-10-01",
+      "homeScore": 1,
+      "homeTeamId": "tanzania",
+      "matchId": "int-1988-10-01-tanzania-eswatini",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "1988-10-16",
+      "homeScore": 1,
+      "homeTeamId": "eswatini",
+      "matchId": "int-1988-10-16-eswatini-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "1990-01-21",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-1990-01-21-eswatini-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2014-11-16",
+      "homeScore": 1,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2014-11-16-eswatini-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "eswatini",
+      "date": "2015-05-18",
+      "homeScore": 0,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2015-05-18-tanzania-eswatini",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    }
+  ],
+  "pairKey": "eswatini__tanzania",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "eswatini",
+  "teamBId": "tanzania"
+}

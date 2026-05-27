@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 1,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "jersey",
+    "date": "1991-06-26",
+    "homeScore": 5,
+    "homeTeamId": "faroe-islands",
+    "matchId": "int-1991-06-26-faroe-islands-jersey",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Island Games"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "jersey",
+      "date": "1991-06-26",
+      "homeScore": 5,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-1991-06-26-faroe-islands-jersey",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "pairKey": "faroe-islands__jersey",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "faroe-islands",
+  "teamBId": "jersey"
+}

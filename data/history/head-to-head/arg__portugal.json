@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "arg",
+    "date": "2014-11-18",
+    "homeScore": 1,
+    "homeTeamId": "portugal",
+    "matchId": "int-2014-11-18-portugal-arg",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "1928-04-01",
+      "homeScore": 0,
+      "homeTeamId": "portugal",
+      "matchId": "int-1928-04-01-portugal-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "arg",
+      "date": "1952-12-14",
+      "homeScore": 1,
+      "homeTeamId": "portugal",
+      "matchId": "int-1952-12-14-portugal-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "arg",
+      "date": "1954-11-28",
+      "homeScore": 1,
+      "homeTeamId": "portugal",
+      "matchId": "int-1954-11-28-portugal-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "arg",
+      "date": "1961-06-04",
+      "homeScore": 0,
+      "homeTeamId": "portugal",
+      "matchId": "int-1961-06-04-portugal-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "portugal",
+      "date": "1964-05-31",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-1964-05-31-arg-portugal",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "portugal",
+      "date": "1972-06-29",
+      "homeScore": 1,
+      "homeTeamId": "arg",
+      "matchId": "int-1972-06-29-arg-portugal",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Brazil Independence Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "portugal",
+      "date": "2011-02-09",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-2011-02-09-arg-portugal",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "2014-11-18",
+      "homeScore": 1,
+      "homeTeamId": "portugal",
+      "matchId": "int-2014-11-18-portugal-arg",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "arg__portugal",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 12,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "arg",
+  "teamBId": "portugal"
+}

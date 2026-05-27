@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "basque-country",
+    "date": "1938-06-20",
+    "homeScore": 3,
+    "homeTeamId": "cuba",
+    "matchId": "int-1938-06-20-cuba-basque-country",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "basque-country",
+      "date": "1938-05-29",
+      "homeScore": 0,
+      "homeTeamId": "cuba",
+      "matchId": "int-1938-05-29-cuba-basque-country",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "basque-country",
+      "date": "1938-06-20",
+      "homeScore": 3,
+      "homeTeamId": "cuba",
+      "matchId": "int-1938-06-20-cuba-basque-country",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "basque-country__cuba",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "basque-country",
+  "teamBId": "cuba"
+}

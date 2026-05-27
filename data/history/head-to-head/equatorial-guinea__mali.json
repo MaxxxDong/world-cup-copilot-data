@@ -1,0 +1,138 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 0,
+    "teamAWins": 0,
+    "teamBGoals": 2,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "equatorial-guinea",
+    "date": "2022-01-26",
+    "homeScore": 0,
+    "homeTeamId": "mali",
+    "matchId": "int-2022-01-26-mali-equatorial-guinea",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2016-03-25",
+      "homeScore": 1,
+      "homeTeamId": "mali",
+      "matchId": "int-2016-03-25-mali-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mali",
+      "date": "2016-03-28",
+      "homeScore": 0,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2016-03-28-equatorial-guinea-mali",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2022-01-26",
+      "homeScore": 0,
+      "homeTeamId": "mali",
+      "matchId": "int-2022-01-26-mali-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "equatorial-guinea__mali",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "equatorial-guinea",
+  "teamBId": "mali"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 21,
+    "teamAWins": 4,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 5,
+    "awayTeamId": "curacao",
+    "date": "2018-10-12",
+    "homeScore": 0,
+    "homeTeamId": "united-states-virgin-islands",
+    "matchId": "int-2018-10-12-united-states-virgin-islands-curacao",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "curacao",
+      "date": "2011-11-11",
+      "homeScore": 0,
+      "homeTeamId": "united-states-virgin-islands",
+      "matchId": "int-2011-11-11-united-states-virgin-islands-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "united-states-virgin-islands",
+      "date": "2011-11-15",
+      "homeScore": 6,
+      "homeTeamId": "curacao",
+      "matchId": "int-2011-11-15-curacao-united-states-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "united-states-virgin-islands",
+      "date": "2016-06-07",
+      "homeScore": 7,
+      "homeTeamId": "curacao",
+      "matchId": "int-2016-06-07-curacao-united-states-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "curacao",
+      "date": "2018-10-12",
+      "homeScore": 0,
+      "homeTeamId": "united-states-virgin-islands",
+      "matchId": "int-2018-10-12-united-states-virgin-islands-curacao",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    }
+  ],
+  "pairKey": "curacao__united-states-virgin-islands",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 21,
+      "teamAWins": 4,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 16,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "curacao",
+  "teamBId": "united-states-virgin-islands"
+}

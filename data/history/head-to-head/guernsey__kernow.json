@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 8,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "guernsey",
+    "date": "2007-03-24",
+    "homeScore": 1,
+    "homeTeamId": "kernow",
+    "matchId": "int-2007-03-24-kernow-guernsey",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "kernow",
+      "date": "1998-11-21",
+      "homeScore": 1,
+      "homeTeamId": "guernsey",
+      "matchId": "int-1998-11-21-guernsey-kernow",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guernsey",
+      "date": "2000-02-20",
+      "homeScore": 1,
+      "homeTeamId": "kernow",
+      "matchId": "int-2000-02-20-kernow-guernsey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guernsey",
+      "date": "2007-03-24",
+      "homeScore": 1,
+      "homeTeamId": "kernow",
+      "matchId": "int-2007-03-24-kernow-guernsey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "guernsey__kernow",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guernsey",
+  "teamBId": "kernow"
+}

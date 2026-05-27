@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 1,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "western-australia",
+    "date": "1971-06-06",
+    "homeScore": 2,
+    "homeTeamId": "cambodia",
+    "matchId": "int-1971-06-06-cambodia-western-australia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Indonesia Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "western-australia",
+      "date": "1971-06-06",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1971-06-06-cambodia-western-australia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indonesia Tournament"
+    }
+  ],
+  "pairKey": "cambodia__western-australia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cambodia",
+  "teamBId": "western-australia"
+}

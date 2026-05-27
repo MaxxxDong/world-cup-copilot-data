@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 10,
+    "teamAGoals": 25,
+    "teamAWins": 9,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "israel",
+    "date": "2021-09-07",
+    "homeScore": 5,
+    "homeTeamId": "denmark",
+    "matchId": "int-2021-09-07-denmark-israel",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "denmark",
+      "date": "1964-12-01",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1964-12-01-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "israel",
+      "date": "1966-10-26",
+      "homeScore": 3,
+      "homeTeamId": "denmark",
+      "matchId": "int-1966-10-26-denmark-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "denmark",
+      "date": "1976-02-04",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1976-02-04-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "denmark",
+      "date": "1978-02-08",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-1978-02-08-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "denmark",
+      "date": "1999-11-13",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1999-11-13-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "1999-11-17",
+      "homeScore": 3,
+      "homeTeamId": "denmark",
+      "matchId": "int-1999-11-17-denmark-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "israel",
+      "date": "2002-04-17",
+      "homeScore": 3,
+      "homeTeamId": "denmark",
+      "matchId": "int-2002-04-17-denmark-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "2006-03-01",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-2006-03-01-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "2021-03-25",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-2021-03-25-israel-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2021-09-07",
+      "homeScore": 5,
+      "homeTeamId": "denmark",
+      "matchId": "int-2021-09-07-denmark-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "denmark__israel",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 15,
+      "teamAWins": 4,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 10,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 10,
+      "teamAGoals": 25,
+      "teamAWins": 9,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "denmark",
+  "teamBId": "israel"
+}

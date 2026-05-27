@@ -1,0 +1,95 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 1,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "haiti",
+    "date": "2017-10-10",
+    "homeScore": 3,
+    "homeTeamId": "japan",
+    "matchId": "int-2017-10-10-japan-haiti",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Kirin Challenge Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "haiti",
+      "date": "2017-10-10",
+      "homeScore": 3,
+      "homeTeamId": "japan",
+      "matchId": "int-2017-10-10-japan-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Kirin Challenge Cup"
+    }
+  ],
+  "pairKey": "haiti__japan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "haiti",
+  "teamBId": "japan"
+}

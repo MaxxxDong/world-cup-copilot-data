@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 12,
+    "teamAWins": 4,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "kazakhstan",
+    "date": "2024-03-21",
+    "homeScore": 5,
+    "homeTeamId": "greece",
+    "matchId": "int-2024-03-21-greece-kazakhstan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "kazakhstan",
+      "date": "2004-11-17",
+      "homeScore": 3,
+      "homeTeamId": "greece",
+      "matchId": "int-2004-11-17-greece-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "greece",
+      "date": "2005-09-07",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2005-09-07-kazakhstan-greece",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "greece",
+      "date": "2006-03-01",
+      "homeScore": 0,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2006-03-01-kazakhstan-greece",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Cyprus International Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2024-03-21",
+      "homeScore": 5,
+      "homeTeamId": "greece",
+      "matchId": "int-2024-03-21-greece-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "greece__kazakhstan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 12,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "greece",
+  "teamBId": "kazakhstan"
+}

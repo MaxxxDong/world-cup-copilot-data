@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 10,
+    "teamAGoals": 20,
+    "teamAWins": 8,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "bra",
+    "date": "2006-09-05",
+    "homeScore": 0,
+    "homeTeamId": "wales",
+    "matchId": "int-2006-09-05-wales-bra",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "1958-06-19",
+      "homeScore": 1,
+      "homeTeamId": "bra",
+      "matchId": "int-1958-06-19-bra-wales",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "wales",
+      "date": "1962-05-12",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1962-05-12-bra-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "wales",
+      "date": "1962-05-16",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1962-05-16-bra-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "wales",
+      "date": "1966-05-14",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1966-05-14-bra-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "1966-05-18",
+      "homeScore": 1,
+      "homeTeamId": "bra",
+      "matchId": "int-1966-05-18-bra-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bra",
+      "date": "1983-06-12",
+      "homeScore": 1,
+      "homeTeamId": "wales",
+      "matchId": "int-1983-06-12-wales-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bra",
+      "date": "1991-09-11",
+      "homeScore": 1,
+      "homeTeamId": "wales",
+      "matchId": "int-1991-09-11-wales-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "1997-11-11",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1997-11-11-bra-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "bra",
+      "date": "2000-05-23",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-2000-05-23-wales-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bra",
+      "date": "2006-09-05",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-2006-09-05-wales-bra",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bra__wales",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 9,
+      "teamAGoals": 19,
+      "teamAWins": 7,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 8,
+      "teamAGoals": 17,
+      "teamAWins": 6,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bra",
+  "teamBId": "wales"
+}

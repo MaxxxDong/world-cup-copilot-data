@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 18,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "malta",
+    "date": "1999-06-08",
+    "homeScore": 4,
+    "homeTeamId": "serbia",
+    "matchId": "int-1999-06-08-serbia-malta",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "1996-06-02",
+      "homeScore": 6,
+      "homeTeamId": "serbia",
+      "matchId": "int-1996-06-02-serbia-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "serbia",
+      "date": "1997-10-11",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1997-10-11-malta-serbia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "serbia",
+      "date": "1999-02-10",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1999-02-10-malta-serbia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "malta",
+      "date": "1999-06-08",
+      "homeScore": 4,
+      "homeTeamId": "serbia",
+      "matchId": "int-1999-06-08-serbia-malta",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "malta__serbia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 14,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "malta",
+  "teamBId": "serbia"
+}

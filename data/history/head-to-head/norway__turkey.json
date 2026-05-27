@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 10,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 15,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "norway",
+    "date": "2021-10-08",
+    "homeScore": 1,
+    "homeTeamId": "turkey",
+    "matchId": "int-2021-10-08-turkey-norway",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "1961-06-01",
+      "homeScore": 0,
+      "homeTeamId": "norway",
+      "matchId": "int-1961-06-01-norway-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "norway",
+      "date": "1961-10-29",
+      "homeScore": 2,
+      "homeTeamId": "turkey",
+      "matchId": "int-1961-10-29-turkey-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "1993-04-28",
+      "homeScore": 3,
+      "homeTeamId": "norway",
+      "matchId": "int-1993-04-28-norway-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "norway",
+      "date": "1993-11-10",
+      "homeScore": 2,
+      "homeTeamId": "turkey",
+      "matchId": "int-1993-11-10-turkey-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "norway",
+      "date": "2000-02-23",
+      "homeScore": 0,
+      "homeTeamId": "turkey",
+      "matchId": "int-2000-02-23-turkey-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "2001-08-15",
+      "homeScore": 1,
+      "homeTeamId": "norway",
+      "matchId": "int-2001-08-15-norway-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "norway",
+      "date": "2007-03-28",
+      "homeScore": 2,
+      "homeTeamId": "turkey",
+      "matchId": "int-2007-03-28-turkey-norway",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turkey",
+      "date": "2007-11-17",
+      "homeScore": 1,
+      "homeTeamId": "norway",
+      "matchId": "int-2007-11-17-norway-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "2021-03-27",
+      "homeScore": 0,
+      "homeTeamId": "norway",
+      "matchId": "int-2021-03-27-norway-turkey",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "norway",
+      "date": "2021-10-08",
+      "homeScore": 1,
+      "homeTeamId": "turkey",
+      "matchId": "int-2021-10-08-turkey-norway",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "norway__turkey",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 8,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 14,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 8,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 10,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "norway",
+  "teamBId": "turkey"
+}

@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 8,
+    "teamAWins": 4,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "croatia",
+    "date": "2020-11-14",
+    "homeScore": 2,
+    "homeTeamId": "sweden",
+    "matchId": "int-2020-11-14-sweden-croatia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2003-04-30",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-2003-04-30-sweden-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "2004-09-08",
+      "homeScore": 0,
+      "homeTeamId": "sweden",
+      "matchId": "int-2004-09-08-sweden-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sweden",
+      "date": "2005-10-08",
+      "homeScore": 1,
+      "homeTeamId": "croatia",
+      "matchId": "int-2005-10-08-croatia-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sweden",
+      "date": "2012-02-29",
+      "homeScore": 1,
+      "homeTeamId": "croatia",
+      "matchId": "int-2012-02-29-croatia-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "2020-10-11",
+      "homeScore": 2,
+      "homeTeamId": "croatia",
+      "matchId": "int-2020-10-11-croatia-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "2020-11-14",
+      "homeScore": 2,
+      "homeTeamId": "sweden",
+      "matchId": "int-2020-11-14-sweden-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "croatia__sweden",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 8,
+      "teamAWins": 4,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "croatia",
+  "teamBId": "sweden"
+}

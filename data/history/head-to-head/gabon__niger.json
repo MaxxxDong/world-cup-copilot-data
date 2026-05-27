@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 9,
+    "teamAGoals": 20,
+    "teamAWins": 6,
+    "teamBGoals": 12,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "gabon",
+    "date": "2025-06-06",
+    "homeScore": 4,
+    "homeTeamId": "niger",
+    "matchId": "int-2025-06-06-niger-gabon",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "gabon",
+      "date": "1992-08-30",
+      "homeScore": 1,
+      "homeTeamId": "niger",
+      "matchId": "int-1992-08-30-niger-gabon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "1993-07-11",
+      "homeScore": 3,
+      "homeTeamId": "gabon",
+      "matchId": "int-1993-07-11-gabon-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2011-09-06",
+      "homeScore": 1,
+      "homeTeamId": "gabon",
+      "matchId": "int-2011-09-06-gabon-niger",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2012-01-23",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2012-01-23-gabon-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gabon",
+      "date": "2012-06-03",
+      "homeScore": 3,
+      "homeTeamId": "niger",
+      "matchId": "int-2012-06-03-niger-gabon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "2013-06-15",
+      "homeScore": 4,
+      "homeTeamId": "gabon",
+      "matchId": "int-2013-06-15-gabon-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gabon",
+      "date": "2015-06-06",
+      "homeScore": 2,
+      "homeTeamId": "niger",
+      "matchId": "int-2015-06-06-niger-gabon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "gabon",
+      "date": "2022-11-20",
+      "homeScore": 1,
+      "homeTeamId": "niger",
+      "matchId": "int-2022-11-20-niger-gabon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "gabon",
+      "date": "2025-06-06",
+      "homeScore": 4,
+      "homeTeamId": "niger",
+      "matchId": "int-2025-06-06-niger-gabon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "gabon__niger",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 12,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 13,
+      "teamAWins": 4,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gabon",
+  "teamBId": "niger"
+}

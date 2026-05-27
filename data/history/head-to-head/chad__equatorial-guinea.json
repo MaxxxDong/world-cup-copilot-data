@@ -1,0 +1,186 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 9,
+    "teamAWins": 4,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "equatorial-guinea",
+    "date": "1999-11-13",
+    "homeScore": 1,
+    "homeTeamId": "chad",
+    "matchId": "int-1999-11-13-chad-equatorial-guinea",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UNIFFAC Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1984-12-16",
+      "homeScore": 1,
+      "homeTeamId": "chad",
+      "matchId": "int-1984-12-16-chad-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1985-12-10",
+      "homeScore": 1,
+      "homeTeamId": "chad",
+      "matchId": "int-1985-12-10-chad-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chad",
+      "date": "1986-12-13",
+      "homeScore": 0,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-1986-12-13-equatorial-guinea-chad",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1987-12-15",
+      "homeScore": 4,
+      "homeTeamId": "chad",
+      "matchId": "int-1987-12-15-chad-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1990-12-12",
+      "homeScore": 1,
+      "homeTeamId": "chad",
+      "matchId": "int-1990-12-12-chad-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UDEAC Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "equatorial-guinea",
+      "date": "1999-11-13",
+      "homeScore": 1,
+      "homeTeamId": "chad",
+      "matchId": "int-1999-11-13-chad-equatorial-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UNIFFAC Cup"
+    }
+  ],
+  "pairKey": "chad__equatorial-guinea",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "chad",
+  "teamBId": "equatorial-guinea"
+}

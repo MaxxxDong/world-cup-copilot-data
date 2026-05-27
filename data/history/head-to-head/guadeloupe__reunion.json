@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "guadeloupe",
+    "date": "2012-09-26",
+    "homeScore": 2,
+    "homeTeamId": "reunion",
+    "matchId": "int-2012-09-26-reunion-guadeloupe",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Coupe de l'Outre-Mer"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "reunion",
+      "date": "1987-05-30",
+      "homeScore": 3,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1987-05-30-guadeloupe-reunion",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "reunion",
+      "date": "1993-05-20",
+      "homeScore": 0,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1993-05-20-guadeloupe-reunion",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guadeloupe",
+      "date": "2012-09-26",
+      "homeScore": 2,
+      "homeTeamId": "reunion",
+      "matchId": "int-2012-09-26-reunion-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Coupe de l'Outre-Mer"
+    }
+  ],
+  "pairKey": "guadeloupe__reunion",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guadeloupe",
+  "teamBId": "reunion"
+}

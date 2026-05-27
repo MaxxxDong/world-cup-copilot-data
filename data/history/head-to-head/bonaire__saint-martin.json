@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "saint-martin",
+    "date": "2026-03-29",
+    "homeScore": 0,
+    "homeTeamId": "bonaire",
+    "matchId": "int-2026-03-29-bonaire-saint-martin",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2023-09-11",
+      "homeScore": 2,
+      "homeTeamId": "saint-martin",
+      "matchId": "int-2023-09-11-saint-martin-bonaire",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "saint-martin",
+      "date": "2023-11-21",
+      "homeScore": 0,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2023-11-21-bonaire-saint-martin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-martin",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2026-03-29-bonaire-saint-martin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "bonaire__saint-martin",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bonaire",
+  "teamBId": "saint-martin"
+}

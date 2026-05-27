@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "niger",
+    "date": "2025-10-12",
+    "homeScore": 0,
+    "homeTeamId": "zambia",
+    "matchId": "int-2025-10-12-zambia-niger",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "zambia",
+      "date": "2014-10-11",
+      "homeScore": 0,
+      "homeTeamId": "niger",
+      "matchId": "int-2014-10-11-niger-zambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2014-10-15",
+      "homeScore": 3,
+      "homeTeamId": "zambia",
+      "matchId": "int-2014-10-15-zambia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zambia",
+      "date": "2019-10-10",
+      "homeScore": 1,
+      "homeTeamId": "niger",
+      "matchId": "int-2019-10-10-niger-zambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zambia",
+      "date": "2023-11-21",
+      "homeScore": 2,
+      "homeTeamId": "niger",
+      "matchId": "int-2023-11-21-niger-zambia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "zambia",
+      "matchId": "int-2025-10-12-zambia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "niger__zambia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "niger",
+  "teamBId": "zambia"
+}

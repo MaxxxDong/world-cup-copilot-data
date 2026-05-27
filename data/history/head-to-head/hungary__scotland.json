@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 10,
+    "teamAGoals": 19,
+    "teamAWins": 5,
+    "teamBGoals": 14,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "hungary",
+    "date": "2024-06-23",
+    "homeScore": 0,
+    "homeTeamId": "scotland",
+    "matchId": "int-2024-06-23-scotland-hungary",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "1938-12-07",
+      "homeScore": 3,
+      "homeTeamId": "scotland",
+      "matchId": "int-1938-12-07-scotland-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "hungary",
+      "date": "1954-12-08",
+      "homeScore": 2,
+      "homeTeamId": "scotland",
+      "matchId": "int-1954-12-08-scotland-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "1955-05-29",
+      "homeScore": 3,
+      "homeTeamId": "hungary",
+      "matchId": "int-1955-05-29-hungary-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "1958-05-07",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-1958-05-07-scotland-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "scotland",
+      "date": "1960-06-05",
+      "homeScore": 3,
+      "homeTeamId": "hungary",
+      "matchId": "int-1960-06-05-hungary-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "1980-05-31",
+      "homeScore": 3,
+      "homeTeamId": "hungary",
+      "matchId": "int-1980-05-31-hungary-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hungary",
+      "date": "1987-09-09",
+      "homeScore": 2,
+      "homeTeamId": "scotland",
+      "matchId": "int-1987-09-09-scotland-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "hungary",
+      "date": "2004-08-18",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-2004-08-18-scotland-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "2018-03-27",
+      "homeScore": 0,
+      "homeTeamId": "hungary",
+      "matchId": "int-2018-03-27-hungary-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "2024-06-23",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-2024-06-23-scotland-hungary",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    }
+  ],
+  "pairKey": "hungary__scotland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 9,
+      "teamAGoals": 18,
+      "teamAWins": 4,
+      "teamBGoals": 14,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 9,
+      "teamAGoals": 18,
+      "teamAWins": 4,
+      "teamBGoals": 14,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "hungary",
+  "teamBId": "scotland"
+}

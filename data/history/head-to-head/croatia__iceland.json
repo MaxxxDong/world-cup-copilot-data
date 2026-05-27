@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "croatia",
+    "date": "2018-06-26",
+    "homeScore": 1,
+    "homeTeamId": "iceland",
+    "matchId": "int-2018-06-26-iceland-croatia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2005-03-26",
+      "homeScore": 4,
+      "homeTeamId": "croatia",
+      "matchId": "int-2005-03-26-croatia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "croatia",
+      "date": "2005-09-03",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-2005-09-03-iceland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2013-11-15",
+      "homeScore": 0,
+      "homeTeamId": "iceland",
+      "matchId": "int-2013-11-15-iceland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2013-11-19",
+      "homeScore": 2,
+      "homeTeamId": "croatia",
+      "matchId": "int-2013-11-19-croatia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2016-11-12",
+      "homeScore": 2,
+      "homeTeamId": "croatia",
+      "matchId": "int-2016-11-12-croatia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2017-06-11",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-2017-06-11-iceland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2018-06-26",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-2018-06-26-iceland-croatia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "croatia__iceland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 13,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "croatia",
+  "teamBId": "iceland"
+}

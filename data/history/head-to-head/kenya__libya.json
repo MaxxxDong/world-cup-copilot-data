@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "libya",
+    "date": "2017-12-05",
+    "homeScore": 0,
+    "homeTeamId": "kenya",
+    "matchId": "int-2017-12-05-kenya-libya",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CECAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "2004-01-16",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-2004-01-16-libya-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "2004-01-19",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-2004-01-19-libya-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2013-02-06",
+      "homeScore": 3,
+      "homeTeamId": "kenya",
+      "matchId": "int-2013-02-06-kenya-libya",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2017-12-05",
+      "homeScore": 0,
+      "homeTeamId": "kenya",
+      "matchId": "int-2017-12-05-kenya-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    }
+  ],
+  "pairKey": "kenya__libya",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kenya",
+  "teamBId": "libya"
+}

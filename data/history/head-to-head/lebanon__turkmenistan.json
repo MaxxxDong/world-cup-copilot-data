@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 8,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "lebanon",
+    "date": "2021-06-09",
+    "homeScore": 3,
+    "homeTeamId": "turkmenistan",
+    "matchId": "int-2021-06-09-turkmenistan-lebanon",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkmenistan",
+      "date": "1996-05-12",
+      "homeScore": 3,
+      "homeTeamId": "lebanon",
+      "matchId": "int-1996-05-12-lebanon-turkmenistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "lebanon",
+      "date": "1996-05-26",
+      "homeScore": 0,
+      "homeTeamId": "turkmenistan",
+      "matchId": "int-1996-05-26-turkmenistan-lebanon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkmenistan",
+      "date": "2019-10-10",
+      "homeScore": 2,
+      "homeTeamId": "lebanon",
+      "matchId": "int-2019-10-10-lebanon-turkmenistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "lebanon",
+      "date": "2021-06-09",
+      "homeScore": 3,
+      "homeTeamId": "turkmenistan",
+      "matchId": "int-2021-06-09-turkmenistan-lebanon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "lebanon__turkmenistan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "lebanon",
+  "teamBId": "turkmenistan"
+}

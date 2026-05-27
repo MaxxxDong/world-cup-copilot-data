@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 9,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 24,
+    "teamBWins": 9
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "moldova",
+    "date": "2023-10-12",
+    "homeScore": 3,
+    "homeTeamId": "sweden",
+    "matchId": "int-2023-10-12-sweden-moldova",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "2001-03-28",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2001-03-28-moldova-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "moldova",
+      "date": "2001-06-06",
+      "homeScore": 6,
+      "homeTeamId": "sweden",
+      "matchId": "int-2001-06-06-sweden-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2011-03-29",
+      "homeScore": 2,
+      "homeTeamId": "sweden",
+      "matchId": "int-2011-03-29-sweden-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "sweden",
+      "date": "2011-06-03",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2011-06-03-moldova-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "2014-01-17",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2014-01-17-moldova-sweden",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "2015-03-27",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2015-03-27-moldova-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "moldova",
+      "date": "2015-10-12",
+      "homeScore": 2,
+      "homeTeamId": "sweden",
+      "matchId": "int-2015-10-12-sweden-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "2020-01-09",
+      "homeScore": 0,
+      "homeTeamId": "moldova",
+      "matchId": "int-2020-01-09-moldova-sweden",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2023-10-12",
+      "homeScore": 3,
+      "homeTeamId": "sweden",
+      "matchId": "int-2023-10-12-sweden-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "moldova__sweden",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 6
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 7,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 21,
+      "teamBWins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "moldova",
+  "teamBId": "sweden"
+}

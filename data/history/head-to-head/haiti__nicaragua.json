@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 14,
+    "teamAWins": 6,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "nicaragua",
+    "date": "2025-11-18",
+    "homeScore": 2,
+    "homeTeamId": "haiti",
+    "matchId": "int-2025-11-18-haiti-nicaragua",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "nicaragua",
+      "date": "1967-03-10",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-1967-03-10-haiti-nicaragua",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Championship"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "nicaragua",
+      "date": "2004-01-31",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2004-01-31-haiti-nicaragua",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "haiti",
+      "date": "2004-02-29",
+      "homeScore": 1,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2004-02-29-nicaragua-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "haiti",
+      "date": "2018-11-17",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2018-11-17-nicaragua-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "haiti",
+      "date": "2019-06-20",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2019-06-20-nicaragua-haiti",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2021-06-08",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2021-06-08-haiti-nicaragua",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "haiti",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2025-10-09-nicaragua-haiti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-2025-11-18-haiti-nicaragua",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "haiti__nicaragua",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 12,
+      "teamAWins": 6,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "haiti",
+  "teamBId": "nicaragua"
+}

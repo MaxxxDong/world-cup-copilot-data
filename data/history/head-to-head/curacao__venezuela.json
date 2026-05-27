@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 6,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "venezuela",
+    "date": "2008-06-09",
+    "homeScore": 0,
+    "homeTeamId": "curacao",
+    "matchId": "int-2008-06-09-curacao-venezuela",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "venezuela",
+      "date": "1944-04-09",
+      "homeScore": 3,
+      "homeTeamId": "curacao",
+      "matchId": "int-1944-04-09-curacao-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "1946-12-19",
+      "homeScore": 1,
+      "homeTeamId": "curacao",
+      "matchId": "int-1946-12-19-curacao-venezuela",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Central American and Caribbean Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "venezuela",
+      "date": "1981-01-11",
+      "homeScore": 3,
+      "homeTeamId": "curacao",
+      "matchId": "int-1981-01-11-curacao-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "1981-01-18",
+      "homeScore": 1,
+      "homeTeamId": "venezuela",
+      "matchId": "int-1981-01-18-venezuela-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "1988-09-26",
+      "homeScore": 0,
+      "homeTeamId": "curacao",
+      "matchId": "int-1988-09-26-curacao-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "venezuela",
+      "date": "2008-06-09",
+      "homeScore": 0,
+      "homeTeamId": "curacao",
+      "matchId": "int-2008-06-09-curacao-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "curacao__venezuela",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "curacao",
+  "teamBId": "venezuela"
+}

@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 9,
+    "teamAGoals": 12,
+    "teamAWins": 1,
+    "teamBGoals": 19,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 6,
+    "awayTeamId": "yemen",
+    "date": "2010-10-13",
+    "homeScore": 3,
+    "homeTeamId": "india",
+    "matchId": "int-2010-10-13-india-yemen",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "yemen",
+      "date": "1984-10-12",
+      "homeScore": 4,
+      "homeTeamId": "india",
+      "matchId": "int-1984-10-12-india-yemen",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "1988-02-11",
+      "homeScore": 1,
+      "homeTeamId": "yemen",
+      "matchId": "int-1988-02-11-yemen-india",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "yemen",
+      "date": "1994-09-14",
+      "homeScore": 0,
+      "homeTeamId": "india",
+      "matchId": "int-1994-09-14-india-yemen",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yemen",
+      "date": "1994-09-18",
+      "homeScore": 0,
+      "homeTeamId": "india",
+      "matchId": "int-1994-09-18-india-yemen",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "yemen",
+      "date": "2001-04-15",
+      "homeScore": 1,
+      "homeTeamId": "india",
+      "matchId": "int-2001-04-15-india-yemen",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "india",
+      "date": "2001-05-04",
+      "homeScore": 3,
+      "homeTeamId": "yemen",
+      "matchId": "int-2001-05-04-yemen-india",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "yemen",
+      "date": "2006-03-01",
+      "homeScore": 0,
+      "homeTeamId": "india",
+      "matchId": "int-2006-03-01-india-yemen",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "india",
+      "date": "2006-11-15",
+      "homeScore": 2,
+      "homeTeamId": "yemen",
+      "matchId": "int-2006-11-15-yemen-india",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "yemen",
+      "date": "2010-10-13",
+      "homeScore": 3,
+      "homeTeamId": "india",
+      "matchId": "int-2010-10-13-india-yemen",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "india__yemen",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 12,
+      "teamAWins": 1,
+      "teamBGoals": 15,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "india",
+  "teamBId": "yemen"
+}

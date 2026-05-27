@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "kazakhstan",
+    "date": "2005-01-29",
+    "homeScore": 4,
+    "homeTeamId": "japan",
+    "matchId": "int-2005-01-29-japan-kazakhstan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "japan",
+      "date": "1997-05-15",
+      "homeScore": 2,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-1997-05-15-kazakhstan-japan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "East Asian Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "japan",
+      "date": "1997-10-04",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-1997-10-04-kazakhstan-japan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kazakhstan",
+      "date": "1997-11-08",
+      "homeScore": 5,
+      "homeTeamId": "japan",
+      "matchId": "int-1997-11-08-japan-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2005-01-29",
+      "homeScore": 4,
+      "homeTeamId": "japan",
+      "matchId": "int-2005-01-29-japan-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "japan__kazakhstan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "japan",
+  "teamBId": "kazakhstan"
+}

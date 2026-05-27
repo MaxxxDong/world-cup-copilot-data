@@ -1,0 +1,154 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "ukraine",
+    "date": "2020-11-17",
+    "homeScore": 3,
+    "homeTeamId": "switzerland",
+    "matchId": "int-2020-11-17-switzerland-ukraine",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2006-06-26",
+      "homeScore": 0,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2006-06-26-switzerland-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ukraine",
+      "date": "2010-11-17",
+      "homeScore": 2,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2010-11-17-switzerland-ukraine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "switzerland",
+      "date": "2020-09-03",
+      "homeScore": 2,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2020-09-03-ukraine-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2020-11-17",
+      "homeScore": 3,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2020-11-17-switzerland-ukraine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "switzerland__ukraine",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 1,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "switzerland",
+  "teamBId": "ukraine"
+}

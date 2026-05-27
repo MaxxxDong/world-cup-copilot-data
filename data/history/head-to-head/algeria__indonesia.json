@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "algeria",
+    "date": "1987-08-09",
+    "homeScore": 2,
+    "homeTeamId": "indonesia",
+    "matchId": "int-1987-08-09-indonesia-algeria",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Indonesia Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "1986-08-20",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1986-08-20-indonesia-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indonesia Tournament"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "1987-08-04",
+      "homeScore": 2,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1987-08-04-indonesia-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indonesia Tournament"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "1987-08-09",
+      "homeScore": 2,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1987-08-09-indonesia-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Indonesia Tournament"
+    }
+  ],
+  "pairKey": "algeria__indonesia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "algeria",
+  "teamBId": "indonesia"
+}

@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "curacao",
+    "date": "2023-09-10",
+    "homeScore": 1,
+    "homeTeamId": "martinique",
+    "matchId": "int-2023-09-10-martinique-curacao",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "martinique",
+      "date": "1956-01-13",
+      "homeScore": 3,
+      "homeTeamId": "curacao",
+      "matchId": "int-1956-01-13-curacao-martinique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "martinique",
+      "date": "1956-01-15",
+      "homeScore": 3,
+      "homeTeamId": "curacao",
+      "matchId": "int-1956-01-15-curacao-martinique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "curacao",
+      "date": "1956-04-01",
+      "homeScore": 0,
+      "homeTeamId": "martinique",
+      "matchId": "int-1956-04-01-martinique-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "martinique",
+      "date": "1989-04-26",
+      "homeScore": 3,
+      "homeTeamId": "curacao",
+      "matchId": "int-1989-04-26-curacao-martinique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "martinique",
+      "date": "2014-10-08",
+      "homeScore": 1,
+      "homeTeamId": "curacao",
+      "matchId": "int-2014-10-08-curacao-martinique",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "curacao",
+      "date": "2017-06-22",
+      "homeScore": 1,
+      "homeTeamId": "martinique",
+      "matchId": "int-2017-06-22-martinique-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "2023-09-10",
+      "homeScore": 1,
+      "homeTeamId": "martinique",
+      "matchId": "int-2023-09-10-martinique-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "curacao__martinique",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 12,
+      "teamAWins": 5,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "curacao",
+  "teamBId": "martinique"
+}

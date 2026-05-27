@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "somalia",
+    "date": "2023-10-14",
+    "homeScore": 3,
+    "homeTeamId": "niger",
+    "matchId": "int-2023-10-14-niger-somalia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "1980-07-16",
+      "homeScore": 0,
+      "homeTeamId": "niger",
+      "matchId": "int-1980-07-16-niger-somalia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "1980-07-27",
+      "homeScore": 1,
+      "homeTeamId": "somalia",
+      "matchId": "int-1980-07-27-somalia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "niger",
+      "date": "2015-10-09",
+      "homeScore": 0,
+      "homeTeamId": "somalia",
+      "matchId": "int-2015-10-09-somalia-niger",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2015-10-13",
+      "homeScore": 4,
+      "homeTeamId": "niger",
+      "matchId": "int-2015-10-13-niger-somalia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2023-10-14",
+      "homeScore": 3,
+      "homeTeamId": "niger",
+      "matchId": "int-2023-10-14-niger-somalia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "niger__somalia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "niger",
+  "teamBId": "somalia"
+}

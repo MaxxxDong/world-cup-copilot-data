@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 9,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "djibouti",
+    "date": "2019-09-10",
+    "homeScore": 0,
+    "homeTeamId": "eswatini",
+    "matchId": "int-2019-09-10-eswatini-djibouti",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "eswatini",
+      "date": "2015-10-09",
+      "homeScore": 0,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2015-10-09-djibouti-eswatini",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "djibouti",
+      "date": "2015-10-17",
+      "homeScore": 2,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2015-10-17-eswatini-djibouti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "eswatini",
+      "date": "2019-09-04",
+      "homeScore": 2,
+      "homeTeamId": "djibouti",
+      "matchId": "int-2019-09-04-djibouti-eswatini",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "djibouti",
+      "date": "2019-09-10",
+      "homeScore": 0,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2019-09-10-eswatini-djibouti",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "djibouti__eswatini",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "djibouti",
+  "teamBId": "eswatini"
+}

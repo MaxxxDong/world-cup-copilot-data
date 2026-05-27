@@ -1,0 +1,186 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 19,
+    "teamAWins": 4,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "new-zealand",
+    "date": "2022-03-18",
+    "homeScore": 0,
+    "homeTeamId": "papua-new-guinea",
+    "matchId": "int-2022-03-18-papua-new-guinea-new-zealand",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "new-zealand",
+      "date": "1997-05-31",
+      "homeScore": 1,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-1997-05-31-papua-new-guinea-new-zealand",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "papua-new-guinea",
+      "date": "1997-06-11",
+      "homeScore": 7,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-1997-06-11-new-zealand-papua-new-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "papua-new-guinea",
+      "date": "2002-07-07",
+      "homeScore": 9,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2002-07-07-new-zealand-papua-new-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Oceania Nations Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "new-zealand",
+      "date": "2012-06-04",
+      "homeScore": 1,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2012-06-04-papua-new-guinea-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Oceania Nations Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "new-zealand",
+      "date": "2016-06-11",
+      "homeScore": 0,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2016-06-11-papua-new-guinea-new-zealand",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Oceania Nations Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "2022-03-18",
+      "homeScore": 0,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2022-03-18-papua-new-guinea-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "new-zealand__papua-new-guinea",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 19,
+      "teamAWins": 4,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 16,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "new-zealand",
+  "teamBId": "papua-new-guinea"
+}

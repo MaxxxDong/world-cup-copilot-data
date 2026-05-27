@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 14,
+    "teamAWins": 4,
+    "teamBGoals": 11,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "new-zealand",
+    "date": "2013-09-05",
+    "homeScore": 0,
+    "homeTeamId": "saudi-arabia",
+    "matchId": "int-2013-09-05-saudi-arabia-new-zealand",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "OSN Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "1981-11-28",
+      "homeScore": 2,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-1981-11-28-new-zealand-saudi-arabia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "new-zealand",
+      "date": "1981-12-19",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1981-12-19-saudi-arabia-new-zealand",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "new-zealand",
+      "date": "1988-06-21",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1988-06-21-saudi-arabia-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "new-zealand",
+      "date": "1988-06-23",
+      "homeScore": 2,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1988-06-23-saudi-arabia-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "1993-04-18",
+      "homeScore": 3,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1993-04-18-saudi-arabia-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "new-zealand",
+      "date": "1993-04-24",
+      "homeScore": 1,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1993-04-24-saudi-arabia-new-zealand",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "new-zealand",
+      "date": "1996-10-03",
+      "homeScore": 3,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1996-10-03-saudi-arabia-new-zealand",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "2013-09-05",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2013-09-05-saudi-arabia-new-zealand",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "OSN Cup"
+    }
+  ],
+  "pairKey": "new-zealand__saudi-arabia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "new-zealand",
+  "teamBId": "saudi-arabia"
+}

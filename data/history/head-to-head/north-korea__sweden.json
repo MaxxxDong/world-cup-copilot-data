@@ -1,0 +1,138 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "north-korea",
+    "date": "2013-01-23",
+    "homeScore": 1,
+    "homeTeamId": "sweden",
+    "matchId": "int-2013-01-23-sweden-north-korea",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "King's Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "2003-02-18",
+      "homeScore": 1,
+      "homeTeamId": "north-korea",
+      "matchId": "int-2003-02-18-north-korea-sweden",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "sweden",
+      "date": "2003-02-22",
+      "homeScore": 0,
+      "homeTeamId": "north-korea",
+      "matchId": "int-2003-02-22-north-korea-sweden",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-korea",
+      "date": "2013-01-23",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-2013-01-23-sweden-north-korea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "pairKey": "north-korea__sweden",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "north-korea",
+  "teamBId": "sweden"
+}

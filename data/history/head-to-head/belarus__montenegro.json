@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "belarus",
+    "date": "2024-03-21",
+    "homeScore": 2,
+    "homeTeamId": "montenegro",
+    "matchId": "int-2024-03-21-montenegro-belarus",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2009-11-18",
+      "homeScore": 1,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2009-11-18-montenegro-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "montenegro",
+      "date": "2013-08-14",
+      "homeScore": 1,
+      "homeTeamId": "belarus",
+      "matchId": "int-2013-08-14-belarus-montenegro",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2016-03-29",
+      "homeScore": 0,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2016-03-29-montenegro-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2019-11-19",
+      "homeScore": 2,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2019-11-19-montenegro-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2024-03-21",
+      "homeScore": 2,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2024-03-21-montenegro-belarus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "belarus__montenegro",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "belarus",
+  "teamBId": "montenegro"
+}

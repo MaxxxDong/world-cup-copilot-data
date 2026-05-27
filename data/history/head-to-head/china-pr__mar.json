@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 5,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "mar",
+    "date": "1982-07-23",
+    "homeScore": 3,
+    "homeTeamId": "china-pr",
+    "matchId": "int-1982-07-23-china-pr-mar",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Beijing International Friendship Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "mar",
+      "date": "1977-07-25",
+      "homeScore": 3,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1977-07-25-china-pr-mar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Beijing International Friendship Tournament"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mar",
+      "date": "1982-07-23",
+      "homeScore": 3,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1982-07-23-china-pr-mar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Beijing International Friendship Tournament"
+    }
+  ],
+  "pairKey": "china-pr__mar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "china-pr",
+  "teamBId": "mar"
+}

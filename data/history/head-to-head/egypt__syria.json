@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 7,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "egypt",
+    "date": "1995-07-09",
+    "homeScore": 0,
+    "homeTeamId": "syria",
+    "matchId": "int-1995-07-09-syria-egypt",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "syria",
+      "date": "1971-07-11",
+      "homeScore": 1,
+      "homeTeamId": "egypt",
+      "matchId": "int-1971-07-11-egypt-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "syria",
+      "date": "1972-01-12",
+      "homeScore": 4,
+      "homeTeamId": "egypt",
+      "matchId": "int-1972-01-12-egypt-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "syria",
+      "date": "1973-08-20",
+      "homeScore": 0,
+      "homeTeamId": "egypt",
+      "matchId": "int-1973-08-20-egypt-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Palestine Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "syria",
+      "date": "1988-07-19",
+      "homeScore": 0,
+      "homeTeamId": "egypt",
+      "matchId": "int-1988-07-19-egypt-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "1992-09-15",
+      "homeScore": 0,
+      "homeTeamId": "syria",
+      "matchId": "int-1992-09-15-syria-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "egypt",
+      "date": "1995-03-31",
+      "homeScore": 1,
+      "homeTeamId": "syria",
+      "matchId": "int-1995-03-31-syria-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "1995-07-09",
+      "homeScore": 0,
+      "homeTeamId": "syria",
+      "matchId": "int-1995-07-09-syria-egypt",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "egypt__syria",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 2,
+    "teamAWins": 1,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "egypt",
+  "teamBId": "syria"
+}

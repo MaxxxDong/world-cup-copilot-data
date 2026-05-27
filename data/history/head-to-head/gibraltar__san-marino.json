@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 3,
+    "teamAWins": 2,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "gibraltar",
+    "date": "2024-11-15",
+    "homeScore": 1,
+    "homeTeamId": "san-marino",
+    "matchId": "int-2024-11-15-san-marino-gibraltar",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "2020-09-05",
+      "homeScore": 1,
+      "homeTeamId": "gibraltar",
+      "matchId": "int-2020-09-05-gibraltar-san-marino",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gibraltar",
+      "date": "2020-11-14",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2020-11-14-san-marino-gibraltar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "2024-10-10",
+      "homeScore": 1,
+      "homeTeamId": "gibraltar",
+      "matchId": "int-2024-10-10-gibraltar-san-marino",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gibraltar",
+      "date": "2024-11-15",
+      "homeScore": 1,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2024-11-15-san-marino-gibraltar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "gibraltar__san-marino",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gibraltar",
+  "teamBId": "san-marino"
+}

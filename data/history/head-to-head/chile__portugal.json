@@ -1,0 +1,154 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "chile",
+    "date": "2017-06-28",
+    "homeScore": 0,
+    "homeTeamId": "portugal",
+    "matchId": "int-2017-06-28-portugal-chile",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Confederations Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "chile",
+      "date": "1928-05-27",
+      "homeScore": 4,
+      "homeTeamId": "portugal",
+      "matchId": "int-1928-05-27-portugal-chile",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Olympic Games"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "portugal",
+      "date": "1972-06-18",
+      "homeScore": 1,
+      "homeTeamId": "chile",
+      "matchId": "int-1972-06-18-chile-portugal",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Brazil Independence Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chile",
+      "date": "2011-03-26",
+      "homeScore": 1,
+      "homeTeamId": "portugal",
+      "matchId": "int-2011-03-26-portugal-chile",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "chile",
+      "date": "2017-06-28",
+      "homeScore": 0,
+      "homeTeamId": "portugal",
+      "matchId": "int-2017-06-28-portugal-chile",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    }
+  ],
+  "pairKey": "chile__portugal",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "chile",
+  "teamBId": "portugal"
+}

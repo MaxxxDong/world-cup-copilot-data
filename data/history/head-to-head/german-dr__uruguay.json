@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "german-dr",
+    "date": "1985-01-29",
+    "homeScore": 3,
+    "homeTeamId": "uruguay",
+    "matchId": "int-1985-01-29-uruguay-german-dr",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "german-dr",
+      "date": "1965-01-03",
+      "homeScore": 0,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1965-01-03-uruguay-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "german-dr",
+      "date": "1971-02-08",
+      "homeScore": 0,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1971-02-08-uruguay-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "german-dr",
+      "date": "1971-02-10",
+      "homeScore": 1,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1971-02-10-uruguay-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "1972-05-27",
+      "homeScore": 1,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1972-05-27-german-dr-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "1972-05-31",
+      "homeScore": 0,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1972-05-31-german-dr-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "german-dr",
+      "date": "1985-01-29",
+      "homeScore": 3,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1985-01-29-uruguay-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "german-dr__uruguay",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "german-dr",
+  "teamBId": "uruguay"
+}

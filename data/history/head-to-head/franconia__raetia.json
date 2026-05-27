@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 11,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "franconia",
+    "date": "2019-06-25",
+    "homeScore": 3,
+    "homeTeamId": "raetia",
+    "matchId": "int-2019-06-25-raetia-franconia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "raetia",
+      "date": "2014-05-29",
+      "homeScore": 4,
+      "homeTeamId": "franconia",
+      "matchId": "int-2014-05-29-franconia-raetia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "franconia",
+      "date": "2015-09-06",
+      "homeScore": 6,
+      "homeTeamId": "raetia",
+      "matchId": "int-2015-09-06-raetia-franconia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Benedikt Fontana Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "franconia",
+      "date": "2019-06-25",
+      "homeScore": 3,
+      "homeTeamId": "raetia",
+      "matchId": "int-2019-06-25-raetia-franconia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "franconia__raetia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 11,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "franconia",
+  "teamBId": "raetia"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 12,
+    "teamAWins": 1,
+    "teamBGoals": 12,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "sint-maarten",
+    "date": "2022-06-14",
+    "homeScore": 2,
+    "homeTeamId": "turks-and-caicos-islands",
+    "matchId": "int-2022-06-14-turks-and-caicos-islands-sint-maarten",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "turks-and-caicos-islands",
+      "date": "2019-10-10",
+      "homeScore": 2,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2019-10-10-sint-maarten-turks-and-caicos-islands",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sint-maarten",
+      "date": "2019-11-14",
+      "homeScore": 3,
+      "homeTeamId": "turks-and-caicos-islands",
+      "matchId": "int-2019-11-14-turks-and-caicos-islands-sint-maarten",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turks-and-caicos-islands",
+      "date": "2022-06-11",
+      "homeScore": 8,
+      "homeTeamId": "sint-maarten",
+      "matchId": "int-2022-06-11-sint-maarten-turks-and-caicos-islands",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sint-maarten",
+      "date": "2022-06-14",
+      "homeScore": 2,
+      "homeTeamId": "turks-and-caicos-islands",
+      "matchId": "int-2022-06-14-turks-and-caicos-islands-sint-maarten",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "sint-maarten__turks-and-caicos-islands",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 12,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 10,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "sint-maarten",
+  "teamBId": "turks-and-caicos-islands"
+}

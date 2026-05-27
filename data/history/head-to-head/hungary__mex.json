@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 9,
+    "teamAGoals": 9,
+    "teamAWins": 2,
+    "teamBGoals": 17,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "hungary",
+    "date": "2005-12-14",
+    "homeScore": 2,
+    "homeTeamId": "mex",
+    "matchId": "int-2005-12-14-mex-hungary",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mex",
+      "date": "1958-06-15",
+      "homeScore": 4,
+      "homeTeamId": "hungary",
+      "matchId": "int-1958-06-15-hungary-mex",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "1967-12-06",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-1967-12-06-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "hungary",
+      "date": "1967-12-08",
+      "homeScore": 0,
+      "homeTeamId": "mex",
+      "matchId": "int-1967-12-08-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "1977-02-22",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-1977-02-22-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mex",
+      "date": "1984-08-25",
+      "homeScore": 0,
+      "homeTeamId": "hungary",
+      "matchId": "int-1984-08-25-hungary-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hungary",
+      "date": "1985-12-14",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-1985-12-14-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hungary",
+      "date": "1991-12-04",
+      "homeScore": 3,
+      "homeTeamId": "mex",
+      "matchId": "int-1991-12-04-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hungary",
+      "date": "1994-12-14",
+      "homeScore": 5,
+      "homeTeamId": "mex",
+      "matchId": "int-1994-12-14-mex-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hungary",
+      "date": "2005-12-14",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-2005-12-14-mex-hungary",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "hungary__mex",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 8,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 17,
+      "teamBWins": 6
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 15,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "hungary",
+  "teamBId": "mex"
+}

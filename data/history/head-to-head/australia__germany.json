@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 9,
+    "teamAWins": 1,
+    "teamBGoals": 17,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "germany",
+    "date": "2017-06-19",
+    "homeScore": 2,
+    "homeTeamId": "australia",
+    "matchId": "int-2017-06-19-australia-germany",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Confederations Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "1974-06-18",
+      "homeScore": 3,
+      "homeTeamId": "germany",
+      "matchId": "int-1974-06-18-germany-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "australia",
+      "date": "2005-06-15",
+      "homeScore": 4,
+      "homeTeamId": "germany",
+      "matchId": "int-2005-06-15-germany-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "2010-06-13",
+      "homeScore": 4,
+      "homeTeamId": "germany",
+      "matchId": "int-2010-06-13-germany-australia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "australia",
+      "date": "2011-03-29",
+      "homeScore": 1,
+      "homeTeamId": "germany",
+      "matchId": "int-2011-03-29-germany-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "australia",
+      "date": "2015-03-25",
+      "homeScore": 2,
+      "homeTeamId": "germany",
+      "matchId": "int-2015-03-25-germany-australia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "germany",
+      "date": "2017-06-19",
+      "homeScore": 2,
+      "homeTeamId": "australia",
+      "matchId": "int-2017-06-19-australia-germany",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    }
+  ],
+  "pairKey": "australia__germany",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 14,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    }
+  },
+  "teamAId": "australia",
+  "teamBId": "germany"
+}

@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 3,
+    "teamAGoals": 2,
+    "teamAWins": 1,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "tanzania",
+    "date": "2017-06-27",
+    "homeScore": 0,
+    "homeTeamId": "angola",
+    "matchId": "int-2017-06-27-angola-tanzania",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "COSAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "tanzania",
+      "date": "1986-12-07",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-1986-12-07-angola-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "angola",
+      "date": "2006-11-18",
+      "homeScore": 1,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2006-11-18-tanzania-angola",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tanzania",
+      "date": "2017-06-27",
+      "homeScore": 0,
+      "homeTeamId": "angola",
+      "matchId": "int-2017-06-27-angola-tanzania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    }
+  ],
+  "pairKey": "angola__tanzania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "angola",
+  "teamBId": "tanzania"
+}

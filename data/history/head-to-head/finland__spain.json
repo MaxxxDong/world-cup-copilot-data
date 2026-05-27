@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 16,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "spain",
+    "date": "2013-09-06",
+    "homeScore": 0,
+    "homeTeamId": "finland",
+    "matchId": "int-2013-09-06-finland-spain",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "spain",
+      "date": "1969-06-25",
+      "homeScore": 2,
+      "homeTeamId": "finland",
+      "matchId": "int-1969-06-25-finland-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1969-10-15",
+      "homeScore": 6,
+      "homeTeamId": "spain",
+      "matchId": "int-1969-10-15-spain-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "1985-01-23",
+      "homeScore": 3,
+      "homeTeamId": "spain",
+      "matchId": "int-1985-01-23-spain-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "spain",
+      "date": "1994-06-02",
+      "homeScore": 1,
+      "homeTeamId": "finland",
+      "matchId": "int-1994-06-02-finland-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1994-11-30",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1994-11-30-spain-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "spain",
+      "date": "2007-10-17",
+      "homeScore": 0,
+      "homeTeamId": "finland",
+      "matchId": "int-2007-10-17-finland-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "2013-03-22",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-2013-03-22-spain-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "spain",
+      "date": "2013-09-06",
+      "homeScore": 0,
+      "homeTeamId": "finland",
+      "matchId": "int-2013-09-06-finland-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "finland__spain",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 8,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 16,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "finland",
+  "teamBId": "spain"
+}

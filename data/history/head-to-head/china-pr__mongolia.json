@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 18,
+    "teamAWins": 3,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 6,
+    "awayTeamId": "china-pr",
+    "date": "1997-05-11",
+    "homeScore": 0,
+    "homeTeamId": "mongolia",
+    "matchId": "int-1997-05-11-mongolia-china-pr",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "East Asian Games"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "mongolia",
+      "date": "1960-10-07",
+      "homeScore": 6,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1960-10-07-china-pr-mongolia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mongolia",
+      "date": "1993-05-10",
+      "homeScore": 6,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1993-05-10-china-pr-mongolia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "East Asian Games"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "china-pr",
+      "date": "1997-05-11",
+      "homeScore": 0,
+      "homeTeamId": "mongolia",
+      "matchId": "int-1997-05-11-mongolia-china-pr",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "East Asian Games"
+    }
+  ],
+  "pairKey": "china-pr__mongolia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 12,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 12,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "china-pr",
+  "teamBId": "mongolia"
+}

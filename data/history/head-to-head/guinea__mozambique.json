@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 14,
+    "teamAWins": 4,
+    "teamBGoals": 8,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "guinea",
+    "date": "2025-10-09",
+    "homeScore": 1,
+    "homeTeamId": "mozambique",
+    "matchId": "int-2025-10-09-mozambique-guinea",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "guinea",
+      "date": "1994-11-13",
+      "homeScore": 2,
+      "homeTeamId": "mozambique",
+      "matchId": "int-1994-11-13-mozambique-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "1995-06-04",
+      "homeScore": 0,
+      "homeTeamId": "guinea",
+      "matchId": "int-1995-06-04-guinea-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "2003-10-12",
+      "homeScore": 1,
+      "homeTeamId": "guinea",
+      "matchId": "int-2003-10-12-guinea-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "guinea",
+      "date": "2003-11-16",
+      "homeScore": 3,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2003-11-16-mozambique-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea",
+      "date": "2013-03-24",
+      "homeScore": 0,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2013-03-24-mozambique-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mozambique",
+      "date": "2013-06-09",
+      "homeScore": 6,
+      "homeTeamId": "guinea",
+      "matchId": "int-2013-06-09-guinea-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mozambique",
+      "date": "2024-06-10",
+      "homeScore": 0,
+      "homeTeamId": "guinea",
+      "matchId": "int-2024-06-10-guinea-mozambique",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guinea",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2025-10-09-mozambique-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "guinea__mozambique",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 8,
+      "teamAGoals": 14,
+      "teamAWins": 4,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 14,
+      "teamAWins": 4,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guinea",
+  "teamBId": "mozambique"
+}

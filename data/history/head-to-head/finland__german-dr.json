@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 21,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "finland",
+    "date": "1989-03-22",
+    "homeScore": 1,
+    "homeTeamId": "german-dr",
+    "matchId": "int-1989-03-22-german-dr-finland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "german-dr",
+      "date": "1959-09-06",
+      "homeScore": 3,
+      "homeTeamId": "finland",
+      "matchId": "int-1959-09-06-finland-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "1960-10-30",
+      "homeScore": 5,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1960-10-30-german-dr-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1972-10-07",
+      "homeScore": 5,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1972-10-07-german-dr-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "german-dr",
+      "date": "1973-06-06",
+      "homeScore": 1,
+      "homeTeamId": "finland",
+      "matchId": "int-1973-06-06-finland-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "1983-03-16",
+      "homeScore": 3,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1983-03-16-german-dr-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "german-dr",
+      "date": "1986-08-20",
+      "homeScore": 1,
+      "homeTeamId": "finland",
+      "matchId": "int-1986-08-20-finland-german-dr",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "1989-03-22",
+      "homeScore": 1,
+      "homeTeamId": "german-dr",
+      "matchId": "int-1989-03-22-german-dr-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "finland__german-dr",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 21,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "finland",
+  "teamBId": "german-dr"
+}

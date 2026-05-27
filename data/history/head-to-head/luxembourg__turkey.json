@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 9,
+    "teamAGoals": 9,
+    "teamAWins": 1,
+    "teamBGoals": 18,
+    "teamBWins": 7
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "luxembourg",
+    "date": "2022-09-22",
+    "homeScore": 3,
+    "homeTeamId": "turkey",
+    "matchId": "int-2022-09-22-turkey-luxembourg",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "turkey",
+      "date": "1972-10-22",
+      "homeScore": 2,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-1972-10-22-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "1972-12-10",
+      "homeScore": 3,
+      "homeTeamId": "turkey",
+      "matchId": "int-1972-12-10-turkey-luxembourg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "1984-03-11",
+      "homeScore": 1,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-1984-03-11-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "luxembourg",
+      "date": "1984-12-22",
+      "homeScore": 1,
+      "homeTeamId": "turkey",
+      "matchId": "int-1984-12-22-turkey-luxembourg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "turkey",
+      "date": "1992-03-25",
+      "homeScore": 2,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-1992-03-25-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "2006-08-16",
+      "homeScore": 0,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-2006-08-16-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turkey",
+      "date": "2015-03-31",
+      "homeScore": 1,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-2015-03-31-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turkey",
+      "date": "2022-06-11",
+      "homeScore": 0,
+      "homeTeamId": "luxembourg",
+      "matchId": "int-2022-06-11-luxembourg-turkey",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "luxembourg",
+      "date": "2022-09-22",
+      "homeScore": 3,
+      "homeTeamId": "turkey",
+      "matchId": "int-2022-09-22-turkey-luxembourg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "luxembourg__turkey",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 5
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 9,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 18,
+      "teamBWins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "luxembourg",
+  "teamBId": "turkey"
+}

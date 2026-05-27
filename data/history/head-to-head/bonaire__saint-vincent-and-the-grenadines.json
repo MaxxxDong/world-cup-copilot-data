@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "saint-vincent-and-the-grenadines",
+    "date": "2026-03-26",
+    "homeScore": 3,
+    "homeTeamId": "bonaire",
+    "matchId": "int-2026-03-26-bonaire-saint-vincent-and-the-grenadines",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2019-03-22",
+      "homeScore": 2,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2019-03-22-saint-vincent-and-the-grenadines-bonaire",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2024-09-05",
+      "homeScore": 1,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2024-09-05-bonaire-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bonaire",
+      "date": "2024-11-17",
+      "homeScore": 3,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2024-11-17-saint-vincent-and-the-grenadines-bonaire",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2026-03-26-bonaire-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "bonaire__saint-vincent-and-the-grenadines",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bonaire",
+  "teamBId": "saint-vincent-and-the-grenadines"
+}

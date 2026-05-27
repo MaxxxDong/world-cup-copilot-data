@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 12,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "azerbaijan",
+    "date": "1999-06-09",
+    "homeScore": 4,
+    "homeTeamId": "romania",
+    "matchId": "int-1999-06-09-romania-azerbaijan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "azerbaijan",
+      "date": "1994-09-07",
+      "homeScore": 3,
+      "homeTeamId": "romania",
+      "matchId": "int-1994-09-07-romania-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "romania",
+      "date": "1995-04-26",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-1995-04-26-azerbaijan-romania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "romania",
+      "date": "1999-03-31",
+      "homeScore": 0,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-1999-03-31-azerbaijan-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "azerbaijan",
+      "date": "1999-06-09",
+      "homeScore": 4,
+      "homeTeamId": "romania",
+      "matchId": "int-1999-06-09-romania-azerbaijan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "azerbaijan__romania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "azerbaijan",
+  "teamBId": "romania"
+}

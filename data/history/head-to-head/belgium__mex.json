@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 8,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "belgium",
+    "date": "2026-03-31",
+    "homeScore": 1,
+    "homeTeamId": "mex",
+    "matchId": "int-2026-03-31-mex-belgium",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mex",
+      "date": "1969-04-16",
+      "homeScore": 2,
+      "homeTeamId": "belgium",
+      "matchId": "int-1969-04-16-belgium-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belgium",
+      "date": "1969-11-05",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-1969-11-05-mex-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belgium",
+      "date": "1970-06-11",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-1970-06-11-mex-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belgium",
+      "date": "1986-06-03",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-1986-06-03-mex-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mex",
+      "date": "1990-06-02",
+      "homeScore": 3,
+      "homeTeamId": "belgium",
+      "matchId": "int-1990-06-02-belgium-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mex",
+      "date": "1998-06-20",
+      "homeScore": 2,
+      "homeTeamId": "belgium",
+      "matchId": "int-1998-06-20-belgium-mex",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mex",
+      "date": "2017-11-10",
+      "homeScore": 3,
+      "homeTeamId": "belgium",
+      "matchId": "int-2017-11-10-belgium-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belgium",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-2026-03-31-mex-belgium",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "belgium__mex",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    }
+  },
+  "teamAId": "belgium",
+  "teamBId": "mex"
+}

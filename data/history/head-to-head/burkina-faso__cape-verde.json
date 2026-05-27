@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 9,
+    "teamAGoals": 11,
+    "teamAWins": 4,
+    "teamBGoals": 8,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "burkina-faso",
+    "date": "2023-06-18",
+    "homeScore": 3,
+    "homeTeamId": "cape-verde",
+    "matchId": "int-2023-06-18-cape-verde-burkina-faso",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "2004-10-09",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2004-10-09-cape-verde-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cape-verde",
+      "date": "2005-03-26",
+      "homeScore": 1,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2005-03-26-burkina-faso-cape-verde",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cape-verde",
+      "date": "2008-05-24",
+      "homeScore": 0,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2008-05-24-burkina-faso-cape-verde",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "2011-02-09",
+      "homeScore": 1,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2011-02-09-cape-verde-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "2016-11-12",
+      "homeScore": 0,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2016-11-12-cape-verde-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2017-11-14",
+      "homeScore": 4,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2017-11-14-burkina-faso-cape-verde",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "2022-01-13",
+      "homeScore": 0,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2022-01-13-cape-verde-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cape-verde",
+      "date": "2022-06-03",
+      "homeScore": 2,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2022-06-03-burkina-faso-cape-verde",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "2023-06-18",
+      "homeScore": 3,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2023-06-18-cape-verde-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "burkina-faso__cape-verde",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 7,
+      "teamAGoals": 11,
+      "teamAWins": 4,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "burkina-faso",
+  "teamBId": "cape-verde"
+}

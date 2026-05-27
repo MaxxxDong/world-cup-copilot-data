@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 13,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "albania",
+    "date": "1967-11-12",
+    "homeScore": 4,
+    "homeTeamId": "yugoslavia",
+    "matchId": "int-1967-11-12-yugoslavia-albania",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "yugoslavia",
+      "date": "1946-10-07",
+      "homeScore": 2,
+      "homeTeamId": "albania",
+      "matchId": "int-1946-10-07-albania-yugoslavia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Balkan Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "yugoslavia",
+      "date": "1947-09-14",
+      "homeScore": 2,
+      "homeTeamId": "albania",
+      "matchId": "int-1947-09-14-albania-yugoslavia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Balkan Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "1948-06-27",
+      "homeScore": 0,
+      "homeTeamId": "yugoslavia",
+      "matchId": "int-1948-06-27-yugoslavia-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Balkan Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yugoslavia",
+      "date": "1967-05-14",
+      "homeScore": 0,
+      "homeTeamId": "albania",
+      "matchId": "int-1967-05-14-albania-yugoslavia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "1967-11-12",
+      "homeScore": 4,
+      "homeTeamId": "yugoslavia",
+      "matchId": "int-1967-11-12-yugoslavia-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "albania__yugoslavia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "albania",
+  "teamBId": "yugoslavia"
+}

@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "burkina-faso",
+    "date": "2025-01-09",
+    "homeScore": 0,
+    "homeTeamId": "tanzania",
+    "matchId": "int-2025-01-09-tanzania-burkina-faso",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Mapinduzi Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "1997-03-29",
+      "homeScore": 3,
+      "homeTeamId": "tanzania",
+      "matchId": "int-1997-03-29-tanzania-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "2006-09-02",
+      "homeScore": 2,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2006-09-02-tanzania-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2007-06-16",
+      "homeScore": 0,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2007-06-16-burkina-faso-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "2025-01-09",
+      "homeScore": 0,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2025-01-09-tanzania-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Mapinduzi Cup"
+    }
+  ],
+  "pairKey": "burkina-faso__tanzania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "burkina-faso",
+  "teamBId": "tanzania"
+}

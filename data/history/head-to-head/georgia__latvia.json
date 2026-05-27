@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 10,
+    "teamAGoals": 18,
+    "teamAWins": 5,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "georgia",
+    "date": "2018-10-16",
+    "homeScore": 0,
+    "homeTeamId": "latvia",
+    "matchId": "int-2018-10-16-latvia-georgia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "georgia",
+      "date": "1994-06-26",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-1994-06-26-latvia-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "1998-02-06",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-1998-02-06-georgia-latvia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Malta International Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "georgia",
+      "date": "1998-10-10",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-1998-10-10-latvia-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "latvia",
+      "date": "1999-09-08",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-1999-09-08-georgia-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "latvia",
+      "date": "2008-02-06",
+      "homeScore": 1,
+      "homeTeamId": "georgia",
+      "matchId": "int-2008-02-06-georgia-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2010-10-12",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-2010-10-12-latvia-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2011-09-02",
+      "homeScore": 0,
+      "homeTeamId": "georgia",
+      "matchId": "int-2011-09-02-georgia-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2017-03-28",
+      "homeScore": 5,
+      "homeTeamId": "georgia",
+      "matchId": "int-2017-03-28-georgia-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "2018-09-09",
+      "homeScore": 1,
+      "homeTeamId": "georgia",
+      "matchId": "int-2018-09-09-georgia-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "georgia",
+      "date": "2018-10-16",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2018-10-16-latvia-georgia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "georgia__latvia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 9,
+      "teamAGoals": 16,
+      "teamAWins": 4,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "georgia",
+  "teamBId": "latvia"
+}

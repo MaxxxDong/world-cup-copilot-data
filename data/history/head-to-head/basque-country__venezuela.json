@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 6,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "venezuela",
+    "date": "2018-10-12",
+    "homeScore": 4,
+    "homeTeamId": "basque-country",
+    "matchId": "int-2018-10-12-basque-country-venezuela",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "basque-country",
+      "date": "2007-06-20",
+      "homeScore": 3,
+      "homeTeamId": "venezuela",
+      "matchId": "int-2007-06-20-venezuela-basque-country",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "venezuela",
+      "date": "2010-12-29",
+      "homeScore": 3,
+      "homeTeamId": "basque-country",
+      "matchId": "int-2010-12-29-basque-country-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "venezuela",
+      "date": "2018-10-12",
+      "homeScore": 4,
+      "homeTeamId": "basque-country",
+      "matchId": "int-2018-10-12-basque-country-venezuela",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "basque-country__venezuela",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 6,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 6,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "basque-country",
+  "teamBId": "venezuela"
+}

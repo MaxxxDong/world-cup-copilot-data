@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 14,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "serbia",
+    "date": "2018-10-14",
+    "homeScore": 0,
+    "homeTeamId": "romania",
+    "matchId": "int-2018-10-14-romania-serbia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "1996-03-27",
+      "homeScore": 1,
+      "homeTeamId": "serbia",
+      "matchId": "int-1996-03-27-serbia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "serbia",
+      "date": "2000-11-15",
+      "homeScore": 2,
+      "homeTeamId": "romania",
+      "matchId": "int-2000-11-15-romania-serbia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2001-01-20",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2001-01-20-serbia-romania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Millennium Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "serbia",
+      "date": "2009-03-28",
+      "homeScore": 2,
+      "homeTeamId": "romania",
+      "matchId": "int-2009-03-28-romania-serbia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2009-10-10",
+      "homeScore": 5,
+      "homeTeamId": "serbia",
+      "matchId": "int-2009-10-10-serbia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2018-09-10",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2018-09-10-serbia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "serbia",
+      "date": "2018-10-14",
+      "homeScore": 0,
+      "homeTeamId": "romania",
+      "matchId": "int-2018-10-14-romania-serbia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "romania__serbia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "romania",
+  "teamBId": "serbia"
+}

@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 9,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 7,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "scotland",
+    "date": "2019-10-10",
+    "homeScore": 4,
+    "homeTeamId": "russia",
+    "matchId": "int-2019-10-10-russia-scotland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "russia",
+      "date": "1967-05-10",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-1967-05-10-scotland-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "scotland",
+      "date": "1971-06-14",
+      "homeScore": 1,
+      "homeTeamId": "russia",
+      "matchId": "int-1971-06-14-russia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "scotland",
+      "date": "1982-06-22",
+      "homeScore": 2,
+      "homeTeamId": "russia",
+      "matchId": "int-1982-06-22-russia-scotland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "1991-02-06",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-1991-02-06-scotland-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "russia",
+      "date": "1992-06-18",
+      "homeScore": 3,
+      "homeTeamId": "scotland",
+      "matchId": "int-1992-06-18-scotland-russia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "1994-11-16",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-1994-11-16-scotland-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "scotland",
+      "date": "1995-03-29",
+      "homeScore": 0,
+      "homeTeamId": "russia",
+      "matchId": "int-1995-03-29-russia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "russia",
+      "date": "2019-09-06",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-2019-09-06-scotland-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "scotland",
+      "date": "2019-10-10",
+      "homeScore": 4,
+      "homeTeamId": "russia",
+      "matchId": "int-2019-10-10-russia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "russia__scotland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 11,
+      "teamAWins": 5,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "russia",
+  "teamBId": "scotland"
+}

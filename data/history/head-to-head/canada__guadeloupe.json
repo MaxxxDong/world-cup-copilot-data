@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "guadeloupe",
+    "date": "2023-06-27",
+    "homeScore": 2,
+    "homeTeamId": "canada",
+    "matchId": "int-2023-06-27-canada-guadeloupe",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Gold Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "guadeloupe",
+      "date": "2007-06-09",
+      "homeScore": 1,
+      "homeTeamId": "canada",
+      "matchId": "int-2007-06-09-canada-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guadeloupe",
+      "date": "2011-06-11",
+      "homeScore": 1,
+      "homeTeamId": "canada",
+      "matchId": "int-2011-06-11-canada-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guadeloupe",
+      "date": "2023-06-27",
+      "homeScore": 2,
+      "homeTeamId": "canada",
+      "matchId": "int-2023-06-27-canada-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    }
+  ],
+  "pairKey": "canada__guadeloupe",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "canada",
+  "teamBId": "guadeloupe"
+}

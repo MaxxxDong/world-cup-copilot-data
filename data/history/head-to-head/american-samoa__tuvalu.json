@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "tuvalu",
+    "date": "2019-07-12",
+    "homeScore": 1,
+    "homeTeamId": "american-samoa",
+    "matchId": "int-2019-07-12-american-samoa-tuvalu",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Pacific Games"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "american-samoa",
+      "date": "2011-08-27",
+      "homeScore": 4,
+      "homeTeamId": "tuvalu",
+      "matchId": "int-2011-08-27-tuvalu-american-samoa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pacific Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tuvalu",
+      "date": "2019-07-12",
+      "homeScore": 1,
+      "homeTeamId": "american-samoa",
+      "matchId": "int-2019-07-12-american-samoa-tuvalu",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pacific Games"
+    }
+  ],
+  "pairKey": "american-samoa__tuvalu",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "american-samoa",
+  "teamBId": "tuvalu"
+}

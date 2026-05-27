@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "guam",
+    "date": "2024-12-14",
+    "homeScore": 1,
+    "homeTeamId": "macau",
+    "matchId": "int-2024-12-14-macau-guam",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "EAFF Championship qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "macau",
+      "date": "2003-02-26",
+      "homeScore": 0,
+      "homeTeamId": "guam",
+      "matchId": "int-2003-02-26-guam-macau",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "macau",
+      "date": "2009-03-15",
+      "homeScore": 2,
+      "homeTeamId": "guam",
+      "matchId": "int-2009-03-15-guam-macau",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "macau",
+      "date": "2012-07-22",
+      "homeScore": 3,
+      "homeTeamId": "guam",
+      "matchId": "int-2012-07-22-guam-macau",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "guam",
+      "date": "2012-09-29",
+      "homeScore": 0,
+      "homeTeamId": "macau",
+      "matchId": "int-2012-09-29-macau-guam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "macau",
+      "date": "2014-07-21",
+      "homeScore": 0,
+      "homeTeamId": "guam",
+      "matchId": "int-2014-07-21-guam-macau",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guam",
+      "date": "2018-09-04",
+      "homeScore": 2,
+      "homeTeamId": "macau",
+      "matchId": "int-2018-09-04-macau-guam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guam",
+      "date": "2024-12-14",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2024-12-14-macau-guam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship qualification"
+    }
+  ],
+  "pairKey": "guam__macau",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guam",
+  "teamBId": "macau"
+}

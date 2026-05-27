@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 15,
+    "teamAWins": 5,
+    "teamBGoals": 6,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "costa-rica",
+    "date": "2024-03-26",
+    "homeScore": 3,
+    "homeTeamId": "arg",
+    "matchId": "int-2024-03-26-arg-costa-rica",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "costa-rica",
+      "date": "1956-03-06",
+      "homeScore": 4,
+      "homeTeamId": "arg",
+      "matchId": "int-1956-03-06-arg-costa-rica",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pan American Championship"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "1960-03-08",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-1960-03-08-costa-rica-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pan American Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "arg",
+      "date": "1960-03-15",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-1960-03-15-costa-rica-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Pan American Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "costa-rica",
+      "date": "2010-01-26",
+      "homeScore": 3,
+      "homeTeamId": "arg",
+      "matchId": "int-2010-01-26-arg-costa-rica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "2011-03-29",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2011-03-29-costa-rica-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2011-07-11",
+      "homeScore": 3,
+      "homeTeamId": "arg",
+      "matchId": "int-2011-07-11-arg-costa-rica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "costa-rica",
+      "date": "2024-03-26",
+      "homeScore": 3,
+      "homeTeamId": "arg",
+      "matchId": "int-2024-03-26-arg-costa-rica",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "arg__costa-rica",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "arg",
+  "teamBId": "costa-rica"
+}

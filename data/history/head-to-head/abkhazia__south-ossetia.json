@@ -1,0 +1,138 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 3,
+    "teamAGoals": 5,
+    "teamAWins": 2,
+    "teamBGoals": 1,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "south-ossetia",
+    "date": "2017-06-05",
+    "homeScore": 2,
+    "homeTeamId": "abkhazia",
+    "matchId": "int-2017-06-05-abkhazia-south-ossetia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONIFA European Football Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-ossetia",
+      "date": "2013-09-23",
+      "homeScore": 3,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2013-09-23-abkhazia-south-ossetia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-ossetia",
+      "date": "2014-06-04",
+      "homeScore": 0,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2014-06-04-abkhazia-south-ossetia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "south-ossetia",
+      "date": "2017-06-05",
+      "homeScore": 2,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2017-06-05-abkhazia-south-ossetia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "pairKey": "abkhazia__south-ossetia",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "abkhazia",
+  "teamBId": "south-ossetia"
+}

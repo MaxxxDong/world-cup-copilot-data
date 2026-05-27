@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 6,
+    "teamAWins": 2,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "dominican-republic",
+    "date": "2019-11-16",
+    "homeScore": 1,
+    "homeTeamId": "saint-lucia",
+    "matchId": "int-2019-11-16-saint-lucia-dominican-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-lucia",
+      "date": "1991-05-25",
+      "homeScore": 0,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-1991-05-25-dominican-republic-saint-lucia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "dominican-republic",
+      "date": "2014-10-12",
+      "homeScore": 2,
+      "homeTeamId": "saint-lucia",
+      "matchId": "int-2014-10-12-saint-lucia-dominican-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-lucia",
+      "date": "2019-10-12",
+      "homeScore": 3,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2019-10-12-dominican-republic-saint-lucia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominican-republic",
+      "date": "2019-11-16",
+      "homeScore": 1,
+      "homeTeamId": "saint-lucia",
+      "matchId": "int-2019-11-16-saint-lucia-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "dominican-republic__saint-lucia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "dominican-republic",
+  "teamBId": "saint-lucia"
+}

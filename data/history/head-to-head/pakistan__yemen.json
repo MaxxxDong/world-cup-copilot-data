@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 12,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "yemen",
+    "date": "2015-03-23",
+    "homeScore": 0,
+    "homeTeamId": "pakistan",
+    "matchId": "int-2015-03-23-pakistan-yemen",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "yemen",
+      "date": "1984-10-15",
+      "homeScore": 4,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1984-10-15-pakistan-yemen",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "1993-05-24",
+      "homeScore": 5,
+      "homeTeamId": "yemen",
+      "matchId": "int-1993-05-24-yemen-pakistan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "yemen",
+      "date": "1993-06-14",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1993-06-14-pakistan-yemen",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "2015-03-12",
+      "homeScore": 3,
+      "homeTeamId": "yemen",
+      "matchId": "int-2015-03-12-yemen-pakistan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "yemen",
+      "date": "2015-03-23",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2015-03-23-pakistan-yemen",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "pakistan__yemen",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "pakistan",
+  "teamBId": "yemen"
+}

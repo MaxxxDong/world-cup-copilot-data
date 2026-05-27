@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "saudi-arabia",
+    "date": "2022-11-22",
+    "homeScore": 1,
+    "homeTeamId": "arg",
+    "matchId": "int-2022-11-22-arg-saudi-arabia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "1988-07-06",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-1988-07-06-arg-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saudi-arabia",
+      "date": "1988-07-16",
+      "homeScore": 2,
+      "homeTeamId": "arg",
+      "matchId": "int-1988-07-16-arg-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "arg",
+      "date": "1992-10-20",
+      "homeScore": 1,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1992-10-20-saudi-arabia-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "arg",
+      "date": "2012-11-14",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2012-11-14-saudi-arabia-arg",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "2022-11-22",
+      "homeScore": 1,
+      "homeTeamId": "arg",
+      "matchId": "int-2022-11-22-arg-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "arg__saudi-arabia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "arg",
+  "teamBId": "saudi-arabia"
+}

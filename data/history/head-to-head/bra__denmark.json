@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 10,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "bra",
+    "date": "2012-05-26",
+    "homeScore": 1,
+    "homeTeamId": "denmark",
+    "matchId": "int-2012-05-26-denmark-bra",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "bra",
+      "date": "1960-05-10",
+      "homeScore": 3,
+      "homeTeamId": "denmark",
+      "matchId": "int-1960-05-10-denmark-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bra",
+      "date": "1989-06-18",
+      "homeScore": 4,
+      "homeTeamId": "denmark",
+      "matchId": "int-1989-06-18-denmark-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "1998-07-03",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-1998-07-03-bra-denmark",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "bra",
+      "date": "2012-05-26",
+      "homeScore": 1,
+      "homeTeamId": "denmark",
+      "matchId": "int-2012-05-26-denmark-bra",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bra__denmark",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bra",
+  "teamBId": "denmark"
+}

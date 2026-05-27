@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 2,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 2,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "bosnia-and-herzegovina",
+    "date": "2001-06-25",
+    "homeScore": 2,
+    "homeTeamId": "malaysia",
+    "matchId": "int-2001-06-25-malaysia-bosnia-and-herzegovina",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Merdeka Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "1997-02-28",
+      "homeScore": 0,
+      "homeTeamId": "malaysia",
+      "matchId": "int-1997-02-28-malaysia-bosnia-and-herzegovina",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Dunhill Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "2001-06-25",
+      "homeScore": 2,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2001-06-25-malaysia-bosnia-and-herzegovina",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    }
+  ],
+  "pairKey": "bosnia-and-herzegovina__malaysia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bosnia-and-herzegovina",
+  "teamBId": "malaysia"
+}

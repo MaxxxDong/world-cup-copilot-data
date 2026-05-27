@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 5,
+    "matches": 10,
+    "teamAGoals": 16,
+    "teamAWins": 5,
+    "teamBGoals": 8,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "uruguay",
+    "date": "2013-06-16",
+    "homeScore": 2,
+    "homeTeamId": "spain",
+    "matchId": "int-2013-06-16-spain-uruguay",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Confederations Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "uruguay",
+      "date": "1950-07-09",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1950-07-09-spain-uruguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "1966-06-23",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-1966-06-23-spain-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "1972-05-23",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1972-05-23-spain-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "spain",
+      "date": "1978-05-24",
+      "homeScore": 0,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1978-05-24-uruguay-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "spain",
+      "date": "1990-06-13",
+      "homeScore": 0,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1990-06-13-uruguay-spain",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "1991-09-04",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1991-09-04-spain-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "uruguay",
+      "date": "1995-01-18",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1995-01-18-spain-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "2005-08-17",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-2005-08-17-spain-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2013-02-06",
+      "homeScore": 3,
+      "homeTeamId": "spain",
+      "matchId": "int-2013-02-06-spain-uruguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2013-06-16",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-2013-06-16-spain-uruguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    }
+  ],
+  "pairKey": "spain__uruguay",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 12,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "spain",
+  "teamBId": "uruguay"
+}

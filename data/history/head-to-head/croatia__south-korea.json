@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "croatia",
+    "date": "2013-09-10",
+    "homeScore": 1,
+    "homeTeamId": "south-korea",
+    "matchId": "int-2013-09-10-south-korea-croatia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-korea",
+      "date": "1996-03-13",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-1996-03-13-croatia-south-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "1999-06-19",
+      "homeScore": 1,
+      "homeTeamId": "south-korea",
+      "matchId": "int-1999-06-19-south-korea-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Korea Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2001-11-10",
+      "homeScore": 2,
+      "homeTeamId": "south-korea",
+      "matchId": "int-2001-11-10-south-korea-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "2001-11-13",
+      "homeScore": 1,
+      "homeTeamId": "south-korea",
+      "matchId": "int-2001-11-13-south-korea-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2006-01-29",
+      "homeScore": 2,
+      "homeTeamId": "south-korea",
+      "matchId": "int-2006-01-29-south-korea-croatia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Lunar New Year Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-korea",
+      "date": "2013-02-06",
+      "homeScore": 4,
+      "homeTeamId": "croatia",
+      "matchId": "int-2013-02-06-croatia-south-korea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2013-09-10",
+      "homeScore": 1,
+      "homeTeamId": "south-korea",
+      "matchId": "int-2013-09-10-south-korea-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "croatia__south-korea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "croatia",
+  "teamBId": "south-korea"
+}

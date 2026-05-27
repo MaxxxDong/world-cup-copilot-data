@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 9,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "occitania",
+    "date": "2014-06-03",
+    "homeScore": 0,
+    "homeTeamId": "sapmi",
+    "matchId": "int-2014-06-03-sapmi-occitania",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONIFA World Football Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 7,
+      "awayTeamId": "sapmi",
+      "date": "2006-11-20",
+      "homeScore": 0,
+      "homeTeamId": "occitania",
+      "matchId": "int-2006-11-20-occitania-sapmi",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sapmi",
+      "date": "2012-03-30",
+      "homeScore": 3,
+      "homeTeamId": "occitania",
+      "matchId": "int-2012-03-30-occitania-sapmi",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "occitania",
+      "date": "2014-06-03",
+      "homeScore": 0,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2014-06-03-sapmi-occitania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "pairKey": "occitania__sapmi",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 9,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "occitania",
+  "teamBId": "sapmi"
+}

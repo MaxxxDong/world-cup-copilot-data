@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 13,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "portugal",
+    "date": "2015-09-07",
+    "homeScore": 0,
+    "homeTeamId": "albania",
+    "matchId": "int-2015-09-07-albania-portugal",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "portugal",
+      "date": "1996-10-09",
+      "homeScore": 0,
+      "homeTeamId": "albania",
+      "matchId": "int-1996-10-09-albania-portugal",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "1997-06-07",
+      "homeScore": 2,
+      "homeTeamId": "portugal",
+      "matchId": "int-1997-06-07-portugal-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "albania",
+      "date": "2003-10-11",
+      "homeScore": 5,
+      "homeTeamId": "portugal",
+      "matchId": "int-2003-10-11-portugal-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "2008-10-15",
+      "homeScore": 0,
+      "homeTeamId": "portugal",
+      "matchId": "int-2008-10-15-portugal-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "portugal",
+      "date": "2009-06-06",
+      "homeScore": 1,
+      "homeTeamId": "albania",
+      "matchId": "int-2009-06-06-albania-portugal",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "albania",
+      "date": "2014-09-07",
+      "homeScore": 0,
+      "homeTeamId": "portugal",
+      "matchId": "int-2014-09-07-portugal-albania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "portugal",
+      "date": "2015-09-07",
+      "homeScore": 0,
+      "homeTeamId": "albania",
+      "matchId": "int-2015-09-07-albania-portugal",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "albania__portugal",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 13,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "albania",
+  "teamBId": "portugal"
+}

@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 14,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "northern-ireland",
+    "date": "2021-05-30",
+    "homeScore": 0,
+    "homeTeamId": "malta",
+    "matchId": "int-2021-05-30-malta-northern-ireland",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "1988-05-21",
+      "homeScore": 3,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1988-05-21-northern-ireland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "northern-ireland",
+      "date": "1989-04-26",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1989-04-26-malta-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "northern-ireland",
+      "date": "2000-03-28",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2000-03-28-malta-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "2000-09-02",
+      "homeScore": 1,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2000-09-02-northern-ireland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2001-10-06",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2001-10-06-malta-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2005-08-17",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-2005-08-17-malta-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "2013-02-06",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2013-02-06-malta-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "northern-ireland",
+      "date": "2021-05-30",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2021-05-30-malta-northern-ireland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "malta__northern-ireland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "malta",
+  "teamBId": "northern-ireland"
+}

@@ -1,0 +1,186 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 6,
+    "teamAWins": 2,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "brunei",
+    "date": "2024-09-10",
+    "homeScore": 0,
+    "homeTeamId": "macau",
+    "matchId": "int-2024-09-10-macau-brunei",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "1985-02-17",
+      "homeScore": 2,
+      "homeTeamId": "macau",
+      "matchId": "int-1985-02-17-macau-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "macau",
+      "date": "1985-04-13",
+      "homeScore": 1,
+      "homeTeamId": "brunei",
+      "matchId": "int-1985-04-13-brunei-macau",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2000-02-13",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2000-02-13-macau-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2016-11-12",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2016-11-12-macau-brunei",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Solidarity Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "macau",
+      "date": "2024-09-06",
+      "homeScore": 3,
+      "homeTeamId": "brunei",
+      "matchId": "int-2024-09-06-brunei-macau",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2024-09-10",
+      "homeScore": 0,
+      "homeTeamId": "macau",
+      "matchId": "int-2024-09-10-macau-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "pairKey": "brunei__macau",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "brunei",
+  "teamBId": "macau"
+}

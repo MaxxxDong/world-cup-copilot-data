@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 13,
+    "teamAWins": 4,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "sweden",
+    "date": "2003-02-20",
+    "homeScore": 1,
+    "homeTeamId": "thailand",
+    "matchId": "int-2003-02-20-thailand-sweden",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "King's Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "1962-11-16",
+      "homeScore": 1,
+      "homeTeamId": "thailand",
+      "matchId": "int-1962-11-16-thailand-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sweden",
+      "date": "1997-02-11",
+      "homeScore": 0,
+      "homeTeamId": "thailand",
+      "matchId": "int-1997-02-11-thailand-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sweden",
+      "date": "1997-02-16",
+      "homeScore": 1,
+      "homeTeamId": "thailand",
+      "matchId": "int-1997-02-16-thailand-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "sweden",
+      "date": "2001-02-10",
+      "homeScore": 1,
+      "homeTeamId": "thailand",
+      "matchId": "int-2001-02-10-thailand-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "sweden",
+      "date": "2003-02-20",
+      "homeScore": 1,
+      "homeTeamId": "thailand",
+      "matchId": "int-2003-02-20-thailand-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "pairKey": "sweden__thailand",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 13,
+      "teamAWins": 4,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "sweden",
+  "teamBId": "thailand"
+}

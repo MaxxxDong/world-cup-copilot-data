@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 18,
+    "teamAWins": 6,
+    "teamBGoals": 6,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "latvia",
+    "date": "2019-10-15",
+    "homeScore": 3,
+    "homeTeamId": "israel",
+    "matchId": "int-2019-10-15-israel-latvia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "israel",
+      "date": "1998-05-17",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-1998-05-17-latvia-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "1999-02-24",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-1999-02-24-israel-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "israel",
+      "date": "2008-10-15",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-2008-10-15-latvia-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2009-09-05",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-2009-09-05-israel-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2011-03-26",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-2011-03-26-israel-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "2011-06-04",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-2011-06-04-latvia-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "israel",
+      "date": "2019-06-07",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2019-06-07-latvia-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2019-10-15",
+      "homeScore": 3,
+      "homeTeamId": "israel",
+      "matchId": "int-2019-10-15-israel-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "israel__latvia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 8,
+      "teamAGoals": 18,
+      "teamAWins": 6,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "israel",
+  "teamBId": "latvia"
+}

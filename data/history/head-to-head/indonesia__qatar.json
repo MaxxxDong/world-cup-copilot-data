@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 10,
+    "teamAGoals": 10,
+    "teamAWins": 1,
+    "teamBGoals": 24,
+    "teamBWins": 7
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "indonesia",
+    "date": "2014-07-14",
+    "homeScore": 2,
+    "homeTeamId": "qatar",
+    "matchId": "int-2014-07-14-qatar-indonesia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "indonesia",
+      "date": "1986-09-21",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-1986-09-21-qatar-indonesia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Asian Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "qatar",
+      "date": "1988-10-02",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1988-10-02-indonesia-qatar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "qatar",
+      "date": "1988-10-04",
+      "homeScore": 1,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1988-10-04-indonesia-qatar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "qatar",
+      "date": "1988-11-09",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1988-11-09-indonesia-qatar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "indonesia",
+      "date": "1993-04-09",
+      "homeScore": 3,
+      "homeTeamId": "qatar",
+      "matchId": "int-1993-04-09-qatar-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "qatar",
+      "date": "1993-04-24",
+      "homeScore": 1,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1993-04-24-indonesia-qatar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "indonesia",
+      "date": "2004-07-18",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-2004-07-18-qatar-indonesia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "qatar",
+      "date": "2011-10-11",
+      "homeScore": 2,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2011-10-11-indonesia-qatar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "2011-11-11",
+      "homeScore": 4,
+      "homeTeamId": "qatar",
+      "matchId": "int-2011-11-11-qatar-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "indonesia",
+      "date": "2014-07-14",
+      "homeScore": 2,
+      "homeTeamId": "qatar",
+      "matchId": "int-2014-07-14-qatar-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "indonesia__qatar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 16,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 6,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "indonesia",
+  "teamBId": "qatar"
+}

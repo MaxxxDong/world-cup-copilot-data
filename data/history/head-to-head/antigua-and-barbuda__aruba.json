@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 11,
+    "teamAWins": 5,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "aruba",
+    "date": "2025-11-12",
+    "homeScore": 0,
+    "homeTeamId": "antigua-and-barbuda",
+    "matchId": "int-2025-11-12-antigua-and-barbuda-aruba",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2008-02-06",
+      "homeScore": 0,
+      "homeTeamId": "aruba",
+      "matchId": "int-2008-02-06-aruba-antigua-and-barbuda",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "aruba",
+      "date": "2008-03-26",
+      "homeScore": 1,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2008-03-26-antigua-and-barbuda-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "aruba",
+      "date": "2016-03-23",
+      "homeScore": 2,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2016-03-23-antigua-and-barbuda-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "aruba",
+      "date": "2019-09-09",
+      "homeScore": 2,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2019-09-09-antigua-and-barbuda-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2019-11-18",
+      "homeScore": 2,
+      "homeTeamId": "aruba",
+      "matchId": "int-2019-11-18-aruba-antigua-and-barbuda",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "aruba",
+      "date": "2025-11-12",
+      "homeScore": 0,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2025-11-12-antigua-and-barbuda-aruba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "antigua-and-barbuda__aruba",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "antigua-and-barbuda",
+  "teamBId": "aruba"
+}

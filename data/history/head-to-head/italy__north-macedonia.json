@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 2,
+    "teamBGoals": 7,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "north-macedonia",
+    "date": "2023-11-17",
+    "homeScore": 5,
+    "homeTeamId": "italy",
+    "matchId": "int-2023-11-17-italy-north-macedonia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "italy",
+      "date": "2016-10-09",
+      "homeScore": 2,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2016-10-09-north-macedonia-italy",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-macedonia",
+      "date": "2017-10-06",
+      "homeScore": 1,
+      "homeTeamId": "italy",
+      "matchId": "int-2017-10-06-italy-north-macedonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-macedonia",
+      "date": "2022-03-24",
+      "homeScore": 0,
+      "homeTeamId": "italy",
+      "matchId": "int-2022-03-24-italy-north-macedonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "italy",
+      "date": "2023-09-09",
+      "homeScore": 1,
+      "homeTeamId": "north-macedonia",
+      "matchId": "int-2023-09-09-north-macedonia-italy",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "north-macedonia",
+      "date": "2023-11-17",
+      "homeScore": 5,
+      "homeTeamId": "italy",
+      "matchId": "int-2023-11-17-italy-north-macedonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "italy__north-macedonia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "italy",
+  "teamBId": "north-macedonia"
+}

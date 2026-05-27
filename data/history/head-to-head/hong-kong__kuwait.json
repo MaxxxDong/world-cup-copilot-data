@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 18,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "kuwait",
+    "date": "2004-09-08",
+    "homeScore": 0,
+    "homeTeamId": "hong-kong",
+    "matchId": "int-2004-09-08-hong-kong-kuwait",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "kuwait",
+      "date": "1977-10-02",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1977-10-02-hong-kong-kuwait",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hong-kong",
+      "date": "1977-11-12",
+      "homeScore": 4,
+      "homeTeamId": "kuwait",
+      "matchId": "int-1977-11-12-kuwait-hong-kong",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hong-kong",
+      "date": "1990-09-23",
+      "homeScore": 2,
+      "homeTeamId": "kuwait",
+      "matchId": "int-1990-09-23-kuwait-hong-kong",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Asian Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kuwait",
+      "date": "1993-04-23",
+      "homeScore": 2,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1993-04-23-hong-kong-kuwait",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kuwait",
+      "date": "1993-04-25",
+      "homeScore": 0,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1993-04-25-hong-kong-kuwait",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hong-kong",
+      "date": "2004-06-09",
+      "homeScore": 4,
+      "homeTeamId": "kuwait",
+      "matchId": "int-2004-06-09-kuwait-hong-kong",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kuwait",
+      "date": "2004-09-08",
+      "homeScore": 0,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2004-09-08-hong-kong-kuwait",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "hong-kong__kuwait",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 15,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "hong-kong",
+  "teamBId": "kuwait"
+}

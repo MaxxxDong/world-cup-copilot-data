@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 17,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "antigua-and-barbuda",
+    "date": "2024-10-15",
+    "homeScore": 5,
+    "homeTeamId": "dominican-republic",
+    "matchId": "int-2024-10-15-dominican-republic-antigua-and-barbuda",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "dominican-republic",
+      "date": "2001-03-03",
+      "homeScore": 2,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2001-03-03-antigua-and-barbuda-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2006-11-26",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2006-11-26-dominican-republic-antigua-and-barbuda",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "dominican-republic",
+      "date": "2012-12-07",
+      "homeScore": 1,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2012-12-07-antigua-and-barbuda-dominican-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "dominican-republic",
+      "date": "2024-10-12",
+      "homeScore": 0,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2024-10-12-antigua-and-barbuda-dominican-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2024-10-15",
+      "homeScore": 5,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2024-10-15-dominican-republic-antigua-and-barbuda",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "antigua-and-barbuda__dominican-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 17,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "antigua-and-barbuda",
+  "teamBId": "dominican-republic"
+}

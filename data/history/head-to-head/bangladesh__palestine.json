@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 12,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "palestine",
+    "date": "2024-03-26",
+    "homeScore": 0,
+    "homeTeamId": "bangladesh",
+    "matchId": "int-2024-03-26-bangladesh-palestine",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "palestine",
+      "date": "2006-04-05",
+      "homeScore": 1,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2006-04-05-bangladesh-palestine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Challenge Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bangladesh",
+      "date": "2011-03-21",
+      "homeScore": 2,
+      "homeTeamId": "palestine",
+      "matchId": "int-2011-03-21-palestine-bangladesh",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Challenge Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bangladesh",
+      "date": "2013-03-02",
+      "homeScore": 1,
+      "homeTeamId": "palestine",
+      "matchId": "int-2013-03-02-palestine-bangladesh",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Challenge Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "palestine",
+      "date": "2021-09-05",
+      "homeScore": 0,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2021-09-05-bangladesh-palestine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Three Nations Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bangladesh",
+      "date": "2024-03-21",
+      "homeScore": 5,
+      "homeTeamId": "palestine",
+      "matchId": "int-2024-03-21-palestine-bangladesh",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "palestine",
+      "date": "2024-03-26",
+      "homeScore": 0,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2024-03-26-bangladesh-palestine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "bangladesh__palestine",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bangladesh",
+  "teamBId": "palestine"
+}

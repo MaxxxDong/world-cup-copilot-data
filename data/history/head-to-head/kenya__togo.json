@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 9,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "kenya",
+    "date": "2021-03-29",
+    "homeScore": 1,
+    "homeTeamId": "togo",
+    "matchId": "int-2021-03-29-togo-kenya",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "1972-02-28",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-1972-02-28-kenya-togo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2002-09-07",
+      "homeScore": 3,
+      "homeTeamId": "kenya",
+      "matchId": "int-2002-09-07-kenya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "2003-06-22",
+      "homeScore": 2,
+      "homeTeamId": "togo",
+      "matchId": "int-2003-06-22-togo-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "2012-02-29",
+      "homeScore": 2,
+      "homeTeamId": "kenya",
+      "matchId": "int-2012-02-29-kenya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kenya",
+      "date": "2012-06-17",
+      "homeScore": 1,
+      "homeTeamId": "togo",
+      "matchId": "int-2012-06-17-togo-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "2019-11-18",
+      "homeScore": 1,
+      "homeTeamId": "kenya",
+      "matchId": "int-2019-11-18-kenya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kenya",
+      "date": "2021-03-29",
+      "homeScore": 1,
+      "homeTeamId": "togo",
+      "matchId": "int-2021-03-29-togo-kenya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "kenya__togo",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kenya",
+  "teamBId": "togo"
+}

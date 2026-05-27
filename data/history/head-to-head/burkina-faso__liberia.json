@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 10,
+    "teamAWins": 4,
+    "teamBGoals": 6,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "burkina-faso",
+    "date": "1998-01-27",
+    "homeScore": 1,
+    "homeTeamId": "liberia",
+    "matchId": "int-1998-01-27-liberia-burkina-faso",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "liberia",
+      "date": "1961-12-27",
+      "homeScore": 5,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-1961-12-27-burkina-faso-liberia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Friendship Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "1982-02-15",
+      "homeScore": 1,
+      "homeTeamId": "liberia",
+      "matchId": "int-1982-02-15-liberia-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "West African Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "burkina-faso",
+      "date": "1986-02-23",
+      "homeScore": 0,
+      "homeTeamId": "liberia",
+      "matchId": "int-1986-02-23-liberia-burkina-faso",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "West African Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "1987-02-01",
+      "homeScore": 2,
+      "homeTeamId": "liberia",
+      "matchId": "int-1987-02-01-liberia-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "West African Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burkina-faso",
+      "date": "1987-12-20",
+      "homeScore": 1,
+      "homeTeamId": "liberia",
+      "matchId": "int-1987-12-20-liberia-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "burkina-faso",
+      "date": "1998-01-27",
+      "homeScore": 1,
+      "homeTeamId": "liberia",
+      "matchId": "int-1998-01-27-liberia-burkina-faso",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "burkina-faso__liberia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "burkina-faso",
+  "teamBId": "liberia"
+}

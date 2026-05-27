@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 8,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "north-korea",
+    "date": "2018-12-25",
+    "homeScore": 1,
+    "homeTeamId": "vietnam",
+    "matchId": "int-2018-12-25-vietnam-north-korea",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam",
+      "date": "1993-04-09",
+      "homeScore": 3,
+      "homeTeamId": "north-korea",
+      "matchId": "int-1993-04-09-north-korea-vietnam",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-korea",
+      "date": "1993-04-24",
+      "homeScore": 0,
+      "homeTeamId": "vietnam",
+      "matchId": "int-1993-04-24-vietnam-north-korea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-korea",
+      "date": "2008-10-30",
+      "homeScore": 0,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2008-10-30-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "VFF Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "north-korea",
+      "date": "2010-09-24",
+      "homeScore": 0,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2010-09-24-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "north-korea",
+      "date": "2010-11-06",
+      "homeScore": 0,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2010-11-06-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "VFF Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-korea",
+      "date": "2015-05-17",
+      "homeScore": 1,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2015-05-17-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "north-korea",
+      "date": "2016-10-06",
+      "homeScore": 5,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2016-10-06-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "north-korea",
+      "date": "2018-12-25",
+      "homeScore": 1,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2018-12-25-vietnam-north-korea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "north-korea__vietnam",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "north-korea",
+  "teamBId": "vietnam"
+}

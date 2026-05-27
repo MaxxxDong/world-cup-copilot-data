@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 5,
+    "teamAWins": 2,
+    "teamBGoals": 5,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "equatorial-guinea",
+    "date": "2024-01-22",
+    "homeScore": 0,
+    "homeTeamId": "civ",
+    "matchId": "int-2024-01-22-civ-equatorial-guinea",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "civ",
+      "date": "2012-02-04",
+      "homeScore": 0,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2012-02-04-equatorial-guinea-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2015-03-29",
+      "homeScore": 1,
+      "homeTeamId": "civ",
+      "matchId": "int-2015-03-29-civ-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "civ",
+      "date": "2022-01-12",
+      "homeScore": 0,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2022-01-12-equatorial-guinea-civ",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2024-01-22",
+      "homeScore": 0,
+      "homeTeamId": "civ",
+      "matchId": "int-2024-01-22-civ-equatorial-guinea",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "civ__equatorial-guinea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "civ",
+  "teamBId": "equatorial-guinea"
+}
