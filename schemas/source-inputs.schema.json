@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "generatedAt": { "type": "string" },
+    "guidance": {
+      "additionalProperties": { "type": "string" },
+      "type": "object"
+    },
+    "inputCount": { "minimum": 0, "type": "number" },
+    "inputs": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "format": { "type": "string" },
+          "inputRole": { "type": "string" },
+          "path": { "type": "string" },
+          "sha256": {
+            "pattern": "^[a-f0-9]{64}$",
+            "type": "string"
+          },
+          "sizeBytes": { "minimum": 0, "type": "number" },
+          "sourceId": { "type": "string" },
+          "sourcePath": { "type": "string" }
+        },
+        "required": ["inputRole", "sourceId", "sourcePath", "format", "path", "sizeBytes", "sha256"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "purpose": { "type": "string" }
+  },
+  "required": ["generatedAt", "inputCount", "inputs", "purpose"],
+  "type": "object"
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "categories": {
+      "items": { "type": "string" },
+      "type": "array"
+    },
+    "downloadTier": {
+      "enum": ["match-context", "player-context", "audit", "optional", "tournament-context"],
+      "type": "string"
+    },
+    "fileCount": { "minimum": 0, "type": "number" },
+    "fileDefaults": {
+      "additionalProperties": false,
+      "properties": {
+        "category": { "type": "string" },
+        "downloadTier": {
+          "enum": ["match-context", "player-context", "audit", "optional", "tournament-context"],
+          "type": "string"
+        },
+        "required": { "type": "boolean" },
+        "updatedAt": { "type": "string" }
+      },
+      "type": "object"
+    },
+    "files": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "category": { "type": "string" },
+          "downloadTier": {
+            "enum": ["match-context", "player-context", "audit", "optional", "tournament-context"],
+            "type": "string"
+          },
+          "path": { "type": "string" },
+          "recordCount": { "type": ["number", "null"] },
+          "required": { "type": "boolean" },
+          "sha256": {
+            "pattern": "^[a-f0-9]{64}$",
+            "type": "string"
+          },
+          "sizeBytes": { "minimum": 0, "type": "number" },
+          "updatedAt": { "type": "string" }
+        },
+        "required": ["path", "sha256", "sizeBytes"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "generatedAt": { "type": "string" },
+    "indexId": { "type": "string" },
+    "pathPrefixes": {
+      "items": { "type": "string" },
+      "type": "array"
+    },
+    "totalBytes": { "minimum": 0, "type": "number" }
+  },
+  "required": ["generatedAt", "downloadTier", "indexId", "categories", "pathPrefixes", "fileCount", "totalBytes", "files"],
+  "type": "object"
+}

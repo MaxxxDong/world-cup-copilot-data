@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "fileEntry": {
+      "additionalProperties": false,
+      "properties": {
+        "category": { "type": "string" },
+        "downloadTier": {
+          "enum": ["core", "match-context", "player-context", "audit", "optional", "tournament-context"],
+          "type": "string"
+        },
+        "indexId": { "type": "string" },
+        "indexesTier": {
+          "enum": ["match-context", "player-context", "audit", "optional", "tournament-context"],
+          "type": "string"
+        },
+        "path": { "type": "string" },
+        "pathPrefixes": {
+          "items": { "type": "string" },
+          "type": "array"
+        },
+        "recordCount": { "type": ["number", "null"] },
+        "required": { "type": "boolean" },
+        "sha256": {
+          "pattern": "^[a-f0-9]{64}$",
+          "type": "string"
+        },
+        "sizeBytes": { "minimum": 0, "type": "number" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["path", "category", "downloadTier", "required", "sha256", "sizeBytes", "updatedAt"],
+      "type": "object"
+    }
+  },
+  "properties": {
+    "dataVersion": { "type": "string" },
+    "fileIndexes": {
+      "items": { "$ref": "#/$defs/fileEntry" },
+      "type": "array"
+    },
+    "files": {
+      "items": { "$ref": "#/$defs/fileEntry" },
+      "type": "array"
+    },
+    "generatedAt": { "type": "string" },
+    "gitCommit": { "type": "string" },
+    "license": { "type": "string" },
+    "minExtensionVersion": { "type": "string" },
+    "recommendedExtensionVersion": { "type": "string" },
+    "schemaVersion": { "type": "string" }
+  },
+  "required": ["schemaVersion", "dataVersion", "generatedAt", "files"],
+  "type": "object"
+}

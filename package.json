@@ -1,0 +1,20 @@
+{
+  "name": "world-cup-copilot-data",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "audit:completion": "node scripts/audit-completion.mjs",
+    "audit:package-budget": "node scripts/audit-package-budget.mjs",
+    "audit:fifa-schedule": "node scripts/audit-fifa-schedule.mjs",
+    "audit:fifa-squads-input": "node scripts/audit-fifa-squads-input.mjs",
+    "audit:release": "node scripts/audit-release.mjs",
+    "audit:remote-latency": "node scripts/audit-remote-latency.mjs",
+    "audit:readiness": "node scripts/audit-readiness.mjs",
+    "audit:source-inputs": "node scripts/audit-source-inputs.mjs",
+    "fetch:wikimedia-team-identities": "node scripts/fetch-wikimedia-team-identities.mjs",
+    "generate": "node scripts/generate-phase-a.mjs --out dist/phase-a-demo",
+    "validate": "node scripts/validate-package.mjs dist/phase-a-demo",
+    "test": "node --test"
+  }
+}

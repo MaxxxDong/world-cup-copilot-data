@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": true,
+    "properties": {
+      "accessMethod": { "type": "string" },
+      "license": { "type": "string" },
+      "name": { "type": "string" },
+      "publisher": { "type": "string" },
+      "retrievedAt": { "type": "string" },
+      "rightsNote": { "type": "string" },
+      "sourceCommit": { "type": "string" },
+      "sourceId": { "type": "string" },
+      "transform": {
+        "additionalProperties": true,
+        "properties": {
+          "script": { "type": "string" },
+          "version": { "type": "string" }
+        },
+        "type": "object"
+      },
+      "url": { "type": "string" }
+    },
+    "required": ["sourceId", "name", "url", "license", "retrievedAt"],
+    "type": "object"
+  },
+  "type": "array"
+}

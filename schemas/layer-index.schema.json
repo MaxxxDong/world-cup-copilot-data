@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "generatedAt": { "type": "string" },
+    "guidance": {
+      "additionalProperties": { "type": "string" },
+      "type": "object"
+    },
+    "layers": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "categories": {
+            "items": { "type": "string" },
+            "type": "array"
+          },
+          "downloadTiers": {
+            "items": {
+              "enum": ["core", "match-context", "player-context", "audit", "optional", "tournament-context"],
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "layerId": { "type": "string" },
+          "pathTemplates": {
+            "items": { "type": "string" },
+            "type": "array"
+          },
+          "required": { "type": "boolean" },
+          "useWhen": { "type": "string" }
+        },
+        "required": ["layerId", "downloadTiers", "categories", "useWhen"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "purpose": { "type": "string" }
+  },
+  "required": ["generatedAt", "purpose", "guidance", "layers"],
+  "type": "object"
+}

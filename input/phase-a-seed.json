@@ -1,0 +1,152 @@
+{
+  "sources": [
+    {
+      "accessMethod": "github",
+      "license": "CC0-1.0",
+      "name": "openfootball/worldcup.json",
+      "publisher": "openfootball",
+      "retrievedAt": "2026-05-26T00:00:00Z",
+      "rightsNote": "Public domain / CC0 project data. Used here as the schedule source placeholder until the full importer is wired.",
+      "sourceCommit": "phase-a-seed",
+      "sourceId": "openfootball-worldcup-json",
+      "url": "https://github.com/openfootball/worldcup.json"
+    },
+    {
+      "accessMethod": "github",
+      "license": "CC0-1.0",
+      "name": "martj42/international_results",
+      "publisher": "martj42",
+      "retrievedAt": "2026-05-26T00:00:00Z",
+      "rightsNote": "CC0 international results dataset. Used to derive head-to-head and form summaries.",
+      "sourceCommit": "phase-a-seed",
+      "sourceId": "martj42-international-results",
+      "url": "https://github.com/martj42/international_results"
+    }
+  ],
+  "teams": [
+    {
+      "aliases": ["Mexico", "MEX", "El Tri"],
+      "fifaCode": "MEX",
+      "name": "Mexico",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "teamId": "mex"
+    },
+    {
+      "aliases": ["South Africa", "RSA", "Bafana Bafana"],
+      "fifaCode": "RSA",
+      "name": "South Africa",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "teamId": "rsa"
+    },
+    {
+      "aliases": ["Brazil", "BRA", "Brasil", "Selecao"],
+      "fifaCode": "BRA",
+      "name": "Brazil",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "teamId": "bra"
+    },
+    {
+      "aliases": ["Morocco", "MAR", "Atlas Lions"],
+      "fifaCode": "MAR",
+      "name": "Morocco",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "teamId": "mar"
+    }
+  ],
+  "schedule": [
+    {
+      "awayTeamId": "rsa",
+      "city": "Mexico City",
+      "competitionId": "fifa-world-cup-2026",
+      "country": "Mexico",
+      "group": "Group A",
+      "homeTeamId": "mex",
+      "kickoffUtc": "2026-06-11T19:00:00.000Z",
+      "matchId": "2026-group-a-mexico-south-africa",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "stage": "Group Stage",
+      "venueId": "estadio-azteca"
+    },
+    {
+      "awayTeamId": "mar",
+      "city": "East Rutherford",
+      "competitionId": "fifa-world-cup-2026",
+      "country": "United States",
+      "group": "Group C",
+      "homeTeamId": "bra",
+      "kickoffUtc": "2026-06-13T22:00:00.000Z",
+      "matchId": "2026-group-c-brazil-morocco",
+      "sourceRefs": [{ "path": "worldcup.json", "sourceId": "openfootball-worldcup-json" }],
+      "stage": "Group Stage",
+      "venueId": "metlife-stadium"
+    }
+  ],
+  "internationalResults": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "rsa",
+      "date": "2010-06-11",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-2010-06-11-rsa-mex",
+      "neutral": false,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "rsa",
+      "date": "2013-10-11",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-2013-10-11-mex-rsa",
+      "neutral": false,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mex",
+      "date": "2022-11-30",
+      "homeScore": 2,
+      "homeTeamId": "rsa",
+      "matchId": "int-2022-11-30-rsa-mex",
+      "neutral": true,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bra",
+      "date": "1998-06-16",
+      "homeScore": 0,
+      "homeTeamId": "mar",
+      "matchId": "int-1998-06-16-mar-bra",
+      "neutral": true,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mar",
+      "date": "2022-12-10",
+      "homeScore": 1,
+      "homeTeamId": "bra",
+      "matchId": "int-2022-12-10-bra-mar",
+      "neutral": true,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bra",
+      "date": "2023-03-25",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-2023-03-25-mar-bra",
+      "neutral": false,
+      "sourceRefs": [{ "path": "results.csv", "sourceId": "martj42-international-results" }],
+      "tournament": "Friendly"
+    }
+  ]
+}
