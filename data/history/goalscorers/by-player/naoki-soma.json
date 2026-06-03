@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "china-pr",
+      "date": "1996-12-12",
+      "goalId": "goal-1996-12-12-japan-china-pr-16637",
+      "homeTeamId": "japan",
+      "matchKey": "1996-12-12-japan-china-pr",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naoki Soma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1997-03-25",
+      "goalId": "goal-1997-03-25-macau-japan-16793",
+      "homeTeamId": "macau",
+      "matchKey": "1997-03-25-macau-japan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Naoki Soma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "naoki soma",
+  "playerKey": "naoki-soma",
+  "scorer": "Naoki Soma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

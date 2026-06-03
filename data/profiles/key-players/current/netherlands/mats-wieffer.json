@@ -1,0 +1,84 @@
+{
+  "club": "Brighton & Hove Albion FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-11-16",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "mats-wieffer",
+    "position": "defensive midfielder",
+    "providerIds": {
+      "api_football": "92993",
+      "capology": "mats-wieffer-36480",
+      "espn": "282186",
+      "eu_football_info": "32349",
+      "fbref": "4876c9ab",
+      "footballdatabase_eu": "366293",
+      "fotmob": "970243",
+      "heimspiel": "545606",
+      "impect": "75770",
+      "kicker": "mats-wieffer-2",
+      "national_football_teams": "90696",
+      "opta": "672cwl9zj2d6lce6jda350vvu",
+      "opta_numeric": "467779",
+      "premier_league": "72239",
+      "skillcorner": "61302",
+      "soccerway": "576067",
+      "sofascore": "959628",
+      "sportmonks": "24082563",
+      "thesportsdb": "34216594",
+      "transfermarkt": "415381",
+      "uefa": "250177878",
+      "understat": "12758",
+      "whoscored": "445059",
+      "wikidata": "Q58767078",
+      "worldfootball": "mats-wieffer",
+      "wyscout": "589075"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Mats Wieffer",
+  "playerKey": "mats-wieffer",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-gibraltar-netherlands-44119",
+      "matchKey": "2023-11-21-gibraltar-netherlands",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Wieffer"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+  },
+  "shirtNumber": 12,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

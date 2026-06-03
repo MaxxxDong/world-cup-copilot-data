@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1984-09-12",
+      "goalId": "goal-1984-09-12-norway-switzerland-10323",
+      "homeTeamId": "norway",
+      "matchKey": "1984-09-12-norway-switzerland",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "André Egli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1985-04-17",
+      "goalId": "goal-1985-04-17-switzerland-russia-10709",
+      "homeTeamId": "switzerland",
+      "matchKey": "1985-04-17-switzerland-russia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Egli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1987-04-15",
+      "goalId": "goal-1987-04-15-switzerland-malta-11403",
+      "homeTeamId": "switzerland",
+      "matchKey": "1987-04-15-switzerland-malta",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "André Egli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "andr egli",
+  "playerKey": "andr-egli",
+  "scorer": "André Egli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

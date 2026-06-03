@@ -1,0 +1,85 @@
+{
+  "club": "Maccabi Haifa FC (ISR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1992-06-04",
+    "nationality": "Israel",
+    "playerKey": "abdoulaye-seck",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "8450",
+      "espn": "251614",
+      "fbref": "a3eb9b57",
+      "footballdatabase_eu": "113996",
+      "heimspiel": "361320",
+      "impect": "43733",
+      "kicker": "abdoulaye-seck-2",
+      "lequipe": "71229",
+      "national_football_teams": "52942",
+      "opta": "4gglrx5t4kgdqqc51tgfjgz4l",
+      "skillcorner": "14630",
+      "soccerway": "352419",
+      "sofascore": "583896",
+      "thesportsdb": "34175589",
+      "transfermarkt": "265383",
+      "wikidata": "Q17494543",
+      "worldfootball": "abdoulaye-seck_2",
+      "wyscout": "339644"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Abdoulaye Seck",
+  "playerKey": "abdoulaye-seck",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-30",
+      "goalId": "goal-2025-12-30-benin-senegal-47496",
+      "matchKey": "2025-12-30-benin-senegal",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdoulaye Seck"
+    },
+    {
+      "date": "2024-01-23",
+      "goalId": "goal-2024-01-23-guinea-senegal-44342",
+      "matchKey": "2024-01-23-guinea-senegal",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdoulaye Seck"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "senegal",
+  "teamName": "Senegal"
+}

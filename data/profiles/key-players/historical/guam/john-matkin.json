@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2019-11-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1986-04-20",
+    "nationality": "United States",
+    "playerKey": "john-matkin",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "b72ec246",
+      "footballdatabase_eu": "191152",
+      "national_football_teams": "51514",
+      "soccerway": "281378",
+      "sofascore": "594946",
+      "transfermarkt": "321536",
+      "wikidata": "Q10551448"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-19",
+  "playerKey": "john-matkin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-maldives-guam-39573",
+      "matchKey": "2019-11-19-maldives-guam",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Matkin"
+    }
+  ],
+  "scorer": "John Matkin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guam",
+  "teamName": "Guam",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

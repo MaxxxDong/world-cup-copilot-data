@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "1996-10-08",
+      "goalId": "goal-1996-10-08-bosnia-and-herzegovina-croatia-16334",
+      "homeTeamId": "bosnia-and-herzegovina",
+      "matchKey": "1996-10-08-bosnia-and-herzegovina-croatia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Slaven Bilić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "1997-09-06",
+      "goalId": "goal-1997-09-06-croatia-bosnia-and-herzegovina-17628",
+      "homeTeamId": "croatia",
+      "matchKey": "1997-09-06-croatia-bosnia-and-herzegovina",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Slaven Bilić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "ukraine",
+      "date": "1997-10-29",
+      "goalId": "goal-1997-10-29-croatia-ukraine-17909",
+      "homeTeamId": "croatia",
+      "matchKey": "1997-10-29-croatia-ukraine",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Slaven Bilić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "slaven bili",
+  "playerKey": "slaven-bili",
+  "scorer": "Slaven Bilić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

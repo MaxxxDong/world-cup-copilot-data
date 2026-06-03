@@ -1,0 +1,100 @@
+{
+  "club": "Eintracht Frankfurt (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1995-05-10",
+    "nationality": "Tunisia",
+    "playerKey": "ellyes-skhiri",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "21587",
+      "capology": "ellyes-skhiri-34829",
+      "espn": "209595",
+      "fbref": "c2211709",
+      "footballdatabase_eu": "188065",
+      "fotmob": "574642",
+      "german_fa": "384871",
+      "heimspiel": "364855",
+      "impect": "2027",
+      "kicker": "ellyes-skhiri",
+      "lequipe": "54353",
+      "national_football_teams": "70782",
+      "opta": "ojqb7kv87o0cidbckgtg1rdh",
+      "skillcorner": "3015",
+      "soccerbase": "77451",
+      "soccerway": "280199",
+      "sofascore": "591706",
+      "sofifa": "411658",
+      "thesportsdb": "34146678",
+      "transfermarkt": "290587",
+      "uefa": "250119519",
+      "wikidata": "Q20641500",
+      "worldfootball": "ellyes-skhiri",
+      "wyscout": "246946"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ellyes Skhiri",
+  "playerKey": "ellyes-skhiri",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-23",
+      "goalId": "goal-2025-12-23-tunisia-uganda-47452",
+      "matchKey": "2025-12-23-tunisia-uganda",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ellyes Skhiri"
+    },
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-tunisia-mauritania-41508",
+      "matchKey": "2021-10-07-tunisia-mauritania",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ellyes Skhiri"
+    },
+    {
+      "date": "2021-09-03",
+      "goalId": "goal-2021-09-03-tunisia-equatorial-guinea-41223",
+      "matchKey": "2021-09-03-tunisia-equatorial-guinea",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ellyes Skhiri"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 17,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

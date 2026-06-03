@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-portugal-turkey-42370",
+      "homeTeamId": "portugal",
+      "matchKey": "2022-03-24-portugal-turkey",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Otávio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "2023-03-26",
+      "goalId": "goal-2023-03-26-luxembourg-portugal-43149",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2023-03-26-luxembourg-portugal",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Otávio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "ot vio",
+  "playerKey": "ot-vio",
+  "scorer": "Otávio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

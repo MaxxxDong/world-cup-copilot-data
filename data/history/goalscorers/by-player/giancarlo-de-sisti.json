@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "1970-10-31",
+      "goalId": "goal-1970-10-31-austria-italy-5959",
+      "homeTeamId": "austria",
+      "matchKey": "1970-10-31-austria-italy",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giancarlo De Sisti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1970-12-08",
+      "goalId": "goal-1970-12-08-italy-republic-of-ireland-5984",
+      "homeTeamId": "italy",
+      "matchKey": "1970-12-08-italy-republic-of-ireland",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Giancarlo De Sisti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1971-11-20",
+      "goalId": "goal-1971-11-20-italy-austria-6183",
+      "homeTeamId": "italy",
+      "matchKey": "1971-11-20-italy-austria",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giancarlo De Sisti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "giancarlo de sisti",
+  "playerKey": "giancarlo-de-sisti",
+  "scorer": "Giancarlo De Sisti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

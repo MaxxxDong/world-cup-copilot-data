@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1973-09-26",
+      "goalId": "goal-1973-09-26-poland-wales-6820",
+      "homeTeamId": "poland",
+      "matchKey": "1973-09-26-poland-wales",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Domarski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "1973-10-17",
+      "goalId": "goal-1973-10-17-england-poland-6848",
+      "homeTeamId": "england",
+      "matchKey": "1973-10-17-england-poland",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Domarski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "jan domarski",
+  "playerKey": "jan-domarski",
+  "scorer": "Jan Domarski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

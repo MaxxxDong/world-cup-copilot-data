@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nepal",
+      "date": "2019-10-15",
+      "goalId": "goal-2019-10-15-jordan-nepal-39313",
+      "homeTeamId": "jordan",
+      "matchKey": "2019-10-15-jordan-nepal",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Ersan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-jordan-taiwan-39562",
+      "homeTeamId": "jordan",
+      "matchKey": "2019-11-19-jordan-taiwan",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Ersan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "ahmad ersan",
+  "playerKey": "ahmad-ersan",
+  "scorer": "Ahmad Ersan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

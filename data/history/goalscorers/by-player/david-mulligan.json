@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-vanuatu-new-zealand-27429",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2007-11-17-vanuatu-new-zealand",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Mulligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-new-zealand-vanuatu-27511",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2007-11-21-new-zealand-vanuatu",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Mulligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-new-zealand-vanuatu-27515",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2007-11-21-new-zealand-vanuatu",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Mulligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "david mulligan",
+  "playerKey": "david-mulligan",
+  "scorer": "David Mulligan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

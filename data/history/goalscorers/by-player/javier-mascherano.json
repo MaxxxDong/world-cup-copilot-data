@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2007-07-05",
+      "goalId": "goal-2007-07-05-arg-paraguay-26823",
+      "homeTeamId": "arg",
+      "matchKey": "2007-07-05-arg-paraguay",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Mascherano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2007-07-08",
+      "goalId": "goal-2007-07-08-arg-peru-26841",
+      "homeTeamId": "arg",
+      "matchKey": "2007-07-08-arg-peru",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Javier Mascherano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "javier mascherano",
+  "playerKey": "javier-mascherano",
+  "scorer": "Javier Mascherano",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

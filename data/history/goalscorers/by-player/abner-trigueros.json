@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saint-lucia",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-guatemala-saint-lucia-27972",
+      "homeTeamId": "guatemala",
+      "matchKey": "2008-06-14-guatemala-saint-lucia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abner Trigueros",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "2008-06-21",
+      "goalId": "goal-2008-06-21-saint-lucia-guatemala-28174",
+      "homeTeamId": "saint-lucia",
+      "matchKey": "2008-06-21-saint-lucia-guatemala",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abner Trigueros",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "abner trigueros",
+  "playerKey": "abner-trigueros",
+  "scorer": "Abner Trigueros",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala"
+  ]
+}

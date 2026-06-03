@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Eswatini"
+  ],
+  "allTime": {
+    "draws": 83,
+    "goalsAgainst": 455,
+    "goalsFor": 231,
+    "losses": 136,
+    "matches": 274,
+    "wins": 55
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 24,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 36,
+      "goalsFor": 14,
+      "losses": 12,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 13,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "eswatini",
+      "date": "2025-10-13",
+      "homeScore": 3,
+      "homeTeamId": "cape-verde",
+      "matchId": "int-2025-10-13-cape-verde-eswatini",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "angola",
+      "date": "2025-10-08",
+      "homeScore": 2,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2025-10-08-eswatini-angola",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "eswatini",
+      "date": "2025-09-08",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-2025-09-08-libya-eswatini",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "eswatini",
+      "date": "2025-09-04",
+      "homeScore": 3,
+      "homeTeamId": "cameroon",
+      "matchId": "int-2025-09-04-cameroon-eswatini",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mauritius",
+      "date": "2025-03-23",
+      "homeScore": 3,
+      "homeTeamId": "eswatini",
+      "matchId": "int-2025-03-23-eswatini-mauritius",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 48,
+      "goalsAgainst": 253,
+      "goalsFor": 132,
+      "losses": 77,
+      "matches": 157,
+      "wins": 32
+    },
+    "friendly": {
+      "draws": 35,
+      "goalsAgainst": 202,
+      "goalsFor": 99,
+      "losses": 59,
+      "matches": 117,
+      "wins": 23
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 84,
+      "goalsFor": 65,
+      "losses": 25,
+      "matches": 61,
+      "wins": 18
+    },
+    "nonNeutralVenue": {
+      "draws": 65,
+      "goalsAgainst": 371,
+      "goalsFor": 166,
+      "losses": 111,
+      "matches": 213,
+      "wins": 37
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "eswatini",
+  "teamName": "Eswatini",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "sandile-hlatjwako",
+      "scorer": "Sandile Hlatjwako"
+    },
+    {
+      "goals": 3,
+      "playerKey": "siza-dlamini",
+      "scorer": "Siza Dlamini"
+    },
+    {
+      "goals": 2,
+      "playerKey": "justice-figuareido",
+      "scorer": "Justice Figuareido"
+    },
+    {
+      "goals": 2,
+      "playerKey": "philani-mkhontfo",
+      "scorer": "Philani Mkhontfo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "sidumo-shongwe",
+      "scorer": "Sidumo Shongwe"
+    },
+    {
+      "goals": 1,
+      "playerKey": "andy-junior-magagula",
+      "scorer": "Andy Junior Magagula"
+    },
+    {
+      "goals": 1,
+      "playerKey": "collen-salelwako",
+      "scorer": "Collen Salelwako"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mayibongwe-mabuza",
+      "scorer": "Mayibongwe Mabuza"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mthunzi-mkhontfo",
+      "scorer": "Mthunzi Mkhontfo"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mxolisi-lukhele",
+      "scorer": "Mxolisi Lukhele"
+    }
+  ]
+}

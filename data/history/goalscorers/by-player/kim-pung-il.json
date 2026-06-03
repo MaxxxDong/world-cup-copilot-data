@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1989-06-25",
+      "goalId": "goal-1989-06-25-north-korea-japan-12135",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-06-25-north-korea-japan",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Pung-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12159",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Pung-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "1989-10-20",
+      "goalId": "goal-1989-10-20-north-korea-qatar-12379",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-10-20-north-korea-qatar",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Pung-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "kim pung il",
+  "playerKey": "kim-pung-il",
+  "scorer": "Kim Pung-Il",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

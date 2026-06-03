@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1973-11-27",
+      "goalId": "goal-1973-11-27-austria-sweden-6886",
+      "homeTeamId": "austria",
+      "matchKey": "1973-11-27-austria-sweden",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roland Hattenberger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1977-10-12",
+      "goalId": "goal-1977-10-12-german-dr-austria-8008",
+      "homeTeamId": "german-dr",
+      "matchKey": "1977-10-12-german-dr-austria",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roland Hattenberger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "roland hattenberger",
+  "playerKey": "roland-hattenberger",
+  "scorer": "Roland Hattenberger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

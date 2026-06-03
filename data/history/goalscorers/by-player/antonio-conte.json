@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "1999-03-27",
+      "goalId": "goal-1999-03-27-denmark-italy-18651",
+      "homeTeamId": "denmark",
+      "matchKey": "1999-03-27-denmark-italy",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Conte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2000-06-11",
+      "goalId": "goal-2000-06-11-turkey-italy-19690",
+      "homeTeamId": "turkey",
+      "matchKey": "2000-06-11-turkey-italy",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Conte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "antonio conte",
+  "playerKey": "antonio-conte",
+  "scorer": "Antonio Conte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

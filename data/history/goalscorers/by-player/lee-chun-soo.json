@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-vietnam-south-korea-24512",
+      "homeTeamId": "vietnam",
+      "matchKey": "2004-09-08-vietnam-south-korea",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Chun-soo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "2006-06-13",
+      "goalId": "goal-2006-06-13-south-korea-togo-26115",
+      "homeTeamId": "south-korea",
+      "matchKey": "2006-06-13-south-korea-togo",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lee Chun-soo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "lee chun soo",
+  "playerKey": "lee-chun-soo",
+  "scorer": "Lee Chun-soo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

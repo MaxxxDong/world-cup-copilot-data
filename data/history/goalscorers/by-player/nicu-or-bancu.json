@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "2021-11-14",
+      "goalId": "goal-2021-11-14-liechtenstein-romania-41998",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2021-11-14-liechtenstein-romania",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nicușor Bancu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "2022-06-11",
+      "goalId": "goal-2022-06-11-romania-finland-42655",
+      "homeTeamId": "romania",
+      "matchKey": "2022-06-11-romania-finland",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nicușor Bancu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "nicu or bancu",
+  "playerKey": "nicu-or-bancu",
+  "scorer": "Nicușor Bancu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

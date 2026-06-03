@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "1985-04-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1950-01-01",
+    "nationality": "Ecuador",
+    "playerKey": "daniel-pinto",
+    "providerIds": {
+      "wikidata": "Q85416378"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1993-05-03",
+  "playerKey": "daniel-pinto",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1993-05-03",
+      "goalId": "goal-1993-05-03-macau-kuwait-13974",
+      "matchKey": "1993-05-03-macau-kuwait",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Pinto"
+    },
+    {
+      "date": "1985-04-13",
+      "goalId": "goal-1985-04-13-brunei-macau-10700",
+      "matchKey": "1985-04-13-brunei-macau",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Pinto"
+    }
+  ],
+  "scorer": "Daniel Pinto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "macau",
+  "teamName": "Macau",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

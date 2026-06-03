@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "cuba",
+      "date": "2015-07-18",
+      "goalId": "goal-2015-07-18-usa-cuba-34641",
+      "homeTeamId": "usa",
+      "matchKey": "2015-07-18-usa-cuba",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Gonzalez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "martinique",
+      "date": "2017-07-12",
+      "goalId": "goal-2017-07-12-usa-martinique-36953",
+      "homeTeamId": "usa",
+      "matchKey": "2017-07-12-usa-martinique",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Gonzalez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2017-07-19",
+      "goalId": "goal-2017-07-19-usa-el-salvador-36974",
+      "homeTeamId": "usa",
+      "matchKey": "2017-07-19-usa-el-salvador",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omar Gonzalez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-trinidad-and-tobago-usa-37484",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2017-10-10-trinidad-and-tobago-usa",
+      "minute": 17,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Omar Gonzalez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "trinidad-and-tobago"
+    }
+  ],
+  "normalizedScorer": "omar gonzalez",
+  "playerKey": "omar-gonzalez",
+  "scorer": "Omar Gonzalez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "trinidad-and-tobago",
+    "usa"
+  ]
+}

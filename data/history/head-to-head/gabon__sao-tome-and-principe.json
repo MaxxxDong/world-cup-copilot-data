@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 12,
+    "teamAWins": 3,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "sao-tome-and-principe",
+    "date": "2000-07-15",
+    "homeScore": 4,
+    "homeTeamId": "gabon",
+    "matchId": "int-2000-07-15-gabon-sao-tome-and-principe",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "1976-05-02",
+      "homeScore": 6,
+      "homeTeamId": "gabon",
+      "matchId": "int-1976-05-02-gabon-sao-tome-and-principe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "1999-11-11",
+      "homeScore": 1,
+      "homeTeamId": "gabon",
+      "matchId": "int-1999-11-11-gabon-sao-tome-and-principe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UNIFFAC Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gabon",
+      "date": "2000-07-01",
+      "homeScore": 1,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2000-07-01-sao-tome-and-principe-gabon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2000-07-15",
+      "homeScore": 4,
+      "homeTeamId": "gabon",
+      "matchId": "int-2000-07-15-gabon-sao-tome-and-principe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "gabon__sao-tome-and-principe",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 12,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gabon",
+  "teamBId": "sao-tome-and-principe"
+}

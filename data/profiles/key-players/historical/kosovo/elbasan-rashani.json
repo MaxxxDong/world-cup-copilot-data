@@ -1,0 +1,83 @@
+{
+  "firstGoalDate": "2019-06-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-05-09",
+    "nationality": "Kosovo",
+    "playerKey": "elbasan-rashani",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "39095",
+      "capology": "elbasan-rashani-34098",
+      "espn": "221165",
+      "eu_football_info": "29217",
+      "fbref": "25749008",
+      "footballdatabase_eu": "135926",
+      "heimspiel": "226776",
+      "impect": "20653",
+      "kicker": "elbasan-rashani",
+      "lequipe": "61091",
+      "national_football_teams": "61411",
+      "opta": "c8vsa9o761rsdy9l8xbtj3etx",
+      "skillcorner": "17716",
+      "soccerway": "126708",
+      "sofascore": "113409",
+      "sofifa": "404652",
+      "thesportsdb": "34192545",
+      "transfermarkt": "149579",
+      "uefa": "250042450",
+      "wikidata": "Q139800",
+      "wyscout": "54359"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2022-09-27",
+  "playerKey": "elbasan-rashani",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2022-09-27",
+      "goalId": "goal-2022-09-27-kosovo-cyprus-42870",
+      "matchKey": "2022-09-27-kosovo-cyprus",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elbasan Rashani"
+    },
+    {
+      "date": "2019-06-10",
+      "goalId": "goal-2019-06-10-bulgaria-kosovo-38427",
+      "matchKey": "2019-06-10-bulgaria-kosovo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elbasan Rashani"
+    }
+  ],
+  "scorer": "Elbasan Rashani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kosovo",
+  "teamName": "Kosovo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

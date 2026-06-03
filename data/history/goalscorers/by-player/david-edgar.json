@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cuba",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-canada-cuba-32259",
+      "homeTeamId": "canada",
+      "matchKey": "2012-10-12-canada-cuba",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Edgar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2016-09-06",
+      "goalId": "goal-2016-09-06-canada-el-salvador-36088",
+      "homeTeamId": "canada",
+      "matchKey": "2016-09-06-canada-el-salvador",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Edgar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "david edgar",
+  "playerKey": "david-edgar",
+  "scorer": "David Edgar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

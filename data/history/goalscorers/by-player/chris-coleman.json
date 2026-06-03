@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1994-09-07",
+      "goalId": "goal-1994-09-07-wales-albania-15001",
+      "homeTeamId": "wales",
+      "matchKey": "1994-09-07-wales-albania",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Coleman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "belarus",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-wales-belarus-18616",
+      "homeTeamId": "wales",
+      "matchKey": "1998-10-14-wales-belarus",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Coleman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "chris coleman",
+  "playerKey": "chris-coleman",
+  "scorer": "Chris Coleman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

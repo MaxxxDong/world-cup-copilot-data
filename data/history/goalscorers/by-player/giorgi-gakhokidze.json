@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2001-06-02",
+      "goalId": "goal-2001-06-02-georgia-italy-21275",
+      "homeTeamId": "georgia",
+      "matchKey": "2001-06-02-georgia-italy",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgi Gakhokidze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "ukraine",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-georgia-ukraine-25614",
+      "homeTeamId": "georgia",
+      "matchKey": "2005-09-03-georgia-ukraine",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgi Gakhokidze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    }
+  ],
+  "normalizedScorer": "giorgi gakhokidze",
+  "playerKey": "giorgi-gakhokidze",
+  "scorer": "Giorgi Gakhokidze",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "georgia"
+  ]
+}

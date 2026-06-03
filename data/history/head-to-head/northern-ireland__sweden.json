@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 12,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "northern-ireland",
+    "date": "2025-03-25",
+    "homeScore": 5,
+    "homeTeamId": "sweden",
+    "matchId": "int-2025-03-25-sweden-northern-ireland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "northern-ireland",
+      "date": "1974-10-30",
+      "homeScore": 0,
+      "homeTeamId": "sweden",
+      "matchId": "int-1974-10-30-sweden-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "1975-09-03",
+      "homeScore": 1,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1975-09-03-northern-ireland-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sweden",
+      "date": "1980-10-15",
+      "homeScore": 3,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1980-10-15-northern-ireland-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "northern-ireland",
+      "date": "1981-06-03",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-1981-06-03-sweden-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sweden",
+      "date": "1996-04-24",
+      "homeScore": 1,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-1996-04-24-northern-ireland-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "2007-03-28",
+      "homeScore": 2,
+      "homeTeamId": "northern-ireland",
+      "matchId": "int-2007-03-28-northern-ireland-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2007-10-17",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-2007-10-17-sweden-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-ireland",
+      "date": "2025-03-25",
+      "homeScore": 5,
+      "homeTeamId": "sweden",
+      "matchId": "int-2025-03-25-sweden-northern-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "northern-ireland__sweden",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 8,
+      "teamAGoals": 11,
+      "teamAWins": 3,
+      "teamBGoals": 12,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "northern-ireland",
+  "teamBId": "sweden"
+}

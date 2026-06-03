@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "2003-07-15",
+      "goalId": "goal-2003-07-15-bra-honduras-22833",
+      "homeTeamId": "bra",
+      "matchKey": "2003-07-15-bra-honduras",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2003-07-23",
+      "goalId": "goal-2003-07-23-usa-bra-22864",
+      "homeTeamId": "usa",
+      "matchKey": "2003-07-23-usa-bra",
+      "minute": 100,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Diego",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "diego",
+  "playerKey": "diego",
+  "scorer": "Diego",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

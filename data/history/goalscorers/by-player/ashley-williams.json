@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2009-04-01",
+      "goalId": "goal-2009-04-01-wales-germany-29055",
+      "homeTeamId": "wales",
+      "matchKey": "2009-04-01-wales-germany",
+      "minute": 48,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ashley Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2016-07-01",
+      "goalId": "goal-2016-07-01-wales-belgium-35955",
+      "homeTeamId": "wales",
+      "matchKey": "2016-07-01-wales-belgium",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ashley Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "ashley williams",
+  "playerKey": "ashley-williams",
+  "scorer": "Ashley Williams",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany",
+    "wales"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "club": "Manchester United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1992-02-23",
+    "nationality": "Brazil",
+    "playerKey": "casemiro",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "239463",
+      "api_football": "747",
+      "capology": "casemiro-33657",
+      "espn": "173666",
+      "fbref": "4d224fe8",
+      "footballdatabase_eu": "113581",
+      "heimspiel": "225023",
+      "impect": "5494",
+      "kicker": "casemiro",
+      "lequipe": "45631",
+      "national_football_teams": "45014",
+      "opta": "6nb8hub5usi3iasywa2fjf1lh",
+      "opta_numeric": "61256",
+      "premier_league": "5793",
+      "skillcorner": "1674",
+      "soccerbase": "65160",
+      "soccerway": "102688",
+      "sofascore": "122951",
+      "sofifa": "308386",
+      "sportmonks": "159700",
+      "statmuse_pl": "6976",
+      "transfermarkt": "16306",
+      "uefa": "250057680",
+      "understat": "2248",
+      "whoscored": "88526",
+      "wikidata": "Q616664",
+      "worldfootball": "casemiro_2",
+      "wyscout": "40756"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Casemiro",
+  "playerKey": "casemiro",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-11-28",
+      "goalId": "goal-2022-11-28-bra-switzerland-42960",
+      "matchKey": "2022-11-28-bra-switzerland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Casemiro"
+    },
+    {
+      "date": "2022-01-27",
+      "goalId": "goal-2022-01-27-ecuador-bra-42230",
+      "matchKey": "2022-01-27-ecuador-bra",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Casemiro"
+    },
+    {
+      "date": "2021-06-23",
+      "goalId": "goal-2021-06-23-bra-colombia-40900",
+      "matchKey": "2021-06-23-bra-colombia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Casemiro"
+    },
+    {
+      "date": "2019-06-22",
+      "goalId": "goal-2019-06-22-bra-peru-38607",
+      "matchKey": "2019-06-22-bra-peru",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Casemiro"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=7"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=7"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bra",
+  "teamName": "Brazil"
+}

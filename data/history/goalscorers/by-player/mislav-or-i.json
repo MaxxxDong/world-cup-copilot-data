@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "2021-06-28",
+      "goalId": "goal-2021-06-28-croatia-spain-40949",
+      "homeTeamId": "croatia",
+      "matchKey": "2021-06-28-croatia-spain",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mislav Oršić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2022-12-17",
+      "goalId": "goal-2022-12-17-croatia-mar-43058",
+      "homeTeamId": "croatia",
+      "matchKey": "2022-12-17-croatia-mar",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mislav Oršić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "mislav or i",
+  "playerKey": "mislav-or-i",
+  "scorer": "Mislav Oršić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

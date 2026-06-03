@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1981-11-15",
+      "goalId": "goal-1981-11-15-poland-malta-9568",
+      "homeTeamId": "poland",
+      "matchKey": "1981-11-15-poland-malta",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefan Majewski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1982-07-10",
+      "goalId": "goal-1982-07-10-poland-fra-9816",
+      "homeTeamId": "poland",
+      "matchKey": "1982-07-10-poland-fra",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefan Majewski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "stefan majewski",
+  "playerKey": "stefan-majewski",
+  "scorer": "Stefan Majewski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jordan",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-saudi-arabia-jordan-44907",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2024-06-11-saudi-arabia-jordan",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Lajami",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2024-09-10",
+      "goalId": "goal-2024-09-10-china-pr-saudi-arabia-45333",
+      "homeTeamId": "china-pr",
+      "matchKey": "2024-09-10-china-pr-saudi-arabia",
+      "minute": 14,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ali Lajami",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "ali lajami",
+  "playerKey": "ali-lajami",
+  "scorer": "Ali Lajami",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr",
+    "saudi-arabia"
+  ]
+}

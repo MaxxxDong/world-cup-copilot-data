@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1968-05-13",
+      "goalId": "goal-1968-05-13-iran-taiwan-5178",
+      "homeTeamId": "iran",
+      "matchKey": "1968-05-13-iran-taiwan",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akbar Eftekhari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "myanmar",
+      "date": "1968-05-16",
+      "goalId": "goal-1968-05-16-iran-myanmar-5185",
+      "homeTeamId": "iran",
+      "matchKey": "1968-05-16-iran-myanmar",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akbar Eftekhari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "akbar eftekhari",
+  "playerKey": "akbar-eftekhari",
+  "scorer": "Akbar Eftekhari",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

@@ -86,6 +86,8 @@ test("release audit final mode fails when completion blockers remain", async () 
         "--final",
         "--skip-fifa",
         "--skip-remote",
+        "--fifa-squads-input",
+        "dist/missing-final-fifa-squads.json",
       ]),
       (error) => {
         const result = JSON.parse(error.stdout);

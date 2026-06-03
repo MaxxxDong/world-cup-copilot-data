@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "2022-11-19",
+      "goalId": "goal-2022-11-19-estonia-lithuania-42890",
+      "homeTeamId": "estonia",
+      "matchKey": "2022-11-19-estonia-lithuania",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rasmus Peetson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-moldova-estonia-46177",
+      "homeTeamId": "moldova",
+      "matchKey": "2025-03-25-moldova-estonia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rasmus Peetson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "rasmus peetson",
+  "playerKey": "rasmus-peetson",
+  "scorer": "Rasmus Peetson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

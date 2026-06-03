@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 10,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "taiwan",
+    "date": "1970-08-16",
+    "homeScore": 3,
+    "homeTeamId": "japan",
+    "matchId": "int-1970-08-16-japan-taiwan",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Merdeka Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "japan",
+      "date": "1963-08-15",
+      "homeScore": 2,
+      "homeTeamId": "taiwan",
+      "matchId": "int-1963-08-15-taiwan-japan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "taiwan",
+      "date": "1965-08-18",
+      "homeScore": 0,
+      "homeTeamId": "japan",
+      "matchId": "int-1965-08-18-japan-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "1966-08-20",
+      "homeScore": 5,
+      "homeTeamId": "japan",
+      "matchId": "int-1966-08-20-japan-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "1970-08-16",
+      "homeScore": 3,
+      "homeTeamId": "japan",
+      "matchId": "int-1970-08-16-japan-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    }
+  ],
+  "pairKey": "japan__taiwan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "japan",
+  "teamBId": "taiwan"
+}

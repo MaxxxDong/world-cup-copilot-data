@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Cameroon"
+  ],
+  "allTime": {
+    "draws": 192,
+    "goalsAgainst": 640,
+    "goalsFor": 866,
+    "losses": 153,
+    "matches": 616,
+    "wins": 271
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 10,
+      "losses": 3,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 12,
+      "goalsFor": 27,
+      "losses": 4,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 5,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "china-pr",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "cameroon",
+      "matchId": "int-2026-03-31-cameroon-china-pr",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cameroon",
+      "date": "2026-03-27",
+      "homeScore": 1,
+      "homeTeamId": "australia",
+      "matchId": "int-2026-03-27-australia-cameroon",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cameroon",
+      "date": "2026-01-09",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-2026-01-09-mar-cameroon",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cameroon",
+      "date": "2026-01-04",
+      "homeScore": 1,
+      "homeTeamId": "rsa",
+      "matchId": "int-2026-01-04-rsa-cameroon",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cameroon",
+      "date": "2025-12-31",
+      "homeScore": 1,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2025-12-31-mozambique-cameroon",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 113,
+      "goalsAgainst": 367,
+      "goalsFor": 615,
+      "losses": 85,
+      "matches": 405,
+      "wins": 207
+    },
+    "friendly": {
+      "draws": 79,
+      "goalsAgainst": 273,
+      "goalsFor": 251,
+      "losses": 68,
+      "matches": 211,
+      "wins": 64
+    },
+    "neutralVenue": {
+      "draws": 71,
+      "goalsAgainst": 239,
+      "goalsFor": 292,
+      "losses": 60,
+      "matches": 220,
+      "wins": 89
+    },
+    "nonNeutralVenue": {
+      "draws": 121,
+      "goalsAgainst": 401,
+      "goalsFor": 574,
+      "losses": 93,
+      "matches": 396,
+      "wins": 182
+    },
+    "worldCup": {
+      "draws": 8,
+      "goalsAgainst": 47,
+      "goalsFor": 22,
+      "losses": 13,
+      "matches": 26,
+      "wins": 5
+    }
+  },
+  "teamId": "cameroon",
+  "teamName": "Cameroon",
+  "topScorers": [
+    {
+      "goals": 40,
+      "playerKey": "samuel-eto-o",
+      "scorer": "Samuel Eto'o"
+    },
+    {
+      "goals": 24,
+      "playerKey": "patrick-m-boma",
+      "scorer": "Patrick M'Boma"
+    },
+    {
+      "goals": 21,
+      "playerKey": "vincent-aboubakar",
+      "scorer": "Vincent Aboubakar"
+    },
+    {
+      "goals": 20,
+      "playerKey": "roger-milla",
+      "scorer": "Roger Milla"
+    },
+    {
+      "goals": 11,
+      "playerKey": "alphonse-tchami",
+      "scorer": "Alphonse Tchami"
+    },
+    {
+      "goals": 11,
+      "playerKey": "fran-ois-omam-biyik",
+      "scorer": "François Omam-Biyik"
+    },
+    {
+      "goals": 9,
+      "playerKey": "karl-toko-ekambi",
+      "scorer": "Karl Toko Ekambi"
+    },
+    {
+      "goals": 8,
+      "playerKey": "pierre-web",
+      "scorer": "Pierre Webó"
+    },
+    {
+      "goals": 7,
+      "playerKey": "andr-kana-biyik",
+      "scorer": "André Kana-Biyik"
+    },
+    {
+      "goals": 6,
+      "playerKey": "emmanuel-kund",
+      "scorer": "Emmanuel Kundé"
+    }
+  ]
+}

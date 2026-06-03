@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "2001-11-14",
+      "goalId": "goal-2001-11-14-turkey-austria-22081",
+      "homeTeamId": "turkey",
+      "matchKey": "2001-11-14-turkey-austria",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yıldıray Baştürk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-turkey-albania-25068",
+      "homeTeamId": "turkey",
+      "matchKey": "2005-03-26-turkey-albania",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yıldıray Baştürk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "y ld ray ba t rk",
+  "playerKey": "y-ld-ray-ba-t-rk",
+  "scorer": "Yıldıray Baştürk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

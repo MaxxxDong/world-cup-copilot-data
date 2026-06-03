@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malaysia",
+      "date": "1989-06-03",
+      "goalId": "goal-1989-06-03-singapore-malaysia-12072",
+      "homeTeamId": "singapore",
+      "matchKey": "1989-06-03-singapore-malaysia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Salim Moin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    },
+    {
+      "awayTeamId": "nepal",
+      "date": "1989-06-05",
+      "goalId": "goal-1989-06-05-singapore-nepal-12086",
+      "homeTeamId": "singapore",
+      "matchKey": "1989-06-05-singapore-nepal",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Salim Moin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    }
+  ],
+  "normalizedScorer": "salim moin",
+  "playerKey": "salim-moin",
+  "scorer": "Salim Moin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "singapore"
+  ]
+}

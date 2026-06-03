@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2011-07-02",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1987-01-04",
+    "nationality": "Nepal",
+    "playerKey": "bhola-silwal",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "9ed39bda",
+      "footballdatabase_eu": "41657",
+      "national_football_teams": "39269",
+      "soccerway": "120412",
+      "transfermarkt": "191037",
+      "wikidata": "Q4901932"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-02",
+  "playerKey": "bhola-silwal",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-02",
+      "goalId": "goal-2011-07-02-nepal-timor-leste-30615",
+      "matchKey": "2011-07-02-nepal-timor-leste",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bhola Silwal"
+    }
+  ],
+  "scorer": "Bhola Silwal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

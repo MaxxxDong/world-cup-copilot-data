@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1950-06-25",
+      "goalId": "goal-1950-06-25-chile-england-1850",
+      "homeTeamId": "chile",
+      "matchKey": "1950-06-25-chile-england",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilf Mannion",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "wilf mannion",
+  "playerKey": "wilf-mannion",
+  "scorer": "Wilf Mannion",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

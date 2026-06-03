@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1964-06-20",
+      "goalId": "goal-1964-06-20-hungary-denmark-4133",
+      "homeTeamId": "hungary",
+      "matchKey": "1964-06-20-hungary-denmark",
+      "minute": 107,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Dezső Novák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1964-06-20",
+      "goalId": "goal-1964-06-20-hungary-denmark-4134",
+      "homeTeamId": "hungary",
+      "matchKey": "1964-06-20-hungary-denmark",
+      "minute": 110,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dezső Novák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "german-dr",
+      "date": "1965-10-09",
+      "goalId": "goal-1965-10-09-hungary-german-dr-4474",
+      "homeTeamId": "hungary",
+      "matchKey": "1965-10-09-hungary-german-dr",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dezső Novák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "dezs nov k",
+  "playerKey": "dezs-nov-k",
+  "scorer": "Dezső Novák",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "indonesia",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-iraq-indonesia-43858",
+      "homeTeamId": "iraq",
+      "matchKey": "2023-11-16-iraq-indonesia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Youssef Amyn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2024-11-19",
+      "goalId": "goal-2024-11-19-oman-iraq-45824",
+      "homeTeamId": "oman",
+      "matchKey": "2024-11-19-oman-iraq",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Youssef Amyn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "youssef amyn",
+  "playerKey": "youssef-amyn",
+  "scorer": "Youssef Amyn",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

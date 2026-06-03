@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1950-07-01",
+      "goalId": "goal-1950-07-01-bra-yugoslavia-1880",
+      "homeTeamId": "bra",
+      "matchKey": "1950-07-01-bra-yugoslavia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomaz Soares da Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1950-07-13",
+      "goalId": "goal-1950-07-13-bra-spain-1919",
+      "homeTeamId": "bra",
+      "matchKey": "1950-07-13-bra-spain",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomaz Soares da Silva",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "thomaz soares da silva",
+  "playerKey": "thomaz-soares-da-silva",
+  "scorer": "Thomaz Soares da Silva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

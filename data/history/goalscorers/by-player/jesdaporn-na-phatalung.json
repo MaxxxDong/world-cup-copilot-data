@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "thailand",
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7746",
+      "homeTeamId": "malaysia",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesdaporn Na Phatalung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7750",
+      "homeTeamId": "malaysia",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jesdaporn Na Phatalung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    },
+    {
+      "awayTeamId": "indonesia",
+      "date": "1977-03-07",
+      "goalId": "goal-1977-03-07-thailand-indonesia-7772",
+      "homeTeamId": "thailand",
+      "matchKey": "1977-03-07-thailand-indonesia",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jesdaporn Na Phatalung",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    }
+  ],
+  "normalizedScorer": "jesdaporn na phatalung",
+  "playerKey": "jesdaporn-na-phatalung",
+  "scorer": "Jesdaporn Na Phatalung",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "thailand"
+  ]
+}

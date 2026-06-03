@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-spain-bulgaria-47213",
+      "homeTeamId": "spain",
+      "matchKey": "2025-10-14-spain-bulgaria",
+      "minute": 79,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Atanas Chernev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2025-11-15",
+      "goalId": "goal-2025-11-15-turkey-bulgaria-47311",
+      "homeTeamId": "turkey",
+      "matchKey": "2025-11-15-turkey-bulgaria",
+      "minute": 83,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Atanas Chernev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "atanas chernev",
+  "playerKey": "atanas-chernev",
+  "scorer": "Atanas Chernev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain",
+    "turkey"
+  ]
+}

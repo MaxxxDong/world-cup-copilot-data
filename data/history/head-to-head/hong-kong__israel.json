@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 13,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 6,
+    "awayTeamId": "israel",
+    "date": "1968-05-12",
+    "homeScore": 1,
+    "homeTeamId": "hong-kong",
+    "matchId": "int-1968-05-12-hong-kong-israel",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "israel",
+      "date": "1956-09-01",
+      "homeScore": 2,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1956-09-01-hong-kong-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "israel",
+      "date": "1964-01-02",
+      "homeScore": 0,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1964-01-02-hong-kong-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "hong-kong",
+      "date": "1964-05-26",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-1964-05-26-israel-hong-kong",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "israel",
+      "date": "1968-05-12",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-1968-05-12-hong-kong-israel",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    }
+  ],
+  "pairKey": "hong-kong__israel",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "hong-kong",
+  "teamBId": "israel"
+}

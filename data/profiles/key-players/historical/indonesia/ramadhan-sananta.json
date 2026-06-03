@@ -1,0 +1,89 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "2002-11-27",
+    "nationality": "Indonesia",
+    "playerKey": "ramadhan-sananta",
+    "providerIds": {
+      "api_football": "353127",
+      "espn": "343489",
+      "footballdatabase_eu": "482558",
+      "impect": "184181",
+      "national_football_teams": "88784",
+      "soccerway": "814170",
+      "thesportsdb": "34293374",
+      "transfermarkt": "971960",
+      "wikidata": "Q110849431",
+      "worldfootball": "ramadhan-sananta"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-26",
+  "playerKey": "ramadhan-sananta",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-vietnam-indonesia-44589",
+      "matchKey": "2024-03-26-vietnam-indonesia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramadhan Sananta"
+    },
+    {
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-brunei-indonesia-43750",
+      "matchKey": "2023-10-17-brunei-indonesia",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramadhan Sananta"
+    },
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-indonesia-brunei-43628",
+      "matchKey": "2023-10-12-indonesia-brunei",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramadhan Sananta"
+    },
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-indonesia-brunei-43627",
+      "matchKey": "2023-10-12-indonesia-brunei",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ramadhan Sananta"
+    }
+  ],
+  "scorer": "Ramadhan Sananta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "indonesia",
+  "teamName": "Indonesia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "1998-10-10",
+      "goalId": "goal-1998-10-10-san-marino-israel-18536",
+      "homeTeamId": "san-marino",
+      "matchKey": "1998-10-10-san-marino-israel",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Najwan Ghrayib",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1999-06-06",
+      "goalId": "goal-1999-06-06-israel-austria-18803",
+      "homeTeamId": "israel",
+      "matchKey": "1999-06-06-israel-austria",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Najwan Ghrayib",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "najwan ghrayib",
+  "playerKey": "najwan-ghrayib",
+  "scorer": "Najwan Ghrayib",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

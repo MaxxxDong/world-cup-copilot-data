@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "1985-03-29",
+      "goalId": "goal-1985-03-29-jordan-iraq-10619",
+      "homeTeamId": "jordan",
+      "matchKey": "1985-03-29-jordan-iraq",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rateb Al-Dawud",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "jordan",
+      "date": "1989-02-10",
+      "goalId": "goal-1989-02-10-oman-jordan-11898",
+      "homeTeamId": "oman",
+      "matchKey": "1989-02-10-oman-jordan",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rateb Al-Dawud",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "rateb al dawud",
+  "playerKey": "rateb-al-dawud",
+  "scorer": "Rateb Al-Dawud",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

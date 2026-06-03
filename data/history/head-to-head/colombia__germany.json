@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 7,
+    "teamAWins": 1,
+    "teamBGoals": 10,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "colombia",
+    "date": "2023-06-20",
+    "homeScore": 0,
+    "homeTeamId": "germany",
+    "matchId": "int-2023-06-20-germany-colombia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "colombia",
+      "date": "1990-06-19",
+      "homeScore": 1,
+      "homeTeamId": "germany",
+      "matchId": "int-1990-06-19-germany-colombia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "colombia",
+      "date": "1998-05-30",
+      "homeScore": 3,
+      "homeTeamId": "germany",
+      "matchId": "int-1998-05-30-germany-colombia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "germany",
+      "date": "1999-02-09",
+      "homeScore": 3,
+      "homeTeamId": "colombia",
+      "matchId": "int-1999-02-09-colombia-germany",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "colombia",
+      "date": "2006-06-02",
+      "homeScore": 3,
+      "homeTeamId": "germany",
+      "matchId": "int-2006-06-02-germany-colombia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "colombia",
+      "date": "2023-06-20",
+      "homeScore": 0,
+      "homeTeamId": "germany",
+      "matchId": "int-2023-06-20-germany-colombia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "colombia__germany",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "colombia",
+  "teamBId": "germany"
+}

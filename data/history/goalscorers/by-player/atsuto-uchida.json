@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bahrain",
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-japan-bahrain-28228",
+      "homeTeamId": "japan",
+      "matchKey": "2008-06-22-japan-bahrain",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Atsuto Uchida",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2013-06-19",
+      "goalId": "goal-2013-06-19-italy-japan-32968",
+      "homeTeamId": "italy",
+      "matchKey": "2013-06-19-italy-japan",
+      "minute": 50,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Atsuto Uchida",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "atsuto uchida",
+  "playerKey": "atsuto-uchida",
+  "scorer": "Atsuto Uchida",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy",
+    "japan"
+  ]
+}

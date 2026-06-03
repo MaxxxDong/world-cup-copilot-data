@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1983-09-07",
+      "goalId": "goal-1983-09-07-arg-ecuador-10060",
+      "homeTeamId": "arg",
+      "matchKey": "1983-09-07-arg-ecuador",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hans Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1985-03-03",
+      "goalId": "goal-1985-03-03-ecuador-chile-10570",
+      "homeTeamId": "ecuador",
+      "matchKey": "1985-03-03-ecuador-chile",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hans Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "hans maldonado",
+  "playerKey": "hans-maldonado",
+  "scorer": "Hans Maldonado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

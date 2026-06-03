@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "1984-12-01",
+      "goalId": "goal-1984-12-01-iran-united-arab-emirates-10450",
+      "homeTeamId": "iran",
+      "matchKey": "1984-12-01-iran-united-arab-emirates",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shahrokh Bayani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "1984-12-10",
+      "goalId": "goal-1984-12-10-singapore-iran-10483",
+      "homeTeamId": "singapore",
+      "matchKey": "1984-12-10-singapore-iran",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shahrokh Bayani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "1984-12-13",
+      "goalId": "goal-1984-12-13-saudi-arabia-iran-10492",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "1984-12-13-saudi-arabia-iran",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shahrokh Bayani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "shahrokh bayani",
+  "playerKey": "shahrokh-bayani",
+  "scorer": "Shahrokh Bayani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

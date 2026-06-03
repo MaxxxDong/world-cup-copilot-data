@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2020-10-14",
+      "goalId": "goal-2020-10-14-italy-netherlands-39863",
+      "homeTeamId": "italy",
+      "matchKey": "2020-10-14-italy-netherlands",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Donny van de Beek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-gibraltar-netherlands-40335",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2021-03-30-gibraltar-netherlands",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Donny van de Beek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "donny van de beek",
+  "playerKey": "donny-van-de-beek",
+  "scorer": "Donny van de Beek",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2011-07-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1990-10-18",
+    "nationality": "Myanmar",
+    "playerKey": "mai-aih-naing",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "9b508b08",
+      "footballdatabase_eu": "124703",
+      "national_football_teams": "40843",
+      "soccerway": "166814",
+      "transfermarkt": "191102",
+      "wikidata": "Q6735101"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-03",
+  "playerKey": "mai-aih-naing",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-myanmar-mongolia-30640",
+      "matchKey": "2011-07-03-myanmar-mongolia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mai Aih Naing"
+    }
+  ],
+  "scorer": "Mai Aih Naing",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

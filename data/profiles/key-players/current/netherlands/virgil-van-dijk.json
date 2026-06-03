@@ -1,0 +1,151 @@
+{
+  "club": "Liverpool FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 8,
+  "identity": {
+    "dateOfBirth": "1991-07-08",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "virgil-van-dijk",
+    "position": "defender",
+    "providerIds": {
+      "11v11": "247921",
+      "api_football": "290",
+      "capology": "virgil-van-dijk-33427",
+      "dongqiudi": "50120777",
+      "espn": "157892",
+      "eu_football_info": "29159",
+      "fbref": "e06683ca",
+      "footballdatabase_eu": "137796",
+      "fotmob": "209405",
+      "heimspiel": "215233",
+      "impect": "4460",
+      "kicker": "virgil-van-dijk",
+      "lequipe": "41117",
+      "national_football_teams": "60815",
+      "opta": "dxze3b3fsfl814bjcs7q6wcet",
+      "opta_numeric": "97032",
+      "premier_league": "5140",
+      "skillcorner": "10738",
+      "soccerbase": "59442",
+      "soccerway": "188624",
+      "sofascore": "151545",
+      "sportmonks": "1743",
+      "statmuse_pl": "6454",
+      "transfermarkt": "139208",
+      "uefa": "250043137",
+      "understat": "833",
+      "whoscored": "95408",
+      "wikidata": "Q133903",
+      "worldfootball": "virgil-van-dijk",
+      "wyscout": "370"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Virgil Van Dijk",
+  "playerKey": "virgil-van-dijk",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-12",
+      "goalId": "goal-2025-10-12-netherlands-finland-47098",
+      "matchKey": "2025-10-12-netherlands-finland",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-netherlands-malta-46408",
+      "matchKey": "2025-06-10-netherlands-malta",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2023-10-16",
+      "goalId": "goal-2023-10-16-greece-netherlands-43734",
+      "matchKey": "2023-10-16-greece-netherlands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2022-09-25",
+      "goalId": "goal-2022-09-25-netherlands-belgium-42835",
+      "matchKey": "2022-09-25-netherlands-belgium",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2021-10-11",
+      "goalId": "goal-2021-10-11-netherlands-gibraltar-41694",
+      "matchKey": "2021-10-11-netherlands-gibraltar",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2019-03-21",
+      "goalId": "goal-2019-03-21-netherlands-belarus-38193",
+      "matchKey": "2019-03-21-netherlands-belarus",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2018-11-19",
+      "goalId": "goal-2018-11-19-germany-netherlands-38012",
+      "matchKey": "2018-11-19-germany-netherlands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    },
+    {
+      "date": "2018-10-13",
+      "goalId": "goal-2018-10-13-netherlands-germany-37853",
+      "matchKey": "2018-10-13-netherlands-germany",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Virgil van Dijk"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

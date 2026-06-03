@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 18,
+    "teamAWins": 5,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "bra",
+    "date": "2018-10-12",
+    "homeScore": 0,
+    "homeTeamId": "saudi-arabia",
+    "matchId": "int-2018-10-12-saudi-arabia-bra",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "saudi-arabia",
+      "date": "1988-07-13",
+      "homeScore": 4,
+      "homeTeamId": "bra",
+      "matchId": "int-1988-07-13-bra-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "bra",
+      "date": "1997-12-12",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1997-12-12-saudi-arabia-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "1999-08-01",
+      "homeScore": 8,
+      "homeTeamId": "bra",
+      "matchId": "int-1999-08-01-bra-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bra",
+      "date": "2002-02-06",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2002-02-06-saudi-arabia-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bra",
+      "date": "2018-10-12",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2018-10-12-saudi-arabia-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bra__saudi-arabia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 11,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 12,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bra",
+  "teamBId": "saudi-arabia"
+}

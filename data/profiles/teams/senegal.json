@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Senegal",
+    "SEN",
+    "Lions of Teranga"
+  ],
+  "allTime": {
+    "draws": 168,
+    "goalsAgainst": 596,
+    "goalsFor": 880,
+    "losses": 170,
+    "matches": 636,
+    "wins": 298
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "SEN",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 6,
+      "goalsFor": 25,
+      "losses": 1,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 12,
+      "goalsFor": 47,
+      "losses": 2,
+      "matches": 20,
+      "wins": 15
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "gambia",
+      "date": "2026-03-31",
+      "homeScore": 3,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-03-31-senegal-gambia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "peru",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-03-28-senegal-peru",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "senegal",
+      "date": "2026-01-18",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-2026-01-18-mar-senegal",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "2026-01-14",
+      "homeScore": 1,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-01-14-senegal-egypt",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "senegal",
+      "date": "2026-01-09",
+      "homeScore": 0,
+      "homeTeamId": "mali",
+      "matchId": "int-2026-01-09-mali-senegal",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 107,
+      "goalsAgainst": 321,
+      "goalsFor": 590,
+      "losses": 87,
+      "matches": 393,
+      "wins": 199
+    },
+    "friendly": {
+      "draws": 61,
+      "goalsAgainst": 275,
+      "goalsFor": 290,
+      "losses": 83,
+      "matches": 243,
+      "wins": 99
+    },
+    "neutralVenue": {
+      "draws": 61,
+      "goalsAgainst": 191,
+      "goalsFor": 312,
+      "losses": 47,
+      "matches": 216,
+      "wins": 108
+    },
+    "nonNeutralVenue": {
+      "draws": 107,
+      "goalsAgainst": 405,
+      "goalsFor": 568,
+      "losses": 123,
+      "matches": 420,
+      "wins": 190
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 17,
+      "goalsFor": 16,
+      "losses": 4,
+      "matches": 12,
+      "wins": 5
+    }
+  },
+  "teamId": "senegal",
+  "teamName": "Senegal",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "sadio-man",
+      "scorer": "Sadio Mané"
+    },
+    {
+      "goals": 16,
+      "playerKey": "henri-camara",
+      "scorer": "Henri Camara"
+    },
+    {
+      "goals": 15,
+      "playerKey": "el-hadji-diouf",
+      "scorer": "El Hadji Diouf"
+    },
+    {
+      "goals": 11,
+      "playerKey": "isma-la-sarr",
+      "scorer": "Ismaïla Sarr"
+    },
+    {
+      "goals": 8,
+      "playerKey": "papa-bouba-diop",
+      "scorer": "Papa Bouba Diop"
+    },
+    {
+      "goals": 6,
+      "playerKey": "famara-di-dhiou",
+      "scorer": "Famara Diédhiou"
+    },
+    {
+      "goals": 6,
+      "playerKey": "habib-diallo",
+      "scorer": "Habib Diallo"
+    },
+    {
+      "goals": 6,
+      "playerKey": "moussa-sow",
+      "scorer": "Moussa Sow"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mamadou-niang",
+      "scorer": "Mamadou Niang"
+    },
+    {
+      "goals": 5,
+      "playerKey": "papiss-ciss",
+      "scorer": "Papiss Cissé"
+    }
+  ]
+}

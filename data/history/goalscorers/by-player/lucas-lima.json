@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-arg-bra-35360",
+      "homeTeamId": "arg",
+      "matchKey": "2015-11-13-arg-bra",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucas Lima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2016-06-08",
+      "goalId": "goal-2016-06-08-bra-haiti-35794",
+      "homeTeamId": "bra",
+      "matchKey": "2016-06-08-bra-haiti",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucas Lima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "lucas lima",
+  "playerKey": "lucas-lima",
+  "scorer": "Lucas Lima",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

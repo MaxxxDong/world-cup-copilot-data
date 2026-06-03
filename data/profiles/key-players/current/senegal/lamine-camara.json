@@ -1,0 +1,96 @@
+{
+  "club": "AS Monaco (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2004-01-01",
+    "nationality": "Senegal",
+    "playerKey": "lamine-camara",
+    "providerIds": {
+      "api_football": "374058",
+      "capology": "lamine-camara-37987",
+      "espn": "38721",
+      "fbref": "19c2ffa4",
+      "footballdatabase_eu": "495820",
+      "fotmob": "1436305",
+      "heimspiel": "881033",
+      "impect": "161708",
+      "kicker": "lamine-camara",
+      "lequipe": "97929",
+      "national_football_teams": "88132",
+      "opta": "8eq4c5cotvem9ae9uzb2yezo4",
+      "skillcorner": "285192",
+      "soccerbase": "163706",
+      "soccerway": "850764",
+      "sofascore": "1389846",
+      "thesportsdb": "34220038",
+      "transfermarkt": "918969",
+      "uefa": "250198240",
+      "wikidata": "Q116896436",
+      "wyscout": "837096"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Lamine Camara",
+  "playerKey": "lamine-camara",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-01-15",
+      "goalId": "goal-2024-01-15-senegal-gambia-44240",
+      "matchKey": "2024-01-15-senegal-gambia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lamine Camara"
+    },
+    {
+      "date": "2024-01-15",
+      "goalId": "goal-2024-01-15-senegal-gambia-44239",
+      "matchKey": "2024-01-15-senegal-gambia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lamine Camara"
+    },
+    {
+      "date": "2023-11-18",
+      "goalId": "goal-2023-11-18-senegal-south-sudan-44021",
+      "matchKey": "2023-11-18-senegal-south-sudan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lamine Camara"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "senegal",
+  "teamName": "Senegal"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2006-09-02",
+      "goalId": "goal-2006-09-02-hungary-norway-26258",
+      "homeTeamId": "hungary",
+      "matchKey": "2006-09-02-hungary-norway",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fredrik Strømstad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2006-09-06",
+      "goalId": "goal-2006-09-06-norway-moldova-26340",
+      "homeTeamId": "norway",
+      "matchKey": "2006-09-06-norway-moldova",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fredrik Strømstad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "fredrik str mstad",
+  "playerKey": "fredrik-str-mstad",
+  "scorer": "Fredrik Strømstad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

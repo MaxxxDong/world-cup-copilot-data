@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1920-09-18",
+      "goalId": "goal-1920-09-18-bra-uruguay-71",
+      "homeTeamId": "bra",
+      "matchKey": "1920-09-18-bra-uruguay",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Antonio Urdinarán",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1922-09-23",
+      "goalId": "goal-1922-09-23-chile-uruguay-100",
+      "homeTeamId": "chile",
+      "matchKey": "1922-09-23-chile-uruguay",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Antonio Urdinarán",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "antonio urdinar n",
+  "playerKey": "antonio-urdinar-n",
+  "scorer": "Antonio Urdinarán",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

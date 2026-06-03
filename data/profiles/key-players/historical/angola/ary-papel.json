@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2021-10-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-03-03",
+    "playerKey": "ary-papel",
+    "providerIds": {
+      "opta": "7uyjqd2t93eigbv5pu2y57i6t",
+      "wikidata": "reep_pd5d9a617"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-08",
+  "playerKey": "ary-papel",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-08",
+      "goalId": "goal-2025-10-08-eswatini-angola-46904",
+      "matchKey": "2025-10-08-eswatini-angola",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ary Papel"
+    },
+    {
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-angola-gabon-41526",
+      "matchKey": "2021-10-08-angola-gabon",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ary Papel"
+    }
+  ],
+  "scorer": "Ary Papel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "angola",
+  "teamName": "Angola",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

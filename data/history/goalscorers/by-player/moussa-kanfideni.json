@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "1976-03-21",
+      "goalId": "goal-1976-03-21-niger-sierra-leone-7501",
+      "homeTeamId": "niger",
+      "matchKey": "1976-03-21-niger-sierra-leone",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Kanfideni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    },
+    {
+      "awayTeamId": "niger",
+      "date": "1980-07-27",
+      "goalId": "goal-1980-07-27-somalia-niger-8920",
+      "homeTeamId": "somalia",
+      "matchKey": "1980-07-27-somalia-niger",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Kanfideni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    }
+  ],
+  "normalizedScorer": "moussa kanfideni",
+  "playerKey": "moussa-kanfideni",
+  "scorer": "Moussa Kanfideni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "niger"
+  ]
+}

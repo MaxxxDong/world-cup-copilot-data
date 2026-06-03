@@ -1,0 +1,216 @@
+{
+  "aliases": [
+    "Turks and Caicos Islands"
+  ],
+  "allTime": {
+    "draws": 6,
+    "goalsAgainst": 187,
+    "goalsFor": 52,
+    "losses": 34,
+    "matches": 52,
+    "wins": 12
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 18,
+      "goalsFor": 9,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 45,
+      "goalsFor": 24,
+      "losses": 10,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "marshall-islands",
+      "date": "2025-08-16",
+      "homeScore": 3,
+      "homeTeamId": "turks-and-caicos-islands",
+      "matchId": "int-2025-08-16-turks-and-caicos-islands-marshall-islands",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Outrigger Challenge Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "turks-and-caicos-islands",
+      "date": "2025-08-13",
+      "homeScore": 1,
+      "homeTeamId": "united-states-virgin-islands",
+      "matchId": "int-2025-08-13-united-states-virgin-islands-turks-and-caicos-islands",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Outrigger Challenge Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "turks-and-caicos-islands",
+      "date": "2024-10-15",
+      "homeScore": 3,
+      "homeTeamId": "belize",
+      "matchId": "int-2024-10-15-belize-turks-and-caicos-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "anguilla",
+      "date": "2024-10-12",
+      "homeScore": 2,
+      "homeTeamId": "turks-and-caicos-islands",
+      "matchId": "int-2024-10-12-turks-and-caicos-islands-anguilla",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "belize",
+      "date": "2024-09-07",
+      "homeScore": 0,
+      "homeTeamId": "turks-and-caicos-islands",
+      "matchId": "int-2024-09-07-turks-and-caicos-islands-belize",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 6,
+      "goalsAgainst": 169,
+      "goalsFor": 47,
+      "losses": 30,
+      "matches": 47,
+      "wins": 11
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 18,
+      "goalsFor": 5,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 48,
+      "goalsFor": 23,
+      "losses": 8,
+      "matches": 16,
+      "wins": 5
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 139,
+      "goalsFor": 29,
+      "losses": 26,
+      "matches": 36,
+      "wins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "turks-and-caicos-islands",
+  "teamName": "Turks and Caicos Islands",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "billy-forbes",
+      "scorer": "Billy Forbes"
+    },
+    {
+      "goals": 2,
+      "playerKey": "widlin-calixte",
+      "scorer": "Widlin Calixte"
+    },
+    {
+      "goals": 1,
+      "playerKey": "david-lowery",
+      "scorer": "David Lowery"
+    },
+    {
+      "goals": 1,
+      "playerKey": "gavin-glinton",
+      "scorer": "Gavin Glinton"
+    },
+    {
+      "goals": 1,
+      "playerKey": "thrizen-leader",
+      "scorer": "Thrizen Leader"
+    }
+  ]
+}

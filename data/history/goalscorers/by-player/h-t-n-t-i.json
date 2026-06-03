@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vietnam",
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-china-pr-vietnam-41478",
+      "homeTeamId": "china-pr",
+      "matchKey": "2021-10-07-china-pr-vietnam",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hồ Tấn Tài",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vietnam"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-vietnam-china-pr-42299",
+      "homeTeamId": "vietnam",
+      "matchKey": "2022-02-01-vietnam-china-pr",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hồ Tấn Tài",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vietnam"
+    }
+  ],
+  "normalizedScorer": "h t n t i",
+  "playerKey": "h-t-n-t-i",
+  "scorer": "Hồ Tấn Tài",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "vietnam"
+  ]
+}

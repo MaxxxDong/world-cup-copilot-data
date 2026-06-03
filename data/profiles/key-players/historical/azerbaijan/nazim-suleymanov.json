@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "1995-03-29",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1965-02-17",
+    "nationality": "Soviet Union",
+    "playerKey": "nazim-suleymanov",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "20386",
+      "fbref": "783b2ad5",
+      "footballdatabase_eu": "102076",
+      "national_football_teams": "13450",
+      "soccerway": "224118",
+      "transfermarkt": "211206",
+      "uefa": "22212",
+      "wikidata": "Q2429212",
+      "worldfootball": "nazim-suleymanov"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-04-02",
+  "playerKey": "nazim-suleymanov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-azerbaijan-finland-16869",
+      "matchKey": "1997-04-02-azerbaijan-finland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nazim Suleymanov"
+    },
+    {
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-azerbaijan-romania-15268",
+      "matchKey": "1995-04-26-azerbaijan-romania",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nazim Suleymanov"
+    },
+    {
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-slovakia-azerbaijan-15240",
+      "matchKey": "1995-03-29-slovakia-azerbaijan",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nazim Suleymanov"
+    }
+  ],
+  "scorer": "Nazim Suleymanov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "azerbaijan",
+  "teamName": "Azerbaijan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

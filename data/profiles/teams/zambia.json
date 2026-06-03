@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Zambia"
+  ],
+  "allTime": {
+    "draws": 203,
+    "goalsAgainst": 851,
+    "goalsFor": 1234,
+    "losses": 232,
+    "matches": 793,
+    "wins": 358
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 23,
+      "goalsFor": 5,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 32,
+      "goalsFor": 14,
+      "losses": 11,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 12,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "zambia",
+      "date": "2026-03-31",
+      "homeScore": 5,
+      "homeTeamId": "arg",
+      "matchId": "int-2026-03-31-arg-zambia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zambia",
+      "date": "2025-12-29",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-12-29-mar-zambia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "comoros",
+      "date": "2025-12-26",
+      "homeScore": 0,
+      "homeTeamId": "zambia",
+      "matchId": "int-2025-12-26-zambia-comoros",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zambia",
+      "date": "2025-12-22",
+      "homeScore": 1,
+      "homeTeamId": "mali",
+      "matchId": "int-2025-12-22-mali-zambia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zambia",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-11-18-angola-zambia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 118,
+      "goalsAgainst": 459,
+      "goalsFor": 698,
+      "losses": 133,
+      "matches": 472,
+      "wins": 221
+    },
+    "friendly": {
+      "draws": 85,
+      "goalsAgainst": 392,
+      "goalsFor": 536,
+      "losses": 99,
+      "matches": 321,
+      "wins": 137
+    },
+    "neutralVenue": {
+      "draws": 61,
+      "goalsAgainst": 228,
+      "goalsFor": 317,
+      "losses": 61,
+      "matches": 215,
+      "wins": 93
+    },
+    "nonNeutralVenue": {
+      "draws": 142,
+      "goalsAgainst": 623,
+      "goalsFor": 917,
+      "losses": 171,
+      "matches": 578,
+      "wins": 265
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "zambia",
+  "teamName": "Zambia",
+  "topScorers": [
+    {
+      "goals": 19,
+      "playerKey": "kalusha-bwalya",
+      "scorer": "Kalusha Bwalya"
+    },
+    {
+      "goals": 10,
+      "playerKey": "christopher-katongo",
+      "scorer": "Christopher Katongo"
+    },
+    {
+      "goals": 10,
+      "playerKey": "collins-mbesuma",
+      "scorer": "Collins Mbesuma"
+    },
+    {
+      "goals": 8,
+      "playerKey": "godfrey-chitalu",
+      "scorer": "Godfrey Chitalu"
+    },
+    {
+      "goals": 8,
+      "playerKey": "patson-daka",
+      "scorer": "Patson Daka"
+    },
+    {
+      "goals": 7,
+      "playerKey": "bernard-chanda",
+      "scorer": "Bernard Chanda"
+    },
+    {
+      "goals": 7,
+      "playerKey": "dennis-lota",
+      "scorer": "Dennis Lota"
+    },
+    {
+      "goals": 7,
+      "playerKey": "fashion-sakala",
+      "scorer": "Fashion Sakala"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jacob-mulenga",
+      "scorer": "Jacob Mulenga"
+    },
+    {
+      "goals": 5,
+      "playerKey": "harry-milanzi",
+      "scorer": "Harry Milanzi"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Palestine"
+  ],
+  "allTime": {
+    "draws": 68,
+    "goalsAgainst": 346,
+    "goalsFor": 332,
+    "losses": 105,
+    "matches": 247,
+    "wins": 74
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 10,
+      "goalsFor": 9,
+      "losses": 3,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 26,
+      "goalsFor": 15,
+      "losses": 8,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 4,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "2025-12-11",
+      "homeScore": 1,
+      "homeTeamId": "palestine",
+      "matchId": "int-2025-12-11-palestine-saudi-arabia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2025-12-07",
+      "homeScore": 0,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-12-07-syria-palestine",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "tunisia",
+      "date": "2025-12-04",
+      "homeScore": 2,
+      "homeTeamId": "palestine",
+      "matchId": "int-2025-12-04-palestine-tunisia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "palestine",
+      "date": "2025-12-01",
+      "homeScore": 0,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-12-01-qatar-palestine",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2025-11-25",
+      "homeScore": 0,
+      "homeTeamId": "palestine",
+      "matchId": "int-2025-11-25-palestine-libya",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 44,
+      "goalsAgainst": 248,
+      "goalsFor": 264,
+      "losses": 76,
+      "matches": 176,
+      "wins": 56
+    },
+    "friendly": {
+      "draws": 24,
+      "goalsAgainst": 98,
+      "goalsFor": 68,
+      "losses": 29,
+      "matches": 71,
+      "wins": 18
+    },
+    "neutralVenue": {
+      "draws": 33,
+      "goalsAgainst": 188,
+      "goalsFor": 191,
+      "losses": 55,
+      "matches": 128,
+      "wins": 40
+    },
+    "nonNeutralVenue": {
+      "draws": 35,
+      "goalsAgainst": 158,
+      "goalsFor": 141,
+      "losses": 50,
+      "matches": 119,
+      "wins": 34
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "palestine",
+  "teamName": "Palestine",
+  "topScorers": [
+    {
+      "goals": 10,
+      "playerKey": "oday-dabbagh",
+      "scorer": "Oday Dabbagh"
+    },
+    {
+      "goals": 8,
+      "playerKey": "tamer-seyam",
+      "scorer": "Tamer Seyam"
+    },
+    {
+      "goals": 4,
+      "playerKey": "emad-ayoub",
+      "scorer": "Emad Ayoub"
+    },
+    {
+      "goals": 4,
+      "playerKey": "wessam-abou-ali",
+      "scorer": "Wessam Abou Ali"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ahmad-abu-nahyeh",
+      "scorer": "Ahmad Abu Nahyeh"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jaka-ihbeisheh",
+      "scorer": "Jaka Ihbeisheh"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jonathan-cantillana",
+      "scorer": "Jonathan Cantillana"
+    },
+    {
+      "goals": 3,
+      "playerKey": "murad-alyan",
+      "scorer": "Murad Alyan"
+    },
+    {
+      "goals": 3,
+      "playerKey": "roberto-kettlun",
+      "scorer": "Roberto Kettlun"
+    },
+    {
+      "goals": 3,
+      "playerKey": "yaser-hamed",
+      "scorer": "Yaser Hamed"
+    }
+  ]
+}

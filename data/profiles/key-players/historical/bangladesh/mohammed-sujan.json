@@ -1,0 +1,64 @@
+{
+  "firstGoalDate": "2001-02-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1982-06-01",
+    "playerKey": "mohammed-sujan",
+    "providerIds": {
+      "footballdatabase_eu": "67668",
+      "national_football_teams": "610",
+      "soccerway": "120242",
+      "wikidata": "Q109971379"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-02-19",
+  "playerKey": "mohammed-sujan",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-02-19",
+      "goalId": "goal-2001-02-19-bangladesh-mongolia-20428",
+      "matchKey": "2001-02-19-bangladesh-mongolia",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Sujan"
+    },
+    {
+      "date": "2001-02-19",
+      "goalId": "goal-2001-02-19-bangladesh-mongolia-20427",
+      "matchKey": "2001-02-19-bangladesh-mongolia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Sujan"
+    }
+  ],
+  "scorer": "Mohammed Sujan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

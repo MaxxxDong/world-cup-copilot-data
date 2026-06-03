@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2000-04-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1978-07-26",
+    "nationality": "Libya",
+    "playerKey": "jehad-muntasser",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "a32ff302",
+      "footballdatabase_eu": "10445",
+      "kicker": "jehad-muntasser",
+      "national_football_teams": "3844",
+      "soccerbase": "12930",
+      "transfermarkt": "21943",
+      "wikidata": "Q1262107"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-01-28",
+  "playerKey": "jehad-muntasser",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-angola-libya-20358",
+      "matchKey": "2001-01-28-angola-libya",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jehad Muntasser"
+    },
+    {
+      "date": "2000-04-09",
+      "goalId": "goal-2000-04-09-libya-mali-19511",
+      "matchKey": "2000-04-09-libya-mali",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jehad Muntasser"
+    }
+  ],
+  "scorer": "Jehad Muntasser",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

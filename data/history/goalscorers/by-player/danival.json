@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1975-07-31",
+      "goalId": "goal-1975-07-31-venezuela-bra-7270",
+      "homeTeamId": "venezuela",
+      "matchKey": "1975-07-31-venezuela-bra",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danival",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1975-08-13",
+      "goalId": "goal-1975-08-13-bra-venezuela-7305",
+      "homeTeamId": "bra",
+      "matchKey": "1975-08-13-bra-venezuela",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danival",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1975-08-16",
+      "goalId": "goal-1975-08-16-arg-bra-7315",
+      "homeTeamId": "arg",
+      "matchKey": "1975-08-16-arg-bra",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danival",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "danival",
+  "playerKey": "danival",
+  "scorer": "Danival",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

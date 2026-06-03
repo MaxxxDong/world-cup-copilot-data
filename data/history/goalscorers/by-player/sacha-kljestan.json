@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "2016-09-02",
+      "goalId": "goal-2016-09-02-saint-vincent-and-the-grenadines-usa-36009",
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchKey": "2016-09-02-saint-vincent-and-the-grenadines-usa",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sacha Kljestan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2016-09-06",
+      "goalId": "goal-2016-09-06-usa-trinidad-and-tobago-36129",
+      "homeTeamId": "usa",
+      "matchKey": "2016-09-06-usa-trinidad-and-tobago",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sacha Kljestan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "sacha kljestan",
+  "playerKey": "sacha-kljestan",
+  "scorer": "Sacha Kljestan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

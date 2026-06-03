@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2012-06-02",
+      "goalId": "goal-2012-06-02-fiji-new-zealand-31768",
+      "homeTeamId": "fiji",
+      "matchKey": "2012-06-02-fiji-new-zealand",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tommy Smith",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "new-caledonia",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-new-zealand-new-caledonia-32606",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2013-03-22-new-zealand-new-caledonia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tommy Smith",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "tommy smith",
+  "playerKey": "tommy-smith",
+  "scorer": "Tommy Smith",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

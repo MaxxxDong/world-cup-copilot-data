@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "1997-06-28",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1975-08-07",
+    "nationality": "People's Republic of China",
+    "playerKey": "che-chi-man",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "e7a44892",
+      "footballdatabase_eu": "67403",
+      "national_football_teams": "23007",
+      "sofifa": "170352",
+      "transfermarkt": "72138",
+      "wikidata": "Q5088752"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-28",
+  "playerKey": "che-chi-man",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-28",
+      "goalId": "goal-1997-06-28-macau-nepal-17478",
+      "matchKey": "1997-06-28-macau-nepal",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Che Chi Man"
+    }
+  ],
+  "scorer": "Che Chi Man",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "macau",
+  "teamName": "Macau",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

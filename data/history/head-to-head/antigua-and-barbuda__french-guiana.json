@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 4,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "french-guiana",
+    "date": "2009-06-05",
+    "homeScore": 1,
+    "homeTeamId": "antigua-and-barbuda",
+    "matchId": "int-2009-06-05-antigua-and-barbuda-french-guiana",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "1983-07-25",
+      "homeScore": 1,
+      "homeTeamId": "french-guiana",
+      "matchId": "int-1983-07-25-french-guiana-antigua-and-barbuda",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "french-guiana",
+      "date": "1995-07-25",
+      "homeScore": 2,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-1995-07-25-antigua-and-barbuda-french-guiana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "french-guiana",
+      "date": "2009-06-05",
+      "homeScore": 1,
+      "homeTeamId": "antigua-and-barbuda",
+      "matchId": "int-2009-06-05-antigua-and-barbuda-french-guiana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "antigua-and-barbuda__french-guiana",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "antigua-and-barbuda",
+  "teamBId": "french-guiana"
+}

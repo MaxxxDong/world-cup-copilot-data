@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "1993-05-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1971-08-14",
+    "nationality": "British Hong Kong",
+    "playerKey": "au-wai-lun",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "a1662dac",
+      "footballdatabase_eu": "300380",
+      "national_football_teams": "8582",
+      "transfermarkt": "272869",
+      "wikidata": "Q839201"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-03-30",
+  "playerKey": "au-wai-lun",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-03-30",
+      "goalId": "goal-1997-03-30-hong-kong-thailand-16849",
+      "matchKey": "1997-03-30-hong-kong-thailand",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Au Wai Lun"
+    },
+    {
+      "date": "1993-06-05",
+      "goalId": "goal-1993-06-05-south-korea-hong-kong-14172",
+      "matchKey": "1993-06-05-south-korea-hong-kong",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Au Wai Lun"
+    },
+    {
+      "date": "1993-05-07",
+      "goalId": "goal-1993-05-07-hong-kong-bahrain-14015",
+      "matchKey": "1993-05-07-hong-kong-bahrain",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Au Wai Lun"
+    }
+  ],
+  "scorer": "Au Wai Lun",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "hong-kong",
+  "teamName": "Hong Kong",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

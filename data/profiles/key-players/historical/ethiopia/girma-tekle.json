@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "1962-01-14",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "http://www.wikidata.org/.well-known/genid/3b755f1bff5c328e2aa1966989a1f723",
+    "nationality": "Ethiopia",
+    "playerKey": "girma-tekle",
+    "providerIds": {
+      "transfermarkt": "766232",
+      "wikidata": "Q16639186"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1968-01-12",
+  "playerKey": "girma-tekle",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1968-01-12",
+      "goalId": "goal-1968-01-12-ethiopia-uganda-5088",
+      "matchKey": "1968-01-12-ethiopia-uganda",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Girma Tekle"
+    },
+    {
+      "date": "1963-11-28",
+      "goalId": "goal-1963-11-28-ethiopia-tunisia-4066",
+      "matchKey": "1963-11-28-ethiopia-tunisia",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Girma Tekle"
+    },
+    {
+      "date": "1962-01-21",
+      "goalId": "goal-1962-01-21-ethiopia-egypt-3658",
+      "matchKey": "1962-01-21-ethiopia-egypt",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Girma Tekle"
+    },
+    {
+      "date": "1962-01-14",
+      "goalId": "goal-1962-01-14-ethiopia-tunisia-3648",
+      "matchKey": "1962-01-14-ethiopia-tunisia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Girma Tekle"
+    }
+  ],
+  "scorer": "Girma Tekle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "ethiopia",
+  "teamName": "Ethiopia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

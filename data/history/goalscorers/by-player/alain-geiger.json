@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1983-11-09",
+      "goalId": "goal-1983-11-09-switzerland-belgium-10142",
+      "homeTeamId": "switzerland",
+      "matchKey": "1983-11-09-switzerland-belgium",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alain Geiger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1989-10-11",
+      "goalId": "goal-1989-10-11-switzerland-belgium-12363",
+      "homeTeamId": "switzerland",
+      "matchKey": "1989-10-11-switzerland-belgium",
+      "minute": 73,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Alain Geiger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "alain geiger",
+  "playerKey": "alain-geiger",
+  "scorer": "Alain Geiger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium",
+    "switzerland"
+  ]
+}

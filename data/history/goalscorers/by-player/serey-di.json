@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2017-01-20",
+      "goalId": "goal-2017-01-20-civ-dr-congo-36575",
+      "homeTeamId": "civ",
+      "matchKey": "2017-01-20-civ-dr-congo",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serey Dié",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2019-07-01",
+      "goalId": "goal-2019-07-01-namibia-civ-38723",
+      "homeTeamId": "namibia",
+      "matchKey": "2019-07-01-namibia-civ",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Serey Dié",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "serey di",
+  "playerKey": "serey-di",
+  "scorer": "Serey Dié",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

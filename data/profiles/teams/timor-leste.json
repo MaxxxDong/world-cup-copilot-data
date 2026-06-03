@@ -1,0 +1,207 @@
+{
+  "aliases": [
+    "Timor-Leste"
+  ],
+  "allTime": {
+    "draws": 5,
+    "goalsAgainst": 284,
+    "goalsFor": 71,
+    "losses": 72,
+    "matches": 86,
+    "wins": 9
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 35,
+      "goalsFor": 6,
+      "losses": 9,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 56,
+      "goalsFor": 15,
+      "losses": 15,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 13,
+      "goalsFor": 3,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "tajikistan",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "timor-leste",
+      "matchId": "int-2025-11-18-timor-leste-tajikistan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "timor-leste",
+      "date": "2025-10-14",
+      "homeScore": 3,
+      "homeTeamId": "philippines",
+      "matchId": "int-2025-10-14-philippines-timor-leste",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "philippines",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "timor-leste",
+      "matchId": "int-2025-10-09-timor-leste-philippines",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "2025-06-10",
+      "homeScore": 1,
+      "homeTeamId": "timor-leste",
+      "matchId": "int-2025-06-10-timor-leste-maldives",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "timor-leste",
+      "date": "2025-03-25",
+      "homeScore": 1,
+      "homeTeamId": "tajikistan",
+      "matchId": "int-2025-03-25-tajikistan-timor-leste",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 4,
+      "goalsAgainst": 255,
+      "goalsFor": 64,
+      "losses": 63,
+      "matches": 75,
+      "wins": 8
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 29,
+      "goalsFor": 7,
+      "losses": 9,
+      "matches": 11,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 102,
+      "goalsFor": 43,
+      "losses": 27,
+      "matches": 37,
+      "wins": 7
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 182,
+      "goalsFor": 28,
+      "losses": 45,
+      "matches": 49,
+      "wins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "timor-leste",
+  "teamName": "Timor-Leste",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "em-lio-da-silva",
+      "scorer": "Emílio da Silva"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jo-o-pedro",
+      "scorer": "João Pedro"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jos-jo-o-pereira",
+      "scorer": "José João Pereira"
+    },
+    {
+      "goals": 1,
+      "playerKey": "rufino-gama",
+      "scorer": "Rufino Gama"
+    }
+  ]
+}

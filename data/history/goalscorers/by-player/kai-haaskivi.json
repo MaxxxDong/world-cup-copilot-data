@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1977-10-15",
+      "goalId": "goal-1977-10-15-italy-finland-8027",
+      "homeTeamId": "italy",
+      "matchKey": "1977-10-15-italy-finland",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kai Haaskivi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1979-10-31",
+      "goalId": "goal-1979-10-31-russia-finland-8637",
+      "homeTeamId": "russia",
+      "matchKey": "1979-10-31-russia-finland",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kai Haaskivi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "kai haaskivi",
+  "playerKey": "kai-haaskivi",
+  "scorer": "Kai Haaskivi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

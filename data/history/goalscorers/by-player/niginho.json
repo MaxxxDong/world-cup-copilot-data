@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "1936-12-27",
+      "goalId": "goal-1936-12-27-bra-peru-899",
+      "homeTeamId": "bra",
+      "matchKey": "1936-12-27-bra-peru",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Niginho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1937-01-19",
+      "goalId": "goal-1937-01-19-bra-uruguay-951",
+      "homeTeamId": "bra",
+      "matchKey": "1937-01-19-bra-uruguay",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Niginho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "niginho",
+  "playerKey": "niginho",
+  "scorer": "Niginho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

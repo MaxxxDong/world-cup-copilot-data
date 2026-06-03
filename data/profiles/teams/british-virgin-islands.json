@@ -1,0 +1,221 @@
+{
+  "aliases": [
+    "British Virgin Islands"
+  ],
+  "allTime": {
+    "draws": 22,
+    "goalsAgainst": 358,
+    "goalsFor": 112,
+    "losses": 78,
+    "matches": 121,
+    "wins": 21
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 16,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 32,
+      "goalsFor": 24,
+      "losses": 10,
+      "matches": 20,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 6,
+      "goalsFor": 14,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "2026-03-29",
+      "homeScore": 4,
+      "homeTeamId": "british-virgin-islands",
+      "matchId": "int-2026-03-29-british-virgin-islands-anguilla",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2026-03-26-cayman-islands-british-virgin-islands",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-15-bahamas-british-virgin-islands",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2025-11-12-cayman-islands-british-virgin-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-10-09",
+      "homeScore": 4,
+      "homeTeamId": "grenada",
+      "matchId": "int-2025-10-09-grenada-british-virgin-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 16,
+      "goalsAgainst": 304,
+      "goalsFor": 73,
+      "losses": 63,
+      "matches": 90,
+      "wins": 11
+    },
+    "friendly": {
+      "draws": 6,
+      "goalsAgainst": 54,
+      "goalsFor": 39,
+      "losses": 15,
+      "matches": 31,
+      "wins": 10
+    },
+    "neutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 108,
+      "goalsFor": 40,
+      "losses": 25,
+      "matches": 35,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 250,
+      "goalsFor": 72,
+      "losses": 53,
+      "matches": 86,
+      "wins": 15
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "british-virgin-islands",
+  "teamName": "British Virgin Islands",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "avondale-williams",
+      "scorer": "Avondale Williams"
+    },
+    {
+      "goals": 1,
+      "playerKey": "eduard-moss",
+      "scorer": "Eduard Moss"
+    },
+    {
+      "goals": 1,
+      "playerKey": "hugo-liziario",
+      "scorer": "Hugo Liziario"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jordan-johnson",
+      "scorer": "Jordan Johnson"
+    },
+    {
+      "goals": 1,
+      "playerKey": "rohan-lennon",
+      "scorer": "Rohan Lennon"
+    },
+    {
+      "goals": 1,
+      "playerKey": "trevor-peters",
+      "scorer": "Trevor Peters"
+    }
+  ]
+}

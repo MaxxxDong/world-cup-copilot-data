@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1919-05-13",
+      "goalId": "goal-1919-05-13-arg-uruguay-49",
+      "homeTeamId": "arg",
+      "matchKey": "1919-05-13-arg-uruguay",
+      "minute": 79,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Manuel Varela",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "manuel varela",
+  "playerKey": "manuel-varela",
+  "scorer": "Manuel Varela",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

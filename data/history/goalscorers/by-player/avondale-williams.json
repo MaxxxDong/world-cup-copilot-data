@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bermuda",
+      "date": "2000-03-05",
+      "goalId": "goal-2000-03-05-british-virgin-islands-bermuda-19351",
+      "homeTeamId": "british-virgin-islands",
+      "matchKey": "2000-03-05-british-virgin-islands-bermuda",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Avondale Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "british-virgin-islands"
+    },
+    {
+      "awayTeamId": "british-virgin-islands",
+      "date": "2008-03-30",
+      "goalId": "goal-2008-03-30-bahamas-british-virgin-islands-27743",
+      "homeTeamId": "bahamas",
+      "matchKey": "2008-03-30-bahamas-british-virgin-islands",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Avondale Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "british-virgin-islands"
+    },
+    {
+      "awayTeamId": "british-virgin-islands",
+      "date": "2008-03-30",
+      "goalId": "goal-2008-03-30-bahamas-british-virgin-islands-27744",
+      "homeTeamId": "bahamas",
+      "matchKey": "2008-03-30-bahamas-british-virgin-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Avondale Williams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "british-virgin-islands"
+    }
+  ],
+  "normalizedScorer": "avondale williams",
+  "playerKey": "avondale-williams",
+  "scorer": "Avondale Williams",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "british-virgin-islands"
+  ]
+}

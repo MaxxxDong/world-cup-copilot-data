@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1987-06-30",
+      "goalId": "goal-1987-06-30-venezuela-chile-11468",
+      "homeTeamId": "venezuela",
+      "matchKey": "1987-06-30-venezuela-chile",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Contreras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1991-07-08",
+      "goalId": "goal-1991-07-08-chile-peru-12874",
+      "homeTeamId": "chile",
+      "matchKey": "1991-07-08-chile-peru",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jorge Contreras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "jorge contreras",
+  "playerKey": "jorge-contreras",
+  "scorer": "Jorge Contreras",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

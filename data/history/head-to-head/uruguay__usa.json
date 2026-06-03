@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 9,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 11,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "uruguay",
+    "date": "2025-11-18",
+    "homeScore": 5,
+    "homeTeamId": "usa",
+    "matchId": "int-2025-11-18-usa-uruguay",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "1924-05-29",
+      "homeScore": 3,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1924-05-29-uruguay-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Olympic Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "1991-05-05",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-1991-05-05-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "1993-06-16",
+      "homeScore": 1,
+      "homeTeamId": "uruguay",
+      "matchId": "int-1993-06-16-uruguay-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "uruguay",
+      "date": "1995-03-25",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-1995-03-25-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2002-05-12",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2002-05-12-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2019-09-10",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2019-09-10-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "2022-06-05",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-2022-06-05-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2024-07-01",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-2024-07-01-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "2025-11-18",
+      "homeScore": 5,
+      "homeTeamId": "usa",
+      "matchId": "int-2025-11-18-usa-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "uruguay__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "uruguay",
+  "teamBId": "usa"
+}

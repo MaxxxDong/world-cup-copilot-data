@@ -1,0 +1,89 @@
+{
+  "club": "BSC Young Boys (SUI)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1993-11-11",
+    "nationality": "Switzerland",
+    "playerKey": "christian-fassnacht",
+    "position": "attacker",
+    "providerIds": {
+      "api_football": "952",
+      "capology": "christian-fassnacht-34284",
+      "espn": "238502",
+      "eu_football_info": "30456",
+      "fbref": "0aeeed3f",
+      "footballdatabase_eu": "239917",
+      "heimspiel": "384393",
+      "impect": "28087",
+      "kicker": "christian-fassnacht",
+      "national_football_teams": "72141",
+      "opta": "4gksusc509n6j8ljhyegzgxk9",
+      "skillcorner": "12412",
+      "soccerbase": "93117",
+      "soccerway": "397328",
+      "sofascore": "787422",
+      "sofifa": "201358758",
+      "thesportsdb": "34172385",
+      "transfermarkt": "250490",
+      "uefa": "250110901",
+      "wikidata": "Q27306208",
+      "worldfootball": "christian-fassnacht",
+      "wyscout": "369410"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Christian Fassnacht",
+  "playerKey": "christian-fassnacht",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-switzerland-northern-ireland-41631",
+      "matchKey": "2021-10-09-switzerland-northern-ireland",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Fassnacht"
+    },
+    {
+      "date": "2019-11-18",
+      "goalId": "goal-2019-11-18-gibraltar-switzerland-39510",
+      "matchKey": "2019-11-18-gibraltar-switzerland",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Fassnacht"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+  },
+  "shirtNumber": 16,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "switzerland",
+  "teamName": "Switzerland"
+}

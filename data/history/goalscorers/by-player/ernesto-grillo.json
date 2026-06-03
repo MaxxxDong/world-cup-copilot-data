@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1955-03-09",
+      "goalId": "goal-1955-03-09-arg-ecuador-2374",
+      "homeTeamId": "arg",
+      "matchKey": "1955-03-09-arg-ecuador",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernesto Grillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1955-03-16",
+      "goalId": "goal-1955-03-16-arg-peru-2391",
+      "homeTeamId": "arg",
+      "matchKey": "1955-03-16-arg-peru",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernesto Grillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "ernesto grillo",
+  "playerKey": "ernesto-grillo",
+  "scorer": "Ernesto Grillo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

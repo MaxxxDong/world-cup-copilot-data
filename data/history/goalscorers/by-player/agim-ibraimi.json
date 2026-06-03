@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-north-macedonia-croatia-32301",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2012-10-12-north-macedonia-croatia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Agim Ibraimi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-north-macedonia-serbia-32429",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2012-10-16-north-macedonia-serbia",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Agim Ibraimi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2014-09-08",
+      "goalId": "goal-2014-09-08-spain-north-macedonia-33809",
+      "homeTeamId": "spain",
+      "matchKey": "2014-09-08-spain-north-macedonia",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Agim Ibraimi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "agim ibraimi",
+  "playerKey": "agim-ibraimi",
+  "scorer": "Agim Ibraimi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-macedonia"
+  ]
+}

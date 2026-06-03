@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "indonesia",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-iraq-indonesia-43857",
+      "homeTeamId": "iraq",
+      "matchKey": "2023-11-16-iraq-indonesia",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Osama Rashid",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2024-01-15",
+      "goalId": "goal-2024-01-15-indonesia-iraq-44232",
+      "homeTeamId": "indonesia",
+      "matchKey": "2024-01-15-indonesia-iraq",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Osama Rashid",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "osama rashid",
+  "playerKey": "osama-rashid",
+  "scorer": "Osama Rashid",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

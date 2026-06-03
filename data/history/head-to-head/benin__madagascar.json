@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 12,
+    "teamAWins": 4,
+    "teamBGoals": 10,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "madagascar",
+    "date": "2023-10-17",
+    "homeScore": 1,
+    "homeTeamId": "benin",
+    "matchId": "int-2023-10-17-benin-madagascar",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "madagascar",
+      "date": "1961-12-27",
+      "homeScore": 3,
+      "homeTeamId": "benin",
+      "matchId": "int-1961-12-27-benin-madagascar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Friendship Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "benin",
+      "date": "1963-04-12",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1963-04-12-madagascar-benin",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Friendship Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "benin",
+      "date": "2003-10-11",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2003-10-11-madagascar-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "madagascar",
+      "date": "2003-11-16",
+      "homeScore": 3,
+      "homeTeamId": "benin",
+      "matchId": "int-2003-11-16-benin-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "benin",
+      "date": "2021-09-02",
+      "homeScore": 0,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2021-09-02-madagascar-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "madagascar",
+      "date": "2021-11-11",
+      "homeScore": 2,
+      "homeTeamId": "benin",
+      "matchId": "int-2021-11-11-benin-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "benin",
+      "date": "2022-09-27",
+      "homeScore": 3,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2022-09-27-madagascar-benin",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "madagascar",
+      "date": "2023-10-17",
+      "homeScore": 1,
+      "homeTeamId": "benin",
+      "matchId": "int-2023-10-17-benin-madagascar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "benin__madagascar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 10,
+      "teamAWins": 4,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "benin",
+  "teamBId": "madagascar"
+}

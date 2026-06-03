@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "1996-06-01",
+      "goalId": "goal-1996-06-01-sudan-zambia-15951",
+      "homeTeamId": "sudan",
+      "matchKey": "1996-06-01-sudan-zambia",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalid Ahmed Elmustafa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "2001-07-29",
+      "goalId": "goal-2001-07-29-sudan-sierra-leone-21655",
+      "homeTeamId": "sudan",
+      "matchKey": "2001-07-29-sudan-sierra-leone",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khalid Ahmed Elmustafa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "khalid ahmed elmustafa",
+  "playerKey": "khalid-ahmed-elmustafa",
+  "scorer": "Khalid Ahmed Elmustafa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

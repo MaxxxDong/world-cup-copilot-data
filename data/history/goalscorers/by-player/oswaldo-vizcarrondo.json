@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2011-07-17",
+      "goalId": "goal-2011-07-17-chile-venezuela-30723",
+      "homeTeamId": "chile",
+      "matchKey": "2011-07-17-chile-venezuela",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswaldo Vizcarrondo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-venezuela-bolivia-31577",
+      "homeTeamId": "venezuela",
+      "matchKey": "2011-11-15-venezuela-bolivia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswaldo Vizcarrondo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "oswaldo vizcarrondo",
+  "playerKey": "oswaldo-vizcarrondo",
+  "scorer": "Oswaldo Vizcarrondo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1969-12-07",
+      "goalId": "goal-1969-12-07-luxembourg-bulgaria-5785",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1969-12-07-luxembourg-bulgaria",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paul Philipp",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1975-05-01",
+      "goalId": "goal-1975-05-01-luxembourg-wales-7208",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1975-05-01-luxembourg-wales",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paul Philipp",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1975-10-15",
+      "goalId": "goal-1975-10-15-austria-luxembourg-7364",
+      "homeTeamId": "austria",
+      "matchKey": "1975-10-15-austria-luxembourg",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paul Philipp",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "paul philipp",
+  "playerKey": "paul-philipp",
+  "scorer": "Paul Philipp",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

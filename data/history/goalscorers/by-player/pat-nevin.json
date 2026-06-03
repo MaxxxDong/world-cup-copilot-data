@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1993-02-17",
+      "goalId": "goal-1993-02-17-scotland-malta-13692",
+      "homeTeamId": "scotland",
+      "matchKey": "1993-02-17-scotland-malta",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pat Nevin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-scotland-estonia-14163",
+      "homeTeamId": "scotland",
+      "matchKey": "1993-06-02-scotland-estonia",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pat Nevin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-scotland-estonia-14165",
+      "homeTeamId": "scotland",
+      "matchKey": "1993-06-02-scotland-estonia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pat Nevin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "1995-11-15",
+      "goalId": "goal-1995-11-15-scotland-san-marino-15707",
+      "homeTeamId": "scotland",
+      "matchKey": "1995-11-15-scotland-san-marino",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pat Nevin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "pat nevin",
+  "playerKey": "pat-nevin",
+  "scorer": "Pat Nevin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1963-10-30",
+      "goalId": "goal-1963-10-30-albania-denmark-4032",
+      "homeTeamId": "albania",
+      "matchKey": "1963-10-30-albania-denmark",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Panajot Pano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1971-11-14",
+      "goalId": "goal-1971-11-14-albania-turkey-6163",
+      "homeTeamId": "albania",
+      "matchKey": "1971-11-14-albania-turkey",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Panajot Pano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    }
+  ],
+  "normalizedScorer": "panajot pano",
+  "playerKey": "panajot-pano",
+  "scorer": "Panajot Pano",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania"
+  ]
+}

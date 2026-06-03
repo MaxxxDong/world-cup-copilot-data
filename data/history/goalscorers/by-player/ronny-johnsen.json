@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1993-10-13",
+      "goalId": "goal-1993-10-13-poland-norway-14635",
+      "homeTeamId": "poland",
+      "matchKey": "1993-10-13-poland-norway",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronny Johnsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2001-09-05",
+      "goalId": "goal-2001-09-05-norway-wales-21828",
+      "homeTeamId": "norway",
+      "matchKey": "2001-09-05-norway-wales",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronny Johnsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "ronny johnsen",
+  "playerKey": "ronny-johnsen",
+  "scorer": "Ronny Johnsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

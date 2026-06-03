@@ -1,0 +1,103 @@
+{
+  "firstGoalDate": "2003-06-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1976-11-17",
+    "nationality": "Albania",
+    "playerKey": "ervin-skela",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "19429",
+      "fbref": "65b54dbb",
+      "footballdatabase_eu": "2775",
+      "kicker": "ervin-skela",
+      "lequipe": "10000000000000000000012600",
+      "national_football_teams": "62",
+      "soccerbase": "22898",
+      "soccerway": "4457",
+      "sofascore": "143",
+      "sofifa": "165999",
+      "transfermarkt": "1462",
+      "uefa": "21317",
+      "wikidata": "Q717131",
+      "worldfootball": "ervin-skela"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2007-06-06",
+  "playerKey": "ervin-skela",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2007-06-06",
+      "goalId": "goal-2007-06-06-luxembourg-albania-26702",
+      "matchKey": "2007-06-06-luxembourg-albania",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ervin Skela"
+    },
+    {
+      "date": "2006-09-02",
+      "goalId": "goal-2006-09-02-belarus-albania-26241",
+      "matchKey": "2006-09-02-belarus-albania",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ervin Skela"
+    },
+    {
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-albania-georgia-25183",
+      "matchKey": "2005-06-04-albania-georgia",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ervin Skela"
+    },
+    {
+      "date": "2003-06-11",
+      "goalId": "goal-2003-06-11-switzerland-albania-22771",
+      "matchKey": "2003-06-11-switzerland-albania",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ervin Skela"
+    },
+    {
+      "date": "2003-06-07",
+      "goalId": "goal-2003-06-07-republic-of-ireland-albania-22700",
+      "matchKey": "2003-06-07-republic-of-ireland-albania",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ervin Skela"
+    }
+  ],
+  "scorer": "Ervin Skela",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "albania",
+  "teamName": "Albania",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

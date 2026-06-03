@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "benin",
+      "date": "2019-07-10",
+      "goalId": "goal-2019-07-10-senegal-benin-38774",
+      "homeTeamId": "senegal",
+      "matchKey": "2019-07-10-senegal-benin",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Idrissa Gueye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "namibia",
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-senegal-namibia-41622",
+      "homeTeamId": "senegal",
+      "matchKey": "2021-10-09-senegal-namibia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Idrissa Gueye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2022-02-02",
+      "goalId": "goal-2022-02-02-burkina-faso-senegal-42304",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "2022-02-02-burkina-faso-senegal",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Idrissa Gueye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "idrissa gueye",
+  "playerKey": "idrissa-gueye",
+  "scorer": "Idrissa Gueye",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

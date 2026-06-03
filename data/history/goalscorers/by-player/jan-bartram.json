@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1989-05-17",
+      "goalId": "goal-1989-05-17-denmark-greece-12011",
+      "homeTeamId": "denmark",
+      "matchKey": "1989-05-17-denmark-greece",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Bartram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1990-10-17",
+      "goalId": "goal-1990-10-17-northern-ireland-denmark-12617",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1990-10-17-northern-ireland-denmark",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jan Bartram",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "jan bartram",
+  "playerKey": "jan-bartram",
+  "scorer": "Jan Bartram",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "qatar",
+      "date": "2004-07-21",
+      "goalId": "goal-2004-07-21-bahrain-qatar-24143",
+      "homeTeamId": "bahrain",
+      "matchKey": "2004-07-21-bahrain-qatar",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Wesam Rizik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-laos-qatar-24435",
+      "homeTeamId": "laos",
+      "matchKey": "2004-09-08-laos-qatar",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wesam Rizik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "wesam rizik",
+  "playerKey": "wesam-rizik",
+  "scorer": "Wesam Rizik",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

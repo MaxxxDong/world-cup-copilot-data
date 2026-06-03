@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2019-06-08",
+      "goalId": "goal-2019-06-08-belgium-kazakhstan-38393",
+      "homeTeamId": "belgium",
+      "matchKey": "2019-06-08-belgium-kazakhstan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Timothy Castagne",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-belgium-san-marino-39118",
+      "homeTeamId": "belgium",
+      "matchKey": "2019-10-10-belgium-san-marino",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Timothy Castagne",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2024-09-06",
+      "goalId": "goal-2024-09-06-belgium-israel-45214",
+      "homeTeamId": "belgium",
+      "matchKey": "2024-09-06-belgium-israel",
+      "minute": 36,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Timothy Castagne",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "timothy castagne",
+  "playerKey": "timothy-castagne",
+  "scorer": "Timothy Castagne",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium",
+    "israel"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "club": "SL Ben ca (POR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1995-12-10",
+    "nationality": "Norway",
+    "playerKey": "fredrik-aursnes",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "39043",
+      "capology": "fredrik-aursnes-35043",
+      "espn": "212900",
+      "eu_football_info": "31543",
+      "fbref": "f0677ed7",
+      "footballdatabase_eu": "181721",
+      "heimspiel": "277577",
+      "impect": "43760",
+      "kicker": "fredrik-aursnes",
+      "national_football_teams": "82859",
+      "opta": "4dh4ws8ehn6uywozt6ygczs2d",
+      "skillcorner": "16399",
+      "soccerbase": "89665",
+      "soccerway": "232025",
+      "sofascore": "228364",
+      "thesportsdb": "34176004",
+      "transfermarkt": "223367",
+      "uefa": "250061027",
+      "wikidata": "Q20090180",
+      "worldfootball": "fredrik-aursnes",
+      "wyscout": "145727"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Fredrik Aursnes",
+  "playerKey": "fredrik-aursnes",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-cyprus-norway-43618",
+      "matchKey": "2023-10-12-cyprus-norway",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fredrik Aursnes"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 14,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

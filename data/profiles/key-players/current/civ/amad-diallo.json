@@ -1,0 +1,111 @@
+{
+  "club": "Manchester United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "2002-07-11",
+    "nationality": "Ivory Coast",
+    "playerKey": "amad-diallo",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "266456",
+      "api_football": "157997",
+      "espn": "291630",
+      "fbref": "9dc96f10",
+      "footballdatabase_eu": "395052",
+      "heimspiel": "566573",
+      "impect": "52601",
+      "kicker": "amad-traore",
+      "lequipe": "77984",
+      "national_football_teams": "82040",
+      "opta": "didsdryngjutw2x6tpwnnju5m",
+      "opta_numeric": "493250",
+      "premier_league": "69176",
+      "skillcorner": "24305",
+      "soccerbase": "126206",
+      "soccerway": "632969",
+      "sofascore": "971037",
+      "sportmonks": "37317015",
+      "statmuse_pl": "309",
+      "transfermarkt": "536835",
+      "uefa": "250121405",
+      "understat": "8127",
+      "whoscored": "386634",
+      "wikidata": "Q72603655",
+      "worldfootball": "amad-diallo",
+      "wyscout": "583656"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Amad Diallo",
+  "playerKey": "amad-diallo",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2026-01-06",
+      "goalId": "goal-2026-01-06-civ-burkina-faso-47541",
+      "matchKey": "2026-01-06-civ-burkina-faso",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amad Diallo"
+    },
+    {
+      "date": "2025-12-28",
+      "goalId": "goal-2025-12-28-civ-cameroon-47486",
+      "matchKey": "2025-12-28-civ-cameroon",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amad Diallo"
+    },
+    {
+      "date": "2025-12-24",
+      "goalId": "goal-2025-12-24-civ-mozambique-47463",
+      "matchKey": "2025-12-24-civ-mozambique",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amad Diallo"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-civ-kenya-47171",
+      "matchKey": "2025-10-14-civ-kenya",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amad Diallo"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 15,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

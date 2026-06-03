@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "2020-09-06",
+      "goalId": "goal-2020-09-06-malta-latvia-39677",
+      "homeTeamId": "malta",
+      "matchKey": "2020-09-06-malta-latvia",
+      "minute": 25,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Matthew Guillaumier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2020-11-17",
+      "goalId": "goal-2020-11-17-malta-faroe-islands-39998",
+      "homeTeamId": "malta",
+      "matchKey": "2020-11-17-malta-faroe-islands",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matthew Guillaumier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-san-marino-malta-42551",
+      "homeTeamId": "san-marino",
+      "matchKey": "2022-06-05-san-marino-malta",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matthew Guillaumier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "matthew guillaumier",
+  "playerKey": "matthew-guillaumier",
+  "scorer": "Matthew Guillaumier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "latvia",
+    "malta"
+  ]
+}

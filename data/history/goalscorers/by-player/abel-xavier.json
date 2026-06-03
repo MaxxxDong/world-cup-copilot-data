@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-slovakia-portugal-18603",
+      "homeTeamId": "slovakia",
+      "matchKey": "1998-10-14-slovakia-portugal",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abel Xavier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1999-10-09",
+      "goalId": "goal-1999-10-09-portugal-hungary-19169",
+      "homeTeamId": "portugal",
+      "matchKey": "1999-10-09-portugal-hungary",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abel Xavier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "abel xavier",
+  "playerKey": "abel-xavier",
+  "scorer": "Abel Xavier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

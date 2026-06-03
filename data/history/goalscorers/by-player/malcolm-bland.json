@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "1973-02-17",
+      "goalId": "goal-1973-02-17-new-zealand-fiji-6540",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1973-02-17-new-zealand-fiji",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Malcolm Bland",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "1973-02-23",
+      "goalId": "goal-1973-02-23-new-zealand-vanuatu-6567",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1973-02-23-new-zealand-vanuatu",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Malcolm Bland",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "malcolm bland",
+  "playerKey": "malcolm-bland",
+  "scorer": "Malcolm Bland",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

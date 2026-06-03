@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2015-01-20",
+      "goalId": "goal-2015-01-20-mali-cameroon-34111",
+      "homeTeamId": "mali",
+      "matchKey": "2015-01-20-mali-cameroon",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sambou Yatabaré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "mali",
+      "date": "2016-10-08",
+      "goalId": "goal-2016-10-08-civ-mali-36256",
+      "homeTeamId": "civ",
+      "matchKey": "2016-10-08-civ-mali",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sambou Yatabaré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "sambou yatabar",
+  "playerKey": "sambou-yatabar",
+  "scorer": "Sambou Yatabaré",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali"
+  ]
+}

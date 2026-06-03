@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Malaysia"
+  ],
+  "allTime": {
+    "draws": 192,
+    "goalsAgainst": 1211,
+    "goalsFor": 1363,
+    "losses": 316,
+    "matches": 835,
+    "wins": 327
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 19,
+      "losses": 1,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 20,
+      "goalsFor": 35,
+      "losses": 3,
+      "matches": 20,
+      "wins": 12
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 2,
+      "goalsFor": 12,
+      "losses": 0,
+      "matches": 5,
+      "wins": 5
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "nepal",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2025-11-18-malaysia-nepal",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "laos",
+      "date": "2025-10-14",
+      "homeScore": 5,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2025-10-14-malaysia-laos",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "malaysia",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "laos",
+      "matchId": "int-2025-10-09-laos-malaysia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2025-09-08",
+      "homeScore": 1,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2025-09-08-malaysia-palestine",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "singapore",
+      "date": "2025-09-04",
+      "homeScore": 2,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2025-09-04-malaysia-singapore",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 145,
+      "goalsAgainst": 937,
+      "goalsFor": 1101,
+      "losses": 242,
+      "matches": 653,
+      "wins": 266
+    },
+    "friendly": {
+      "draws": 47,
+      "goalsAgainst": 274,
+      "goalsFor": 262,
+      "losses": 74,
+      "matches": 182,
+      "wins": 61
+    },
+    "neutralVenue": {
+      "draws": 67,
+      "goalsAgainst": 422,
+      "goalsFor": 474,
+      "losses": 105,
+      "matches": 279,
+      "wins": 107
+    },
+    "nonNeutralVenue": {
+      "draws": 125,
+      "goalsAgainst": 789,
+      "goalsFor": 889,
+      "losses": 211,
+      "matches": 556,
+      "wins": 220
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "malaysia",
+  "teamName": "Malaysia",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "azman-adnan",
+      "scorer": "Azman Adnan"
+    },
+    {
+      "goals": 7,
+      "playerKey": "dollah-salleh",
+      "scorer": "Dollah Salleh"
+    },
+    {
+      "goals": 6,
+      "playerKey": "safawi-rasid",
+      "scorer": "Safawi Rasid"
+    },
+    {
+      "goals": 5,
+      "playerKey": "zainal-abidin-hassan",
+      "scorer": "Zainal Abidin Hassan"
+    },
+    {
+      "goals": 4,
+      "playerKey": "akmal-rizal-ahmad-rakhli",
+      "scorer": "Akmal Rizal Ahmad Rakhli"
+    },
+    {
+      "goals": 4,
+      "playerKey": "azizol-abu-haniffah",
+      "scorer": "Azizol Abu Haniffah"
+    },
+    {
+      "goals": 4,
+      "playerKey": "james-wong",
+      "scorer": "James Wong"
+    },
+    {
+      "goals": 4,
+      "playerKey": "mohamadou-sumareh",
+      "scorer": "Mohamadou Sumareh"
+    },
+    {
+      "goals": 4,
+      "playerKey": "shahrel-fikri",
+      "scorer": "Shahrel Fikri"
+    },
+    {
+      "goals": 3,
+      "playerKey": "abdul-mubin-mokhtar",
+      "scorer": "Abdul Mubin Mokhtar"
+    }
+  ]
+}

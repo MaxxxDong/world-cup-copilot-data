@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1987-07-08",
+      "goalId": "goal-1987-07-08-chile-colombia-11485",
+      "homeTeamId": "chile",
+      "matchKey": "1987-07-08-chile-colombia",
+      "minute": 106,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Astengo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1989-07-08",
+      "goalId": "goal-1989-07-08-bolivia-chile-12182",
+      "homeTeamId": "bolivia",
+      "matchKey": "1989-07-08-bolivia-chile",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Astengo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "fernando astengo",
+  "playerKey": "fernando-astengo",
+  "scorer": "Fernando Astengo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

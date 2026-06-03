@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kosovo",
+      "date": "2022-06-12",
+      "goalId": "goal-2022-06-12-greece-kosovo-42661",
+      "homeTeamId": "greece",
+      "matchKey": "2022-06-12-greece-kosovo",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Giakoumakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "2023-10-13",
+      "goalId": "goal-2023-10-13-republic-of-ireland-greece-43674",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2023-10-13-republic-of-ireland-greece",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giorgos Giakoumakis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "giorgos giakoumakis",
+  "playerKey": "giorgos-giakoumakis",
+  "scorer": "Giorgos Giakoumakis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece"
+  ]
+}

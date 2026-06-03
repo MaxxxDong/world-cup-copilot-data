@@ -1,0 +1,86 @@
+{
+  "club": "OGC Nice (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1993-12-20",
+    "nationality": "Tunisia",
+    "playerKey": "ali-abdi",
+    "position": "full-back",
+    "providerIds": {
+      "api_football": "49583",
+      "capology": "ali-abdi-34323",
+      "espn": "265234",
+      "fbref": "ad7cdb35",
+      "footballdatabase_eu": "174058",
+      "fotmob": "566187",
+      "heimspiel": "282035",
+      "impect": "51781",
+      "kicker": "ali-abdi",
+      "national_football_teams": "81960",
+      "opta": "d4byfkr3jergb1v1nakrmgvdh",
+      "skillcorner": "23166",
+      "soccerway": "223160",
+      "sofascore": "919027",
+      "thesportsdb": "34202671",
+      "transfermarkt": "211474",
+      "wikidata": "Q17350507",
+      "worldfootball": "ali-abdi",
+      "wyscout": "121250"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ali Abdi",
+  "playerKey": "ali-abdi",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-27",
+      "goalId": "goal-2025-12-27-nigeria-tunisia-47474",
+      "matchKey": "2025-12-27-nigeria-tunisia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Abdi"
+    },
+    {
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-tunisia-namibia-47135",
+      "matchKey": "2025-10-13-tunisia-namibia",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ali Abdi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 2,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

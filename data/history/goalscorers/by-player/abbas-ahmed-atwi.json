@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-lebanon-south-korea-31531",
+      "homeTeamId": "lebanon",
+      "matchKey": "2011-11-15-lebanon-south-korea",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Abbas Ahmed Atwi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    },
+    {
+      "awayTeamId": "lebanon",
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-myanmar-lebanon-34998",
+      "homeTeamId": "myanmar",
+      "matchKey": "2015-10-08-myanmar-lebanon",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abbas Ahmed Atwi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "abbas ahmed atwi",
+  "playerKey": "abbas-ahmed-atwi",
+  "scorer": "Abbas Ahmed Atwi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2007-03-24",
+      "goalId": "goal-2007-03-24-liechtenstein-northern-ireland-26549",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2007-03-24-liechtenstein-northern-ireland",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Grant McCann",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2008-10-15",
+      "goalId": "goal-2008-10-15-northern-ireland-san-marino-28785",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "2008-10-15-northern-ireland-san-marino",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Grant McCann",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2009-02-11",
+      "goalId": "goal-2009-02-11-san-marino-northern-ireland-28850",
+      "homeTeamId": "san-marino",
+      "matchKey": "2009-02-11-san-marino-northern-ireland",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Grant McCann",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "grant mccann",
+  "playerKey": "grant-mccann",
+  "scorer": "Grant McCann",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

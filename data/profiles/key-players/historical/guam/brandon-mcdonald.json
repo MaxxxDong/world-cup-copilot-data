@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2015-06-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1986-01-16",
+    "nationality": "United States",
+    "playerKey": "brandon-mcdonald",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "4b8c434d",
+      "footballdatabase_eu": "30058",
+      "national_football_teams": "58907",
+      "soccerway": "31552",
+      "sofascore": "96525",
+      "transfermarkt": "73121",
+      "wikidata": "Q29667",
+      "worldfootball": "brandon-mcdonald"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-16",
+  "playerKey": "brandon-mcdonald",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-guam-india-34527",
+      "matchKey": "2015-06-16-guam-india",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brandon McDonald"
+    }
+  ],
+  "scorer": "Brandon McDonald",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guam",
+  "teamName": "Guam",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

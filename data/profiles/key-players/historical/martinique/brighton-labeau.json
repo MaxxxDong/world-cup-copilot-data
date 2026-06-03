@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2023-07-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1996-01-01",
+    "nationality": "France",
+    "playerKey": "brighton-labeau",
+    "position": "forward",
+    "providerIds": {
+      "capology": "brighton-labeau-35065",
+      "espn": "259023",
+      "fbref_verified": "f45cf4f7",
+      "footballdatabase_eu": "225775",
+      "heimspiel": "367316",
+      "impect": "33271",
+      "kicker": "brighton-labeau",
+      "national_football_teams": "87054",
+      "opta": "bvw2dsfqohoq9dypgdgt6d1w5",
+      "skillcorner": "165606",
+      "soccerway": "327462",
+      "sofascore": "886289",
+      "thesportsdb": "34165587",
+      "transfermarkt": "342227",
+      "wikidata": "Q36694978",
+      "worldfootball": "brighton-labeau",
+      "wyscout": "331913"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-07-04",
+  "playerKey": "brighton-labeau",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-costa-rica-martinique-43407",
+      "matchKey": "2023-07-04-costa-rica-martinique",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brighton Labeau"
+    }
+  ],
+  "scorer": "Brighton Labeau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "martinique",
+  "teamName": "Martinique",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

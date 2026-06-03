@@ -1,0 +1,92 @@
+{
+  "club": "FC Internazionale Milano (ITA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1997-08-06",
+    "nationality": "France",
+    "playerKey": "marcus-thuram",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "21509",
+      "capology": "marcus-thuram-35648",
+      "espn": "217331",
+      "eu_football_info": "31247",
+      "fbref": "6f8cd6d0",
+      "fff_fr": "8889-thuram-marcus",
+      "footballdatabase_eu": "226776",
+      "german_fa": "362538",
+      "heimspiel": "388224",
+      "impect": "3817",
+      "kicker": "marcus-thuram",
+      "lequipe": "52784",
+      "national_football_teams": "80334",
+      "opta": "66nvc8a4kd3cyeyj3i474cudx",
+      "serie_a": "marcus-thuram-107157",
+      "skillcorner": "11230",
+      "soccerbase": "88176",
+      "soccerway": "334250",
+      "sofascore": "791702",
+      "thesportsdb": "34169231",
+      "transfermarkt": "318528",
+      "uefa": "250068805",
+      "wikidata": "Q19903718",
+      "worldfootball": "marcus-thuram",
+      "wyscout": "301017"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Marcus Thuram",
+  "playerKey": "marcus-thuram",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-11-18",
+      "goalId": "goal-2023-11-18-fra-gibraltar-43999",
+      "matchKey": "2023-11-18-fra-gibraltar",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Thuram"
+    },
+    {
+      "date": "2023-09-07",
+      "goalId": "goal-2023-09-07-fra-republic-of-ireland-43446",
+      "matchKey": "2023-09-07-fra-republic-of-ireland",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Thuram"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=19"
+  },
+  "shirtNumber": 9,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=19"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "fra",
+  "teamName": "France"
+}

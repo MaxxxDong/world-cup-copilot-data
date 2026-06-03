@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "2021-07-11",
+      "goalId": "goal-2021-07-11-canada-martinique-41003",
+      "homeTeamId": "canada",
+      "matchKey": "2021-07-11-canada-martinique",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-mex-canada-41498",
+      "homeTeamId": "mex",
+      "matchKey": "2021-10-07-mex-canada",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-canada-cuba-43396",
+      "homeTeamId": "canada",
+      "matchKey": "2023-07-04-canada-cuba",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "jonathan osorio",
+  "playerKey": "jonathan-osorio",
+  "scorer": "Jonathan Osorio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

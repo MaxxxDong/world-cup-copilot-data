@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1942-01-22",
+      "goalId": "goal-1942-01-22-arg-ecuador-1280",
+      "homeTeamId": "arg",
+      "matchKey": "1942-01-22-arg-ecuador",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adolfo Pedernera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1946-01-26",
+      "goalId": "goal-1946-01-26-arg-chile-1436",
+      "homeTeamId": "arg",
+      "matchKey": "1946-01-26-arg-chile",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adolfo Pedernera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1946-02-02",
+      "goalId": "goal-1946-02-02-arg-uruguay-1451",
+      "homeTeamId": "arg",
+      "matchKey": "1946-02-02-arg-uruguay",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adolfo Pedernera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "adolfo pedernera",
+  "playerKey": "adolfo-pedernera",
+  "scorer": "Adolfo Pedernera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

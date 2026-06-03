@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2015-01-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-08-29",
+    "nationality": "Slovenia",
+    "playerKey": "jaka-ihbeisheh",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "f986363c",
+      "footballdatabase_eu": "164259",
+      "kicker": "jaka-ihbeisheh",
+      "national_football_teams": "57990",
+      "soccerway": "135916",
+      "sofascore": "61509",
+      "transfermarkt": "48346",
+      "wikidata": "Q16231331",
+      "worldfootball": "jaka-ihbeisheh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-03-29",
+  "playerKey": "jaka-ihbeisheh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-palestine-timor-leste-35683",
+      "matchKey": "2016-03-29-palestine-timor-leste",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaka Ihbeisheh"
+    },
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-palestine-malaysia-35322",
+      "matchKey": "2015-11-12-palestine-malaysia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaka Ihbeisheh"
+    },
+    {
+      "date": "2015-01-16",
+      "goalId": "goal-2015-01-16-palestine-jordan-34076",
+      "matchKey": "2015-01-16-palestine-jordan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaka Ihbeisheh"
+    }
+  ],
+  "scorer": "Jaka Ihbeisheh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "palestine",
+  "teamName": "Palestine",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guam",
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-singapore-guam-43644",
+      "homeTeamId": "singapore",
+      "matchKey": "2023-10-12-singapore-guam",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jacob Mahler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-singapore-china-pr-44504",
+      "homeTeamId": "singapore",
+      "matchKey": "2024-03-21-singapore-china-pr",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jacob Mahler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    }
+  ],
+  "normalizedScorer": "jacob mahler",
+  "playerKey": "jacob-mahler",
+  "scorer": "Jacob Mahler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "singapore"
+  ]
+}

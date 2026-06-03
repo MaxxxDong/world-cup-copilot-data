@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 9,
+    "teamAGoals": 10,
+    "teamAWins": 1,
+    "teamBGoals": 27,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "brunei",
+    "date": "2022-12-29",
+    "homeScore": 5,
+    "homeTeamId": "cambodia",
+    "matchId": "int-2022-12-29-cambodia-brunei",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFF Championship"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "cambodia",
+      "date": "1997-10-05",
+      "homeScore": 0,
+      "homeTeamId": "brunei",
+      "matchId": "int-1997-10-05-brunei-cambodia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Southeast Asian Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "cambodia",
+      "date": "1999-08-02",
+      "homeScore": 3,
+      "homeTeamId": "brunei",
+      "matchId": "int-1999-08-02-brunei-cambodia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Southeast Asian Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cambodia",
+      "date": "2006-11-16",
+      "homeScore": 1,
+      "homeTeamId": "brunei",
+      "matchId": "int-2006-11-16-brunei-cambodia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2008-10-25",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2008-10-25-cambodia-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "brunei",
+      "date": "2012-10-09",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2012-10-09-cambodia-brunei",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2014-10-20",
+      "homeScore": 1,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2014-10-20-cambodia-brunei",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2015-11-03",
+      "homeScore": 6,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2015-11-03-cambodia-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2016-10-18",
+      "homeScore": 3,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2016-10-18-cambodia-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2022-12-29",
+      "homeScore": 5,
+      "homeTeamId": "cambodia",
+      "matchId": "int-2022-12-29-cambodia-brunei",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFF Championship"
+    }
+  ],
+  "pairKey": "brunei__cambodia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 8,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 21,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 0,
+      "teamBGoals": 19,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "brunei",
+  "teamBId": "cambodia"
+}

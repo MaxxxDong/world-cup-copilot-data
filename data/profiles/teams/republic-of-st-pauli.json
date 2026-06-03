@@ -1,0 +1,165 @@
+{
+  "aliases": [
+    "Republic of St. Pauli"
+  ],
+  "allTime": {
+    "draws": 1,
+    "goalsAgainst": 5,
+    "goalsFor": 10,
+    "losses": 2,
+    "matches": 4,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "gibraltar",
+      "date": "2006-06-03",
+      "homeScore": 1,
+      "homeTeamId": "republic-of-st-pauli",
+      "matchId": "int-2006-06-03-republic-of-st-pauli-gibraltar",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zanzibar",
+      "date": "2006-06-01",
+      "homeScore": 1,
+      "homeTeamId": "republic-of-st-pauli",
+      "matchId": "int-2006-06-01-republic-of-st-pauli-zanzibar",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tibet",
+      "date": "2006-05-30",
+      "homeScore": 7,
+      "homeTeamId": "republic-of-st-pauli",
+      "matchId": "int-2006-05-30-republic-of-st-pauli-tibet",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gibraltar",
+      "date": "2006-05-29",
+      "homeScore": 1,
+      "homeTeamId": "republic-of-st-pauli",
+      "matchId": "int-2006-05-29-republic-of-st-pauli-gibraltar",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 4,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "republic-of-st-pauli",
+  "teamName": "Republic of St. Pauli",
+  "topScorers": []
+}

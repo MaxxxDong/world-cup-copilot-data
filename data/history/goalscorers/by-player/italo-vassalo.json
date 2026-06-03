@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1962-01-21",
+      "goalId": "goal-1962-01-21-ethiopia-egypt-3661",
+      "homeTeamId": "ethiopia",
+      "matchKey": "1962-01-21-ethiopia-egypt",
+      "minute": 101,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Italo Vassalo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ethiopia"
+    }
+  ],
+  "normalizedScorer": "italo vassalo",
+  "playerKey": "italo-vassalo",
+  "scorer": "Italo Vassalo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ethiopia"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "club": "FC Den Bosch (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-11-11",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "kevin-felida",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "37461",
+      "espn": "262738",
+      "fbref": "20f6dec7",
+      "footballdatabase_eu": "342730",
+      "heimspiel": "498290",
+      "impect": "75721",
+      "kicker": "kevin-felida",
+      "national_football_teams": "82906",
+      "opta": "5cvstzkb7l1zxapx0dt4zjkoa",
+      "skillcorner": "39713",
+      "soccerway": "501817",
+      "sofascore": "896215",
+      "thesportsdb": "34220704",
+      "transfermarkt": "433933",
+      "wikidata": "Q46709013",
+      "wyscout": "527098"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Kevin Felida",
+  "playerKey": "kevin-felida",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-haiti-curacao-46385",
+      "matchKey": "2025-06-10-haiti-curacao",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kevin Felida"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+  },
+  "shirtNumber": 22,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

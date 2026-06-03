@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2021-03-28",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1997-01-01",
+    "nationality": "United States",
+    "playerKey": "ricardo-rivera",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "5caa2e74",
+      "footballdatabase_eu": "306607",
+      "national_football_teams": "64962",
+      "soccerway": "249975",
+      "sofascore": "1049288",
+      "transfermarkt": "457588",
+      "wikidata": "Q61827474"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-08",
+  "playerKey": "ricardo-rivera",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-guyana-puerto-rico-40668",
+      "matchKey": "2021-06-08-guyana-puerto-rico",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Rivera"
+    },
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-puerto-rico-bahamas-40463",
+      "matchKey": "2021-06-02-puerto-rico-bahamas",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ricardo Rivera"
+    },
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-puerto-rico-bahamas-40461",
+      "matchKey": "2021-06-02-puerto-rico-bahamas",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Rivera"
+    },
+    {
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-puerto-rico-trinidad-and-tobago-40285",
+      "matchKey": "2021-03-28-puerto-rico-trinidad-and-tobago",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Rivera"
+    }
+  ],
+  "scorer": "Ricardo Rivera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "puerto-rico",
+  "teamName": "Puerto Rico",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

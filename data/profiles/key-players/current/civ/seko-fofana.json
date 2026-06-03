@@ -1,0 +1,107 @@
+{
+  "club": "FC Porto (POR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1995-05-07",
+    "nationality": "Ivory Coast",
+    "playerKey": "seko-fofana",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "30807",
+      "espn": "184118",
+      "fbref": "5313ed43",
+      "fff_fr": "9531-fofana-seko",
+      "footballdatabase_eu": "177764",
+      "heimspiel": "278827",
+      "hugman": "26628",
+      "impect": "15018",
+      "kicker": "seko-fofana",
+      "lequipe": "46821",
+      "national_football_teams": "69296",
+      "opta": "3h62hv3ksrnl7n7di2b080y51",
+      "skillcorner": "9703",
+      "soccerbase": "79133",
+      "soccerway": "215640",
+      "sofascore": "191188",
+      "thesportsdb": "34148636",
+      "transfermarkt": "182893",
+      "uefa": "250042773",
+      "wikidata": "Q18635274",
+      "worldfootball": "seko-fofana",
+      "wyscout": "134508"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Seko Fofana",
+  "playerKey": "seko-fofana",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-07",
+      "goalId": "goal-2024-06-07-civ-gabon-44714",
+      "matchKey": "2024-06-07-civ-gabon",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seko Fofana"
+    },
+    {
+      "date": "2024-01-13",
+      "goalId": "goal-2024-01-13-civ-guinea-bissau-44200",
+      "matchKey": "2024-01-13-civ-guinea-bissau",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seko Fofana"
+    },
+    {
+      "date": "2023-11-20",
+      "goalId": "goal-2023-11-20-gambia-civ-44077",
+      "matchKey": "2023-11-20-gambia-civ",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seko Fofana"
+    },
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43967",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Seko Fofana"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 6,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

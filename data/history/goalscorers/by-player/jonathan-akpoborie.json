@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-kenya-nigeria-16714",
+      "homeTeamId": "kenya",
+      "matchKey": "1997-01-12-kenya-nigeria",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Akpoborie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "eritrea",
+      "date": "2000-04-22",
+      "goalId": "goal-2000-04-22-nigeria-eritrea-19547",
+      "homeTeamId": "nigeria",
+      "matchKey": "2000-04-22-nigeria-eritrea",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Akpoborie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "jonathan akpoborie",
+  "playerKey": "jonathan-akpoborie",
+  "scorer": "Jonathan Akpoborie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

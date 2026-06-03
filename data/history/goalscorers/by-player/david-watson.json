@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1979-02-07",
+      "goalId": "goal-1979-02-07-england-northern-ireland-8435",
+      "homeTeamId": "england",
+      "matchKey": "1979-02-07-england-northern-ireland",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1979-06-06",
+      "goalId": "goal-1979-06-06-bulgaria-england-8486",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1979-06-06-bulgaria-england",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1979-11-22",
+      "goalId": "goal-1979-11-22-england-bulgaria-8668",
+      "homeTeamId": "england",
+      "matchKey": "1979-11-22-england-bulgaria",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "david watson",
+  "playerKey": "david-watson",
+  "scorer": "David Watson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

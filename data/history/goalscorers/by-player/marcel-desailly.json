@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "1995-09-06",
+      "goalId": "goal-1995-09-06-fra-azerbaijan-15534",
+      "homeTeamId": "fra",
+      "matchKey": "1995-09-06-fra-azerbaijan",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcel Desailly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2001-06-07",
+      "goalId": "goal-2001-06-07-fra-bra-21430",
+      "homeTeamId": "fra",
+      "matchKey": "2001-06-07-fra-bra",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcel Desailly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "marcel desailly",
+  "playerKey": "marcel-desailly",
+  "scorer": "Marcel Desailly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

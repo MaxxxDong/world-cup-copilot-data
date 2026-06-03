@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "puerto-rico",
+      "date": "1996-05-12",
+      "goalId": "goal-1996-05-12-saint-vincent-and-the-grenadines-puerto-rico-15928",
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchKey": "1996-05-12-saint-vincent-and-the-grenadines-puerto-rico",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wesley Charles",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saint-vincent-and-the-grenadines"
+    },
+    {
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2000-05-21",
+      "goalId": "goal-2000-05-21-saint-vincent-and-the-grenadines-antigua-and-barbuda-19662",
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchKey": "2000-05-21-saint-vincent-and-the-grenadines-antigua-and-barbuda",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wesley Charles",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saint-vincent-and-the-grenadines"
+    }
+  ],
+  "normalizedScorer": "wesley charles",
+  "playerKey": "wesley-charles",
+  "scorer": "Wesley Charles",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saint-vincent-and-the-grenadines"
+  ]
+}

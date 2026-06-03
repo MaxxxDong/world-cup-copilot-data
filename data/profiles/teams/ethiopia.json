@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Ethiopia"
+  ],
+  "allTime": {
+    "draws": 92,
+    "goalsAgainst": 594,
+    "goalsFor": 547,
+    "losses": 172,
+    "matches": 407,
+    "wins": 143
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 11,
+      "losses": 7,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 30,
+      "goalsFor": 17,
+      "losses": 11,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "ethiopia",
+      "date": "2025-10-12",
+      "homeScore": 3,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2025-10-12-burkina-faso-ethiopia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea-bissau",
+      "date": "2025-10-08",
+      "homeScore": 1,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2025-10-08-ethiopia-guinea-bissau",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2025-09-09",
+      "homeScore": 2,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2025-09-09-sierra-leone-ethiopia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2025-09-05",
+      "homeScore": 2,
+      "homeTeamId": "egypt",
+      "matchId": "int-2025-09-05-egypt-ethiopia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "djibouti",
+      "date": "2025-03-24",
+      "homeScore": 6,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2025-03-24-ethiopia-djibouti",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 62,
+      "goalsAgainst": 438,
+      "goalsFor": 320,
+      "losses": 132,
+      "matches": 280,
+      "wins": 86
+    },
+    "friendly": {
+      "draws": 30,
+      "goalsAgainst": 156,
+      "goalsFor": 227,
+      "losses": 40,
+      "matches": 127,
+      "wins": 57
+    },
+    "neutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 149,
+      "goalsFor": 125,
+      "losses": 41,
+      "matches": 93,
+      "wins": 29
+    },
+    "nonNeutralVenue": {
+      "draws": 69,
+      "goalsAgainst": 445,
+      "goalsFor": 422,
+      "losses": 131,
+      "matches": 314,
+      "wins": 114
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "ethiopia",
+  "teamName": "Ethiopia",
+  "topScorers": [
+    {
+      "goals": 11,
+      "playerKey": "mengistu-worku",
+      "scorer": "Mengistu Worku"
+    },
+    {
+      "goals": 9,
+      "playerKey": "getaneh-kebede",
+      "scorer": "Getaneh Kebede"
+    },
+    {
+      "goals": 7,
+      "playerKey": "luciano-vassallo",
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "goals": 4,
+      "playerKey": "abubeker-nassir",
+      "scorer": "Abubeker Nassir"
+    },
+    {
+      "goals": 4,
+      "playerKey": "girma-tekle",
+      "scorer": "Girma Tekle"
+    },
+    {
+      "goals": 4,
+      "playerKey": "saladin-said",
+      "scorer": "Saladin Said"
+    },
+    {
+      "goals": 3,
+      "playerKey": "bereket-desta",
+      "scorer": "Bereket Desta"
+    },
+    {
+      "goals": 3,
+      "playerKey": "shimelis-bekele",
+      "scorer": "Shimelis Bekele"
+    },
+    {
+      "goals": 3,
+      "playerKey": "tariku-ingdawerk",
+      "scorer": "Tariku Ingdawerk"
+    },
+    {
+      "goals": 2,
+      "playerKey": "asmeron-germa",
+      "scorer": "Asmeron Germa"
+    }
+  ]
+}

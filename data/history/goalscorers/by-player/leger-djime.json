@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sudan",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-chad-sudan-28461",
+      "homeTeamId": "chad",
+      "matchKey": "2008-09-10-chad-sudan",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leger Djime",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    },
+    {
+      "awayTeamId": "chad",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-mali-chad-28624",
+      "homeTeamId": "mali",
+      "matchKey": "2008-10-11-mali-chad",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leger Djime",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chad"
+    }
+  ],
+  "normalizedScorer": "leger djime",
+  "playerKey": "leger-djime",
+  "scorer": "Leger Djime",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chad"
+  ]
+}

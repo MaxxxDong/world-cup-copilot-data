@@ -1,0 +1,97 @@
+{
+  "firstGoalDate": "1995-04-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1968-05-18",
+    "nationality": "Malta",
+    "playerKey": "david-carabott",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "3190",
+      "fbref": "a955acf9",
+      "footballdatabase_eu": "2998",
+      "national_football_teams": "4256",
+      "soccerbase": "19594",
+      "transfermarkt": "95642",
+      "uefa": "5290",
+      "wikidata": "Q717362"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2003-09-10",
+  "playerKey": "david-carabott",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2003-09-10",
+      "goalId": "goal-2003-09-10-israel-malta-22993",
+      "matchKey": "2003-09-10-israel-malta",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Carabott"
+    },
+    {
+      "date": "2001-09-05",
+      "goalId": "goal-2001-09-05-czech-republic-malta-21791",
+      "matchKey": "2001-09-05-czech-republic-malta",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "David Carabott"
+    },
+    {
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-malta-republic-of-ireland-19093",
+      "matchKey": "1999-09-08-malta-republic-of-ireland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "David Carabott"
+    },
+    {
+      "date": "1999-08-21",
+      "goalId": "goal-1999-08-21-croatia-malta-18983",
+      "matchKey": "1999-08-21-croatia-malta",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Carabott"
+    },
+    {
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-belarus-malta-15273",
+      "matchKey": "1995-04-26-belarus-malta",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Carabott"
+    }
+  ],
+  "scorer": "David Carabott",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malta",
+  "teamName": "Malta",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

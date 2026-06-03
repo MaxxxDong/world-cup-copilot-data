@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Tanzania"
+  ],
+  "allTime": {
+    "draws": 171,
+    "goalsAgainst": 892,
+    "goalsFor": 660,
+    "losses": 265,
+    "matches": 599,
+    "wins": 163
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 12,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 25,
+      "goalsFor": 16,
+      "losses": 13,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "tanzania",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "macau",
+      "matchId": "int-2026-03-29-macau-tanzania",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "liechtenstein",
+      "date": "2026-03-26",
+      "homeScore": 0,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2026-03-26-tanzania-liechtenstein",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tanzania",
+      "date": "2026-01-04",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-2026-01-04-mar-tanzania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tunisia",
+      "date": "2025-12-30",
+      "homeScore": 1,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2025-12-30-tanzania-tunisia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2025-12-27",
+      "homeScore": 1,
+      "homeTeamId": "uganda",
+      "matchId": "int-2025-12-27-uganda-tanzania",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 91,
+      "goalsAgainst": 434,
+      "goalsFor": 349,
+      "losses": 151,
+      "matches": 332,
+      "wins": 90
+    },
+    "friendly": {
+      "draws": 80,
+      "goalsAgainst": 458,
+      "goalsFor": 311,
+      "losses": 114,
+      "matches": 267,
+      "wins": 73
+    },
+    "neutralVenue": {
+      "draws": 37,
+      "goalsAgainst": 246,
+      "goalsFor": 215,
+      "losses": 69,
+      "matches": 160,
+      "wins": 54
+    },
+    "nonNeutralVenue": {
+      "draws": 134,
+      "goalsAgainst": 646,
+      "goalsFor": 445,
+      "losses": 196,
+      "matches": 439,
+      "wins": 109
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "tanzania",
+  "teamName": "Tanzania",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "simon-msuva",
+      "scorer": "Simon Msuva"
+    },
+    {
+      "goals": 6,
+      "playerKey": "mbwana-samatta",
+      "scorer": "Mbwana Samatta"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jerson-tegete",
+      "scorer": "Jerson Tegete"
+    },
+    {
+      "goals": 3,
+      "playerKey": "peter-tino",
+      "scorer": "Peter Tino"
+    },
+    {
+      "goals": 3,
+      "playerKey": "thomas-ulimwengu",
+      "scorer": "Thomas Ulimwengu"
+    },
+    {
+      "goals": 3,
+      "playerKey": "thuwein-ali",
+      "scorer": "Thuwein Ali"
+    },
+    {
+      "goals": 2,
+      "playerKey": "amri-kiemba",
+      "scorer": "Amri Kiemba"
+    },
+    {
+      "goals": 2,
+      "playerKey": "charles-m-mombwa",
+      "scorer": "Charles M'Mombwa"
+    },
+    {
+      "goals": 2,
+      "playerKey": "danny-mrwanda",
+      "scorer": "Danny Mrwanda"
+    },
+    {
+      "goals": 2,
+      "playerKey": "erasto-nyoni",
+      "scorer": "Erasto Nyoni"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1988-12-11",
+      "goalId": "goal-1988-12-11-new-zealand-taiwan-11791",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1988-12-11-new-zealand-taiwan",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Halligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "fiji",
+      "date": "1992-06-07",
+      "goalId": "goal-1992-06-07-new-zealand-fiji-13154",
+      "homeTeamId": "new-zealand",
+      "matchKey": "1992-06-07-new-zealand-fiji",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Halligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1992-06-27",
+      "goalId": "goal-1992-06-27-vanuatu-new-zealand-13197",
+      "homeTeamId": "vanuatu",
+      "matchKey": "1992-06-27-vanuatu-new-zealand",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Danny Halligan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "danny halligan",
+  "playerKey": "danny-halligan",
+  "scorer": "Danny Halligan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

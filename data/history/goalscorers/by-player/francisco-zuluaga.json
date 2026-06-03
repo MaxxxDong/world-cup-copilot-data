@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1962-05-30",
+      "goalId": "goal-1962-05-30-colombia-uruguay-3670",
+      "homeTeamId": "colombia",
+      "matchKey": "1962-05-30-colombia-uruguay",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Francisco Zuluaga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "francisco zuluaga",
+  "playerKey": "francisco-zuluaga",
+  "scorer": "Francisco Zuluaga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

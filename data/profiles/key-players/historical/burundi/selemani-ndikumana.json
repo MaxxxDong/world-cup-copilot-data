@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2008-06-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-03-18",
+    "nationality": "Burundi",
+    "playerKey": "selemani-ndikumana",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "ba5a6bcd",
+      "footballdatabase_eu": "36199",
+      "national_football_teams": "17603",
+      "soccerway": "89741",
+      "sofascore": "35796",
+      "sofifa": "296997",
+      "transfermarkt": "73453",
+      "wikidata": "Q2414034",
+      "worldfootball": "selemani-ndikumana"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-15",
+  "playerKey": "selemani-ndikumana",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-burundi-lesotho-31474",
+      "matchKey": "2011-11-15-burundi-lesotho",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Selemani Ndikumana"
+    },
+    {
+      "date": "2008-06-01",
+      "goalId": "goal-2008-06-01-burundi-seychelles-27781",
+      "matchKey": "2008-06-01-burundi-seychelles",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Selemani Ndikumana"
+    }
+  ],
+  "scorer": "Selemani Ndikumana",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "burundi",
+  "teamName": "Burundi",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

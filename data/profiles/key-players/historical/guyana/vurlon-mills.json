@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2011-09-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1990-12-10",
+    "nationality": "Guyana",
+    "playerKey": "vurlon-mills",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "46445c14",
+      "footballdatabase_eu": "147673",
+      "national_football_teams": "43431",
+      "soccerway": "191803",
+      "sofifa": "347675",
+      "transfermarkt": "220575",
+      "wikidata": "Q7943694"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-09-06",
+  "playerKey": "vurlon-mills",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-guyana-bermuda-31010",
+      "matchKey": "2011-09-06-guyana-bermuda",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vurlon Mills"
+    },
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-guyana-bermuda-31009",
+      "matchKey": "2011-09-06-guyana-bermuda",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vurlon Mills"
+    }
+  ],
+  "scorer": "Vurlon Mills",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

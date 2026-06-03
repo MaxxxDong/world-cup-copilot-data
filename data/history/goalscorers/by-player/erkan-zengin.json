@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "2014-09-08",
+      "goalId": "goal-2014-09-08-austria-sweden-33795",
+      "homeTeamId": "austria",
+      "matchKey": "2014-09-08-austria-sweden",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erkan Zengin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2014-10-12",
+      "goalId": "goal-2014-10-12-sweden-liechtenstein-33917",
+      "homeTeamId": "sweden",
+      "matchKey": "2014-10-12-sweden-liechtenstein",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erkan Zengin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2015-10-12",
+      "goalId": "goal-2015-10-12-sweden-moldova-35152",
+      "homeTeamId": "sweden",
+      "matchKey": "2015-10-12-sweden-moldova",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erkan Zengin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "erkan zengin",
+  "playerKey": "erkan-zengin",
+  "scorer": "Erkan Zengin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

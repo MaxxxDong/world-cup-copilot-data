@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "haiti",
+      "date": "1985-05-15",
+      "goalId": "goal-1985-05-15-guatemala-haiti-10787",
+      "homeTeamId": "guatemala",
+      "matchKey": "1985-05-15-guatemala-haiti",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raúl Chacón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1989-03-19",
+      "goalId": "goal-1989-03-19-guatemala-costa-rica-11946",
+      "homeTeamId": "guatemala",
+      "matchKey": "1989-03-19-guatemala-costa-rica",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Raúl Chacón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "1989-06-17",
+      "goalId": "goal-1989-06-17-usa-guatemala-12114",
+      "homeTeamId": "usa",
+      "matchKey": "1989-06-17-usa-guatemala",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Raúl Chacón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "ra l chac n",
+  "playerKey": "ra-l-chac-n",
+  "scorer": "Raúl Chacón",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala"
+  ]
+}

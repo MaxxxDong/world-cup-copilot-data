@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2013-02-02",
+      "goalId": "goal-2013-02-02-rsa-mali-32519",
+      "homeTeamId": "rsa",
+      "matchKey": "2013-02-02-rsa-mali",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tokelo Rantie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-angola-rsa-35356",
+      "homeTeamId": "angola",
+      "matchKey": "2015-11-13-angola-rsa",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tokelo Rantie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-cape-verde-rsa-37050",
+      "homeTeamId": "cape-verde",
+      "matchKey": "2017-09-01-cape-verde-rsa",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tokelo Rantie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    }
+  ],
+  "normalizedScorer": "tokelo rantie",
+  "playerKey": "tokelo-rantie",
+  "scorer": "Tokelo Rantie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rsa"
+  ]
+}

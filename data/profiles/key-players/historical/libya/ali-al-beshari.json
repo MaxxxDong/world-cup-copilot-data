@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "1982-03-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1962-01-01",
+    "nationality": "Libya",
+    "playerKey": "ali-al-beshari",
+    "position": "defender",
+    "providerIds": {
+      "footballdatabase_eu": "158111",
+      "national_football_teams": "80018",
+      "sofifa": "48931",
+      "transfermarkt": "879441",
+      "wikidata": "Q16020923"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1985-03-08",
+  "playerKey": "ali-al-beshari",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1985-03-08",
+      "goalId": "goal-1985-03-08-libya-sudan-10577",
+      "matchKey": "1985-03-08-libya-sudan",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Beshari"
+    },
+    {
+      "date": "1982-03-19",
+      "goalId": "goal-1982-03-19-libya-ghana-9669",
+      "matchKey": "1982-03-19-libya-ghana",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Beshari"
+    },
+    {
+      "date": "1982-03-16",
+      "goalId": "goal-1982-03-16-libya-zambia-9665",
+      "matchKey": "1982-03-16-libya-zambia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Beshari"
+    },
+    {
+      "date": "1982-03-16",
+      "goalId": "goal-1982-03-16-libya-zambia-9664",
+      "matchKey": "1982-03-16-libya-zambia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Beshari"
+    }
+  ],
+  "scorer": "Ali Al-Beshari",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

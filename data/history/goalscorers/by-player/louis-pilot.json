@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1963-12-04",
+      "goalId": "goal-1963-12-04-luxembourg-denmark-4078",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1963-12-04-luxembourg-denmark",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Pilot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1965-09-19",
+      "goalId": "goal-1965-09-19-luxembourg-yugoslavia-4454",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1965-09-19-luxembourg-yugoslavia",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Pilot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1965-09-19",
+      "goalId": "goal-1965-09-19-luxembourg-yugoslavia-4456",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1965-09-19-luxembourg-yugoslavia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Pilot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1965-11-06",
+      "goalId": "goal-1965-11-06-fra-luxembourg-4530",
+      "homeTeamId": "fra",
+      "matchKey": "1965-11-06-fra-luxembourg",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Pilot",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "louis pilot",
+  "playerKey": "louis-pilot",
+  "scorer": "Louis Pilot",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Albania"
+  ],
+  "allTime": {
+    "draws": 84,
+    "goalsAgainst": 587,
+    "goalsFor": 377,
+    "losses": 202,
+    "matches": 396,
+    "wins": 110
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 8,
+      "goalsFor": 10,
+      "losses": 3,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 19,
+      "goalsFor": 19,
+      "losses": 8,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "albania",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2026-03-31-ukraine-albania",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "albania",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-2026-03-26-poland-albania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "england",
+      "date": "2025-11-16",
+      "homeScore": 0,
+      "homeTeamId": "albania",
+      "matchId": "int-2025-11-16-albania-england",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "albania",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "andorra",
+      "matchId": "int-2025-11-13-andorra-albania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "jordan",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "albania",
+      "matchId": "int-2025-10-14-albania-jordan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 54,
+      "goalsAgainst": 443,
+      "goalsFor": 231,
+      "losses": 158,
+      "matches": 277,
+      "wins": 65
+    },
+    "friendly": {
+      "draws": 30,
+      "goalsAgainst": 144,
+      "goalsFor": 146,
+      "losses": 44,
+      "matches": 119,
+      "wins": 45
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 42,
+      "goalsFor": 36,
+      "losses": 15,
+      "matches": 33,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 77,
+      "goalsAgainst": 545,
+      "goalsFor": 341,
+      "losses": 187,
+      "matches": 363,
+      "wins": 99
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "albania",
+  "teamName": "Albania",
+  "topScorers": [
+    {
+      "goals": 11,
+      "playerKey": "erjon-bogdani",
+      "scorer": "Erjon Bogdani"
+    },
+    {
+      "goals": 10,
+      "playerKey": "sokol-ikalleshi",
+      "scorer": "Sokol Çikalleshi"
+    },
+    {
+      "goals": 9,
+      "playerKey": "rey-manaj",
+      "scorer": "Rey Manaj"
+    },
+    {
+      "goals": 9,
+      "playerKey": "sokol-kushta",
+      "scorer": "Sokol Kushta"
+    },
+    {
+      "goals": 7,
+      "playerKey": "armando-sadiku",
+      "scorer": "Armando Sadiku"
+    },
+    {
+      "goals": 7,
+      "playerKey": "igli-tare",
+      "scorer": "Igli Tare"
+    },
+    {
+      "goals": 6,
+      "playerKey": "alban-bushi",
+      "scorer": "Alban Bushi"
+    },
+    {
+      "goals": 6,
+      "playerKey": "altin-rraklli",
+      "scorer": "Altin Rraklli"
+    },
+    {
+      "goals": 6,
+      "playerKey": "hamdi-salihi",
+      "scorer": "Hamdi Salihi"
+    },
+    {
+      "goals": 5,
+      "playerKey": "bekim-balaj",
+      "scorer": "Bekim Balaj"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Sri Lanka"
+  ],
+  "allTime": {
+    "draws": 47,
+    "goalsAgainst": 576,
+    "goalsFor": 237,
+    "losses": 155,
+    "matches": 251,
+    "wins": 49
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 15,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 22,
+      "goalsFor": 15,
+      "losses": 8,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "thailand",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-11-18-sri-lanka-thailand",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sri-lanka",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "turkmenistan",
+      "matchId": "int-2025-10-14-turkmenistan-sri-lanka",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "turkmenistan",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-10-09-sri-lanka-turkmenistan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2025-09-09",
+      "homeScore": 1,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-09-09-sri-lanka-maldives",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "maldives",
+      "date": "2025-09-06",
+      "homeScore": 0,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-09-06-sri-lanka-maldives",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Asian Super Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 29,
+      "goalsAgainst": 413,
+      "goalsFor": 173,
+      "losses": 112,
+      "matches": 178,
+      "wins": 37
+    },
+    "friendly": {
+      "draws": 18,
+      "goalsAgainst": 163,
+      "goalsFor": 64,
+      "losses": 43,
+      "matches": 73,
+      "wins": 12
+    },
+    "neutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 236,
+      "goalsFor": 117,
+      "losses": 68,
+      "matches": 109,
+      "wins": 27
+    },
+    "nonNeutralVenue": {
+      "draws": 33,
+      "goalsAgainst": 340,
+      "goalsFor": 120,
+      "losses": 87,
+      "matches": 142,
+      "wins": 22
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "sri-lanka",
+  "teamName": "Sri Lanka",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "channa-ediri-bandanage",
+      "scorer": "Channa Ediri Bandanage"
+    },
+    {
+      "goals": 3,
+      "playerKey": "imthyas-raheem",
+      "scorer": "Imthyas Raheem"
+    },
+    {
+      "goals": 3,
+      "playerKey": "kasun-jayasuriya",
+      "scorer": "Kasun Jayasuriya"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ahmed-waseem-razeek",
+      "scorer": "Ahmed Waseem Razeek"
+    },
+    {
+      "goals": 2,
+      "playerKey": "roshan-pereta",
+      "scorer": "Roshan Pereta"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anton-silva",
+      "scorer": "Anton Silva"
+    },
+    {
+      "goals": 1,
+      "playerKey": "chaminda-steinwall",
+      "scorer": "Chaminda Steinwall"
+    },
+    {
+      "goals": 1,
+      "playerKey": "chandradasa-karunaratne",
+      "scorer": "Chandradasa Karunaratne"
+    },
+    {
+      "goals": 1,
+      "playerKey": "charitha-rathnayake",
+      "scorer": "Charitha Rathnayake"
+    },
+    {
+      "goals": 1,
+      "playerKey": "chathura-gunaratne",
+      "scorer": "Chathura Gunaratne"
+    }
+  ]
+}

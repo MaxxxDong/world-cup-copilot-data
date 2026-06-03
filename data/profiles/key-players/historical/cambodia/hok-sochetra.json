@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "1997-04-27",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1974-07-27",
+    "nationality": "Cambodia",
+    "playerKey": "hok-sochetra",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "351844",
+      "national_football_teams": "1200",
+      "soccerway": "1002",
+      "sofifa": "156182",
+      "wikidata": "Q3139192"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-29",
+  "playerKey": "hok-sochetra",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-29",
+      "goalId": "goal-1997-06-29-cambodia-uzbekistan-17490",
+      "matchKey": "1997-06-29-cambodia-uzbekistan",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hok Sochetra"
+    },
+    {
+      "date": "1997-04-27",
+      "goalId": "goal-1997-04-27-cambodia-indonesia-16985",
+      "matchKey": "1997-04-27-cambodia-indonesia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hok Sochetra"
+    }
+  ],
+  "scorer": "Hok Sochetra",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cambodia",
+  "teamName": "Cambodia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

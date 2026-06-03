@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "2012-09-11",
+      "goalId": "goal-2012-09-11-norway-slovenia-32184",
+      "homeTeamId": "norway",
+      "matchKey": "2012-09-11-norway-slovenia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Markus Henriksen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2015-11-15",
+      "goalId": "goal-2015-11-15-hungary-norway-35419",
+      "homeTeamId": "hungary",
+      "matchKey": "2015-11-15-hungary-norway",
+      "minute": 83,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Markus Henriksen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2015-11-15",
+      "goalId": "goal-2015-11-15-hungary-norway-35420",
+      "homeTeamId": "hungary",
+      "matchKey": "2015-11-15-hungary-norway",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Markus Henriksen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2017-10-05",
+      "goalId": "goal-2017-10-05-san-marino-norway-37288",
+      "homeTeamId": "san-marino",
+      "matchKey": "2017-10-05-san-marino-norway",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Markus Henriksen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "markus henriksen",
+  "playerKey": "markus-henriksen",
+  "scorer": "Markus Henriksen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary",
+    "norway"
+  ]
+}

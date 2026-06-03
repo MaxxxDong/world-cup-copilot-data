@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "india",
+      "date": "2011-07-23",
+      "goalId": "goal-2011-07-23-united-arab-emirates-india-30783",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2011-07-23-united-arab-emirates-india",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Hamdan Al-Kamali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-south-korea-united-arab-emirates-31342",
+      "homeTeamId": "south-korea",
+      "matchKey": "2011-10-11-south-korea-united-arab-emirates",
+      "minute": 64,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Hamdan Al-Kamali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "hamdan al kamali",
+  "playerKey": "hamdan-al-kamali",
+  "scorer": "Hamdan Al-Kamali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea",
+    "united-arab-emirates"
+  ]
+}

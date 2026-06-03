@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 6,
+    "teamAWins": 2,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "angola",
+    "date": "2021-03-25",
+    "homeScore": 1,
+    "homeTeamId": "gambia",
+    "matchId": "int-2021-03-25-gambia-angola",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "gambia",
+      "date": "2010-01-03",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-2010-01-03-angola-gambia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gambia",
+      "date": "2012-12-15",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-2012-12-15-angola-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "angola",
+      "date": "2019-09-06",
+      "homeScore": 0,
+      "homeTeamId": "gambia",
+      "matchId": "int-2019-09-06-gambia-angola",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gambia",
+      "date": "2019-09-10",
+      "homeScore": 2,
+      "homeTeamId": "angola",
+      "matchId": "int-2019-09-10-angola-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "gambia",
+      "date": "2019-11-13",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-2019-11-13-angola-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "angola",
+      "date": "2021-03-25",
+      "homeScore": 1,
+      "homeTeamId": "gambia",
+      "matchId": "int-2021-03-25-gambia-angola",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "angola__gambia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "angola",
+  "teamBId": "gambia"
+}

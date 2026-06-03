@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1945-01-14",
+      "goalId": "goal-1945-01-14-chile-ecuador-1322",
+      "homeTeamId": "chile",
+      "matchKey": "1945-01-14-chile-ecuador",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erasmo Vera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "erasmo vera",
+  "playerKey": "erasmo-vera",
+  "scorer": "Erasmo Vera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

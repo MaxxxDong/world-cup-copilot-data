@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1961-06-01",
+      "goalId": "goal-1961-06-01-norway-turkey-3510",
+      "homeTeamId": "norway",
+      "matchKey": "1961-06-01-norway-turkey",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Metin Oktay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1961-10-29",
+      "goalId": "goal-1961-10-29-turkey-norway-3614",
+      "homeTeamId": "turkey",
+      "matchKey": "1961-10-29-turkey-norway",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Metin Oktay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1961-11-12",
+      "goalId": "goal-1961-11-12-turkey-russia-3628",
+      "homeTeamId": "turkey",
+      "matchKey": "1961-11-12-turkey-russia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Metin Oktay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "metin oktay",
+  "playerKey": "metin-oktay",
+  "scorer": "Metin Oktay",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

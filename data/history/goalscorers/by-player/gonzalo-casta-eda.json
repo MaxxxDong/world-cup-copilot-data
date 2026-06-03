@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1975-07-24",
+      "goalId": "goal-1975-07-24-ecuador-paraguay-7261",
+      "homeTeamId": "ecuador",
+      "matchKey": "1975-07-24-ecuador-paraguay",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gonzalo Castañeda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1975-08-10",
+      "goalId": "goal-1975-08-10-paraguay-ecuador-7300",
+      "homeTeamId": "paraguay",
+      "matchKey": "1975-08-10-paraguay-ecuador",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gonzalo Castañeda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "gonzalo casta eda",
+  "playerKey": "gonzalo-casta-eda",
+  "scorer": "Gonzalo Castañeda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

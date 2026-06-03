@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2018-11-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1990-08-14",
+    "nationality": "United Kingdom",
+    "playerKey": "adam-priestley",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "28463",
+      "fbref": "c1eb6772",
+      "footballdatabase_eu": "205764",
+      "national_football_teams": "54140",
+      "opta": "1uws0e2vniwbcq18g9pd2lrkl",
+      "soccerway": "305729",
+      "transfermarkt": "295299",
+      "uefa": "250067521",
+      "wikidata": "Q15269532",
+      "worldfootball": "adam-priestley"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2018-11-16",
+  "playerKey": "adam-priestley",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2018-11-16",
+      "goalId": "goal-2018-11-16-gibraltar-armenia-37947",
+      "matchKey": "2018-11-16-gibraltar-armenia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adam Priestley"
+    }
+  ],
+  "scorer": "Adam Priestley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

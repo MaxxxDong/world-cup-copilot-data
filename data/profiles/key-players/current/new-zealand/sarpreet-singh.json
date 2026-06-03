@@ -1,0 +1,87 @@
+{
+  "club": "Wellington Phoenix FC (NZL)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1999-02-20",
+    "nationality": "New Zealand",
+    "playerKey": "sarpreet-singh",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "6935",
+      "capology": "sarpreet-singh-36211",
+      "espn": "228283",
+      "fbref": "4ba886c6",
+      "footballdatabase_eu": "282608",
+      "heimspiel": "425860",
+      "impect": "16002",
+      "kicker": "sarpreet-singh",
+      "national_football_teams": "70836",
+      "opta": "2e6l5yj8f5revbcv1r7md90p",
+      "skillcorner": "23102",
+      "soccerbase": "90085",
+      "soccerway": "394070",
+      "sofascore": "822743",
+      "sofifa": "309209",
+      "thesportsdb": "34174608",
+      "transfermarkt": "350357",
+      "wikidata": "Q28800473",
+      "worldfootball": "sarpreet-singh",
+      "wyscout": "360843"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Sarpreet Singh",
+  "playerKey": "sarpreet-singh",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-new-zealand-fiji-45980",
+      "matchKey": "2025-03-21-new-zealand-fiji",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sarpreet Singh"
+    },
+    {
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-new-zealand-vanuatu-45672",
+      "matchKey": "2024-11-15-new-zealand-vanuatu",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sarpreet Singh"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+  },
+  "shirtNumber": 10,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-zealand",
+  "teamName": "New Zealand"
+}

@@ -1,0 +1,73 @@
+{
+  "club": "SK Beveren (BEL)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2000-04-10",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "jearl-margaritha",
+    "providerIds": {
+      "api_football": "195067",
+      "espn": "301441",
+      "fbref": "be915a68",
+      "footballdatabase_eu": "428083",
+      "heimspiel": "677968",
+      "impect": "75688",
+      "kicker": "jearl-margaritha",
+      "national_football_teams": "92049",
+      "skillcorner": "61313",
+      "soccerway": "648486",
+      "sofascore": "1036004",
+      "thesportsdb": "34228869",
+      "transfermarkt": "538958",
+      "wikidata": "Q104780374",
+      "worldfootball": "jearl-margaritha",
+      "wyscout": "681700"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jearl Margaritha",
+  "playerKey": "jearl-margaritha",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-haiti-curacao-46384",
+      "matchKey": "2025-06-10-haiti-curacao",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jearl Margaritha"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+  },
+  "shirtNumber": 16,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

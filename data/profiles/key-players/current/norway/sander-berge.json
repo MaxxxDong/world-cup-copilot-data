@@ -1,0 +1,86 @@
+{
+  "club": "Fulham FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1998-02-14",
+    "nationality": "Norway",
+    "playerKey": "sander-berge",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "255239",
+      "api_football": "1934",
+      "capology": "sander-berge-35840",
+      "espn": "218998",
+      "eu_football_info": "29803",
+      "fbref": "d0b6129f",
+      "footballdatabase_eu": "255772",
+      "fotmob": "540963",
+      "heimspiel": "391207",
+      "impect": "15526",
+      "kicker": "sander-berge",
+      "national_football_teams": "67608",
+      "opta": "6k66e9gxbu8s7zoxb7mrtwcmh",
+      "opta_numeric": "207189",
+      "premier_league": "21614",
+      "skillcorner": "12029",
+      "soccerbase": "81951",
+      "soccerway": "398474",
+      "sofascore": "793167",
+      "sportmonks": "64193",
+      "statmuse_pl": "5667",
+      "transfermarkt": "333014",
+      "uefa": "250090926",
+      "understat": "8285",
+      "whoscored": "321020",
+      "wikidata": "Q20675980",
+      "worldfootball": "sander-berge",
+      "wyscout": "367922"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Sander Berge",
+  "playerKey": "sander-berge",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-norway-malta-38851",
+      "matchKey": "2019-09-05-norway-malta",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sander Berge"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bahrain",
+      "date": "2009-06-10",
+      "goalId": "goal-2009-06-10-australia-bahrain-29146",
+      "homeTeamId": "australia",
+      "matchKey": "2009-06-10-australia-bahrain",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Carney",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "2011-01-25",
+      "goalId": "goal-2011-01-25-uzbekistan-australia-30351",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "2011-01-25-uzbekistan-australia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Carney",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "david carney",
+  "playerKey": "david-carney",
+  "scorer": "David Carney",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

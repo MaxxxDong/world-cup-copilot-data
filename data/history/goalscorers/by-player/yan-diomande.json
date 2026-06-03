@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "civ",
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47017",
+      "homeTeamId": "seychelles",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "kenya",
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-civ-kenya-47170",
+      "homeTeamId": "civ",
+      "matchKey": "2025-10-14-civ-kenya",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2026-01-06",
+      "goalId": "goal-2026-01-06-civ-burkina-faso-47542",
+      "homeTeamId": "civ",
+      "matchKey": "2026-01-06-civ-burkina-faso",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "yan diomande",
+  "playerKey": "yan-diomande",
+  "scorer": "Yan Diomande",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

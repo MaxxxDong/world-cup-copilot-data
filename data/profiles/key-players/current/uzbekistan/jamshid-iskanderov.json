@@ -1,0 +1,69 @@
+{
+  "club": "FK Neftchi Farg'ona (UZB)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1993-10-16",
+    "nationality": "Uzbekistan",
+    "playerKey": "jamshid-iskanderov",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "3b8abe7c",
+      "footballdatabase_eu": "149689",
+      "heimspiel": "308214",
+      "impect": "16629",
+      "kicker": "jamshid-iskanderov",
+      "national_football_teams": "53604",
+      "soccerway": "192272",
+      "sofascore": "785512",
+      "transfermarkt": "260857",
+      "wikidata": "Q16235461",
+      "wyscout": "130263"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jamshid Iskanderov",
+  "playerKey": "jamshid-iskanderov",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-uzbekistan-yemen-39204",
+      "matchKey": "2019-10-10-uzbekistan-yemen",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamshid Iskanderov"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uzbekistan",
+  "teamName": "Uzbekistan"
+}

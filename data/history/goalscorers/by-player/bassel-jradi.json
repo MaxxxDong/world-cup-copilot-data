@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lebanon",
+      "date": "2024-01-22",
+      "goalId": "goal-2024-01-22-tajikistan-lebanon-44330",
+      "homeTeamId": "tajikistan",
+      "matchKey": "2024-01-22-tajikistan-lebanon",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bassel Jradi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    },
+    {
+      "awayTeamId": "lebanon",
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-australia-lebanon-44526",
+      "homeTeamId": "australia",
+      "matchKey": "2024-03-26-australia-lebanon",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Bassel Jradi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "bassel jradi",
+  "playerKey": "bassel-jradi",
+  "scorer": "Bassel Jradi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia",
+    "lebanon"
+  ]
+}

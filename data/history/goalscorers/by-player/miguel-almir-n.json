@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2021-06-24",
+      "goalId": "goal-2021-06-24-chile-paraguay-40926",
+      "homeTeamId": "chile",
+      "matchKey": "2021-06-24-chile-paraguay",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Miguel Almirón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-paraguay-ecuador-42368",
+      "homeTeamId": "paraguay",
+      "matchKey": "2022-03-24-paraguay-ecuador",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miguel Almirón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "2024-11-19",
+      "goalId": "goal-2024-11-19-bolivia-paraguay-45787",
+      "homeTeamId": "bolivia",
+      "matchKey": "2024-11-19-bolivia-paraguay",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miguel Almirón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "miguel almir n",
+  "playerKey": "miguel-almir-n",
+  "scorer": "Miguel Almirón",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

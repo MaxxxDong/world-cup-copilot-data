@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Tunisia",
+    "TUN",
+    "Eagles of Carthage"
+  ],
+  "allTime": {
+    "draws": 189,
+    "goalsAgainst": 684,
+    "goalsFor": 974,
+    "losses": 191,
+    "matches": 676,
+    "wins": 296
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "TUN",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 10,
+      "goalsFor": 14,
+      "losses": 2,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 15,
+      "goalsFor": 36,
+      "losses": 3,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 5,
+      "goalsFor": 5,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "tunisia",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "canada",
+      "matchId": "int-2026-03-31-canada-tunisia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tunisia",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "haiti",
+      "matchId": "int-2026-03-28-haiti-tunisia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tunisia",
+      "date": "2026-01-03",
+      "homeScore": 1,
+      "homeTeamId": "mali",
+      "matchId": "int-2026-01-03-mali-tunisia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tunisia",
+      "date": "2025-12-30",
+      "homeScore": 1,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2025-12-30-tanzania-tunisia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "tunisia",
+      "date": "2025-12-27",
+      "homeScore": 3,
+      "homeTeamId": "nigeria",
+      "matchId": "int-2025-12-27-nigeria-tunisia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 104,
+      "goalsAgainst": 345,
+      "goalsFor": 582,
+      "losses": 97,
+      "matches": 383,
+      "wins": 182
+    },
+    "friendly": {
+      "draws": 85,
+      "goalsAgainst": 339,
+      "goalsFor": 392,
+      "losses": 94,
+      "matches": 293,
+      "wins": 114
+    },
+    "neutralVenue": {
+      "draws": 51,
+      "goalsAgainst": 182,
+      "goalsFor": 216,
+      "losses": 50,
+      "matches": 162,
+      "wins": 61
+    },
+    "nonNeutralVenue": {
+      "draws": 138,
+      "goalsAgainst": 502,
+      "goalsFor": 758,
+      "losses": 141,
+      "matches": 514,
+      "wins": 235
+    },
+    "worldCup": {
+      "draws": 5,
+      "goalsAgainst": 26,
+      "goalsFor": 14,
+      "losses": 10,
+      "matches": 18,
+      "wins": 3
+    }
+  },
+  "teamId": "tunisia",
+  "teamName": "Tunisia",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "francileudo-santos",
+      "scorer": "Francileudo Santos"
+    },
+    {
+      "goals": 13,
+      "playerKey": "wahbi-khazri",
+      "scorer": "Wahbi Khazri"
+    },
+    {
+      "goals": 12,
+      "playerKey": "youssef-msakni",
+      "scorer": "Youssef Msakni"
+    },
+    {
+      "goals": 12,
+      "playerKey": "zoubeir-baya",
+      "scorer": "Zoubeir Baya"
+    },
+    {
+      "goals": 9,
+      "playerKey": "issam-jem-a",
+      "scorer": "Issam Jemâa"
+    },
+    {
+      "goals": 9,
+      "playerKey": "ziad-jaziri",
+      "scorer": "Ziad Jaziri"
+    },
+    {
+      "goals": 8,
+      "playerKey": "adel-sellimi",
+      "scorer": "Adel Sellimi"
+    },
+    {
+      "goals": 8,
+      "playerKey": "ali-zitouni",
+      "scorer": "Ali Zitouni"
+    },
+    {
+      "goals": 6,
+      "playerKey": "bassam-jeridi",
+      "scorer": "Bassam Jeridi"
+    },
+    {
+      "goals": 6,
+      "playerKey": "khaled-badra",
+      "scorer": "Khaled Badra"
+    }
+  ]
+}

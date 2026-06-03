@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "1972-02-24",
+      "goalId": "goal-1972-02-24-mali-togo-6242",
+      "homeTeamId": "mali",
+      "matchKey": "1972-02-24-mali-togo",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Edmond Apéti Kaolo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1972-02-24",
+      "goalId": "goal-1972-02-24-mali-togo-6245",
+      "homeTeamId": "mali",
+      "matchKey": "1972-02-24-mali-togo",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edmond Apéti Kaolo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1972-02-28",
+      "goalId": "goal-1972-02-28-kenya-togo-6262",
+      "homeTeamId": "kenya",
+      "matchKey": "1972-02-28-kenya-togo",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edmond Apéti Kaolo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "edmond ap ti kaolo",
+  "playerKey": "edmond-ap-ti-kaolo",
+  "scorer": "Edmond Apéti Kaolo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

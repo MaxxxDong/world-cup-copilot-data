@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1980-11-15",
+      "goalId": "goal-1980-11-15-italy-yugoslavia-9071",
+      "homeTeamId": "italy",
+      "matchKey": "1980-11-15-italy-yugoslavia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Antonio Cabrini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1982-06-29",
+      "goalId": "goal-1982-06-29-italy-arg-9782",
+      "homeTeamId": "italy",
+      "matchKey": "1982-06-29-italy-arg",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Cabrini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1983-12-22",
+      "goalId": "goal-1983-12-22-italy-cyprus-10210",
+      "homeTeamId": "italy",
+      "matchKey": "1983-12-22-italy-cyprus",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonio Cabrini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "antonio cabrini",
+  "playerKey": "antonio-cabrini",
+  "scorer": "Antonio Cabrini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

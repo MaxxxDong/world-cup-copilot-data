@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-switzerland-turkey-15315",
+      "homeTeamId": "switzerland",
+      "matchKey": "1995-04-26-switzerland-turkey",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ogün Temizkanoğlu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-turkey-finland-18609",
+      "homeTeamId": "turkey",
+      "matchKey": "1998-10-14-turkey-finland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ogün Temizkanoğlu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "og n temizkano lu",
+  "playerKey": "og-n-temizkano-lu",
+  "scorer": "Ogün Temizkanoğlu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

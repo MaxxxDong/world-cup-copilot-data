@@ -1,0 +1,80 @@
+{
+  "club": "Al Ittihad (KSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1998-06-30",
+    "nationality": "Algeria",
+    "playerKey": "houssem-aouar",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "658",
+      "espn": "241116",
+      "eu_football_info": "31093",
+      "fbref": "a5db0bec",
+      "fff_fr": "8886-aouar-houssem",
+      "footballdatabase_eu": "275626",
+      "heimspiel": "421208",
+      "impect": "5908",
+      "kicker": "houssem-aouar",
+      "lequipe": "58614",
+      "national_football_teams": "79685",
+      "opta": "412hlm2edd05jd1ad597brcvd",
+      "skillcorner": "11278",
+      "soccerbase": "94529",
+      "soccerway": "419674",
+      "sofascore": "846081",
+      "thesportsdb": "34163670",
+      "transfermarkt": "395693",
+      "uefa": "250074007",
+      "wikidata": "Q27927442",
+      "worldfootball": "houssem-aouar",
+      "wyscout": "397046"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Houssem Aouar",
+  "playerKey": "houssem-aouar",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-10",
+      "goalId": "goal-2024-06-10-uganda-algeria-44826",
+      "matchKey": "2024-06-10-uganda-algeria",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Houssem Aouar"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

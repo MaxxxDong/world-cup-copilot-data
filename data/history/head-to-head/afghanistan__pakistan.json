@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 6,
+    "teamAWins": 2,
+    "teamBGoals": 6,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "pakistan",
+    "date": "2025-10-14",
+    "homeScore": 1,
+    "homeTeamId": "afghanistan",
+    "matchId": "int-2025-10-14-afghanistan-pakistan",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "AFC Asian Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "pakistan",
+      "date": "1976-07-19",
+      "homeScore": 1,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-1976-07-19-afghanistan-pakistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "1976-10-12",
+      "homeScore": 1,
+      "homeTeamId": "pakistan",
+      "matchId": "int-1976-10-12-pakistan-afghanistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "2003-01-14",
+      "homeScore": 0,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2003-01-14-afghanistan-pakistan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "SAFF Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "2005-12-09",
+      "homeScore": 1,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2005-12-09-pakistan-afghanistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "SAFF Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "pakistan",
+      "date": "2013-08-20",
+      "homeScore": 3,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2013-08-20-afghanistan-pakistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "afghanistan",
+      "date": "2015-02-06",
+      "homeScore": 2,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2015-02-06-pakistan-afghanistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2025-10-09-pakistan-afghanistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2025-10-14-afghanistan-pakistan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "pairKey": "afghanistan__pakistan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "afghanistan",
+  "teamBId": "pakistan"
+}

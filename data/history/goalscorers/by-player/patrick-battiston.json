@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1979-09-05",
+      "goalId": "goal-1979-09-05-sweden-fra-8555",
+      "homeTeamId": "sweden",
+      "matchKey": "1979-09-05-sweden-fra",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Battiston",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1984-10-13",
+      "goalId": "goal-1984-10-13-luxembourg-fra-10338",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1984-10-13-luxembourg-fra",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Battiston",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "patrick battiston",
+  "playerKey": "patrick-battiston",
+  "scorer": "Patrick Battiston",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 6,
+    "teamAGoals": 12,
+    "teamAWins": 1,
+    "teamBGoals": 12,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "iceland",
+    "date": "2024-03-21",
+    "homeScore": 1,
+    "homeTeamId": "israel",
+    "matchId": "int-2024-03-21-israel-iceland",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "1992-04-08",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-1992-04-08-israel-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "1992-08-09",
+      "homeScore": 0,
+      "homeTeamId": "iceland",
+      "matchId": "int-1992-08-09-iceland-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "2010-11-17",
+      "homeScore": 3,
+      "homeTeamId": "israel",
+      "matchId": "int-2010-11-17-israel-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "2022-06-02",
+      "homeScore": 2,
+      "homeTeamId": "israel",
+      "matchId": "int-2022-06-02-israel-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "2022-06-13",
+      "homeScore": 2,
+      "homeTeamId": "iceland",
+      "matchId": "int-2022-06-13-iceland-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "iceland",
+      "date": "2024-03-21",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-2024-03-21-israel-iceland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "iceland__israel",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iceland",
+  "teamBId": "israel"
+}

@@ -1,0 +1,92 @@
+{
+  "club": "RB Leipzig (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2006-11-14",
+    "nationality": "Ivory Coast",
+    "playerKey": "yan-diomande",
+    "providerIds": {
+      "api_football": "513776",
+      "besoccer": "3670288",
+      "fbref_verified": "919f5f54",
+      "footballdatabase_eu": "620676",
+      "fotmob": "1735453",
+      "heimspiel": "1642061",
+      "impect": "252160",
+      "kicker": "yan-diomande",
+      "lequipe": "121325",
+      "opta": "8e6qzf8dp3c9lch7tu5r03qqc",
+      "skillcorner": "1003832",
+      "soccerway": "1030655",
+      "sofascore": "2087085",
+      "thesportsdb": "34336277",
+      "transfermarkt": "1390649",
+      "wikidata": "Q133698867",
+      "worldfootball": "yan-diomande"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Yan Diomande",
+  "playerKey": "yan-diomande",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2026-01-06",
+      "goalId": "goal-2026-01-06-civ-burkina-faso-47542",
+      "matchKey": "2026-01-06-civ-burkina-faso",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-civ-kenya-47170",
+      "matchKey": "2025-10-14-civ-kenya",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47017",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yan Diomande"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

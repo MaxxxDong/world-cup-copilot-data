@@ -1,0 +1,83 @@
+{
+  "firstGoalDate": "1993-04-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1965-10-06",
+    "nationality": "Singapore",
+    "playerKey": "v-sundramoorthy",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "215179",
+      "national_football_teams": "53393",
+      "wikidata": "Q7906263"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1993-05-02",
+  "playerKey": "v-sundramoorthy",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1993-05-02",
+      "goalId": "goal-1993-05-02-singapore-indonesia-13966",
+      "matchKey": "1993-05-02-singapore-indonesia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "V. Sundramoorthy"
+    },
+    {
+      "date": "1993-04-18",
+      "goalId": "goal-1993-04-18-indonesia-singapore-13847",
+      "matchKey": "1993-04-18-indonesia-singapore",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "V. Sundramoorthy"
+    },
+    {
+      "date": "1993-04-13",
+      "goalId": "goal-1993-04-13-vietnam-singapore-13801",
+      "matchKey": "1993-04-13-vietnam-singapore",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "V. Sundramoorthy"
+    },
+    {
+      "date": "1993-04-11",
+      "goalId": "goal-1993-04-11-north-korea-singapore-13784",
+      "matchKey": "1993-04-11-north-korea-singapore",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "V. Sundramoorthy"
+    }
+  ],
+  "scorer": "V. Sundramoorthy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "singapore",
+  "teamName": "Singapore",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

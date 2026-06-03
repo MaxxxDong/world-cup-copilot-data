@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "2000-10-15",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1974-08-06",
+    "nationality": "Lebanon",
+    "playerKey": "moussa-hojeij",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "a03eddce",
+      "footballdatabase_eu": "151235",
+      "national_football_teams": "3768",
+      "soccerway": "214979",
+      "wikidata": "Q3306741"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-30",
+  "playerKey": "moussa-hojeij",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-30",
+      "goalId": "goal-2001-05-30-thailand-lebanon-21241",
+      "matchKey": "2001-05-30-thailand-lebanon",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Hojeij"
+    },
+    {
+      "date": "2001-05-15",
+      "goalId": "goal-2001-05-15-lebanon-sri-lanka-21160",
+      "matchKey": "2001-05-15-lebanon-sri-lanka",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Hojeij"
+    },
+    {
+      "date": "2001-05-13",
+      "goalId": "goal-2001-05-13-lebanon-pakistan-21148",
+      "matchKey": "2001-05-13-lebanon-pakistan",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Hojeij"
+    },
+    {
+      "date": "2000-10-15",
+      "goalId": "goal-2000-10-15-lebanon-iraq-20219",
+      "matchKey": "2000-10-15-lebanon-iraq",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Hojeij"
+    }
+  ],
+  "scorer": "Moussa Hojeij",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lebanon",
+  "teamName": "Lebanon",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 8,
+    "teamAGoals": 24,
+    "teamAWins": 6,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "somalia",
+    "date": "2015-11-25",
+    "homeScore": 2,
+    "homeTeamId": "ethiopia",
+    "matchId": "int-2015-11-25-ethiopia-somalia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CECAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "1969-01-05",
+      "homeScore": 7,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-1969-01-05-ethiopia-somalia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "1995-12-03",
+      "homeScore": 5,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-1995-12-03-ethiopia-somalia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ethiopia",
+      "date": "2000-11-21",
+      "homeScore": 1,
+      "homeTeamId": "somalia",
+      "matchId": "int-2000-11-21-somalia-ethiopia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "somalia",
+      "date": "2002-12-07",
+      "homeScore": 0,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2002-12-07-ethiopia-somalia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "somalia",
+      "date": "2005-12-05",
+      "homeScore": 3,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2005-12-05-ethiopia-somalia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2011-11-12",
+      "homeScore": 0,
+      "homeTeamId": "somalia",
+      "matchId": "int-2011-11-12-somalia-ethiopia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2011-11-16",
+      "homeScore": 5,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2011-11-16-ethiopia-somalia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2015-11-25",
+      "homeScore": 2,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2015-11-25-ethiopia-somalia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    }
+  ],
+  "pairKey": "ethiopia__somalia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 17,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 14,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "ethiopia",
+  "teamBId": "somalia"
+}

@@ -1,0 +1,75 @@
+{
+  "club": "RKC Waalwijk (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1998-06-09",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "roshon-van-eijma",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "37066",
+      "espn": "270807",
+      "fbref": "130368de",
+      "footballdatabase_eu": "351549",
+      "heimspiel": "487665",
+      "impect": "85076",
+      "kicker": "roshon-van-eijma",
+      "national_football_teams": "81973",
+      "opta": "1jn9jog8ou8uxnmypneksizxm",
+      "skillcorner": "39804",
+      "soccerway": "539577",
+      "sofascore": "925930",
+      "thesportsdb": "34246316",
+      "transfermarkt": "401029",
+      "wikidata": "Q56787768",
+      "worldfootball": "roshon-van-eijma",
+      "wyscout": "561083"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Roshon Van Eijma",
+  "playerKey": "roshon-van-eijma",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-13",
+      "goalId": "goal-2025-11-13-bermuda-curacao-47230",
+      "matchKey": "2025-11-13-bermuda-curacao",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roshon van Eijma"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

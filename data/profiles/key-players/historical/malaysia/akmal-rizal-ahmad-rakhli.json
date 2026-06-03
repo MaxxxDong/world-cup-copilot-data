@@ -1,0 +1,86 @@
+{
+  "firstGoalDate": "2001-03-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1981-12-12",
+    "nationality": "Malaysia",
+    "playerKey": "akmal-rizal-ahmad-rakhli",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "23049ccd",
+      "footballdatabase_eu": "20872",
+      "national_football_teams": "4117",
+      "soccerway": "10692",
+      "transfermarkt": "69308",
+      "wikidata": "Q2829101"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-03-25",
+  "playerKey": "akmal-rizal-ahmad-rakhli",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-03-25",
+      "goalId": "goal-2001-03-25-malaysia-palestine-20604",
+      "matchKey": "2001-03-25-malaysia-palestine",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Akmal Rizal Ahmad Rakhli"
+    },
+    {
+      "date": "2001-03-25",
+      "goalId": "goal-2001-03-25-malaysia-palestine-20600",
+      "matchKey": "2001-03-25-malaysia-palestine",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akmal Rizal Ahmad Rakhli"
+    },
+    {
+      "date": "2001-03-08",
+      "goalId": "goal-2001-03-08-hong-kong-malaysia-20498",
+      "matchKey": "2001-03-08-hong-kong-malaysia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akmal Rizal Ahmad Rakhli"
+    },
+    {
+      "date": "2001-03-08",
+      "goalId": "goal-2001-03-08-hong-kong-malaysia-20497",
+      "matchKey": "2001-03-08-hong-kong-malaysia",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Akmal Rizal Ahmad Rakhli"
+    }
+  ],
+  "scorer": "Akmal Rizal Ahmad Rakhli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malaysia",
+  "teamName": "Malaysia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

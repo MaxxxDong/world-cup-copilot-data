@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 5,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "french-guiana",
+    "date": "2019-10-13",
+    "homeScore": 1,
+    "homeTeamId": "grenada",
+    "matchId": "int-2019-10-13-grenada-french-guiana",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "french-guiana",
+      "date": "1989-06-30",
+      "homeScore": 0,
+      "homeTeamId": "grenada",
+      "matchId": "int-1989-06-30-grenada-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "french-guiana",
+      "date": "2012-11-14",
+      "homeScore": 1,
+      "homeTeamId": "grenada",
+      "matchId": "int-2012-11-14-grenada-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "french-guiana",
+      "date": "2014-09-03",
+      "homeScore": 1,
+      "homeTeamId": "grenada",
+      "matchId": "int-2014-09-03-grenada-french-guiana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2019-10-10",
+      "homeScore": 0,
+      "homeTeamId": "french-guiana",
+      "matchId": "int-2019-10-10-french-guiana-grenada",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "french-guiana",
+      "date": "2019-10-13",
+      "homeScore": 1,
+      "homeTeamId": "grenada",
+      "matchId": "int-2019-10-13-grenada-french-guiana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "french-guiana__grenada",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 4,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "french-guiana",
+  "teamBId": "grenada"
+}

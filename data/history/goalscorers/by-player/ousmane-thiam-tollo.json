@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guinea",
+      "date": "1970-02-11",
+      "goalId": "goal-1970-02-11-ghana-guinea-5827",
+      "homeTeamId": "ghana",
+      "matchKey": "1970-02-11-ghana-guinea",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ousmane Thiam Tollo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1977-02-27",
+      "goalId": "goal-1977-02-27-guinea-togo-7726",
+      "homeTeamId": "guinea",
+      "matchKey": "1977-02-27-guinea-togo",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ousmane Thiam Tollo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "ousmane thiam tollo",
+  "playerKey": "ousmane-thiam-tollo",
+  "scorer": "Ousmane Thiam Tollo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

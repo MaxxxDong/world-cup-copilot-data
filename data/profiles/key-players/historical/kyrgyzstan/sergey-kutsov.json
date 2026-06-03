@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "1997-06-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1977-04-23",
+    "nationality": "Kyrgyzstan",
+    "playerKey": "sergey-kutsov",
+    "position": "defender",
+    "providerIds": {
+      "footballdatabase_eu": "74087",
+      "national_football_teams": "3662",
+      "soccerway": "35393",
+      "transfermarkt": "79071",
+      "wikidata": "Q9336661"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-13",
+  "playerKey": "sergey-kutsov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-13",
+      "goalId": "goal-1997-06-13-maldives-kyrgyzstan-17339",
+      "matchKey": "1997-06-13-maldives-kyrgyzstan",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov"
+    },
+    {
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-kyrgyzstan-syria-17306",
+      "matchKey": "1997-06-11-kyrgyzstan-syria",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov"
+    },
+    {
+      "date": "1997-06-09",
+      "goalId": "goal-1997-06-09-iran-kyrgyzstan-17266",
+      "matchKey": "1997-06-09-iran-kyrgyzstan",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Kutsov"
+    }
+  ],
+  "scorer": "Sergey Kutsov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

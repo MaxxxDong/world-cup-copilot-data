@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "djibouti",
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-malawi-djibouti-27753",
+      "homeTeamId": "malawi",
+      "matchKey": "2008-05-31-malawi-djibouti",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elvis Kafoteka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "algeria",
+      "date": "2010-01-11",
+      "goalId": "goal-2010-01-11-malawi-algeria-29811",
+      "homeTeamId": "malawi",
+      "matchKey": "2010-01-11-malawi-algeria",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elvis Kafoteka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    }
+  ],
+  "normalizedScorer": "elvis kafoteka",
+  "playerKey": "elvis-kafoteka",
+  "scorer": "Elvis Kafoteka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malawi"
+  ]
+}

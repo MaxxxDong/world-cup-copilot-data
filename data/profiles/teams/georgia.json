@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Georgia"
+  ],
+  "allTime": {
+    "draws": 64,
+    "goalsAgainst": 430,
+    "goalsFor": 380,
+    "losses": 142,
+    "matches": 305,
+    "wins": 99
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 18,
+      "goalsFor": 13,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 29,
+      "goalsFor": 32,
+      "losses": 9,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "georgia",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2026-03-29-lithuania-georgia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-2026-03-26-georgia-israel",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-2025-11-18-bulgaria-georgia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "spain",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "georgia",
+      "matchId": "int-2025-11-15-georgia-spain",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "turkey",
+      "matchId": "int-2025-10-14-turkey-georgia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 39,
+      "goalsAgainst": 274,
+      "goalsFor": 221,
+      "losses": 96,
+      "matches": 192,
+      "wins": 57
+    },
+    "friendly": {
+      "draws": 25,
+      "goalsAgainst": 156,
+      "goalsFor": 159,
+      "losses": 46,
+      "matches": 113,
+      "wins": 42
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 44,
+      "goalsFor": 39,
+      "losses": 15,
+      "matches": 31,
+      "wins": 10
+    },
+    "nonNeutralVenue": {
+      "draws": 58,
+      "goalsAgainst": 386,
+      "goalsFor": 341,
+      "losses": 127,
+      "matches": 274,
+      "wins": 89
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "georgia",
+  "teamName": "Georgia",
+  "topScorers": [
+    {
+      "goals": 19,
+      "playerKey": "khvicha-kvaratskhelia",
+      "scorer": "Khvicha Kvaratskhelia"
+    },
+    {
+      "goals": 19,
+      "playerKey": "shota-arveladze",
+      "scorer": "Shota Arveladze"
+    },
+    {
+      "goals": 15,
+      "playerKey": "georges-mikautadze",
+      "scorer": "Georges Mikautadze"
+    },
+    {
+      "goals": 12,
+      "playerKey": "aleksandr-iashvili",
+      "scorer": "Aleksandr Iashvili"
+    },
+    {
+      "goals": 10,
+      "playerKey": "tornike-okriashvili",
+      "scorer": "Tornike Okriashvili"
+    },
+    {
+      "goals": 10,
+      "playerKey": "valeri-qazaishvili",
+      "scorer": "Valeri Qazaishvili"
+    },
+    {
+      "goals": 9,
+      "playerKey": "temur-ketsbaia",
+      "scorer": "Temur Ketsbaia"
+    },
+    {
+      "goals": 8,
+      "playerKey": "levan-kobiashvili",
+      "scorer": "Levan Kobiashvili"
+    },
+    {
+      "goals": 7,
+      "playerKey": "giorgi-chakvetadze",
+      "scorer": "Giorgi Chakvetadze"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jaba-kankava",
+      "scorer": "Jaba Kankava"
+    }
+  ]
+}

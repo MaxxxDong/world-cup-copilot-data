@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Guinea-Bissau"
+  ],
+  "allTime": {
+    "draws": 44,
+    "goalsAgainst": 280,
+    "goalsFor": 189,
+    "losses": 94,
+    "matches": 190,
+    "wins": 52
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 6,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 29,
+      "goalsFor": 13,
+      "losses": 12,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "guinea-bissau",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2026-03-31-burkina-faso-guinea-bissau",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea-bissau",
+      "date": "2026-03-28",
+      "homeScore": 5,
+      "homeTeamId": "burkina-faso",
+      "matchId": "int-2026-03-28-burkina-faso-guinea-bissau",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea-bissau",
+      "date": "2025-10-12",
+      "homeScore": 1,
+      "homeTeamId": "egypt",
+      "matchId": "int-2025-10-12-egypt-guinea-bissau",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea-bissau",
+      "date": "2025-10-08",
+      "homeScore": 1,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2025-10-08-ethiopia-guinea-bissau",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "djibouti",
+      "date": "2025-09-08",
+      "homeScore": 2,
+      "homeTeamId": "guinea-bissau",
+      "matchId": "int-2025-09-08-guinea-bissau-djibouti",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 39,
+      "goalsAgainst": 217,
+      "goalsFor": 144,
+      "losses": 75,
+      "matches": 153,
+      "wins": 39
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 63,
+      "goalsFor": 45,
+      "losses": 19,
+      "matches": 37,
+      "wins": 13
+    },
+    "neutralVenue": {
+      "draws": 20,
+      "goalsAgainst": 116,
+      "goalsFor": 80,
+      "losses": 39,
+      "matches": 76,
+      "wins": 17
+    },
+    "nonNeutralVenue": {
+      "draws": 24,
+      "goalsAgainst": 164,
+      "goalsFor": 109,
+      "losses": 55,
+      "matches": 114,
+      "wins": 35
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guinea-bissau",
+  "teamName": "Guinea-Bissau",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "joseph-mendes",
+      "scorer": "Joseph Mendes"
+    },
+    {
+      "goals": 4,
+      "playerKey": "mama-bald",
+      "scorer": "Mama Baldé"
+    },
+    {
+      "goals": 3,
+      "playerKey": "piqueti",
+      "scorer": "Piqueti"
+    },
+    {
+      "goals": 2,
+      "playerKey": "pereira-tavares",
+      "scorer": "Pereira Tavares"
+    },
+    {
+      "goals": 1,
+      "playerKey": "amido-bald",
+      "scorer": "Amido Baldé"
+    },
+    {
+      "goals": 1,
+      "playerKey": "basile-de-carvalho",
+      "scorer": "Basile de Carvalho"
+    },
+    {
+      "goals": 1,
+      "playerKey": "cipriano-co",
+      "scorer": "Cipriano Co"
+    },
+    {
+      "goals": 1,
+      "playerKey": "dionisio-fernandes",
+      "scorer": "Dionisio Fernandes"
+    },
+    {
+      "goals": 1,
+      "playerKey": "esteban-obiang",
+      "scorer": "Esteban Obiang"
+    },
+    {
+      "goals": 1,
+      "playerKey": "fali-cand",
+      "scorer": "Fali Candé"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "2024-06-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2004-09-15",
+    "nationality": "New Zealand",
+    "playerKey": "luke-salisbury",
+    "providerIds": {
+      "national_football_teams": "92919",
+      "sofascore": "1875870",
+      "transfermarkt": "1053071",
+      "wikidata": "Q127787780"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-09-09",
+  "playerKey": "luke-salisbury",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-09-09",
+      "goalId": "goal-2024-09-09-samoa-tonga-45314",
+      "matchKey": "2024-09-09-samoa-tonga",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luke Salisbury"
+    },
+    {
+      "date": "2024-06-19",
+      "goalId": "goal-2024-06-19-fiji-samoa-44989",
+      "matchKey": "2024-06-19-fiji-samoa",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luke Salisbury"
+    }
+  ],
+  "scorer": "Luke Salisbury",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

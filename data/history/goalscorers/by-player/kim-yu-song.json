@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-north-korea-iran-45621",
+      "homeTeamId": "north-korea",
+      "matchKey": "2024-11-14-north-korea-iran",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Yu-song",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-qatar-north-korea-45920",
+      "homeTeamId": "qatar",
+      "matchKey": "2025-03-20-qatar-north-korea",
+      "minute": 34,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Kim Yu-song",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-north-korea-united-arab-emirates-46188",
+      "homeTeamId": "north-korea",
+      "matchKey": "2025-03-25-north-korea-united-arab-emirates",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Yu-song",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "kim yu song",
+  "playerKey": "kim-yu-song",
+  "scorer": "Kim Yu-song",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea",
+    "qatar"
+  ]
+}

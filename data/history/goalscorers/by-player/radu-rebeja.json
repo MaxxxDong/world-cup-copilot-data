@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "moldova",
+      "date": "1995-10-08",
+      "goalId": "goal-1995-10-08-germany-moldova-15590",
+      "homeTeamId": "germany",
+      "matchKey": "1995-10-08-germany-moldova",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radu Rebeja",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "2001-09-05",
+      "goalId": "goal-2001-09-05-slovakia-moldova-21849",
+      "homeTeamId": "slovakia",
+      "matchKey": "2001-09-05-slovakia-moldova",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radu Rebeja",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    }
+  ],
+  "normalizedScorer": "radu rebeja",
+  "playerKey": "radu-rebeja",
+  "scorer": "Radu Rebeja",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "moldova"
+  ]
+}

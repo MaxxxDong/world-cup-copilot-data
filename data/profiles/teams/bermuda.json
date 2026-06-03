@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Bermuda"
+  ],
+  "allTime": {
+    "draws": 33,
+    "goalsAgainst": 349,
+    "goalsFor": 325,
+    "losses": 97,
+    "matches": 197,
+    "wins": 67
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 28,
+      "goalsFor": 11,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 58,
+      "goalsFor": 32,
+      "losses": 12,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 18,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "dr-congo",
+      "date": "2026-03-25",
+      "homeScore": 0,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2026-03-25-bermuda-dr-congo",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bermuda",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "trinidad-and-tobago",
+      "matchId": "int-2025-11-18-trinidad-and-tobago-bermuda",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "curacao",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2025-11-13-bermuda-curacao",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bermuda",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "jamaica",
+      "matchId": "int-2025-10-14-jamaica-bermuda",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2025-10-10",
+      "homeScore": 0,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2025-10-10-bermuda-trinidad-and-tobago",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 19,
+      "goalsAgainst": 211,
+      "goalsFor": 244,
+      "losses": 57,
+      "matches": 123,
+      "wins": 47
+    },
+    "friendly": {
+      "draws": 14,
+      "goalsAgainst": 138,
+      "goalsFor": 81,
+      "losses": 40,
+      "matches": 74,
+      "wins": 20
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 60,
+      "goalsFor": 60,
+      "losses": 20,
+      "matches": 32,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 289,
+      "goalsFor": 265,
+      "losses": 77,
+      "matches": 165,
+      "wins": 56
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bermuda",
+  "teamName": "Bermuda",
+  "topScorers": [
+    {
+      "goals": 12,
+      "playerKey": "john-barry-nusum",
+      "scorer": "John Barry Nusum"
+    },
+    {
+      "goals": 10,
+      "playerKey": "shaun-goater",
+      "scorer": "Shaun Goater"
+    },
+    {
+      "goals": 7,
+      "playerKey": "nahki-wells",
+      "scorer": "Nahki Wells"
+    },
+    {
+      "goals": 6,
+      "playerKey": "khano-smith",
+      "scorer": "Khano Smith"
+    },
+    {
+      "goals": 4,
+      "playerKey": "damon-ming",
+      "scorer": "Damon Ming"
+    },
+    {
+      "goals": 4,
+      "playerKey": "djair-parfitt",
+      "scorer": "Djair Parfitt"
+    },
+    {
+      "goals": 4,
+      "playerKey": "kane-crichlow",
+      "scorer": "Kane Crichlow"
+    },
+    {
+      "goals": 4,
+      "playerKey": "shannon-burgess",
+      "scorer": "Shannon Burgess"
+    },
+    {
+      "goals": 3,
+      "playerKey": "dante-leverock",
+      "scorer": "Dante Leverock"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ralph-bean",
+      "scorer": "Ralph Bean"
+    }
+  ]
+}

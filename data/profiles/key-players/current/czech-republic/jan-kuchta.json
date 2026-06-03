@@ -1,0 +1,95 @@
+{
+  "club": "AC Sparta Praha (CZE)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1997-01-08",
+    "nationality": "Czech Republic",
+    "playerKey": "jan-kuchta",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "66340",
+      "capology": "jan-kuchta-35438",
+      "espn": "306008",
+      "eu_football_info": "31707",
+      "fbref": "4bce9c16",
+      "footballdatabase_eu": "278879",
+      "heimspiel": "374138",
+      "impect": "3065",
+      "kicker": "jan-kuchta",
+      "national_football_teams": "84242",
+      "opta": "10esz9pvzonegry7p78n3ce09",
+      "skillcorner": "32651",
+      "soccerway": "424988",
+      "sofascore": "824139",
+      "thesportsdb": "34177785",
+      "transfermarkt": "334802",
+      "wikidata": "Q45045358",
+      "worldfootball": "jan-kuchta",
+      "wyscout": "402691"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jan Kuchta",
+  "playerKey": "jan-kuchta",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-03-24",
+      "goalId": "goal-2023-03-24-czech-republic-poland-43095",
+      "matchKey": "2023-03-24-czech-republic-poland",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta"
+    },
+    {
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-czech-republic-spain-42541",
+      "matchKey": "2022-06-05-czech-republic-spain",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta"
+    },
+    {
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-czech-republic-switzerland-42480",
+      "matchKey": "2022-06-02-czech-republic-switzerland",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=15"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=15"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "czech-republic",
+  "teamName": "Czech Republic"
+}

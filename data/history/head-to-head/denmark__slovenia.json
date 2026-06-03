@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 15,
+    "teamAWins": 5,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "denmark",
+    "date": "2024-06-16",
+    "homeScore": 1,
+    "homeTeamId": "slovenia",
+    "matchId": "int-2024-06-16-slovenia-denmark",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "1996-09-01",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-1996-09-01-slovenia-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "1997-04-30",
+      "homeScore": 4,
+      "homeTeamId": "denmark",
+      "matchId": "int-1997-04-30-denmark-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "2001-04-25",
+      "homeScore": 3,
+      "homeTeamId": "denmark",
+      "matchId": "int-2001-04-25-denmark-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "2008-02-06",
+      "homeScore": 1,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2008-02-06-slovenia-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "denmark",
+      "date": "2023-06-19",
+      "homeScore": 1,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2023-06-19-slovenia-denmark",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovenia",
+      "date": "2023-11-17",
+      "homeScore": 2,
+      "homeTeamId": "denmark",
+      "matchId": "int-2023-11-17-denmark-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "denmark",
+      "date": "2024-06-16",
+      "homeScore": 1,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2024-06-16-slovenia-denmark",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    }
+  ],
+  "pairKey": "denmark__slovenia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 14,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "denmark",
+  "teamBId": "slovenia"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1980-12-20",
+      "goalId": "goal-1980-12-20-tanzania-nigeria-9115",
+      "homeTeamId": "tanzania",
+      "matchKey": "1980-12-20-tanzania-nigeria",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Chiedozie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1981-04-12",
+      "goalId": "goal-1981-04-12-guinea-nigeria-9215",
+      "homeTeamId": "guinea",
+      "matchKey": "1981-04-12-guinea-nigeria",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Chiedozie",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "john chiedozie",
+  "playerKey": "john-chiedozie",
+  "scorer": "John Chiedozie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

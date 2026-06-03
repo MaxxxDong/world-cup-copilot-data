@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 10,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 23,
+    "teamBWins": 8
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "estonia",
+    "date": "2024-03-21",
+    "homeScore": 5,
+    "homeTeamId": "poland",
+    "matchId": "int-2024-03-21-poland-estonia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "poland",
+      "date": "1923-09-25",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-1923-09-25-estonia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "poland",
+      "date": "1925-09-02",
+      "homeScore": 0,
+      "homeTeamId": "estonia",
+      "matchId": "int-1925-09-02-estonia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "1926-07-04",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-1926-07-04-poland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2002-05-18",
+      "homeScore": 1,
+      "homeTeamId": "poland",
+      "matchId": "int-2002-05-18-poland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "2003-08-20",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2003-08-20-estonia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2005-11-16",
+      "homeScore": 3,
+      "homeTeamId": "poland",
+      "matchId": "int-2005-11-16-poland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2007-02-03",
+      "homeScore": 4,
+      "homeTeamId": "poland",
+      "matchId": "int-2007-02-03-poland-estonia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "estonia",
+      "date": "2008-02-27",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-2008-02-27-poland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "poland",
+      "date": "2012-08-15",
+      "homeScore": 1,
+      "homeTeamId": "estonia",
+      "matchId": "int-2012-08-15-estonia-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "estonia",
+      "date": "2024-03-21",
+      "homeScore": 5,
+      "homeTeamId": "poland",
+      "matchId": "int-2024-03-21-poland-estonia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "estonia__poland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 9,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 18,
+      "teamBWins": 7
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 9,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 19,
+      "teamBWins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "estonia",
+  "teamBId": "poland"
+}

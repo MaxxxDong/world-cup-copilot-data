@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-07-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-01-19",
+    "nationality": "Libya",
+    "playerKey": "nader-kara",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "8480",
+      "national_football_teams": "3862",
+      "soccerway": "60601",
+      "transfermarkt": "81229",
+      "wikidata": "Q4118217"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-10-08",
+  "playerKey": "nader-kara",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-10-08",
+      "goalId": "goal-2004-10-08-libya-egypt-24529",
+      "matchKey": "2004-10-08-libya-egypt",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nader Kara"
+    },
+    {
+      "date": "2004-09-03",
+      "goalId": "goal-2004-09-03-libya-benin-24259",
+      "matchKey": "2004-09-03-libya-benin",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nader Kara"
+    },
+    {
+      "date": "2004-07-03",
+      "goalId": "goal-2004-07-03-sudan-libya-24041",
+      "matchKey": "2004-07-03-sudan-libya",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nader Kara"
+    }
+  ],
+  "scorer": "Nader Kara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

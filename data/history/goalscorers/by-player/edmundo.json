@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1993-06-24",
+      "goalId": "goal-1993-06-24-bra-paraguay-14299",
+      "homeTeamId": "bra",
+      "matchKey": "1993-06-24-bra-paraguay",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edmundo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1995-07-10",
+      "goalId": "goal-1995-07-10-bra-peru-15430",
+      "homeTeamId": "bra",
+      "matchKey": "1995-07-10-bra-peru",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edmundo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1995-07-17",
+      "goalId": "goal-1995-07-17-bra-arg-15463",
+      "homeTeamId": "bra",
+      "matchKey": "1995-07-17-bra-arg",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edmundo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "edmundo",
+  "playerKey": "edmundo",
+  "scorer": "Edmundo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

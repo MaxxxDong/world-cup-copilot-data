@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 6,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "liechtenstein",
+    "date": "2021-09-08",
+    "homeScore": 1,
+    "homeTeamId": "armenia",
+    "matchId": "int-2021-09-08-armenia-liechtenstein",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "liechtenstein",
+      "date": "2018-09-06",
+      "homeScore": 2,
+      "homeTeamId": "armenia",
+      "matchId": "int-2018-09-06-armenia-liechtenstein",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "armenia",
+      "date": "2018-11-19",
+      "homeScore": 2,
+      "homeTeamId": "liechtenstein",
+      "matchId": "int-2018-11-19-liechtenstein-armenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liechtenstein",
+      "date": "2019-06-08",
+      "homeScore": 3,
+      "homeTeamId": "armenia",
+      "matchId": "int-2019-06-08-armenia-liechtenstein",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "armenia",
+      "date": "2019-10-12",
+      "homeScore": 1,
+      "homeTeamId": "liechtenstein",
+      "matchId": "int-2019-10-12-liechtenstein-armenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "armenia",
+      "date": "2021-03-25",
+      "homeScore": 0,
+      "homeTeamId": "liechtenstein",
+      "matchId": "int-2021-03-25-liechtenstein-armenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "liechtenstein",
+      "date": "2021-09-08",
+      "homeScore": 1,
+      "homeTeamId": "armenia",
+      "matchId": "int-2021-09-08-armenia-liechtenstein",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "armenia__liechtenstein",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 6,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "armenia",
+  "teamBId": "liechtenstein"
+}

@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2009-03-28",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1988-07-23",
+    "fullName": "Mudather Altayeb Ibrahim Mohamed",
+    "nationality": "Sudan",
+    "playerKey": "mudather-el-tahir",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "38056",
+      "kicker": "mudathir-el-tahir",
+      "national_football_teams": "26700",
+      "sofifa": "297347",
+      "transfermarkt": "80413",
+      "wikidata": "Q3115482"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-06-07",
+  "playerKey": "mudather-el-tahir",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-06-07",
+      "goalId": "goal-2013-06-07-sudan-ghana-32811",
+      "matchKey": "2013-06-07-sudan-ghana",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mudather El Tahir"
+    },
+    {
+      "date": "2012-01-30",
+      "goalId": "goal-2012-01-30-sudan-burkina-faso-31651",
+      "matchKey": "2012-01-30-sudan-burkina-faso",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mudather El Tahir"
+    },
+    {
+      "date": "2012-01-30",
+      "goalId": "goal-2012-01-30-sudan-burkina-faso-31650",
+      "matchKey": "2012-01-30-sudan-burkina-faso",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mudather El Tahir"
+    },
+    {
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-sudan-mali-28936",
+      "matchKey": "2009-03-28-sudan-mali",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mudather El Tahir"
+    }
+  ],
+  "scorer": "Mudather El Tahir",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sudan",
+  "teamName": "Sudan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

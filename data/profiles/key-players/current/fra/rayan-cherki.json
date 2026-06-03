@@ -1,0 +1,83 @@
+{
+  "club": "Manchester City FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2003-08-17",
+    "nationality": "Algeria",
+    "playerKey": "rayan-cherki",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "156477",
+      "espn": "298008",
+      "eu_football_info": "33098",
+      "fbref": "b34c63a5",
+      "fff_fr": "8198-cherki-rayan",
+      "footballdatabase_eu": "364463",
+      "heimspiel": "567790",
+      "impect": "45967",
+      "kicker": "rayan-cherki",
+      "lequipe": "76664",
+      "national_football_teams": "99816",
+      "opta": "1ehcji0j9s8b0qsj8v5zinjvu",
+      "opta_numeric": "466052",
+      "skillcorner": "24234",
+      "soccerbase": "126129",
+      "soccerway": "559939",
+      "sofascore": "979128",
+      "sportmonks": "21072805",
+      "transfermarkt": "607223",
+      "uefa": "250124063",
+      "understat": "8094",
+      "whoscored": "386153",
+      "wikidata": "Q64736321",
+      "worldfootball": "rayan-cherki",
+      "wyscout": "582972"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Rayan Cherki",
+  "playerKey": "rayan-cherki",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-spain-fra-46256",
+      "matchKey": "2025-06-05-spain-fra",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rayan Cherki"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=19"
+  },
+  "shirtNumber": 24,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=19"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "fra",
+  "teamName": "France"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2017-11-11",
+      "goalId": "goal-2017-11-11-zambia-cameroon-37511",
+      "homeTeamId": "zambia",
+      "matchKey": "2017-11-11-zambia-cameroon",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Banana Yaya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "guinea-bissau",
+      "date": "2019-06-25",
+      "goalId": "goal-2019-06-25-cameroon-guinea-bissau-38667",
+      "homeTeamId": "cameroon",
+      "matchKey": "2019-06-25-cameroon-guinea-bissau",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Banana Yaya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "banana yaya",
+  "playerKey": "banana-yaya",
+  "scorer": "Banana Yaya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

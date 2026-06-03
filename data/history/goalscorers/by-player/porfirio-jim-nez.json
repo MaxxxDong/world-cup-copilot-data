@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1977-02-27",
+      "goalId": "goal-1977-02-27-bolivia-uruguay-7718",
+      "homeTeamId": "bolivia",
+      "matchKey": "1977-02-27-bolivia-uruguay",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Porfirio Jiménez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1977-03-06",
+      "goalId": "goal-1977-03-06-venezuela-bolivia-7768",
+      "homeTeamId": "venezuela",
+      "matchKey": "1977-03-06-venezuela-bolivia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Porfirio Jiménez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1977-03-13",
+      "goalId": "goal-1977-03-13-bolivia-venezuela-7800",
+      "homeTeamId": "bolivia",
+      "matchKey": "1977-03-13-bolivia-venezuela",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Porfirio Jiménez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "porfirio jim nez",
+  "playerKey": "porfirio-jim-nez",
+  "scorer": "Porfirio Jiménez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

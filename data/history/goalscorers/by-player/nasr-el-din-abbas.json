@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sudan",
+      "date": "1969-09-13",
+      "goalId": "goal-1969-09-13-nigeria-sudan-5600",
+      "homeTeamId": "nigeria",
+      "matchKey": "1969-09-13-nigeria-sudan",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nasr El-Din Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1969-10-03",
+      "goalId": "goal-1969-10-03-sudan-nigeria-5623",
+      "homeTeamId": "sudan",
+      "matchKey": "1969-10-03-sudan-nigeria",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nasr El-Din Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "nasr el din abbas",
+  "playerKey": "nasr-el-din-abbas",
+  "scorer": "Nasr El-Din Abbas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

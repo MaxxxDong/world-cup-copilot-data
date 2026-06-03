@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2004-10-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "playerKey": "emmanuel-chipatala",
+    "providerIds": {
+      "national_football_teams": "4112",
+      "wikidata": "Q130323701"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-06-04",
+  "playerKey": "emmanuel-chipatala",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-mar-malawi-25244",
+      "matchKey": "2005-06-04-mar-malawi",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Chipatala"
+    },
+    {
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-malawi-tunisia-24594",
+      "matchKey": "2004-10-09-malawi-tunisia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Chipatala"
+    }
+  ],
+  "scorer": "Emmanuel Chipatala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malawi",
+  "teamName": "Malawi",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

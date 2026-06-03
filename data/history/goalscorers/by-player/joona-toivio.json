@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-finland-sweden-31155",
+      "homeTeamId": "finland",
+      "matchKey": "2011-10-07-finland-sweden",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joona Toivio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-fra-finland-33455",
+      "homeTeamId": "fra",
+      "matchKey": "2013-10-15-fra-finland",
+      "minute": 75,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Joona Toivio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "joona toivio",
+  "playerKey": "joona-toivio",
+  "scorer": "Joona Toivio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland",
+    "fra"
+  ]
+}

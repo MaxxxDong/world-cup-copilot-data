@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "2005-09-04",
+      "goalId": "goal-2005-09-04-angola-gabon-25692",
+      "homeTeamId": "angola",
+      "matchKey": "2005-09-04-angola-gabon",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mantorras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    },
+    {
+      "awayTeamId": "angola",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-uganda-angola-28029",
+      "homeTeamId": "uganda",
+      "matchKey": "2008-06-14-uganda-angola",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mantorras",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    }
+  ],
+  "normalizedScorer": "mantorras",
+  "playerKey": "mantorras",
+  "scorer": "Mantorras",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "angola"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "aliases": [
+    "Central Spain"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 4,
+    "goalsFor": 2,
+    "losses": 1,
+    "matches": 2,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "galicia",
+      "date": "1923-11-25",
+      "homeScore": 1,
+      "homeTeamId": "central-spain",
+      "matchId": "int-1923-11-25-central-spain-galicia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "central-spain",
+      "date": "1922-11-19",
+      "homeScore": 4,
+      "homeTeamId": "galicia",
+      "matchId": "int-1922-11-19-galicia-central-spain",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "central-spain",
+  "teamName": "Central Spain",
+  "topScorers": []
+}

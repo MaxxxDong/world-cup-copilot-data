@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Croatia",
+    "CRO",
+    "Vatreni"
+  ],
+  "allTime": {
+    "draws": 104,
+    "goalsAgainst": 397,
+    "goalsFor": 686,
+    "losses": 82,
+    "matches": 394,
+    "wins": 208
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "CRO",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 29,
+      "losses": 1,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 21,
+      "goalsFor": 42,
+      "losses": 4,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 12,
+      "losses": 1,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "2026-03-31",
+      "homeScore": 3,
+      "homeTeamId": "bra",
+      "matchId": "int-2026-03-31-bra-croatia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "croatia",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "colombia",
+      "matchId": "int-2026-03-26-colombia-croatia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "croatia",
+      "date": "2025-11-17",
+      "homeScore": 2,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2025-11-17-montenegro-croatia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "faroe-islands",
+      "date": "2025-11-14",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-2025-11-14-croatia-faroe-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gibraltar",
+      "date": "2025-10-12",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-2025-10-12-croatia-gibraltar",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 65,
+      "goalsAgainst": 232,
+      "goalsFor": 434,
+      "losses": 50,
+      "matches": 250,
+      "wins": 135
+    },
+    "friendly": {
+      "draws": 39,
+      "goalsAgainst": 165,
+      "goalsFor": 252,
+      "losses": 32,
+      "matches": 144,
+      "wins": 73
+    },
+    "neutralVenue": {
+      "draws": 22,
+      "goalsAgainst": 86,
+      "goalsFor": 111,
+      "losses": 22,
+      "matches": 75,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 82,
+      "goalsAgainst": 311,
+      "goalsFor": 575,
+      "losses": 60,
+      "matches": 319,
+      "wins": 177
+    },
+    "worldCup": {
+      "draws": 8,
+      "goalsAgainst": 33,
+      "goalsFor": 43,
+      "losses": 9,
+      "matches": 30,
+      "wins": 13
+    }
+  },
+  "teamId": "croatia",
+  "teamName": "Croatia",
+  "topScorers": [
+    {
+      "goals": 31,
+      "playerKey": "davor-uker",
+      "scorer": "Davor Šuker"
+    },
+    {
+      "goals": 30,
+      "playerKey": "ivan-peri-i",
+      "scorer": "Ivan Perišić"
+    },
+    {
+      "goals": 28,
+      "playerKey": "andrej-kramari",
+      "scorer": "Andrej Kramarić"
+    },
+    {
+      "goals": 24,
+      "playerKey": "luka-modri",
+      "scorer": "Luka Modrić"
+    },
+    {
+      "goals": 22,
+      "playerKey": "mario-mand-uki",
+      "scorer": "Mario Mandžukić"
+    },
+    {
+      "goals": 18,
+      "playerKey": "eduardo-da-silva",
+      "scorer": "Eduardo da Silva"
+    },
+    {
+      "goals": 13,
+      "playerKey": "darijo-srna",
+      "scorer": "Darijo Srna"
+    },
+    {
+      "goals": 12,
+      "playerKey": "ivica-oli",
+      "scorer": "Ivica Olić"
+    },
+    {
+      "goals": 10,
+      "playerKey": "mladen-petri",
+      "scorer": "Mladen Petrić"
+    },
+    {
+      "goals": 10,
+      "playerKey": "niko-kranj-ar",
+      "scorer": "Niko Kranjčar"
+    }
+  ]
+}

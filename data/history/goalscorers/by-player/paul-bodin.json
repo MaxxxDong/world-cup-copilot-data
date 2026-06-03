@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1991-10-16",
+      "goalId": "goal-1991-10-16-germany-wales-12985",
+      "homeTeamId": "germany",
+      "matchKey": "1991-10-16-germany-wales",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paul Bodin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1991-11-13",
+      "goalId": "goal-1991-11-13-wales-luxembourg-13023",
+      "homeTeamId": "wales",
+      "matchKey": "1991-11-13-wales-luxembourg",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paul Bodin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "paul bodin",
+  "playerKey": "paul-bodin",
+  "scorer": "Paul Bodin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

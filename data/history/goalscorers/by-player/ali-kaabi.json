@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "1977-02-06",
+      "goalId": "goal-1977-02-06-tunisia-algeria-7704",
+      "homeTeamId": "tunisia",
+      "matchKey": "1977-02-06-tunisia-algeria",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Kaabi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1978-03-06",
+      "goalId": "goal-1978-03-06-mar-tunisia-8189",
+      "homeTeamId": "mar",
+      "matchKey": "1978-03-06-mar-tunisia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Kaabi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1978-06-02",
+      "goalId": "goal-1978-06-02-mex-tunisia-8227",
+      "homeTeamId": "mex",
+      "matchKey": "1978-06-02-mex-tunisia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Kaabi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    }
+  ],
+  "normalizedScorer": "ali kaabi",
+  "playerKey": "ali-kaabi",
+  "scorer": "Ali Kaabi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tunisia"
+  ]
+}

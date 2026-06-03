@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belarus",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-belgium-belarus-40312",
+      "homeTeamId": "belgium",
+      "matchKey": "2021-03-30-belgium-belarus",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Praet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-belarus-belgium-41412",
+      "homeTeamId": "belarus",
+      "matchKey": "2021-09-08-belarus-belgium",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dennis Praet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "dennis praet",
+  "playerKey": "dennis-praet",
+  "scorer": "Dennis Praet",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

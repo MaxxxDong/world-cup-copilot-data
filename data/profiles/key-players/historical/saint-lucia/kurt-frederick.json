@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2011-07-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1991-04-27",
+    "nationality": "Saint Lucia",
+    "playerKey": "kurt-frederick",
+    "position": "full-back",
+    "providerIds": {
+      "fbref": "2b4cd65d",
+      "footballdatabase_eu": "119814",
+      "impect": "18303",
+      "national_football_teams": "40317",
+      "soccerway": "159261",
+      "sofifa": "345681",
+      "transfermarkt": "154179",
+      "wikidata": "Q3200580"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-14",
+  "playerKey": "kurt-frederick",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-14",
+      "goalId": "goal-2015-06-14-antigua-and-barbuda-saint-lucia-34449",
+      "matchKey": "2015-06-14-antigua-and-barbuda-saint-lucia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kurt Frederick"
+    },
+    {
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30700",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kurt Frederick"
+    }
+  ],
+  "scorer": "Kurt Frederick",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-lucia",
+  "teamName": "Saint Lucia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

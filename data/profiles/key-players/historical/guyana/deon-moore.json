@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1999-05-14",
+    "playerKey": "deon-moore",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "20204",
+      "espn": "243064",
+      "fbref": "42a272a4",
+      "footballdatabase_eu": "301457",
+      "heimspiel": "469372",
+      "impect": "199834",
+      "opta": "9jdtg77v9a4mgc7qiiza0ao6h",
+      "skillcorner": "686444",
+      "soccerbase": "95778",
+      "soccerway": "457443",
+      "sofascore": "848770",
+      "thesportsdb": "34234402",
+      "transfermarkt": "457132",
+      "wikidata": "Q27662494",
+      "wyscout": "454370"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-11",
+  "playerKey": "deon-moore",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-guyana-belize-44849",
+      "matchKey": "2024-06-11-guyana-belize",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deon Moore"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-guyana-belize-44847",
+      "matchKey": "2024-06-11-guyana-belize",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deon Moore"
+    }
+  ],
+  "scorer": "Deon Moore",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

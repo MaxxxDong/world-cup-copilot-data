@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2016-09-06",
+      "goalId": "goal-2016-09-06-peru-ecuador-36120",
+      "homeTeamId": "peru",
+      "matchKey": "2016-09-06-peru-ecuador",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renato Tapia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2020-10-13",
+      "goalId": "goal-2020-10-13-peru-bra-39843",
+      "homeTeamId": "peru",
+      "matchKey": "2020-10-13-peru-bra",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renato Tapia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2021-06-23",
+      "goalId": "goal-2021-06-23-ecuador-peru-40901",
+      "homeTeamId": "ecuador",
+      "matchKey": "2021-06-23-ecuador-peru",
+      "minute": 23,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Renato Tapia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-peru-uruguay-41196",
+      "homeTeamId": "peru",
+      "matchKey": "2021-09-02-peru-uruguay",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renato Tapia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "renato tapia",
+  "playerKey": "renato-tapia",
+  "scorer": "Renato Tapia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador",
+    "peru"
+  ]
+}

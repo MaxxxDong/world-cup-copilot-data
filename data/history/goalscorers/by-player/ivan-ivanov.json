@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-switzerland-bulgaria-31076",
+      "homeTeamId": "switzerland",
+      "matchKey": "2011-09-06-switzerland-bulgaria",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ivan Ivanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-bulgaria-malta-32564",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2013-03-22-bulgaria-malta",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ivan Ivanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "ivan ivanov",
+  "playerKey": "ivan-ivanov",
+  "scorer": "Ivan Ivanov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "2009-09-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1984-09-26",
+    "nationality": "Liechtenstein",
+    "playerKey": "michele-polverino",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "25041",
+      "fbref": "a1e06978",
+      "footballdatabase_eu": "20114",
+      "kicker": "michele-polverino",
+      "national_football_teams": "22844",
+      "sofascore": "23322",
+      "transfermarkt": "19863",
+      "uefa": "71764",
+      "wikidata": "Q715517",
+      "worldfootball": "michele-polverino"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-03-22",
+  "playerKey": "michele-polverino",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-liechtenstein-latvia-32598",
+      "matchKey": "2013-03-22-liechtenstein-latvia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michele Polverino"
+    },
+    {
+      "date": "2011-06-03",
+      "goalId": "goal-2011-06-03-liechtenstein-lithuania-30447",
+      "matchKey": "2011-06-03-liechtenstein-lithuania",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michele Polverino"
+    },
+    {
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-liechtenstein-finland-29517",
+      "matchKey": "2009-09-09-liechtenstein-finland",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michele Polverino"
+    }
+  ],
+  "scorer": "Michele Polverino",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liechtenstein",
+  "teamName": "Liechtenstein",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

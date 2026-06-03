@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "cameroon",
+      "date": "2001-05-31",
+      "goalId": "goal-2001-05-31-bra-cameroon-21242",
+      "homeTeamId": "bra",
+      "matchKey": "2001-05-31-bra-cameroon",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Washington",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "washington",
+  "playerKey": "washington",
+  "scorer": "Washington",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "club": "Samsunspor (TUR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1996-01-23",
+    "nationality": "Senegal",
+    "playerKey": "cherif-ndiaye",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "14379",
+      "capology": "cherif-ndiaye-35087",
+      "espn": "251924",
+      "fbref": "858a54c3",
+      "footballdatabase_eu": "313102",
+      "heimspiel": "483552",
+      "impect": "15521",
+      "kicker": "cherif-ndiaye",
+      "opta": "4i0lhae9ggu7xzxg8on35qy95",
+      "skillcorner": "14739",
+      "soccerbase": "100838",
+      "soccerway": "472211",
+      "sofascore": "868268",
+      "thesportsdb": "34220752",
+      "transfermarkt": "480705",
+      "uefa": "250187238",
+      "wikidata": "Q28811942",
+      "worldfootball": "cherif-ndiaye",
+      "wyscout": "489447"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Cherif Ndiaye",
+  "playerKey": "cherif-ndiaye",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-30",
+      "goalId": "goal-2025-12-30-benin-senegal-47498",
+      "matchKey": "2025-12-30-benin-senegal",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Cherif Ndiaye"
+    },
+    {
+      "date": "2025-12-23",
+      "goalId": "goal-2025-12-23-senegal-botswana-47451",
+      "matchKey": "2025-12-23-senegal-botswana",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cherif Ndiaye"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-south-sudan-senegal-47024",
+      "matchKey": "2025-10-10-south-sudan-senegal",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cherif Ndiaye"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+  },
+  "shirtNumber": 12,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "senegal",
+  "teamName": "Senegal"
+}

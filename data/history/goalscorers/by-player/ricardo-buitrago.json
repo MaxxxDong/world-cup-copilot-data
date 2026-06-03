@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-dominica-panama-31146",
+      "homeTeamId": "dominica",
+      "matchKey": "2011-10-07-dominica-panama",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Buitrago",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "dominica",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-panama-dominica-31547",
+      "homeTeamId": "panama",
+      "matchKey": "2011-11-15-panama-dominica",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Buitrago",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "ricardo buitrago",
+  "playerKey": "ricardo-buitrago",
+  "scorer": "Ricardo Buitrago",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "panama"
+  ]
+}

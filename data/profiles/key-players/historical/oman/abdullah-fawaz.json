@@ -1,0 +1,107 @@
+{
+  "firstGoalDate": "2021-06-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 6,
+  "identity": {
+    "dateOfBirth": "1996-10-03",
+    "nationality": "Oman",
+    "playerKey": "abdullah-fawaz",
+    "position": "central midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "250525",
+      "impect": "79857",
+      "kicker": "abdullah-fawaz-arfah",
+      "national_football_teams": "68111",
+      "soccerway": "383159",
+      "sofascore": "901310",
+      "transfermarkt": "560999",
+      "wikidata": "Q107739477",
+      "wyscout": "349838"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-10-10",
+  "playerKey": "abdullah-fawaz",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-oman-kuwait-45426",
+      "matchKey": "2024-10-10-oman-kuwait",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "date": "2022-03-29",
+      "goalId": "goal-2022-03-29-oman-china-pr-42440",
+      "matchKey": "2022-03-29-oman-china-pr",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-oman-australia-42289",
+      "matchKey": "2022-02-01-oman-australia",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-oman-australia-42287",
+      "matchKey": "2022-02-01-oman-australia",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-afghanistan-oman-40694",
+      "matchKey": "2021-06-11-afghanistan-oman",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Fawaz"
+    },
+    {
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-afghanistan-oman-40692",
+      "matchKey": "2021-06-11-afghanistan-oman",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Fawaz"
+    }
+  ],
+  "scorer": "Abdullah Fawaz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "oman",
+  "teamName": "Oman",
+  "tournaments": [
+    {
+      "goals": 6,
+      "tournament": "unknown"
+    }
+  ]
+}

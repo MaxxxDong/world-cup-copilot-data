@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1924-05-27",
+      "goalId": "goal-1924-05-27-netherlands-romania-179",
+      "homeTeamId": "netherlands",
+      "matchKey": "1924-05-27-netherlands-romania",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Johannes de Natris",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "johannes de natris",
+  "playerKey": "johannes-de-natris",
+  "scorer": "Johannes de Natris",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2015-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-04-11",
+    "nationality": "Barbados",
+    "playerKey": "jabarry-chandler",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "3f3bfe6d",
+      "footballdatabase_eu": "229305",
+      "national_football_teams": "54709",
+      "soccerway": "136725",
+      "transfermarkt": "315123",
+      "wikidata": "Q19876995"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-03-26",
+  "playerKey": "jabarry-chandler",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-03-26",
+      "goalId": "goal-2015-03-26-united-states-virgin-islands-barbados-34239",
+      "matchKey": "2015-03-26-united-states-virgin-islands-barbados",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jabarry Chandler"
+    }
+  ],
+  "scorer": "Jabarry Chandler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "barbados",
+  "teamName": "Barbados",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

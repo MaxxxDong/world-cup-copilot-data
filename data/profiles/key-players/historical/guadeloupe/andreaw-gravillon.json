@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2023-07-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1998-02-08",
+    "nationality": "France",
+    "playerKey": "andreaw-gravillon",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "31483",
+      "fbref": "49136c42",
+      "footballdatabase_eu": "322708",
+      "heimspiel": "428545",
+      "impect": "21829",
+      "kicker": "andrew-gravillon",
+      "lequipe": "58671",
+      "national_football_teams": "87675",
+      "opta": "9p5jc07qnxrzpcmnh1cp6b3l5",
+      "skillcorner": "19786",
+      "soccerway": "431483",
+      "sofascore": "827934",
+      "thesportsdb": "34164466",
+      "transfermarkt": "395083",
+      "uefa": "250187455",
+      "wikidata": "Q42316627",
+      "wyscout": "412914"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-07-04",
+  "playerKey": "andreaw-gravillon",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-guadeloupe-guatemala-43411",
+      "matchKey": "2023-07-04-guadeloupe-guatemala",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andreaw Gravillon"
+    }
+  ],
+  "scorer": "Andreaw Gravillon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

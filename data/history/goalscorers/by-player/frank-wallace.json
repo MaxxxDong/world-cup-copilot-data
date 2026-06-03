@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1949-09-14",
+      "goalId": "goal-1949-09-14-cuba-usa-1752",
+      "homeTeamId": "cuba",
+      "matchKey": "1949-09-14-cuba-usa",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Wallace",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "1949-09-21",
+      "goalId": "goal-1949-09-21-usa-cuba-1779",
+      "homeTeamId": "usa",
+      "matchKey": "1949-09-21-usa-cuba",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Wallace",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "1950-07-02",
+      "goalId": "goal-1950-07-02-chile-usa-1891",
+      "homeTeamId": "chile",
+      "matchKey": "1950-07-02-chile-usa",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Wallace",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "frank wallace",
+  "playerKey": "frank-wallace",
+  "scorer": "Frank Wallace",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

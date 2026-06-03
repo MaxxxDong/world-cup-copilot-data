@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "1993-05-01",
+      "goalId": "goal-1993-05-01-macau-saudi-arabia-13940",
+      "homeTeamId": "macau",
+      "matchKey": "1993-05-01-macau-saudi-arabia",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Al-Dosari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "bangladesh",
+      "date": "1997-03-27",
+      "goalId": "goal-1997-03-27-saudi-arabia-bangladesh-16813",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "1997-03-27-saudi-arabia-bangladesh",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdullah Al-Dosari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "abdullah al dosari",
+  "playerKey": "abdullah-al-dosari",
+  "scorer": "Abdullah Al-Dosari",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

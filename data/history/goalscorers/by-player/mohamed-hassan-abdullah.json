@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "pakistan",
+      "date": "1993-05-24",
+      "goalId": "goal-1993-05-24-yemen-pakistan-14110",
+      "homeTeamId": "yemen",
+      "matchKey": "1993-05-24-yemen-pakistan",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Hassan Abdullah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    },
+    {
+      "awayTeamId": "yemen",
+      "date": "1993-06-14",
+      "goalId": "goal-1993-06-14-pakistan-yemen-14223",
+      "homeTeamId": "pakistan",
+      "matchKey": "1993-06-14-pakistan-yemen",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Hassan Abdullah",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yemen"
+    }
+  ],
+  "normalizedScorer": "mohamed hassan abdullah",
+  "playerKey": "mohamed-hassan-abdullah",
+  "scorer": "Mohamed Hassan Abdullah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yemen"
+  ]
+}

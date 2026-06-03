@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "2017-07-15",
+      "goalId": "goal-2017-07-15-panama-martinique-36963",
+      "homeTeamId": "panama",
+      "matchKey": "2017-07-15-panama-martinique",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Amir Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2021-10-13",
+      "goalId": "goal-2021-10-13-canada-panama-41788",
+      "homeTeamId": "canada",
+      "matchKey": "2021-10-13-canada-panama",
+      "minute": 28,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Michael Amir Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2023-06-30",
+      "goalId": "goal-2023-06-30-martinique-panama-43373",
+      "homeTeamId": "martinique",
+      "matchKey": "2023-06-30-martinique-panama",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Amir Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2024-06-23",
+      "goalId": "goal-2024-06-23-uruguay-panama-45043",
+      "homeTeamId": "uruguay",
+      "matchKey": "2024-06-23-uruguay-panama",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Amir Murillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "michael amir murillo",
+  "playerKey": "michael-amir-murillo",
+  "scorer": "Michael Amir Murillo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada",
+    "panama"
+  ]
+}

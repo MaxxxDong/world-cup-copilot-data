@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2014-07-12",
+      "goalId": "goal-2014-07-12-bra-netherlands-33766",
+      "homeTeamId": "bra",
+      "matchKey": "2014-07-12-bra-netherlands",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daley Blind",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2022-12-03",
+      "goalId": "goal-2022-12-03-netherlands-usa-43017",
+      "homeTeamId": "netherlands",
+      "matchKey": "2022-12-03-netherlands-usa",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daley Blind",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "daley blind",
+  "playerKey": "daley-blind",
+  "scorer": "Daley Blind",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

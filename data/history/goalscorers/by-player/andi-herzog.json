@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-austria-latvia-15200",
+      "homeTeamId": "austria",
+      "matchKey": "1995-03-29-austria-latvia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andi Herzog",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-austria-latvia-15202",
+      "homeTeamId": "austria",
+      "matchKey": "1995-03-29-austria-latvia",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andi Herzog",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "1999-04-28",
+      "goalId": "goal-1999-04-28-austria-san-marino-18727",
+      "homeTeamId": "austria",
+      "matchKey": "1999-04-28-austria-san-marino",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Andi Herzog",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1999-10-09",
+      "goalId": "goal-1999-10-09-austria-cyprus-19133",
+      "homeTeamId": "austria",
+      "matchKey": "1999-10-09-austria-cyprus",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andi Herzog",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "andi herzog",
+  "playerKey": "andi-herzog",
+  "scorer": "Andi Herzog",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

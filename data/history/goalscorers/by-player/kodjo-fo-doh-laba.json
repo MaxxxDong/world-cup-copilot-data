@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2017-01-24",
+      "goalId": "goal-2017-01-24-togo-dr-congo-36597",
+      "homeTeamId": "togo",
+      "matchKey": "2017-01-24-togo-dr-congo",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kodjo Fo-Doh Laba",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "2019-09-06",
+      "goalId": "goal-2019-09-06-comoros-togo-38893",
+      "homeTeamId": "comoros",
+      "matchKey": "2019-09-06-comoros-togo",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kodjo Fo-Doh Laba",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "kodjo fo doh laba",
+  "playerKey": "kodjo-fo-doh-laba",
+  "scorer": "Kodjo Fo-Doh Laba",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

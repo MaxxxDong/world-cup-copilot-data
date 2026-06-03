@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Two Sicilies"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 18,
+    "goalsFor": 3,
+    "losses": 5,
+    "matches": 6,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 18,
+      "goalsFor": 3,
+      "losses": 5,
+      "matches": 6,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 18,
+      "goalsFor": 3,
+      "losses": 5,
+      "matches": 6,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "two-sicilies",
+      "date": "2023-07-02",
+      "homeScore": 7,
+      "homeTeamId": "szekely-land",
+      "matchId": "int-2023-07-02-szekely-land-two-sicilies",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "two-sicilies",
+      "date": "2023-07-01",
+      "homeScore": 3,
+      "homeTeamId": "chameria",
+      "matchId": "int-2023-07-01-chameria-two-sicilies",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "two-sicilies",
+      "date": "2010-06-05",
+      "homeScore": 2,
+      "homeTeamId": "occitania",
+      "matchId": "int-2010-06-05-occitania-two-sicilies",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "two-sicilies",
+      "date": "2010-06-04",
+      "homeScore": 2,
+      "homeTeamId": "padania",
+      "matchId": "int-2010-06-04-padania-two-sicilies",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "two-sicilies",
+      "date": "2010-06-01",
+      "homeScore": 0,
+      "homeTeamId": "provence",
+      "matchId": "int-2010-06-01-provence-two-sicilies",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 18,
+      "goalsFor": 3,
+      "losses": 5,
+      "matches": 6,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 11,
+      "goalsFor": 3,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 0,
+      "losses": 1,
+      "matches": 1,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "two-sicilies",
+  "teamName": "Two Sicilies",
+  "topScorers": []
+}

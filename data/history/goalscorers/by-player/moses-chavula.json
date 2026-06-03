@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "djibouti",
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-malawi-djibouti-27759",
+      "homeTeamId": "malawi",
+      "matchKey": "2008-05-31-malawi-djibouti",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moses Chavula",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "malawi",
+      "date": "2008-09-05",
+      "goalId": "goal-2008-09-05-djibouti-malawi-28286",
+      "homeTeamId": "djibouti",
+      "matchKey": "2008-09-05-djibouti-malawi",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moses Chavula",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "kenya",
+      "date": "2013-06-12",
+      "goalId": "goal-2013-06-12-malawi-kenya-32889",
+      "homeTeamId": "malawi",
+      "matchKey": "2013-06-12-malawi-kenya",
+      "minute": 88,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Moses Chavula",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kenya"
+    }
+  ],
+  "normalizedScorer": "moses chavula",
+  "playerKey": "moses-chavula",
+  "scorer": "Moses Chavula",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kenya",
+    "malawi"
+  ]
+}

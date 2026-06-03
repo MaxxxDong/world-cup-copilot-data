@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1937-01-03",
+      "goalId": "goal-1937-01-03-bra-chile-912",
+      "homeTeamId": "bra",
+      "matchKey": "1937-01-03-bra-chile",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Avendaño",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1939-02-05",
+      "goalId": "goal-1939-02-05-chile-ecuador-1193",
+      "homeTeamId": "chile",
+      "matchKey": "1939-02-05-chile-ecuador",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Avendaño",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1939-02-05",
+      "goalId": "goal-1939-02-05-chile-ecuador-1196",
+      "homeTeamId": "chile",
+      "matchKey": "1939-02-05-chile-ecuador",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Avendaño",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "jos avenda o",
+  "playerKey": "jos-avenda-o",
+  "scorer": "José Avendaño",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

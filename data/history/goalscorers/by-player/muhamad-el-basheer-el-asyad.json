@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1970-02-14",
+      "goalId": "goal-1970-02-14-sudan-egypt-5832",
+      "homeTeamId": "sudan",
+      "matchKey": "1970-02-14-sudan-egypt",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhamad El-Basheer El-Asyad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "1970-02-14",
+      "goalId": "goal-1970-02-14-sudan-egypt-5834",
+      "homeTeamId": "sudan",
+      "matchKey": "1970-02-14-sudan-egypt",
+      "minute": 102,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhamad El-Basheer El-Asyad",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "muhamad el basheer el asyad",
+  "playerKey": "muhamad-el-basheer-el-asyad",
+  "scorer": "Muhamad El-Basheer El-Asyad",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

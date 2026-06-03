@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-malaysia-hong-kong-23396",
+      "homeTeamId": "malaysia",
+      "matchKey": "2004-02-18-malaysia-hong-kong",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chu Siu Kei",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    },
+    {
+      "awayTeamId": "malaysia",
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-hong-kong-malaysia-24694",
+      "homeTeamId": "hong-kong",
+      "matchKey": "2004-10-13-hong-kong-malaysia",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chu Siu Kei",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    }
+  ],
+  "normalizedScorer": "chu siu kei",
+  "playerKey": "chu-siu-kei",
+  "scorer": "Chu Siu Kei",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hong-kong"
+  ]
+}

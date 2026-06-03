@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2008-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-12-14",
+    "nationality": "Grenada",
+    "playerKey": "shane-rennie",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c5f2a28a",
+      "footballdatabase_eu": "13099",
+      "national_football_teams": "24760",
+      "soccerway": "82143",
+      "transfermarkt": "71668",
+      "wikidata": "Q4118182"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-15",
+  "playerKey": "shane-rennie",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-grenada-guatemala-31505",
+      "matchKey": "2011-11-15-grenada-guatemala",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Shane Rennie"
+    },
+    {
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-belize-grenada-31121",
+      "matchKey": "2011-10-07-belize-grenada",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shane Rennie"
+    },
+    {
+      "date": "2008-03-26",
+      "goalId": "goal-2008-03-26-grenada-united-states-virgin-islands-27705",
+      "matchKey": "2008-03-26-grenada-united-states-virgin-islands",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shane Rennie"
+    }
+  ],
+  "scorer": "Shane Rennie",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "grenada",
+  "teamName": "Grenada",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

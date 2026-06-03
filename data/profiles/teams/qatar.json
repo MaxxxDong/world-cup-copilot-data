@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Qatar",
+    "QAT",
+    "Al Annabi"
+  ],
+  "allTime": {
+    "draws": 154,
+    "goalsAgainst": 766,
+    "goalsFor": 895,
+    "losses": 219,
+    "matches": 633,
+    "wins": 260
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "QAT",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 19,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 39,
+      "goalsFor": 26,
+      "losses": 9,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 4,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "tunisia",
+      "date": "2025-12-07",
+      "homeScore": 0,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-12-07-qatar-tunisia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "syria",
+      "date": "2025-12-04",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-12-04-qatar-syria",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "palestine",
+      "date": "2025-12-01",
+      "homeScore": 0,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-12-01-qatar-palestine",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-11-17-qatar-zimbabwe",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-10-14-qatar-united-arab-emirates",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 96,
+      "goalsAgainst": 481,
+      "goalsFor": 619,
+      "losses": 140,
+      "matches": 412,
+      "wins": 176
+    },
+    "friendly": {
+      "draws": 58,
+      "goalsAgainst": 285,
+      "goalsFor": 276,
+      "losses": 79,
+      "matches": 221,
+      "wins": 84
+    },
+    "neutralVenue": {
+      "draws": 66,
+      "goalsAgainst": 267,
+      "goalsFor": 267,
+      "losses": 69,
+      "matches": 206,
+      "wins": 71
+    },
+    "nonNeutralVenue": {
+      "draws": 88,
+      "goalsAgainst": 499,
+      "goalsFor": 628,
+      "losses": 150,
+      "matches": 427,
+      "wins": 189
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 1,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "qatar",
+  "teamName": "Qatar",
+  "topScorers": [
+    {
+      "goals": 34,
+      "playerKey": "almoez-ali",
+      "scorer": "Almoez Ali"
+    },
+    {
+      "goals": 22,
+      "playerKey": "akram-afif",
+      "scorer": "Akram Afif"
+    },
+    {
+      "goals": 18,
+      "playerKey": "hassan-al-haydos",
+      "scorer": "Hassan Al-Haydos"
+    },
+    {
+      "goals": 16,
+      "playerKey": "mohammed-salem-al-enazi",
+      "scorer": "Mohammed Salem Al-Enazi"
+    },
+    {
+      "goals": 14,
+      "playerKey": "sebasti-n-soria",
+      "scorer": "Sebastián Soria"
+    },
+    {
+      "goals": 13,
+      "playerKey": "mansour-muftah",
+      "scorer": "Mansour Muftah"
+    },
+    {
+      "goals": 11,
+      "playerKey": "mubarak-mustafa",
+      "scorer": "Mubarak Mustafa"
+    },
+    {
+      "goals": 9,
+      "playerKey": "khalfan-ibrahim",
+      "scorer": "Khalfan Ibrahim"
+    },
+    {
+      "goals": 8,
+      "playerKey": "boualem-khoukhi",
+      "scorer": "Boualem Khoukhi"
+    },
+    {
+      "goals": 8,
+      "playerKey": "mahmoud-soufi",
+      "scorer": "Mahmoud Soufi"
+    }
+  ]
+}

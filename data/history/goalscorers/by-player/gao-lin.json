@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "2015-01-18",
+      "goalId": "goal-2015-01-18-china-pr-north-korea-34085",
+      "homeTeamId": "china-pr",
+      "matchKey": "2015-01-18-china-pr-north-korea",
+      "minute": 57,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Gao Lin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2017-06-13",
+      "goalId": "goal-2017-06-13-syria-china-pr-36883",
+      "homeTeamId": "syria",
+      "matchKey": "2017-06-13-syria-china-pr",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gao Lin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "2017-08-31",
+      "goalId": "goal-2017-08-31-china-pr-uzbekistan-37008",
+      "homeTeamId": "china-pr",
+      "matchKey": "2017-08-31-china-pr-uzbekistan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gao Lin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2019-01-20",
+      "goalId": "goal-2019-01-20-thailand-china-pr-38144",
+      "homeTeamId": "thailand",
+      "matchKey": "2019-01-20-thailand-china-pr",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gao Lin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "gao lin",
+  "playerKey": "gao-lin",
+  "scorer": "Gao Lin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr",
+    "north-korea"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1982-11-17",
+      "goalId": "goal-1982-11-17-northern-ireland-germany-9893",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1982-11-17-northern-ireland-germany",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ian Stewart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1983-04-27",
+      "goalId": "goal-1983-04-27-northern-ireland-albania-9983",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1983-04-27-northern-ireland-albania",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ian Stewart",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "ian stewart",
+  "playerKey": "ian-stewart",
+  "scorer": "Ian Stewart",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

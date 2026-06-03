@@ -1,0 +1,87 @@
+{
+  "club": "Olympique Lyonnais (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2003-11-01",
+    "nationality": "Ghana",
+    "playerKey": "ernest-nuamah",
+    "providerIds": {
+      "api_football": "350856",
+      "capology": "ernest-nuamah-37926",
+      "dongqiudi": "50772278",
+      "espn": "333310",
+      "fbref": "234a703c",
+      "footballdatabase_eu": "486274",
+      "fotmob": "1338390",
+      "heimspiel": "826667",
+      "impect": "113659",
+      "kicker": "ernest-nuamah",
+      "lequipe": "99630",
+      "national_football_teams": "91379",
+      "opta": "dom2gtnelp3yqgtnchnli0ftg",
+      "skillcorner": "148386",
+      "soccerway": "811018",
+      "sofascore": "1202024",
+      "thesportsdb": "34202601",
+      "transfermarkt": "955070",
+      "wikidata": "Q111584129",
+      "worldfootball": "ernest-nuamah",
+      "wyscout": "817448"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ernest Nuamah",
+  "playerKey": "ernest-nuamah",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-ghana-chad-45971",
+      "matchKey": "2025-03-21-ghana-chad",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernest Nuamah"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-mali-ghana-44673",
+      "matchKey": "2024-06-06-mali-ghana",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ernest Nuamah"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=21"
+  },
+  "shirtNumber": 24,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=21"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "ghana",
+  "teamName": "Ghana"
+}

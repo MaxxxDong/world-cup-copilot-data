@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Cuba"
+  ],
+  "allTime": {
+    "draws": 90,
+    "goalsAgainst": 605,
+    "goalsFor": 532,
+    "losses": 168,
+    "matches": 397,
+    "wins": 139
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 19,
+      "goalsFor": 10,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 32,
+      "goalsFor": 25,
+      "losses": 9,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2026-03-29-dominican-republic-cuba",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cuba",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "martinique",
+      "matchId": "int-2026-03-26-martinique-cuba",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cuba",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "martinique",
+      "matchId": "int-2025-11-15-martinique-cuba",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-lucia",
+      "date": "2025-11-12",
+      "homeScore": 3,
+      "homeTeamId": "cuba",
+      "matchId": "int-2025-11-12-cuba-saint-lucia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cuba",
+      "date": "2025-10-11",
+      "homeScore": 2,
+      "homeTeamId": "grenada",
+      "matchId": "int-2025-10-11-grenada-cuba",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 53,
+      "goalsAgainst": 421,
+      "goalsFor": 415,
+      "losses": 108,
+      "matches": 269,
+      "wins": 108
+    },
+    "friendly": {
+      "draws": 37,
+      "goalsAgainst": 184,
+      "goalsFor": 117,
+      "losses": 60,
+      "matches": 128,
+      "wins": 31
+    },
+    "neutralVenue": {
+      "draws": 29,
+      "goalsAgainst": 222,
+      "goalsFor": 184,
+      "losses": 53,
+      "matches": 132,
+      "wins": 50
+    },
+    "nonNeutralVenue": {
+      "draws": 61,
+      "goalsAgainst": 383,
+      "goalsFor": 348,
+      "losses": 115,
+      "matches": 265,
+      "wins": 89
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 1,
+      "matches": 3,
+      "wins": 1
+    }
+  },
+  "teamId": "cuba",
+  "teamName": "Cuba",
+  "topScorers": [
+    {
+      "goals": 14,
+      "playerKey": "lester-mor",
+      "scorer": "Lester Moré"
+    },
+    {
+      "goals": 7,
+      "playerKey": "mario-l-pez",
+      "scorer": "Mario López"
+    },
+    {
+      "goals": 6,
+      "playerKey": "l-zaro-darcourt",
+      "scorer": "Lázaro Darcourt"
+    },
+    {
+      "goals": 5,
+      "playerKey": "eduardo-sebrango",
+      "scorer": "Eduardo Sebrango"
+    },
+    {
+      "goals": 5,
+      "playerKey": "h-ctor-socorro",
+      "scorer": "Héctor Socorro"
+    },
+    {
+      "goals": 5,
+      "playerKey": "maikel-reyes",
+      "scorer": "Maikel Reyes"
+    },
+    {
+      "goals": 5,
+      "playerKey": "y-nier-m-rquez",
+      "scorer": "Yénier Márquez"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jaime-colom",
+      "scorer": "Jaime Colomé"
+    },
+    {
+      "goals": 4,
+      "playerKey": "roberto-linares",
+      "scorer": "Roberto Linares"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ariel-mart-nez",
+      "scorer": "Ariel Martínez"
+    }
+  ]
+}

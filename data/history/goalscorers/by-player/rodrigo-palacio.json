@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2008-06-15",
+      "goalId": "goal-2008-06-15-arg-ecuador-28038",
+      "homeTeamId": "arg",
+      "matchKey": "2008-06-15-arg-ecuador",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rodrigo Palacio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2013-10-11",
+      "goalId": "goal-2013-10-11-arg-peru-33336",
+      "homeTeamId": "arg",
+      "matchKey": "2013-10-11-arg-peru",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rodrigo Palacio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "rodrigo palacio",
+  "playerKey": "rodrigo-palacio",
+  "scorer": "Rodrigo Palacio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

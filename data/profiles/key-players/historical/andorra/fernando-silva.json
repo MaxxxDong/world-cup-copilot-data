@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "2005-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1977-05-16",
+    "nationality": "Andorra",
+    "playerKey": "fernando-silva",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "26389",
+      "fbref": "a4d83aaa",
+      "footballdatabase_eu": "7787",
+      "kicker": "fernando-silva",
+      "national_football_teams": "156",
+      "soccerway": "55898",
+      "sofifa": "217269",
+      "transfermarkt": "44129",
+      "uefa": "68348",
+      "wikidata": "Q1400642",
+      "worldfootball": "fernando-silva_2"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2007-08-22",
+  "playerKey": "fernando-silva",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2007-08-22",
+      "goalId": "goal-2007-08-22-estonia-andorra-26953",
+      "matchKey": "2007-08-22-estonia-andorra",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Silva"
+    },
+    {
+      "date": "2005-03-26",
+      "goalId": "goal-2005-03-26-armenia-andorra-24977",
+      "matchKey": "2005-03-26-armenia-andorra",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Silva"
+    }
+  ],
+  "scorer": "Fernando Silva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "andorra",
+  "teamName": "Andorra",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

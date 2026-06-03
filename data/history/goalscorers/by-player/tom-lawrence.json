@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2017-10-06",
+      "goalId": "goal-2017-10-06-georgia-wales-37306",
+      "homeTeamId": "georgia",
+      "matchKey": "2017-10-06-georgia-wales",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Lawrence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2018-09-06",
+      "goalId": "goal-2018-09-06-wales-republic-of-ireland-37724",
+      "homeTeamId": "wales",
+      "matchKey": "2018-09-06-wales-republic-of-ireland",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Lawrence",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "tom lawrence",
+  "playerKey": "tom-lawrence",
+  "scorer": "Tom Lawrence",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

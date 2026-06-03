@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "2002-07-10",
+      "goalId": "goal-2002-07-10-australia-fiji-22388",
+      "homeTeamId": "australia",
+      "matchKey": "2002-07-10-australia-fiji",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Milicic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-solomon-islands-australia-24613",
+      "homeTeamId": "solomon-islands",
+      "matchKey": "2004-10-09-solomon-islands-australia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Milicic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "solomon-islands",
+      "date": "2004-10-12",
+      "goalId": "goal-2004-10-12-australia-solomon-islands-24665",
+      "homeTeamId": "australia",
+      "matchKey": "2004-10-12-australia-solomon-islands",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ante Milicic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "ante milicic",
+  "playerKey": "ante-milicic",
+  "scorer": "Ante Milicic",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "kenya",
+      "date": "1972-12-10",
+      "goalId": "goal-1972-12-10-mauritius-kenya-6503",
+      "homeTeamId": "mauritius",
+      "matchKey": "1972-12-10-mauritius-kenya",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Imbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritius"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "1972-12-17",
+      "goalId": "goal-1972-12-17-kenya-mauritius-6511",
+      "homeTeamId": "kenya",
+      "matchKey": "1972-12-17-kenya-mauritius",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Imbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritius"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "1974-03-05",
+      "goalId": "goal-1974-03-05-guinea-mauritius-6962",
+      "homeTeamId": "guinea",
+      "matchKey": "1974-03-05-guinea-mauritius",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Imbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritius"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1974-03-07",
+      "goalId": "goal-1974-03-07-mauritius-dr-congo-6971",
+      "homeTeamId": "mauritius",
+      "matchKey": "1974-03-07-mauritius-dr-congo",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Imbert",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mauritius"
+    }
+  ],
+  "normalizedScorer": "daniel imbert",
+  "playerKey": "daniel-imbert",
+  "scorer": "Daniel Imbert",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mauritius"
+  ]
+}

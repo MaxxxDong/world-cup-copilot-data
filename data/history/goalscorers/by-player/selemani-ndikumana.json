@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "seychelles",
+      "date": "2008-06-01",
+      "goalId": "goal-2008-06-01-burundi-seychelles-27781",
+      "homeTeamId": "burundi",
+      "matchKey": "2008-06-01-burundi-seychelles",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Selemani Ndikumana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burundi"
+    },
+    {
+      "awayTeamId": "lesotho",
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-burundi-lesotho-31474",
+      "homeTeamId": "burundi",
+      "matchKey": "2011-11-15-burundi-lesotho",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Selemani Ndikumana",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burundi"
+    }
+  ],
+  "normalizedScorer": "selemani ndikumana",
+  "playerKey": "selemani-ndikumana",
+  "scorer": "Selemani Ndikumana",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "burundi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2023-03-27",
+      "goalId": "goal-2023-03-27-hungary-bulgaria-43163",
+      "homeTeamId": "hungary",
+      "matchKey": "2023-03-27-hungary-bulgaria",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Ádám",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-bulgaria-hungary-43819",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2023-11-16-bulgaria-hungary",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Ádám",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "martin d m",
+  "playerKey": "martin-d-m",
+  "scorer": "Martin Ádám",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

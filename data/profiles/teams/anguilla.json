@@ -1,0 +1,206 @@
+{
+  "aliases": [
+    "Anguilla"
+  ],
+  "allTime": {
+    "draws": 9,
+    "goalsAgainst": 349,
+    "goalsFor": 52,
+    "losses": 75,
+    "matches": 91,
+    "wins": 7
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 28,
+      "goalsFor": 8,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 61,
+      "goalsFor": 11,
+      "losses": 15,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 13,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "2026-03-29",
+      "homeScore": 4,
+      "homeTeamId": "british-virgin-islands",
+      "matchId": "int-2026-03-29-british-virgin-islands-anguilla",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "anguilla",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2026-03-26-bahamas-anguilla",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "2025-11-15",
+      "homeScore": 4,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2025-11-15-cayman-islands-anguilla",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "anguilla",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-12-bahamas-anguilla",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "el-salvador",
+      "date": "2025-06-07",
+      "homeScore": 0,
+      "homeTeamId": "anguilla",
+      "matchId": "int-2025-06-07-anguilla-el-salvador",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 302,
+      "goalsFor": 38,
+      "losses": 62,
+      "matches": 74,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 47,
+      "goalsFor": 14,
+      "losses": 13,
+      "matches": 17,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 130,
+      "goalsFor": 24,
+      "losses": 23,
+      "matches": 29,
+      "wins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 219,
+      "goalsFor": 28,
+      "losses": 52,
+      "matches": 62,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "anguilla",
+  "teamName": "Anguilla",
+  "topScorers": [
+    {
+      "goals": 1,
+      "playerKey": "kenneth-hughes",
+      "scorer": "Kenneth Hughes"
+    },
+    {
+      "goals": 1,
+      "playerKey": "luke-paris",
+      "scorer": "Luke Paris"
+    },
+    {
+      "goals": 1,
+      "playerKey": "richard-o-connor",
+      "scorer": "Richard O'Connor"
+    }
+  ]
+}

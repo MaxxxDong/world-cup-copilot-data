@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1990-06-10",
+      "goalId": "goal-1990-06-10-germany-yugoslavia-12484",
+      "homeTeamId": "germany",
+      "matchKey": "1990-06-10-germany-yugoslavia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davor Jozić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1990-06-14",
+      "goalId": "goal-1990-06-14-yugoslavia-colombia-12506",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1990-06-14-yugoslavia-colombia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davor Jozić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "davor jozi",
+  "playerKey": "davor-jozi",
+  "scorer": "Davor Jozić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

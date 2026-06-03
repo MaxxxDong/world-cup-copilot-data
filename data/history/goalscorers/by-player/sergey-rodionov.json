@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1983-04-27",
+      "goalId": "goal-1983-04-27-russia-portugal-9985",
+      "homeTeamId": "russia",
+      "matchKey": "1983-04-27-russia-portugal",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Rodionov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1986-06-02",
+      "goalId": "goal-1986-06-02-russia-hungary-11157",
+      "homeTeamId": "russia",
+      "matchKey": "1986-06-02-russia-hungary",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sergey Rodionov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "sergey rodionov",
+  "playerKey": "sergey-rodionov",
+  "scorer": "Sergey Rodionov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

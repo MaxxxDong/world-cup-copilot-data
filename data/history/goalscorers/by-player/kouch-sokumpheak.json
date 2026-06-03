@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "laos",
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-cambodia-laos-30594",
+      "homeTeamId": "cambodia",
+      "matchKey": "2011-06-29-cambodia-laos",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-laos-cambodia-30628",
+      "homeTeamId": "laos",
+      "matchKey": "2011-07-03-laos-cambodia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    },
+    {
+      "awayTeamId": "pakistan",
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-cambodia-pakistan-38332",
+      "homeTeamId": "cambodia",
+      "matchKey": "2019-06-06-cambodia-pakistan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    }
+  ],
+  "normalizedScorer": "kouch sokumpheak",
+  "playerKey": "kouch-sokumpheak",
+  "scorer": "Kouch Sokumpheak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cambodia"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "club": "Leeds United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2000-05-24",
+    "nationality": "Switzerland",
+    "playerKey": "noah-okafor",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "48389",
+      "capology": "noah-okafor-36670",
+      "espn": "270641",
+      "eu_football_info": "30673",
+      "fbref": "ca607d59",
+      "footballdatabase_eu": "328586",
+      "fotmob": "915797",
+      "heimspiel": "471465",
+      "impect": "6623",
+      "kicker": "noah-okafor",
+      "national_football_teams": "74570",
+      "opta": "aqlu9i7yzmnmyzwuw6u93j6y1",
+      "opta_numeric": "435997",
+      "serie_a": "noah-okafor-107091",
+      "skillcorner": "13737",
+      "soccerbase": "110594",
+      "soccerway": "460308",
+      "sofascore": "865523",
+      "sportmonks": "4536529",
+      "thesportsdb": "34169690",
+      "transfermarkt": "346890",
+      "uefa": "250101696",
+      "understat": "11966",
+      "whoscored": "376090",
+      "wikidata": "Q55286732",
+      "worldfootball": "noah-okafor",
+      "wyscout": "472279"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Noah Okafor",
+  "playerKey": "noah-okafor",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-czech-republic-switzerland-42481",
+      "matchKey": "2022-06-02-czech-republic-switzerland",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noah Okafor"
+    },
+    {
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-switzerland-bulgaria-42065",
+      "matchKey": "2021-11-15-switzerland-bulgaria",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noah Okafor"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "switzerland",
+  "teamName": "Switzerland"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "1993-06-27",
+      "goalId": "goal-1993-06-27-oman-taiwan-14317",
+      "homeTeamId": "oman",
+      "matchKey": "1993-06-27-oman-taiwan",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yousuf Saleh Al-Alawi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "oman"
+    },
+    {
+      "awayTeamId": "oman",
+      "date": "1993-07-07",
+      "goalId": "goal-1993-07-07-taiwan-oman-14367",
+      "homeTeamId": "taiwan",
+      "matchKey": "1993-07-07-taiwan-oman",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yousuf Saleh Al-Alawi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "oman"
+    }
+  ],
+  "normalizedScorer": "yousuf saleh al alawi",
+  "playerKey": "yousuf-saleh-al-alawi",
+  "scorer": "Yousuf Saleh Al-Alawi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "oman"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1993-05-09",
+      "goalId": "goal-1993-05-09-lebanon-hong-kong-14030",
+      "homeTeamId": "lebanon",
+      "matchKey": "1993-05-09-lebanon-hong-kong",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rafi Joulfagi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    },
+    {
+      "awayTeamId": "lebanon",
+      "date": "1993-06-11",
+      "goalId": "goal-1993-06-11-india-lebanon-14204",
+      "homeTeamId": "india",
+      "matchKey": "1993-06-11-india-lebanon",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rafi Joulfagi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "rafi joulfagi",
+  "playerKey": "rafi-joulfagi",
+  "scorer": "Rafi Joulfagi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon"
+  ]
+}

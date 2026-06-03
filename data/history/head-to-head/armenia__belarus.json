@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 9,
+    "teamAGoals": 10,
+    "teamAWins": 2,
+    "teamBGoals": 14,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "belarus",
+    "date": "2026-03-29",
+    "homeScore": 1,
+    "homeTeamId": "armenia",
+    "matchId": "int-2026-03-29-armenia-belarus",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "armenia",
+      "date": "1979-07-21",
+      "homeScore": 3,
+      "homeTeamId": "belarus",
+      "matchId": "int-1979-07-21-belarus-armenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "armenia",
+      "date": "2000-10-11",
+      "homeScore": 2,
+      "homeTeamId": "belarus",
+      "matchId": "int-2000-10-11-belarus-armenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2001-06-02",
+      "homeScore": 0,
+      "homeTeamId": "armenia",
+      "matchId": "int-2001-06-02-armenia-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belarus",
+      "date": "2008-02-04",
+      "homeScore": 2,
+      "homeTeamId": "armenia",
+      "matchId": "int-2008-02-04-armenia-belarus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Malta International Tournament"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "belarus",
+      "date": "2010-03-03",
+      "homeScore": 1,
+      "homeTeamId": "armenia",
+      "matchId": "int-2010-03-03-armenia-belarus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "belarus",
+      "date": "2012-08-15",
+      "homeScore": 1,
+      "homeTeamId": "armenia",
+      "matchId": "int-2012-08-15-armenia-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belarus",
+      "date": "2016-03-25",
+      "homeScore": 0,
+      "homeTeamId": "armenia",
+      "matchId": "int-2016-03-25-armenia-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belarus",
+      "date": "2017-11-09",
+      "homeScore": 4,
+      "homeTeamId": "armenia",
+      "matchId": "int-2017-11-09-armenia-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "belarus",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "armenia",
+      "matchId": "int-2026-03-29-armenia-belarus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "armenia__belarus",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 11,
+      "teamBWins": 4
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "armenia",
+  "teamBId": "belarus"
+}

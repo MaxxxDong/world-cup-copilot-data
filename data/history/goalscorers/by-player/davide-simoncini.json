@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2010-09-07",
+      "goalId": "goal-2010-09-07-sweden-san-marino-30126",
+      "homeTeamId": "sweden",
+      "matchKey": "2010-09-07-sweden-san-marino",
+      "minute": 12,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Davide Simoncini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2016-10-11",
+      "goalId": "goal-2016-10-11-norway-san-marino-36367",
+      "homeTeamId": "norway",
+      "matchKey": "2016-10-11-norway-san-marino",
+      "minute": 12,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Davide Simoncini",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "davide simoncini",
+  "playerKey": "davide-simoncini",
+  "scorer": "Davide Simoncini",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway",
+    "sweden"
+  ]
+}

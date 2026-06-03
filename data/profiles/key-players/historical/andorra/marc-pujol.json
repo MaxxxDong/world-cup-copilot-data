@@ -1,0 +1,97 @@
+{
+  "firstGoalDate": "2004-09-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1982-08-21",
+    "nationality": "Andorra",
+    "playerKey": "marc-pujol",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "56055",
+      "espn": "26150",
+      "eu_football_info": "17131",
+      "fbref": "b0f29b81",
+      "footballdatabase_eu": "7784",
+      "heimspiel": "46847",
+      "impect": "5017",
+      "kicker": "marc-pujol",
+      "national_football_teams": "157",
+      "opta": "28xc34xkd4shizqfxep7y9s5x",
+      "soccerway": "55897",
+      "sofifa": "178710",
+      "thesportsdb": "34225211",
+      "transfermarkt": "44118",
+      "uefa": "43537",
+      "wikidata": "Q982434",
+      "worldfootball": "marc-pujol"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-10-12",
+  "playerKey": "marc-pujol",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-10-12",
+      "goalId": "goal-2021-10-12-san-marino-andorra-41760",
+      "matchKey": "2021-10-12-san-marino-andorra",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marc Pujol"
+    },
+    {
+      "date": "2021-03-31",
+      "goalId": "goal-2021-03-31-andorra-hungary-40382",
+      "matchKey": "2021-03-31-andorra-hungary",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marc Pujol"
+    },
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-andorra-belarus-28450",
+      "matchKey": "2008-09-10-andorra-belarus",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marc Pujol"
+    },
+    {
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-andorra-romania-24392",
+      "matchKey": "2004-09-08-andorra-romania",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marc Pujol"
+    }
+  ],
+  "scorer": "Marc Pujol",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "andorra",
+  "teamName": "Andorra",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "2008-06-07",
+      "goalId": "goal-2008-06-07-libya-gabon-27855",
+      "homeTeamId": "libya",
+      "matchKey": "2008-06-07-libya-gabon",
+      "minute": 5,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Bruno Ecuele Manga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "libya"
+    },
+    {
+      "awayTeamId": "gabon",
+      "date": "2008-09-07",
+      "goalId": "goal-2008-09-07-lesotho-gabon-28434",
+      "homeTeamId": "lesotho",
+      "matchKey": "2008-09-07-lesotho-gabon",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Ecuele Manga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "2009-06-06",
+      "goalId": "goal-2009-06-06-gabon-togo-29088",
+      "homeTeamId": "gabon",
+      "matchKey": "2009-06-06-gabon-togo",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Ecuele Manga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "niger",
+      "date": "2013-06-15",
+      "goalId": "goal-2013-06-15-gabon-niger-32908",
+      "homeTeamId": "gabon",
+      "matchKey": "2013-06-15-gabon-niger",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Ecuele Manga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "bruno ecuele manga",
+  "playerKey": "bruno-ecuele-manga",
+  "scorer": "Bruno Ecuele Manga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon",
+    "libya"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1985-09-25",
+      "goalId": "goal-1985-09-25-sweden-germany-10965",
+      "homeTeamId": "sweden",
+      "matchKey": "1985-09-25-sweden-germany",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Magnusson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1986-11-16",
+      "goalId": "goal-1986-11-16-malta-sweden-11341",
+      "homeTeamId": "malta",
+      "matchKey": "1986-11-16-malta-sweden",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Magnusson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1989-10-08",
+      "goalId": "goal-1989-10-08-sweden-albania-12337",
+      "homeTeamId": "sweden",
+      "matchKey": "1989-10-08-sweden-albania",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Magnusson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "mats magnusson",
+  "playerKey": "mats-magnusson",
+  "scorer": "Mats Magnusson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2005-09-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1980-10-19",
+    "nationality": "Liechtenstein",
+    "playerKey": "benjamin-fischer",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "25037",
+      "footballdatabase_eu": "12228",
+      "kicker": "benjamin-fischer",
+      "national_football_teams": "12029",
+      "transfermarkt": "19853",
+      "wikidata": "Q450624"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-10-08",
+  "playerKey": "benjamin-fischer",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-10-08",
+      "goalId": "goal-2005-10-08-portugal-liechtenstein-25877",
+      "matchKey": "2005-10-08-portugal-liechtenstein",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Fischer"
+    },
+    {
+      "date": "2005-09-07",
+      "goalId": "goal-2005-09-07-liechtenstein-luxembourg-25784",
+      "matchKey": "2005-09-07-liechtenstein-luxembourg",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Fischer"
+    }
+  ],
+  "scorer": "Benjamin Fischer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liechtenstein",
+  "teamName": "Liechtenstein",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

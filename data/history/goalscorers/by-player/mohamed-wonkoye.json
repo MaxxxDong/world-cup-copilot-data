@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "niger",
+      "date": "2021-09-06",
+      "goalId": "goal-2021-09-06-djibouti-niger-41322",
+      "homeTeamId": "djibouti",
+      "matchKey": "2021-09-06-djibouti-niger",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mohamed Wonkoye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    },
+    {
+      "awayTeamId": "djibouti",
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-niger-djibouti-42044",
+      "homeTeamId": "niger",
+      "matchKey": "2021-11-15-niger-djibouti",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Wonkoye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    }
+  ],
+  "normalizedScorer": "mohamed wonkoye",
+  "playerKey": "mohamed-wonkoye",
+  "scorer": "Mohamed Wonkoye",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "niger"
+  ]
+}

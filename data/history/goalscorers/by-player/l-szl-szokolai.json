@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1978-10-11",
+      "goalId": "goal-1978-10-11-hungary-russia-8381",
+      "homeTeamId": "hungary",
+      "matchKey": "1978-10-11-hungary-russia",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Szokolai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "1985-04-03",
+      "goalId": "goal-1985-04-03-hungary-cyprus-10645",
+      "homeTeamId": "hungary",
+      "matchKey": "1985-04-03-hungary-cyprus",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "László Szokolai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "l szl szokolai",
+  "playerKey": "l-szl-szokolai",
+  "scorer": "László Szokolai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

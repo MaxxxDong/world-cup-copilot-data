@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "tahiti",
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21344",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2001-06-06",
+      "goalId": "goal-2001-06-06-cook-islands-vanuatu-21355",
+      "homeTeamId": "cook-islands",
+      "matchKey": "2001-06-06-cook-islands-vanuatu",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-papua-new-guinea-vanuatu-23551",
+      "homeTeamId": "papua-new-guinea",
+      "matchKey": "2004-05-10-papua-new-guinea-vanuatu",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Lauru",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    }
+  ],
+  "normalizedScorer": "simon lauru",
+  "playerKey": "simon-lauru",
+  "scorer": "Simon Lauru",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "vanuatu"
+  ]
+}

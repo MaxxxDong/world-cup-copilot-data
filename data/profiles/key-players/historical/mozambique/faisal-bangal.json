@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2025-09-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1995-01-06",
+    "nationality": "Mozambique",
+    "playerKey": "faisal-bangal",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "064dd83b",
+      "footballdatabase_eu": "228674",
+      "kicker": "faisal-bangal",
+      "national_football_teams": "54807",
+      "soccerway": "365683",
+      "sofascore": "592712",
+      "transfermarkt": "279909",
+      "wikidata": "Q15965675"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-12-28",
+  "playerKey": "faisal-bangal",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-12-28",
+      "goalId": "goal-2025-12-28-gabon-mozambique-47481",
+      "matchKey": "2025-12-28-gabon-mozambique",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Bangal"
+    },
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-mozambique-botswana-46782",
+      "matchKey": "2025-09-08-mozambique-botswana",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Bangal"
+    }
+  ],
+  "scorer": "Faisal Bangal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mozambique",
+  "teamName": "Mozambique",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

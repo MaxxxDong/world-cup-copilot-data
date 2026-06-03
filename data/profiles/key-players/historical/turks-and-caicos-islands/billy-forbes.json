@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "2015-03-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1990-12-13",
+    "nationality": "United Kingdom",
+    "playerKey": "billy-forbes",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "7c6b9d99",
+      "footballdatabase_eu": "30284",
+      "heimspiel": "119188",
+      "impect": "18672",
+      "national_football_teams": "24995",
+      "soccerway": "194931",
+      "sofascore": "792710",
+      "sofifa": "293356",
+      "transfermarkt": "78283",
+      "wikidata": "Q4912555",
+      "wyscout": "143072"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-03-26",
+  "playerKey": "billy-forbes",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-03-26",
+      "goalId": "goal-2024-03-26-turks-and-caicos-islands-anguilla-44579",
+      "matchKey": "2024-03-26-turks-and-caicos-islands-anguilla",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy Forbes"
+    },
+    {
+      "date": "2015-03-23",
+      "goalId": "goal-2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands-34211",
+      "matchKey": "2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy Forbes"
+    }
+  ],
+  "scorer": "Billy Forbes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "turks-and-caicos-islands",
+  "teamName": "Turks and Caicos Islands",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

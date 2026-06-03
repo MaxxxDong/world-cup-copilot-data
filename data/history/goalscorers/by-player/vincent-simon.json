@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tahiti",
+      "date": "2004-05-19",
+      "goalId": "goal-2004-05-19-solomon-islands-tahiti-23644",
+      "homeTeamId": "solomon-islands",
+      "matchKey": "2004-05-19-solomon-islands-tahiti",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Simon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "2004-05-31",
+      "goalId": "goal-2004-05-31-australia-tahiti-23650",
+      "homeTeamId": "australia",
+      "matchKey": "2004-05-31-australia-tahiti",
+      "minute": 44,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Vincent Simon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    }
+  ],
+  "normalizedScorer": "vincent simon",
+  "playerKey": "vincent-simon",
+  "scorer": "Vincent Simon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia",
+    "tahiti"
+  ]
+}

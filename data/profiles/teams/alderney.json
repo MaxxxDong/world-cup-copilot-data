@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Alderney"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 620,
+    "goalsFor": 73,
+    "losses": 128,
+    "matches": 135,
+    "wins": 5
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 32,
+      "goalsFor": 9,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 75,
+      "goalsFor": 15,
+      "losses": 18,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 19,
+      "goalsFor": 6,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "guernsey",
+      "date": "2022-04-23",
+      "homeScore": 0,
+      "homeTeamId": "alderney",
+      "matchId": "int-2022-04-23-alderney-guernsey",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Muratti Vase"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "jersey",
+      "date": "2022-03-25",
+      "homeScore": 1,
+      "homeTeamId": "alderney",
+      "matchId": "int-2022-03-25-alderney-jersey",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Muratti Vase"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "alderney",
+      "date": "2019-06-20",
+      "homeScore": 1,
+      "homeTeamId": "orkney",
+      "matchId": "int-2019-06-20-orkney-alderney",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Inter Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "alderney",
+      "date": "2019-06-18",
+      "homeScore": 6,
+      "homeTeamId": "isle-of-man",
+      "matchId": "int-2019-06-18-isle-of-man-alderney",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Inter Games"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "hitra",
+      "date": "2019-06-16",
+      "homeScore": 2,
+      "homeTeamId": "alderney",
+      "matchId": "int-2019-06-16-alderney-hitra",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Inter Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 608,
+      "goalsFor": 70,
+      "losses": 126,
+      "matches": 132,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 3,
+      "losses": 2,
+      "matches": 3,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 107,
+      "goalsFor": 30,
+      "losses": 28,
+      "matches": 33,
+      "wins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 513,
+      "goalsFor": 43,
+      "losses": 100,
+      "matches": 102,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "alderney",
+  "teamName": "Alderney",
+  "topScorers": []
+}

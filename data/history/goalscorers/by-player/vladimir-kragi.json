@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1933-09-24",
+      "goalId": "goal-1933-09-24-yugoslavia-switzerland-659",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1933-09-24-yugoslavia-switzerland",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Kragić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1934-04-29",
+      "goalId": "goal-1934-04-29-romania-yugoslavia-782",
+      "homeTeamId": "romania",
+      "matchKey": "1934-04-29-romania-yugoslavia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Kragić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "vladimir kragi",
+  "playerKey": "vladimir-kragi",
+  "scorer": "Vladimir Kragić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

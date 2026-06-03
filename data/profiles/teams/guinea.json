@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Guinea"
+  ],
+  "allTime": {
+    "draws": 153,
+    "goalsAgainst": 659,
+    "goalsFor": 730,
+    "losses": 185,
+    "matches": 538,
+    "wins": 200
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 8,
+      "goalsFor": 12,
+      "losses": 2,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 16,
+      "goalsFor": 34,
+      "losses": 6,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 6,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "guinea",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "benin",
+      "matchId": "int-2026-03-31-benin-guinea",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "togo",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "guinea",
+      "matchId": "int-2026-03-27-guinea-togo",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "niger",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "guinea",
+      "matchId": "int-2025-11-18-guinea-niger",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liberia",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "guinea",
+      "matchId": "int-2025-11-15-guinea-liberia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "botswana",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "guinea",
+      "matchId": "int-2025-10-14-guinea-botswana",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 97,
+      "goalsAgainst": 400,
+      "goalsFor": 478,
+      "losses": 109,
+      "matches": 345,
+      "wins": 139
+    },
+    "friendly": {
+      "draws": 56,
+      "goalsAgainst": 259,
+      "goalsFor": 252,
+      "losses": 76,
+      "matches": 193,
+      "wins": 61
+    },
+    "neutralVenue": {
+      "draws": 57,
+      "goalsAgainst": 230,
+      "goalsFor": 263,
+      "losses": 62,
+      "matches": 189,
+      "wins": 70
+    },
+    "nonNeutralVenue": {
+      "draws": 96,
+      "goalsAgainst": 429,
+      "goalsFor": 467,
+      "losses": 123,
+      "matches": 349,
+      "wins": 130
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "guinea",
+  "teamName": "Guinea",
+  "topScorers": [
+    {
+      "goals": 19,
+      "playerKey": "pascal-feindouno",
+      "scorer": "Pascal Feindouno"
+    },
+    {
+      "goals": 11,
+      "playerKey": "titi-camara",
+      "scorer": "Titi Camara"
+    },
+    {
+      "goals": 8,
+      "playerKey": "samb-gou-bangoura",
+      "scorer": "Sambégou Bangoura"
+    },
+    {
+      "goals": 7,
+      "playerKey": "kaba-diawara",
+      "scorer": "Kaba Diawara"
+    },
+    {
+      "goals": 6,
+      "playerKey": "isma-l-bangoura",
+      "scorer": "Ismaël Bangoura"
+    },
+    {
+      "goals": 6,
+      "playerKey": "mohamed-yattara",
+      "scorer": "Mohamed Yattara"
+    },
+    {
+      "goals": 6,
+      "playerKey": "souleymane-oular",
+      "scorer": "Souleymane Oularé"
+    },
+    {
+      "goals": 5,
+      "playerKey": "fod-camara",
+      "scorer": "Fodé Camara"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mamadou-aliou-keita",
+      "scorer": "Mamadou Aliou Keita"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mohamed-bayo",
+      "scorer": "Mohamed Bayo"
+    }
+  ]
+}

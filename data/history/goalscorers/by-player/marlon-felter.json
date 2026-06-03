@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "suriname",
+      "date": "2004-02-28",
+      "goalId": "goal-2004-02-28-aruba-suriname-23432",
+      "homeTeamId": "aruba",
+      "matchKey": "2004-02-28-aruba-suriname",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marlon Felter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "aruba",
+      "date": "2004-03-27",
+      "goalId": "goal-2004-03-27-suriname-aruba-23477",
+      "homeTeamId": "suriname",
+      "matchKey": "2004-03-27-suriname-aruba",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon Felter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "aruba",
+      "date": "2004-03-27",
+      "goalId": "goal-2004-03-27-suriname-aruba-23481",
+      "homeTeamId": "suriname",
+      "matchKey": "2004-03-27-suriname-aruba",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon Felter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "aruba",
+      "date": "2004-03-27",
+      "goalId": "goal-2004-03-27-suriname-aruba-23482",
+      "homeTeamId": "suriname",
+      "matchKey": "2004-03-27-suriname-aruba",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon Felter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-suriname-el-salvador-28543",
+      "homeTeamId": "suriname",
+      "matchKey": "2008-09-10-suriname-el-salvador",
+      "minute": 12,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Marlon Felter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "marlon felter",
+  "playerKey": "marlon-felter",
+  "scorer": "Marlon Felter",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador",
+    "suriname"
+  ]
+}

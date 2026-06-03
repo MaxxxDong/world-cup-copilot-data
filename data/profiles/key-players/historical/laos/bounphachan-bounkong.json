@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2000-11-29",
+    "nationality": "Laos",
+    "playerKey": "bounphachan-bounkong",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "140791",
+      "espn": "282929",
+      "fbref": "d10984aa",
+      "footballdatabase_eu": "386359",
+      "impect": "110645",
+      "national_football_teams": "70665",
+      "soccerway": "560754",
+      "sofascore": "937794",
+      "thesportsdb": "34252434",
+      "transfermarkt": "605154",
+      "wikidata": "Q60775557",
+      "worldfootball": "bounpachan-bounkong"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-10-12",
+  "playerKey": "bounphachan-bounkong",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-nepal-laos-43641",
+      "matchKey": "2023-10-12-nepal-laos",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bounphachan Bounkong"
+    }
+  ],
+  "scorer": "Bounphachan Bounkong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "laos",
+  "teamName": "Laos",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

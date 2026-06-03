@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1986-11-12",
+      "goalId": "goal-1986-11-12-greece-hungary-11330",
+      "homeTeamId": "greece",
+      "matchKey": "1986-11-12-greece-hungary",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Imre Boda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1987-02-08",
+      "goalId": "goal-1987-02-08-cyprus-hungary-11369",
+      "homeTeamId": "cyprus",
+      "matchKey": "1987-02-08-cyprus-hungary",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Imre Boda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1989-04-12",
+      "goalId": "goal-1989-04-12-hungary-malta-11969",
+      "homeTeamId": "hungary",
+      "matchKey": "1989-04-12-hungary-malta",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Imre Boda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "imre boda",
+  "playerKey": "imre-boda",
+  "scorer": "Imre Boda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

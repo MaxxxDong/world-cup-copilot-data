@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1976-10-09",
+      "goalId": "goal-1976-10-09-greece-hungary-7609",
+      "homeTeamId": "greece",
+      "matchKey": "1976-10-09-greece-hungary",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zoltán Kereki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1977-04-30",
+      "goalId": "goal-1977-04-30-hungary-russia-7885",
+      "homeTeamId": "hungary",
+      "matchKey": "1977-04-30-hungary-russia",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zoltán Kereki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "zolt n kereki",
+  "playerKey": "zolt-n-kereki",
+  "scorer": "Zoltán Kereki",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

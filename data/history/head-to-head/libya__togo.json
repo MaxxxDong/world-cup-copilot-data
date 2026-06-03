@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 8,
+    "teamAGoals": 14,
+    "teamAWins": 4,
+    "teamBGoals": 7,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "togo",
+    "date": "2017-03-24",
+    "homeScore": 0,
+    "homeTeamId": "libya",
+    "matchId": "int-2017-03-24-libya-togo",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "1999-11-19",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-1999-11-19-libya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "1999-12-29",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-1999-12-29-libya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "togo",
+      "date": "2001-02-23",
+      "homeScore": 3,
+      "homeTeamId": "libya",
+      "matchId": "int-2001-02-23-libya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2001-07-15",
+      "homeScore": 2,
+      "homeTeamId": "togo",
+      "matchId": "int-2001-07-15-togo-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2002-09-02",
+      "homeScore": 4,
+      "homeTeamId": "libya",
+      "matchId": "int-2002-09-02-libya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "libya",
+      "date": "2012-06-03",
+      "homeScore": 1,
+      "homeTeamId": "togo",
+      "matchId": "int-2012-06-03-togo-libya",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2013-06-14",
+      "homeScore": 2,
+      "homeTeamId": "libya",
+      "matchId": "int-2013-06-14-libya-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2017-03-24",
+      "homeScore": 0,
+      "homeTeamId": "libya",
+      "matchId": "int-2017-03-24-libya-togo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "libya__togo",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 14,
+      "teamAWins": 4,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "libya",
+  "teamBId": "togo"
+}

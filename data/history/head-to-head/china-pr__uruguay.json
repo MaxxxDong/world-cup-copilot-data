@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 1,
+    "teamAWins": 0,
+    "teamBGoals": 9,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "uruguay",
+    "date": "2010-10-12",
+    "homeScore": 0,
+    "homeTeamId": "china-pr",
+    "matchId": "int-2010-10-12-china-pr-uruguay",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "uruguay",
+      "date": "1982-02-22",
+      "homeScore": 0,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1982-02-22-china-pr-uruguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Nehru Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "uruguay",
+      "date": "1982-03-04",
+      "homeScore": 0,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1982-03-04-china-pr-uruguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Nehru Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uruguay",
+      "date": "1996-07-17",
+      "homeScore": 1,
+      "homeTeamId": "china-pr",
+      "matchId": "int-1996-07-17-china-pr-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "uruguay",
+      "date": "2002-05-16",
+      "homeScore": 0,
+      "homeTeamId": "china-pr",
+      "matchId": "int-2002-05-16-china-pr-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "uruguay",
+      "date": "2010-10-12",
+      "homeScore": 0,
+      "homeTeamId": "china-pr",
+      "matchId": "int-2010-10-12-china-pr-uruguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "china-pr__uruguay",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "china-pr",
+  "teamBId": "uruguay"
+}

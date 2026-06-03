@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Abkhazia"
+  ],
+  "allTime": {
+    "draws": 13,
+    "goalsAgainst": 26,
+    "goalsFor": 54,
+    "losses": 5,
+    "matches": 33,
+    "wins": 15
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 7,
+      "goalsFor": 18,
+      "losses": 1,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 16,
+      "goalsFor": 32,
+      "losses": 3,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 3,
+      "goalsFor": 6,
+      "losses": 0,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "chameria",
+      "date": "2019-06-08",
+      "homeScore": 0,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2019-06-08-abkhazia-chameria",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "western-armenia",
+      "date": "2019-06-06",
+      "homeScore": 1,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2019-06-06-abkhazia-western-armenia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-04",
+      "homeScore": 1,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-04-artsakh-abkhazia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "abkhazia",
+      "date": "2019-06-03",
+      "homeScore": 0,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2019-06-03-sapmi-abkhazia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chameria",
+      "date": "2019-06-02",
+      "homeScore": 3,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2019-06-02-abkhazia-chameria",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 11,
+      "goalsAgainst": 20,
+      "goalsFor": 47,
+      "losses": 3,
+      "matches": 26,
+      "wins": 12
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 7,
+      "wins": 3
+    },
+    "neutralVenue": {
+      "draws": 8,
+      "goalsAgainst": 17,
+      "goalsFor": 29,
+      "losses": 3,
+      "matches": 18,
+      "wins": 7
+    },
+    "nonNeutralVenue": {
+      "draws": 5,
+      "goalsAgainst": 9,
+      "goalsFor": 25,
+      "losses": 2,
+      "matches": 15,
+      "wins": 8
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "abkhazia",
+  "teamName": "Abkhazia",
+  "topScorers": []
+}

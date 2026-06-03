@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "fiji",
+      "date": "2022-03-21",
+      "goalId": "goal-2022-03-21-new-zealand-fiji-42329",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2022-03-21-new-zealand-fiji",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Clayton Lewis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "clayton lewis",
+  "playerKey": "clayton-lewis",
+  "scorer": "Clayton Lewis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "2008-06-19",
+      "goalId": "goal-2008-06-19-venezuela-chile-28127",
+      "homeTeamId": "venezuela",
+      "matchKey": "2008-06-19-venezuela-chile",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gonzalo Jara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-chile-colombia-28464",
+      "homeTeamId": "chile",
+      "matchKey": "2008-09-10-chile-colombia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gonzalo Jara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "gonzalo jara",
+  "playerKey": "gonzalo-jara",
+  "scorer": "Gonzalo Jara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1959-12-25",
+      "goalId": "goal-1959-12-25-ecuador-paraguay-3262",
+      "homeTeamId": "ecuador",
+      "matchKey": "1959-12-25-ecuador-paraguay",
+      "minute": 5,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Romulo Gómez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1960-12-17",
+      "goalId": "goal-1960-12-17-arg-ecuador-3426",
+      "homeTeamId": "arg",
+      "matchKey": "1960-12-17-arg-ecuador",
+      "minute": 6,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Romulo Gómez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1965-10-12",
+      "goalId": "goal-1965-10-12-chile-ecuador-4485",
+      "homeTeamId": "chile",
+      "matchKey": "1965-10-12-chile-ecuador",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romulo Gómez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "romulo g mez",
+  "playerKey": "romulo-g-mez",
+  "scorer": "Romulo Gómez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg",
+    "ecuador",
+    "paraguay"
+  ]
+}

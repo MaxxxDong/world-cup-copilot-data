@@ -1,0 +1,77 @@
+{
+  "club": "Pakhtakor Tashkent FK (UZB)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1998-07-23",
+    "nationality": "Uzbekistan",
+    "playerKey": "sherzod-nasrullaev",
+    "providerIds": {
+      "footballdatabase_eu": "355658",
+      "heimspiel": "670093",
+      "impect": "61744",
+      "kicker": "sherzod-nasrullaev",
+      "national_football_teams": "85580",
+      "skillcorner": "152143",
+      "soccerway": "562659",
+      "sofascore": "1014276",
+      "transfermarkt": "608537",
+      "wikidata": "Q124101458",
+      "wyscout": "580811"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Sherzod Nasrullaev",
+  "playerKey": "sherzod-nasrullaev",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-uzbekistan-turkmenistan-44707",
+      "matchKey": "2024-06-06-uzbekistan-turkmenistan",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sherzod Nasrullaev"
+    },
+    {
+      "date": "2024-01-18",
+      "goalId": "goal-2024-01-18-india-uzbekistan-44272",
+      "matchKey": "2024-01-18-india-uzbekistan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sherzod Nasrullaev"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+  },
+  "shirtNumber": 13,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uzbekistan",
+  "teamName": "Uzbekistan"
+}

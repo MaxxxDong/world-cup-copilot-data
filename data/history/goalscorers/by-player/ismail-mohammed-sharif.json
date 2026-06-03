@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "niger",
+      "date": "1980-07-27",
+      "goalId": "goal-1980-07-27-somalia-niger-8921",
+      "homeTeamId": "somalia",
+      "matchKey": "1980-07-27-somalia-niger",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismail Mohammed Sharif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "somalia"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "1989-01-06",
+      "goalId": "goal-1989-01-06-oman-iraq-11821",
+      "homeTeamId": "oman",
+      "matchKey": "1989-01-06-oman-iraq",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ismail Mohammed Sharif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "ismail mohammed sharif",
+  "playerKey": "ismail-mohammed-sharif",
+  "scorer": "Ismail Mohammed Sharif",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq",
+    "somalia"
+  ]
+}

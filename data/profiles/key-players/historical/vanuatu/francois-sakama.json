@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2007-11-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-12-12",
+    "nationality": "Vanuatu",
+    "playerKey": "francois-sakama",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "670a6909",
+      "footballdatabase_eu": "22304",
+      "national_football_teams": "23377",
+      "soccerway": "236192",
+      "sofifa": "278832",
+      "transfermarkt": "68366",
+      "wikidata": "Q1451184",
+      "worldfootball": "francois-sakama"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-09-10",
+  "playerKey": "francois-sakama",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-vanuatu-fiji-28559",
+      "matchKey": "2008-09-10-vanuatu-fiji",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Francois Sakama"
+    },
+    {
+      "date": "2007-11-21",
+      "goalId": "goal-2007-11-21-new-zealand-vanuatu-27514",
+      "matchKey": "2007-11-21-new-zealand-vanuatu",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Francois Sakama"
+    }
+  ],
+  "scorer": "Francois Sakama",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

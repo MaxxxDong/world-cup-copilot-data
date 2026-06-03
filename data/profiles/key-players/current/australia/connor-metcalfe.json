@@ -1,0 +1,78 @@
+{
+  "club": "FC St. Pauli (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-11-05",
+    "nationality": "Australia",
+    "playerKey": "connor-metcalfe",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "6904",
+      "capology": "connor-metcalfe-36469",
+      "espn": "260643",
+      "fbref": "73ce4d7d",
+      "footballdatabase_eu": "347672",
+      "fotmob": "885870",
+      "heimspiel": "502117",
+      "impect": "110604",
+      "kicker": "connor-metcalfe",
+      "national_football_teams": "82865",
+      "opta": "1igjz2w9dr9mj5f4ade5plsve",
+      "skillcorner": "159939",
+      "soccerbase": "106166",
+      "soccerway": "500466",
+      "sofascore": "888854",
+      "thesportsdb": "34173980",
+      "transfermarkt": "522223",
+      "wikidata": "Q51213832",
+      "worldfootball": "connor-metcalfe",
+      "wyscout": "526067"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Connor Metcalfe",
+  "playerKey": "connor-metcalfe",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-saudi-arabia-australia-46437",
+      "matchKey": "2025-06-10-saudi-arabia-australia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Connor Metcalfe"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "australia",
+  "teamName": "Australia"
+}

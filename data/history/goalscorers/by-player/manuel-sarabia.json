@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1983-12-21",
+      "goalId": "goal-1983-12-21-spain-malta-10201",
+      "homeTeamId": "spain",
+      "matchKey": "1983-12-21-spain-malta",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Sarabia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1985-06-12",
+      "goalId": "goal-1985-06-12-iceland-spain-10861",
+      "homeTeamId": "iceland",
+      "matchKey": "1985-06-12-iceland-spain",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Sarabia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "manuel sarabia",
+  "playerKey": "manuel-sarabia",
+  "scorer": "Manuel Sarabia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

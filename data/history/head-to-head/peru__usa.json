@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 8,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "peru",
+    "date": "2018-10-16",
+    "homeScore": 1,
+    "homeTeamId": "usa",
+    "matchId": "int-2018-10-16-usa-peru",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "peru",
+      "date": "1989-06-04",
+      "homeScore": 3,
+      "homeTeamId": "usa",
+      "matchId": "int-1989-06-04-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Marlboro Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "peru",
+      "date": "1993-05-26",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-1993-05-26-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "usa",
+      "date": "1996-10-16",
+      "homeScore": 4,
+      "homeTeamId": "peru",
+      "matchId": "int-1996-10-16-peru-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "peru",
+      "date": "1997-01-17",
+      "homeScore": 0,
+      "homeTeamId": "usa",
+      "matchId": "int-1997-01-17-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "USA Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "peru",
+      "date": "2000-02-16",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2000-02-16-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "peru",
+      "date": "2015-09-04",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2015-09-04-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "peru",
+      "date": "2018-10-16",
+      "homeScore": 1,
+      "homeTeamId": "usa",
+      "matchId": "int-2018-10-16-usa-peru",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "peru__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "peru",
+  "teamBId": "usa"
+}

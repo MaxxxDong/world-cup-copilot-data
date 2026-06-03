@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "2001-09-05",
+      "goalId": "goal-2001-09-05-arg-bra-21770",
+      "homeTeamId": "arg",
+      "matchKey": "2001-09-05-arg-bra",
+      "minute": 84,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Cris",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "cris",
+  "playerKey": "cris",
+  "scorer": "Cris",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1977-10-08",
+      "goalId": "goal-1977-10-08-nigeria-egypt-7989",
+      "homeTeamId": "nigeria",
+      "matchKey": "1977-10-08-nigeria-egypt",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Chukwu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "1978-03-05",
+      "goalId": "goal-1978-03-05-nigeria-burkina-faso-8178",
+      "homeTeamId": "nigeria",
+      "matchKey": "1978-03-05-nigeria-burkina-faso",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Chukwu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "christian chukwu",
+  "playerKey": "christian-chukwu",
+  "scorer": "Christian Chukwu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

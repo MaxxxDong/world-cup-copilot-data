@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "tunisia",
+      "date": "2018-06-23",
+      "goalId": "goal-2018-06-23-belgium-tunisia-37600",
+      "homeTeamId": "belgium",
+      "matchKey": "2018-06-23-belgium-tunisia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dylan Bronn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "2019-07-14",
+      "goalId": "goal-2019-07-14-senegal-tunisia-38783",
+      "homeTeamId": "senegal",
+      "matchKey": "2019-07-14-senegal-tunisia",
+      "minute": 101,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Dylan Bronn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "equatorial-guinea",
+      "date": "2021-09-03",
+      "goalId": "goal-2021-09-03-tunisia-equatorial-guinea-41222",
+      "homeTeamId": "tunisia",
+      "matchKey": "2021-09-03-tunisia-equatorial-guinea",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dylan Bronn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    }
+  ],
+  "normalizedScorer": "dylan bronn",
+  "playerKey": "dylan-bronn",
+  "scorer": "Dylan Bronn",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal",
+    "tunisia"
+  ]
+}

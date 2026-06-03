@@ -1,0 +1,246 @@
+{
+  "aliases": [
+    "DR Congo",
+    "COD",
+    "Congo DR",
+    "Democratic Republic of the Congo",
+    "Leopards"
+  ],
+  "allTime": {
+    "draws": 143,
+    "goalsAgainst": 625,
+    "goalsFor": 778,
+    "losses": 173,
+    "matches": 522,
+    "wins": 206
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "COD",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 3,
+      "goalsFor": 12,
+      "losses": 1,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 11,
+      "goalsFor": 29,
+      "losses": 4,
+      "matches": 20,
+      "wins": 14
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 2,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "jamaica",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "dr-congo",
+      "matchId": "int-2026-03-31-dr-congo-jamaica",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "dr-congo",
+      "date": "2026-03-25",
+      "homeScore": 0,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2026-03-25-bermuda-dr-congo",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dr-congo",
+      "date": "2026-01-06",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2026-01-06-algeria-dr-congo",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "dr-congo",
+      "date": "2025-12-30",
+      "homeScore": 0,
+      "homeTeamId": "botswana",
+      "matchId": "int-2025-12-30-botswana-dr-congo",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "dr-congo",
+      "date": "2025-12-27",
+      "homeScore": 1,
+      "homeTeamId": "senegal",
+      "matchId": "int-2025-12-27-senegal-dr-congo",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 86,
+      "goalsAgainst": 376,
+      "goalsFor": 506,
+      "losses": 104,
+      "matches": 335,
+      "wins": 145
+    },
+    "friendly": {
+      "draws": 57,
+      "goalsAgainst": 249,
+      "goalsFor": 272,
+      "losses": 69,
+      "matches": 187,
+      "wins": 61
+    },
+    "neutralVenue": {
+      "draws": 45,
+      "goalsAgainst": 179,
+      "goalsFor": 201,
+      "losses": 52,
+      "matches": 152,
+      "wins": 55
+    },
+    "nonNeutralVenue": {
+      "draws": 98,
+      "goalsAgainst": 446,
+      "goalsFor": 577,
+      "losses": 121,
+      "matches": 370,
+      "wins": 151
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 0,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "dr-congo",
+  "teamName": "DR Congo",
+  "topScorers": [
+    {
+      "goals": 15,
+      "playerKey": "dieumerci-mbokani",
+      "scorer": "Dieumerci Mbokani"
+    },
+    {
+      "goals": 11,
+      "playerKey": "shabani-nonda",
+      "scorer": "Shabani Nonda"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ndaye-mulamba",
+      "scorer": "Ndaye Mulamba"
+    },
+    {
+      "goals": 9,
+      "playerKey": "c-dric-bakambu",
+      "scorer": "Cédric Bakambu"
+    },
+    {
+      "goals": 9,
+      "playerKey": "tr-sor-mputu",
+      "scorer": "Trésor Mputu"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jean-kalala-n-tumba",
+      "scorer": "Jean Kalala N'Tumba"
+    },
+    {
+      "goals": 7,
+      "playerKey": "kakoko-etep",
+      "scorer": "Kakoko Etepé"
+    },
+    {
+      "goals": 7,
+      "playerKey": "mayanga-maku",
+      "scorer": "Mayanga Maku"
+    },
+    {
+      "goals": 6,
+      "playerKey": "eug-ne-kabongo",
+      "scorer": "Eugène Kabongo"
+    },
+    {
+      "goals": 6,
+      "playerKey": "kembo-uba-kembo",
+      "scorer": "Kembo Uba Kembo"
+    }
+  ]
+}

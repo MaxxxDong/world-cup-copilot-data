@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "2019-10-12",
+      "goalId": "goal-2019-10-12-malta-sweden-39232",
+      "homeTeamId": "malta",
+      "matchKey": "2019-10-12-malta-sweden",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Danielson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2020-11-14",
+      "goalId": "goal-2020-11-14-sweden-croatia-39925",
+      "homeTeamId": "sweden",
+      "matchKey": "2020-11-14-sweden-croatia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcus Danielson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2020-11-14",
+      "goalId": "goal-2020-11-14-sweden-croatia-39926",
+      "homeTeamId": "sweden",
+      "matchKey": "2020-11-14-sweden-croatia",
+      "minute": 82,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Marcus Danielson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "marcus danielson",
+  "playerKey": "marcus-danielson",
+  "scorer": "Marcus Danielson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia",
+    "sweden"
+  ]
+}

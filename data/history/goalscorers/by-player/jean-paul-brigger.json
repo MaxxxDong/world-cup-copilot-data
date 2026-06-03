@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1983-11-09",
+      "goalId": "goal-1983-11-09-switzerland-belgium-10141",
+      "homeTeamId": "switzerland",
+      "matchKey": "1983-11-09-switzerland-belgium",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Paul Brigger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1985-04-17",
+      "goalId": "goal-1985-04-17-switzerland-russia-10707",
+      "homeTeamId": "switzerland",
+      "matchKey": "1985-04-17-switzerland-russia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jean-Paul Brigger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1986-11-15",
+      "goalId": "goal-1986-11-15-italy-switzerland-11336",
+      "homeTeamId": "italy",
+      "matchKey": "1986-11-15-italy-switzerland",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Paul Brigger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "jean paul brigger",
+  "playerKey": "jean-paul-brigger",
+  "scorer": "Jean-Paul Brigger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

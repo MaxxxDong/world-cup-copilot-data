@@ -1,0 +1,89 @@
+{
+  "generatedFromMatchCount": 3,
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "matabeleland",
+      "date": "2022-05-25",
+      "homeScore": 1,
+      "homeTeamId": "biafra",
+      "matchId": "int-2022-05-25-biafra-matabeleland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "biafra",
+      "date": "2022-05-23",
+      "homeScore": 0,
+      "homeTeamId": "yoruba-nation",
+      "matchId": "int-2022-05-23-yoruba-nation-biafra",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "matabeleland",
+      "date": "2022-05-22",
+      "homeScore": 0,
+      "homeTeamId": "biafra",
+      "matchId": "int-2022-05-22-biafra-matabeleland",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "biafra",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "losses": 1,
+      "matches": 3,
+      "wins": 2
+    }
+  }
+}

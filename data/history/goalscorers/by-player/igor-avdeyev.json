@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "macau",
+      "date": "2001-04-14",
+      "goalId": "goal-2001-04-14-kazakhstan-macau-20841",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "2001-04-14-kazakhstan-macau",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Avdeyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    },
+    {
+      "awayTeamId": "macau",
+      "date": "2001-04-23",
+      "goalId": "goal-2001-04-23-kazakhstan-macau-20929",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "2001-04-23-kazakhstan-macau",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Avdeyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    },
+    {
+      "awayTeamId": "macau",
+      "date": "2001-04-23",
+      "goalId": "goal-2001-04-23-kazakhstan-macau-20931",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "2001-04-23-kazakhstan-macau",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Avdeyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-ukraine-kazakhstan-25275",
+      "homeTeamId": "ukraine",
+      "matchKey": "2005-06-04-ukraine-kazakhstan",
+      "minute": 83,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Igor Avdeyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    }
+  ],
+  "normalizedScorer": "igor avdeyev",
+  "playerKey": "igor-avdeyev",
+  "scorer": "Igor Avdeyev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kazakhstan",
+    "ukraine"
+  ]
+}

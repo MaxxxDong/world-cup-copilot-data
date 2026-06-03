@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-costa-rica-martinique-43407",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2023-07-04-costa-rica-martinique",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brighton Labeau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "martinique"
+    }
+  ],
+  "normalizedScorer": "brighton labeau",
+  "playerKey": "brighton-labeau",
+  "scorer": "Brighton Labeau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "martinique"
+  ]
+}

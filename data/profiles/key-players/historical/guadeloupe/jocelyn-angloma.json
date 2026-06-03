@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "2007-06-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1965-08-07",
+    "nationality": "France",
+    "playerKey": "jocelyn-angloma",
+    "position": "full-back",
+    "providerIds": {
+      "eu_football_info": "650",
+      "fbref": "88ab9338",
+      "fff_fr": "9770-angloma-jocelyn",
+      "footballdatabase_eu": "13119",
+      "kicker": "jocelyn-angloma",
+      "lequipe": "7304",
+      "national_football_teams": "13952",
+      "sofifa": "95499",
+      "thesportsdb": "34230063",
+      "transfermarkt": "51776",
+      "wikidata": "Q460700",
+      "worldfootball": "jocelyn-angloma"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2007-06-17",
+  "playerKey": "jocelyn-angloma",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2007-06-17",
+      "goalId": "goal-2007-06-17-honduras-guadeloupe-26764",
+      "matchKey": "2007-06-17-honduras-guadeloupe",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jocelyn Angloma"
+    },
+    {
+      "date": "2007-06-09",
+      "goalId": "goal-2007-06-09-canada-guadeloupe-26728",
+      "matchKey": "2007-06-09-canada-guadeloupe",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jocelyn Angloma"
+    }
+  ],
+  "scorer": "Jocelyn Angloma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

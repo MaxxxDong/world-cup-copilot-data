@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Nepal"
+  ],
+  "allTime": {
+    "draws": 47,
+    "goalsAgainst": 602,
+    "goalsFor": 229,
+    "losses": 158,
+    "matches": 268,
+    "wins": 63
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 11,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 37,
+      "goalsFor": 11,
+      "losses": 12,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "nepal",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "malaysia",
+      "matchId": "int-2025-11-18-malaysia-nepal",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "nepal",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-11-13-bangladesh-nepal",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nepal",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2025-10-14-vietnam-nepal",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "nepal",
+      "date": "2025-10-09",
+      "homeScore": 3,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2025-10-09-vietnam-nepal",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bangladesh",
+      "date": "2025-09-06",
+      "homeScore": 0,
+      "homeTeamId": "nepal",
+      "matchId": "int-2025-09-06-nepal-bangladesh",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 32,
+      "goalsAgainst": 498,
+      "goalsFor": 174,
+      "losses": 128,
+      "matches": 204,
+      "wins": 44
+    },
+    "friendly": {
+      "draws": 15,
+      "goalsAgainst": 104,
+      "goalsFor": 55,
+      "losses": 30,
+      "matches": 64,
+      "wins": 19
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 298,
+      "goalsFor": 108,
+      "losses": 76,
+      "matches": 120,
+      "wins": 26
+    },
+    "nonNeutralVenue": {
+      "draws": 29,
+      "goalsAgainst": 304,
+      "goalsFor": 121,
+      "losses": 82,
+      "matches": 148,
+      "wins": 37
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "nirajan-rayamajhi",
+      "scorer": "Nirajan Rayamajhi"
+    },
+    {
+      "goals": 4,
+      "playerKey": "anjan-bista",
+      "scorer": "Anjan Bista"
+    },
+    {
+      "goals": 3,
+      "playerKey": "hari-khadka",
+      "scorer": "Hari Khadka"
+    },
+    {
+      "goals": 2,
+      "playerKey": "anil-gurung",
+      "scorer": "Anil Gurung"
+    },
+    {
+      "goals": 2,
+      "playerKey": "basanta-thapa",
+      "scorer": "Basanta Thapa"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ju-manu-rai",
+      "scorer": "Ju Manu Rai"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bal-gopal-maharjan",
+      "scorer": "Bal Gopal Maharjan"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bharat-khawas",
+      "scorer": "Bharat Khawas"
+    },
+    {
+      "goals": 1,
+      "playerKey": "bhola-silwal",
+      "scorer": "Bhola Silwal"
+    },
+    {
+      "goals": 1,
+      "playerKey": "deepak-amatya",
+      "scorer": "Deepak Amatya"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Vanuatu"
+  ],
+  "allTime": {
+    "draws": 29,
+    "goalsAgainst": 459,
+    "goalsFor": 401,
+    "losses": 116,
+    "matches": 213,
+    "wins": 68
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 24,
+      "goalsFor": 14,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 44,
+      "goalsFor": 29,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "vanuatu",
+      "date": "2025-11-23",
+      "homeScore": 2,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2025-11-23-papua-new-guinea-vanuatu",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "solomon-islands",
+      "date": "2025-11-20",
+      "homeScore": 2,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2025-11-20-vanuatu-solomon-islands",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2025-11-17",
+      "homeScore": 2,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2025-11-17-vanuatu-fiji",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "papua-new-guinea",
+      "date": "2024-12-21",
+      "homeScore": 1,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2024-12-21-vanuatu-papua-new-guinea",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "vanuatu",
+      "date": "2024-12-12",
+      "homeScore": 1,
+      "homeTeamId": "fiji",
+      "matchId": "int-2024-12-12-fiji-vanuatu",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 22,
+      "goalsAgainst": 382,
+      "goalsFor": 358,
+      "losses": 95,
+      "matches": 177,
+      "wins": 60
+    },
+    "friendly": {
+      "draws": 7,
+      "goalsAgainst": 77,
+      "goalsFor": 43,
+      "losses": 21,
+      "matches": 36,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 254,
+      "goalsFor": 278,
+      "losses": 62,
+      "matches": 120,
+      "wins": 42
+    },
+    "nonNeutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 205,
+      "goalsFor": 123,
+      "losses": 54,
+      "matches": 93,
+      "wins": 26
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "topScorers": [
+    {
+      "goals": 9,
+      "playerKey": "richard-iwai",
+      "scorer": "Richard Iwai"
+    },
+    {
+      "goals": 6,
+      "playerKey": "na",
+      "scorer": "NA"
+    },
+    {
+      "goals": 5,
+      "playerKey": "etienne-mermer",
+      "scorer": "Etienne Mermer"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jean-maleb",
+      "scorer": "Jean Maleb"
+    },
+    {
+      "goals": 3,
+      "playerKey": "alphose-qorig",
+      "scorer": "Alphose Qorig"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jean-nako-naprapol",
+      "scorer": "Jean Nako Naprapol"
+    },
+    {
+      "goals": 3,
+      "playerKey": "robert-tasso",
+      "scorer": "Robert Tasso"
+    },
+    {
+      "goals": 3,
+      "playerKey": "seimata-chilia",
+      "scorer": "Seimata Chilia"
+    },
+    {
+      "goals": 3,
+      "playerKey": "simon-lauru",
+      "scorer": "Simon Lauru"
+    },
+    {
+      "goals": 2,
+      "playerKey": "brian-kaltak",
+      "scorer": "Brian Kaltak"
+    }
+  ]
+}

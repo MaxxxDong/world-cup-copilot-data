@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "1991-07-02",
+      "goalId": "goal-1991-07-02-jamaica-canada-12847",
+      "homeTeamId": "jamaica",
+      "matchKey": "1991-07-02-jamaica-canada",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Colin Miller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1992-10-25",
+      "goalId": "goal-1992-10-25-el-salvador-canada-13422",
+      "homeTeamId": "el-salvador",
+      "matchKey": "1992-10-25-el-salvador-canada",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Colin Miller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "1992-11-08",
+      "goalId": "goal-1992-11-08-canada-el-salvador-13485",
+      "homeTeamId": "canada",
+      "matchKey": "1992-11-08-canada-el-salvador",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Colin Miller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "colin miller",
+  "playerKey": "colin-miller",
+  "scorer": "Colin Miller",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

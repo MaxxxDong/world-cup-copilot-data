@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2004-02-18",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1981-07-25",
+    "nationality": "Chile",
+    "playerKey": "roberto-kettlun",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "d478b24b",
+      "footballdatabase_eu": "10266",
+      "national_football_teams": "5039",
+      "soccerway": "280161",
+      "sofifa": "210236",
+      "transfermarkt": "12893",
+      "wikidata": "Q1277563",
+      "worldfootball": "roberto-beshe"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-03-31",
+  "playerKey": "roberto-kettlun",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-03-31",
+      "goalId": "goal-2004-03-31-palestine-iraq-23523",
+      "matchKey": "2004-03-31-palestine-iraq",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Kettlun"
+    },
+    {
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-palestine-taiwan-23405",
+      "matchKey": "2004-02-18-palestine-taiwan",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Kettlun"
+    },
+    {
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-palestine-taiwan-23402",
+      "matchKey": "2004-02-18-palestine-taiwan",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roberto Kettlun"
+    }
+  ],
+  "scorer": "Roberto Kettlun",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "palestine",
+  "teamName": "Palestine",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

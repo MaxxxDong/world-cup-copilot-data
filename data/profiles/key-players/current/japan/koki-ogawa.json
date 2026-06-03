@@ -1,0 +1,99 @@
+{
+  "club": "NEC Nijmegen (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1997-08-08",
+    "nationality": "Japan",
+    "playerKey": "koki-ogawa",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "264460",
+      "api_football": "33289",
+      "besoccer": "318431",
+      "capology": "koki-ogawa-35650",
+      "espn": "238016",
+      "fbref": "3d2e8955",
+      "footballdatabase_eu": "277368",
+      "fotmob": "727837",
+      "heimspiel": "442715",
+      "impect": "15926",
+      "kicker": "koki-ogawa",
+      "national_football_teams": "76453",
+      "opta": "dgex06nxjy9fdvc12o8keg99l",
+      "skillcorner": "606611",
+      "soccerbase": "127178",
+      "soccerway": "435835",
+      "sofascore": "831860",
+      "sofifa": "403293",
+      "thesportsdb": "34220664",
+      "transfermarkt": "351567",
+      "wikidata": "Q22127681",
+      "worldfootball": "koki-ogawa",
+      "wyscout": "418975"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Koki Ogawa",
+  "playerKey": "koki-ogawa",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-09-10",
+      "goalId": "goal-2024-09-10-bahrain-japan-45329",
+      "matchKey": "2024-09-10-bahrain-japan",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Koki Ogawa"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-myanmar-japan-44680",
+      "matchKey": "2024-06-06-myanmar-japan",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Koki Ogawa"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-myanmar-japan-44679",
+      "matchKey": "2024-06-06-myanmar-japan",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Koki Ogawa"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "japan",
+  "teamName": "Japan"
+}

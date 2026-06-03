@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1965-12-01",
+      "goalId": "goal-1965-12-01-wales-denmark-4607",
+      "homeTeamId": "wales",
+      "matchKey": "1965-12-01-wales-denmark",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wyn Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1966-11-16",
+      "goalId": "goal-1966-11-16-england-wales-4752",
+      "homeTeamId": "england",
+      "matchKey": "1966-11-16-england-wales",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wyn Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1968-02-28",
+      "goalId": "goal-1968-02-28-wales-northern-ireland-5140",
+      "homeTeamId": "wales",
+      "matchKey": "1968-02-28-wales-northern-ireland",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wyn Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "wyn davies",
+  "playerKey": "wyn-davies",
+  "scorer": "Wyn Davies",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

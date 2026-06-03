@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 7,
+    "teamAGoals": 14,
+    "teamAWins": 5,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "algeria",
+    "date": "2024-10-14",
+    "homeScore": 0,
+    "homeTeamId": "togo",
+    "matchId": "int-2024-10-14-togo-algeria",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "1997-12-22",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-1997-12-22-algeria-togo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "togo",
+      "date": "2013-01-26",
+      "homeScore": 0,
+      "homeTeamId": "algeria",
+      "matchId": "int-2013-01-26-algeria-togo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "togo",
+      "date": "2017-06-11",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2017-06-11-algeria-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "algeria",
+      "date": "2018-11-18",
+      "homeScore": 1,
+      "homeTeamId": "togo",
+      "matchId": "int-2018-11-18-togo-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "algeria",
+      "date": "2024-01-05",
+      "homeScore": 0,
+      "homeTeamId": "togo",
+      "matchId": "int-2024-01-05-togo-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "togo",
+      "date": "2024-10-10",
+      "homeScore": 5,
+      "homeTeamId": "algeria",
+      "matchId": "int-2024-10-10-algeria-togo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "2024-10-14",
+      "homeScore": 0,
+      "homeTeamId": "togo",
+      "matchId": "int-2024-10-14-togo-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "algeria__togo",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 11,
+      "teamAWins": 4,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 14,
+      "teamAWins": 5,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "algeria",
+  "teamBId": "togo"
+}

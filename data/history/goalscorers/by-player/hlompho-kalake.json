@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-lesotho-nigeria-47009",
+      "homeTeamId": "lesotho",
+      "matchKey": "2025-10-10-lesotho-nigeria",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlompho Kalake",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lesotho"
+    },
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-lesotho-zimbabwe-47127",
+      "homeTeamId": "lesotho",
+      "matchKey": "2025-10-13-lesotho-zimbabwe",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlompho Kalake",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lesotho"
+    }
+  ],
+  "normalizedScorer": "hlompho kalake",
+  "playerKey": "hlompho-kalake",
+  "scorer": "Hlompho Kalake",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lesotho"
+  ]
+}

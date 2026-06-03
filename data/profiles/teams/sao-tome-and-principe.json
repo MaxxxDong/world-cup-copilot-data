@@ -1,0 +1,227 @@
+{
+  "aliases": [
+    "São Tomé and Príncipe"
+  ],
+  "allTime": {
+    "draws": 10,
+    "goalsAgainst": 182,
+    "goalsFor": 53,
+    "losses": 52,
+    "matches": 71,
+    "wins": 9
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 21,
+      "goalsFor": 6,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 59,
+      "goalsFor": 12,
+      "losses": 15,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "malawi",
+      "date": "2025-10-13",
+      "homeScore": 1,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2025-10-13-sao-tome-and-principe-malawi",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2025-10-10",
+      "homeScore": 6,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2025-10-10-tunisia-sao-tome-and-principe",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2025-09-09",
+      "homeScore": 3,
+      "homeTeamId": "namibia",
+      "matchId": "int-2025-09-09-namibia-sao-tome-and-principe",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "equatorial-guinea",
+      "date": "2025-09-04",
+      "homeScore": 2,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2025-09-04-sao-tome-and-principe-equatorial-guinea",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2025-03-24",
+      "homeScore": 2,
+      "homeTeamId": "liberia",
+      "matchId": "int-2025-03-24-liberia-sao-tome-and-principe",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 155,
+      "goalsFor": 40,
+      "losses": 45,
+      "matches": 61,
+      "wins": 9
+    },
+    "friendly": {
+      "draws": 3,
+      "goalsAgainst": 27,
+      "goalsFor": 13,
+      "losses": 7,
+      "matches": 10,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 49,
+      "goalsFor": 11,
+      "losses": 13,
+      "matches": 18,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 133,
+      "goalsFor": 42,
+      "losses": 39,
+      "matches": 53,
+      "wins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "sao-tome-and-principe",
+  "teamName": "São Tomé and Príncipe",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "ronaldo-afonso",
+      "scorer": "Ronaldo Afonso"
+    },
+    {
+      "goals": 1,
+      "playerKey": "amilcar-ramos",
+      "scorer": "Amilcar Ramos"
+    },
+    {
+      "goals": 1,
+      "playerKey": "celso-pontes",
+      "scorer": "Celso Pontes"
+    },
+    {
+      "goals": 1,
+      "playerKey": "denilson-silva",
+      "scorer": "Denilson Silva"
+    },
+    {
+      "goals": 1,
+      "playerKey": "dola",
+      "scorer": "Dola"
+    },
+    {
+      "goals": 1,
+      "playerKey": "iniesta",
+      "scorer": "Iniesta"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lu-s-leal",
+      "scorer": "Luís Leal"
+    },
+    {
+      "goals": 1,
+      "playerKey": "orlando-gando",
+      "scorer": "Orlando Gando"
+    }
+  ]
+}

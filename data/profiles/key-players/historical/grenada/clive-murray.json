@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2011-06-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1990-12-05",
+    "nationality": "Grenada",
+    "playerKey": "clive-murray",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "17dee9d5",
+      "footballdatabase_eu": "140605",
+      "national_football_teams": "43407",
+      "soccerway": "191519",
+      "sofascore": "803547",
+      "transfermarkt": "181837",
+      "wikidata": "Q2979441"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-10-15",
+  "playerKey": "clive-murray",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-10-15",
+      "goalId": "goal-2011-10-15-grenada-saint-vincent-and-the-grenadines-31366",
+      "matchKey": "2011-10-15-grenada-saint-vincent-and-the-grenadines",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clive Murray"
+    },
+    {
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-belize-grenada-31124",
+      "matchKey": "2011-10-07-belize-grenada",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clive Murray"
+    },
+    {
+      "date": "2011-06-10",
+      "goalId": "goal-2011-06-10-grenada-honduras-30526",
+      "matchKey": "2011-06-10-grenada-honduras",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clive Murray"
+    }
+  ],
+  "scorer": "Clive Murray",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "grenada",
+  "teamName": "Grenada",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

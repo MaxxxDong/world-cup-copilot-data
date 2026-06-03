@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Bulgaria"
+  ],
+  "allTime": {
+    "draws": 187,
+    "goalsAgainst": 1102,
+    "goalsFor": 1014,
+    "losses": 285,
+    "matches": 734,
+    "wins": 262
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 27,
+      "goalsFor": 16,
+      "losses": 6,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 38,
+      "goalsFor": 22,
+      "losses": 9,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 13,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2026-03-30-indonesia-bulgaria",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 10,
+      "awayTeamId": "bulgaria",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "solomon-islands",
+      "matchId": "int-2026-03-27-solomon-islands-bulgaria",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-2025-11-18-bulgaria-georgia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "turkey",
+      "matchId": "int-2025-11-15-turkey-bulgaria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "spain",
+      "matchId": "int-2025-10-14-spain-bulgaria",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 86,
+      "goalsAgainst": 581,
+      "goalsFor": 545,
+      "losses": 150,
+      "matches": 385,
+      "wins": 149
+    },
+    "friendly": {
+      "draws": 101,
+      "goalsAgainst": 521,
+      "goalsFor": 469,
+      "losses": 135,
+      "matches": 349,
+      "wins": 113
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 119,
+      "goalsFor": 90,
+      "losses": 31,
+      "matches": 72,
+      "wins": 23
+    },
+    "nonNeutralVenue": {
+      "draws": 169,
+      "goalsAgainst": 983,
+      "goalsFor": 924,
+      "losses": 254,
+      "matches": 662,
+      "wins": 239
+    },
+    "worldCup": {
+      "draws": 8,
+      "goalsAgainst": 53,
+      "goalsFor": 22,
+      "losses": 15,
+      "matches": 26,
+      "wins": 3
+    }
+  },
+  "teamId": "bulgaria",
+  "teamName": "Bulgaria",
+  "topScorers": [
+    {
+      "goals": 28,
+      "playerKey": "dimitar-berbatov",
+      "scorer": "Dimitar Berbatov"
+    },
+    {
+      "goals": 28,
+      "playerKey": "hristo-stoichkov",
+      "scorer": "Hristo Stoichkov"
+    },
+    {
+      "goals": 20,
+      "playerKey": "emil-kostadinov",
+      "scorer": "Emil Kostadinov"
+    },
+    {
+      "goals": 19,
+      "playerKey": "hristo-bonev",
+      "scorer": "Hristo Bonev"
+    },
+    {
+      "goals": 15,
+      "playerKey": "martin-petrov",
+      "scorer": "Martin Petrov"
+    },
+    {
+      "goals": 14,
+      "playerKey": "georgi-asparuhov",
+      "scorer": "Georgi Asparuhov"
+    },
+    {
+      "goals": 14,
+      "playerKey": "nasko-sirakov",
+      "scorer": "Nasko Sirakov"
+    },
+    {
+      "goals": 11,
+      "playerKey": "krasimir-balakov",
+      "scorer": "Krasimir Balakov"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ivelin-popov",
+      "scorer": "Ivelin Popov"
+    },
+    {
+      "goals": 10,
+      "playerKey": "kiril-despodov",
+      "scorer": "Kiril Despodov"
+    }
+  ]
+}

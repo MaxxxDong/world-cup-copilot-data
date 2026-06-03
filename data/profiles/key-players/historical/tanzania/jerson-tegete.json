@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2008-09-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1988-10-07",
+    "nationality": "Tanzania",
+    "playerKey": "jerson-tegete",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "36802",
+      "national_football_teams": "26245",
+      "transfermarkt": "67710",
+      "wikidata": "Q3177535"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "jerson-tegete",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-tanzania-cape-verde-28673",
+      "matchKey": "2008-10-11-tanzania-cape-verde",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jerson Tegete"
+    },
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-mauritius-tanzania-28370",
+      "matchKey": "2008-09-06-mauritius-tanzania",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jerson Tegete"
+    },
+    {
+      "date": "2008-09-06",
+      "goalId": "goal-2008-09-06-mauritius-tanzania-28369",
+      "matchKey": "2008-09-06-mauritius-tanzania",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jerson Tegete"
+    }
+  ],
+  "scorer": "Jerson Tegete",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tanzania",
+  "teamName": "Tanzania",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

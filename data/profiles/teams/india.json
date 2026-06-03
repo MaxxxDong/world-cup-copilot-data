@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "India"
+  ],
+  "allTime": {
+    "draws": 119,
+    "goalsAgainst": 855,
+    "goalsFor": 728,
+    "losses": 221,
+    "matches": 530,
+    "wins": 190
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 25,
+      "goalsFor": 10,
+      "losses": 11,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-11-18-bangladesh-india",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "singapore",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "india",
+      "matchId": "int-2025-10-14-india-singapore",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "india",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "singapore",
+      "matchId": "int-2025-10-09-singapore-india",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "2025-06-10",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2025-06-10-hong-kong-india",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "2025-06-04",
+      "homeScore": 2,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-06-04-thailand-india",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 87,
+      "goalsAgainst": 586,
+      "goalsFor": 537,
+      "losses": 161,
+      "matches": 399,
+      "wins": 151
+    },
+    "friendly": {
+      "draws": 32,
+      "goalsAgainst": 269,
+      "goalsFor": 191,
+      "losses": 60,
+      "matches": 131,
+      "wins": 39
+    },
+    "neutralVenue": {
+      "draws": 49,
+      "goalsAgainst": 361,
+      "goalsFor": 324,
+      "losses": 95,
+      "matches": 233,
+      "wins": 89
+    },
+    "nonNeutralVenue": {
+      "draws": 70,
+      "goalsAgainst": 494,
+      "goalsFor": 404,
+      "losses": 126,
+      "matches": 297,
+      "wins": 101
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "india",
+  "teamName": "India",
+  "topScorers": [
+    {
+      "goals": 14,
+      "playerKey": "sunil-chhetri",
+      "scorer": "Sunil Chhetri"
+    },
+    {
+      "goals": 4,
+      "playerKey": "i-m-vijayan",
+      "scorer": "I. M. Vijayan"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jo-paul-ancheri",
+      "scorer": "Jo Paul Ancheri"
+    },
+    {
+      "goals": 3,
+      "playerKey": "bhupinder-thakur",
+      "scorer": "Bhupinder Thakur"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jeje-lalpekhlua",
+      "scorer": "Jeje Lalpekhlua"
+    },
+    {
+      "goals": 2,
+      "playerKey": "baichung-bhutia",
+      "scorer": "Baichung Bhutia"
+    },
+    {
+      "goals": 2,
+      "playerKey": "bikash-panji",
+      "scorer": "Bikash Panji"
+    },
+    {
+      "goals": 2,
+      "playerKey": "gouramangi-singh",
+      "scorer": "Gouramangi Singh"
+    },
+    {
+      "goals": 2,
+      "playerKey": "inder-singh",
+      "scorer": "Inder Singh"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jules-alberto",
+      "scorer": "Jules Alberto"
+    }
+  ]
+}

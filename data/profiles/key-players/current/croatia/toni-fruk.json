@@ -1,0 +1,73 @@
+{
+  "club": "HNK Rijeka (CRO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2001-03-09",
+    "nationality": "Croatia",
+    "playerKey": "toni-fruk",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "284869",
+      "espn": "338232",
+      "footballdatabase_eu": "440949",
+      "heimspiel": "517798",
+      "impect": "31714",
+      "kicker": "toni-fruk",
+      "opta": "6vlk7n6m7g38n5wa5zuvbsbxm",
+      "skillcorner": "58986",
+      "soccerway": "517580",
+      "sofascore": "916183",
+      "thesportsdb": "34236432",
+      "transfermarkt": "432758",
+      "wikidata": "Q109587383",
+      "worldfootball": "toni-fruk",
+      "wyscout": "544884"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Toni Fruk",
+  "playerKey": "toni-fruk",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-12",
+      "goalId": "goal-2025-10-12-croatia-gibraltar-47075",
+      "matchKey": "2025-10-12-croatia-gibraltar",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Toni Fruk"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "croatia",
+  "teamName": "Croatia"
+}

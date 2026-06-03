@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1991-07-15",
+      "goalId": "goal-1991-07-15-bra-ecuador-12919",
+      "homeTeamId": "bra",
+      "matchKey": "1991-07-15-bra-ecuador",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Muñoz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1993-06-15",
+      "goalId": "goal-1993-06-15-ecuador-venezuela-14224",
+      "homeTeamId": "ecuador",
+      "matchKey": "1993-06-15-ecuador-venezuela",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Muñoz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1993-08-08",
+      "goalId": "goal-1993-08-08-ecuador-venezuela-14466",
+      "homeTeamId": "ecuador",
+      "matchKey": "1993-08-08-ecuador-venezuela",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Muñoz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "carlos mu oz",
+  "playerKey": "carlos-mu-oz",
+  "scorer": "Carlos Muñoz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

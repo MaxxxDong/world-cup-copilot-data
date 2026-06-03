@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1953-10-04",
+      "goalId": "goal-1953-10-04-republic-of-ireland-fra-2074",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1953-10-04-republic-of-ireland-fra",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Reg Ryan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1953-10-28",
+      "goalId": "goal-1953-10-28-republic-of-ireland-luxembourg-2094",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1953-10-28-republic-of-ireland-luxembourg",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Reg Ryan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "reg ryan",
+  "playerKey": "reg-ryan",
+  "scorer": "Reg Ryan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

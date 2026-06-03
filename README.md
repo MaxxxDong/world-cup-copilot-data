@@ -9,7 +9,7 @@
 https://raw.githubusercontent.com/MaxxxDong/world-cup-copilot-data/main/manifest.json
 ```
 
-当前版本是 Phase A 数据包生成器：可以用小型 demo seed 验证结构，也可以读取公开 raw source 生成真实来源归因的数据包。它已经覆盖 2026 赛程结构、比赛识别索引、国家队历史结果、历史队名、点球大战、进球者记录、head-to-head World Cup / competitive / neutral splits、team profiles、historical key-player profiles、current key-player candidate profiles 和 Polymarket 搜索 query seeds。官方 final roster 尚未进入包时，可以用 `--simulate-squads` 生成明确标注的模拟名单与当前核心球员画像；官方名单发布后再用 `--fifa-squads-json` 替换。
+当前版本是 Phase A 数据包生成器和已发布静态数据包。它已经覆盖 2026 赛程结构、比赛识别索引、国家队历史结果、历史队名、点球大战、进球者记录、head-to-head World Cup / competitive / neutral splits、team profiles、historical key-player profiles、FIFA 2026 final rosters、current key-player candidate profiles 和 Polymarket 搜索 query seeds。2026-06-03 发布包已用 FIFA official squad list PDF 衍生的 `--fifa-squads-json` 替换此前的模拟名单；`--simulate-squads` 仍保留为没有官方 roster 输入时的开发 fallback。
 
 ## 目录
 
@@ -104,7 +104,7 @@ node scripts/generate-phase-a.mjs `
 
 ## 真实数据包验证快照
 
-2026-05-27 已用本地下载的公开 raw source 跑通一次完整 Phase A 生成与校验：
+2026-06-03 已从历史发布包 `96b788df` 恢复 Phase A 数据，并用 FIFA final squad PDF 衍生 JSON 替换 roster/current profile 层，跑通完整 final 发布校验：
 
 ```powershell
 node scripts/generate-phase-a.mjs --out dist/phase-a-real ...
@@ -118,9 +118,9 @@ npm run audit:source-inputs -- --package dist/phase-a-real
 
 `audit-package-budget` 会校验数据包规模预算：当前门禁要求全包不超过 100MB、required core 不超过 512KB、全部 core 不超过 512KB、match-context 不超过 40MB、player-context 不超过 45MB、tournament-context 不超过 10MB，并检查各 tier 最大单文件大小，避免后续数据更新悄悄拖垮插件拉取路径。它也会报告 root `manifest.json` 和 file indexes 体积；当前 root manifest 约 86KB，file indexes 已按 category/path prefix 拆成索引文件，并用 `fileDefaults` 收敛重复 metadata，合计约 8.59MB，低于 12MB 预警线。
 
-`audit:readiness` 会读取 `coverage.json`、`identity-gaps.json` 和 `source-audit.json`，输出 `publishablePhaseA`、`completionReady`、`completionBlockers` 和 `nextGates`。当前阶段接受 clearly labelled simulated roster/profile 作为可用数据层，因此 `--simulate-squads` 生成的真实包可以达到 `completionReady=true`；最终官方名单发布仍应通过 `audit:release --final` 和 FIFA squad 输入硬门禁确认。Wikidata/FIFA 官方 team ID 现在是 identity enrichment gate：只有 `identity-gaps.json` 再次出现低置信、缺 sourceRef 或重复 FIFA code 时，才应重新变成完成阻断项。
+`audit:readiness` 会读取 `coverage.json`、`identity-gaps.json` 和 `source-audit.json`，输出 `publishablePhaseA`、`completionReady`、`completionBlockers` 和 `nextGates`。当前真实包的 rosters 为 `available-final`，`audit:release --final` 会同时启用 `audit:completion --strict` 和 FIFA squad 输入硬门禁。Wikidata/FIFA 官方 team ID 现在是 identity enrichment gate：只有 `identity-gaps.json` 再次出现低置信、缺 sourceRef 或重复 FIFA code 时，才应重新变成完成阻断项。
 
-`audit:completion` 是更高层的阶段完成度审计：它同时读取 readiness、package budget、manifest 分类索引和 layer index，按 `dataCompletenessAndSources`、`databaseStructureAndPerformance`、`classificationAndIdentifiability` 三段输出证据。它会交叉检查 coverage 和 manifest：如果 coverage 声称 rosters 或 current key-player profiles 已 available/provisional/simulated，manifest 必须真的包含对应 index 和分类。它也会读取 `source-audit.json` 的 `candidateComparisons`，如果某个候选源被标记为 `strictlyBetterThanCurrent=true` 却没有进入 `switch-now`，会把它变成阻断项。`layer-index.json` 必须包含 startup、match-detection、match-analysis、historical-player-analysis、current-roster-analysis、market-analysis 和 developer-audit 七个导航层。当前真实包结构、性能、识别分类和模拟名单层都通过，`completionReady=true`；官方 final roster 仍通过 `nextGates` 保留为后续替换任务。
+`audit:completion` 是更高层的阶段完成度审计：它同时读取 readiness、package budget、manifest 分类索引和 layer index，按 `dataCompletenessAndSources`、`databaseStructureAndPerformance`、`classificationAndIdentifiability` 三段输出证据。它会交叉检查 coverage 和 manifest：如果 coverage 声称 rosters 或 current key-player profiles 已 available/provisional/simulated/final，manifest 必须真的包含对应 index 和分类。它也会读取 `source-audit.json` 的 `candidateComparisons`，如果某个候选源被标记为 `strictlyBetterThanCurrent=true` 却没有进入 `switch-now`，会把它变成阻断项。`layer-index.json` 必须包含 startup、match-detection、match-analysis、historical-player-analysis、current-roster-analysis、market-analysis 和 developer-audit 七个导航层。当前真实包结构、性能、识别分类和 FIFA final roster/current profile 层都通过，`completionReady=true`。
 
 `audit:source-inputs` 会读取 `data/metadata/source-inputs.json`，重新计算本地 raw/seed 输入文件的 size 和 sha256，确认当前工作区输入仍与已生成包一致。它适合放在独立数据仓库发布前，避免 raw source 已变化但 dist 包没有重建。
 
@@ -128,7 +128,7 @@ npm run audit:source-inputs -- --package dist/phase-a-real
 
 `source-audit.json` 现在包含 `candidateComparisons`：按 schedule、national-team-history、team-identity、player-identity、official-rosters、club-form/workload 和 live-sports-api 分层记录候选源、当前决策、是否严格优于当前主源、比较维度和下一道 gate。比较维度固定为 authority、license、structure、coverage、redistributability、runtimeCost。只有当候选源在关键维度上绝对优于当前组合时，才允许把 `strictlyBetterThanCurrent` 标为 true 并触发切换；否则作为 audit/enrichment/runtime-only 源使用。
 
-`audit:release` 是发布前的一键门禁，默认串起 `validate-package`、`audit:source-inputs`、`audit-package-budget`、`audit:readiness`、`audit:completion`、`audit:fifa-squads-input --allow-missing`、三组 FIFA fixture audit 和 exact-path `audit-remote-latency`。当前使用 `--simulate-squads` 的真实包返回 `ok=true` 且 `completionReady=true`，同时会在 next gate 中提醒后续用 FIFA final squad 替换模拟名单。最终名单阶段发布时改用 `--final`，它会同时启用 `audit:completion --strict` 和 final roster 输入硬校验；也可以用 `--fifa-squads-input` 和 `--fifa-squads-expected-team-count` 指定输入路径和队伍数量。
+`audit:release` 是发布前的一键门禁，默认串起 `validate-package`、`audit:source-inputs`、`audit-package-budget`、`audit:readiness`、`audit:completion`、`audit:fifa-squads-input --allow-missing`、三组 FIFA fixture audit 和 exact-path `audit-remote-latency`。正式名单阶段发布使用 `--final`，它会同时启用 `audit:completion --strict` 和 final roster 输入硬校验；也可以用 `--fifa-squads-input` 和 `--fifa-squads-expected-team-count` 指定输入路径和队伍数量。当前 `2026.06.03+final-squads` 包已通过 `npm run audit:release -- --package . --final`。
 
 `audit-remote-latency` 会按 manifest 下载并校验样本文件，默认测本地 `dist/phase-a-real`；发布到 GitHub 后可直接传入 raw 或 Pages manifest：
 
@@ -142,24 +142,24 @@ npm run audit:remote-latency -- --manifest-url https://example.github.io/world-c
 
 | 指标 | 数值 |
 | --- | ---: |
-| indexed data files | 40,291 |
+| indexed data files | 40,335 |
 | root manifest files | 15 |
 | file index files | 132 |
-| root manifest size | 86,138 bytes |
-| file indexes size | 8,593,192 bytes |
+| root manifest size | 86,161 bytes |
+| file indexes size | 8,636,398 bytes |
 | largest index file | 372,290 bytes |
 | explicit-path sample indexes | head-to-head `m` 101,398 bytes; team profiles 66,656 bytes; historical key-player `a` 38,501 bytes; identities `l` 100,160 bytes |
-| 总大小 | 89,695,814 bytes |
-| required core | 14 files / 432,989 bytes |
-| all core including market mapping | 15 files / 497,594 bytes |
-| core budget headroom | 26,694 bytes |
+| 总大小 | 89,900,473 bytes |
+| required core | 14 files / 431,452 bytes |
+| all core including market mapping | 15 files / 496,057 bytes |
+| core budget headroom | 28,231 bytes |
 | match identification index | 1 file / 82,917 bytes |
 | non-required core market mapping | 1 file / 64,605 bytes |
-| coverage metadata | 1 file / 8,216 bytes |
+| coverage metadata | 1 file / 7,612 bytes |
 | identity gaps metadata | 1 file / 832 bytes |
-| layer index metadata | 1 file / 3,070 bytes |
-| source inputs metadata | 1 file / 3,471 bytes |
-| source audit metadata | 1 file / 9,962 bytes |
+| layer index metadata | 1 file / 3,091 bytes |
+| source inputs metadata | 1 file / 2,370 bytes |
+| source audit metadata | 1 file / 10,036 bytes |
 | schedule 文件 | 55,983 bytes |
 | teams taxonomy | 186,796 bytes |
 | team aliases | 62,120 bytes |
@@ -172,7 +172,7 @@ npm run audit:remote-latency -- --manifest-url https://example.github.io/world-c
 | goalscorers by-player | 15,331 files / 27,470,591 bytes |
 | goalscorers by-team | 220 files / 2,798,772 bytes |
 | Reep player identities | 13,229 files / 8,685,708 bytes |
-| simulated current rosters/profiles | 482 files / 1,591,865 bytes |
+| final current rosters/profiles | 674 files / 1,773,090 bytes |
 | international results | 49,257 matches, 336 teams, 198 tournaments |
 
 这个体积不适合插件启动时全量下载。插件应先下载 `downloadTier=core` 的 required 文件，用 `data/identification/matches.json` 做页面/时间/球队/场馆的候选比赛识别，再按当前比赛懒加载对应的 `history.headToHead/*`、`history.form/*` 和 `data/profiles/teams/*`；用户问本届阵容/当前核心球员时，下载 `tournament-context` 下的 `data/rosters/worldcup-2026/*` 和 `data/profiles/key-players/current/*`；用户进入历史进球者或球员身份上下文时，再下载 `history.goalscorers/by-player/*`、`by-team/*`、`data/profiles/key-players/historical/{teamId}/*` 或 `data/players/identities/*`。`source-inputs.json` 是 core required，用于刷新判断和发布审计，不参与运行时比赛分析。
@@ -183,13 +183,13 @@ npm run audit:remote-latency -- --manifest-url https://example.github.io/world-c
 
 `--wikidata-teams-csv` 已预留国家队 identity reconciliation 入口，期待 SPARQL/CSV 导出列至少包含 `team`/`qid`/`wikidata_id`、`teamLabel`/`name` 和可选 `fifaCode`。导入后会写入 `data/taxonomy/team-identities.json`，把国家队实体放在 `providerIds.wikidataNationalTeam`，把 FIFA code 放在 `providerIds.fifaCountryCode`，避免覆盖 Reep 里可能表示国家/地区实体的 `providerIds.wikidata`。如果 Wikidata Query Service 不可用，可以先运行 `npm run fetch:wikimedia-team-identities -- --delay-ms 700` 走 Wikipedia API 的 pageprops `wikibase_item` 轻量路径生成同名 CSV；该路径只作为 identity reconciliation raw input，不直接替代 FIFA 官方事实。
 
-`--fifa-squads-json` 已支持 FIFA squad announcements 衍生 JSON 输入。该输入可以是数组或 `{ "squads": [...] }`，每支队伍包含 `team`、`rosterStatus`、`announcementDate`、`sourceUrl` 和 `players[]`。生成器会输出 `data/rosters/worldcup-2026/index.json`、`data/rosters/worldcup-2026/{teamId}.json`、`data/profiles/key-players/current/index.json` 和 `data/profiles/key-players/current/{teamId}/{playerKey}.json`，并在 coverage/source-audit 中把 roster 与 current key-player profiles 标记为 provisional 或 final。2026-05-27 的官方口径仍是所有名单到 6 月 2 日由 FIFA 确认前都不是 final；因此 provisional roster/profile 只能作为带来源的当前公告事实，不能让 readiness 直接变成 completion-ready。
+`--fifa-squads-json` 已支持 FIFA squad announcements / squad list 衍生 JSON 输入。该输入可以是数组或 `{ "squads": [...] }`，每支队伍包含 `team`、`rosterStatus`、`announcementDate`、`sourceUrl` 和 `players[]`。生成器会输出 `data/rosters/worldcup-2026/index.json`、`data/rosters/worldcup-2026/{teamId}.json`、`data/profiles/key-players/current/index.json` 和 `data/profiles/key-players/current/{teamId}/{playerKey}.json`，并在 coverage/source-audit 中把 roster 与 current key-player profiles 标记为 provisional 或 final。当前发布包使用 FIFA final squad list PDF 衍生输入，48 队、1,248 名球员均为 `rosterStatus=final`。
 
-`data/profiles/teams/{teamId}.json` 已由公开历史赛果、goalscorers 和 team taxonomy 离线生成，走 `match-context` 懒加载。它只提供球队层面的历史画像、form、World Cup/competitive/friendly/neutral splits 和 top historical scorers，不包含 final roster 或 key-player profile；`audit:readiness` 会把 `teamProfileStatus` 标为 available，同时继续把 key-player profile 作为 completion blocker。
+`data/profiles/teams/{teamId}.json` 已由公开历史赛果、goalscorers 和 team taxonomy 离线生成，走 `match-context` 懒加载。它只提供球队层面的历史画像、form、World Cup/competitive/friendly/neutral splits 和 top historical scorers；本届 final roster 与 current key-player profile 由 `tournament-context` 下的 roster/profile 文件提供。
 
-`data/profiles/key-players/historical/{teamId}/{playerKey}.json` 已由国家队历史进球记录和 Reep player identity 离线生成，走 `player-context` 懒加载。全局 index 只保留 team 级总览，每队还有独立 `index.json`，避免为当前球队拉取全量 2,700+ 个 profile 元数据。它的 `profileStatus=available-historical`，只能回答历史核心射手和身份映射，不能替代 FIFA final roster 后的当前核心球员画像。
+`data/profiles/key-players/historical/{teamId}/{playerKey}.json` 已由国家队历史进球记录和 Reep player identity 离线生成，走 `player-context` 懒加载。全局 index 只保留 team 级总览，每队还有独立 `index.json`，避免为当前球队拉取全量 2,700+ 个 profile 元数据。它的 `profileStatus=available-historical`，用于回答历史核心射手和身份映射；本届当前核心球员画像使用 final roster 生成。
 
-`data/profiles/key-players/current/{teamId}/{playerKey}.json` 会在导入 FIFA roster 输入或启用 `--simulate-squads` 后生成。模拟模式每队生成 8 个候选，优先选择能匹配历史国家队进球记录的球员，再用明确命名的 simulated player 补齐；FIFA roster 输入模式会基于 roster 顺序和历史进球记录生成候选。它保存 club、position、shirtNumber、rosterStatus、sourceUrl、Reep identity 和最近历史进球摘要。若 rosterStatus 不是 `final`，agent 必须把它说成“模拟/公告名单候选画像”，不能当作最终名单事实。
+`data/profiles/key-players/current/{teamId}/{playerKey}.json` 会在导入 FIFA roster 输入或启用 `--simulate-squads` 后生成。模拟模式每队生成 8 个候选并明确标注 simulated；FIFA final roster 输入模式会基于 roster 顺序和历史进球记录生成每队最多 12 个候选。它保存 club、position、shirtNumber、rosterStatus、sourceUrl、Reep identity 和最近历史进球摘要。当前发布包的 current profiles 为 `profileStatus=available-final`。
 
 Polymarket market mapping 支持已经接入生成器：`data/market-mapping/polymarket-query-seeds.json` 会按 `matchId`、`teamId` 和世界杯全程三层生成 query seeds。它走 core 但不是 required 文件；插件有 active data package 时优先用这些 hints 搜索，再用内置 fallback 兜底。
 

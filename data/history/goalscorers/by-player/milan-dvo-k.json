@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1958-06-11",
+      "goalId": "goal-1958-06-11-czechoslovakia-germany-2970",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1958-06-11-czechoslovakia-germany",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Milan Dvořák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1958-06-15",
+      "goalId": "goal-1958-06-15-arg-czechoslovakia-2989",
+      "homeTeamId": "arg",
+      "matchKey": "1958-06-15-arg-czechoslovakia",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Dvořák",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "milan dvo k",
+  "playerKey": "milan-dvo-k",
+  "scorer": "Milan Dvořák",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

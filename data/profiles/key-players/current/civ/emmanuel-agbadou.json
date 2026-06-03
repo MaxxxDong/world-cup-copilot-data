@@ -1,0 +1,80 @@
+{
+  "club": "Beşiktaş JK (TUR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1997-06-17",
+    "nationality": "Ivory Coast",
+    "playerKey": "emmanuel-agbadou",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "135068",
+      "espn": "308449",
+      "fbref": "75f1ed80",
+      "footballdatabase_eu": "396081",
+      "heimspiel": "647609",
+      "impect": "67812",
+      "kicker": "emmanuel-agbadou",
+      "national_football_teams": "87140",
+      "opta": "36h87ecgmpjdltk1epsbvmiju",
+      "opta_numeric": "516939",
+      "skillcorner": "32773",
+      "soccerbase": "134429",
+      "soccerway": "622534",
+      "sofascore": "1013842",
+      "sportmonks": "37261923",
+      "thesportsdb": "34175728",
+      "transfermarkt": "683895",
+      "understat": "10856",
+      "whoscored": "402810",
+      "wikidata": "Q69523791",
+      "worldfootball": "emmanuel-agbadou",
+      "wyscout": "623641"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Emmanuel Agbadou",
+  "playerKey": "emmanuel-agbadou",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47014",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Agbadou"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 20,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

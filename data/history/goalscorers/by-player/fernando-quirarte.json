@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1986-06-03",
+      "goalId": "goal-1986-06-03-mex-belgium-11160",
+      "homeTeamId": "mex",
+      "matchKey": "1986-06-03-mex-belgium",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Quirarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "1986-06-11",
+      "goalId": "goal-1986-06-11-mex-iraq-11211",
+      "homeTeamId": "mex",
+      "matchKey": "1986-06-11-mex-iraq",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Quirarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "fernando quirarte",
+  "playerKey": "fernando-quirarte",
+  "scorer": "Fernando Quirarte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

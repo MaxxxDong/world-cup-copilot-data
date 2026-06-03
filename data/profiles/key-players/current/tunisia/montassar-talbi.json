@@ -1,0 +1,78 @@
+{
+  "club": "FC Lorient (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1998-05-26",
+    "nationality": "Tunisia",
+    "playerKey": "montassar-talbi",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "50030",
+      "capology": "montassar-talbi-35941",
+      "espn": "265099",
+      "fbref": "a4a44eb0",
+      "footballdatabase_eu": "319207",
+      "fotmob": "846392",
+      "heimspiel": "492108",
+      "impect": "90067",
+      "kicker": "montassar-talbi",
+      "lequipe": "69771",
+      "national_football_teams": "82138",
+      "opta": "996i59930r3kd4xk48x9fsp2h",
+      "skillcorner": "14868",
+      "soccerway": "480127",
+      "sofascore": "879618",
+      "thesportsdb": "34194940",
+      "transfermarkt": "496706",
+      "wikidata": "Q30118244",
+      "worldfootball": "montassar-talbi",
+      "wyscout": "500509"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Montassar Talbi",
+  "playerKey": "montassar-talbi",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-27",
+      "goalId": "goal-2025-12-27-nigeria-tunisia-47473",
+      "matchKey": "2025-12-27-nigeria-tunisia",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Montassar Talbi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 3,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

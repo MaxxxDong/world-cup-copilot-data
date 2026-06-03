@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2024-01-14",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1996-08-26",
+    "nationality": "Mozambique",
+    "playerKey": "witi",
+    "position": "midfielder",
+    "providerIds": {
+      "capology": "witi-35303",
+      "fbref": "4c99c0da",
+      "footballdatabase_eu": "252564",
+      "national_football_teams": "59277",
+      "opta": "2grd1zjq1s8hbzmp0eb9ke9rd",
+      "soccerway": "394012",
+      "transfermarkt": "352425",
+      "uefa": "250081450",
+      "wikidata": "Q27154897"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-09-08",
+  "playerKey": "witi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-mozambique-botswana-46781",
+      "matchKey": "2025-09-08-mozambique-botswana",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Witi"
+    },
+    {
+      "date": "2024-01-14",
+      "goalId": "goal-2024-01-14-egypt-mozambique-44203",
+      "matchKey": "2024-01-14-egypt-mozambique",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Witi"
+    }
+  ],
+  "scorer": "Witi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mozambique",
+  "teamName": "Mozambique",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

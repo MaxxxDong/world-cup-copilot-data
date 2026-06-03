@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guinea",
+      "date": "1981-04-15",
+      "goalId": "goal-1981-04-15-nigeria-guinea-9217",
+      "homeTeamId": "nigeria",
+      "matchKey": "1981-04-15-nigeria-guinea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henry Nwosu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "1984-03-05",
+      "goalId": "goal-1984-03-05-ghana-nigeria-10219",
+      "homeTeamId": "ghana",
+      "matchKey": "1984-03-05-ghana-nigeria",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Henry Nwosu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "henry nwosu",
+  "playerKey": "henry-nwosu",
+  "scorer": "Henry Nwosu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

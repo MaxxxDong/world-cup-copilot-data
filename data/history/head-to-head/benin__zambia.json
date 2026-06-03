@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 2,
+    "teamBGoals": 6,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "zambia",
+    "date": "2022-03-27",
+    "homeScore": 2,
+    "homeTeamId": "benin",
+    "matchId": "int-2022-03-27-benin-zambia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "benin",
+      "date": "2002-10-12",
+      "homeScore": 1,
+      "homeTeamId": "zambia",
+      "matchId": "int-2002-10-12-zambia-benin",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zambia",
+      "date": "2003-07-06",
+      "homeScore": 3,
+      "homeTeamId": "benin",
+      "matchId": "int-2003-07-06-benin-zambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zambia",
+      "date": "2019-10-13",
+      "homeScore": 2,
+      "homeTeamId": "benin",
+      "matchId": "int-2019-10-13-benin-zambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zambia",
+      "date": "2021-06-08",
+      "homeScore": 2,
+      "homeTeamId": "benin",
+      "matchId": "int-2021-06-08-benin-zambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zambia",
+      "date": "2022-03-27",
+      "homeScore": 2,
+      "homeTeamId": "benin",
+      "matchId": "int-2022-03-27-benin-zambia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "benin__zambia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "benin",
+  "teamBId": "zambia"
+}

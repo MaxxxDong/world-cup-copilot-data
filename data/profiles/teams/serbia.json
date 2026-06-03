@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Serbia"
+  ],
+  "allTime": {
+    "draws": 89,
+    "goalsAgainst": 374,
+    "goalsFor": 530,
+    "losses": 102,
+    "matches": 346,
+    "wins": 155
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 11,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 22,
+      "goalsFor": 18,
+      "losses": 6,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "saudi-arabia",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2026-03-31-serbia-saudi-arabia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "serbia",
+      "date": "2026-03-27",
+      "homeScore": 3,
+      "homeTeamId": "spain",
+      "matchId": "int-2026-03-27-spain-serbia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "serbia",
+      "matchId": "int-2025-11-16-serbia-latvia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "serbia",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "england",
+      "matchId": "int-2025-11-13-england-serbia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "serbia",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "andorra",
+      "matchId": "int-2025-10-14-andorra-serbia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 59,
+      "goalsAgainst": 227,
+      "goalsFor": 357,
+      "losses": 53,
+      "matches": 212,
+      "wins": 100
+    },
+    "friendly": {
+      "draws": 30,
+      "goalsAgainst": 147,
+      "goalsFor": 173,
+      "losses": 49,
+      "matches": 134,
+      "wins": 55
+    },
+    "neutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 73,
+      "goalsFor": 82,
+      "losses": 24,
+      "matches": 62,
+      "wins": 24
+    },
+    "nonNeutralVenue": {
+      "draws": 75,
+      "goalsAgainst": 301,
+      "goalsFor": 448,
+      "losses": 78,
+      "matches": 284,
+      "wins": 131
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 29,
+      "goalsFor": 16,
+      "losses": 10,
+      "matches": 16,
+      "wins": 4
+    }
+  },
+  "teamId": "serbia",
+  "teamName": "Serbia",
+  "topScorers": [
+    {
+      "goals": 52,
+      "playerKey": "aleksandar-mitrovi",
+      "scorer": "Aleksandar Mitrović"
+    },
+    {
+      "goals": 26,
+      "playerKey": "savo-milo-evi",
+      "scorer": "Savo Milošević"
+    },
+    {
+      "goals": 23,
+      "playerKey": "predrag-mijatovi",
+      "scorer": "Predrag Mijatović"
+    },
+    {
+      "goals": 14,
+      "playerKey": "nikola-igi",
+      "scorer": "Nikola Žigić"
+    },
+    {
+      "goals": 13,
+      "playerKey": "du-an-tadi",
+      "scorer": "Dušan Tadić"
+    },
+    {
+      "goals": 13,
+      "playerKey": "du-an-vlahovi",
+      "scorer": "Dušan Vlahović"
+    },
+    {
+      "goals": 10,
+      "playerKey": "mateja-ke-man",
+      "scorer": "Mateja Kežman"
+    },
+    {
+      "goals": 9,
+      "playerKey": "dejan-stankovi",
+      "scorer": "Dejan Stanković"
+    },
+    {
+      "goals": 8,
+      "playerKey": "aleksandar-kolarov",
+      "scorer": "Aleksandar Kolarov"
+    },
+    {
+      "goals": 8,
+      "playerKey": "dejan-savi-evi",
+      "scorer": "Dejan Savićević"
+    }
+  ]
+}

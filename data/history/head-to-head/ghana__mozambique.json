@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 6,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "ghana",
+    "date": "2024-01-22",
+    "homeScore": 2,
+    "homeTeamId": "mozambique",
+    "matchId": "int-2024-01-22-mozambique-ghana",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "ghana",
+      "date": "1996-01-25",
+      "homeScore": 0,
+      "homeTeamId": "mozambique",
+      "matchId": "int-1996-01-25-mozambique-ghana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mozambique",
+      "date": "1998-01-14",
+      "homeScore": 0,
+      "homeTeamId": "ghana",
+      "matchId": "int-1998-01-14-ghana-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mozambique",
+      "date": "1998-01-19",
+      "homeScore": 3,
+      "homeTeamId": "ghana",
+      "matchId": "int-1998-01-19-ghana-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mozambique",
+      "date": "2016-03-24",
+      "homeScore": 3,
+      "homeTeamId": "ghana",
+      "matchId": "int-2016-03-24-ghana-mozambique",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ghana",
+      "date": "2016-03-27",
+      "homeScore": 0,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2016-03-27-mozambique-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ghana",
+      "date": "2024-01-22",
+      "homeScore": 2,
+      "homeTeamId": "mozambique",
+      "matchId": "int-2024-01-22-mozambique-ghana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "ghana__mozambique",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "ghana",
+  "teamBId": "mozambique"
+}

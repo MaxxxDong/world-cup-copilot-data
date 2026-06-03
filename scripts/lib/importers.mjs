@@ -395,7 +395,7 @@ export function importFifaSquadsJson(fifaSquadsJson, { sourceId, sourcePath, tea
       sourceUrl: squad.sourceUrl,
       players: players.map((player, index) => {
         const name = requireString(typeof player === "string" ? player : player.name, `${teamName} player.name`);
-        return {
+        const normalizedPlayer = {
           playerKey: playerKeyFor(name),
           name,
           shirtNumber: typeof player === "string" ? undefined : parseOptionalInteger(player.shirtNumber ?? player.number),
@@ -403,6 +403,15 @@ export function importFifaSquadsJson(fifaSquadsJson, { sourceId, sourcePath, tea
           club: typeof player === "string" ? undefined : player.club,
           order: index + 1,
         };
+        if (typeof player !== "string") {
+          assignIfPresent(normalizedPlayer, "firstNames", player.firstNames);
+          assignIfPresent(normalizedPlayer, "lastNames", player.lastNames);
+          assignIfPresent(normalizedPlayer, "officialPlayerName", player.officialPlayerName);
+          assignIfPresent(normalizedPlayer, "nameOnShirt", player.nameOnShirt);
+          assignIfPresent(normalizedPlayer, "dateOfBirth", player.dateOfBirth);
+          assignIfPresent(normalizedPlayer, "heightCm", parseOptionalInteger(player.heightCm));
+        }
+        return normalizedPlayer;
       }),
       sourceRefs: [{ sourceId, path: sourcePath, url: squad.sourceUrl }],
     });
@@ -848,6 +857,12 @@ function optionalCell(row, columnIndex, columnName) {
   if (columnIndex[columnName] === undefined) return undefined;
   const value = String(row[columnIndex[columnName]] ?? "").trim();
   return value || undefined;
+}
+
+function assignIfPresent(target, key, value) {
+  if (value !== undefined && value !== null && value !== "") {
+    target[key] = value;
+  }
 }
 
 function providerIdsFromRow(row, columnIndex) {

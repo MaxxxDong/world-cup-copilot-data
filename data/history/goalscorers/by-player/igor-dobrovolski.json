@@ -1,0 +1,125 @@
+{
+  "goalCount": 6,
+  "goals": [
+    {
+      "awayTeamId": "german-dr",
+      "date": "1989-04-26",
+      "goalId": "goal-1989-04-26-russia-german-dr-11989",
+      "homeTeamId": "russia",
+      "matchKey": "1989-04-26-russia-german-dr",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1989-05-31",
+      "goalId": "goal-1989-05-31-russia-iceland-12056",
+      "homeTeamId": "russia",
+      "matchKey": "1989-05-31-russia-iceland",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1990-06-18",
+      "goalId": "goal-1990-06-18-cameroon-russia-12531",
+      "homeTeamId": "cameroon",
+      "matchKey": "1990-06-18-cameroon-russia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1992-06-12",
+      "goalId": "goal-1992-06-12-russia-germany-13159",
+      "homeTeamId": "russia",
+      "matchKey": "1992-06-12-russia-germany",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1993-05-23",
+      "goalId": "goal-1993-05-23-russia-greece-14102",
+      "homeTeamId": "russia",
+      "matchKey": "1993-05-23-russia-greece",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1995-06-07",
+      "goalId": "goal-1995-06-07-san-marino-russia-15383",
+      "homeTeamId": "san-marino",
+      "matchKey": "1995-06-07-san-marino-russia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Igor Dobrovolski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "igor dobrovolski",
+  "playerKey": "igor-dobrovolski",
+  "scorer": "Igor Dobrovolski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

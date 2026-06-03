@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "burundi",
+      "date": "1992-10-09",
+      "goalId": "goal-1992-10-09-algeria-burundi-13329",
+      "homeTeamId": "algeria",
+      "matchKey": "1992-10-09-algeria-burundi",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mourad Meziane",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "1993-02-26",
+      "goalId": "goal-1993-02-26-algeria-ghana-13710",
+      "homeTeamId": "algeria",
+      "matchKey": "1993-02-26-algeria-ghana",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mourad Meziane",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    }
+  ],
+  "normalizedScorer": "mourad meziane",
+  "playerKey": "mourad-meziane",
+  "scorer": "Mourad Meziane",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria"
+  ]
+}

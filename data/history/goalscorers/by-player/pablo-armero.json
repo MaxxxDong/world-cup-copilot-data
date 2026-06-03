@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-colombia-bolivia-32569",
+      "homeTeamId": "colombia",
+      "matchKey": "2013-03-22-colombia-bolivia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pablo Armero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "2014-06-14",
+      "goalId": "goal-2014-06-14-colombia-greece-33613",
+      "homeTeamId": "colombia",
+      "matchKey": "2014-06-14-colombia-greece",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pablo Armero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "pablo armero",
+  "playerKey": "pablo-armero",
+  "scorer": "Pablo Armero",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

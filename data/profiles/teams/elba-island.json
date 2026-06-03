@@ -1,0 +1,114 @@
+{
+  "aliases": [
+    "Elba Island"
+  ],
+  "allTime": {
+    "draws": 0,
+    "goalsAgainst": 0,
+    "goalsFor": 5,
+    "losses": 0,
+    "matches": 1,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "raetia",
+      "date": "2022-07-16",
+      "homeScore": 5,
+      "homeTeamId": "elba-island",
+      "matchId": "int-2022-07-16-elba-island-raetia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "elba-island",
+  "teamName": "Elba Island",
+  "topScorers": []
+}

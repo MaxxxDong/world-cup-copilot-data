@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bahamas",
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-grenada-bahamas-46218",
+      "homeTeamId": "grenada",
+      "matchKey": "2025-06-04-grenada-bahamas",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jermaine Francis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "grenada"
+    },
+    {
+      "awayTeamId": "grenada",
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-saint-kitts-and-nevis-grenada-46426",
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchKey": "2025-06-10-saint-kitts-and-nevis-grenada",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jermaine Francis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "grenada"
+    }
+  ],
+  "normalizedScorer": "jermaine francis",
+  "playerKey": "jermaine-francis",
+  "scorer": "Jermaine Francis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "grenada"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "2009-07-23",
+      "goalId": "goal-2009-07-23-usa-honduras-29321",
+      "homeTeamId": "usa",
+      "matchKey": "2009-07-23-usa-honduras",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clarence Goodson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2011-06-11",
+      "goalId": "goal-2011-06-11-usa-panama-30537",
+      "homeTeamId": "usa",
+      "matchKey": "2011-06-11-usa-panama",
+      "minute": 19,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Clarence Goodson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2011-06-11",
+      "goalId": "goal-2011-06-11-usa-panama-30539",
+      "homeTeamId": "usa",
+      "matchKey": "2011-06-11-usa-panama",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clarence Goodson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2013-07-21",
+      "goalId": "goal-2013-07-21-usa-el-salvador-33068",
+      "homeTeamId": "usa",
+      "matchKey": "2013-07-21-usa-el-salvador",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clarence Goodson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "clarence goodson",
+  "playerKey": "clarence-goodson",
+  "scorer": "Clarence Goodson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "panama",
+    "usa"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1989-07-01",
+      "goalId": "goal-1989-07-01-bra-venezuela-12147",
+      "homeTeamId": "bra",
+      "matchKey": "1989-07-01-bra-venezuela",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1989-07-03",
+      "goalId": "goal-1989-07-03-venezuela-colombia-12165",
+      "homeTeamId": "venezuela",
+      "matchKey": "1989-07-03-venezuela-colombia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1989-07-03",
+      "goalId": "goal-1989-07-03-venezuela-colombia-12167",
+      "homeTeamId": "venezuela",
+      "matchKey": "1989-07-03-venezuela-colombia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1989-07-05",
+      "goalId": "goal-1989-07-05-peru-venezuela-12172",
+      "homeTeamId": "peru",
+      "matchKey": "1989-07-05-peru-venezuela",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "carlos maldonado",
+  "playerKey": "carlos-maldonado",
+  "scorer": "Carlos Maldonado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

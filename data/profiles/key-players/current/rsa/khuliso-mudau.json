@@ -1,0 +1,73 @@
+{
+  "club": "Mamelodi Sundowns FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1995-04-26",
+    "nationality": "South Africa",
+    "playerKey": "khuliso-mudau",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "46601",
+      "espn": "276767",
+      "footballdatabase_eu": "368762",
+      "heimspiel": "557111",
+      "impect": "110873",
+      "kicker": "khuliso-mudau",
+      "national_football_teams": "86993",
+      "skillcorner": "116665",
+      "soccerway": "460234",
+      "sofascore": "936047",
+      "thesportsdb": "34228101",
+      "transfermarkt": "450806",
+      "wikidata": "Q58810793",
+      "worldfootball": "khuliso-mudau",
+      "wyscout": "472162"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Khuliso Mudau",
+  "playerKey": "khuliso-mudau",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-11-18",
+      "goalId": "goal-2023-11-18-rsa-benin-44024",
+      "matchKey": "2023-11-18-rsa-benin",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khuliso Mudau"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 20,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

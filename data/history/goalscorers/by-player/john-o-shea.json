@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-republic-of-ireland-kazakhstan-33507",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2013-10-15-republic-of-ireland-kazakhstan",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John O'Shea",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2014-10-14",
+      "goalId": "goal-2014-10-14-germany-republic-of-ireland-33955",
+      "homeTeamId": "germany",
+      "matchKey": "2014-10-14-germany-republic-of-ireland",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John O'Shea",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2015-06-13",
+      "goalId": "goal-2015-06-13-republic-of-ireland-scotland-34446",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2015-06-13-republic-of-ireland-scotland",
+      "minute": 47,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "John O'Shea",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "john o shea",
+  "playerKey": "john-o-shea",
+  "scorer": "John O'Shea",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland",
+    "scotland"
+  ]
+}

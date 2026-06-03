@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "France",
+    "FRA",
+    "Les Bleus"
+  ],
+  "allTime": {
+    "draws": 195,
+    "goalsAgainst": 1206,
+    "goalsFor": 1711,
+    "losses": 262,
+    "matches": 933,
+    "wins": 476
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "FRA",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 27,
+      "losses": 1,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 21,
+      "goalsFor": 42,
+      "losses": 4,
+      "matches": 20,
+      "wins": 13
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 14,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "fra",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "colombia",
+      "matchId": "int-2026-03-29-colombia-fra",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "fra",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "bra",
+      "matchId": "int-2026-03-26-bra-fra",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "fra",
+      "date": "2025-11-16",
+      "homeScore": 1,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2025-11-16-azerbaijan-fra",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2025-11-13",
+      "homeScore": 4,
+      "homeTeamId": "fra",
+      "matchId": "int-2025-11-13-fra-ukraine",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "fra",
+      "date": "2025-10-13",
+      "homeScore": 2,
+      "homeTeamId": "iceland",
+      "matchId": "int-2025-10-13-iceland-fra",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 95,
+      "goalsAgainst": 419,
+      "goalsFor": 867,
+      "losses": 87,
+      "matches": 435,
+      "wins": 253
+    },
+    "friendly": {
+      "draws": 100,
+      "goalsAgainst": 787,
+      "goalsFor": 844,
+      "losses": 175,
+      "matches": 498,
+      "wins": 223
+    },
+    "neutralVenue": {
+      "draws": 28,
+      "goalsAgainst": 162,
+      "goalsFor": 228,
+      "losses": 32,
+      "matches": 127,
+      "wins": 67
+    },
+    "nonNeutralVenue": {
+      "draws": 167,
+      "goalsAgainst": 1044,
+      "goalsFor": 1483,
+      "losses": 230,
+      "matches": 806,
+      "wins": 409
+    },
+    "worldCup": {
+      "draws": 14,
+      "goalsAgainst": 85,
+      "goalsFor": 136,
+      "losses": 20,
+      "matches": 73,
+      "wins": 39
+    }
+  },
+  "teamId": "fra",
+  "teamName": "France",
+  "topScorers": [
+    {
+      "goals": 45,
+      "playerKey": "kylian-mbapp",
+      "scorer": "Kylian Mbappé"
+    },
+    {
+      "goals": 34,
+      "playerKey": "thierry-henry",
+      "scorer": "Thierry Henry"
+    },
+    {
+      "goals": 29,
+      "playerKey": "antoine-griezmann",
+      "scorer": "Antoine Griezmann"
+    },
+    {
+      "goals": 28,
+      "playerKey": "olivier-giroud",
+      "scorer": "Olivier Giroud"
+    },
+    {
+      "goals": 27,
+      "playerKey": "michel-platini",
+      "scorer": "Michel Platini"
+    },
+    {
+      "goals": 22,
+      "playerKey": "karim-benzema",
+      "scorer": "Karim Benzema"
+    },
+    {
+      "goals": 21,
+      "playerKey": "just-fontaine",
+      "scorer": "Just Fontaine"
+    },
+    {
+      "goals": 20,
+      "playerKey": "jean-pierre-papin",
+      "scorer": "Jean-Pierre Papin"
+    },
+    {
+      "goals": 17,
+      "playerKey": "zinedine-zidane",
+      "scorer": "Zinedine Zidane"
+    },
+    {
+      "goals": 15,
+      "playerKey": "sylvain-wiltord",
+      "scorer": "Sylvain Wiltord"
+    }
+  ]
+}

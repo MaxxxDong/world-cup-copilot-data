@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1984-12-07",
+      "goalId": "goal-1984-12-07-syria-south-korea-10470",
+      "homeTeamId": "syria",
+      "matchKey": "1984-12-07-syria-south-korea",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radwan Al-Sheikh Hassan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "syria"
+    },
+    {
+      "awayTeamId": "yemen",
+      "date": "1985-04-19",
+      "goalId": "goal-1985-04-19-syria-yemen-10718",
+      "homeTeamId": "syria",
+      "matchKey": "1985-04-19-syria-yemen",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radwan Al-Sheikh Hassan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "syria"
+    }
+  ],
+  "normalizedScorer": "radwan al sheikh hassan",
+  "playerKey": "radwan-al-sheikh-hassan",
+  "scorer": "Radwan Al-Sheikh Hassan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "syria"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Solomon Islands"
+  ],
+  "allTime": {
+    "draws": 35,
+    "goalsAgainst": 421,
+    "goalsFor": 462,
+    "losses": 89,
+    "matches": 214,
+    "wins": 90
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 29,
+      "goalsFor": 16,
+      "losses": 8,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 42,
+      "goalsFor": 34,
+      "losses": 13,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 6,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "solomon-islands",
+      "date": "2026-03-30",
+      "homeScore": 4,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2026-03-30-saint-kitts-and-nevis-solomon-islands",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 10,
+      "awayTeamId": "bulgaria",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "solomon-islands",
+      "matchId": "int-2026-03-27-solomon-islands-bulgaria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "solomon-islands",
+      "date": "2025-11-20",
+      "homeScore": 2,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2025-11-20-vanuatu-solomon-islands",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "solomon-islands",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2025-11-13-papua-new-guinea-solomon-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "fiji",
+      "date": "2024-12-21",
+      "homeScore": 1,
+      "homeTeamId": "solomon-islands",
+      "matchId": "int-2024-12-21-solomon-islands-fiji",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 30,
+      "goalsAgainst": 384,
+      "goalsFor": 418,
+      "losses": 80,
+      "matches": 185,
+      "wins": 75
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 37,
+      "goalsFor": 44,
+      "losses": 9,
+      "matches": 29,
+      "wins": 15
+    },
+    "neutralVenue": {
+      "draws": 17,
+      "goalsAgainst": 199,
+      "goalsFor": 281,
+      "losses": 36,
+      "matches": 101,
+      "wins": 48
+    },
+    "nonNeutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 222,
+      "goalsFor": 181,
+      "losses": 53,
+      "matches": 113,
+      "wins": 42
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "solomon-islands",
+  "teamName": "Solomon Islands",
+  "topScorers": [
+    {
+      "goals": 12,
+      "playerKey": "commins-menapi",
+      "scorer": "Commins Menapi"
+    },
+    {
+      "goals": 11,
+      "playerKey": "henry-fa-arodo",
+      "scorer": "Henry Fa'arodo"
+    },
+    {
+      "goals": 10,
+      "playerKey": "batram-suri",
+      "scorer": "Batram Suri"
+    },
+    {
+      "goals": 7,
+      "playerKey": "noel-berry",
+      "scorer": "Noel Berry"
+    },
+    {
+      "goals": 6,
+      "playerKey": "robert-seni",
+      "scorer": "Robert Seni"
+    },
+    {
+      "goals": 5,
+      "playerKey": "benjamin-totori",
+      "scorer": "Benjamin Totori"
+    },
+    {
+      "goals": 5,
+      "playerKey": "raphael-lea-i",
+      "scorer": "Raphael Lea'i"
+    },
+    {
+      "goals": 4,
+      "playerKey": "gideon-omokirio",
+      "scorer": "Gideon Omokirio"
+    },
+    {
+      "goals": 4,
+      "playerKey": "jack-samani",
+      "scorer": "Jack Samani"
+    },
+    {
+      "goals": 4,
+      "playerKey": "patterson-daudau",
+      "scorer": "Patterson Daudau"
+    }
+  ]
+}

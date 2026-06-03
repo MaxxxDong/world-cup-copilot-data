@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-wales-russia-29554",
+      "homeTeamId": "wales",
+      "matchKey": "2009-09-09-wales-russia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Semshov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-russia-north-macedonia-30943",
+      "homeTeamId": "russia",
+      "matchKey": "2011-09-02-russia-north-macedonia",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Semshov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "igor semshov",
+  "playerKey": "igor-semshov",
+  "scorer": "Igor Semshov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

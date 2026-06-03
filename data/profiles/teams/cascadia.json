@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Cascadia"
+  ],
+  "allTime": {
+    "draws": 1,
+    "goalsAgainst": 14,
+    "goalsFor": 23,
+    "losses": 2,
+    "matches": 7,
+    "wins": 4
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 23,
+      "losses": 2,
+      "matches": 7,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 23,
+      "losses": 2,
+      "matches": 7,
+      "wins": 4
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 20,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "chagos-islands",
+      "date": "2019-05-25",
+      "homeScore": 6,
+      "homeTeamId": "cascadia",
+      "matchId": "int-2019-05-25-cascadia-chagos-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "cascadia",
+      "date": "2018-06-09",
+      "homeScore": 3,
+      "homeTeamId": "panjab",
+      "matchId": "int-2018-06-09-panjab-cascadia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "western-armenia",
+      "date": "2018-06-07",
+      "homeScore": 4,
+      "homeTeamId": "cascadia",
+      "matchId": "int-2018-06-07-cascadia-western-armenia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cascadia",
+      "date": "2018-06-05",
+      "homeScore": 3,
+      "homeTeamId": "karpatalja",
+      "matchId": "int-2018-06-05-karpatalja-cascadia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "cascadia",
+      "date": "2018-06-03",
+      "homeScore": 0,
+      "homeTeamId": "tamil-eelam",
+      "matchId": "int-2018-06-03-tamil-eelam-cascadia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 17,
+      "losses": 2,
+      "matches": 6,
+      "wins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 3,
+      "goalsFor": 6,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 15,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 4,
+      "goalsFor": 8,
+      "losses": 0,
+      "matches": 2,
+      "wins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "cascadia",
+  "teamName": "Cascadia",
+  "topScorers": []
+}

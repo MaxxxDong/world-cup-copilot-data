@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1991-03-30",
+      "goalId": "goal-1991-03-30-fra-albania-12745",
+      "homeTeamId": "fra",
+      "matchKey": "1991-03-30-fra-albania",
+      "minute": 81,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Hysen Zmijani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1991-10-16",
+      "goalId": "goal-1991-10-16-czechoslovakia-albania-12977",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1991-10-16-czechoslovakia-albania",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hysen Zmijani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1994-11-16",
+      "goalId": "goal-1994-11-16-albania-germany-15076",
+      "homeTeamId": "albania",
+      "matchKey": "1994-11-16-albania-germany",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hysen Zmijani",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    }
+  ],
+  "normalizedScorer": "hysen zmijani",
+  "playerKey": "hysen-zmijani",
+  "scorer": "Hysen Zmijani",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania",
+    "fra"
+  ]
+}

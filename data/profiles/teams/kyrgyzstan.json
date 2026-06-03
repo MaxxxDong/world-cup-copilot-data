@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Kyrgyzstan"
+  ],
+  "allTime": {
+    "draws": 31,
+    "goalsAgainst": 321,
+    "goalsFor": 220,
+    "losses": 101,
+    "matches": 189,
+    "wins": 57
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 12,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 33,
+      "goalsFor": 26,
+      "losses": 10,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "madagascar",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2026-03-28-kyrgyzstan-madagascar",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2026-03-25",
+      "homeScore": 1,
+      "homeTeamId": "equatorial-guinea",
+      "matchId": "int-2026-03-25-equatorial-guinea-kyrgyzstan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-06-10",
+      "homeScore": 1,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2025-06-10-kyrgyzstan-united-arab-emirates",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2025-06-05",
+      "homeScore": 2,
+      "homeTeamId": "north-korea",
+      "matchId": "int-2025-06-05-north-korea-kyrgyzstan",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "qatar",
+      "date": "2025-03-25",
+      "homeScore": 3,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2025-03-25-kyrgyzstan-qatar",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 17,
+      "goalsAgainst": 197,
+      "goalsFor": 166,
+      "losses": 63,
+      "matches": 125,
+      "wins": 45
+    },
+    "friendly": {
+      "draws": 14,
+      "goalsAgainst": 124,
+      "goalsFor": 54,
+      "losses": 38,
+      "matches": 64,
+      "wins": 12
+    },
+    "neutralVenue": {
+      "draws": 12,
+      "goalsAgainst": 113,
+      "goalsFor": 97,
+      "losses": 37,
+      "matches": 73,
+      "wins": 24
+    },
+    "nonNeutralVenue": {
+      "draws": 19,
+      "goalsAgainst": 208,
+      "goalsFor": 123,
+      "losses": 64,
+      "matches": 116,
+      "wins": 33
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "joel-kojo",
+      "scorer": "Joel Kojo"
+    },
+    {
+      "goals": 6,
+      "playerKey": "mirlan-murzaev",
+      "scorer": "Mirlan Murzaev"
+    },
+    {
+      "goals": 5,
+      "playerKey": "alimardon-shukurov",
+      "scorer": "Alimardon Shukurov"
+    },
+    {
+      "goals": 5,
+      "playerKey": "gulzhigit-alykulov",
+      "scorer": "Gulzhigit Alykulov"
+    },
+    {
+      "goals": 5,
+      "playerKey": "vitalij-lux",
+      "scorer": "Vitalij Lux"
+    },
+    {
+      "goals": 4,
+      "playerKey": "anton-zemlianukhin",
+      "scorer": "Anton Zemlianukhin"
+    },
+    {
+      "goals": 4,
+      "playerKey": "edgar-bernhardt",
+      "scorer": "Edgar Bernhardt"
+    },
+    {
+      "goals": 3,
+      "playerKey": "kai-merk",
+      "scorer": "Kai Merk"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sergey-chikishev",
+      "scorer": "Sergey Chikishev"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sergey-kutsov",
+      "scorer": "Sergey Kutsov"
+    }
+  ]
+}

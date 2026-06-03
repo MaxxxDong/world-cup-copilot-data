@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1983-09-04",
+      "goalId": "goal-1983-09-04-uruguay-venezuela-10054",
+      "homeTeamId": "uruguay",
+      "matchKey": "1983-09-04-uruguay-venezuela",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilmar Cabrera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1983-10-20",
+      "goalId": "goal-1983-10-20-uruguay-peru-10126",
+      "homeTeamId": "uruguay",
+      "matchKey": "1983-10-20-uruguay-peru",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wilmar Cabrera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "wilmar cabrera",
+  "playerKey": "wilmar-cabrera",
+  "scorer": "Wilmar Cabrera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

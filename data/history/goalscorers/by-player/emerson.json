@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1999-06-30",
+      "goalId": "goal-1999-06-30-bra-venezuela-18856",
+      "homeTeamId": "bra",
+      "matchKey": "1999-06-30-bra-venezuela",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emerson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "emerson",
+  "playerKey": "emerson",
+  "scorer": "Emerson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

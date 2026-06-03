@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "1998-02-09",
+      "goalId": "goal-1998-02-09-dr-congo-togo-18106",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1998-02-09-dr-congo-togo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Massamasso Tchangai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "2000-01-31",
+      "goalId": "goal-2000-01-31-cameroon-togo-19237",
+      "homeTeamId": "cameroon",
+      "matchKey": "2000-01-31-cameroon-togo",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Massamasso Tchangai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "massamasso tchangai",
+  "playerKey": "massamasso-tchangai",
+  "scorer": "Massamasso Tchangai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "singapore",
+      "date": "1985-05-25",
+      "goalId": "goal-1985-05-25-north-korea-singapore-10817",
+      "homeTeamId": "north-korea",
+      "matchKey": "1985-05-25-north-korea-singapore",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12158",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "indonesia",
+      "date": "1989-07-09",
+      "goalId": "goal-1989-07-09-north-korea-indonesia-12191",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-09-north-korea-indonesia",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Han Hyong-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "han hyong il",
+  "playerKey": "han-hyong-il",
+  "scorer": "Han Hyong-Il",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

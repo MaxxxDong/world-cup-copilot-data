@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2002-10-12",
+      "goalId": "goal-2002-10-12-spain-northern-ireland-22495",
+      "homeTeamId": "spain",
+      "matchKey": "2002-10-12-spain-northern-ireland",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Guti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2005-02-09",
+      "goalId": "goal-2005-02-09-spain-san-marino-24958",
+      "homeTeamId": "spain",
+      "matchKey": "2005-02-09-spain-san-marino",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Guti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "guti",
+  "playerKey": "guti",
+  "scorer": "Guti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

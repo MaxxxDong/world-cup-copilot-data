@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1979-04-04",
+      "goalId": "goal-1979-04-04-czechoslovakia-fra-8452",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1979-04-04-czechoslovakia-fra",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "František Štambachr",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1979-05-01",
+      "goalId": "goal-1979-05-01-luxembourg-czechoslovakia-8462",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1979-05-01-luxembourg-czechoslovakia",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "František Štambachr",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "franti ek tambachr",
+  "playerKey": "franti-ek-tambachr",
+  "scorer": "František Štambachr",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

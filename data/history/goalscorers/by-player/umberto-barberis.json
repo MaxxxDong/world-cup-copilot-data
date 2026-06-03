@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1979-10-13",
+      "goalId": "goal-1979-10-13-german-dr-switzerland-8587",
+      "homeTeamId": "german-dr",
+      "matchKey": "1979-10-13-german-dr-switzerland",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Umberto Barberis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1980-10-29",
+      "goalId": "goal-1980-10-29-switzerland-norway-9062",
+      "homeTeamId": "switzerland",
+      "matchKey": "1980-10-29-switzerland-norway",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Umberto Barberis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1981-06-17",
+      "goalId": "goal-1981-06-17-norway-switzerland-9366",
+      "homeTeamId": "norway",
+      "matchKey": "1981-06-17-norway-switzerland",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Umberto Barberis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1984-10-17",
+      "goalId": "goal-1984-10-17-switzerland-denmark-10372",
+      "homeTeamId": "switzerland",
+      "matchKey": "1984-10-17-switzerland-denmark",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Umberto Barberis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "umberto barberis",
+  "playerKey": "umberto-barberis",
+  "scorer": "Umberto Barberis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

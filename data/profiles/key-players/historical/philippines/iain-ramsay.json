@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "2015-06-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1988-02-27",
+    "nationality": "Australia",
+    "playerKey": "iain-ramsay",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "30bbd42a",
+      "footballdatabase_eu": "122819",
+      "kicker": "iain-irinco-ramsay",
+      "national_football_teams": "59469",
+      "soccerway": "118860",
+      "sofascore": "128373",
+      "sofifa": "200837891",
+      "transfermarkt": "141869",
+      "wikidata": "Q3791454",
+      "worldfootball": "iain-ramsay"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-14",
+  "playerKey": "iain-ramsay",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-maldives-philippines-39394",
+      "matchKey": "2019-11-14-maldives-philippines",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iain Ramsay"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-philippines-north-korea-35699",
+      "matchKey": "2016-03-29-philippines-north-korea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iain Ramsay"
+    },
+    {
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-yemen-philippines-34561",
+      "matchKey": "2015-06-16-yemen-philippines",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iain Ramsay"
+    }
+  ],
+  "scorer": "Iain Ramsay",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "philippines",
+  "teamName": "Philippines",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

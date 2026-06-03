@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2017-01-20",
+      "goalId": "goal-2017-01-20-mar-togo-36577",
+      "homeTeamId": "mar",
+      "matchKey": "2017-01-20-mar-togo",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aziz Bouhaddouz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "2018-06-15",
+      "goalId": "goal-2018-06-15-mar-iran-37546",
+      "homeTeamId": "mar",
+      "matchKey": "2018-06-15-mar-iran",
+      "minute": 90,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Aziz Bouhaddouz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "aziz bouhaddouz",
+  "playerKey": "aziz-bouhaddouz",
+  "scorer": "Aziz Bouhaddouz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran",
+    "mar"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2011-07-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-07-28",
+    "nationality": "Dominican Republic",
+    "playerKey": "domingo-peralta",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "89150b17",
+      "footballdatabase_eu": "120199",
+      "national_football_teams": "40345",
+      "sofascore": "1099311",
+      "sofifa": "279253",
+      "transfermarkt": "208544",
+      "wikidata": "Q11694769"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-03-27",
+  "playerKey": "domingo-peralta",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-anguilla-dominican-republic-40184",
+      "matchKey": "2021-03-27-anguilla-dominican-republic",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domingo Peralta"
+    },
+    {
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-el-salvador-dominican-republic-30883",
+      "matchKey": "2011-09-02-el-salvador-dominican-republic",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domingo Peralta"
+    },
+    {
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-dominican-republic-anguilla-30667",
+      "matchKey": "2011-07-08-dominican-republic-anguilla",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domingo Peralta"
+    }
+  ],
+  "scorer": "Domingo Peralta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominican-republic",
+  "teamName": "Dominican Republic",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

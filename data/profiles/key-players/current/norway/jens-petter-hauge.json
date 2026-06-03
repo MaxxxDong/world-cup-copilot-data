@@ -1,0 +1,79 @@
+{
+  "club": "FK Bodø/Glimt (NOR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-10-12",
+    "nationality": "Norway",
+    "playerKey": "jens-petter-hauge",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "39073",
+      "capology": "jens-petter-hauge-36445",
+      "eu_football_info": "31156",
+      "fbref": "12c35abe",
+      "footballdatabase_eu": "291919",
+      "heimspiel": "448136",
+      "impect": "31568",
+      "kicker": "jens-petter-hauge",
+      "national_football_teams": "79832",
+      "opta": "7dnxkce4kn8qchaavv6e4tm21",
+      "skillcorner": "32324",
+      "soccerbase": "90897",
+      "soccerway": "442667",
+      "sofascore": "838805",
+      "sofifa": "201493817",
+      "thesportsdb": "34172636",
+      "transfermarkt": "422355",
+      "uefa": "250104487",
+      "wikidata": "Q24007299",
+      "worldfootball": "jens-hauge",
+      "wyscout": "432073"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jens Petter Hauge",
+  "playerKey": "jens-petter-hauge",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-slovenia-norway-45643",
+      "matchKey": "2024-11-14-slovenia-norway",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jens Petter Hauge"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 23,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

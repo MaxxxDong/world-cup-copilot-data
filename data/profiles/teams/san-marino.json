@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "San Marino"
+  ],
+  "allTime": {
+    "draws": 11,
+    "goalsAgainst": 886,
+    "goalsFor": 42,
+    "losses": 209,
+    "matches": 223,
+    "wins": 3
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 38,
+      "goalsFor": 3,
+      "losses": 9,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 59,
+      "goalsFor": 10,
+      "losses": 16,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "andorra",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2026-03-31-san-marino-andorra",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "faroe-islands",
+      "date": "2026-03-28",
+      "homeScore": 1,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2026-03-28-san-marino-faroe-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "san-marino",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "romania",
+      "matchId": "int-2025-11-18-romania-san-marino",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "san-marino",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2025-11-13-czech-republic-san-marino",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "cyprus",
+      "date": "2025-10-12",
+      "homeScore": 0,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2025-10-12-san-marino-cyprus",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 6,
+      "goalsAgainst": 797,
+      "goalsFor": 30,
+      "losses": 180,
+      "matches": 188,
+      "wins": 2
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 89,
+      "goalsFor": 12,
+      "losses": 29,
+      "matches": 35,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 25,
+      "goalsFor": 1,
+      "losses": 6,
+      "matches": 6,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 11,
+      "goalsAgainst": 861,
+      "goalsFor": 41,
+      "losses": 203,
+      "matches": 217,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "san-marino",
+  "teamName": "San Marino",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "andy-selva",
+      "scorer": "Andy Selva"
+    },
+    {
+      "goals": 3,
+      "playerKey": "nicola-nanni",
+      "scorer": "Nicola Nanni"
+    },
+    {
+      "goals": 2,
+      "playerKey": "alessandro-golinucci",
+      "scorer": "Alessandro Golinucci"
+    },
+    {
+      "goals": 2,
+      "playerKey": "filippo-berardi",
+      "scorer": "Filippo Berardi"
+    },
+    {
+      "goals": 1,
+      "playerKey": "alessandro-della-valle",
+      "scorer": "Alessandro Della Valle"
+    },
+    {
+      "goals": 1,
+      "playerKey": "davide-gualtieri",
+      "scorer": "Davide Gualtieri"
+    },
+    {
+      "goals": 1,
+      "playerKey": "lorenzo-lazzari",
+      "scorer": "Lorenzo Lazzari"
+    },
+    {
+      "goals": 1,
+      "playerKey": "manuel-marani",
+      "scorer": "Manuel Marani"
+    },
+    {
+      "goals": 1,
+      "playerKey": "matteo-vitaioli",
+      "scorer": "Matteo Vitaioli"
+    },
+    {
+      "goals": 1,
+      "playerKey": "mattia-stefanelli",
+      "scorer": "Mattia Stefanelli"
+    }
+  ]
+}

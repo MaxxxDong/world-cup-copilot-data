@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2008-05-31",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-02-11",
+    "nationality": "Tanzania",
+    "playerKey": "danny-mrwanda",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "36794",
+      "national_football_teams": "26068",
+      "soccerway": "68638",
+      "sofifa": "297175",
+      "transfermarkt": "66870",
+      "wikidata": "Q611166"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-21",
+  "playerKey": "danny-mrwanda",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-21",
+      "goalId": "goal-2008-06-21-cameroon-tanzania-28148",
+      "matchKey": "2008-06-21-cameroon-tanzania",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Mrwanda"
+    },
+    {
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-tanzania-mauritius-27774",
+      "matchKey": "2008-05-31-tanzania-mauritius",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danny Mrwanda"
+    }
+  ],
+  "scorer": "Danny Mrwanda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tanzania",
+  "teamName": "Tanzania",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

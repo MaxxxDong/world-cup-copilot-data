@@ -1,0 +1,72 @@
+{
+  "club": "Auckland FC (NZL)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1994-11-28",
+    "nationality": "New Zealand",
+    "playerKey": "francis-de-vries",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "94405",
+      "fbref": "90a63dda",
+      "footballdatabase_eu": "315079",
+      "heimspiel": "267043",
+      "impect": "113710",
+      "kicker": "francis-de-vries",
+      "national_football_teams": "84715",
+      "skillcorner": "133498",
+      "soccerway": "217899",
+      "sofascore": "867714",
+      "thesportsdb": "34252224",
+      "transfermarkt": "207061",
+      "wikidata": "Q29113776",
+      "wyscout": "77272"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Francis De Vries",
+  "playerKey": "francis-de-vries",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-new-zealand-samoa-45760",
+      "matchKey": "2024-11-18-new-zealand-samoa",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Francis de Vries"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+  },
+  "shirtNumber": 3,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-zealand",
+  "teamName": "New Zealand"
+}

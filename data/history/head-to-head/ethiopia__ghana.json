@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 11,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "ghana",
+    "date": "2021-11-11",
+    "homeScore": 1,
+    "homeTeamId": "ethiopia",
+    "matchId": "int-2021-11-11-ethiopia-ghana",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "1963-11-26",
+      "homeScore": 2,
+      "homeTeamId": "ghana",
+      "matchId": "int-1963-11-26-ghana-ethiopia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ghana",
+      "date": "1996-04-21",
+      "homeScore": 2,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-1996-04-21-ethiopia-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2017-06-11",
+      "homeScore": 5,
+      "homeTeamId": "ghana",
+      "matchId": "int-2017-06-11-ghana-ethiopia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ghana",
+      "date": "2018-11-18",
+      "homeScore": 0,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2018-11-18-ethiopia-ghana",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ethiopia",
+      "date": "2021-09-03",
+      "homeScore": 1,
+      "homeTeamId": "ghana",
+      "matchId": "int-2021-09-03-ghana-ethiopia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "ghana",
+      "date": "2021-11-11",
+      "homeScore": 1,
+      "homeTeamId": "ethiopia",
+      "matchId": "int-2021-11-11-ethiopia-ghana",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "ethiopia__ghana",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 11,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 10,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "ethiopia",
+  "teamBId": "ghana"
+}

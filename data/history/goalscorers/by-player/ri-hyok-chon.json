@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1989-06-25",
+      "goalId": "goal-1989-06-25-north-korea-japan-12136",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-06-25-north-korea-japan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ri Hyok-chon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12156",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ri Hyok-chon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "ri hyok chon",
+  "playerKey": "ri-hyok-chon",
+  "scorer": "Ri Hyok-chon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

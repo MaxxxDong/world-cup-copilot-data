@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-peru-uruguay-29411",
+      "homeTeamId": "peru",
+      "matchKey": "2009-09-05-peru-uruguay",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hernán Rengifo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-arg-peru-29559",
+      "homeTeamId": "arg",
+      "matchKey": "2009-10-10-arg-peru",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hernán Rengifo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "hern n rengifo",
+  "playerKey": "hern-n-rengifo",
+  "scorer": "Hernán Rengifo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

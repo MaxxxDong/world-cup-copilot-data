@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2014-10-12",
+      "goalId": "goal-2014-10-12-sweden-liechtenstein-33918",
+      "homeTeamId": "sweden",
+      "matchKey": "2014-10-12-sweden-liechtenstein",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy Durmaz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2017-06-09",
+      "goalId": "goal-2017-06-09-sweden-fra-36796",
+      "homeTeamId": "sweden",
+      "matchKey": "2017-06-09-sweden-fra",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy Durmaz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sweden"
+    }
+  ],
+  "normalizedScorer": "jimmy durmaz",
+  "playerKey": "jimmy-durmaz",
+  "scorer": "Jimmy Durmaz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sweden"
+  ]
+}

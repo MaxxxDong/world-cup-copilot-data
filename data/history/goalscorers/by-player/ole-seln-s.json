@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2017-10-05",
+      "goalId": "goal-2017-10-05-san-marino-norway-37293",
+      "homeTeamId": "san-marino",
+      "matchKey": "2017-10-05-san-marino-norway",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ole Selnæs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2018-10-13",
+      "goalId": "goal-2018-10-13-norway-slovenia-37861",
+      "homeTeamId": "norway",
+      "matchKey": "2018-10-13-norway-slovenia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ole Selnæs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "ole seln s",
+  "playerKey": "ole-seln-s",
+  "scorer": "Ole Selnæs",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "club": "RSC Anderlecht (BEL)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2004-08-29",
+    "nationality": "Canada",
+    "playerKey": "nathan-saliba",
+    "position": "midfielder",
+    "providerIds": {
+      "capology": "nathan-dylan-saliba-38024",
+      "fbref": "44cfc681",
+      "footballdatabase_eu": "435552",
+      "national_football_teams": "95700",
+      "soccerway": "641753",
+      "sofascore": "1093229",
+      "transfermarkt": "842420",
+      "wikidata": "Q116908746"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nathan Saliba",
+  "playerKey": "nathan-saliba",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-21",
+      "goalId": "goal-2025-06-21-curacao-canada-46495",
+      "matchKey": "2025-06-21-curacao-canada",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nathan Saliba"
+    },
+    {
+      "date": "2025-06-17",
+      "goalId": "goal-2025-06-17-canada-honduras-46482",
+      "matchKey": "2025-06-17-canada-honduras",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nathan Saliba"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 25,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

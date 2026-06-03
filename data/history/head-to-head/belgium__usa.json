@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 8,
+    "teamAGoals": 22,
+    "teamAWins": 7,
+    "teamBGoals": 8,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 5,
+    "awayTeamId": "belgium",
+    "date": "2026-03-28",
+    "homeScore": 2,
+    "homeTeamId": "usa",
+    "matchId": "int-2026-03-28-usa-belgium",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "1919-06-28",
+      "homeScore": 7,
+      "homeTeamId": "belgium",
+      "matchId": "int-1919-06-28-belgium-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Inter-Allied Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "usa",
+      "date": "1930-07-13",
+      "homeScore": 0,
+      "homeTeamId": "belgium",
+      "matchId": "int-1930-07-13-belgium-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "1995-04-22",
+      "homeScore": 1,
+      "homeTeamId": "belgium",
+      "matchId": "int-1995-04-22-belgium-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "1998-02-25",
+      "homeScore": 2,
+      "homeTeamId": "belgium",
+      "matchId": "int-1998-02-25-belgium-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "usa",
+      "date": "2011-09-06",
+      "homeScore": 1,
+      "homeTeamId": "belgium",
+      "matchId": "int-2011-09-06-belgium-usa",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "belgium",
+      "date": "2013-05-29",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2013-05-29-usa-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "usa",
+      "date": "2014-07-01",
+      "homeScore": 2,
+      "homeTeamId": "belgium",
+      "matchId": "int-2014-07-01-belgium-usa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "belgium",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2026-03-28-usa-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "belgium__usa",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 13,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 13,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "belgium",
+  "teamBId": "usa"
+}

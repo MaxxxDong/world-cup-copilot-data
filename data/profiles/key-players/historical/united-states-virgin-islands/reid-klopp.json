@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2011-07-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-06-02",
+    "nationality": "United States",
+    "playerKey": "reid-klopp",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "2700a66e",
+      "footballdatabase_eu": "142681",
+      "national_football_teams": "43912",
+      "sofifa": "345494",
+      "transfermarkt": "209727",
+      "wikidata": "Q7309966"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-10",
+  "playerKey": "reid-klopp",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-10",
+      "goalId": "goal-2011-07-10-british-virgin-islands-united-states-virgin-islands-30685",
+      "matchKey": "2011-07-10-british-virgin-islands-united-states-virgin-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Reid Klopp"
+    },
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-united-states-virgin-islands-british-virgin-islands-30653",
+      "matchKey": "2011-07-03-united-states-virgin-islands-british-virgin-islands",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Reid Klopp"
+    }
+  ],
+  "scorer": "Reid Klopp",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "united-states-virgin-islands",
+  "teamName": "United States Virgin Islands",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

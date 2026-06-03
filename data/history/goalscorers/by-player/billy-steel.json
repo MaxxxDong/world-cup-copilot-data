@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1949-10-01",
+      "goalId": "goal-1949-10-01-northern-ireland-scotland-1786",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1949-10-01-northern-ireland-scotland",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Billy Steel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "billy steel",
+  "playerKey": "billy-steel",
+  "scorer": "Billy Steel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

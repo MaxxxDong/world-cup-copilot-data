@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 10,
+    "teamAGoals": 21,
+    "teamAWins": 3,
+    "teamBGoals": 20,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "taiwan",
+    "date": "2024-11-18",
+    "homeScore": 2,
+    "homeTeamId": "singapore",
+    "matchId": "int-2024-11-18-singapore-taiwan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "1962-07-27",
+      "homeScore": 2,
+      "homeTeamId": "singapore",
+      "matchId": "int-1962-07-27-singapore-taiwan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "taiwan",
+      "date": "1966-08-20",
+      "homeScore": 4,
+      "homeTeamId": "singapore",
+      "matchId": "int-1966-08-20-singapore-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "taiwan",
+      "date": "1966-12-13",
+      "homeScore": 3,
+      "homeTeamId": "singapore",
+      "matchId": "int-1966-12-13-singapore-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Asian Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "taiwan",
+      "date": "1967-08-11",
+      "homeScore": 3,
+      "homeTeamId": "singapore",
+      "matchId": "int-1967-08-11-singapore-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "1968-08-11",
+      "homeScore": 0,
+      "homeTeamId": "singapore",
+      "matchId": "int-1968-08-11-singapore-taiwan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "2011-07-18",
+      "homeScore": 3,
+      "homeTeamId": "singapore",
+      "matchId": "int-2011-07-18-singapore-taiwan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "taiwan",
+      "date": "2017-06-10",
+      "homeScore": 1,
+      "homeTeamId": "singapore",
+      "matchId": "int-2017-06-10-singapore-taiwan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "singapore",
+      "date": "2018-03-27",
+      "homeScore": 1,
+      "homeTeamId": "taiwan",
+      "matchId": "int-2018-03-27-taiwan-singapore",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "taiwan",
+      "date": "2023-09-12",
+      "homeScore": 3,
+      "homeTeamId": "singapore",
+      "matchId": "int-2023-09-12-singapore-taiwan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "taiwan",
+      "date": "2024-11-18",
+      "homeScore": 2,
+      "homeTeamId": "singapore",
+      "matchId": "int-2024-11-18-singapore-taiwan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "singapore__taiwan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 1,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 10,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 2,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "singapore",
+  "teamBId": "taiwan"
+}

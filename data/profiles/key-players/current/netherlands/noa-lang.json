@@ -1,0 +1,99 @@
+{
+  "club": "Galatasaray SK (TUR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1999-06-17",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "noa-lang",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "544",
+      "capology": "noa-lang-36328",
+      "dongqiudi": "50392030",
+      "espn": "255344",
+      "eu_football_info": "31701",
+      "fbref": "8e034340",
+      "footballdatabase_eu": "305156",
+      "heimspiel": "423368",
+      "impect": "13143",
+      "kicker": "noa-lang",
+      "lequipe": "67605",
+      "national_football_teams": "84250",
+      "opta": "7ew7g18qo649t8ld44omgib55",
+      "skillcorner": "13485",
+      "soccerbase": "111204",
+      "soccerway": "463018",
+      "sofascore": "875136",
+      "thesportsdb": "34170438",
+      "transfermarkt": "339332",
+      "uefa": "250091165",
+      "wikidata": "Q29441778",
+      "worldfootball": "noa-lang",
+      "wyscout": "475601"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Noa Lang",
+  "playerKey": "noa-lang",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-netherlands-malta-46411",
+      "matchKey": "2025-06-10-netherlands-malta",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang"
+    },
+    {
+      "date": "2023-06-14",
+      "goalId": "goal-2023-06-14-netherlands-croatia-43194",
+      "matchKey": "2023-06-14-netherlands-croatia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang"
+    },
+    {
+      "date": "2022-06-14",
+      "goalId": "goal-2022-06-14-netherlands-wales-42727",
+      "matchKey": "2022-06-14-netherlands-wales",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noa Lang"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+  },
+  "shirtNumber": 17,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

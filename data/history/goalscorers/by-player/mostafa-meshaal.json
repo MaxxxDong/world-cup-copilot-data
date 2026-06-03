@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "afghanistan",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-qatar-afghanistan-43892",
+      "homeTeamId": "qatar",
+      "matchKey": "2023-11-16-qatar-afghanistan",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mostafa Meshaal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-india-qatar-44132",
+      "homeTeamId": "india",
+      "matchKey": "2023-11-21-india-qatar",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mostafa Meshaal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "mostafa meshaal",
+  "playerKey": "mostafa-meshaal",
+  "scorer": "Mostafa Meshaal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

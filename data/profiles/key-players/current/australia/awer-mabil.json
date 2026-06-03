@@ -1,0 +1,104 @@
+{
+  "club": "CD Castellón (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1995-09-15",
+    "nationality": "Australia",
+    "playerKey": "awer-mabil",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "2755",
+      "capology": "awer-mabil-34957",
+      "espn": "181707",
+      "fbref": "922da988",
+      "footballdatabase_eu": "190300",
+      "heimspiel": "304183",
+      "impect": "13638",
+      "kicker": "awer-mabil",
+      "lequipe": "57937",
+      "national_football_teams": "72264",
+      "opta": "9rm0qaumcii8d9zqxkh9nq4lx",
+      "skillcorner": "13556",
+      "soccerway": "281501",
+      "sofascore": "307082",
+      "thesportsdb": "34149194",
+      "transfermarkt": "255729",
+      "wikidata": "Q4830013",
+      "worldfootball": "awer-mabil",
+      "wyscout": "249547"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Awer Mabil",
+  "playerKey": "awer-mabil",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-australia-oman-41467",
+      "matchKey": "2021-10-07-australia-oman",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Awer Mabil"
+    },
+    {
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-australia-china-pr-41148",
+      "matchKey": "2021-09-02-australia-china-pr",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Awer Mabil"
+    },
+    {
+      "date": "2019-01-15",
+      "goalId": "goal-2019-01-15-australia-syria-38111",
+      "matchKey": "2019-01-15-australia-syria",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Awer Mabil"
+    },
+    {
+      "date": "2019-01-11",
+      "goalId": "goal-2019-01-11-palestine-australia-38085",
+      "matchKey": "2019-01-11-palestine-australia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Awer Mabil"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "australia",
+  "teamName": "Australia"
+}

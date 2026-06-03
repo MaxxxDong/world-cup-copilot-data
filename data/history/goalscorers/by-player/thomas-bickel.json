@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1990-09-12",
+      "goalId": "goal-1990-09-12-switzerland-bulgaria-12600",
+      "homeTeamId": "switzerland",
+      "matchKey": "1990-09-12-switzerland-bulgaria",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Bickel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1992-11-18",
+      "goalId": "goal-1992-11-18-switzerland-malta-13534",
+      "homeTeamId": "switzerland",
+      "matchKey": "1992-11-18-switzerland-malta",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Bickel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1994-11-16",
+      "goalId": "goal-1994-11-16-switzerland-iceland-15122",
+      "homeTeamId": "switzerland",
+      "matchKey": "1994-11-16-switzerland-iceland",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Bickel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1994-12-14",
+      "goalId": "goal-1994-12-14-turkey-switzerland-15143",
+      "homeTeamId": "turkey",
+      "matchKey": "1994-12-14-turkey-switzerland",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Bickel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "thomas bickel",
+  "playerKey": "thomas-bickel",
+  "scorer": "Thomas Bickel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

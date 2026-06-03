@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "1985-03-15",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1986-03-03",
+    "nationality": "Indonesia",
+    "playerKey": "dede-sulaiman",
+    "position": "goalkeeper",
+    "providerIds": {
+      "footballdatabase_eu": "62402",
+      "soccerway": "48484",
+      "sofascore": "809968",
+      "transfermarkt": "505898",
+      "wikidata": "Q5249743"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1985-07-30",
+  "playerKey": "dede-sulaiman",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1985-07-30",
+      "goalId": "goal-1985-07-30-indonesia-south-korea-10902",
+      "matchKey": "1985-07-30-indonesia-south-korea",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dede Sulaiman"
+    },
+    {
+      "date": "1985-04-06",
+      "goalId": "goal-1985-04-06-india-indonesia-10666",
+      "matchKey": "1985-04-06-india-indonesia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dede Sulaiman"
+    },
+    {
+      "date": "1985-03-18",
+      "goalId": "goal-1985-03-18-indonesia-bangladesh-10598",
+      "matchKey": "1985-03-18-indonesia-bangladesh",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dede Sulaiman"
+    },
+    {
+      "date": "1985-03-15",
+      "goalId": "goal-1985-03-15-indonesia-thailand-10587",
+      "matchKey": "1985-03-15-indonesia-thailand",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dede Sulaiman"
+    }
+  ],
+  "scorer": "Dede Sulaiman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "indonesia",
+  "teamName": "Indonesia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

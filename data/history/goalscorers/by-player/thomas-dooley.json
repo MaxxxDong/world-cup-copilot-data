@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "1993-07-14",
+      "goalId": "goal-1993-07-14-usa-panama-14399",
+      "homeTeamId": "usa",
+      "matchKey": "1993-07-14-usa-panama",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Dooley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-usa-trinidad-and-tobago-16542",
+      "homeTeamId": "usa",
+      "matchKey": "1996-11-10-usa-trinidad-and-tobago",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thomas Dooley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "thomas dooley",
+  "playerKey": "thomas-dooley",
+  "scorer": "Thomas Dooley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

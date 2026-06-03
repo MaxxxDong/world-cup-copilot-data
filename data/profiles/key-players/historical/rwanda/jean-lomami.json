@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2003-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1982-07-27",
+    "nationality": "Rwanda",
+    "playerKey": "jean-lomami",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "73065d36",
+      "footballdatabase_eu": "7201",
+      "national_football_teams": "5478",
+      "transfermarkt": "170833",
+      "wikidata": "Q11723696"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2003-11-15",
+  "playerKey": "jean-lomami",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2003-11-15",
+      "goalId": "goal-2003-11-15-namibia-rwanda-23149",
+      "matchKey": "2003-11-15-namibia-rwanda",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean Lomami"
+    },
+    {
+      "date": "2003-10-12",
+      "goalId": "goal-2003-10-12-rwanda-namibia-23119",
+      "matchKey": "2003-10-12-rwanda-namibia",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean Lomami"
+    }
+  ],
+  "scorer": "Jean Lomami",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rwanda",
+  "teamName": "Rwanda",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

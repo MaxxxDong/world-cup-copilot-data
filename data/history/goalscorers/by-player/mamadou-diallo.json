@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "senegal",
+      "date": "1990-03-06",
+      "goalId": "goal-1990-03-06-cameroon-senegal-12456",
+      "homeTeamId": "cameroon",
+      "matchKey": "1990-03-06-cameroon-senegal",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamadou Diallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "1992-10-25",
+      "goalId": "goal-1992-10-25-mozambique-senegal-13424",
+      "homeTeamId": "mozambique",
+      "matchKey": "1992-10-25-mozambique-senegal",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamadou Diallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-senegal-togo-16074",
+      "homeTeamId": "senegal",
+      "matchKey": "1996-06-16-senegal-togo",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamadou Diallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2004-09-05",
+      "goalId": "goal-2004-09-05-mali-senegal-24378",
+      "homeTeamId": "mali",
+      "matchKey": "2004-09-05-mali-senegal",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamadou Diallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "benin",
+      "date": "2009-06-21",
+      "goalId": "goal-2009-06-21-mali-benin-29244",
+      "homeTeamId": "mali",
+      "matchKey": "2009-06-21-mali-benin",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mamadou Diallo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "mamadou diallo",
+  "playerKey": "mamadou-diallo",
+  "scorer": "Mamadou Diallo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali",
+    "senegal"
+  ]
+}

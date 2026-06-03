@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1971-05-12",
+      "goalId": "goal-1971-05-12-portugal-denmark-6055",
+      "homeTeamId": "portugal",
+      "matchKey": "1971-05-12-portugal-denmark",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rui Rodrigues",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "1971-10-13",
+      "goalId": "goal-1971-10-13-scotland-portugal-6140",
+      "homeTeamId": "scotland",
+      "matchKey": "1971-10-13-scotland-portugal",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rui Rodrigues",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1975-11-19",
+      "goalId": "goal-1975-11-19-portugal-england-7415",
+      "homeTeamId": "portugal",
+      "matchKey": "1975-11-19-portugal-england",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rui Rodrigues",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "rui rodrigues",
+  "playerKey": "rui-rodrigues",
+  "scorer": "Rui Rodrigues",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1987-10-14",
+      "goalId": "goal-1987-10-14-republic-of-ireland-bulgaria-11532",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1987-10-14-republic-of-ireland-bulgaria",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kevin Moran",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1989-05-28",
+      "goalId": "goal-1989-05-28-republic-of-ireland-malta-12049",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1989-05-28-republic-of-ireland-malta",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kevin Moran",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "kevin moran",
+  "playerKey": "kevin-moran",
+  "scorer": "Kevin Moran",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

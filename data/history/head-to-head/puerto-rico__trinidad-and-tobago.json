@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 5,
+    "teamAWins": 0,
+    "teamBGoals": 23,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "trinidad-and-tobago",
+    "date": "2021-03-28",
+    "homeScore": 1,
+    "homeTeamId": "puerto-rico",
+    "matchId": "int-2021-03-28-puerto-rico-trinidad-and-tobago",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 8,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "1949-05-09",
+      "homeScore": 2,
+      "homeTeamId": "puerto-rico",
+      "matchId": "int-1949-05-09-puerto-rico-trinidad-and-tobago",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "1949-05-11",
+      "homeScore": 0,
+      "homeTeamId": "puerto-rico",
+      "matchId": "int-1949-05-11-puerto-rico-trinidad-and-tobago",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "puerto-rico",
+      "date": "2004-11-24",
+      "homeScore": 5,
+      "homeTeamId": "trinidad-and-tobago",
+      "matchId": "int-2004-11-24-trinidad-and-tobago-puerto-rico",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2008-01-26",
+      "homeScore": 2,
+      "homeTeamId": "puerto-rico",
+      "matchId": "int-2008-01-26-puerto-rico-trinidad-and-tobago",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2021-03-28",
+      "homeScore": 1,
+      "homeTeamId": "puerto-rico",
+      "matchId": "int-2021-03-28-puerto-rico-trinidad-and-tobago",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "puerto-rico__trinidad-and-tobago",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 17,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 23,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "puerto-rico",
+  "teamBId": "trinidad-and-tobago"
+}

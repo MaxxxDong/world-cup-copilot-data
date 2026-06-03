@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 10,
+    "teamAGoals": 13,
+    "teamAWins": 5,
+    "teamBGoals": 12,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "czech-republic",
+    "date": "2023-11-17",
+    "homeScore": 1,
+    "homeTeamId": "poland",
+    "matchId": "int-2023-11-17-poland-czech-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "poland",
+      "date": "1997-03-12",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-1997-03-12-czech-republic-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "1999-04-28",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-1999-04-28-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "poland",
+      "date": "2008-02-06",
+      "homeScore": 0,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2008-02-06-czech-republic-poland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2008-10-11",
+      "homeScore": 2,
+      "homeTeamId": "poland",
+      "matchId": "int-2008-10-11-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "poland",
+      "date": "2009-10-10",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2009-10-10-czech-republic-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2012-06-16",
+      "homeScore": 0,
+      "homeTeamId": "poland",
+      "matchId": "int-2012-06-16-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2015-11-17",
+      "homeScore": 3,
+      "homeTeamId": "poland",
+      "matchId": "int-2015-11-17-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2018-11-15",
+      "homeScore": 0,
+      "homeTeamId": "poland",
+      "matchId": "int-2018-11-15-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "poland",
+      "date": "2023-03-24",
+      "homeScore": 3,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2023-03-24-czech-republic-poland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2023-11-17",
+      "homeScore": 1,
+      "homeTeamId": "poland",
+      "matchId": "int-2023-11-17-poland-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    }
+  ],
+  "pairKey": "czech-republic__poland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 9,
+      "teamAGoals": 13,
+      "teamAWins": 5,
+      "teamBGoals": 10,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "czech-republic",
+  "teamBId": "poland"
+}

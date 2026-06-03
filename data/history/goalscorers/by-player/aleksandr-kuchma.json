@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "2005-10-12",
+      "goalId": "goal-2005-10-12-kazakhstan-denmark-25952",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "2005-10-12-kazakhstan-denmark",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Kuchma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-england-kazakhstan-28582",
+      "homeTeamId": "england",
+      "matchKey": "2008-10-11-england-kazakhstan",
+      "minute": 64,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Aleksandr Kuchma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "aleksandr kuchma",
+  "playerKey": "aleksandr-kuchma",
+  "scorer": "Aleksandr Kuchma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england",
+    "kazakhstan"
+  ]
+}

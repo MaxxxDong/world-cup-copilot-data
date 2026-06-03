@@ -1,0 +1,2539 @@
+{
+  "dataVersion": "2026.06.03+final-squads",
+  "fileIndexes": [
+    {
+      "categories": [
+        "checksums"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "audit",
+      "indexesTier": "audit",
+      "indexId": "files-audit",
+      "path": "indexes/files-audit.json",
+      "pathPrefixes": [
+        "checksums/"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "f44b0349db03a5b639103a90b8cd4a98e894be16fa1b8d57b282b8583b890770",
+      "sizeBytes": 556,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.form"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-form",
+      "path": "indexes/files-match-context-form.json",
+      "pathPrefixes": [
+        "data/history/form/"
+      ],
+      "recordCount": 336,
+      "required": false,
+      "sha256": "a91dba5b84e554af46a2ef6a872abafaadcc393036bbfb2946d5664af10f9e7b",
+      "sizeBytes": 65976,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-a",
+      "path": "indexes/files-match-context-head-to-head-a.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/a"
+      ],
+      "recordCount": 930,
+      "required": false,
+      "sha256": "447246f2392e0fd18fd3849f2d4202d9caecf76fecfae6cc379b71bce717ad94",
+      "sizeBytes": 198244,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-b",
+      "path": "indexes/files-match-context-head-to-head-b.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/b"
+      ],
+      "recordCount": 1015,
+      "required": false,
+      "sha256": "9f64f8f3949309dd0ebdca1ac8aa57f4e6ad052556b815e65b23a579b9935743",
+      "sizeBytes": 217030,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-c",
+      "path": "indexes/files-match-context-head-to-head-c.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/c"
+      ],
+      "recordCount": 1167,
+      "required": false,
+      "sha256": "aba90af12be376341f6efab7b5a6b33bf3202bf8c5354149a0545c2b283aa957",
+      "sizeBytes": 248518,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-d",
+      "path": "indexes/files-match-context-head-to-head-d.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/d"
+      ],
+      "recordCount": 198,
+      "required": false,
+      "sha256": "9af068951d91b26587e1909c3574e310f08e61a2106667ac08453e8423d73a57",
+      "sizeBytes": 42833,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-e",
+      "path": "indexes/files-match-context-head-to-head-e.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/e"
+      ],
+      "recordCount": 439,
+      "required": false,
+      "sha256": "b5448a39b11af40a1976bfef37d2c6d6b5f862216c4a2cec4c3aa447a43af4fb",
+      "sizeBytes": 93588,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-f",
+      "path": "indexes/files-match-context-head-to-head-f.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/f"
+      ],
+      "recordCount": 238,
+      "required": false,
+      "sha256": "9327c989bce4819c5a1a58220368d8a2f212bb4d7b38267a07372b45ed3ee255",
+      "sizeBytes": 51048,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-g",
+      "path": "indexes/files-match-context-head-to-head-g.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/g"
+      ],
+      "recordCount": 608,
+      "required": false,
+      "sha256": "5bdd2f167a4f0ac99e87bc50996a5697efe14be188279fc4949401743cdafa24",
+      "sizeBytes": 129096,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-h",
+      "path": "indexes/files-match-context-head-to-head-h.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/h"
+      ],
+      "recordCount": 172,
+      "required": false,
+      "sha256": "7246baf379e3470b480c9609ed9df7a67fd2932830a9e76b8fadf703fd2d7304",
+      "sizeBytes": 36990,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-i",
+      "path": "indexes/files-match-context-head-to-head-i.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/i"
+      ],
+      "recordCount": 419,
+      "required": false,
+      "sha256": "908596075268bf37baa7078931bb90aaa557754071eb755ced78a53412b2e9ee",
+      "sizeBytes": 88775,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-j",
+      "path": "indexes/files-match-context-head-to-head-j.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/j"
+      ],
+      "recordCount": 165,
+      "required": false,
+      "sha256": "afab39f7dfb9aeb459e7a706fd7f3acbb09f9bd9f18e2a06d65d5a52b423c4e7",
+      "sizeBytes": 35186,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-k",
+      "path": "indexes/files-match-context-head-to-head-k.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/k"
+      ],
+      "recordCount": 210,
+      "required": false,
+      "sha256": "27dbf64c8e64b50e748c1e88ee9f67e0d01cbc79a5a3ca437a85ff37ff937fc0",
+      "sizeBytes": 45006,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-l",
+      "path": "indexes/files-match-context-head-to-head-l.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/l"
+      ],
+      "recordCount": 278,
+      "required": false,
+      "sha256": "c39446422593b45aeb75151eaed6b994e55d7633d30c548b97548c2a32dcbf5c",
+      "sizeBytes": 59372,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-m",
+      "path": "indexes/files-match-context-head-to-head-m.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/m"
+      ],
+      "recordCount": 476,
+      "required": false,
+      "sha256": "fefadff239ed997151d647b31ef100a3edd577ff371379222fde3779df8ed492",
+      "sizeBytes": 101398,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-n",
+      "path": "indexes/files-match-context-head-to-head-n.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/n"
+      ],
+      "recordCount": 312,
+      "required": false,
+      "sha256": "063ba25ca1273002c7d093267866182a8a79d51bb720c2ace1b9d35a1151da1f",
+      "sizeBytes": 67495,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-o",
+      "path": "indexes/files-match-context-head-to-head-o.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/o"
+      ],
+      "recordCount": 42,
+      "required": false,
+      "sha256": "db5bcfe8d8c8f296cf1840b06e0aeef682ee09157f9ec51ec609e4ea4ae962e7",
+      "sizeBytes": 9295,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-p",
+      "path": "indexes/files-match-context-head-to-head-p.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/p"
+      ],
+      "recordCount": 206,
+      "required": false,
+      "sha256": "8fbfdbfa84ea757772f8b3a0107973325684199d49747e3b661971a2521cb831",
+      "sizeBytes": 44415,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-q",
+      "path": "indexes/files-match-context-head-to-head-q.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/q"
+      ],
+      "recordCount": 28,
+      "required": false,
+      "sha256": "de50b3c8852434e07b0f81f2cbfaf305456fdb826865f2245a106a5061039889",
+      "sizeBytes": 6344,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-r",
+      "path": "indexes/files-match-context-head-to-head-r.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/r"
+      ],
+      "recordCount": 122,
+      "required": false,
+      "sha256": "210efc0135f375555692422d6340c512728b85793280fdb188d25cd1872defb9",
+      "sizeBytes": 26472,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-s",
+      "path": "indexes/files-match-context-head-to-head-s.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/s"
+      ],
+      "recordCount": 333,
+      "required": false,
+      "sha256": "b5b5edceccb9b63667d13fa45b96f85e5995bb06c5dcabe8e24912ee319affd0",
+      "sizeBytes": 72266,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-t",
+      "path": "indexes/files-match-context-head-to-head-t.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/t"
+      ],
+      "recordCount": 84,
+      "required": false,
+      "sha256": "a278177a6165174ce04453fc9c3b71979332f756061db9cb262956e098936940",
+      "sizeBytes": 18510,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-u",
+      "path": "indexes/files-match-context-head-to-head-u.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/u"
+      ],
+      "recordCount": 28,
+      "required": false,
+      "sha256": "c4d7222dffab17c8fcd11e0f6e8e65976574cc5ef5db9a01acb7c7e53b311ab8",
+      "sizeBytes": 6474,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-v",
+      "path": "indexes/files-match-context-head-to-head-v.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/v"
+      ],
+      "recordCount": 5,
+      "required": false,
+      "sha256": "c5fc2bd4bfbce356f8e03c5364de145e220ad414b7f73c5fe98fc887c377f038",
+      "sizeBytes": 1557,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-w",
+      "path": "indexes/files-match-context-head-to-head-w.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/w"
+      ],
+      "recordCount": 2,
+      "required": false,
+      "sha256": "6cb00732c4ded48cdaa3ee1c5d487d590f3598ef9e446fe67db27d752d6e8a01",
+      "sizeBytes": 893,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-y",
+      "path": "indexes/files-match-context-head-to-head-y.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/y"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "b58303b1c49b046dc5760e78e2f3e277e498154b5e8d61bb09f1633d0caa4079",
+      "sizeBytes": 672,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.headToHead"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-head-to-head-z",
+      "path": "indexes/files-match-context-head-to-head-z.json",
+      "pathPrefixes": [
+        "data/history/head-to-head/z"
+      ],
+      "recordCount": 3,
+      "required": false,
+      "sha256": "a05c646bd670dc197cb6ef60c79be25ee58d397620a9952df5366de7c8a36ea4",
+      "sizeBytes": 1100,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.shootouts"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-shootouts",
+      "path": "indexes/files-match-context-shootouts.json",
+      "pathPrefixes": [
+        "data/history/shootouts.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "b10ff9e6afddc6470dbf2e698205553c7f001f88360370f19e42d6181a463b4e",
+      "sizeBytes": 654,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.teams"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-team-profiles",
+      "path": "indexes/files-match-context-team-profiles.json",
+      "pathPrefixes": [
+        "data/profiles/teams/"
+      ],
+      "recordCount": 336,
+      "required": false,
+      "sha256": "75b8a8a6cac58c40156111d2691d10e53a250fb76e8c27d6aa095a28900427b6",
+      "sizeBytes": 66656,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.teams.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "match-context",
+      "indexesTier": "match-context",
+      "indexId": "files-match-context-team-profiles-index",
+      "path": "indexes/files-match-context-team-profiles-index.json",
+      "pathPrefixes": [
+        "data/profiles/teams/index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "70ceca5e11148e33b882e92d3d02e31315d5312d4772fdef16dd033178e786f1",
+      "sizeBytes": 672,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-a",
+      "path": "indexes/files-player-context-goalscorers-by-player-a.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/a"
+      ],
+      "recordCount": 1713,
+      "required": false,
+      "sha256": "9f5b194dca34d20668a213143834b1bc40b7f1349a86963cb5df9c2364b93ffc",
+      "sizeBytes": 372290,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-b",
+      "path": "indexes/files-player-context-goalscorers-by-player-b.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/b"
+      ],
+      "recordCount": 488,
+      "required": false,
+      "sha256": "52ecb3c7c484023974869e0a58f5bf9a191d4c1db3995e7822d4c4494981b034",
+      "sizeBytes": 106142,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-c",
+      "path": "indexes/files-player-context-goalscorers-by-player-c.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/c"
+      ],
+      "recordCount": 642,
+      "required": false,
+      "sha256": "0b5eca2881d63635b74f9a5394f14acc9b98a4f455c0afddc1c7aa69e01ed83e",
+      "sizeBytes": 139918,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-d",
+      "path": "indexes/files-player-context-goalscorers-by-player-d.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/d"
+      ],
+      "recordCount": 773,
+      "required": false,
+      "sha256": "32e0d44f8f5b10650e9919bcad71aec0257964bfffcbcfa43051d52e45519620",
+      "sizeBytes": 167486,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-e",
+      "path": "indexes/files-player-context-goalscorers-by-player-e.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/e"
+      ],
+      "recordCount": 602,
+      "required": false,
+      "sha256": "46d677dd67458fa80636e314c470d84e352de72db314a3e7f01ace4cf5336cf6",
+      "sizeBytes": 130812,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-f",
+      "path": "indexes/files-player-context-goalscorers-by-player-f.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/f"
+      ],
+      "recordCount": 514,
+      "required": false,
+      "sha256": "a0aa402f4239a469a6e6227e302f5e7464b5942634448438419f90153443913f",
+      "sizeBytes": 112146,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-g",
+      "path": "indexes/files-player-context-goalscorers-by-player-g.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/g"
+      ],
+      "recordCount": 625,
+      "required": false,
+      "sha256": "c6350d5a21d1e7da1479b3d0d2592aabca4f95f64743299c8c81cf26ce601d68",
+      "sizeBytes": 136175,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-h",
+      "path": "indexes/files-player-context-goalscorers-by-player-h.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/h"
+      ],
+      "recordCount": 534,
+      "required": false,
+      "sha256": "46261b5e2d77758457ea2964ac5cfab62fbdbf462aacf6e2a0fee3faece1795a",
+      "sizeBytes": 116172,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-i",
+      "path": "indexes/files-player-context-goalscorers-by-player-i.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/i"
+      ],
+      "recordCount": 374,
+      "required": false,
+      "sha256": "0ceca35696d402d1e49f1cc2546062ba7e81ca6ff96933d9995b72762c88a7e4",
+      "sizeBytes": 81248,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-j",
+      "path": "indexes/files-player-context-goalscorers-by-player-j.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/j"
+      ],
+      "recordCount": 1426,
+      "required": false,
+      "sha256": "d0727c32e047831e68d8857b46387074f052c620e81c36d07b02668a097ebd41",
+      "sizeBytes": 309275,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-k",
+      "path": "indexes/files-player-context-goalscorers-by-player-k.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/k"
+      ],
+      "recordCount": 618,
+      "required": false,
+      "sha256": "02efd5d654ccaa9ddce18f5052ba8cae1e96729f544603f16c54e182730a6f06",
+      "sizeBytes": 134205,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-l",
+      "path": "indexes/files-player-context-goalscorers-by-player-l.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/l"
+      ],
+      "recordCount": 575,
+      "required": false,
+      "sha256": "cd859b976b0d5762145096d7b4986ff52972a7c21a6c2149c97cc4efdd6fbbe6",
+      "sizeBytes": 124585,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-m",
+      "path": "indexes/files-player-context-goalscorers-by-player-m.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/m"
+      ],
+      "recordCount": 1543,
+      "required": false,
+      "sha256": "dd8b1879cccdd8837432cff5ea35afbea00872df7b6d7af865741a2d18b70c57",
+      "sizeBytes": 335253,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-n",
+      "path": "indexes/files-player-context-goalscorers-by-player-n.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/n"
+      ],
+      "recordCount": 466,
+      "required": false,
+      "sha256": "8e8993f388fb8c0e1a1c668cfcaeaa5ba4e78a3d851f6f8f0366bd7acf27e80e",
+      "sizeBytes": 101332,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-o",
+      "path": "indexes/files-player-context-goalscorers-by-player-o.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/o"
+      ],
+      "recordCount": 277,
+      "required": false,
+      "sha256": "6bada556b5517fdc6702123053024a9bfe3f576fd38ef919381d000b5927de76",
+      "sizeBytes": 60383,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-p",
+      "path": "indexes/files-player-context-goalscorers-by-player-p.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/p"
+      ],
+      "recordCount": 563,
+      "required": false,
+      "sha256": "56646496612f3ba275638af96cd0e00c8194118c5cc1c47d865d48a3ef502fd8",
+      "sizeBytes": 122161,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-q",
+      "path": "indexes/files-player-context-goalscorers-by-player-q.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/q"
+      ],
+      "recordCount": 19,
+      "required": false,
+      "sha256": "cc2cb03ddec0eff17918af932645e8326c2e33ec6a986ad72aa5cfbf6cb1dd69",
+      "sizeBytes": 4582,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-r",
+      "path": "indexes/files-player-context-goalscorers-by-player-r.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/r"
+      ],
+      "recordCount": 1001,
+      "required": false,
+      "sha256": "b2f655d597b4368990ca0a5967be794f9c686f4df86a32a4a36f22a7b9d93baa",
+      "sizeBytes": 217057,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-s",
+      "path": "indexes/files-player-context-goalscorers-by-player-s.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/s"
+      ],
+      "recordCount": 974,
+      "required": false,
+      "sha256": "d6ac8c2013fce43669e23b8d7a6fb99f84886da8f061eb4793002f064403abaf",
+      "sizeBytes": 211642,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-t",
+      "path": "indexes/files-player-context-goalscorers-by-player-t.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/t"
+      ],
+      "recordCount": 553,
+      "required": false,
+      "sha256": "cf64c127b9a1dd1910869bd97bc3efe753865d9abf42bd7aa7b09cd40383f63c",
+      "sizeBytes": 120063,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-u",
+      "path": "indexes/files-player-context-goalscorers-by-player-u.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/u"
+      ],
+      "recordCount": 51,
+      "required": false,
+      "sha256": "14a50fb50b6121bdfdcb41bf95d42857ad6d904c9bbd644deba31ffbc672724a",
+      "sizeBytes": 11487,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-v",
+      "path": "indexes/files-player-context-goalscorers-by-player-v.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/v"
+      ],
+      "recordCount": 364,
+      "required": false,
+      "sha256": "673a4dcce0c679e9aa3f26f0ddfaf9cc53013f6d2f274da14503f41d6834d1e9",
+      "sizeBytes": 79773,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-w",
+      "path": "indexes/files-player-context-goalscorers-by-player-w.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/w"
+      ],
+      "recordCount": 252,
+      "required": false,
+      "sha256": "23b0e559030ab3e6a55712bde5968eb178267f1c5aae63de7e9921cd6e6c05d8",
+      "sizeBytes": 55099,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-x",
+      "path": "indexes/files-player-context-goalscorers-by-player-x.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/x"
+      ],
+      "recordCount": 20,
+      "required": false,
+      "sha256": "5b59f371f8ef8007f22a27f6df642936ee7edebe92e4c1a400988263fc3f486f",
+      "sizeBytes": 4774,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-y",
+      "path": "indexes/files-player-context-goalscorers-by-player-y.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/y"
+      ],
+      "recordCount": 225,
+      "required": false,
+      "sha256": "8e7a6347e0606c56962663588671a9bb2ff47763462506e96c6d382482054510",
+      "sizeBytes": 49173,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byPlayer"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-player-z",
+      "path": "indexes/files-player-context-goalscorers-by-player-z.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-player/z"
+      ],
+      "recordCount": 139,
+      "required": false,
+      "sha256": "736da42dbc775df5e60f7a45a0295219e9896fcba4d6437a0b8dc2c3e48b1077",
+      "sizeBytes": 30487,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.byTeam"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-by-team",
+      "path": "indexes/files-player-context-goalscorers-by-team.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/by-team/"
+      ],
+      "recordCount": 220,
+      "required": false,
+      "sha256": "21cddf1d2d5fca1286fbff5b5c9c58c24e464f1558c2f5aee1ca337d92a312cc",
+      "sizeBytes": 46785,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "history.goalscorers.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-goalscorers-index",
+      "path": "indexes/files-player-context-goalscorers-index.json",
+      "pathPrefixes": [
+        "data/history/goalscorers/index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "91b0e9a0372ce7f9723e749c558d7bccea4c07465fc05659acc2746b6f55b3b9",
+      "sizeBytes": 689,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-a",
+      "path": "indexes/files-player-context-historical-key-player-profiles-a.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/a"
+      ],
+      "recordCount": 167,
+      "required": false,
+      "sha256": "0d10794618029b983f6bf92099701e2232e2585531821c46d33966888229d411",
+      "sizeBytes": 38501,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-b",
+      "path": "indexes/files-player-context-historical-key-player-profiles-b.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/b"
+      ],
+      "recordCount": 224,
+      "required": false,
+      "sha256": "37e2adaee0039ff7950d13371f845847eee7a1bef55eccb0da2545a6d1cbc887",
+      "sizeBytes": 51498,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-c",
+      "path": "indexes/files-player-context-historical-key-player-profiles-c.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/c"
+      ],
+      "recordCount": 265,
+      "required": false,
+      "sha256": "fef5b3c4acf71f47111b10f462a9e5d33f184aa5b2adb2c754822753115fbc76",
+      "sizeBytes": 60844,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-d",
+      "path": "indexes/files-player-context-historical-key-player-profiles-d.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/d"
+      ],
+      "recordCount": 65,
+      "required": false,
+      "sha256": "10e676f4c283d227832a11a81876c2fb4eaab0aec79a115537371efc4ca2b9e0",
+      "sizeBytes": 15401,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-e",
+      "path": "indexes/files-player-context-historical-key-player-profiles-e.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/e"
+      ],
+      "recordCount": 109,
+      "required": false,
+      "sha256": "c61386f34c50fca0f0019ef5ae12fcfc8ffd13117805f1e825941a6be10e4b71",
+      "sizeBytes": 25393,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-f",
+      "path": "indexes/files-player-context-historical-key-player-profiles-f.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/f"
+      ],
+      "recordCount": 55,
+      "required": false,
+      "sha256": "6a3ce9f91affe160e9611066f9cf7a5d46ce54a7fb93544be0f3d83d69173f58",
+      "sizeBytes": 12954,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-g",
+      "path": "indexes/files-player-context-historical-key-player-profiles-g.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/g"
+      ],
+      "recordCount": 191,
+      "required": false,
+      "sha256": "aed35f1b7f5af7b29f4b72815c3abe0d6b9d661dc23d117a0415c654d7995175",
+      "sizeBytes": 43820,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-h",
+      "path": "indexes/files-player-context-historical-key-player-profiles-h.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/h"
+      ],
+      "recordCount": 52,
+      "required": false,
+      "sha256": "73c31cf76b9a1a38fcdaf6d575d726115fbcd6f92f03d83bf774c5a875d43ccc",
+      "sizeBytes": 12265,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-i",
+      "path": "indexes/files-player-context-historical-key-player-profiles-i.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/i"
+      ],
+      "recordCount": 91,
+      "required": false,
+      "sha256": "5821fd8e9177ea1b187113f47a3ebcdf3df7dd7aa895c952fc24554b77a0d234",
+      "sizeBytes": 21018,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-index",
+      "path": "indexes/files-player-context-historical-key-player-profiles-index.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "8bfa7d24223ab646c9f17d15e141b5e041574da97bbad6b487f4418fb4d8abf7",
+      "sizeBytes": 756,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-j",
+      "path": "indexes/files-player-context-historical-key-player-profiles-j.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/j"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "fdb9c58e6beeb17b8a44375d583f68303a48291c60195ae8df3a66b5103cf5a5",
+      "sizeBytes": 9288,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-k",
+      "path": "indexes/files-player-context-historical-key-player-profiles-k.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/k"
+      ],
+      "recordCount": 65,
+      "required": false,
+      "sha256": "42e21f5242fcbfeda743754e3926990f3e57b1cbdd2c9b935a334b3e83d6cb1f",
+      "sizeBytes": 15252,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-l",
+      "path": "indexes/files-player-context-historical-key-player-profiles-l.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/l"
+      ],
+      "recordCount": 117,
+      "required": false,
+      "sha256": "ad76477de2db9ca8873e4ff1b5e31c3bd979ca1b2d9c912a72fa4f4ed5fcc3dd",
+      "sizeBytes": 27160,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-m",
+      "path": "indexes/files-player-context-historical-key-player-profiles-m.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/m"
+      ],
+      "recordCount": 231,
+      "required": false,
+      "sha256": "f2b6c0840b616ffac4f637b67c740a4bb5f403ac19a30aa6c8593651289ca417",
+      "sizeBytes": 52950,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-n",
+      "path": "indexes/files-player-context-historical-key-player-profiles-n.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/n"
+      ],
+      "recordCount": 156,
+      "required": false,
+      "sha256": "f4d2ee88e253ddf9611b3380924729826fc952d9856c8992249064b8e4c8f6dc",
+      "sizeBytes": 36155,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-o",
+      "path": "indexes/files-player-context-historical-key-player-profiles-o.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/o"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "dd60e8eafc08884755853fc1dd1544a1438daf70934a530b96bf19b4c1aa544f",
+      "sizeBytes": 3466,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-p",
+      "path": "indexes/files-player-context-historical-key-player-profiles-p.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/p"
+      ],
+      "recordCount": 128,
+      "required": false,
+      "sha256": "c3a5fdbad935c065641a6309b0e2f57a00e905068810e827597581677a91ff9c",
+      "sizeBytes": 29672,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-q",
+      "path": "indexes/files-player-context-historical-key-player-profiles-q.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/q"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "32d8fa7e83c0df78620639975f8fa66897f95020bf58f3a219f1d57502bd152f",
+      "sizeBytes": 3445,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-r",
+      "path": "indexes/files-player-context-historical-key-player-profiles-r.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/r"
+      ],
+      "recordCount": 65,
+      "required": false,
+      "sha256": "88a0177d189e8e1d918607795215a54dbac5554bc23d77e2cff044723248bee7",
+      "sizeBytes": 15309,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-s",
+      "path": "indexes/files-player-context-historical-key-player-profiles-s.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/s"
+      ],
+      "recordCount": 320,
+      "required": false,
+      "sha256": "910de0770ca8d3a9817235588b8f683f374caa29e4563f2357a8574f2855c979",
+      "sizeBytes": 73828,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-t",
+      "path": "indexes/files-player-context-historical-key-player-profiles-t.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/t"
+      ],
+      "recordCount": 154,
+      "required": false,
+      "sha256": "e0d6e2fbdbea6af3ad6419f275f891940d85738dd2eb954ae0eca87d66df251b",
+      "sizeBytes": 35639,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-u",
+      "path": "indexes/files-player-context-historical-key-player-profiles-u.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/u"
+      ],
+      "recordCount": 86,
+      "required": false,
+      "sha256": "0b45bbd6bf5d90c6edc76428a013d55be1057c2bb370a23dfb094185d97ef520",
+      "sizeBytes": 20285,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-v",
+      "path": "indexes/files-player-context-historical-key-player-profiles-v.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/v"
+      ],
+      "recordCount": 46,
+      "required": false,
+      "sha256": "12154abd1aa4e44341060037a93a0e4982746251c082049de9da0a351356241b",
+      "sizeBytes": 10970,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-w",
+      "path": "indexes/files-player-context-historical-key-player-profiles-w.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/w"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "7cda5e895b571275093bd5e746a68e0f2558a25a775a632eafd14e3f3a3a41d5",
+      "sizeBytes": 3412,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-y",
+      "path": "indexes/files-player-context-historical-key-player-profiles-y.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/y"
+      ],
+      "recordCount": 31,
+      "required": false,
+      "sha256": "5bc08f1fff7c17adfbb0da3fbcdb7ffa4bba1f8e2631491e11a2f573fa4e270d",
+      "sizeBytes": 7593,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersHistorical"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-historical-key-player-profiles-z",
+      "path": "indexes/files-player-context-historical-key-player-profiles-z.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/historical/z"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "94e76a212c5fbf4374f9758dbd7301ff18adc927628e1b7e0b7d8178c3377534",
+      "sizeBytes": 6417,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-a",
+      "path": "indexes/files-player-context-identities-a.json",
+      "pathPrefixes": [
+        "data/players/identities/a"
+      ],
+      "recordCount": 1463,
+      "required": false,
+      "sha256": "364b585d975b5bd53745273d320a98597d2bb2c10a23e00b9a8465490defa607",
+      "sizeBytes": 300884,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-b",
+      "path": "indexes/files-player-context-identities-b.json",
+      "pathPrefixes": [
+        "data/players/identities/b"
+      ],
+      "recordCount": 416,
+      "required": false,
+      "sha256": "feff9a42b1b8454bbfbba0ffdd8da15bcd8e131131084f5e3ecd3831779d2d50",
+      "sizeBytes": 85695,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-c",
+      "path": "indexes/files-player-context-identities-c.json",
+      "pathPrefixes": [
+        "data/players/identities/c"
+      ],
+      "recordCount": 540,
+      "required": false,
+      "sha256": "530dc050d221a37618faf529090ee66f96ca1437d515b86a4f7ee94676f37ea0",
+      "sizeBytes": 111469,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-d",
+      "path": "indexes/files-player-context-identities-d.json",
+      "pathPrefixes": [
+        "data/players/identities/d"
+      ],
+      "recordCount": 670,
+      "required": false,
+      "sha256": "bfc56c2188a68ae2d8a9d93f3fd2e75275663807f62228f38a6b3730f58ddb04",
+      "sizeBytes": 137469,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-e",
+      "path": "indexes/files-player-context-identities-e.json",
+      "pathPrefixes": [
+        "data/players/identities/e"
+      ],
+      "recordCount": 532,
+      "required": false,
+      "sha256": "38e75b6ae04c8ac826fb3504e826a6feea11bf0e68c2437857fbe7ca336fa510",
+      "sizeBytes": 109337,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-f",
+      "path": "indexes/files-player-context-identities-f.json",
+      "pathPrefixes": [
+        "data/players/identities/f"
+      ],
+      "recordCount": 446,
+      "required": false,
+      "sha256": "0584404a3b34a05e8ab055167475b4d7db398fb9fde2061f26983691232cc7b5",
+      "sizeBytes": 92156,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-g",
+      "path": "indexes/files-player-context-identities-g.json",
+      "pathPrefixes": [
+        "data/players/identities/g"
+      ],
+      "recordCount": 546,
+      "required": false,
+      "sha256": "9a38ac1a642716f48448c006a8dc91d080c00f9fe890d6b5de47cd6054e18495",
+      "sizeBytes": 112642,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-h",
+      "path": "indexes/files-player-context-identities-h.json",
+      "pathPrefixes": [
+        "data/players/identities/h"
+      ],
+      "recordCount": 474,
+      "required": false,
+      "sha256": "8a43f87d2986995dd103c0822a05c1508f4b8736781fbcee652d485d66ce6b15",
+      "sizeBytes": 97606,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-i",
+      "path": "indexes/files-player-context-identities-i.json",
+      "pathPrefixes": [
+        "data/players/identities/i"
+      ],
+      "recordCount": 327,
+      "required": false,
+      "sha256": "3e5e9ce5fe5fbe4256f755a79bb5ce4d73b3359c72f33cc14c1b66369992464d",
+      "sizeBytes": 67219,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-j",
+      "path": "indexes/files-player-context-identities-j.json",
+      "pathPrefixes": [
+        "data/players/identities/j"
+      ],
+      "recordCount": 1252,
+      "required": false,
+      "sha256": "31d6c0246caf58d7b4e178dbece45cf1ab483edbb2be234b7ff4268cd754bc14",
+      "sizeBytes": 257281,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-k",
+      "path": "indexes/files-player-context-identities-k.json",
+      "pathPrefixes": [
+        "data/players/identities/k"
+      ],
+      "recordCount": 531,
+      "required": false,
+      "sha256": "5b0f67f67326c259021fd2ae02e1ee37334ef78be568ef50a01ea4f52aad7d3c",
+      "sizeBytes": 109171,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-l",
+      "path": "indexes/files-player-context-identities-l.json",
+      "pathPrefixes": [
+        "data/players/identities/l"
+      ],
+      "recordCount": 488,
+      "required": false,
+      "sha256": "fa4f46ffa882cbdabc7086e0764cf32b8304bc62bd7f8a9593f931af62d518aa",
+      "sizeBytes": 100160,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-m",
+      "path": "indexes/files-player-context-identities-m.json",
+      "pathPrefixes": [
+        "data/players/identities/m"
+      ],
+      "recordCount": 1331,
+      "required": false,
+      "sha256": "f31afefaae864118b773ff9dcc96912d85c608970c3e06d7ad7fe3b64bed5a72",
+      "sizeBytes": 273848,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-n",
+      "path": "indexes/files-player-context-identities-n.json",
+      "pathPrefixes": [
+        "data/players/identities/n"
+      ],
+      "recordCount": 371,
+      "required": false,
+      "sha256": "21e8bd6bbc586f129dbcc3434d82970fca0aed5e66115245e10e5c0da3d78204",
+      "sizeBytes": 76485,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-o",
+      "path": "indexes/files-player-context-identities-o.json",
+      "pathPrefixes": [
+        "data/players/identities/o"
+      ],
+      "recordCount": 261,
+      "required": false,
+      "sha256": "bd9eddf2c3b26a5936d56028dcb563997824b94375fd6394050116c24982d98b",
+      "sizeBytes": 53809,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-p",
+      "path": "indexes/files-player-context-identities-p.json",
+      "pathPrefixes": [
+        "data/players/identities/p"
+      ],
+      "recordCount": 490,
+      "required": false,
+      "sha256": "f2a403da9e344566e89b35de40fa7476686e51127186eef43a1cd800b66733cc",
+      "sizeBytes": 100535,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-q",
+      "path": "indexes/files-player-context-identities-q.json",
+      "pathPrefixes": [
+        "data/players/identities/q"
+      ],
+      "recordCount": 16,
+      "required": false,
+      "sha256": "ef9c01cb7b1a6d0d3d4aea03eb5c167c394fefe571fabfea84da7699f2ef474b",
+      "sizeBytes": 3712,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-r",
+      "path": "indexes/files-player-context-identities-r.json",
+      "pathPrefixes": [
+        "data/players/identities/r"
+      ],
+      "recordCount": 862,
+      "required": false,
+      "sha256": "5d2f1b1cc96a10750939a2ddf881130792bfdb64e3502b26d8fea284afba32c1",
+      "sizeBytes": 176897,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-s",
+      "path": "indexes/files-player-context-identities-s.json",
+      "pathPrefixes": [
+        "data/players/identities/s"
+      ],
+      "recordCount": 818,
+      "required": false,
+      "sha256": "f814228ba24408f7ede2e25d1a269f44550686e895fc6e634f6f9b242e942c9b",
+      "sizeBytes": 168255,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-t",
+      "path": "indexes/files-player-context-identities-t.json",
+      "pathPrefixes": [
+        "data/players/identities/t"
+      ],
+      "recordCount": 492,
+      "required": false,
+      "sha256": "4987bd89618dc62c4e868657ebbb61c362ce2fc08d443b7b2bda37c4a6d87a3a",
+      "sizeBytes": 101210,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-u",
+      "path": "indexes/files-player-context-identities-u.json",
+      "pathPrefixes": [
+        "data/players/identities/u"
+      ],
+      "recordCount": 36,
+      "required": false,
+      "sha256": "2a611d6a29b7aafbcd77c7b584de8e38048f5d90646696c7b022555fc7caa729",
+      "sizeBytes": 7781,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-v",
+      "path": "indexes/files-player-context-identities-v.json",
+      "pathPrefixes": [
+        "data/players/identities/v"
+      ],
+      "recordCount": 315,
+      "required": false,
+      "sha256": "f4af0fee6696796a9ffc2cd10c074580dc52f551cdb0d23114a984398ad78cc4",
+      "sizeBytes": 65396,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-w",
+      "path": "indexes/files-player-context-identities-w.json",
+      "pathPrefixes": [
+        "data/players/identities/w"
+      ],
+      "recordCount": 218,
+      "required": false,
+      "sha256": "0d9cd92f4ec442c423508f117a977cd9bbd5a82a899f71765fe0a818706a4c25",
+      "sizeBytes": 45126,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-x",
+      "path": "indexes/files-player-context-identities-x.json",
+      "pathPrefixes": [
+        "data/players/identities/x"
+      ],
+      "recordCount": 19,
+      "required": false,
+      "sha256": "6238c868a5ea95d2db8e70be5ca6e4d35fceb0ed004be18ce67682c0804a6e16",
+      "sizeBytes": 4306,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-y",
+      "path": "indexes/files-player-context-identities-y.json",
+      "pathPrefixes": [
+        "data/players/identities/y"
+      ],
+      "recordCount": 182,
+      "required": false,
+      "sha256": "30561e730aaae5696227a91d8f413020cc2695341c358539b7c2c9574168beb4",
+      "sizeBytes": 37696,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.identities"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-identities-z",
+      "path": "indexes/files-player-context-identities-z.json",
+      "pathPrefixes": [
+        "data/players/identities/z"
+      ],
+      "recordCount": 133,
+      "required": false,
+      "sha256": "f698a0dea0c5937ad758056ecfd43859ad7ec5e267b1f9b6770a1dacb55bc7ac",
+      "sizeBytes": 27638,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "players.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "player-context",
+      "indexesTier": "player-context",
+      "indexId": "files-player-context-players-index",
+      "path": "indexes/files-player-context-players-index.json",
+      "pathPrefixes": [
+        "data/players/players-index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "eb39a1ea246db57b75cf08aa59b75d70a62e3748a5676cadce83561d26680012",
+      "sizeBytes": 653,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-a",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-a.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/a"
+      ],
+      "recordCount": 52,
+      "required": false,
+      "sha256": "41806db623b9e3d75ab13488ec70db6d80c0ac30ab8196218a0b60bcae44a01e",
+      "sizeBytes": 12105,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-b",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-b.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/b"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "d1e5b8574ba748bcd26ee4546754af0459e52d43b5de641381558b5b9bb26c0c",
+      "sizeBytes": 9333,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-c",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-c.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/c"
+      ],
+      "recordCount": 91,
+      "required": false,
+      "sha256": "3091bf454d92ed647731fbc52694313d4442e229b45ab9ff765a9a138b19ad04",
+      "sizeBytes": 20889,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-d",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-d.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/d"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "2edc2e6221c15f18e57e0088ace33d437665c0af334ca1bd2a010044f30d7b98",
+      "sizeBytes": 3429,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-e",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-e.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/e"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "7a4ae2a75d3ffd76fbb136efba029ab6b5da6a9b710d7378c38bc622d87dd945",
+      "sizeBytes": 9238,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-f",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-f.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/f"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "07604a66fa89e094e8dd0ba6e788006e0a89669d63a60581848c386f974de34e",
+      "sizeBytes": 3362,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-g",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-g.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/g"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "f3635b3f0ad317c6b269134a8b9f40ff1f8afa15a55275311fe222039e7b23b9",
+      "sizeBytes": 6267,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-h",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-h.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/h"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "59ea590a76ea62fd44aaf9c9bd75621a80b4de735069f9be45ef830c56a765c2",
+      "sizeBytes": 3400,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-i",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-i.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/i"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "924b351d5feb65f1da0c4c18d2abdd6a350250804a6fa5f53b8d3672a830d42a",
+      "sizeBytes": 6231,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-index",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-index.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "ac8ba591de3997cb1f4ad81ca056a6109a06247939d555425966103b56e2867c",
+      "sizeBytes": 751,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-j",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-j.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/j"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "7329234de557371a1685f50b90028bb757300be7aefaa3b07520353ee30e256b",
+      "sizeBytes": 6257,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-m",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-m.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/m"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "547b51f8c7cc6d8e9c96ca9120ff26fed885a462babb29366ccf27c74e1a1a6f",
+      "sizeBytes": 6276,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-n",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-n.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/n"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "1db2b070c8337acace044f499a220e11088140a60ac5437707baef1a20eeabc7",
+      "sizeBytes": 9296,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-p",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-p.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/p"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "90db008fc28d723d6254fe5c3e065d914b8142309d1abb1d97d951800366c314",
+      "sizeBytes": 9357,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-q",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-q.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/q"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "c51be320adbd2900f1292d2574744694f2a45d4cd8b48cd94654dafa09228670",
+      "sizeBytes": 3377,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-r",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-r.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/r"
+      ],
+      "recordCount": 13,
+      "required": false,
+      "sha256": "3cdf0d512a306158f8c1df58120ab26d70ddb7de93f474b493c46ae91367e849",
+      "sizeBytes": 3368,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-s",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-s.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/s"
+      ],
+      "recordCount": 91,
+      "required": false,
+      "sha256": "ee9846234d3adcee5b9a1bb1dac4aa4e851ecf69e9dad71c0f25a98e3c108084",
+      "sizeBytes": 20893,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-t",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-t.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/t"
+      ],
+      "recordCount": 26,
+      "required": false,
+      "sha256": "2b577acae4327286cf1e1f196f0bb0668f455be4070428901f5c6503831ca986",
+      "sizeBytes": 6263,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "profiles.keyPlayersCurrent"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-current-key-player-profiles-u",
+      "path": "indexes/files-tournament-context-current-key-player-profiles-u.json",
+      "pathPrefixes": [
+        "data/profiles/key-players/current/u"
+      ],
+      "recordCount": 39,
+      "required": false,
+      "sha256": "386d6077dcbcf491eadd2f249d222e5266568687e1792a8ae64c9df7f087aa16",
+      "sizeBytes": 9351,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "rosters.worldcup2026.index"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-rosters-index",
+      "path": "indexes/files-tournament-context-rosters-index.json",
+      "pathPrefixes": [
+        "data/rosters/worldcup-2026/index.json"
+      ],
+      "recordCount": 1,
+      "required": false,
+      "sha256": "605b69593bc92ea01139e5fd4853b2f684d9cc07c2e6133f0ad472017c75b41a",
+      "sizeBytes": 705,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "categories": [
+        "rosters.worldcup2026"
+      ],
+      "category": "indexes.files",
+      "downloadTier": "tournament-context",
+      "indexesTier": "tournament-context",
+      "indexId": "files-tournament-context-rosters-worldcup-2026",
+      "path": "indexes/files-tournament-context-rosters-worldcup-2026.json",
+      "pathPrefixes": [
+        "data/rosters/worldcup-2026/"
+      ],
+      "recordCount": 48,
+      "required": false,
+      "sha256": "2087a8775aea2bd0ad4eff93bef1d0b68291bc6ca5f5ca058a199f5130262a6c",
+      "sizeBytes": 10238,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    }
+  ],
+  "files": [
+    {
+      "category": "history.index",
+      "downloadTier": "core",
+      "path": "data/history/international-results-index.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "9e4101dd5a9e9e115932cf7507de45913879ca087bd21aeab209160fdacf82b0",
+      "sizeBytes": 298,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "identification.matches",
+      "downloadTier": "core",
+      "path": "data/identification/matches.json",
+      "recordCount": 104,
+      "required": true,
+      "sha256": "05942961a564adce99487876bb9651cbd6118fa40cb18281240940aef6f432ab",
+      "sizeBytes": 82917,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "marketMapping.polymarket",
+      "downloadTier": "core",
+      "path": "data/market-mapping/polymarket-query-seeds.json",
+      "recordCount": 1,
+      "required": false,
+      "sha256": "17611756ad363b017ec170a20fabcd4234e01ce3853d6cfe8527e0528593b61b",
+      "sizeBytes": 64605,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "metadata.coverage",
+      "downloadTier": "core",
+      "path": "data/metadata/coverage.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "7bbdfdd5ed7560b782a9510403c70f1e58f86ce52ce8c4c58a2469e00f2d6144",
+      "sizeBytes": 7612,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "metadata.identityGaps",
+      "downloadTier": "core",
+      "path": "data/metadata/identity-gaps.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "22063743a8861d3d04c633f6d46bfea5493af4fdc6e327d53fd71c9ae9e8c657",
+      "sizeBytes": 832,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "metadata.layerIndex",
+      "downloadTier": "core",
+      "path": "data/metadata/layer-index.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "b2d3b145634edc9218f11fa7dec711d1bc0e8e82532b2465ad9d2ce0bad31c03",
+      "sizeBytes": 3091,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "metadata.sourceAudit",
+      "downloadTier": "core",
+      "path": "data/metadata/source-audit.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "709db302db77c4fdb459e70dcffeff3c828ce73be708228715b991cec763ac27",
+      "sizeBytes": 10036,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "metadata.sourceInputs",
+      "downloadTier": "core",
+      "path": "data/metadata/source-inputs.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "0f86bc3a609947c0c9eec7c29066c0a2bda28bcc2617e2deea532944ad15d7fe",
+      "sizeBytes": 2370,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "schedule",
+      "downloadTier": "core",
+      "path": "data/schedule/worldcup-2026.json",
+      "recordCount": 104,
+      "required": true,
+      "sha256": "174f596af93a704c5263ccec6d95b13e2f62930ee0c80b688ff1f6b62dbf3801",
+      "sizeBytes": 55983,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "sources",
+      "downloadTier": "core",
+      "path": "data/sources/sources.json",
+      "recordCount": 5,
+      "required": true,
+      "sha256": "b88e27ac3ddf4916394e0d29f385901e8eca30de91eed75dedd5e263232badf5",
+      "sizeBytes": 2397,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "taxonomy.formerNames",
+      "downloadTier": "core",
+      "path": "data/taxonomy/former-names.json",
+      "recordCount": 36,
+      "required": true,
+      "sha256": "4a5d2941d7c7a57d88e85eb196cdfdd75df16b3e12859a17d67cb26a1f1705fb",
+      "sizeBytes": 12167,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "taxonomy.aliases",
+      "downloadTier": "core",
+      "path": "data/taxonomy/team-aliases.json",
+      "recordCount": 638,
+      "required": true,
+      "sha256": "481e58167406d9a60b56a6f72db28a61065756b9d29149b8b629e4746c9ca2fc",
+      "sizeBytes": 62120,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "taxonomy.teamQuality",
+      "downloadTier": "core",
+      "path": "data/taxonomy/team-quality.json",
+      "recordCount": 1,
+      "required": true,
+      "sha256": "3626f6e967b0c3570800d552c9a4116056000a6f8de3aaa90251e5d8b48403db",
+      "sizeBytes": 268,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "taxonomy.teams",
+      "downloadTier": "core",
+      "path": "data/taxonomy/teams.json",
+      "recordCount": 400,
+      "required": true,
+      "sha256": "c94d069fdae61ff5b82654fc95886702a978f9ab0a58d2e086d92f79ef9ae0b9",
+      "sizeBytes": 186796,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    },
+    {
+      "category": "taxonomy.venues",
+      "downloadTier": "core",
+      "path": "data/taxonomy/venues.json",
+      "recordCount": 16,
+      "required": true,
+      "sha256": "4cfb5caca4e5c77c73d4fd8ca94f6cba53484d358a5a47a1d87648b9fd3bca0b",
+      "sizeBytes": 4565,
+      "updatedAt": "2026-06-03T02:23:00.000Z"
+    }
+  ],
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "gitCommit": "95fe9b75+fifa-final-squads",
+  "license": "mixed-source-attributed",
+  "minExtensionVersion": "0.1.0",
+  "recommendedExtensionVersion": "0.1.0",
+  "schemaVersion": "1.0.0"
+}

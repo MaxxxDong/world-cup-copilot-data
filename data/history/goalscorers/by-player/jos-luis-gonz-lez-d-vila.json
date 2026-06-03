@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1965-03-04",
+      "goalId": "goal-1965-03-04-mex-honduras-4206",
+      "homeTeamId": "mex",
+      "matchKey": "1965-03-04-mex-honduras",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Luis González Dávila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1965-03-07",
+      "goalId": "goal-1965-03-07-usa-mex-4214",
+      "homeTeamId": "usa",
+      "matchKey": "1965-03-07-usa-mex",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Luis González Dávila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1970-06-14",
+      "goalId": "goal-1970-06-14-mex-italy-5912",
+      "homeTeamId": "mex",
+      "matchKey": "1970-06-14-mex-italy",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Luis González Dávila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "jos luis gonz lez d vila",
+  "playerKey": "jos-luis-gonz-lez-d-vila",
+  "scorer": "José Luis González Dávila",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

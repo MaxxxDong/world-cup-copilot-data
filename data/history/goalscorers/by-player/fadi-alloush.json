@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1993-05-09",
+      "goalId": "goal-1993-05-09-lebanon-hong-kong-14031",
+      "homeTeamId": "lebanon",
+      "matchKey": "1993-05-09-lebanon-hong-kong",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fadi Alloush",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lebanon"
+    }
+  ],
+  "normalizedScorer": "fadi alloush",
+  "playerKey": "fadi-alloush",
+  "scorer": "Fadi Alloush",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lebanon"
+  ]
+}

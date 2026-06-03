@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "india",
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-guam-india-34528",
+      "homeTeamId": "guam",
+      "matchKey": "2015-06-16-guam-india",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Travis Nicklaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guam"
+    },
+    {
+      "awayTeamId": "guam",
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-maldives-guam-39572",
+      "homeTeamId": "maldives",
+      "matchKey": "2019-11-19-maldives-guam",
+      "minute": 38,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Travis Nicklaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "maldives"
+    }
+  ],
+  "normalizedScorer": "travis nicklaw",
+  "playerKey": "travis-nicklaw",
+  "scorer": "Travis Nicklaw",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guam",
+    "maldives"
+  ]
+}

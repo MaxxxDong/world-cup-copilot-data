@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2021-07-03",
+      "goalId": "goal-2021-07-03-arg-ecuador-40977",
+      "homeTeamId": "arg",
+      "matchKey": "2021-07-03-arg-ecuador",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rodrigo De Paul",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2021-10-10",
+      "goalId": "goal-2021-10-10-arg-uruguay-41635",
+      "homeTeamId": "arg",
+      "matchKey": "2021-10-10-arg-uruguay",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rodrigo De Paul",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "rodrigo de paul",
+  "playerKey": "rodrigo-de-paul",
+  "scorer": "Rodrigo De Paul",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1957-03-27",
+      "goalId": "goal-1957-03-27-peru-colombia-2621",
+      "homeTeamId": "peru",
+      "matchKey": "1957-03-27-peru-colombia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Rivera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1957-03-27",
+      "goalId": "goal-1957-03-27-peru-colombia-2622",
+      "homeTeamId": "peru",
+      "matchKey": "1957-03-27-peru-colombia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Rivera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "manuel rivera",
+  "playerKey": "manuel-rivera",
+  "scorer": "Manuel Rivera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

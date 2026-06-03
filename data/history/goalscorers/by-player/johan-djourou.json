@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-switzerland-san-marino-35062",
+      "homeTeamId": "switzerland",
+      "matchKey": "2015-10-09-switzerland-san-marino",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Johan Djourou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-portugal-switzerland-37482",
+      "homeTeamId": "portugal",
+      "matchKey": "2017-10-10-portugal-switzerland",
+      "minute": 41,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Johan Djourou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "johan djourou",
+  "playerKey": "johan-djourou",
+  "scorer": "Johan Djourou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal",
+    "switzerland"
+  ]
+}

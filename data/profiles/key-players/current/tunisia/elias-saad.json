@@ -1,0 +1,93 @@
+{
+  "club": "Hannover 96 (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1999-12-27",
+    "nationality": "Tunisia",
+    "playerKey": "elias-saad",
+    "position": "left winger",
+    "providerIds": {
+      "api_football": "323974",
+      "espn": "323950",
+      "fbref_verified": "78a2284f",
+      "footballdatabase_eu": "454048",
+      "german_fa": "elias-saad",
+      "heimspiel": "612855",
+      "impect": "103627",
+      "kicker": "elias-saad",
+      "opta": "eg09wg0vofjk0hqg04d0m1kwk",
+      "skillcorner": "616165",
+      "soccerway": "749778",
+      "sofascore": "1130946",
+      "thesportsdb": "34217526",
+      "transfermarkt": "526466",
+      "wikidata": "Q115803591",
+      "worldfootball": "elias-saad",
+      "wyscout": "759380"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Elias Saad",
+  "playerKey": "elias-saad",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-tunisia-sao-tome-and-principe-47032",
+      "matchKey": "2025-10-10-tunisia-sao-tome-and-principe",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elias Saad"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-tunisia-sao-tome-and-principe-47031",
+      "matchKey": "2025-10-10-tunisia-sao-tome-and-principe",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elias Saad"
+    },
+    {
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-tunisia-liberia-46601",
+      "matchKey": "2025-09-04-tunisia-liberia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elias Saad"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

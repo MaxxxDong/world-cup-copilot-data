@@ -1,0 +1,100 @@
+{
+  "firstGoalDate": "2007-10-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1984-11-22",
+    "nationality": "Bahrain",
+    "playerKey": "mahmood-abdulrahman",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "104273",
+      "fbref": "4f35322b",
+      "footballdatabase_eu": "20863",
+      "national_football_teams": "23029",
+      "soccerway": "10900",
+      "sofascore": "144408",
+      "sofifa": "278936",
+      "thesportsdb": "34238919",
+      "transfermarkt": "63310",
+      "wikidata": "Q464095",
+      "worldfootball": "mahmood-abdulrahman"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-02-29",
+  "playerKey": "mahmood-abdulrahman",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-02-29",
+      "goalId": "goal-2012-02-29-bahrain-indonesia-31684",
+      "matchKey": "2012-02-29-bahrain-indonesia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahmood Abdulrahman"
+    },
+    {
+      "date": "2012-02-29",
+      "goalId": "goal-2012-02-29-bahrain-indonesia-31683",
+      "matchKey": "2012-02-29-bahrain-indonesia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mahmood Abdulrahman"
+    },
+    {
+      "date": "2009-06-17",
+      "goalId": "goal-2009-06-17-bahrain-uzbekistan-29209",
+      "matchKey": "2009-06-17-bahrain-uzbekistan",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahmood Abdulrahman"
+    },
+    {
+      "date": "2009-02-11",
+      "goalId": "goal-2009-02-11-uzbekistan-bahrain-28854",
+      "matchKey": "2009-02-11-uzbekistan-bahrain",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahmood Abdulrahman"
+    },
+    {
+      "date": "2007-10-21",
+      "goalId": "goal-2007-10-21-bahrain-malaysia-27260",
+      "matchKey": "2007-10-21-bahrain-malaysia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mahmood Abdulrahman"
+    }
+  ],
+  "scorer": "Mahmood Abdulrahman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bahrain",
+  "teamName": "Bahrain",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

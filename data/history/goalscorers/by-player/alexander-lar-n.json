@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2015-09-04",
+      "goalId": "goal-2015-09-04-curacao-el-salvador-34770",
+      "homeTeamId": "curacao",
+      "matchKey": "2015-09-04-curacao-el-salvador",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexander Larín",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2016-09-02",
+      "goalId": "goal-2016-09-02-el-salvador-mex-35995",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2016-09-02-el-salvador-mex",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Alexander Larín",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "alexander lar n",
+  "playerKey": "alexander-lar-n",
+  "scorer": "Alexander Larín",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador"
+  ]
+}

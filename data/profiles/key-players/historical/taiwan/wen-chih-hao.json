@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2015-09-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-03-25",
+    "nationality": "Taiwan",
+    "playerKey": "wen-chih-hao",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "12513",
+      "fbref": "9508695d",
+      "footballdatabase_eu": "154169",
+      "impect": "110157",
+      "soccerway": "244156",
+      "thesportsdb": "34243500",
+      "transfermarkt": "256740",
+      "wikidata": "Q9308557"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-05",
+  "playerKey": "wen-chih-hao",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-taiwan-jordan-38885",
+      "matchKey": "2019-09-05-taiwan-jordan",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wen Chih-hao"
+    },
+    {
+      "date": "2015-09-03",
+      "goalId": "goal-2015-09-03-iraq-taiwan-34695",
+      "matchKey": "2015-09-03-iraq-taiwan",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wen Chih-hao"
+    }
+  ],
+  "scorer": "Wen Chih-hao",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "taiwan",
+  "teamName": "Taiwan",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

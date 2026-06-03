@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "2019-06-15",
+      "goalId": "goal-2019-06-15-arg-colombia-38532",
+      "homeTeamId": "arg",
+      "matchKey": "2019-06-15-arg-colombia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Duván Zapata",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "2019-06-19",
+      "goalId": "goal-2019-06-19-colombia-qatar-38581",
+      "homeTeamId": "colombia",
+      "matchKey": "2019-06-19-colombia-qatar",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Duván Zapata",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2020-10-09",
+      "goalId": "goal-2020-10-09-colombia-venezuela-39762",
+      "homeTeamId": "colombia",
+      "matchKey": "2020-10-09-colombia-venezuela",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Duván Zapata",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "duv n zapata",
+  "playerKey": "duv-n-zapata",
+  "scorer": "Duván Zapata",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

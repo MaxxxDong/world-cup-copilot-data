@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1975-10-15",
+      "goalId": "goal-1975-10-15-yugoslavia-sweden-7374",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1975-10-15-yugoslavia-sweden",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Franjo Vladić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "franjo vladi",
+  "playerKey": "franjo-vladi",
+  "scorer": "Franjo Vladić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

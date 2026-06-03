@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12160",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chu Gyong-Sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "indonesia",
+      "date": "1989-07-09",
+      "goalId": "goal-1989-07-09-north-korea-indonesia-12190",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-09-north-korea-indonesia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chu Gyong-Sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "1989-10-20",
+      "goalId": "goal-1989-10-20-north-korea-qatar-12380",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-10-20-north-korea-qatar",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chu Gyong-Sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "chu gyong sik",
+  "playerKey": "chu-gyong-sik",
+  "scorer": "Chu Gyong-Sik",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

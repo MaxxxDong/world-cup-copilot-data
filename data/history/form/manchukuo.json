@@ -1,0 +1,89 @@
+{
+  "generatedFromMatchCount": 3,
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "japan",
+      "date": "1942-08-09",
+      "homeScore": 0,
+      "homeTeamId": "manchukuo",
+      "matchId": "int-1942-08-09-manchukuo-japan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "manchukuo",
+      "date": "1940-06-07",
+      "homeScore": 7,
+      "homeTeamId": "japan",
+      "matchId": "int-1940-06-07-japan-manchukuo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "japan",
+      "date": "1939-09-03",
+      "homeScore": 0,
+      "homeTeamId": "manchukuo",
+      "matchId": "int-1939-09-03-manchukuo-japan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "manchukuo",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 0,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 0,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 0,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    }
+  }
+}

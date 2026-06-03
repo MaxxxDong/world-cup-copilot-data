@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1990-03-16",
+    "playerKey": "anicet-abel",
+    "providerIds": {
+      "opta": "91ty73k4b8nlzaqdtgiyviy8l",
+      "wikidata": "reep_peb0aae96"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-22",
+  "playerKey": "anicet-abel",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-22",
+      "goalId": "goal-2019-06-22-guinea-madagascar-38615",
+      "matchKey": "2019-06-22-guinea-madagascar",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anicet Abel"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-madagascar-central-african-republic-35197",
+      "matchKey": "2015-10-13-madagascar-central-african-republic",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anicet Abel"
+    }
+  ],
+  "scorer": "Anicet Abel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "madagascar",
+  "teamName": "Madagascar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

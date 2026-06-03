@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1995-07-05",
+      "goalId": "goal-1995-07-05-uruguay-venezuela-15411",
+      "homeTeamId": "uruguay",
+      "matchKey": "1995-07-05-uruguay-venezuela",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gustavo Poyet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1996-04-24",
+      "goalId": "goal-1996-04-24-venezuela-uruguay-15894",
+      "homeTeamId": "venezuela",
+      "matchKey": "1996-04-24-venezuela-uruguay",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gustavo Poyet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "gustavo poyet",
+  "playerKey": "gustavo-poyet",
+  "scorer": "Gustavo Poyet",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

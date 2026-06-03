@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "georgia",
+      "date": "1995-11-15",
+      "goalId": "goal-1995-11-15-moldova-georgia-15681",
+      "homeTeamId": "moldova",
+      "matchKey": "1995-11-15-moldova-georgia",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ion Testemițanu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "1998-11-18",
+      "goalId": "goal-1998-11-18-northern-ireland-moldova-18623",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1998-11-18-northern-ireland-moldova",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ion Testemițanu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "moldova"
+    }
+  ],
+  "normalizedScorer": "ion testemi anu",
+  "playerKey": "ion-testemi-anu",
+  "scorer": "Ion Testemițanu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "moldova"
+  ]
+}

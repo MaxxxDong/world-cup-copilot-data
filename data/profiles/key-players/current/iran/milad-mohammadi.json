@@ -1,0 +1,78 @@
+{
+  "club": "Persepolis FC (IRN)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1993-09-29",
+    "nationality": "Iran",
+    "playerKey": "milad-mohammadi",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "2688",
+      "capology": "milad-mohammadi-34241",
+      "espn": "226302",
+      "fbref": "740a0e28",
+      "footballdatabase_eu": "254487",
+      "heimspiel": "404461",
+      "impect": "16606",
+      "kicker": "milad-mohammadi",
+      "national_football_teams": "59497",
+      "opta": "cz3jt5t4fy7zj3xsz239wtxw5",
+      "skillcorner": "11856",
+      "soccerway": "349781",
+      "sofascore": "812531",
+      "sofifa": "390537",
+      "thesportsdb": "34202674",
+      "transfermarkt": "333355",
+      "uefa": "250097908",
+      "wikidata": "Q17523896",
+      "worldfootball": "milad-mohammadi",
+      "wyscout": "333803"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Milad Mohammadi",
+  "playerKey": "milad-mohammadi",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-cambodia-iran-40699",
+      "matchKey": "2021-06-11-cambodia-iran",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milad Mohammadi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=23"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=23"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "iran",
+  "teamName": "Iran"
+}

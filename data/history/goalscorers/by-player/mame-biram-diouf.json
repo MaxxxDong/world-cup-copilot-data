@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "senegal",
+      "date": "2015-01-19",
+      "goalId": "goal-2015-01-19-ghana-senegal-34099",
+      "homeTeamId": "ghana",
+      "matchKey": "2015-01-19-ghana-senegal",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mame Biram Diouf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2015-11-13",
+      "goalId": "goal-2015-11-13-madagascar-senegal-35375",
+      "homeTeamId": "madagascar",
+      "matchKey": "2015-11-13-madagascar-senegal",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mame Biram Diouf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "madagascar",
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-senegal-madagascar-35508",
+      "homeTeamId": "senegal",
+      "matchKey": "2015-11-17-senegal-madagascar",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mame Biram Diouf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "mame biram diouf",
+  "playerKey": "mame-biram-diouf",
+  "scorer": "Mame Biram Diouf",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

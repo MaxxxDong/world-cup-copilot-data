@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-05-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1988-12-10",
+    "nationality": "Solomon Islands",
+    "playerKey": "alick-maemae",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "12237",
+      "national_football_teams": "7522",
+      "sofifa": "212894",
+      "transfermarkt": "69713",
+      "wikidata": "Q4118133"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-12",
+  "playerKey": "alick-maemae",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-12",
+      "goalId": "goal-2004-05-12-solomon-islands-cook-islands-23583",
+      "matchKey": "2004-05-12-solomon-islands-cook-islands",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alick Maemae"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-solomon-islands-tonga-23559",
+      "matchKey": "2004-05-10-solomon-islands-tonga",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alick Maemae"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-solomon-islands-tonga-23558",
+      "matchKey": "2004-05-10-solomon-islands-tonga",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alick Maemae"
+    }
+  ],
+  "scorer": "Alick Maemae",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "solomon-islands",
+  "teamName": "Solomon Islands",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2011-07-09",
+      "goalId": "goal-2011-07-09-venezuela-ecuador-30682",
+      "homeTeamId": "venezuela",
+      "matchKey": "2011-07-09-venezuela-ecuador",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "César Eduardo González",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-venezuela-peru-33320",
+      "homeTeamId": "venezuela",
+      "matchKey": "2013-09-10-venezuela-peru",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "César Eduardo González",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "c sar eduardo gonz lez",
+  "playerKey": "c-sar-eduardo-gonz-lez",
+  "scorer": "César Eduardo González",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

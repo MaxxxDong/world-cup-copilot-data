@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1997-09-10",
+      "goalId": "goal-1997-09-10-san-marino-turkey-17729",
+      "homeTeamId": "san-marino",
+      "matchKey": "1997-09-10-san-marino-turkey",
+      "minute": 27,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Luca Gobbi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "luca gobbi",
+  "playerKey": "luca-gobbi",
+  "scorer": "Luca Gobbi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

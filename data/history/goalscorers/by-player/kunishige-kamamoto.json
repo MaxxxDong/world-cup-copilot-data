@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1973-05-20",
+      "goalId": "goal-1973-05-20-vietnam-republic-japan-6700",
+      "homeTeamId": "vietnam-republic",
+      "matchKey": "1973-05-20-vietnam-republic-japan",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kunishige Kamamoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1973-05-20",
+      "goalId": "goal-1973-05-20-vietnam-republic-japan-6703",
+      "homeTeamId": "vietnam-republic",
+      "matchKey": "1973-05-20-vietnam-republic-japan",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kunishige Kamamoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "kunishige kamamoto",
+  "playerKey": "kunishige-kamamoto",
+  "scorer": "Kunishige Kamamoto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

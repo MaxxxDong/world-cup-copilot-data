@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2004-01-29",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1980-02-06",
+    "nationality": "Zimbabwe",
+    "playerKey": "esrom-nyandoro",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "982bbc53",
+      "footballdatabase_eu": "5636",
+      "national_football_teams": "7404",
+      "sofifa": "185181",
+      "transfermarkt": "80431",
+      "wikidata": "Q3291649"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "esrom-nyandoro",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-namibia-zimbabwe-28635",
+      "matchKey": "2008-10-11-namibia-zimbabwe",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Esrom Nyandoro"
+    },
+    {
+      "date": "2004-01-29",
+      "goalId": "goal-2004-01-29-cameroon-zimbabwe-23314",
+      "matchKey": "2004-01-29-cameroon-zimbabwe",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Esrom Nyandoro"
+    }
+  ],
+  "scorer": "Esrom Nyandoro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "zimbabwe",
+  "teamName": "Zimbabwe",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

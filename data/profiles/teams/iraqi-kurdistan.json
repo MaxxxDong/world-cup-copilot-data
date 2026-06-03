@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Iraqi Kurdistan"
+  ],
+  "allTime": {
+    "draws": 8,
+    "goalsAgainst": 27,
+    "goalsFor": 61,
+    "losses": 6,
+    "matches": 27,
+    "wins": 13
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 6,
+      "goalsAgainst": 9,
+      "goalsFor": 23,
+      "losses": 1,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 18,
+      "goalsFor": 49,
+      "losses": 3,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 3,
+      "goalsFor": 9,
+      "losses": 0,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "iraqi-kurdistan",
+      "date": "2016-06-04",
+      "homeScore": 1,
+      "homeTeamId": "united-koreans-in-japan",
+      "matchId": "int-2016-06-04-united-koreans-in-japan-iraqi-kurdistan",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "western-armenia",
+      "date": "2016-06-03",
+      "homeScore": 0,
+      "homeTeamId": "iraqi-kurdistan",
+      "matchId": "int-2016-06-03-iraqi-kurdistan-western-armenia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "padania",
+      "date": "2016-06-02",
+      "homeScore": 2,
+      "homeTeamId": "iraqi-kurdistan",
+      "matchId": "int-2016-06-02-iraqi-kurdistan-padania",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "iraqi-kurdistan",
+      "date": "2016-05-31",
+      "homeScore": 0,
+      "homeTeamId": "united-koreans-in-japan",
+      "matchId": "int-2016-05-31-united-koreans-in-japan-iraqi-kurdistan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "szekely-land",
+      "date": "2016-05-29",
+      "homeScore": 3,
+      "homeTeamId": "iraqi-kurdistan",
+      "matchId": "int-2016-05-29-iraqi-kurdistan-szekely-land",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 8,
+      "goalsAgainst": 27,
+      "goalsFor": 61,
+      "losses": 6,
+      "matches": 27,
+      "wins": 13
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 16,
+      "goalsFor": 46,
+      "losses": 3,
+      "matches": 19,
+      "wins": 9
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 15,
+      "losses": 3,
+      "matches": 8,
+      "wins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "iraqi-kurdistan",
+  "teamName": "Iraqi Kurdistan",
+  "topScorers": []
+}

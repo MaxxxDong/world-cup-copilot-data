@@ -1,0 +1,73 @@
+{
+  "club": "Mamelodi Sundowns FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1995-12-19",
+    "nationality": "South Africa",
+    "playerKey": "iqraam-rayners",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "127429",
+      "espn": "291141",
+      "fbref": "190b0d5e",
+      "footballdatabase_eu": "240962",
+      "heimspiel": "628653",
+      "impect": "110706",
+      "national_football_teams": "91487",
+      "skillcorner": "168184",
+      "soccerway": "370817",
+      "sofascore": "991024",
+      "thesportsdb": "34228226",
+      "transfermarkt": "337884",
+      "wikidata": "Q100565190",
+      "worldfootball": "iqraam-rayners",
+      "wyscout": "359362"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Iqraam Rayners",
+  "playerKey": "iqraam-rayners",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-rsa-zimbabwe-44914",
+      "matchKey": "2024-06-11-rsa-zimbabwe",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iqraam Rayners"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 15,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

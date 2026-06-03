@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1998-04-21",
+      "goalId": "goal-1998-04-21-latvia-lithuania-18194",
+      "homeTeamId": "latvia",
+      "matchKey": "1998-04-21-latvia-lithuania",
+      "minute": 20,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Igors Stepanovs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-georgia-latvia-19067",
+      "homeTeamId": "georgia",
+      "matchKey": "1999-09-08-georgia-latvia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igors Stepanovs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    }
+  ],
+  "normalizedScorer": "igors stepanovs",
+  "playerKey": "igors-stepanovs",
+  "scorer": "Igors Stepanovs",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "latvia",
+    "lithuania"
+  ]
+}

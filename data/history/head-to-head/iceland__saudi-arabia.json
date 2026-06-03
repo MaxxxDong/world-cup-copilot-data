@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 3,
+    "teamAWins": 1,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "iceland",
+    "date": "2022-11-06",
+    "homeScore": 1,
+    "homeTeamId": "saudi-arabia",
+    "matchId": "int-2022-11-06-saudi-arabia-iceland",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "1984-09-25",
+      "homeScore": 1,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1984-09-25-saudi-arabia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "saudi-arabia",
+      "date": "1994-04-20",
+      "homeScore": 0,
+      "homeTeamId": "iceland",
+      "matchId": "int-1994-04-20-iceland-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "1997-12-07",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-1997-12-07-saudi-arabia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saudi-arabia",
+      "date": "1998-05-13",
+      "homeScore": 1,
+      "homeTeamId": "iceland",
+      "matchId": "int-1998-05-13-iceland-saudi-arabia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2002-01-10",
+      "homeScore": 1,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2002-01-10-saudi-arabia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2022-11-06",
+      "homeScore": 1,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2022-11-06-saudi-arabia-iceland",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "iceland__saudi-arabia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iceland",
+  "teamBId": "saudi-arabia"
+}

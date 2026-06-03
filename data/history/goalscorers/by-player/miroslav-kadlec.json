@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1992-09-02",
+      "goalId": "goal-1992-09-02-czechoslovakia-belgium-13259",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1992-09-02-czechoslovakia-belgium",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miroslav Kadlec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    },
+    {
+      "awayTeamId": "belarus",
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-czech-republic-belarus-15211",
+      "homeTeamId": "czech-republic",
+      "matchKey": "1995-03-29-czech-republic-belarus",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miroslav Kadlec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "miroslav kadlec",
+  "playerKey": "miroslav-kadlec",
+  "scorer": "Miroslav Kadlec",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic",
+    "czechoslovakia"
+  ]
+}

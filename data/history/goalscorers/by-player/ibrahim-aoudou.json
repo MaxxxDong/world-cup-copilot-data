@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1981-11-29",
+      "goalId": "goal-1981-11-29-cameroon-mar-9610",
+      "homeTeamId": "cameroon",
+      "matchKey": "1981-11-29-cameroon-mar",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ibrahim Aoudou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "1984-03-07",
+      "goalId": "goal-1984-03-07-cameroon-togo-10224",
+      "homeTeamId": "cameroon",
+      "matchKey": "1984-03-07-cameroon-togo",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahim Aoudou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cameroon"
+    }
+  ],
+  "normalizedScorer": "ibrahim aoudou",
+  "playerKey": "ibrahim-aoudou",
+  "scorer": "Ibrahim Aoudou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cameroon"
+  ]
+}

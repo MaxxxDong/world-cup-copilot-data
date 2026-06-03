@@ -1,0 +1,182 @@
+{
+  "aliases": [
+    "Silesia"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 17,
+    "goalsFor": 24,
+    "losses": 3,
+    "matches": 8,
+    "wins": 3
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 24,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 24,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 18,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "poland",
+      "date": "2006-12-09",
+      "homeScore": 1,
+      "homeTeamId": "silesia",
+      "matchId": "int-2006-12-09-silesia-poland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "tanzania",
+      "date": "1974-07-22",
+      "homeScore": 7,
+      "homeTeamId": "silesia",
+      "matchId": "int-1974-07-22-silesia-tanzania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "poland",
+      "date": "1953-09-13",
+      "homeScore": 3,
+      "homeTeamId": "silesia",
+      "matchId": "int-1953-09-13-silesia-poland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "poland",
+      "date": "1953-04-26",
+      "homeScore": 2,
+      "homeTeamId": "silesia",
+      "matchId": "int-1953-04-26-silesia-poland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "china-pr",
+      "date": "1952-08-24",
+      "homeScore": 5,
+      "homeTeamId": "silesia",
+      "matchId": "int-1952-08-24-silesia-china-pr",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 24,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 24,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "silesia",
+  "teamName": "Silesia",
+  "topScorers": []
+}

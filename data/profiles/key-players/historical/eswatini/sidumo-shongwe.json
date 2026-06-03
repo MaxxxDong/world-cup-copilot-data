@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2011-11-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1981-06-27",
+    "nationality": "Eswatini",
+    "playerKey": "sidumo-shongwe",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "4da1642a",
+      "footballdatabase_eu": "141878",
+      "national_football_teams": "43821",
+      "sofifa": "351349",
+      "transfermarkt": "210906",
+      "wikidata": "Q10556096"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-15",
+  "playerKey": "sidumo-shongwe",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-dr-congo-eswatini-31497",
+      "matchKey": "2011-11-15-dr-congo-eswatini",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sidumo Shongwe"
+    },
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-eswatini-dr-congo-31403",
+      "matchKey": "2011-11-11-eswatini-dr-congo",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sidumo Shongwe"
+    }
+  ],
+  "scorer": "Sidumo Shongwe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "eswatini",
+  "teamName": "Eswatini",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

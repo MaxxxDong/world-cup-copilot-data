@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 10,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "finland",
+    "date": "2021-03-31",
+    "homeScore": 3,
+    "homeTeamId": "switzerland",
+    "matchId": "int-2021-03-31-switzerland-finland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "switzerland",
+      "date": "1976-05-19",
+      "homeScore": 1,
+      "homeTeamId": "finland",
+      "matchId": "int-1976-05-19-finland-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1977-10-05",
+      "homeScore": 2,
+      "homeTeamId": "switzerland",
+      "matchId": "int-1977-10-05-switzerland-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "switzerland",
+      "date": "1996-10-06",
+      "homeScore": 2,
+      "homeTeamId": "finland",
+      "matchId": "int-1996-10-06-finland-switzerland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "1997-09-06",
+      "homeScore": 1,
+      "homeTeamId": "switzerland",
+      "matchId": "int-1997-09-06-switzerland-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "2008-11-19",
+      "homeScore": 1,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2008-11-19-switzerland-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "2021-03-31",
+      "homeScore": 3,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2021-03-31-switzerland-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "finland__switzerland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 10,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "finland",
+  "teamBId": "switzerland"
+}

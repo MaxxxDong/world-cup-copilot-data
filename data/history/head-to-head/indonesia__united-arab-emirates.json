@@ -1,0 +1,186 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 8,
+    "teamAWins": 1,
+    "teamBGoals": 18,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "indonesia",
+    "date": "2021-06-11",
+    "homeScore": 5,
+    "homeTeamId": "united-arab-emirates",
+    "matchId": "int-2021-06-11-united-arab-emirates-indonesia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "united-arab-emirates",
+      "date": "1981-09-02",
+      "homeScore": 5,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1981-09-02-indonesia-united-arab-emirates",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "united-arab-emirates",
+      "date": "1982-08-14",
+      "homeScore": 1,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1982-08-14-indonesia-united-arab-emirates",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Merdeka Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "indonesia",
+      "date": "1986-10-01",
+      "homeScore": 2,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-1986-10-01-united-arab-emirates-indonesia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Asian Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "1996-12-10",
+      "homeScore": 2,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-1996-12-10-united-arab-emirates-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "2019-10-10",
+      "homeScore": 5,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-2019-10-10-united-arab-emirates-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "indonesia",
+      "date": "2021-06-11",
+      "homeScore": 5,
+      "homeTeamId": "united-arab-emirates",
+      "matchId": "int-2021-06-11-united-arab-emirates-indonesia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "indonesia__united-arab-emirates",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 18,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "indonesia",
+  "teamBId": "united-arab-emirates"
+}

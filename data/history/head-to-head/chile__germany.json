@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 9,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 14,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "germany",
+    "date": "2017-07-02",
+    "homeScore": 0,
+    "homeTeamId": "chile",
+    "matchId": "int-2017-07-02-chile-germany",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Confederations Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "chile",
+      "date": "1960-03-23",
+      "homeScore": 2,
+      "homeTeamId": "germany",
+      "matchId": "int-1960-03-23-germany-chile",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "germany",
+      "date": "1961-03-26",
+      "homeScore": 3,
+      "homeTeamId": "chile",
+      "matchId": "int-1961-03-26-chile-germany",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "germany",
+      "date": "1962-06-06",
+      "homeScore": 0,
+      "homeTeamId": "chile",
+      "matchId": "int-1962-06-06-chile-germany",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "germany",
+      "date": "1968-12-18",
+      "homeScore": 2,
+      "homeTeamId": "chile",
+      "matchId": "int-1968-12-18-chile-germany",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "chile",
+      "date": "1974-06-14",
+      "homeScore": 1,
+      "homeTeamId": "germany",
+      "matchId": "int-1974-06-14-germany-chile",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chile",
+      "date": "1982-06-20",
+      "homeScore": 4,
+      "homeTeamId": "germany",
+      "matchId": "int-1982-06-20-germany-chile",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "chile",
+      "date": "2014-03-05",
+      "homeScore": 1,
+      "homeTeamId": "germany",
+      "matchId": "int-2014-03-05-germany-chile",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "chile",
+      "date": "2017-06-22",
+      "homeScore": 1,
+      "homeTeamId": "germany",
+      "matchId": "int-2017-06-22-germany-chile",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "germany",
+      "date": "2017-07-02",
+      "homeScore": 0,
+      "homeTeamId": "chile",
+      "matchId": "int-2017-07-02-chile-germany",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Confederations Cup"
+    }
+  ],
+  "pairKey": "chile__germany",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    }
+  },
+  "teamAId": "chile",
+  "teamBId": "germany"
+}

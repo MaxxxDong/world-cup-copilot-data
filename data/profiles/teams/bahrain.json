@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Bahrain"
+  ],
+  "allTime": {
+    "draws": 154,
+    "goalsAgainst": 754,
+    "goalsFor": 725,
+    "losses": 222,
+    "matches": 583,
+    "wins": 207
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 9,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 28,
+      "goalsFor": 20,
+      "losses": 11,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "sudan",
+      "date": "2025-12-09",
+      "homeScore": 3,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-12-09-bahrain-sudan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "algeria",
+      "date": "2025-12-06",
+      "homeScore": 1,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-12-06-bahrain-algeria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bahrain",
+      "date": "2025-12-03",
+      "homeScore": 2,
+      "homeTeamId": "iraq",
+      "matchId": "int-2025-12-03-iraq-bahrain",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "djibouti",
+      "date": "2025-11-26",
+      "homeScore": 1,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-11-26-bahrain-djibouti",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "somalia",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-11-17-bahrain-somalia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 102,
+      "goalsAgainst": 502,
+      "goalsFor": 463,
+      "losses": 151,
+      "matches": 387,
+      "wins": 134
+    },
+    "friendly": {
+      "draws": 52,
+      "goalsAgainst": 252,
+      "goalsFor": 262,
+      "losses": 71,
+      "matches": 196,
+      "wins": 73
+    },
+    "neutralVenue": {
+      "draws": 58,
+      "goalsAgainst": 309,
+      "goalsFor": 288,
+      "losses": 89,
+      "matches": 233,
+      "wins": 86
+    },
+    "nonNeutralVenue": {
+      "draws": 96,
+      "goalsAgainst": 445,
+      "goalsFor": 437,
+      "losses": 133,
+      "matches": 350,
+      "wins": 121
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bahrain",
+  "teamName": "Bahrain",
+  "topScorers": [
+    {
+      "goals": 17,
+      "playerKey": "ismail-abdullatif",
+      "scorer": "Ismail Abdullatif"
+    },
+    {
+      "goals": 13,
+      "playerKey": "a-ala-hubail",
+      "scorer": "A'ala Hubail"
+    },
+    {
+      "goals": 9,
+      "playerKey": "husain-ali",
+      "scorer": "Husain Ali"
+    },
+    {
+      "goals": 6,
+      "playerKey": "sayed-dhiya-saeed",
+      "scorer": "Sayed Dhiya Saeed"
+    },
+    {
+      "goals": 6,
+      "playerKey": "talal-yousef",
+      "scorer": "Talal Yousef"
+    },
+    {
+      "goals": 5,
+      "playerKey": "kamil-al-aswad",
+      "scorer": "Kamil Al Aswad"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mahmood-abdulrahman",
+      "scorer": "Mahmood Abdulrahman"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mohamed-hubail",
+      "scorer": "Mohamed Hubail"
+    },
+    {
+      "goals": 5,
+      "playerKey": "yusuf-a-amer-al-sadi",
+      "scorer": "Yusuf A'Amer Al Sadi"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ali-madan",
+      "scorer": "Ali Madan"
+    }
+  ]
+}

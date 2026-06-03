@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 10,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 11,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "tanzania",
+    "date": "2021-11-14",
+    "homeScore": 1,
+    "homeTeamId": "madagascar",
+    "matchId": "int-2021-11-14-madagascar-tanzania",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "1972-04-29",
+      "homeScore": 0,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1972-04-29-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "tanzania",
+      "date": "1979-07-29",
+      "homeScore": 2,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1979-07-29-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tanzania",
+      "date": "1979-08-01",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1979-08-01-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "1980-06-19",
+      "homeScore": 2,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1980-06-19-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "1980-06-22",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-1980-06-22-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "madagascar",
+      "date": "1980-11-01",
+      "homeScore": 0,
+      "homeTeamId": "tanzania",
+      "matchId": "int-1980-11-01-tanzania-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "madagascar",
+      "date": "1992-10-25",
+      "homeScore": 0,
+      "homeTeamId": "tanzania",
+      "matchId": "int-1992-10-25-tanzania-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tanzania",
+      "date": "2015-05-20",
+      "homeScore": 2,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2015-05-20-madagascar-tanzania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "madagascar",
+      "date": "2021-09-07",
+      "homeScore": 3,
+      "homeTeamId": "tanzania",
+      "matchId": "int-2021-09-07-tanzania-madagascar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2021-11-14",
+      "homeScore": 1,
+      "homeTeamId": "madagascar",
+      "matchId": "int-2021-11-14-madagascar-tanzania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "madagascar__tanzania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "matches": 9,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 11,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "madagascar",
+  "teamBId": "tanzania"
+}

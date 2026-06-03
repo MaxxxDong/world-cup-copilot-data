@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1979-10-17",
+      "goalId": "goal-1979-10-17-northern-ireland-england-8611",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1979-10-17-northern-ireland-england",
+      "minute": 74,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Jimmy Nicholl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1980-10-15",
+      "goalId": "goal-1980-10-15-northern-ireland-sweden-9041",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1980-10-15-northern-ireland-sweden",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy Nicholl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "jimmy nicholl",
+  "playerKey": "jimmy-nicholl",
+  "scorer": "Jimmy Nicholl",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england",
+    "northern-ireland"
+  ]
+}

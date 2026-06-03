@@ -1,0 +1,80 @@
+{
+  "club": "VfL Wolfsburg (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-01-05",
+    "nationality": "Sweden",
+    "playerKey": "mattias-svanberg",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "30484",
+      "capology": "mattias-svanberg-36165",
+      "espn": "220120",
+      "eu_football_info": "30859",
+      "fbref": "92d83c27",
+      "footballdatabase_eu": "248583",
+      "heimspiel": "368828",
+      "impect": "7369",
+      "kicker": "mattias-svanberg",
+      "national_football_teams": "76258",
+      "opta": "4sd2zs6d5cd4d9n3oo54lglat",
+      "skillcorner": "14056",
+      "soccerbase": "83089",
+      "soccerway": "377463",
+      "sofascore": "796987",
+      "sofifa": "201393981",
+      "thesportsdb": "34169393",
+      "transfermarkt": "342405",
+      "uefa": "250076479",
+      "wikidata": "Q23915221",
+      "worldfootball": "mattias-svanberg",
+      "wyscout": "347525"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Mattias Svanberg",
+  "playerKey": "mattias-svanberg",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2019-11-18",
+      "goalId": "goal-2019-11-18-sweden-faroe-islands-39542",
+      "matchKey": "2019-11-18-sweden-faroe-islands",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mattias Svanberg"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sweden",
+  "teamName": "Sweden"
+}

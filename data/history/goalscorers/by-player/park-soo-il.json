@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1969-10-12",
+      "goalId": "goal-1969-10-12-south-korea-japan-5646",
+      "homeTeamId": "south-korea",
+      "matchKey": "1969-10-12-south-korea-japan",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Soo-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1969-10-20",
+      "goalId": "goal-1969-10-20-south-korea-australia-5677",
+      "homeTeamId": "south-korea",
+      "matchKey": "1969-10-20-south-korea-australia",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Soo-Il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "park soo il",
+  "playerKey": "park-soo-il",
+  "scorer": "Park Soo-Il",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

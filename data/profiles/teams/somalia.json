@@ -1,0 +1,221 @@
+{
+  "aliases": [
+    "Somalia"
+  ],
+  "allTime": {
+    "draws": 15,
+    "goalsAgainst": 330,
+    "goalsFor": 62,
+    "losses": 98,
+    "matches": 124,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 4,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 39,
+      "goalsFor": 9,
+      "losses": 16,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2025-11-26",
+      "homeScore": 0,
+      "homeTeamId": "oman",
+      "matchId": "int-2025-11-26-oman-somalia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "somalia",
+      "date": "2025-11-17",
+      "homeScore": 1,
+      "homeTeamId": "bahrain",
+      "matchId": "int-2025-11-17-bahrain-somalia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mozambique",
+      "date": "2025-10-14",
+      "homeScore": 0,
+      "homeTeamId": "somalia",
+      "matchId": "int-2025-10-14-somalia-mozambique",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2025-10-09",
+      "homeScore": 3,
+      "homeTeamId": "algeria",
+      "matchId": "int-2025-10-09-algeria-somalia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "somalia",
+      "date": "2025-09-08",
+      "homeScore": 2,
+      "homeTeamId": "uganda",
+      "matchId": "int-2025-09-08-uganda-somalia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 14,
+      "goalsAgainst": 274,
+      "goalsFor": 45,
+      "losses": 87,
+      "matches": 110,
+      "wins": 9
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 56,
+      "goalsFor": 17,
+      "losses": 11,
+      "matches": 14,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 11,
+      "goalsAgainst": 212,
+      "goalsFor": 35,
+      "losses": 61,
+      "matches": 78,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 118,
+      "goalsFor": 27,
+      "losses": 37,
+      "matches": 46,
+      "wins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "somalia",
+  "teamName": "Somalia",
+  "topScorers": [
+    {
+      "goals": 1,
+      "playerKey": "anwar-shakunda",
+      "scorer": "Anwar Shakunda"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ismael-shirwa",
+      "scorer": "Ismael Shirwa"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ismail-mohammed-sharif",
+      "scorer": "Ismail Mohammed Sharif"
+    },
+    {
+      "goals": 1,
+      "playerKey": "omar-mohamed",
+      "scorer": "Omar Mohamed"
+    },
+    {
+      "goals": 1,
+      "playerKey": "sak-hassan",
+      "scorer": "Sak Hassan"
+    },
+    {
+      "goals": 1,
+      "playerKey": "yusuf-ahmed",
+      "scorer": "Yusuf Ahmed"
+    }
+  ]
+}

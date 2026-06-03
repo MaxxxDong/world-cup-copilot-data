@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "2023-07-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-12-29",
+    "nationality": "France",
+    "playerKey": "anthony-baron",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "22026",
+      "espn": "75844",
+      "fbref": "93c8e934",
+      "footballdatabase_eu": "153210",
+      "heimspiel": "575480",
+      "impect": "47550",
+      "kicker": "anthony-baron",
+      "lequipe": "60372",
+      "national_football_teams": "72275",
+      "opta": "ap18f2pic6emw6x8a6qmc1l1x",
+      "skillcorner": "171375",
+      "soccerway": "37533",
+      "sofascore": "1010087",
+      "thesportsdb": "34224639",
+      "transfermarkt": "624910",
+      "uefa": "250187003",
+      "wikidata": "Q107565778",
+      "wyscout": "215026"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-07-01",
+  "playerKey": "anthony-baron",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-07-01",
+      "goalId": "goal-2023-07-01-cuba-guadeloupe-43378",
+      "matchKey": "2023-07-01-cuba-guadeloupe",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Baron"
+    }
+  ],
+  "scorer": "Anthony Baron",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

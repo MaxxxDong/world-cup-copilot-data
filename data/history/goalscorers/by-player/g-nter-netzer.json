@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1971-06-12",
+      "goalId": "goal-1971-06-12-germany-albania-6091",
+      "homeTeamId": "germany",
+      "matchKey": "1971-06-12-germany-albania",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Günter Netzer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1972-04-29",
+      "goalId": "goal-1972-04-29-england-germany-6304",
+      "homeTeamId": "england",
+      "matchKey": "1972-04-29-england-germany",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Günter Netzer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "g nter netzer",
+  "playerKey": "g-nter-netzer",
+  "scorer": "Günter Netzer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2004-03-31",
+      "goalId": "goal-2004-03-31-curacao-antigua-and-barbuda-23501",
+      "homeTeamId": "curacao",
+      "matchKey": "2004-03-31-curacao-antigua-and-barbuda",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eugene Martha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-curacao-haiti-28199",
+      "homeTeamId": "curacao",
+      "matchKey": "2008-06-22-curacao-haiti",
+      "minute": 77,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Eugene Martha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    }
+  ],
+  "normalizedScorer": "eugene martha",
+  "playerKey": "eugene-martha",
+  "scorer": "Eugene Martha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "curacao",
+    "haiti"
+  ]
+}

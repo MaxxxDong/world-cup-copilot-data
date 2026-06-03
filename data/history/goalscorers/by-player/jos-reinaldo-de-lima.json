@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sweden",
+      "date": "1978-06-03",
+      "goalId": "goal-1978-06-03-bra-sweden-8234",
+      "homeTeamId": "bra",
+      "matchKey": "1978-06-03-bra-sweden",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Reinaldo de Lima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1981-02-22",
+      "goalId": "goal-1981-02-22-bolivia-bra-9169",
+      "homeTeamId": "bolivia",
+      "matchKey": "1981-02-22-bolivia-bra",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Reinaldo de Lima",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "jos reinaldo de lima",
+  "playerKey": "jos-reinaldo-de-lima",
+  "scorer": "José Reinaldo de Lima",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "1963-04-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "playerKey": "eugene-testing",
+    "providerIds": {
+      "transfermarkt": "302876",
+      "wikidata": "Q125162394"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1965-04-08",
+  "playerKey": "eugene-testing",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1965-04-08",
+      "goalId": "goal-1965-04-08-haiti-curacao-4284",
+      "matchKey": "1965-04-08-haiti-curacao",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eugene Testing"
+    },
+    {
+      "date": "1963-04-07",
+      "goalId": "goal-1963-04-07-el-salvador-curacao-3999",
+      "matchKey": "1963-04-07-el-salvador-curacao",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eugene Testing"
+    },
+    {
+      "date": "1963-04-03",
+      "goalId": "goal-1963-04-03-honduras-curacao-3987",
+      "matchKey": "1963-04-03-honduras-curacao",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eugene Testing"
+    }
+  ],
+  "scorer": "Eugene Testing",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

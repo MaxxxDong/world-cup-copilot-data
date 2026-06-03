@@ -1,0 +1,108 @@
+{
+  "club": "Aston Villa FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1995-12-30",
+    "fullName": "Oliver George Arthur Watkins",
+    "nationality": "United Kingdom",
+    "playerKey": "ollie-watkins",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "242064",
+      "api_football": "19366",
+      "capology": "ollie-watkins-35063",
+      "dongqiudi": "50212991",
+      "espn": "198825",
+      "eu_football_info": "31370",
+      "fbref": "aed3a70f",
+      "footballdatabase_eu": "232560",
+      "fotmob": "540088",
+      "heimspiel": "354032",
+      "hugman": "26413",
+      "impect": "25331",
+      "kicker": "ollie-watkins",
+      "national_football_teams": "81939",
+      "opta": "5m0j33eoa5c8pqlr0tdf7undh",
+      "opta_numeric": "606918",
+      "premier_league": "8658",
+      "skillcorner": "18948",
+      "soccerbase": "74516",
+      "soccerway": "334174",
+      "sofascore": "555386",
+      "sofifa": "400142245",
+      "sportmonks": "12145",
+      "statmuse_pl": "4839",
+      "transfermarkt": "324358",
+      "uefa": "250150887",
+      "understat": "8865",
+      "whoscored": "148503",
+      "wikidata": "Q16911979",
+      "worldfootball": "ollie-watkins",
+      "wyscout": "301047"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ollie Watkins",
+  "playerKey": "ollie-watkins",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-greece-england-45608",
+      "matchKey": "2024-11-14-greece-england",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ollie Watkins"
+    },
+    {
+      "date": "2024-07-10",
+      "goalId": "goal-2024-07-10-netherlands-england-45159",
+      "matchKey": "2024-07-10-netherlands-england",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ollie Watkins"
+    },
+    {
+      "date": "2021-03-25",
+      "goalId": "goal-2021-03-25-england-san-marino-40142",
+      "matchKey": "2021-03-25-england-san-marino",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ollie Watkins"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "england",
+  "teamName": "England"
+}

@@ -1,0 +1,125 @@
+{
+  "goalCount": 6,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1973-07-01",
+      "goalId": "goal-1973-07-01-ecuador-uruguay-6759",
+      "homeTeamId": "ecuador",
+      "matchKey": "1973-07-01-ecuador-uruguay",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1973-07-08",
+      "goalId": "goal-1973-07-08-uruguay-ecuador-6761",
+      "homeTeamId": "uruguay",
+      "matchKey": "1973-07-08-uruguay-ecuador",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1973-07-08",
+      "goalId": "goal-1973-07-08-uruguay-ecuador-6762",
+      "homeTeamId": "uruguay",
+      "matchKey": "1973-07-08-uruguay-ecuador",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1975-10-01",
+      "goalId": "goal-1975-10-01-uruguay-colombia-7351",
+      "homeTeamId": "uruguay",
+      "matchKey": "1975-10-01-uruguay-colombia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1983-09-01",
+      "goalId": "goal-1983-09-01-uruguay-chile-10049",
+      "homeTeamId": "uruguay",
+      "matchKey": "1983-09-01-uruguay-chile",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1983-09-04",
+      "goalId": "goal-1983-09-04-uruguay-venezuela-10055",
+      "homeTeamId": "uruguay",
+      "matchKey": "1983-09-04-uruguay-venezuela",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fernando Morena",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "fernando morena",
+  "playerKey": "fernando-morena",
+  "scorer": "Fernando Morena",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

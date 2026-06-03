@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1982-03-07",
+      "goalId": "goal-1982-03-07-ethiopia-nigeria-9646",
+      "homeTeamId": "ethiopia",
+      "matchKey": "1982-03-07-ethiopia-nigeria",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ademola Adeshina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "1984-10-20",
+      "goalId": "goal-1984-10-20-nigeria-liberia-10380",
+      "homeTeamId": "nigeria",
+      "matchKey": "1984-10-20-nigeria-liberia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ademola Adeshina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "ademola adeshina",
+  "playerKey": "ademola-adeshina",
+  "scorer": "Ademola Adeshina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "2007-10-28",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1985-06-05",
+    "nationality": "People's Republic of China",
+    "playerKey": "lam-ka-wai",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "edb7ca85",
+      "footballdatabase_eu": "24985",
+      "national_football_teams": "23718",
+      "soccerway": "67781",
+      "sofascore": "339061",
+      "sofifa": "209864",
+      "transfermarkt": "69596",
+      "wikidata": "Q717422"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-16",
+  "playerKey": "lam-ka-wai",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-hong-kong-maldives-34531",
+      "matchKey": "2015-06-16-hong-kong-maldives",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lam Ka Wai"
+    },
+    {
+      "date": "2015-06-11",
+      "goalId": "goal-2015-06-11-hong-kong-bhutan-34372",
+      "matchKey": "2015-06-11-hong-kong-bhutan",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Lam Ka Wai"
+    },
+    {
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-hong-kong-timor-leste-27297",
+      "matchKey": "2007-10-28-hong-kong-timor-leste",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lam Ka Wai"
+    }
+  ],
+  "scorer": "Lam Ka Wai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "hong-kong",
+  "teamName": "Hong Kong",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

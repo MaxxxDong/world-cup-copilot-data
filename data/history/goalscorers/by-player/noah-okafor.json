@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-switzerland-bulgaria-42065",
+      "homeTeamId": "switzerland",
+      "matchKey": "2021-11-15-switzerland-bulgaria",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noah Okafor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-czech-republic-switzerland-42481",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-06-02-czech-republic-switzerland",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noah Okafor",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "noah okafor",
+  "playerKey": "noah-okafor",
+  "scorer": "Noah Okafor",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

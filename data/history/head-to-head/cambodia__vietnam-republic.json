@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 4,
+    "teamAGoals": 9,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "vietnam-republic",
+    "date": "1974-12-16",
+    "homeScore": 2,
+    "homeTeamId": "cambodia",
+    "matchId": "int-1974-12-16-cambodia-vietnam-republic",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "King's Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "vietnam-republic",
+      "date": "1970-11-13",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1970-11-13-cambodia-vietnam-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "cambodia",
+      "date": "1972-11-01",
+      "homeScore": 1,
+      "homeTeamId": "vietnam-republic",
+      "matchId": "int-1972-11-01-vietnam-republic-cambodia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Vietnam Independence Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "vietnam-republic",
+      "date": "1974-12-11",
+      "homeScore": 3,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1974-12-11-cambodia-vietnam-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam-republic",
+      "date": "1974-12-16",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1974-12-16-cambodia-vietnam-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "pairKey": "cambodia__vietnam-republic",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cambodia",
+  "teamBId": "vietnam-republic"
+}

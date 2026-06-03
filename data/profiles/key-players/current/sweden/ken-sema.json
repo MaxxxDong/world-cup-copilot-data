@@ -1,0 +1,87 @@
+{
+  "club": "Pafos FC (CYP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1993-09-30",
+    "nationality": "Sweden",
+    "playerKey": "ken-sema",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "255693",
+      "api_football": "2860",
+      "capology": "ken-sema-34242",
+      "espn": "186004",
+      "eu_football_info": "29713",
+      "fbref": "1770bd68",
+      "footballdatabase_eu": "199064",
+      "heimspiel": "309978",
+      "impect": "16388",
+      "kicker": "ken-sema",
+      "lequipe": "62347",
+      "national_football_teams": "66387",
+      "opta": "6sv29rmngsiyx4pv6zto3mklx",
+      "opta_numeric": "157775",
+      "premier_league": "25089",
+      "skillcorner": "12457",
+      "soccerbase": "89847",
+      "soccerway": "286735",
+      "sofascore": "319847",
+      "sofifa": "395286",
+      "statmuse_pl": "3438",
+      "thesportsdb": "34169555",
+      "transfermarkt": "252345",
+      "uefa": "250110384",
+      "understat": "6841",
+      "whoscored": "145392",
+      "wikidata": "Q10544852",
+      "worldfootball": "ken-sema",
+      "wyscout": "258108"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ken Sema",
+  "playerKey": "ken-sema",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-slovakia-sweden-45461",
+      "matchKey": "2024-10-11-slovakia-sweden",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ken Sema"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+  },
+  "shirtNumber": 13,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sweden",
+  "teamName": "Sweden"
+}

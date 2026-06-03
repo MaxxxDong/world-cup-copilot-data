@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "serbia",
+      "date": "1999-09-08",
+      "goalId": "goal-1999-09-08-north-macedonia-serbia-19100",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "1999-09-08-north-macedonia-serbia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ljubinko Drulović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2000-06-13",
+      "goalId": "goal-2000-06-13-serbia-slovenia-19704",
+      "homeTeamId": "serbia",
+      "matchKey": "2000-06-13-serbia-slovenia",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ljubinko Drulović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    }
+  ],
+  "normalizedScorer": "ljubinko drulovi",
+  "playerKey": "ljubinko-drulovi",
+  "scorer": "Ljubinko Drulović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "serbia"
+  ]
+}

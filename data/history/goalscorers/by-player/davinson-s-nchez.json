@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2024-06-28",
+      "goalId": "goal-2024-06-28-colombia-costa-rica-45088",
+      "homeTeamId": "colombia",
+      "matchKey": "2024-06-28-colombia-costa-rica",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davinson Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-colombia-chile-45548",
+      "homeTeamId": "colombia",
+      "matchKey": "2024-10-15-colombia-chile",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davinson Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-uruguay-colombia-45691",
+      "homeTeamId": "uruguay",
+      "matchKey": "2024-11-15-uruguay-colombia",
+      "minute": 57,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Davinson Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "davinson s nchez",
+  "playerKey": "davinson-s-nchez",
+  "scorer": "Davinson Sánchez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia",
+    "uruguay"
+  ]
+}

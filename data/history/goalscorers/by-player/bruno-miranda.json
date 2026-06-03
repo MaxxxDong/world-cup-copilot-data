@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "2022-01-28",
+      "goalId": "goal-2022-01-28-venezuela-bolivia-42249",
+      "homeTeamId": "venezuela",
+      "matchKey": "2022-01-28-venezuela-bolivia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Miranda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2024-07-01",
+      "goalId": "goal-2024-07-01-bolivia-panama-45119",
+      "homeTeamId": "bolivia",
+      "matchKey": "2024-07-01-bolivia-panama",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bruno Miranda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "bruno miranda",
+  "playerKey": "bruno-miranda",
+  "scorer": "Bruno Miranda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

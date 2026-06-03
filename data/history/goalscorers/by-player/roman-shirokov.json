@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2010-10-08",
+      "goalId": "goal-2010-10-08-republic-of-ireland-russia-30178",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2010-10-08-republic-of-ireland-russia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Shirokov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2012-06-08",
+      "goalId": "goal-2012-06-08-russia-czech-republic-31872",
+      "homeTeamId": "russia",
+      "matchKey": "2012-06-08-russia-czech-republic",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Shirokov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-russia-northern-ireland-32118",
+      "homeTeamId": "russia",
+      "matchKey": "2012-09-07-russia-northern-ireland",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roman Shirokov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-russia-azerbaijan-32442",
+      "homeTeamId": "russia",
+      "matchKey": "2012-10-16-russia-azerbaijan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Roman Shirokov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-azerbaijan-russia-33432",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2013-10-15-azerbaijan-russia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roman Shirokov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "roman shirokov",
+  "playerKey": "roman-shirokov",
+  "scorer": "Roman Shirokov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

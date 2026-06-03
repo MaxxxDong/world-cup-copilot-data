@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Congo"
+  ],
+  "allTime": {
+    "draws": 99,
+    "goalsAgainst": 598,
+    "goalsFor": 523,
+    "losses": 173,
+    "matches": 406,
+    "wins": 134
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 23,
+      "goalsFor": 6,
+      "losses": 7,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 43,
+      "goalsFor": 17,
+      "losses": 12,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "congo",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-10-14-mar-congo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "congo",
+      "date": "2025-10-08",
+      "homeScore": 3,
+      "homeTeamId": "niger",
+      "matchId": "int-2025-10-08-niger-congo",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tanzania",
+      "date": "2025-09-05",
+      "homeScore": 1,
+      "homeTeamId": "congo",
+      "matchId": "int-2025-09-05-congo-tanzania",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "uganda",
+      "date": "2024-11-19",
+      "homeScore": 0,
+      "homeTeamId": "congo",
+      "matchId": "int-2024-11-19-congo-uganda",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "congo",
+      "date": "2024-11-14",
+      "homeScore": 3,
+      "homeTeamId": "south-sudan",
+      "matchId": "int-2024-11-14-south-sudan-congo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 62,
+      "goalsAgainst": 371,
+      "goalsFor": 325,
+      "losses": 114,
+      "matches": 267,
+      "wins": 91
+    },
+    "friendly": {
+      "draws": 37,
+      "goalsAgainst": 227,
+      "goalsFor": 198,
+      "losses": 59,
+      "matches": 139,
+      "wins": 43
+    },
+    "neutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 118,
+      "goalsFor": 118,
+      "losses": 34,
+      "matches": 79,
+      "wins": 32
+    },
+    "nonNeutralVenue": {
+      "draws": 86,
+      "goalsAgainst": 480,
+      "goalsFor": 405,
+      "losses": 139,
+      "matches": 327,
+      "wins": 102
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "congo",
+  "teamName": "Congo",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "jean-michel-m-bono",
+      "scorer": "Jean-Michel M'Bono"
+    },
+    {
+      "goals": 6,
+      "playerKey": "thievy-bifouma",
+      "scorer": "Thievy Bifouma"
+    },
+    {
+      "goals": 4,
+      "playerKey": "armel-disney",
+      "scorer": "Armel Disney"
+    },
+    {
+      "goals": 3,
+      "playerKey": "fran-ois-m-pel",
+      "scorer": "François M'Pelé"
+    },
+    {
+      "goals": 3,
+      "playerKey": "macchambes-younga-mouhani",
+      "scorer": "Macchambes Younga-Mouhani"
+    },
+    {
+      "goals": 2,
+      "playerKey": "chris-malonga",
+      "scorer": "Chris Malonga"
+    },
+    {
+      "goals": 2,
+      "playerKey": "christ-bongo",
+      "scorer": "Christ Bongo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "edson-minga",
+      "scorer": "Edson Minga"
+    },
+    {
+      "goals": 2,
+      "playerKey": "fabrice-ondama",
+      "scorer": "Fabrice Ondama"
+    },
+    {
+      "goals": 2,
+      "playerKey": "f-r-bory-dor",
+      "scorer": "Férébory Doré"
+    }
+  ]
+}

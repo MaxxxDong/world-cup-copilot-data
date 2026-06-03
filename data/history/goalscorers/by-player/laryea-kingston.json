@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "libya",
+      "date": "2008-06-01",
+      "goalId": "goal-2008-06-01-ghana-libya-27789",
+      "homeTeamId": "ghana",
+      "matchKey": "2008-06-01-ghana-libya",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Laryea Kingston",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "2008-06-08",
+      "goalId": "goal-2008-06-08-lesotho-ghana-27898",
+      "homeTeamId": "lesotho",
+      "matchKey": "2008-06-08-lesotho-ghana",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Laryea Kingston",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    }
+  ],
+  "normalizedScorer": "laryea kingston",
+  "playerKey": "laryea-kingston",
+  "scorer": "Laryea Kingston",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ghana"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1996-11-06",
+      "goalId": "goal-1996-11-06-mex-honduras-16429",
+      "homeTeamId": "mex",
+      "matchKey": "1996-11-06-mex-honduras",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Enrique Reneau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    },
+    {
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "1996-11-17",
+      "goalId": "goal-1996-11-17-honduras-saint-vincent-and-the-grenadines-16562",
+      "homeTeamId": "honduras",
+      "matchKey": "1996-11-17-honduras-saint-vincent-and-the-grenadines",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Enrique Reneau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    }
+  ],
+  "normalizedScorer": "enrique reneau",
+  "playerKey": "enrique-reneau",
+  "scorer": "Enrique Reneau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "honduras"
+  ]
+}

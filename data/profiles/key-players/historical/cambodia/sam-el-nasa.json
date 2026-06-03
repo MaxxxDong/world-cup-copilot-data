@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2007-10-28",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1984-04-25",
+    "nationality": "Cambodia",
+    "playerKey": "sam-el-nasa",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "85467543",
+      "footballdatabase_eu": "53872",
+      "national_football_teams": "1219",
+      "sofascore": "860887",
+      "sofifa": "182832",
+      "transfermarkt": "69774",
+      "wikidata": "Q7407445"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-06-29",
+  "playerKey": "sam-el-nasa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-cambodia-laos-30595",
+      "matchKey": "2011-06-29-cambodia-laos",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sam El Nasa"
+    },
+    {
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-cambodia-laos-30592",
+      "matchKey": "2011-06-29-cambodia-laos",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sam El Nasa"
+    },
+    {
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-turkmenistan-cambodia-27327",
+      "matchKey": "2007-10-28-turkmenistan-cambodia",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sam El Nasa"
+    }
+  ],
+  "scorer": "Sam El Nasa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cambodia",
+  "teamName": "Cambodia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

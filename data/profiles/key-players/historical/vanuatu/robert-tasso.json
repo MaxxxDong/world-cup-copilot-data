@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2012-06-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1989-12-18",
+    "nationality": "Vanuatu",
+    "playerKey": "robert-tasso",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "7d6d47ea",
+      "footballdatabase_eu": "170030",
+      "national_football_teams": "44243",
+      "soccerway": "195173",
+      "transfermarkt": "194237",
+      "wikidata": "Q3938439"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-05",
+  "playerKey": "robert-tasso",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-05",
+      "goalId": "goal-2012-06-05-tahiti-vanuatu-31835",
+      "matchKey": "2012-06-05-tahiti-vanuatu",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso"
+    },
+    {
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-vanuatu-samoa-31816",
+      "matchKey": "2012-06-03-vanuatu-samoa",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso"
+    },
+    {
+      "date": "2012-06-01",
+      "goalId": "goal-2012-06-01-vanuatu-new-caledonia-31749",
+      "matchKey": "2012-06-01-vanuatu-new-caledonia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Tasso"
+    }
+  ],
+  "scorer": "Robert Tasso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "vanuatu",
+  "teamName": "Vanuatu",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "2013-06-07",
+      "goalId": "goal-2013-06-07-albania-norway-32763",
+      "homeTeamId": "albania",
+      "matchKey": "2013-06-07-albania-norway",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valdet Rama",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-iceland-albania-33266",
+      "homeTeamId": "iceland",
+      "matchKey": "2013-09-10-iceland-albania",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valdet Rama",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    }
+  ],
+  "normalizedScorer": "valdet rama",
+  "playerKey": "valdet-rama",
+  "scorer": "Valdet Rama",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania"
+  ]
+}

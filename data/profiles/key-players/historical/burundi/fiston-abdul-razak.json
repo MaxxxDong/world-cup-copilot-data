@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2015-10-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1993-03-01",
+    "nationality": "Burundi",
+    "playerKey": "fiston-abdul-razak",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "128313",
+      "kicker": "abdul-razak-fiston",
+      "national_football_teams": "35896",
+      "soccerway": "183199",
+      "sofifa": "393015",
+      "transfermarkt": "340033",
+      "wikidata": "Q16145946",
+      "worldfootball": "fiston-razak"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-08",
+  "playerKey": "fiston-abdul-razak",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-08",
+      "goalId": "goal-2019-09-08-tanzania-burundi-38975",
+      "matchKey": "2019-09-08-tanzania-burundi",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fiston Abdul Razak"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-burundi-seychelles-35172",
+      "matchKey": "2015-10-13-burundi-seychelles",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fiston Abdul Razak"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-burundi-seychelles-35171",
+      "matchKey": "2015-10-13-burundi-seychelles",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fiston Abdul Razak"
+    },
+    {
+      "date": "2015-10-07",
+      "goalId": "goal-2015-10-07-seychelles-burundi-34955",
+      "matchKey": "2015-10-07-seychelles-burundi",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fiston Abdul Razak"
+    }
+  ],
+  "scorer": "Fiston Abdul Razak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "burundi",
+  "teamName": "Burundi",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

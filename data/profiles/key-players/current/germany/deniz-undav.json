@@ -1,0 +1,104 @@
+{
+  "club": "VfB Stuttgart (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1996-07-19",
+    "nationality": "Germany",
+    "playerKey": "deniz-undav",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "269447",
+      "api_football": "26475",
+      "capology": "deniz-undav-35265",
+      "dongqiudi": "50238001",
+      "espn": "273300",
+      "eu_football_info": "32675",
+      "fbref": "dd549382",
+      "footballdatabase_eu": "303645",
+      "heimspiel": "398306",
+      "impect": "44929",
+      "kicker": "deniz-undav",
+      "lequipe": "88776",
+      "opta": "6rutvrgco8li4nyz7tfayxb6x",
+      "opta_numeric": "450434",
+      "premier_league": "114957",
+      "skillcorner": "60012",
+      "soccerbase": "111948",
+      "soccerway": "403237",
+      "sofascore": "794298",
+      "statmuse_pl": "7184",
+      "thesportsdb": "34200113",
+      "transfermarkt": "339314",
+      "uefa": "250194673",
+      "understat": "10804",
+      "whoscored": "357091",
+      "wikidata": "Q55955918",
+      "worldfootball": "deniz-undav",
+      "wyscout": "373581"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Deniz Undav",
+  "playerKey": "deniz-undav",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-bosnia-and-herzegovina-germany-45442",
+      "matchKey": "2024-10-11-bosnia-and-herzegovina-germany",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deniz Undav"
+    },
+    {
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-bosnia-and-herzegovina-germany-45441",
+      "matchKey": "2024-10-11-bosnia-and-herzegovina-germany",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deniz Undav"
+    },
+    {
+      "date": "2024-09-10",
+      "goalId": "goal-2024-09-10-netherlands-germany-45354",
+      "matchKey": "2024-09-10-netherlands-germany",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deniz Undav"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=20"
+  },
+  "shirtNumber": 26,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=20"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "germany",
+  "teamName": "Germany"
+}

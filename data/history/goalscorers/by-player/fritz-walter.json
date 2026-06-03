@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1953-08-19",
+      "goalId": "goal-1953-08-19-norway-germany-2042",
+      "homeTeamId": "norway",
+      "matchKey": "1953-08-19-norway-germany",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fritz Walter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1953-11-22",
+      "goalId": "goal-1953-11-22-germany-norway-2116",
+      "homeTeamId": "germany",
+      "matchKey": "1953-11-22-germany-norway",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fritz Walter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "1954-06-23",
+      "goalId": "goal-1954-06-23-germany-turkey-2291",
+      "homeTeamId": "germany",
+      "matchKey": "1954-06-23-germany-turkey",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fritz Walter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1954-06-30",
+      "goalId": "goal-1954-06-30-austria-germany-2329",
+      "homeTeamId": "austria",
+      "matchKey": "1954-06-30-austria-germany",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fritz Walter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1954-06-30",
+      "goalId": "goal-1954-06-30-austria-germany-2331",
+      "homeTeamId": "austria",
+      "matchKey": "1954-06-30-austria-germany",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Fritz Walter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "fritz walter",
+  "playerKey": "fritz-walter",
+  "scorer": "Fritz Walter",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

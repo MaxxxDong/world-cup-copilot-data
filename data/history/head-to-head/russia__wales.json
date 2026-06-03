@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 10,
+    "teamAGoals": 12,
+    "teamAWins": 5,
+    "teamBGoals": 8,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "wales",
+    "date": "2016-06-20",
+    "homeScore": 0,
+    "homeTeamId": "russia",
+    "matchId": "int-2016-06-20-russia-wales",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "wales",
+      "date": "1965-05-30",
+      "homeScore": 2,
+      "homeTeamId": "russia",
+      "matchId": "int-1965-05-30-russia-wales",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "1965-10-27",
+      "homeScore": 2,
+      "homeTeamId": "wales",
+      "matchId": "int-1965-10-27-wales-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "russia",
+      "date": "1981-05-30",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-1981-05-30-wales-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "1981-11-18",
+      "homeScore": 3,
+      "homeTeamId": "russia",
+      "matchId": "int-1981-11-18-russia-wales",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "russia",
+      "date": "1987-02-18",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-1987-02-18-wales-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "wales",
+      "date": "2003-11-15",
+      "homeScore": 0,
+      "homeTeamId": "russia",
+      "matchId": "int-2003-11-15-russia-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "russia",
+      "date": "2003-11-19",
+      "homeScore": 0,
+      "homeTeamId": "wales",
+      "matchId": "int-2003-11-19-wales-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "wales",
+      "date": "2008-09-10",
+      "homeScore": 2,
+      "homeTeamId": "russia",
+      "matchId": "int-2008-09-10-russia-wales",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "russia",
+      "date": "2009-09-09",
+      "homeScore": 1,
+      "homeTeamId": "wales",
+      "matchId": "int-2009-09-09-wales-russia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "wales",
+      "date": "2016-06-20",
+      "homeScore": 0,
+      "homeTeamId": "russia",
+      "matchId": "int-2016-06-20-russia-wales",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    }
+  ],
+  "pairKey": "russia__wales",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 9,
+      "teamAGoals": 12,
+      "teamAWins": 5,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "russia",
+  "teamBId": "wales"
+}

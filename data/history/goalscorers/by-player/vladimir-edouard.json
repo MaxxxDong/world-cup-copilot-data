@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bahamas",
+      "date": "2000-04-01",
+      "goalId": "goal-2000-04-01-haiti-bahamas-19464",
+      "homeTeamId": "haiti",
+      "matchKey": "2000-04-01-haiti-bahamas",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Edouard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2000-04-16",
+      "goalId": "goal-2000-04-16-bahamas-haiti-19519",
+      "homeTeamId": "bahamas",
+      "matchKey": "2000-04-16-bahamas-haiti",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Edouard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2000-04-16",
+      "goalId": "goal-2000-04-16-bahamas-haiti-19520",
+      "homeTeamId": "bahamas",
+      "matchKey": "2000-04-16-bahamas-haiti",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladimir Edouard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "haiti"
+    }
+  ],
+  "normalizedScorer": "vladimir edouard",
+  "playerKey": "vladimir-edouard",
+  "scorer": "Vladimir Edouard",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "haiti"
+  ]
+}

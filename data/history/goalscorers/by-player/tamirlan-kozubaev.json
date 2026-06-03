@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tajikistan",
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-kyrgyzstan-tajikistan-39567",
+      "homeTeamId": "kyrgyzstan",
+      "matchKey": "2019-11-19-kyrgyzstan-tajikistan",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tamirlan Kozubaev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kyrgyzstan"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-qatar-kyrgyzstan-45432",
+      "homeTeamId": "qatar",
+      "matchKey": "2024-10-10-qatar-kyrgyzstan",
+      "minute": 63,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Tamirlan Kozubaev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "tamirlan kozubaev",
+  "playerKey": "tamirlan-kozubaev",
+  "scorer": "Tamirlan Kozubaev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kyrgyzstan",
+    "qatar"
+  ]
+}

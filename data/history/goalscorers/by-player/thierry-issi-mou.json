@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "angola",
+      "date": "2004-07-03",
+      "goalId": "goal-2004-07-03-gabon-angola-24030",
+      "homeTeamId": "gabon",
+      "matchKey": "2004-07-03-gabon-angola",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thierry Issiémou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-gabon-nigeria-24577",
+      "homeTeamId": "gabon",
+      "matchKey": "2004-10-09-gabon-nigeria",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thierry Issiémou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gabon"
+    }
+  ],
+  "normalizedScorer": "thierry issi mou",
+  "playerKey": "thierry-issi-mou",
+  "scorer": "Thierry Issiémou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gabon"
+  ]
+}

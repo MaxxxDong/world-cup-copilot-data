@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "madagascar",
+      "date": "2001-04-22",
+      "goalId": "goal-2001-04-22-dr-congo-madagascar-20911",
+      "homeTeamId": "dr-congo",
+      "matchKey": "2001-04-22-dr-congo-madagascar",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mawa Inunu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "mawa inunu",
+  "playerKey": "mawa-inunu",
+  "scorer": "Mawa Inunu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

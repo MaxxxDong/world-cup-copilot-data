@@ -1,0 +1,84 @@
+{
+  "club": "She eld United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2005-01-27",
+    "nationality": "New Zealand",
+    "playerKey": "tyler-bindon",
+    "position": "centre-back",
+    "providerIds": {
+      "api_football": "430835",
+      "espn": "367427",
+      "footballdatabase_eu": "534233",
+      "heimspiel": "1052195",
+      "impect": "170059",
+      "kicker": "tyler-bindon",
+      "national_football_teams": "92604",
+      "opta": "8xn060vi8ku2xtl75cx38awb8",
+      "skillcorner": "731450",
+      "soccerbase": "181965",
+      "soccerway": "701333",
+      "sofascore": "1514870",
+      "thesportsdb": "34222101",
+      "transfermarkt": "1007720",
+      "wikidata": "Q121353909",
+      "worldfootball": "tyler-bindon",
+      "wyscout": "960010"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Tyler Bindon",
+  "playerKey": "tyler-bindon",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-new-zealand-fiji-45981",
+      "matchKey": "2025-03-21-new-zealand-fiji",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tyler Bindon"
+    },
+    {
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-new-zealand-vanuatu-45669",
+      "matchKey": "2024-11-15-new-zealand-vanuatu",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tyler Bindon"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-zealand",
+  "teamName": "New Zealand"
+}

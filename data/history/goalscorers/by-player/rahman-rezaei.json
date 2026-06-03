@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "2005-06-03",
+      "goalId": "goal-2005-06-03-iran-north-korea-25176",
+      "homeTeamId": "iran",
+      "matchKey": "2005-06-03-iran-north-korea",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rahman Rezaei",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "2007-07-11",
+      "goalId": "goal-2007-07-11-iran-uzbekistan-26868",
+      "homeTeamId": "iran",
+      "matchKey": "2007-07-11-iran-uzbekistan",
+      "minute": 16,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Rahman Rezaei",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uzbekistan"
+    }
+  ],
+  "normalizedScorer": "rahman rezaei",
+  "playerKey": "rahman-rezaei",
+  "scorer": "Rahman Rezaei",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran",
+    "uzbekistan"
+  ]
+}

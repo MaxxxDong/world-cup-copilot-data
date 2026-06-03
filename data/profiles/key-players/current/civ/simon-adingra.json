@@ -1,0 +1,103 @@
+{
+  "club": "AS Monaco (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2002-01-01",
+    "nationality": "Ivory Coast",
+    "playerKey": "simon-adingra",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "270617",
+      "api_football": "301771",
+      "espn": "317404",
+      "fbref": "4dcec659",
+      "footballdatabase_eu": "440492",
+      "heimspiel": "677614",
+      "impect": "78904",
+      "kicker": "simon-adingra",
+      "lequipe": "97482",
+      "national_football_teams": "91310",
+      "opta": "ai5p5wgft6c09bjbldz9sfeac",
+      "opta_numeric": "535818",
+      "premier_league": "126317",
+      "skillcorner": "42613",
+      "soccerbase": "138900",
+      "soccerway": "688732",
+      "sofascore": "1110842",
+      "sportmonks": "37555816",
+      "statmuse_pl": "6865",
+      "thesportsdb": "34199659",
+      "transfermarkt": "658536",
+      "uefa": "250174749",
+      "understat": "11710",
+      "whoscored": "443004",
+      "wikidata": "Q107742783",
+      "worldfootball": "simon-adingra",
+      "wyscout": "552926"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Simon Adingra",
+  "playerKey": "simon-adingra",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47018",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra"
+    },
+    {
+      "date": "2024-02-03",
+      "goalId": "goal-2024-02-03-civ-mali-44425",
+      "matchKey": "2024-02-03-civ-mali",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra"
+    },
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43965",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 10,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 7,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "rwanda",
+    "date": "2025-09-09",
+    "homeScore": 0,
+    "homeTeamId": "zimbabwe",
+    "matchId": "int-2025-09-09-zimbabwe-rwanda",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "zimbabwe",
+      "date": "2000-10-30",
+      "homeScore": 1,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2000-10-30-rwanda-zimbabwe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zimbabwe",
+      "date": "2003-10-31",
+      "homeScore": 2,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2003-10-31-rwanda-zimbabwe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Afro-Asian Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zimbabwe",
+      "date": "2004-07-03",
+      "homeScore": 0,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2004-07-03-rwanda-zimbabwe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "rwanda",
+      "date": "2005-09-04",
+      "homeScore": 3,
+      "homeTeamId": "zimbabwe",
+      "matchId": "int-2005-09-04-zimbabwe-rwanda",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zimbabwe",
+      "date": "2011-11-29",
+      "homeScore": 2,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2011-11-29-rwanda-zimbabwe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zimbabwe",
+      "date": "2023-11-15",
+      "homeScore": 0,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2023-11-15-rwanda-zimbabwe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "rwanda",
+      "date": "2025-09-09",
+      "homeScore": 0,
+      "homeTeamId": "zimbabwe",
+      "matchId": "int-2025-09-09-zimbabwe-rwanda",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "rwanda__zimbabwe",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 3,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "rwanda",
+  "teamBId": "zimbabwe"
+}

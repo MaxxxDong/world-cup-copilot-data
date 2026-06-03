@@ -1,0 +1,94 @@
+{
+  "firstGoalDate": "2000-04-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1979-12-28",
+    "nationality": "Libya",
+    "playerKey": "ahmed-al-masli",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "15464",
+      "national_football_teams": "3847",
+      "soccerway": "224052",
+      "transfermarkt": "63337",
+      "wikidata": "Q2827552"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2003-11-16",
+  "playerKey": "ahmed-al-masli",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-libya-sao-tome-and-principe-23183",
+      "matchKey": "2003-11-16-libya-sao-tome-and-principe",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al Masli"
+    },
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-libya-sao-tome-and-principe-23182",
+      "matchKey": "2003-11-16-libya-sao-tome-and-principe",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al Masli"
+    },
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-libya-sao-tome-and-principe-23181",
+      "matchKey": "2003-11-16-libya-sao-tome-and-principe",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al Masli"
+    },
+    {
+      "date": "2003-10-11",
+      "goalId": "goal-2003-10-11-sao-tome-and-principe-libya-23094",
+      "matchKey": "2003-10-11-sao-tome-and-principe-libya",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al Masli"
+    },
+    {
+      "date": "2000-04-09",
+      "goalId": "goal-2000-04-09-libya-mali-19512",
+      "matchKey": "2000-04-09-libya-mali",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Al Masli"
+    }
+  ],
+  "scorer": "Ahmed Al Masli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "libya",
+  "teamName": "Libya",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "moldova",
+    "date": "2022-03-29",
+    "homeScore": 0,
+    "homeTeamId": "kazakhstan",
+    "matchId": "int-2022-03-29-kazakhstan-moldova",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2008-02-06",
+      "homeScore": 0,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2008-02-06-kazakhstan-moldova",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2010-03-03",
+      "homeScore": 0,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2010-03-03-kazakhstan-moldova",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "kazakhstan",
+      "date": "2013-02-06",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2013-02-06-moldova-kazakhstan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2015-02-18",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2015-02-18-kazakhstan-moldova",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "moldova",
+      "date": "2019-02-21",
+      "homeScore": 1,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2019-02-21-kazakhstan-moldova",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kazakhstan",
+      "date": "2022-03-24",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2022-03-24-moldova-kazakhstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "moldova",
+      "date": "2022-03-29",
+      "homeScore": 0,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2022-03-29-kazakhstan-moldova",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "kazakhstan__moldova",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 1,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kazakhstan",
+  "teamBId": "moldova"
+}

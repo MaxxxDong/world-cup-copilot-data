@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2021-10-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1998-05-10",
+    "nationality": "Uganda",
+    "playerKey": "fahad-bayo",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "7a0d9747",
+      "footballdatabase_eu": "350519",
+      "national_football_teams": "70820",
+      "soccerway": "630371",
+      "sofascore": "1006193",
+      "transfermarkt": "569035",
+      "wikidata": "Q56651140"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-11-17",
+  "playerKey": "fahad-bayo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-guinea-uganda-43954",
+      "matchKey": "2023-11-17-guinea-uganda",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fahad Bayo"
+    },
+    {
+      "date": "2021-11-11",
+      "goalId": "goal-2021-11-11-uganda-kenya-41881",
+      "matchKey": "2021-11-11-uganda-kenya",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fahad Bayo"
+    },
+    {
+      "date": "2021-10-10",
+      "goalId": "goal-2021-10-10-uganda-rwanda-41659",
+      "matchKey": "2021-10-10-uganda-rwanda",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fahad Bayo"
+    },
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-rwanda-uganda-41502",
+      "matchKey": "2021-10-07-rwanda-uganda",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fahad Bayo"
+    }
+  ],
+  "scorer": "Fahad Bayo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uganda",
+  "teamName": "Uganda",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

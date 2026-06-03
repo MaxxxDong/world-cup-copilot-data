@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2000-06-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1981-09-14",
+    "nationality": "Cook Islands",
+    "playerKey": "daniel-shepherd",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "64120",
+      "national_football_teams": "1589",
+      "soccerway": "236135",
+      "sofascore": "1165379",
+      "sofifa": "184489",
+      "transfermarkt": "75787",
+      "wikidata": "Q31189267"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-06-21",
+  "playerKey": "daniel-shepherd",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-06-21",
+      "goalId": "goal-2000-06-21-solomon-islands-cook-islands-19807",
+      "matchKey": "2000-06-21-solomon-islands-cook-islands",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Shepherd"
+    }
+  ],
+  "scorer": "Daniel Shepherd",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cook-islands",
+  "teamName": "Cook Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

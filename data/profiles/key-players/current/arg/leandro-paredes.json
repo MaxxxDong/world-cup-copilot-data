@@ -1,0 +1,82 @@
+{
+  "club": "CA Boca Juniors (ARG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1994-06-29",
+    "nationality": "Argentina",
+    "playerKey": "leandro-paredes",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "271",
+      "capology": "leandro-paredes-34514",
+      "dongqiudi": "50106791",
+      "espn": "153115",
+      "fbref": "dff153a4",
+      "footballdatabase_eu": "121638",
+      "heimspiel": "233745",
+      "impect": "8871",
+      "kicker": "leandro-paredes",
+      "lequipe": "47797",
+      "national_football_teams": "68382",
+      "opta": "apdtqouzo9b02ozdxk8mx4zbp",
+      "opta_numeric": "91080",
+      "serie_a": "leandro-paredes-100361",
+      "skillcorner": "6096",
+      "soccerbase": "75352",
+      "soccerway": "163887",
+      "sofascore": "255389",
+      "thesportsdb": "34147236",
+      "transfermarkt": "166237",
+      "uefa": "250075844",
+      "wikidata": "Q630170",
+      "worldfootball": "leandro-paredes",
+      "wyscout": "86195"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Leandro Paredes",
+  "playerKey": "leandro-paredes",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-colombia-arg-40656",
+      "matchKey": "2021-06-08-colombia-arg",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leandro Paredes"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "arg",
+  "teamName": "Argentina"
+}

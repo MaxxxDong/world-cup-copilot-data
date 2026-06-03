@@ -1,0 +1,80 @@
+{
+  "club": "Toronto FC (CAN)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1995-01-07",
+    "nationality": "Canada",
+    "playerKey": "richie-laryea",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "50816",
+      "capology": "richie-laryea-34706",
+      "espn": "230626",
+      "fbref": "276fdbe4",
+      "flashscore": "laryea-richie/nT1BbXIh",
+      "footballdatabase_eu": "284730",
+      "heimspiel": "437133",
+      "impect": "49558",
+      "kicker": "richie-laryea",
+      "national_football_teams": "75430",
+      "opta": "4vrd6vji126bw8l1q6wxe0cfd",
+      "opta_numeric": "221403",
+      "skillcorner": "24254",
+      "soccerbase": "100079",
+      "soccerway": "437556",
+      "sofascore": "829207",
+      "thesportsdb": "34180209",
+      "transfermarkt": "417348",
+      "whoscored": "313012",
+      "wikidata": "Q22096162",
+      "worldfootball": "richie-laryea",
+      "wyscout": "420084"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Richie Laryea",
+  "playerKey": "richie-laryea",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-03-25",
+      "goalId": "goal-2021-03-25-canada-bermuda-40127",
+      "matchKey": "2021-03-25-canada-bermuda",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Richie Laryea"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 22,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

@@ -1,0 +1,106 @@
+{
+  "club": "Leeds United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2000-10-22",
+    "fullName": "Brenden Russell Aaronson",
+    "nationality": "United States",
+    "playerKey": "brenden-aaronson",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "264759",
+      "api_football": "50739",
+      "capology": "brenden-aaronson-36821",
+      "espn": "259653",
+      "fbref": "5bc43860",
+      "footballdatabase_eu": "340124",
+      "fotmob": "952322",
+      "heimspiel": "527395",
+      "impect": "42376",
+      "kicker": "brenden-aaronson",
+      "lequipe": "72242",
+      "national_football_teams": "76742",
+      "opta": "8rrcscn29rs1gk8mi1pwpu92i",
+      "opta_numeric": "427637",
+      "premier_league": "63289",
+      "skillcorner": "27183",
+      "soccerbase": "118287",
+      "soccerway": "490587",
+      "sofascore": "973431",
+      "sportmonks": "4552689",
+      "statmuse_pl": "7228",
+      "thesportsdb": "34174227",
+      "transfermarkt": "393323",
+      "uefa": "250153214",
+      "understat": "10751",
+      "whoscored": "371012",
+      "wikidata": "Q33129609",
+      "worldfootball": "brenden-aaronson",
+      "wyscout": "512281"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Brenden Aaronson",
+  "playerKey": "brenden-aaronson",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-15",
+      "goalId": "goal-2025-06-15-usa-trinidad-and-tobago-46467",
+      "matchKey": "2025-06-15-usa-trinidad-and-tobago",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson"
+    },
+    {
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41424",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson"
+    },
+    {
+      "date": "2021-09-05",
+      "goalId": "goal-2021-09-05-usa-canada-41309",
+      "matchKey": "2021-09-05-usa-canada",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "civ",
+      "date": "1972-10-15",
+      "goalId": "goal-1972-10-15-sierra-leone-civ-6441",
+      "homeTeamId": "sierra-leone",
+      "matchKey": "1972-10-15-sierra-leone-civ",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mama Ouattara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "1972-10-29",
+      "goalId": "goal-1972-10-29-civ-sierra-leone-6467",
+      "homeTeamId": "civ",
+      "matchKey": "1972-10-29-civ-sierra-leone",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mama Ouattara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "mama ouattara",
+  "playerKey": "mama-ouattara",
+  "scorer": "Mama Ouattara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

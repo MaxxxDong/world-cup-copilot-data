@@ -1,0 +1,80 @@
+{
+  "firstGoalDate": "2019-10-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1992-10-12",
+    "nationality": "Kyrgyzstan",
+    "playerKey": "valery-kichin",
+    "position": "full-back",
+    "providerIds": {
+      "fbref": "a1a205f7",
+      "footballdatabase_eu": "145552",
+      "kicker": "valerii-kichin",
+      "national_football_teams": "43531",
+      "soccerway": "129883",
+      "sofifa": "347190",
+      "transfermarkt": "211878",
+      "wikidata": "Q7911371",
+      "worldfootball": "valerii-kicin"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-25",
+  "playerKey": "valery-kichin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-kyrgyzstan-qatar-46169",
+      "matchKey": "2025-03-25-kyrgyzstan-qatar",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valery Kichin"
+    },
+    {
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-taiwan-kyrgyzstan-44507",
+      "matchKey": "2024-03-21-taiwan-kyrgyzstan",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Valery Kichin"
+    },
+    {
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-kyrgyzstan-myanmar-39158",
+      "matchKey": "2019-10-10-kyrgyzstan-myanmar",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valery Kichin"
+    }
+  ],
+  "scorer": "Valery Kichin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

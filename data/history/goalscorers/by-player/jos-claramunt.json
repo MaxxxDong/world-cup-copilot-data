@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1973-01-17",
+      "goalId": "goal-1973-01-17-greece-spain-6519",
+      "homeTeamId": "greece",
+      "matchKey": "1973-01-17-greece-spain",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Claramunt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1973-02-21",
+      "goalId": "goal-1973-02-21-spain-greece-6559",
+      "homeTeamId": "spain",
+      "matchKey": "1973-02-21-spain-greece",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Claramunt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1974-09-25",
+      "goalId": "goal-1974-09-25-denmark-spain-7102",
+      "homeTeamId": "denmark",
+      "matchKey": "1974-09-25-denmark-spain",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "José Claramunt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "jos claramunt",
+  "playerKey": "jos-claramunt",
+  "scorer": "José Claramunt",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

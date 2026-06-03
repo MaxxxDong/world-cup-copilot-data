@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "1953-06-24",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1929-01-03",
+    "nationality": "Germany",
+    "playerKey": "werner-otto",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "15771",
+      "footballdatabase_eu": "46182",
+      "german_fa": "128562",
+      "national_football_teams": "36387",
+      "transfermarkt": "289278",
+      "wikidata": "Q4019027",
+      "worldfootball": "werner-otto"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1953-06-24",
+  "playerKey": "werner-otto",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1953-06-24",
+      "goalId": "goal-1953-06-24-norway-saarland-2017",
+      "matchKey": "1953-06-24-norway-saarland",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Werner Otto"
+    }
+  ],
+  "scorer": "Werner Otto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saarland",
+  "teamName": "Saarland",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-el-salvador-antigua-and-barbuda-40662",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2021-06-08-el-salvador-antigua-and-barbuda",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eriq Zavaleta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-jamaica-el-salvador-42348",
+      "homeTeamId": "jamaica",
+      "matchKey": "2022-03-24-jamaica-el-salvador",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eriq Zavaleta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "eriq zavaleta",
+  "playerKey": "eriq-zavaleta",
+  "scorer": "Eriq Zavaleta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador"
+  ]
+}

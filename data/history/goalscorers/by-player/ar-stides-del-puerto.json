@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1966-12-28",
+      "goalId": "goal-1966-12-28-paraguay-ecuador-4792",
+      "homeTeamId": "paraguay",
+      "matchKey": "1966-12-28-paraguay-ecuador",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arístides del Puerto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1967-01-25",
+      "goalId": "goal-1967-01-25-paraguay-bolivia-4822",
+      "homeTeamId": "paraguay",
+      "matchKey": "1967-01-25-paraguay-bolivia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arístides del Puerto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "ar stides del puerto",
+  "playerKey": "ar-stides-del-puerto",
+  "scorer": "Arístides del Puerto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

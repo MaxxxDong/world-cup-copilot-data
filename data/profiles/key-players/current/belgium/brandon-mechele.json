@@ -1,0 +1,80 @@
+{
+  "club": "Club Brugge (BEL)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1993-01-28",
+    "nationality": "Belgium",
+    "playerKey": "brandon-mechele",
+    "position": "centre-back",
+    "providerIds": {
+      "api_football": "69",
+      "capology": "brandon-mechele-33997",
+      "espn": "191222",
+      "eu_football_info": "30794",
+      "fbref": "0a6dbbf7",
+      "footballdatabase_eu": "200426",
+      "heimspiel": "297574",
+      "impect": "5471",
+      "kicker": "brandon-mechele",
+      "national_football_teams": "75824",
+      "opta": "l6y4o9t2b0jxaxo85oztok45",
+      "skillcorner": "1441",
+      "soccerbase": "70042",
+      "soccerway": "295563",
+      "sofascore": "248331",
+      "sofifa": "201131328",
+      "thesportsdb": "34148993",
+      "transfermarkt": "236168",
+      "uefa": "250053044",
+      "wikidata": "Q13444905",
+      "worldfootball": "brandon-mechele",
+      "wyscout": "261984"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Brandon Mechele",
+  "playerKey": "brandon-mechele",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-belgium-liechtenstein-47382",
+      "matchKey": "2025-11-18-belgium-liechtenstein",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brandon Mechele"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belgium",
+  "teamName": "Belgium"
+}

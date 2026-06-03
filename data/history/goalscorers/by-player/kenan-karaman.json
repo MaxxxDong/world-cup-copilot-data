@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2020-10-11",
+      "goalId": "goal-2020-10-11-russia-turkey-39813",
+      "homeTeamId": "russia",
+      "matchKey": "2020-10-11-russia-turkey",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kenan Karaman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2020-11-15",
+      "goalId": "goal-2020-11-15-turkey-russia-39968",
+      "homeTeamId": "turkey",
+      "matchKey": "2020-11-15-turkey-russia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kenan Karaman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-turkey-latvia-40372",
+      "homeTeamId": "turkey",
+      "matchKey": "2021-03-30-turkey-latvia",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kenan Karaman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2021-09-04",
+      "goalId": "goal-2021-09-04-gibraltar-turkey-41231",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2021-09-04-gibraltar-turkey",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kenan Karaman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "kenan karaman",
+  "playerKey": "kenan-karaman",
+  "scorer": "Kenan Karaman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

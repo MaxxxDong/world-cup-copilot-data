@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vietnam-republic",
+      "date": "1960-10-14",
+      "goalId": "goal-1960-10-14-south-korea-vietnam-republic-3344",
+      "homeTeamId": "south-korea",
+      "matchKey": "1960-10-14-south-korea-vietnam-republic",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moon Jung-sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "1960-10-21",
+      "goalId": "goal-1960-10-21-south-korea-taiwan-3369",
+      "homeTeamId": "south-korea",
+      "matchKey": "1960-10-21-south-korea-taiwan",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moon Jung-sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "moon jung sik",
+  "playerKey": "moon-jung-sik",
+  "scorer": "Moon Jung-sik",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

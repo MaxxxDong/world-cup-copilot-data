@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-bulgaria-italy-40249",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2021-03-28-bulgaria-italy",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Locatelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "2021-06-16",
+      "goalId": "goal-2021-06-16-italy-switzerland-40834",
+      "homeTeamId": "italy",
+      "matchKey": "2021-06-16-italy-switzerland",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Locatelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "2021-06-16",
+      "goalId": "goal-2021-06-16-italy-switzerland-40835",
+      "homeTeamId": "italy",
+      "matchKey": "2021-06-16-italy-switzerland",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Locatelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-israel-italy-46760",
+      "homeTeamId": "israel",
+      "matchKey": "2025-09-08-israel-italy",
+      "minute": 16,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Manuel Locatelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "manuel locatelli",
+  "playerKey": "manuel-locatelli",
+  "scorer": "Manuel Locatelli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel",
+    "italy"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "club": "Al Ain FC (UAE)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1995-01-11",
+    "nationality": "Paraguay",
+    "playerKey": "alejandro-romero-gamarra",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "2514",
+      "capology": "kaku-34710",
+      "espn": "188160",
+      "fbref": "cb01ad74",
+      "footballdatabase_eu": "208647",
+      "heimspiel": "368619",
+      "impect": "11677",
+      "kicker": "kaku",
+      "national_football_teams": "71407",
+      "opta": "2xkudoxz92f1vgbjlsbfum3f9",
+      "skillcorner": "24741",
+      "soccerway": "305868",
+      "thesportsdb": "34165263",
+      "transfermarkt": "355817",
+      "wikidata": "Q19319791",
+      "worldfootball": "alejandro-romero_2",
+      "wyscout": "270339"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Alejandro Romero Gamarra",
+  "playerKey": "alejandro-romero-gamarra",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-09-09",
+      "goalId": "goal-2021-09-09-paraguay-venezuela-41454",
+      "matchKey": "2021-09-09-paraguay-venezuela",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alejandro Romero Gamarra"
+    },
+    {
+      "date": "2021-06-14",
+      "goalId": "goal-2021-06-14-paraguay-bolivia-40775",
+      "matchKey": "2021-06-14-paraguay-bolivia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alejandro Romero Gamarra"
+    },
+    {
+      "date": "2020-11-17",
+      "goalId": "goal-2020-11-17-paraguay-bolivia-40007",
+      "matchKey": "2020-11-17-paraguay-bolivia",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alejandro Romero Gamarra"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=34"
+  },
+  "shirtNumber": 17,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=34"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "paraguay",
+  "teamName": "Paraguay"
+}

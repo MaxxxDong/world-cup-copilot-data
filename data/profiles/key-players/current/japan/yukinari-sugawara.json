@@ -1,0 +1,94 @@
+{
+  "club": "SV Werder Bremen (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2000-06-28",
+    "nationality": "Japan",
+    "playerKey": "yukinari-sugawara",
+    "position": "defender",
+    "providerIds": {
+      "11v11": "266171",
+      "api_football": "32887",
+      "besoccer": "448583",
+      "capology": "yukinari-sugawara-36705",
+      "espn": "265965",
+      "fbref": "580bcd18",
+      "footballdatabase_eu": "351179",
+      "fotmob": "924610",
+      "heimspiel": "515588",
+      "impect": "27407",
+      "kicker": "yukinari-sugawara",
+      "national_football_teams": "79734",
+      "opta": "ad2qplv0aa66l11ipq6yh0hd5",
+      "opta_numeric": "219279",
+      "skillcorner": "24035",
+      "soccerbase": "121652",
+      "soccerway": "479395",
+      "sofascore": "905347",
+      "sofifa": "405528",
+      "thesportsdb": "34170380",
+      "transfermarkt": "405385",
+      "uefa": "250132201",
+      "understat": "12761",
+      "whoscored": "379783",
+      "wikidata": "Q50073536",
+      "worldfootball": "yukinari-sugawara",
+      "wyscout": "499655"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Yukinari Sugawara",
+  "playerKey": "yukinari-sugawara",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-indonesia-japan-45663",
+      "matchKey": "2024-11-15-indonesia-japan",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yukinari Sugawara"
+    },
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-syria-japan-44178",
+      "matchKey": "2023-11-21-syria-japan",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yukinari Sugawara"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+  },
+  "shirtNumber": 2,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "japan",
+  "teamName": "Japan"
+}

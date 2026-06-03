@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "1958-11-02",
+      "goalId": "goal-1958-11-02-romania-turkey-3074",
+      "homeTeamId": "romania",
+      "matchKey": "1958-11-02-romania-turkey",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gheorghe Constantin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1962-11-25",
+      "goalId": "goal-1962-11-25-romania-spain-3803",
+      "homeTeamId": "romania",
+      "matchKey": "1962-11-25-romania-spain",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gheorghe Constantin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "gheorghe constantin",
+  "playerKey": "gheorghe-constantin",
+  "scorer": "Gheorghe Constantin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

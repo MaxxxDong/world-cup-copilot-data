@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2024-06-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1996-01-22",
+    "playerKey": "jane-thabantso",
+    "providerIds": {
+      "api_football": "154978",
+      "espn": "247673",
+      "footballdatabase_eu": "259138",
+      "impect": "100918",
+      "national_football_teams": "58802",
+      "soccerway": "389765",
+      "thesportsdb": "34284778",
+      "transfermarkt": "394672",
+      "wikidata": "Q105704407"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-07",
+  "playerKey": "jane-thabantso",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-07",
+      "goalId": "goal-2024-06-07-zimbabwe-lesotho-44730",
+      "matchKey": "2024-06-07-zimbabwe-lesotho",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jane Thabantso"
+    }
+  ],
+  "scorer": "Jane Thabantso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lesotho",
+  "teamName": "Lesotho",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

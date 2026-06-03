@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1949-09-18",
+      "goalId": "goal-1949-09-18-mex-usa-1772",
+      "homeTeamId": "mex",
+      "matchKey": "1949-09-18-mex-usa",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mario Ochoa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "mario ochoa",
+  "playerKey": "mario-ochoa",
+  "scorer": "Mario Ochoa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

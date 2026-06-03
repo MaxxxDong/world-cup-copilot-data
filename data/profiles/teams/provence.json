@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Provence"
+  ],
+  "allTime": {
+    "draws": 1,
+    "goalsAgainst": 59,
+    "goalsFor": 73,
+    "losses": 14,
+    "matches": 23,
+    "wins": 8
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 20,
+      "goalsFor": 55,
+      "losses": 6,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 48,
+      "goalsFor": 72,
+      "losses": 11,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 31,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "kurdistan",
+      "date": "2013-06-28",
+      "homeScore": 0,
+      "homeTeamId": "provence",
+      "matchId": "int-2013-06-28-provence-kurdistan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "International Tournament of Peoples, Cultures and Tribes"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "quebec",
+      "date": "2013-06-25",
+      "homeScore": 1,
+      "homeTeamId": "provence",
+      "matchId": "int-2013-06-25-provence-quebec",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "International Tournament of Peoples, Cultures and Tribes"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tibet",
+      "date": "2013-06-24",
+      "homeScore": 22,
+      "homeTeamId": "provence",
+      "matchId": "int-2013-06-24-provence-tibet",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "International Tournament of Peoples, Cultures and Tribes"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "monaco",
+      "date": "2013-02-13",
+      "homeScore": 6,
+      "homeTeamId": "provence",
+      "matchId": "int-2013-02-13-provence-monaco",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "zanzibar",
+      "date": "2012-06-09",
+      "homeScore": 2,
+      "homeTeamId": "provence",
+      "matchId": "int-2012-06-09-provence-zanzibar",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 50,
+      "goalsFor": 61,
+      "losses": 12,
+      "matches": 18,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 12,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 40,
+      "goalsFor": 37,
+      "losses": 7,
+      "matches": 13,
+      "wins": 5
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 19,
+      "goalsFor": 36,
+      "losses": 7,
+      "matches": 10,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "provence",
+  "teamName": "Provence",
+  "topScorers": []
+}

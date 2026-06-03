@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "1977-03-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1952-08-13",
+    "nationality": "Malaysia",
+    "playerKey": "james-wong",
+    "position": "goalkeeper",
+    "providerIds": {
+      "sofifa": "60021",
+      "wikidata": "Q6145761"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1977-03-01",
+  "playerKey": "james-wong",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7749",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Wong"
+    },
+    {
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7748",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Wong"
+    },
+    {
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7747",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Wong"
+    },
+    {
+      "date": "1977-03-01",
+      "goalId": "goal-1977-03-01-malaysia-thailand-7743",
+      "matchKey": "1977-03-01-malaysia-thailand",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Wong"
+    }
+  ],
+  "scorer": "James Wong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malaysia",
+  "teamName": "Malaysia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

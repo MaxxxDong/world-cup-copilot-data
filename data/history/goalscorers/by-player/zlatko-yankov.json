@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "1991-10-16",
+      "goalId": "goal-1991-10-16-bulgaria-san-marino-12973",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1991-10-16-bulgaria-san-marino",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zlatko Yankov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1993-04-28",
+      "goalId": "goal-1993-04-28-bulgaria-finland-13888",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1993-04-28-bulgaria-finland",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zlatko Yankov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "zlatko yankov",
+  "playerKey": "zlatko-yankov",
+  "scorer": "Zlatko Yankov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

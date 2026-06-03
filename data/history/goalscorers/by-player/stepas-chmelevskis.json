@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1929-08-14",
+      "goalId": "goal-1929-08-14-latvia-lithuania-507",
+      "homeTeamId": "latvia",
+      "matchKey": "1929-08-14-latvia-lithuania",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Stepas Chmelevskis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "1929-08-16",
+      "goalId": "goal-1929-08-16-estonia-lithuania-513",
+      "homeTeamId": "estonia",
+      "matchKey": "1929-08-16-estonia-lithuania",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stepas Chmelevskis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1930-08-17",
+      "goalId": "goal-1930-08-17-lithuania-latvia-625",
+      "homeTeamId": "lithuania",
+      "matchKey": "1930-08-17-lithuania-latvia",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stepas Chmelevskis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "stepas chmelevskis",
+  "playerKey": "stepas-chmelevskis",
+  "scorer": "Stepas Chmelevskis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

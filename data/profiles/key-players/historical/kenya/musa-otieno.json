@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "1996-06-02",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1973-12-29",
+    "nationality": "Kenya",
+    "playerKey": "musa-otieno",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c6fee295",
+      "footballdatabase_eu": "6996",
+      "national_football_teams": "3583",
+      "sofifa": "3758",
+      "transfermarkt": "39635",
+      "wikidata": "Q3088469"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-02-09",
+  "playerKey": "musa-otieno",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-02-09",
+      "goalId": "goal-2005-02-09-mar-kenya-24952",
+      "matchKey": "2005-02-09-mar-kenya",
+      "minute": 93,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Musa Otieno"
+    },
+    {
+      "date": "1997-04-27",
+      "goalId": "goal-1997-04-27-kenya-guinea-16995",
+      "matchKey": "1997-04-27-kenya-guinea",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Musa Otieno"
+    },
+    {
+      "date": "1996-06-02",
+      "goalId": "goal-1996-06-02-kenya-algeria-15973",
+      "matchKey": "1996-06-02-kenya-algeria",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Musa Otieno"
+    }
+  ],
+  "scorer": "Musa Otieno",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kenya",
+  "teamName": "Kenya",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

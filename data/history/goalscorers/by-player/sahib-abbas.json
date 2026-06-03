@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "pakistan",
+      "date": "1997-06-20",
+      "goalId": "goal-1997-06-20-iraq-pakistan-17411",
+      "homeTeamId": "iraq",
+      "matchKey": "1997-06-20-iraq-pakistan",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sahib Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    },
+    {
+      "awayTeamId": "pakistan",
+      "date": "1997-06-20",
+      "goalId": "goal-1997-06-20-iraq-pakistan-17413",
+      "homeTeamId": "iraq",
+      "matchKey": "1997-06-20-iraq-pakistan",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sahib Abbas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "sahib abbas",
+  "playerKey": "sahib-abbas",
+  "scorer": "Sahib Abbas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq"
+  ]
+}

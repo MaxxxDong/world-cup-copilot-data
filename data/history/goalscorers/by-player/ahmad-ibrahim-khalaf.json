@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iraq",
+      "date": "2017-08-31",
+      "goalId": "goal-2017-08-31-thailand-iraq-37047",
+      "homeTeamId": "thailand",
+      "matchKey": "2017-08-31-thailand-iraq",
+      "minute": 63,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Ahmad Ibrahim Khalaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2019-10-15",
+      "goalId": "goal-2019-10-15-cambodia-iraq-39289",
+      "homeTeamId": "cambodia",
+      "matchKey": "2019-10-15-cambodia-iraq",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmad Ibrahim Khalaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iraq"
+    }
+  ],
+  "normalizedScorer": "ahmad ibrahim khalaf",
+  "playerKey": "ahmad-ibrahim-khalaf",
+  "scorer": "Ahmad Ibrahim Khalaf",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iraq",
+    "thailand"
+  ]
+}

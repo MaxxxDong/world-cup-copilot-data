@@ -1,0 +1,74 @@
+{
+  "firstGoalDate": "2004-02-29",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-05-20",
+    "nationality": "United States",
+    "playerKey": "ralph-bean",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "8438",
+      "national_football_teams": "813",
+      "wikidata": "Q10513927"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-03-21",
+  "playerKey": "ralph-bean",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-03-21",
+      "goalId": "goal-2004-03-21-montserrat-bermuda-23465",
+      "matchKey": "2004-03-21-montserrat-bermuda",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ralph Bean"
+    },
+    {
+      "date": "2004-02-29",
+      "goalId": "goal-2004-02-29-bermuda-montserrat-23447",
+      "matchKey": "2004-02-29-bermuda-montserrat",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ralph Bean"
+    },
+    {
+      "date": "2004-02-29",
+      "goalId": "goal-2004-02-29-bermuda-montserrat-23444",
+      "matchKey": "2004-02-29-bermuda-montserrat",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ralph Bean"
+    }
+  ],
+  "scorer": "Ralph Bean",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bermuda",
+  "teamName": "Bermuda",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

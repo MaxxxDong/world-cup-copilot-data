@@ -1,0 +1,82 @@
+{
+  "firstGoalDate": "2019-09-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1988-06-15",
+    "nationality": "Philippines",
+    "playerKey": "patrick-reichelt",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "35296",
+      "fbref": "4c27af88",
+      "footballdatabase_eu": "167243",
+      "impect": "54172",
+      "kicker": "patrick-reichelt",
+      "national_football_teams": "48625",
+      "soccerway": "141801",
+      "thesportsdb": "34246981",
+      "transfermarkt": "138578",
+      "wikidata": "Q7147524",
+      "worldfootball": "patrick-reichelt"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-06",
+  "playerKey": "patrick-reichelt",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-vietnam-philippines-44708",
+      "matchKey": "2024-06-06-vietnam-philippines",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Reichelt"
+    },
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-philippines-indonesia-44165",
+      "matchKey": "2023-11-21-philippines-indonesia",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Reichelt"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-guam-philippines-39026",
+      "matchKey": "2019-09-10-guam-philippines",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Patrick Reichelt"
+    }
+  ],
+  "scorer": "Patrick Reichelt",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "philippines",
+  "teamName": "Philippines",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

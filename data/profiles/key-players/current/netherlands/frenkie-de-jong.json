@@ -1,0 +1,91 @@
+{
+  "club": "FC Barcelona (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1997-05-12",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "frenkie-de-jong",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "538",
+      "capology": "frenkie-de-jong-35562",
+      "espn": "219022",
+      "eu_football_info": "30392",
+      "fbref": "1bacc518",
+      "footballdatabase_eu": "262909",
+      "fotmob": "638622",
+      "heimspiel": "373513",
+      "impect": "9313",
+      "kicker": "frenkie-de-jong",
+      "lequipe": "56311",
+      "national_football_teams": "71715",
+      "opta": "ezviixcyaaj162saxs2yl27s9",
+      "skillcorner": "12378",
+      "soccerbase": "82723",
+      "soccerway": "404591",
+      "sofascore": "795222",
+      "sofifa": "201387744",
+      "thesportsdb": "34167123",
+      "transfermarkt": "326330",
+      "uefa": "250084709",
+      "wikidata": "Q19898898",
+      "worldfootball": "frenkie-de-jong",
+      "wyscout": "373410"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Frenkie De Jong",
+  "playerKey": "frenkie-de-jong",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-11-29",
+      "goalId": "goal-2022-11-29-qatar-netherlands-42979",
+      "matchKey": "2022-11-29-qatar-netherlands",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frenkie de Jong"
+    },
+    {
+      "date": "2019-09-06",
+      "goalId": "goal-2019-09-06-germany-netherlands-38902",
+      "matchKey": "2019-09-06-germany-netherlands",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frenkie de Jong"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+  },
+  "shirtNumber": 21,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "netherlands",
+  "teamName": "Netherlands"
+}

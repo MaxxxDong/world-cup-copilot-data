@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "british-virgin-islands",
+      "date": "2000-03-19",
+      "goalId": "goal-2000-03-19-bermuda-british-virgin-islands-19412",
+      "homeTeamId": "bermuda",
+      "matchKey": "2000-03-19-bermuda-british-virgin-islands",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Meshach Wade",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bermuda"
+    },
+    {
+      "awayTeamId": "montserrat",
+      "date": "2004-02-29",
+      "goalId": "goal-2004-02-29-bermuda-montserrat-23450",
+      "homeTeamId": "bermuda",
+      "matchKey": "2004-02-29-bermuda-montserrat",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Meshach Wade",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bermuda"
+    }
+  ],
+  "normalizedScorer": "meshach wade",
+  "playerKey": "meshach-wade",
+  "scorer": "Meshach Wade",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bermuda"
+  ]
+}

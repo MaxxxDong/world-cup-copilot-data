@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "2003-03-29",
+      "goalId": "goal-2003-03-29-cyprus-israel-22580",
+      "homeTeamId": "cyprus",
+      "matchKey": "2003-03-29-cyprus-israel",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omri Afek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2003-04-02",
+      "goalId": "goal-2003-04-02-israel-fra-22632",
+      "homeTeamId": "israel",
+      "matchKey": "2003-04-02-israel-fra",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Omri Afek",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "omri afek",
+  "playerKey": "omri-afek",
+  "scorer": "Omri Afek",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

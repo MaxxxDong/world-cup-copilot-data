@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1991-08-23",
+    "nationality": "Sweden",
+    "playerKey": "norlla-amiri",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "ef0c7536",
+      "footballdatabase_eu": "196254",
+      "kicker": "noraollah-amiri",
+      "national_football_teams": "59639",
+      "soccerway": "178144",
+      "transfermarkt": "205346",
+      "wikidata": "Q21180926",
+      "worldfootball": "norlla-amiri"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-12",
+  "playerKey": "norlla-amiri",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-afghanistan-cambodia-35264",
+      "matchKey": "2015-11-12-afghanistan-cambodia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norlla Amiri"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-syria-afghanistan-35244",
+      "matchKey": "2015-10-13-syria-afghanistan",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norlla Amiri"
+    }
+  ],
+  "scorer": "Norlla Amiri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "afghanistan",
+  "teamName": "Afghanistan",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

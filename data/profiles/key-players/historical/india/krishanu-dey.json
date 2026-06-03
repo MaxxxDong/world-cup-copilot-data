@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "1985-03-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1962-02-14",
+    "nationality": "India",
+    "playerKey": "krishanu-dey",
+    "position": "midfielder",
+    "providerIds": {
+      "national_football_teams": "88498",
+      "sofifa": "48480",
+      "wikidata": "Q6437354"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1985-04-09",
+  "playerKey": "krishanu-dey",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1985-04-09",
+      "goalId": "goal-1985-04-09-india-thailand-10686",
+      "matchKey": "1985-04-09-india-thailand",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Krishanu Dey"
+    },
+    {
+      "date": "1985-03-21",
+      "goalId": "goal-1985-03-21-indonesia-india-10599",
+      "matchKey": "1985-03-21-indonesia-india",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Krishanu Dey"
+    }
+  ],
+  "scorer": "Krishanu Dey",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "india",
+  "teamName": "India",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "2002-02-12",
+    "nationality": "Taiwan",
+    "playerKey": "yu-yao-hsing",
+    "providerIds": {
+      "api_football": "423666",
+      "footballdatabase_eu": "547792",
+      "national_football_teams": "91256",
+      "soccerway": "911811",
+      "thesportsdb": "34259424",
+      "transfermarkt": "810716",
+      "wikidata": "Q123020725"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-11",
+  "playerKey": "yu-yao-hsing",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-malaysia-taiwan-44871",
+      "matchKey": "2024-06-11-malaysia-taiwan",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yu Yao-hsing"
+    },
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-taiwan-timor-leste-43650",
+      "matchKey": "2023-10-12-taiwan-timor-leste",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yu Yao-hsing"
+    },
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-taiwan-timor-leste-43648",
+      "matchKey": "2023-10-12-taiwan-timor-leste",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yu Yao-hsing"
+    }
+  ],
+  "scorer": "Yu Yao-hsing",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "taiwan",
+  "teamName": "Taiwan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

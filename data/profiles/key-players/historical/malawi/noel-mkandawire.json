@@ -1,0 +1,84 @@
+{
+  "firstGoalDate": "2005-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1978-12-25",
+    "nationality": "Malawi",
+    "playerKey": "noel-mkandawire",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "12266",
+      "national_football_teams": "4072",
+      "transfermarkt": "63303",
+      "wikidata": "Q7047117"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-05-31",
+  "playerKey": "noel-mkandawire",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-malawi-djibouti-27761",
+      "matchKey": "2008-05-31-malawi-djibouti",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noel Mkandawire"
+    },
+    {
+      "date": "2005-10-08",
+      "goalId": "goal-2005-10-08-malawi-kenya-25856",
+      "matchKey": "2005-10-08-malawi-kenya",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noel Mkandawire"
+    },
+    {
+      "date": "2005-10-08",
+      "goalId": "goal-2005-10-08-malawi-kenya-25855",
+      "matchKey": "2005-10-08-malawi-kenya",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noel Mkandawire"
+    },
+    {
+      "date": "2005-09-04",
+      "goalId": "goal-2005-09-04-guinea-malawi-25711",
+      "matchKey": "2005-09-04-guinea-malawi",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Noel Mkandawire"
+    }
+  ],
+  "scorer": "Noel Mkandawire",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malawi",
+  "teamName": "Malawi",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

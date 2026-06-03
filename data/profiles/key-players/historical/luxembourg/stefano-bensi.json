@@ -1,0 +1,92 @@
+{
+  "firstGoalDate": "2013-06-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1988-08-11",
+    "nationality": "Luxembourg",
+    "playerKey": "stefano-bensi",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "24608",
+      "fbref": "5fbd69dc",
+      "footballdatabase_eu": "47956",
+      "national_football_teams": "27901",
+      "opta": "1wqwzfs9vzff7or61icc4m39",
+      "soccerway": "46703",
+      "sofascore": "43106",
+      "sofifa": "300081",
+      "transfermarkt": "89191",
+      "uefa": "73274",
+      "wikidata": "Q936429",
+      "worldfootball": "stefano-bensi"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2018-11-18",
+  "playerKey": "stefano-bensi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2018-11-18",
+      "goalId": "goal-2018-11-18-moldova-luxembourg-37988",
+      "matchKey": "2018-11-18-moldova-luxembourg",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefano Bensi"
+    },
+    {
+      "date": "2014-10-09",
+      "goalId": "goal-2014-10-09-north-macedonia-luxembourg-33847",
+      "matchKey": "2014-10-09-north-macedonia-luxembourg",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefano Bensi"
+    },
+    {
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-luxembourg-northern-ireland-33279",
+      "matchKey": "2013-09-10-luxembourg-northern-ireland",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefano Bensi"
+    },
+    {
+      "date": "2013-06-07",
+      "goalId": "goal-2013-06-07-azerbaijan-luxembourg-32770",
+      "matchKey": "2013-06-07-azerbaijan-luxembourg",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stefano Bensi"
+    }
+  ],
+  "scorer": "Stefano Bensi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

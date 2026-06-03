@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-czech-republic-switzerland-42480",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-06-02-czech-republic-switzerland",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-czech-republic-spain-42541",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-06-05-czech-republic-spain",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2023-03-24",
+      "goalId": "goal-2023-03-24-czech-republic-poland-43095",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2023-03-24-czech-republic-poland",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Kuchta",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "jan kuchta",
+  "playerKey": "jan-kuchta",
+  "scorer": "Jan Kuchta",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic"
+  ]
+}

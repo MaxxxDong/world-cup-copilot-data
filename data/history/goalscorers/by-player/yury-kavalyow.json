@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2018-09-08",
+      "goalId": "goal-2018-09-08-belarus-san-marino-37744",
+      "homeTeamId": "belarus",
+      "matchKey": "2018-09-08-belarus-san-marino",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yury Kavalyow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    },
+    {
+      "awayTeamId": "belarus",
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-bulgaria-belarus-45743",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2024-11-18-bulgaria-belarus",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yury Kavalyow",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belarus"
+    }
+  ],
+  "normalizedScorer": "yury kavalyow",
+  "playerKey": "yury-kavalyow",
+  "scorer": "Yury Kavalyow",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belarus"
+  ]
+}

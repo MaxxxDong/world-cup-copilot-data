@@ -1,0 +1,89 @@
+{
+  "firstGoalDate": "1996-01-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1965-12-18",
+    "nationality": "South Africa",
+    "playerKey": "john-moshoeu",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "de60b12e",
+      "footballdatabase_eu": "7213",
+      "kicker": "john-moshoeu",
+      "national_football_teams": "6163",
+      "sofascore": "1421803",
+      "sofifa": "157441",
+      "transfermarkt": "6116",
+      "wikidata": "Q593509",
+      "worldfootball": "john-moshoeu"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1996-01-31",
+  "playerKey": "john-moshoeu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-01-31",
+      "goalId": "goal-1996-01-31-rsa-ghana-15834",
+      "matchKey": "1996-01-31-rsa-ghana",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Moshoeu"
+    },
+    {
+      "date": "1996-01-31",
+      "goalId": "goal-1996-01-31-rsa-ghana-15832",
+      "matchKey": "1996-01-31-rsa-ghana",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Moshoeu"
+    },
+    {
+      "date": "1996-01-27",
+      "goalId": "goal-1996-01-27-rsa-algeria-15824",
+      "matchKey": "1996-01-27-rsa-algeria",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Moshoeu"
+    },
+    {
+      "date": "1996-01-13",
+      "goalId": "goal-1996-01-13-rsa-cameroon-15745",
+      "matchKey": "1996-01-13-rsa-cameroon",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Moshoeu"
+    }
+  ],
+  "scorer": "John Moshoeu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

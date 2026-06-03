@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lesotho",
+      "date": "1980-06-22",
+      "goalId": "goal-1980-06-22-guinea-lesotho-8888",
+      "homeTeamId": "guinea",
+      "matchKey": "1980-06-22-guinea-lesotho",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amara Touré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "1980-07-06",
+      "goalId": "goal-1980-07-06-lesotho-guinea-8899",
+      "homeTeamId": "lesotho",
+      "matchKey": "1980-07-06-lesotho-guinea",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amara Touré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "amara tour",
+  "playerKey": "amara-tour",
+  "scorer": "Amara Touré",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "libya",
+      "date": "2001-07-15",
+      "goalId": "goal-2001-07-15-togo-libya-21591",
+      "homeTeamId": "togo",
+      "matchKey": "2001-07-15-togo-libya",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Koffi Kossi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "libya",
+      "date": "2001-07-15",
+      "goalId": "goal-2001-07-15-togo-libya-21592",
+      "homeTeamId": "togo",
+      "matchKey": "2001-07-15-togo-libya",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Koffi Kossi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "koffi kossi",
+  "playerKey": "koffi-kossi",
+  "scorer": "Koffi Kossi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

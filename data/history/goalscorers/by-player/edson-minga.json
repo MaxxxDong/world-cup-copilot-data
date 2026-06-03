@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "madagascar",
+      "date": "2001-04-28",
+      "goalId": "goal-2001-04-28-congo-madagascar-21005",
+      "homeTeamId": "congo",
+      "matchKey": "2001-04-28-congo-madagascar",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edson Minga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    },
+    {
+      "awayTeamId": "chad",
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-congo-chad-28193",
+      "homeTeamId": "congo",
+      "matchKey": "2008-06-22-congo-chad",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edson Minga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    }
+  ],
+  "normalizedScorer": "edson minga",
+  "playerKey": "edson-minga",
+  "scorer": "Edson Minga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "congo"
+  ]
+}

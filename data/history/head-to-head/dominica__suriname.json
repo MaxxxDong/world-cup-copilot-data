@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 26,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "dominica",
+    "date": "2019-11-15",
+    "homeScore": 4,
+    "homeTeamId": "suriname",
+    "matchId": "int-2019-11-15-suriname-dominica",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "suriname",
+      "date": "1969-10-14",
+      "homeScore": 1,
+      "homeTeamId": "dominica",
+      "matchId": "int-1969-10-14-dominica-suriname",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 9,
+      "awayTeamId": "suriname",
+      "date": "1969-10-16",
+      "homeScore": 1,
+      "homeTeamId": "dominica",
+      "matchId": "int-1969-10-16-dominica-suriname",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "suriname",
+      "date": "2008-08-09",
+      "homeScore": 1,
+      "homeTeamId": "dominica",
+      "matchId": "int-2008-08-09-dominica-suriname",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "suriname",
+      "date": "2010-11-14",
+      "homeScore": 0,
+      "homeTeamId": "dominica",
+      "matchId": "int-2010-11-14-dominica-suriname",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "suriname",
+      "date": "2018-09-06",
+      "homeScore": 0,
+      "homeTeamId": "dominica",
+      "matchId": "int-2018-09-06-dominica-suriname",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "suriname",
+      "date": "2019-09-05",
+      "homeScore": 1,
+      "homeTeamId": "dominica",
+      "matchId": "int-2019-09-05-dominica-suriname",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dominica",
+      "date": "2019-11-15",
+      "homeScore": 4,
+      "homeTeamId": "suriname",
+      "matchId": "int-2019-11-15-suriname-dominica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "dominica__suriname",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 14,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "dominica",
+  "teamBId": "suriname"
+}

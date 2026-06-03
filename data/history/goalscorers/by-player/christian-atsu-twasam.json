@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lesotho",
+      "date": "2012-06-01",
+      "goalId": "goal-2012-06-01-ghana-lesotho-31729",
+      "homeTeamId": "ghana",
+      "matchKey": "2012-06-01-ghana-lesotho",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Atsu Twasam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "2013-01-28",
+      "goalId": "goal-2013-01-28-niger-ghana-32507",
+      "homeTeamId": "niger",
+      "matchKey": "2013-01-28-niger-ghana",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christian Atsu Twasam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ghana"
+    }
+  ],
+  "normalizedScorer": "christian atsu twasam",
+  "playerKey": "christian-atsu-twasam",
+  "scorer": "Christian Atsu Twasam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ghana"
+  ]
+}

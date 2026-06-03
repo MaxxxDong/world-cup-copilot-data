@@ -1,0 +1,82 @@
+{
+  "club": "Pyramids FC (EGY)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1994-06-24",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "fiston-mayele",
+    "providerIds": {
+      "api_football": "179699",
+      "espn": "299324",
+      "fbref": "0d113a00",
+      "footballdatabase_eu": "429428",
+      "impect": "187769",
+      "kicker": "fiston-kalala-mayele",
+      "lequipe": "105696",
+      "national_football_teams": "81264",
+      "skillcorner": "629377",
+      "soccerway": "645192",
+      "sofascore": "1007556",
+      "thesportsdb": "34178384",
+      "transfermarkt": "727157",
+      "wikidata": "Q117287348",
+      "worldfootball": "fiston-mayele",
+      "wyscout": "645716"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Fiston Mayele",
+  "playerKey": "fiston-mayele",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-mauritania-dr-congo-46176",
+      "matchKey": "2025-03-25-mauritania-dr-congo",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fiston Mayele"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-senegal-dr-congo-44693",
+      "matchKey": "2024-06-06-senegal-dr-congo",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fiston Mayele"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dr-congo",
+  "teamName": "DR Congo"
+}

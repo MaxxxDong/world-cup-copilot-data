@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1945-01-31",
+      "goalId": "goal-1945-01-31-chile-colombia-1363",
+      "homeTeamId": "chile",
+      "matchKey": "1945-01-31-chile-colombia",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Desiderio Medina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1945-02-11",
+      "goalId": "goal-1945-02-11-chile-arg-1378",
+      "homeTeamId": "chile",
+      "matchKey": "1945-02-11-chile-arg",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Desiderio Medina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1945-02-18",
+      "goalId": "goal-1945-02-18-chile-uruguay-1386",
+      "homeTeamId": "chile",
+      "matchKey": "1945-02-18-chile-uruguay",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Desiderio Medina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "desiderio medina",
+  "playerKey": "desiderio-medina",
+  "scorer": "Desiderio Medina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

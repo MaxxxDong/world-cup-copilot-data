@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1963-10-26",
+      "goalId": "goal-1963-10-26-fra-bulgaria-4030",
+      "homeTeamId": "fra",
+      "matchKey": "1963-10-26-fra-bulgaria",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Herbin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1967-09-17",
+      "goalId": "goal-1967-09-17-poland-fra-4977",
+      "homeTeamId": "poland",
+      "matchKey": "1967-09-17-poland-fra",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Herbin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1967-10-28",
+      "goalId": "goal-1967-10-28-fra-belgium-5024",
+      "homeTeamId": "fra",
+      "matchKey": "1967-10-28-fra-belgium",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robert Herbin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "robert herbin",
+  "playerKey": "robert-herbin",
+  "scorer": "Robert Herbin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

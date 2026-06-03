@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1954-03-07",
+      "goalId": "goal-1954-03-07-japan-south-korea-2161",
+      "homeTeamId": "japan",
+      "matchKey": "1954-03-07-japan-south-korea",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chung Nam-sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1954-03-14",
+      "goalId": "goal-1954-03-14-japan-south-korea-2172",
+      "homeTeamId": "japan",
+      "matchKey": "1954-03-14-japan-south-korea",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chung Nam-sik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "chung nam sik",
+  "playerKey": "chung-nam-sik",
+  "scorer": "Chung Nam-sik",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

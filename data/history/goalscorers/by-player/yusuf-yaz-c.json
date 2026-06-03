@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-moldova-turkey-39063",
+      "homeTeamId": "moldova",
+      "matchKey": "2019-09-10-moldova-turkey",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yusuf Yazıcı",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "montenegro",
+      "date": "2021-09-01",
+      "goalId": "goal-2021-09-01-turkey-montenegro-41135",
+      "homeTeamId": "turkey",
+      "matchKey": "2021-09-01-turkey-montenegro",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yusuf Yazıcı",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-wales-turkey-44194",
+      "homeTeamId": "wales",
+      "matchKey": "2023-11-21-wales-turkey",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Yusuf Yazıcı",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "turkey"
+    }
+  ],
+  "normalizedScorer": "yusuf yaz c",
+  "playerKey": "yusuf-yaz-c",
+  "scorer": "Yusuf Yazıcı",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "turkey"
+  ]
+}

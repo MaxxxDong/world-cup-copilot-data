@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2015-09-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1989-10-27",
+    "nationality": "San Marino",
+    "playerKey": "matteo-vitaioli",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "56112",
+      "espn": "111851",
+      "eu_football_info": "25444",
+      "fbref": "3b47869f",
+      "footballdatabase_eu": "48206",
+      "heimspiel": "69977",
+      "impect": "5152",
+      "national_football_teams": "27584",
+      "soccerway": "60976",
+      "sofascore": "31342",
+      "thesportsdb": "34232972",
+      "transfermarkt": "61362",
+      "uefa": "97248",
+      "wikidata": "Q1154493"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-09-08",
+  "playerKey": "matteo-vitaioli",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-lithuania-san-marino-34915",
+      "matchKey": "2015-09-08-lithuania-san-marino",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matteo Vitaioli"
+    }
+  ],
+  "scorer": "Matteo Vitaioli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "san-marino",
+  "teamName": "San Marino",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

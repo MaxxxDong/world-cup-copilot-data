@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2011-07-28",
+      "goalId": "goal-2011-07-28-india-united-arab-emirates-30801",
+      "homeTeamId": "india",
+      "matchKey": "2011-07-28-india-united-arab-emirates",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Wehaibi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    },
+    {
+      "awayTeamId": "lebanon",
+      "date": "2012-02-29",
+      "goalId": "goal-2012-02-29-united-arab-emirates-lebanon-31716",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2012-02-29-united-arab-emirates-lebanon",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al-Wehaibi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    }
+  ],
+  "normalizedScorer": "ali al wehaibi",
+  "playerKey": "ali-al-wehaibi",
+  "scorer": "Ali Al-Wehaibi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "united-arab-emirates"
+  ]
+}

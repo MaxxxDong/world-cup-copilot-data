@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "1998-09-30",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1970-04-23",
+    "nationality": "France",
+    "playerKey": "harold-amaru",
+    "providerIds": {
+      "footballdatabase_eu": "200905",
+      "lequipe": "FootballFicheJoueur20000000000000000000014248",
+      "national_football_teams": "27853",
+      "soccerway": "284446",
+      "sofifa": "95696",
+      "transfermarkt": "184661",
+      "wikidata": "Q20863266"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-06-04",
+  "playerKey": "harold-amaru",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-06-04",
+      "goalId": "goal-2001-06-04-vanuatu-tahiti-21343",
+      "matchKey": "2001-06-04-vanuatu-tahiti",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Harold Amaru"
+    },
+    {
+      "date": "2000-06-22",
+      "goalId": "goal-2000-06-22-tahiti-vanuatu-19815",
+      "matchKey": "2000-06-22-tahiti-vanuatu",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Harold Amaru"
+    },
+    {
+      "date": "1998-09-30",
+      "goalId": "goal-1998-09-30-tahiti-vanuatu-18479",
+      "matchKey": "1998-09-30-tahiti-vanuatu",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Harold Amaru"
+    }
+  ],
+  "scorer": "Harold Amaru",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tahiti",
+  "teamName": "Tahiti",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

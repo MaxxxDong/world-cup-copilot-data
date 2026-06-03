@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2024-06-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1995-01-17",
+    "nationality": "Portugal",
+    "playerKey": "diney",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "41608",
+      "espn": "214683",
+      "fbref": "d2e33ba2",
+      "impect": "34408",
+      "national_football_teams": "69327",
+      "opta": "1l4hvlq9yxiq4gxyeu012vljp",
+      "skillcorner": "117884",
+      "soccerway": "380767",
+      "sofascore": "784677",
+      "thesportsdb": "34236674",
+      "transfermarkt": "349570",
+      "wikidata": "Q18637312",
+      "wyscout": "351866"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-09-04",
+  "playerKey": "diney",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-mauritius-cape-verde-46589",
+      "matchKey": "2025-09-04-mauritius-cape-verde",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diney"
+    },
+    {
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-cape-verde-libya-44835",
+      "matchKey": "2024-06-11-cape-verde-libya",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diney"
+    }
+  ],
+  "scorer": "Diney",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cape-verde",
+  "teamName": "Cape Verde",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

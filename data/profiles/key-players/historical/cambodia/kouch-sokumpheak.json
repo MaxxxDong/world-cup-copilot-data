@@ -1,0 +1,81 @@
+{
+  "firstGoalDate": "2011-06-29",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1987-02-15",
+    "nationality": "Cambodia",
+    "playerKey": "kouch-sokumpheak",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "13030",
+      "fbref": "d351e1a1",
+      "footballdatabase_eu": "53874",
+      "national_football_teams": "23605",
+      "soccerway": "120227",
+      "sofascore": "156476",
+      "sofifa": "286101",
+      "thesportsdb": "34259350",
+      "transfermarkt": "69788",
+      "wikidata": "Q6434461"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-06",
+  "playerKey": "kouch-sokumpheak",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-cambodia-pakistan-38332",
+      "matchKey": "2019-06-06-cambodia-pakistan",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak"
+    },
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-laos-cambodia-30628",
+      "matchKey": "2011-07-03-laos-cambodia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak"
+    },
+    {
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-cambodia-laos-30594",
+      "matchKey": "2011-06-29-cambodia-laos",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kouch Sokumpheak"
+    }
+  ],
+  "scorer": "Kouch Sokumpheak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cambodia",
+  "teamName": "Cambodia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

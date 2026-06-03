@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "2020-10-13",
+      "goalId": "goal-2020-10-13-ecuador-uruguay-39823",
+      "homeTeamId": "ecuador",
+      "matchKey": "2020-10-13-ecuador-uruguay",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moisés Caicedo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-chile-ecuador-42083",
+      "homeTeamId": "chile",
+      "matchKey": "2021-11-16-chile-ecuador",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moisés Caicedo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2022-11-29",
+      "goalId": "goal-2022-11-29-ecuador-senegal-42975",
+      "homeTeamId": "ecuador",
+      "matchKey": "2022-11-29-ecuador-senegal",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moisés Caicedo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "mois s caicedo",
+  "playerKey": "mois-s-caicedo",
+  "scorer": "Moisés Caicedo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

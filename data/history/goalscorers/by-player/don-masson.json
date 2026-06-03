@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1977-10-12",
+      "goalId": "goal-1977-10-12-wales-scotland-8020",
+      "homeTeamId": "wales",
+      "matchKey": "1977-10-12-wales-scotland",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Don Masson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "don masson",
+  "playerKey": "don-masson",
+  "scorer": "Don Masson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

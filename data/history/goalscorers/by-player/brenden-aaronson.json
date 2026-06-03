@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "2021-09-05",
+      "goalId": "goal-2021-09-05-usa-canada-41309",
+      "homeTeamId": "usa",
+      "matchKey": "2021-09-05-usa-canada",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41424",
+      "homeTeamId": "honduras",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2025-06-15",
+      "goalId": "goal-2025-06-15-usa-trinidad-and-tobago-46467",
+      "homeTeamId": "usa",
+      "matchKey": "2025-06-15-usa-trinidad-and-tobago",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brenden Aaronson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "brenden aaronson",
+  "playerKey": "brenden-aaronson",
+  "scorer": "Brenden Aaronson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

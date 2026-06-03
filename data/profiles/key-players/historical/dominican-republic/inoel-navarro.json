@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2011-07-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1987-07-28",
+    "nationality": "Dominican Republic",
+    "playerKey": "inoel-navarro",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "95ff527f",
+      "footballdatabase_eu": "120200",
+      "national_football_teams": "40343",
+      "sofifa": "293728",
+      "transfermarkt": "206319",
+      "wikidata": "Q10556070"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-11",
+  "playerKey": "inoel-navarro",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-dominican-republic-cayman-islands-31389",
+      "matchKey": "2011-11-11-dominican-republic-cayman-islands",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Inoel Navarro"
+    },
+    {
+      "date": "2011-07-10",
+      "goalId": "goal-2011-07-10-dominican-republic-anguilla-30690",
+      "matchKey": "2011-07-10-dominican-republic-anguilla",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Inoel Navarro"
+    },
+    {
+      "date": "2011-07-10",
+      "goalId": "goal-2011-07-10-dominican-republic-anguilla-30688",
+      "matchKey": "2011-07-10-dominican-republic-anguilla",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Inoel Navarro"
+    }
+  ],
+  "scorer": "Inoel Navarro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominican-republic",
+  "teamName": "Dominican Republic",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

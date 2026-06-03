@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "1991-07-02",
+      "goalId": "goal-1991-07-02-jamaica-canada-12848",
+      "homeTeamId": "jamaica",
+      "matchKey": "1991-07-02-jamaica-canada",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Limniatis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "john limniatis",
+  "playerKey": "john-limniatis",
+  "scorer": "John Limniatis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

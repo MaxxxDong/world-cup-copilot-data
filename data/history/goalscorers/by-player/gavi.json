@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-czech-republic-spain-42540",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2022-06-05-czech-republic-spain",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gavi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2022-11-23",
+      "goalId": "goal-2022-11-23-spain-costa-rica-42923",
+      "homeTeamId": "spain",
+      "matchKey": "2022-11-23-spain-costa-rica",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gavi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "cyprus",
+      "date": "2023-09-12",
+      "goalId": "goal-2023-09-12-spain-cyprus-43581",
+      "homeTeamId": "spain",
+      "matchKey": "2023-09-12-spain-cyprus",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gavi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2023-10-15",
+      "goalId": "goal-2023-10-15-norway-spain-43702",
+      "homeTeamId": "norway",
+      "matchKey": "2023-10-15-norway-spain",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gavi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "gavi",
+  "playerKey": "gavi",
+  "scorer": "Gavi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 10,
+    "teamAGoals": 15,
+    "teamAWins": 6,
+    "teamBGoals": 6,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "malta",
+    "date": "2025-11-14",
+    "homeScore": 0,
+    "homeTeamId": "finland",
+    "matchId": "int-2025-11-14-finland-malta",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1988-02-07",
+      "homeScore": 2,
+      "homeTeamId": "malta",
+      "matchId": "int-1988-02-07-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Malta International Tournament"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "finland",
+      "date": "1989-02-12",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1989-02-12-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Malta International Tournament"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "1990-11-25",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-1990-11-25-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "1991-05-16",
+      "homeScore": 2,
+      "homeTeamId": "finland",
+      "matchId": "int-1991-05-16-finland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "1998-03-25",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1998-03-25-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "2004-03-31",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-2004-03-31-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "2010-03-03",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-2010-03-03-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "2018-03-26",
+      "homeScore": 5,
+      "homeTeamId": "finland",
+      "matchId": "int-2018-03-26-finland-malta",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "finland",
+      "date": "2025-03-21",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2025-03-21-malta-finland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "malta",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "finland",
+      "matchId": "int-2025-11-14-finland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "finland__malta",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 11,
+      "teamAWins": 4,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 9,
+      "teamAGoals": 10,
+      "teamAWins": 5,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "finland",
+  "teamBId": "malta"
+}

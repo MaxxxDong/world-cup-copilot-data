@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1984-06-19",
+      "goalId": "goal-1984-06-19-fra-yugoslavia-10284",
+      "homeTeamId": "fra",
+      "matchKey": "1984-06-19-fra-yugoslavia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miloš Šestić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1984-10-20",
+      "goalId": "goal-1984-10-20-german-dr-yugoslavia-10377",
+      "homeTeamId": "german-dr",
+      "matchKey": "1984-10-20-german-dr-yugoslavia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miloš Šestić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "milo esti",
+  "playerKey": "milo-esti",
+  "scorer": "Miloš Šestić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

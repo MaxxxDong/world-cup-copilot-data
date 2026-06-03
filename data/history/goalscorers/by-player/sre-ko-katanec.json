@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1987-11-11",
+      "goalId": "goal-1987-11-11-yugoslavia-england-11567",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1987-11-11-yugoslavia-england",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srečko Katanec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1987-12-16",
+      "goalId": "goal-1987-12-16-turkey-yugoslavia-11591",
+      "homeTeamId": "turkey",
+      "matchKey": "1987-12-16-turkey-yugoslavia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srečko Katanec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1988-10-19",
+      "goalId": "goal-1988-10-19-scotland-yugoslavia-11710",
+      "homeTeamId": "scotland",
+      "matchKey": "1988-10-19-scotland-yugoslavia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srečko Katanec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1989-09-06",
+      "goalId": "goal-1989-09-06-yugoslavia-scotland-12294",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1989-09-06-yugoslavia-scotland",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srečko Katanec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1990-10-31",
+      "goalId": "goal-1990-10-31-yugoslavia-austria-12652",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1990-10-31-yugoslavia-austria",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srečko Katanec",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "sre ko katanec",
+  "playerKey": "sre-ko-katanec",
+  "scorer": "Srečko Katanec",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

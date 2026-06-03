@@ -1,0 +1,94 @@
+{
+  "club": "Brighton & Hove Albion FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2003-10-06",
+    "nationality": "Sweden",
+    "playerKey": "yasin-ayari",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "271748",
+      "api_football": "265820",
+      "capology": "yasin-ayari-37900",
+      "espn": "304242",
+      "fbref": "f173303a",
+      "footballdatabase_eu": "424112",
+      "fotmob": "1168311",
+      "heimspiel": "611082",
+      "impect": "66448",
+      "kicker": "yasin-ayari",
+      "national_football_teams": "89706",
+      "opta": "192qpmicfd10d7mutv5y762qy",
+      "opta_numeric": "509416",
+      "premier_league": "134333",
+      "skillcorner": "30621",
+      "soccerbase": "130428",
+      "soccerway": "660846",
+      "sofascore": "1036269",
+      "sportmonks": "37526157",
+      "statmuse_pl": "7120",
+      "thesportsdb": "34208394",
+      "transfermarkt": "667287",
+      "understat": "11385",
+      "whoscored": "470690",
+      "wikidata": "Q103979811",
+      "worldfootball": "yasin-ayari",
+      "wyscout": "677949"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Yasin Ayari",
+  "playerKey": "yasin-ayari",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-slovenia-sweden-46664",
+      "matchKey": "2025-09-05-slovenia-sweden",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yasin Ayari"
+    },
+    {
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-slovakia-sweden-45460",
+      "matchKey": "2024-10-11-slovakia-sweden",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yasin Ayari"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+  },
+  "shirtNumber": 18,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sweden",
+  "teamName": "Sweden"
+}

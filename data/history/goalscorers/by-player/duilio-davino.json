@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2000-10-08",
+      "goalId": "goal-2000-10-08-mex-trinidad-and-tobago-20146",
+      "homeTeamId": "mex",
+      "matchKey": "2000-10-08-mex-trinidad-and-tobago",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Duilio Davino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2004-06-19",
+      "goalId": "goal-2004-06-19-dominica-mex-23900",
+      "homeTeamId": "dominica",
+      "matchKey": "2004-06-19-dominica-mex",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Duilio Davino",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "duilio davino",
+  "playerKey": "duilio-davino",
+  "scorer": "Duilio Davino",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

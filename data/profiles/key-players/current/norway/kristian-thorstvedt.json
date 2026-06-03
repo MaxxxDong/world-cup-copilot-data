@@ -1,0 +1,98 @@
+{
+  "club": "US Sassuolo (ITA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1999-03-13",
+    "nationality": "Norway",
+    "playerKey": "kristian-thorstvedt",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "39143",
+      "capology": "kristian-thorstvedt-36232",
+      "espn": "284212",
+      "eu_football_info": "31296",
+      "fbref": "76ff8d0d",
+      "footballdatabase_eu": "353692",
+      "fotmob": "921921",
+      "heimspiel": "537238",
+      "impect": "49920",
+      "kicker": "kristian-thorstvedt",
+      "national_football_teams": "80633",
+      "opta": "cc04mat3snly9oe4bt7xaeooa",
+      "skillcorner": "27681",
+      "soccerway": "535804",
+      "sofascore": "924973",
+      "sofifa": "400015289",
+      "thesportsdb": "34178456",
+      "transfermarkt": "564785",
+      "uefa": "250134065",
+      "wikidata": "Q61721648",
+      "worldfootball": "kristian-thorstvedt",
+      "wyscout": "564143"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Kristian Thorstvedt",
+  "playerKey": "kristian-thorstvedt",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-turkey-norway-41569",
+      "matchKey": "2021-10-08-turkey-norway",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt"
+    },
+    {
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-norway-gibraltar-41375",
+      "matchKey": "2021-09-07-norway-gibraltar",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt"
+    },
+    {
+      "date": "2021-03-24",
+      "goalId": "goal-2021-03-24-gibraltar-norway-40093",
+      "matchKey": "2021-03-24-gibraltar-norway",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kristian Thorstvedt"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 18,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1977-01-09",
+      "goalId": "goal-1977-01-09-tunisia-mar-7698",
+      "homeTeamId": "tunisia",
+      "matchKey": "1977-01-09-tunisia-mar",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khemais Labidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "1977-12-11",
+      "goalId": "goal-1977-12-11-tunisia-egypt-8173",
+      "homeTeamId": "tunisia",
+      "matchKey": "1977-12-11-tunisia-egypt",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khemais Labidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    }
+  ],
+  "normalizedScorer": "khemais labidi",
+  "playerKey": "khemais-labidi",
+  "scorer": "Khemais Labidi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tunisia"
+  ]
+}

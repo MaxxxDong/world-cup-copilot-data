@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "china-pr",
+      "date": "1988-12-06",
+      "goalId": "goal-1988-12-06-bahrain-china-pr-11766",
+      "homeTeamId": "bahrain",
+      "matchKey": "1988-12-06-bahrain-china-pr",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zhang Xiaowen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "1989-07-15",
+      "goalId": "goal-1989-07-15-china-pr-iran-12207",
+      "homeTeamId": "china-pr",
+      "matchKey": "1989-07-15-china-pr-iran",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zhang Xiaowen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "zhang xiaowen",
+  "playerKey": "zhang-xiaowen",
+  "scorer": "Zhang Xiaowen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Faroe Islands"
+  ],
+  "allTime": {
+    "draws": 36,
+    "goalsAgainst": 643,
+    "goalsFor": 239,
+    "losses": 193,
+    "matches": 285,
+    "wins": 56
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 13,
+      "losses": 4,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 24,
+      "goalsFor": 20,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 5,
+      "goalsFor": 10,
+      "losses": 1,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "faroe-islands",
+      "date": "2026-03-28",
+      "homeScore": 1,
+      "homeTeamId": "san-marino",
+      "matchId": "int-2026-03-28-san-marino-faroe-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kazakhstan",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2025-11-18-faroe-islands-kazakhstan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "faroe-islands",
+      "date": "2025-11-14",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-2025-11-14-croatia-faroe-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2025-10-12",
+      "homeScore": 2,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2025-10-12-faroe-islands-czech-republic",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "montenegro",
+      "date": "2025-10-09",
+      "homeScore": 4,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-2025-10-09-faroe-islands-montenegro",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 27,
+      "goalsAgainst": 489,
+      "goalsFor": 160,
+      "losses": 151,
+      "matches": 212,
+      "wins": 34
+    },
+    "friendly": {
+      "draws": 9,
+      "goalsAgainst": 154,
+      "goalsFor": 79,
+      "losses": 42,
+      "matches": 73,
+      "wins": 22
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 47,
+      "goalsFor": 43,
+      "losses": 11,
+      "matches": 26,
+      "wins": 13
+    },
+    "nonNeutralVenue": {
+      "draws": 34,
+      "goalsAgainst": 596,
+      "goalsFor": 196,
+      "losses": 182,
+      "matches": 259,
+      "wins": 43
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "faroe-islands",
+  "teamName": "Faroe Islands",
+  "topScorers": [
+    {
+      "goals": 8,
+      "playerKey": "kl-mint-olsen",
+      "scorer": "Klæmint Olsen"
+    },
+    {
+      "goals": 8,
+      "playerKey": "r-gvi-jacobsen",
+      "scorer": "Rógvi Jacobsen"
+    },
+    {
+      "goals": 7,
+      "playerKey": "todi-j-nsson",
+      "scorer": "Todi Jónsson"
+    },
+    {
+      "goals": 6,
+      "playerKey": "j-an-s-mun-edmundsson",
+      "scorer": "Jóan Símun Edmundsson"
+    },
+    {
+      "goals": 6,
+      "playerKey": "uni-arge",
+      "scorer": "Uni Arge"
+    },
+    {
+      "goals": 5,
+      "playerKey": "john-petersen",
+      "scorer": "John Petersen"
+    },
+    {
+      "goals": 5,
+      "playerKey": "viljormur-davidsen",
+      "scorer": "Viljormur Davidsen"
+    },
+    {
+      "goals": 4,
+      "playerKey": "hanus-s-rensen",
+      "scorer": "Hanus Sørensen"
+    },
+    {
+      "goals": 3,
+      "playerKey": "arnbj-rn-hansen",
+      "scorer": "Arnbjørn Hansen"
+    },
+    {
+      "goals": 3,
+      "playerKey": "fr-i-benjaminsen",
+      "scorer": "Fróði Benjaminsen"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "oman",
+      "date": "2025-10-11",
+      "goalId": "goal-2025-10-11-united-arab-emirates-oman-47065",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2025-10-11-united-arab-emirates-oman",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Caio Lucas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-iraq-united-arab-emirates-47395",
+      "homeTeamId": "iraq",
+      "matchKey": "2025-11-18-iraq-united-arab-emirates",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Caio Lucas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "united-arab-emirates"
+    }
+  ],
+  "normalizedScorer": "caio lucas",
+  "playerKey": "caio-lucas",
+  "scorer": "Caio Lucas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "united-arab-emirates"
+  ]
+}

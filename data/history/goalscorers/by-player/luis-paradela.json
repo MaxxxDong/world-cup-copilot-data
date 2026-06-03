@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "british-virgin-islands",
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-cuba-british-virgin-islands-40448",
+      "homeTeamId": "cuba",
+      "matchKey": "2021-06-02-cuba-british-virgin-islands",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Paradela",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cuba"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-canada-cuba-43397",
+      "homeTeamId": "canada",
+      "matchKey": "2023-07-04-canada-cuba",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luis Paradela",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cuba"
+    }
+  ],
+  "normalizedScorer": "luis paradela",
+  "playerKey": "luis-paradela",
+  "scorer": "Luis Paradela",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cuba"
+  ]
+}

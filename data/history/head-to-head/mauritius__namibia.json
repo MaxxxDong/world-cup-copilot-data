@@ -1,0 +1,143 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 4,
+    "teamAGoals": 4,
+    "teamAWins": 2,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "mauritius",
+    "date": "2015-05-19",
+    "homeScore": 2,
+    "homeTeamId": "namibia",
+    "matchId": "int-2015-05-19-namibia-mauritius",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "COSAFA Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "mauritius",
+      "date": "1990-06-07",
+      "homeScore": 1,
+      "homeTeamId": "namibia",
+      "matchId": "int-1990-06-07-namibia-mauritius",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2001-04-08",
+      "homeScore": 1,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2001-04-08-mauritius-namibia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritius",
+      "date": "2013-07-06",
+      "homeScore": 2,
+      "homeTeamId": "namibia",
+      "matchId": "int-2013-07-06-namibia-mauritius",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritius",
+      "date": "2015-05-19",
+      "homeScore": 2,
+      "homeTeamId": "namibia",
+      "matchId": "int-2015-05-19-namibia-mauritius",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    }
+  ],
+  "pairKey": "mauritius__namibia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "mauritius",
+  "teamBId": "namibia"
+}

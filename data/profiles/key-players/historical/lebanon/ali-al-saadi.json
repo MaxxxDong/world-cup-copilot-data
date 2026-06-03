@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2011-07-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1986-04-20",
+    "nationality": "Lebanon",
+    "playerKey": "ali-al-saadi",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "c93307bd",
+      "footballdatabase_eu": "24266",
+      "national_football_teams": "23774",
+      "soccerway": "70711",
+      "sofifa": "268486",
+      "transfermarkt": "69016",
+      "wikidata": "Q2836091"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-08",
+  "playerKey": "ali-al-saadi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-08",
+      "goalId": "goal-2012-06-08-lebanon-uzbekistan-31857",
+      "matchKey": "2012-06-08-lebanon-uzbekistan",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al Saadi"
+    },
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-lebanon-south-korea-31529",
+      "matchKey": "2011-11-15-lebanon-south-korea",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al Saadi"
+    },
+    {
+      "date": "2011-07-23",
+      "goalId": "goal-2011-07-23-lebanon-bangladesh-30757",
+      "matchKey": "2011-07-23-lebanon-bangladesh",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Al Saadi"
+    }
+  ],
+  "scorer": "Ali Al Saadi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lebanon",
+  "teamName": "Lebanon",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "taiwan",
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-malaysia-taiwan-30598",
+      "homeTeamId": "malaysia",
+      "matchKey": "2011-06-29-malaysia-taiwan",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chen Po-liang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "taiwan"
+    },
+    {
+      "awayTeamId": "malaysia",
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-taiwan-malaysia-30650",
+      "homeTeamId": "taiwan",
+      "matchKey": "2011-07-03-taiwan-malaysia",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Chen Po-liang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "taiwan"
+    }
+  ],
+  "normalizedScorer": "chen po liang",
+  "playerKey": "chen-po-liang",
+  "scorer": "Chen Po-liang",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "taiwan"
+  ]
+}

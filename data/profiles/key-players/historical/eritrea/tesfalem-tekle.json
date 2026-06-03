@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2011-11-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-10-09",
+    "nationality": "Eritrea",
+    "playerKey": "tesfalem-tekle",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "05793a0b",
+      "footballdatabase_eu": "152760",
+      "national_football_teams": "45640",
+      "soccerway": "218189",
+      "sofifa": "350484",
+      "transfermarkt": "210913",
+      "wikidata": "Q16235889"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-11",
+  "playerKey": "tesfalem-tekle",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-eritrea-rwanda-31395",
+      "matchKey": "2011-11-11-eritrea-rwanda",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tesfalem Tekle"
+    }
+  ],
+  "scorer": "Tesfalem Tekle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "eritrea",
+  "teamName": "Eritrea",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

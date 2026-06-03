@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "india",
+      "date": "1993-06-09",
+      "goalId": "goal-1993-06-09-south-korea-india-14195",
+      "homeTeamId": "south-korea",
+      "matchKey": "1993-06-09-south-korea-india",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Jung-bae",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1993-10-16",
+      "goalId": "goal-1993-10-16-iran-south-korea-14656",
+      "homeTeamId": "iran",
+      "matchKey": "1993-10-16-iran-south-korea",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Jung-bae",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "park jung bae",
+  "playerKey": "park-jung-bae",
+  "scorer": "Park Jung-bae",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

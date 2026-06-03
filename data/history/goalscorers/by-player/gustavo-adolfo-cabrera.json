@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-guatemala-mex-25238",
+      "homeTeamId": "guatemala",
+      "matchKey": "2005-06-04-guatemala-mex",
+      "minute": 45,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Gustavo Adolfo Cabrera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "guatemala",
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-belize-guatemala-30978",
+      "homeTeamId": "belize",
+      "matchKey": "2011-09-06-belize-guatemala",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gustavo Adolfo Cabrera",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "gustavo adolfo cabrera",
+  "playerKey": "gustavo-adolfo-cabrera",
+  "scorer": "Gustavo Adolfo Cabrera",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala",
+    "mex"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2024-10-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2000-11-30",
+    "nationality": "United Kingdom",
+    "playerKey": "ethan-britto",
+    "position": "full-back",
+    "providerIds": {
+      "api_football": "55925",
+      "espn": "238953",
+      "eu_football_info": "30461",
+      "fbref": "2fe5ebd7",
+      "footballdatabase_eu": "324993",
+      "heimspiel": "447889",
+      "impect": "29598",
+      "kicker": "ethan-britto",
+      "national_football_teams": "72207",
+      "opta": "bjlhze4zkytnma1k9nnzxyggl",
+      "skillcorner": "17821",
+      "soccerway": "375227",
+      "sofascore": "890151",
+      "thesportsdb": "34223736",
+      "transfermarkt": "340906",
+      "uefa": "250077744",
+      "wikidata": "Q57313878"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-10-10",
+  "playerKey": "ethan-britto",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-gibraltar-san-marino-45402",
+      "matchKey": "2024-10-10-gibraltar-san-marino",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ethan Britto"
+    }
+  ],
+  "scorer": "Ethan Britto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

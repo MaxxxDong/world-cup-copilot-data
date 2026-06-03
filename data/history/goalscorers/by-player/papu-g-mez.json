@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2021-06-21",
+      "goalId": "goal-2021-06-21-arg-paraguay-40879",
+      "homeTeamId": "arg",
+      "matchKey": "2021-06-21-arg-paraguay",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Papu Gómez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2021-06-28",
+      "goalId": "goal-2021-06-28-arg-bolivia-40940",
+      "homeTeamId": "arg",
+      "matchKey": "2021-06-28-arg-bolivia",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Papu Gómez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "papu g mez",
+  "playerKey": "papu-g-mez",
+  "scorer": "Papu Gómez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

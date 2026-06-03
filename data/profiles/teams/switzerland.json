@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Switzerland",
+    "SUI",
+    "Schweiz",
+    "Suisse"
+  ],
+  "allTime": {
+    "draws": 203,
+    "goalsAgainst": 1443,
+    "goalsFor": 1315,
+    "losses": 364,
+    "matches": 882,
+    "wins": 315
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "SUI",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 8,
+      "goalsFor": 25,
+      "losses": 1,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 25,
+      "goalsFor": 38,
+      "losses": 5,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 6,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "switzerland",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "norway",
+      "matchId": "int-2026-03-31-norway-switzerland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "germany",
+      "date": "2026-03-27",
+      "homeScore": 3,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2026-03-27-switzerland-germany",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "switzerland",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "kosovo",
+      "matchId": "int-2025-11-18-kosovo-switzerland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "2025-11-15",
+      "homeScore": 4,
+      "homeTeamId": "switzerland",
+      "matchId": "int-2025-11-15-switzerland-sweden",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "switzerland",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2025-10-13-slovenia-switzerland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 103,
+      "goalsAgainst": 613,
+      "goalsFor": 647,
+      "losses": 147,
+      "matches": 408,
+      "wins": 158
+    },
+    "friendly": {
+      "draws": 100,
+      "goalsAgainst": 830,
+      "goalsFor": 668,
+      "losses": 217,
+      "matches": 474,
+      "wins": 157
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 124,
+      "goalsFor": 114,
+      "losses": 31,
+      "matches": 80,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 185,
+      "goalsAgainst": 1319,
+      "goalsFor": 1201,
+      "losses": 333,
+      "matches": 802,
+      "wins": 284
+    },
+    "worldCup": {
+      "draws": 8,
+      "goalsAgainst": 73,
+      "goalsFor": 55,
+      "losses": 19,
+      "matches": 41,
+      "wins": 14
+    }
+  },
+  "teamId": "switzerland",
+  "teamName": "Switzerland",
+  "topScorers": [
+    {
+      "goals": 26,
+      "playerKey": "kubilay-t-rkyilmaz",
+      "scorer": "Kubilay Türkyilmaz"
+    },
+    {
+      "goals": 25,
+      "playerKey": "xherdan-shaqiri",
+      "scorer": "Xherdan Shaqiri"
+    },
+    {
+      "goals": 24,
+      "playerKey": "alexander-frei",
+      "scorer": "Alexander Frei"
+    },
+    {
+      "goals": 21,
+      "playerKey": "haris-seferovic",
+      "scorer": "Haris Seferovic"
+    },
+    {
+      "goals": 17,
+      "playerKey": "breel-embolo",
+      "scorer": "Breel Embolo"
+    },
+    {
+      "goals": 17,
+      "playerKey": "st-phane-chapuisat",
+      "scorer": "Stéphane Chapuisat"
+    },
+    {
+      "goals": 15,
+      "playerKey": "adrian-knup",
+      "scorer": "Adrian Knup"
+    },
+    {
+      "goals": 13,
+      "playerKey": "granit-xhaka",
+      "scorer": "Granit Xhaka"
+    },
+    {
+      "goals": 10,
+      "playerKey": "fritz-k-nzli",
+      "scorer": "Fritz Künzli"
+    },
+    {
+      "goals": 10,
+      "playerKey": "remo-freuler",
+      "scorer": "Remo Freuler"
+    }
+  ]
+}

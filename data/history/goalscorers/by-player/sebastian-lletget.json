@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "2017-03-24",
+      "goalId": "goal-2017-03-24-usa-honduras-36669",
+      "homeTeamId": "usa",
+      "matchKey": "2017-03-24-usa-honduras",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Lletget",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41425",
+      "homeTeamId": "honduras",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Lletget",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "sebastian lletget",
+  "playerKey": "sebastian-lletget",
+  "scorer": "Sebastian Lletget",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

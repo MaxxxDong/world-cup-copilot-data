@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "spain",
+      "date": "1978-06-03",
+      "goalId": "goal-1978-06-03-austria-spain-8231",
+      "homeTeamId": "austria",
+      "matchKey": "1978-06-03-austria-spain",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1979-04-04",
+      "goalId": "goal-1979-04-04-romania-spain-8454",
+      "homeTeamId": "romania",
+      "matchKey": "1979-04-04-romania-spain",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1979-04-04",
+      "goalId": "goal-1979-04-04-romania-spain-8456",
+      "homeTeamId": "romania",
+      "matchKey": "1979-04-04-romania-spain",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1980-06-18",
+      "goalId": "goal-1980-06-18-spain-england-8876",
+      "homeTeamId": "spain",
+      "matchKey": "1980-06-18-spain-england",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Daniel Ruiz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "daniel ruiz",
+  "playerKey": "daniel-ruiz",
+  "scorer": "Daniel Ruiz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

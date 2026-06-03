@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mauritius",
+      "date": "1984-07-28",
+      "goalId": "goal-1984-07-28-malawi-mauritius-10308",
+      "homeTeamId": "malawi",
+      "matchKey": "1984-07-28-malawi-mauritius",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Sinalo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "mauritius",
+      "date": "1984-07-28",
+      "goalId": "goal-1984-07-28-malawi-mauritius-10311",
+      "homeTeamId": "malawi",
+      "matchKey": "1984-07-28-malawi-mauritius",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frank Sinalo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    }
+  ],
+  "normalizedScorer": "frank sinalo",
+  "playerKey": "frank-sinalo",
+  "scorer": "Frank Sinalo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malawi"
+  ]
+}

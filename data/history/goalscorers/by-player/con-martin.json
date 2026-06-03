@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1949-09-08",
+      "goalId": "goal-1949-09-08-republic-of-ireland-finland-1748",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1949-09-08-republic-of-ireland-finland",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Con Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1949-09-08",
+      "goalId": "goal-1949-09-08-republic-of-ireland-finland-1749",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1949-09-08-republic-of-ireland-finland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Con Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "1949-11-13",
+      "goalId": "goal-1949-11-13-republic-of-ireland-sweden-1809",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1949-11-13-republic-of-ireland-sweden",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Con Martin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "con martin",
+  "playerKey": "con-martin",
+  "scorer": "Con Martin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

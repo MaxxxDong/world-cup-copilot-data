@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 5,
+    "teamAGoals": 8,
+    "teamAWins": 1,
+    "teamBGoals": 7,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "gabon",
+    "date": "2023-10-17",
+    "homeScore": 1,
+    "homeTeamId": "guinea",
+    "matchId": "int-2023-10-17-guinea-gabon",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "gabon",
+      "date": "1996-09-22",
+      "homeScore": 0,
+      "homeTeamId": "guinea",
+      "matchId": "int-1996-09-22-guinea-gabon",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "guinea",
+      "date": "2008-11-18",
+      "homeScore": 3,
+      "homeTeamId": "gabon",
+      "matchId": "int-2008-11-18-gabon-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guinea",
+      "date": "2011-08-10",
+      "homeScore": 1,
+      "homeTeamId": "gabon",
+      "matchId": "int-2011-08-10-gabon-guinea",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "gabon",
+      "date": "2017-03-24",
+      "homeScore": 2,
+      "homeTeamId": "guinea",
+      "matchId": "int-2017-03-24-guinea-gabon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gabon",
+      "date": "2023-10-17",
+      "homeScore": 1,
+      "homeTeamId": "guinea",
+      "matchId": "int-2023-10-17-guinea-gabon",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "gabon__guinea",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 4,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 7,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 4,
+      "matches": 4,
+      "teamAGoals": 7,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "gabon",
+  "teamBId": "guinea"
+}

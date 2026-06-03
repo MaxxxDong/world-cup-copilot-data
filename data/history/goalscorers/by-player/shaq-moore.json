@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "2021-07-18",
+      "goalId": "goal-2021-07-18-usa-canada-41065",
+      "homeTeamId": "usa",
+      "matchKey": "2021-07-18-usa-canada",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shaq Moore",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "shaq moore",
+  "playerKey": "shaq-moore",
+  "scorer": "Shaq Moore",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

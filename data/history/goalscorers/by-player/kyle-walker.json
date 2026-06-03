@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-england-netherlands-38335",
+      "homeTeamId": "england",
+      "matchKey": "2019-06-06-england-netherlands",
+      "minute": 97,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Kyle Walker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2023-09-09",
+      "goalId": "goal-2023-09-09-ukraine-england-43517",
+      "homeTeamId": "ukraine",
+      "matchKey": "2023-09-09-ukraine-england",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kyle Walker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "kyle walker",
+  "playerKey": "kyle-walker",
+  "scorer": "Kyle Walker",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england",
+    "netherlands"
+  ]
+}

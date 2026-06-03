@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2007-10-17",
+      "goalId": "goal-2007-10-17-san-marino-wales-27244",
+      "homeTeamId": "san-marino",
+      "matchKey": "2007-10-17-san-marino-wales",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Ledley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-russia-wales-28531",
+      "homeTeamId": "russia",
+      "matchKey": "2008-09-10-russia-wales",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Ledley",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "joe ledley",
+  "playerKey": "joe-ledley",
+  "scorer": "Joe Ledley",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "1997-06-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1970-09-15",
+    "nationality": "Germany",
+    "playerKey": "bachirou-salou",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "fb00cd6d",
+      "footballdatabase_eu": "7541",
+      "german_fa": "bachirou-salou",
+      "kicker": "bachirou-salou",
+      "national_football_teams": "13836",
+      "sofifa": "253774",
+      "transfermarkt": "255",
+      "wikidata": "Q464669",
+      "worldfootball": "bachirou-salou"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-06-08",
+  "playerKey": "bachirou-salou",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-togo-zimbabwe-17255",
+      "matchKey": "1997-06-08-togo-zimbabwe",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bachirou Salou"
+    },
+    {
+      "date": "1997-06-08",
+      "goalId": "goal-1997-06-08-togo-zimbabwe-17254",
+      "matchKey": "1997-06-08-togo-zimbabwe",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bachirou Salou"
+    }
+  ],
+  "scorer": "Bachirou Salou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "togo",
+  "teamName": "Togo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

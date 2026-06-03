@@ -1,0 +1,81 @@
+{
+  "club": "Borussia Dortmund (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1997-11-17",
+    "nationality": "Norway",
+    "playerKey": "julian-ryerson",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "24845",
+      "capology": "julian-ryerson-35751",
+      "espn": "222991",
+      "eu_football_info": "31288",
+      "fbref": "009a4f60",
+      "footballdatabase_eu": "269172",
+      "fotmob": "659272",
+      "heimspiel": "410730",
+      "impect": "29720",
+      "kicker": "julian-ryerson",
+      "national_football_teams": "80630",
+      "opta": "cl6720rdjeubt0bc3su0qg3qh",
+      "skillcorner": "19285",
+      "soccerbase": "86331",
+      "soccerway": "410286",
+      "sofascore": "800951",
+      "sofifa": "201413894",
+      "thesportsdb": "34169306",
+      "transfermarkt": "370789",
+      "uefa": "250092517",
+      "wikidata": "Q28717698",
+      "worldfootball": "julian-ryerson",
+      "wyscout": "384166"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Julian Ryerson",
+  "playerKey": "julian-ryerson",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-22",
+      "goalId": "goal-2025-03-22-moldova-norway-46000",
+      "matchKey": "2025-03-22-moldova-norway",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Ryerson"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 26,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

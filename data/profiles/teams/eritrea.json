@@ -1,0 +1,207 @@
+{
+  "aliases": [
+    "Eritrea"
+  ],
+  "allTime": {
+    "draws": 16,
+    "goalsAgainst": 121,
+    "goalsFor": 48,
+    "losses": 44,
+    "matches": 71,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 21,
+      "goalsFor": 4,
+      "losses": 9,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 43,
+      "goalsFor": 18,
+      "losses": 15,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 2,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "eritrea",
+      "date": "2019-09-10",
+      "homeScore": 2,
+      "homeTeamId": "namibia",
+      "matchId": "int-2019-09-10-namibia-eritrea",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "namibia",
+      "date": "2019-09-04",
+      "homeScore": 1,
+      "homeTeamId": "eritrea",
+      "matchId": "int-2019-09-04-eritrea-namibia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "eritrea",
+      "date": "2015-10-13",
+      "homeScore": 3,
+      "homeTeamId": "botswana",
+      "matchId": "int-2015-10-13-botswana-eritrea",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "botswana",
+      "date": "2015-10-10",
+      "homeScore": 0,
+      "homeTeamId": "eritrea",
+      "matchId": "int-2015-10-10-eritrea-botswana",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "eritrea",
+      "date": "2013-12-05",
+      "homeScore": 1,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2013-12-05-rwanda-eritrea",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CECAFA Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 14,
+      "goalsAgainst": 109,
+      "goalsFor": 43,
+      "losses": 39,
+      "matches": 62,
+      "wins": 9
+    },
+    "friendly": {
+      "draws": 2,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 5,
+      "matches": 9,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 49,
+      "goalsFor": 24,
+      "losses": 19,
+      "matches": 30,
+      "wins": 5
+    },
+    "nonNeutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 72,
+      "goalsFor": 24,
+      "losses": 25,
+      "matches": 41,
+      "wins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "eritrea",
+  "teamName": "Eritrea",
+  "topScorers": [
+    {
+      "goals": 1,
+      "playerKey": "abraham-tedros",
+      "scorer": "Abraham Tedros"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ali-sulieman",
+      "scorer": "Ali Sulieman"
+    },
+    {
+      "goals": 1,
+      "playerKey": "henok-goitom",
+      "scorer": "Henok Goitom"
+    },
+    {
+      "goals": 1,
+      "playerKey": "tesfalem-tekle",
+      "scorer": "Tesfalem Tekle"
+    }
+  ]
+}

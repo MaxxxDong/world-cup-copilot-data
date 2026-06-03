@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1985-11-10",
+      "goalId": "goal-1985-11-10-israel-new-zealand-11074",
+      "homeTeamId": "israel",
+      "matchKey": "1985-11-10-israel-new-zealand",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moshe Selecter",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "moshe selecter",
+  "playerKey": "moshe-selecter",
+  "scorer": "Moshe Selecter",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

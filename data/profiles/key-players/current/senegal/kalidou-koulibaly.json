@@ -1,0 +1,96 @@
+{
+  "club": "Al Hilal SC (KSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1991-06-20",
+    "nationality": "Senegal",
+    "playerKey": "kalidou-koulibaly",
+    "position": "centre-back",
+    "providerIds": {
+      "11v11": "250912",
+      "api_football": "318",
+      "capology": "kalidou-koulibaly-33409",
+      "espn": "150312",
+      "fbref": "da974c7b",
+      "fff_fr": "9346-koulibaly-kalidou",
+      "footballdatabase_eu": "113078",
+      "heimspiel": "226047",
+      "impect": "5270",
+      "kicker": "kalidou-koulibaly",
+      "lequipe": "36744",
+      "national_football_teams": "60403",
+      "opta": "b1srdmp4cmwl9k768h8a2ixn9",
+      "opta_numeric": "86129",
+      "premier_league": "6709",
+      "skillcorner": "5670",
+      "soccerbase": "66090",
+      "soccerway": "139596",
+      "sofascore": "126071",
+      "sofifa": "339820",
+      "statmuse_pl": "7187",
+      "thesportsdb": "34163613",
+      "transfermarkt": "93128",
+      "uefa": "250025886",
+      "understat": "1376",
+      "whoscored": "90880",
+      "wikidata": "Q3192187",
+      "worldfootball": "kalidou-koulibaly",
+      "wyscout": "25726"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Kalidou Koulibaly",
+  "playerKey": "kalidou-koulibaly",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-senegal-sudan-46660",
+      "matchKey": "2025-09-05-senegal-sudan",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kalidou Koulibaly"
+    },
+    {
+      "date": "2022-11-29",
+      "goalId": "goal-2022-11-29-ecuador-senegal-42976",
+      "matchKey": "2022-11-29-ecuador-senegal",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kalidou Koulibaly"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+  },
+  "shirtNumber": 3,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "senegal",
+  "teamName": "Senegal"
+}

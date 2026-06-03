@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Saint Vincent and the Grenadines"
+  ],
+  "allTime": {
+    "draws": 51,
+    "goalsAgainst": 442,
+    "goalsFor": 372,
+    "losses": 97,
+    "matches": 236,
+    "wins": 88
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 26,
+      "losses": 3,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 24,
+      "goalsFor": 43,
+      "losses": 5,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2026-03-29",
+      "homeScore": 2,
+      "homeTeamId": "barbados",
+      "matchId": "int-2026-03-29-barbados-saint-vincent-and-the-grenadines",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "bonaire",
+      "matchId": "int-2026-03-26-bonaire-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-lucia",
+      "date": "2025-11-15",
+      "homeScore": 3,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2025-11-15-saint-vincent-and-the-grenadines-saint-lucia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2025-11-12",
+      "homeScore": 2,
+      "homeTeamId": "dominican-republic",
+      "matchId": "int-2025-11-12-dominican-republic-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cuba",
+      "date": "2025-10-08",
+      "homeScore": 1,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2025-10-08-saint-vincent-and-the-grenadines-cuba",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 39,
+      "goalsAgainst": 384,
+      "goalsFor": 293,
+      "losses": 85,
+      "matches": 194,
+      "wins": 70
+    },
+    "friendly": {
+      "draws": 12,
+      "goalsAgainst": 58,
+      "goalsFor": 79,
+      "losses": 12,
+      "matches": 42,
+      "wins": 18
+    },
+    "neutralVenue": {
+      "draws": 12,
+      "goalsAgainst": 77,
+      "goalsFor": 98,
+      "losses": 19,
+      "matches": 56,
+      "wins": 25
+    },
+    "nonNeutralVenue": {
+      "draws": 39,
+      "goalsAgainst": 365,
+      "goalsFor": 274,
+      "losses": 78,
+      "matches": 180,
+      "wins": 63
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "saint-vincent-and-the-grenadines",
+  "teamName": "Saint Vincent and the Grenadines",
+  "topScorers": [
+    {
+      "goals": 11,
+      "playerKey": "oalex-anderson",
+      "scorer": "Oalex Anderson"
+    },
+    {
+      "goals": 10,
+      "playerKey": "rodney-jack",
+      "scorer": "Rodney Jack"
+    },
+    {
+      "goals": 7,
+      "playerKey": "james-chewitt",
+      "scorer": "James Chewitt"
+    },
+    {
+      "goals": 6,
+      "playerKey": "alwyn-guy",
+      "scorer": "Alwyn Guy"
+    },
+    {
+      "goals": 5,
+      "playerKey": "kendall-velox",
+      "scorer": "Kendall Velox"
+    },
+    {
+      "goals": 5,
+      "playerKey": "shandel-samuel",
+      "scorer": "Shandel Samuel"
+    },
+    {
+      "goals": 5,
+      "playerKey": "tevin-slater",
+      "scorer": "Tevin Slater"
+    },
+    {
+      "goals": 4,
+      "playerKey": "andre-hinds",
+      "scorer": "Andre Hinds"
+    },
+    {
+      "goals": 4,
+      "playerKey": "cornelius-stewart",
+      "scorer": "Cornelius Stewart"
+    },
+    {
+      "goals": 4,
+      "playerKey": "marlon-james",
+      "scorer": "Marlon James"
+    }
+  ]
+}

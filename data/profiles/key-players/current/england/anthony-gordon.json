@@ -1,0 +1,97 @@
+{
+  "club": "Newcastle United FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2001-02-24",
+    "fullName": "Anthony Michael Gordon",
+    "nationality": "United Kingdom",
+    "playerKey": "anthony-gordon",
+    "position": "winger",
+    "providerIds": {
+      "11v11": "256959",
+      "api_football": "138787",
+      "capology": "anthony-gordon-36946",
+      "dongqiudi": "50432978",
+      "espn": "268782",
+      "eu_football_info": "32671",
+      "fbref": "2bd83368",
+      "footballdatabase_eu": "343752",
+      "heimspiel": "526279",
+      "impect": "41330",
+      "kicker": "anthony-gordon",
+      "national_football_teams": "94442",
+      "opta": "8mjj0wgufggpc1ai2dk21h90p",
+      "opta_numeric": "232826",
+      "premier_league": "23747",
+      "skillcorner": "24344",
+      "soccerbase": "109610",
+      "soccerway": "465503",
+      "sofascore": "914902",
+      "sportmonks": "9611543",
+      "statmuse_pl": "460",
+      "thesportsdb": "34170142",
+      "transfermarkt": "503733",
+      "uefa": "250117036",
+      "understat": "8150",
+      "whoscored": "349669",
+      "wikidata": "Q45179405",
+      "worldfootball": "anthony-gordon",
+      "wyscout": "478618"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Anthony Gordon",
+  "playerKey": "anthony-gordon",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-latvia-england-47176",
+      "matchKey": "2025-10-14-latvia-england",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Gordon"
+    },
+    {
+      "date": "2024-11-17",
+      "goalId": "goal-2024-11-17-england-republic-of-ireland-45717",
+      "matchKey": "2024-11-17-england-republic-of-ireland",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anthony Gordon"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+  },
+  "shirtNumber": 18,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "england",
+  "teamName": "England"
+}

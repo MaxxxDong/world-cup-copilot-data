@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1999-09-04",
+      "goalId": "goal-1999-09-04-bosnia-and-herzegovina-scotland-19002",
+      "homeTeamId": "bosnia-and-herzegovina",
+      "matchKey": "1999-09-04-bosnia-and-herzegovina-scotland",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Don Hutchison",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "1999-10-09",
+      "goalId": "goal-1999-10-09-scotland-lithuania-19172",
+      "homeTeamId": "scotland",
+      "matchKey": "1999-10-09-scotland-lithuania",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Don Hutchison",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1999-11-17",
+      "goalId": "goal-1999-11-17-england-scotland-19200",
+      "homeTeamId": "england",
+      "matchKey": "1999-11-17-england-scotland",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Don Hutchison",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-san-marino-scotland-20119",
+      "homeTeamId": "san-marino",
+      "matchKey": "2000-10-07-san-marino-scotland",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Don Hutchison",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "don hutchison",
+  "playerKey": "don-hutchison",
+  "scorer": "Don Hutchison",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

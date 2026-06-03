@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "singapore",
+      "date": "1993-04-18",
+      "goalId": "goal-1993-04-18-indonesia-singapore-13846",
+      "homeTeamId": "indonesia",
+      "matchKey": "1993-04-18-indonesia-singapore",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohd Rafi Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    },
+    {
+      "awayTeamId": "vietnam",
+      "date": "1993-04-28",
+      "goalId": "goal-1993-04-28-singapore-vietnam-13916",
+      "homeTeamId": "singapore",
+      "matchKey": "1993-04-28-singapore-vietnam",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohd Rafi Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "singapore"
+    }
+  ],
+  "normalizedScorer": "mohd rafi ali",
+  "playerKey": "mohd-rafi-ali",
+  "scorer": "Mohd Rafi Ali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "singapore"
+  ]
+}

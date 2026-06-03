@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1968-10-13",
+      "goalId": "goal-1968-10-13-austria-germany-5248",
+      "homeTeamId": "austria",
+      "matchKey": "1968-10-13-austria-germany",
+      "minute": 51,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Johann Eigenstiller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "johann eigenstiller",
+  "playerKey": "johann-eigenstiller",
+  "scorer": "Johann Eigenstiller",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

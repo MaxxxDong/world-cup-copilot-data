@@ -1,0 +1,54 @@
+{
+  "firstGoalDate": "2000-04-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1973-12-18",
+    "playerKey": "bent-burgess",
+    "providerIds": {
+      "fbref": "76b240e3",
+      "footballdatabase_eu": "464694",
+      "wikidata": "Q109317190"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-04-16",
+  "playerKey": "bent-burgess",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-04-16",
+      "goalId": "goal-2000-04-16-belize-el-salvador-19530",
+      "matchKey": "2000-04-16-belize-el-salvador",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bent Burgess"
+    }
+  ],
+  "scorer": "Bent Burgess",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belize",
+  "teamName": "Belize",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

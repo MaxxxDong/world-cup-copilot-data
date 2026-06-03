@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "1997-06-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1973-04-10",
+    "nationality": "Kazakhstan",
+    "playerKey": "viktor-zubarev",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "24331",
+      "footballdatabase_eu": "56593",
+      "national_football_teams": "15585",
+      "transfermarkt": "207735",
+      "wikidata": "Q366412"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1997-10-04",
+  "playerKey": "viktor-zubarev",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1997-10-04",
+      "goalId": "goal-1997-10-04-kazakhstan-japan-17789",
+      "matchKey": "1997-10-04-kazakhstan-japan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viktor Zubarev"
+    },
+    {
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-pakistan-kazakhstan-17320",
+      "matchKey": "1997-06-11-pakistan-kazakhstan",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viktor Zubarev"
+    },
+    {
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-pakistan-kazakhstan-17319",
+      "matchKey": "1997-06-11-pakistan-kazakhstan",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viktor Zubarev"
+    },
+    {
+      "date": "1997-06-11",
+      "goalId": "goal-1997-06-11-pakistan-kazakhstan-17318",
+      "matchKey": "1997-06-11-pakistan-kazakhstan",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Viktor Zubarev"
+    }
+  ],
+  "scorer": "Viktor Zubarev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kazakhstan",
+  "teamName": "Kazakhstan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Turkey",
+    "TUR",
+    "Türkiye",
+    "Turkiye"
+  ],
+  "allTime": {
+    "draws": 152,
+    "goalsAgainst": 903,
+    "goalsFor": 893,
+    "losses": 231,
+    "matches": 640,
+    "wins": 257
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "TUR",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 14,
+      "goalsFor": 21,
+      "losses": 2,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 24,
+      "goalsFor": 39,
+      "losses": 4,
+      "matches": 20,
+      "wins": 13
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 3,
+      "goalsFor": 10,
+      "losses": 0,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "kosovo",
+      "matchId": "int-2026-03-31-kosovo-turkey",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "turkey",
+      "matchId": "int-2026-03-26-turkey-romania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "turkey",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-2025-11-18-spain-turkey",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "turkey",
+      "matchId": "int-2025-11-15-turkey-bulgaria",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "georgia",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "turkey",
+      "matchId": "int-2025-10-14-turkey-georgia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 71,
+      "goalsAgainst": 501,
+      "goalsFor": 499,
+      "losses": 135,
+      "matches": 349,
+      "wins": 143
+    },
+    "friendly": {
+      "draws": 81,
+      "goalsAgainst": 402,
+      "goalsFor": 394,
+      "losses": 96,
+      "matches": 291,
+      "wins": 114
+    },
+    "neutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 115,
+      "goalsFor": 113,
+      "losses": 32,
+      "matches": 78,
+      "wins": 33
+    },
+    "nonNeutralVenue": {
+      "draws": 139,
+      "goalsAgainst": 788,
+      "goalsFor": 780,
+      "losses": 199,
+      "matches": 562,
+      "wins": 224
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 20,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    }
+  },
+  "teamId": "turkey",
+  "teamName": "Turkey",
+  "topScorers": [
+    {
+      "goals": 39,
+      "playerKey": "hakan-k-r",
+      "scorer": "Hakan Şükür"
+    },
+    {
+      "goals": 22,
+      "playerKey": "burak-y-lmaz",
+      "scorer": "Burak Yılmaz"
+    },
+    {
+      "goals": 15,
+      "playerKey": "hakan-alhano-lu",
+      "scorer": "Hakan Çalhanoğlu"
+    },
+    {
+      "goals": 14,
+      "playerKey": "cenk-tosun",
+      "scorer": "Cenk Tosun"
+    },
+    {
+      "goals": 14,
+      "playerKey": "kerem-akt-rko-lu",
+      "scorer": "Kerem Aktürkoğlu"
+    },
+    {
+      "goals": 12,
+      "playerKey": "nihat-kahveci",
+      "scorer": "Nihat Kahveci"
+    },
+    {
+      "goals": 12,
+      "playerKey": "tuncay",
+      "scorer": "Tuncay"
+    },
+    {
+      "goals": 11,
+      "playerKey": "arda-turan",
+      "scorer": "Arda Turan"
+    },
+    {
+      "goals": 9,
+      "playerKey": "arif-erdem",
+      "scorer": "Arif Erdem"
+    },
+    {
+      "goals": 8,
+      "playerKey": "cengiz-nder",
+      "scorer": "Cengiz Ünder"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1990-03-08",
+      "goalId": "goal-1990-03-08-algeria-egypt-12460",
+      "homeTeamId": "algeria",
+      "matchKey": "1990-03-08-algeria-egypt",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Saïb",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    },
+    {
+      "awayTeamId": "algeria",
+      "date": "1998-02-11",
+      "goalId": "goal-1998-02-11-burkina-faso-algeria-18118",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "1998-02-11-burkina-faso-algeria",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Moussa Saïb",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "algeria"
+    }
+  ],
+  "normalizedScorer": "moussa sa b",
+  "playerKey": "moussa-sa-b",
+  "scorer": "Moussa Saïb",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "algeria"
+  ]
+}

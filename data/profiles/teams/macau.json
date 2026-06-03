@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Macau"
+  ],
+  "allTime": {
+    "draws": 16,
+    "goalsAgainst": 458,
+    "goalsFor": 114,
+    "losses": 111,
+    "matches": 148,
+    "wins": 21
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 28,
+      "goalsFor": 3,
+      "losses": 9,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 45,
+      "goalsFor": 9,
+      "losses": 16,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 15,
+      "goalsFor": 2,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "tanzania",
+      "date": "2026-03-29",
+      "homeScore": 0,
+      "homeTeamId": "macau",
+      "matchId": "int-2026-03-29-macau-tanzania",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "macau",
+      "date": "2026-03-26",
+      "homeScore": 4,
+      "homeTeamId": "aruba",
+      "matchId": "int-2026-03-26-aruba-macau",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "macau",
+      "date": "2025-03-19",
+      "homeScore": 2,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2025-03-19-hong-kong-macau",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "guam",
+      "date": "2024-12-14",
+      "homeScore": 1,
+      "homeTeamId": "macau",
+      "matchId": "int-2024-12-14-macau-guam",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "EAFF Championship qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "brunei",
+      "date": "2024-09-10",
+      "homeScore": 0,
+      "homeTeamId": "macau",
+      "matchId": "int-2024-09-10-macau-brunei",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 12,
+      "goalsAgainst": 368,
+      "goalsFor": 96,
+      "losses": 83,
+      "matches": 113,
+      "wins": 18
+    },
+    "friendly": {
+      "draws": 4,
+      "goalsAgainst": 90,
+      "goalsFor": 18,
+      "losses": 28,
+      "matches": 35,
+      "wins": 3
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 181,
+      "goalsFor": 66,
+      "losses": 41,
+      "matches": 60,
+      "wins": 12
+    },
+    "nonNeutralVenue": {
+      "draws": 9,
+      "goalsAgainst": 277,
+      "goalsFor": 48,
+      "losses": 70,
+      "matches": 88,
+      "wins": 9
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "macau",
+  "teamName": "Macau",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "alberto-carvalhal",
+      "scorer": "Alberto Carvalhal"
+    },
+    {
+      "goals": 2,
+      "playerKey": "daniel-pinto",
+      "scorer": "Daniel Pinto"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kin-seng-chan",
+      "scorer": "Kin Seng Chan"
+    },
+    {
+      "goals": 2,
+      "playerKey": "leong-ka-hang",
+      "scorer": "Leong Ka Hang"
+    },
+    {
+      "goals": 1,
+      "playerKey": "che-chi-man",
+      "scorer": "Che Chi Man"
+    },
+    {
+      "goals": 1,
+      "playerKey": "cheang-chon-man",
+      "scorer": "Cheang Chon Man"
+    },
+    {
+      "goals": 1,
+      "playerKey": "filipe-duarte",
+      "scorer": "Filipe Duarte"
+    },
+    {
+      "goals": 1,
+      "playerKey": "fu-weng-lei",
+      "scorer": "Fu Weng Lei"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jos-maria-da-cruz-martins",
+      "scorer": "José Maria da Cruz Martins"
+    },
+    {
+      "goals": 1,
+      "playerKey": "kim-meng-leong",
+      "scorer": "Kim Meng Leong"
+    }
+  ]
+}

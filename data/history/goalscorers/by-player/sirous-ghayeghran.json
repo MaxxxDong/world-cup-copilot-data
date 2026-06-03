@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "1989-02-23",
+      "goalId": "goal-1989-02-23-thailand-iran-11911",
+      "homeTeamId": "thailand",
+      "matchKey": "1989-02-23-thailand-iran",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sirous Ghayeghran",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "1992-10-30",
+      "goalId": "goal-1992-10-30-north-korea-iran-13456",
+      "homeTeamId": "north-korea",
+      "matchKey": "1992-10-30-north-korea-iran",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sirous Ghayeghran",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "sirous ghayeghran",
+  "playerKey": "sirous-ghayeghran",
+  "scorer": "Sirous Ghayeghran",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

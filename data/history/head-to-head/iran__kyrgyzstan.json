@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 25,
+    "teamAWins": 6,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "iran",
+    "date": "2024-11-19",
+    "homeScore": 2,
+    "homeTeamId": "kyrgyzstan",
+    "matchId": "int-2024-11-19-kyrgyzstan-iran",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 7,
+      "awayTeamId": "iran",
+      "date": "1997-06-04",
+      "homeScore": 0,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-1997-06-04-kyrgyzstan-iran",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kyrgyzstan",
+      "date": "1997-06-09",
+      "homeScore": 3,
+      "homeTeamId": "iran",
+      "matchId": "int-1997-06-09-iran-kyrgyzstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2016-06-07",
+      "homeScore": 6,
+      "homeTeamId": "iran",
+      "matchId": "int-2016-06-07-iran-kyrgyzstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "iran",
+      "date": "2023-06-16",
+      "homeScore": 1,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2023-06-16-kyrgyzstan-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CAFA Nations Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2024-09-05",
+      "homeScore": 1,
+      "homeTeamId": "iran",
+      "matchId": "int-2024-09-05-iran-kyrgyzstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "iran",
+      "date": "2024-11-19",
+      "homeScore": 2,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2024-11-19-kyrgyzstan-iran",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "iran__kyrgyzstan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 19,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 7,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 18,
+      "teamAWins": 5,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iran",
+  "teamBId": "kyrgyzstan"
+}

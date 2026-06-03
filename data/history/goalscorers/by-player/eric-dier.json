@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2016-06-11",
+      "goalId": "goal-2016-06-11-england-russia-35826",
+      "homeTeamId": "england",
+      "matchKey": "2016-06-11-england-russia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Dier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2017-09-04",
+      "goalId": "goal-2017-09-04-england-slovakia-37163",
+      "homeTeamId": "england",
+      "matchKey": "2017-09-04-england-slovakia",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Dier",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "eric dier",
+  "playerKey": "eric-dier",
+  "scorer": "Eric Dier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "montenegro",
+      "date": "2018-10-14",
+      "goalId": "goal-2018-10-14-lithuania-montenegro-37872",
+      "homeTeamId": "lithuania",
+      "matchKey": "2018-10-14-lithuania-montenegro",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Boris Kopitović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "montenegro"
+    },
+    {
+      "awayTeamId": "montenegro",
+      "date": "2019-06-10",
+      "goalId": "goal-2019-06-10-czech-republic-montenegro-38429",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2019-06-10-czech-republic-montenegro",
+      "minute": 49,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Boris Kopitović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "boris kopitovi",
+  "playerKey": "boris-kopitovi",
+  "scorer": "Boris Kopitović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic",
+    "montenegro"
+  ]
+}

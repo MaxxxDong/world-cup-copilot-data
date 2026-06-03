@@ -1,0 +1,217 @@
+{
+  "aliases": [
+    "Cayman Islands"
+  ],
+  "allTime": {
+    "draws": 21,
+    "goalsAgainst": 286,
+    "goalsFor": 116,
+    "losses": 72,
+    "matches": 118,
+    "wins": 25
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 17,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 42,
+      "goalsFor": 19,
+      "losses": 11,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 4,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "bahamas",
+      "date": "2026-03-29",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2026-03-29-cayman-islands-bahamas",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2026-03-26-cayman-islands-british-virgin-islands",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "anguilla",
+      "date": "2025-11-15",
+      "homeScore": 4,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2025-11-15-cayman-islands-anguilla",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-11-12",
+      "homeScore": 1,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2025-11-12-cayman-islands-british-virgin-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "honduras",
+      "date": "2025-06-07",
+      "homeScore": 0,
+      "homeTeamId": "cayman-islands",
+      "matchId": "int-2025-06-07-cayman-islands-honduras",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 20,
+      "goalsAgainst": 230,
+      "goalsFor": 102,
+      "losses": 57,
+      "matches": 100,
+      "wins": 23
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 56,
+      "goalsFor": 14,
+      "losses": 15,
+      "matches": 18,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 5,
+      "goalsAgainst": 67,
+      "goalsFor": 30,
+      "losses": 16,
+      "matches": 27,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 219,
+      "goalsFor": 86,
+      "losses": 56,
+      "matches": 91,
+      "wins": 19
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "cayman-islands",
+  "teamName": "Cayman Islands",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "mark-ebanks",
+      "scorer": "Mark Ebanks"
+    },
+    {
+      "goals": 1,
+      "playerKey": "allean-richard-grant-velasquez",
+      "scorer": "Allean Richard Grant Velasquez"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jonah-ebanks",
+      "scorer": "Jonah Ebanks"
+    },
+    {
+      "goals": 1,
+      "playerKey": "joshwa-campbell",
+      "scorer": "Joshwa Campbell"
+    },
+    {
+      "goals": 1,
+      "playerKey": "marshall-forbes",
+      "scorer": "Marshall Forbes"
+    },
+    {
+      "goals": 1,
+      "playerKey": "thomas-elliot",
+      "scorer": "Thomas Elliot"
+    }
+  ]
+}

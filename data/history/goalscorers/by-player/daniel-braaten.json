@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "2007-06-06",
+      "goalId": "goal-2007-06-06-norway-hungary-26706",
+      "homeTeamId": "norway",
+      "matchKey": "2007-06-06-norway-hungary",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Braaten",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-norway-iceland-33491",
+      "homeTeamId": "norway",
+      "matchKey": "2013-10-15-norway-iceland",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Braaten",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "daniel braaten",
+  "playerKey": "daniel-braaten",
+  "scorer": "Daniel Braaten",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

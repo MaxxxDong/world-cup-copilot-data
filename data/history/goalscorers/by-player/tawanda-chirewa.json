@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-rsa-zimbabwe-44915",
+      "homeTeamId": "rsa",
+      "matchKey": "2024-06-11-rsa-zimbabwe",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tawanda Chirewa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-nigeria-zimbabwe-46186",
+      "homeTeamId": "nigeria",
+      "matchKey": "2025-03-25-nigeria-zimbabwe",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tawanda Chirewa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "tawanda chirewa",
+  "playerKey": "tawanda-chirewa",
+  "scorer": "Tawanda Chirewa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2015-10-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1991-07-31",
+    "nationality": "Eswatini",
+    "playerKey": "sabelo-ndzinisa",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "f63f403b",
+      "footballdatabase_eu": "197247",
+      "national_football_teams": "49437",
+      "soccerway": "285339",
+      "sofascore": "933007",
+      "transfermarkt": "401986",
+      "wikidata": "Q21067119"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-09",
+  "playerKey": "sabelo-ndzinisa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-djibouti-eswatini-35029",
+      "matchKey": "2015-10-09-djibouti-eswatini",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sabelo Ndzinisa"
+    }
+  ],
+  "scorer": "Sabelo Ndzinisa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "eswatini",
+  "teamName": "Eswatini",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

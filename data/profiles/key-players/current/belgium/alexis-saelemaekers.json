@@ -1,0 +1,91 @@
+{
+  "club": "AC Milan (ITA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1999-06-27",
+    "nationality": "Belgium",
+    "playerKey": "alexis-saelemaekers",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "1417",
+      "capology": "alexis-saelemaekers-36338",
+      "espn": "271132",
+      "eu_football_info": "31131",
+      "fbref": "ee251371",
+      "footballdatabase_eu": "304775",
+      "heimspiel": "473594",
+      "impect": "12965",
+      "kicker": "alexis-saelemaekers",
+      "lequipe": "67052",
+      "national_football_teams": "79711",
+      "opta": "9vnr9uog5fmggich2i4vjxwbt",
+      "serie_a": "alexis-saelemaekers-90594",
+      "skillcorner": "14543",
+      "soccerbase": "110849",
+      "soccerway": "462566",
+      "sofascore": "901891",
+      "sofifa": "201771720",
+      "thesportsdb": "34169691",
+      "transfermarkt": "381950",
+      "uefa": "250101735",
+      "wikidata": "Q49166190",
+      "worldfootball": "alexis-saelemaekers",
+      "wyscout": "475011"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Alexis Saelemaekers",
+  "playerKey": "alexis-saelemaekers",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-belgium-liechtenstein-47383",
+      "matchKey": "2025-11-18-belgium-liechtenstein",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Saelemaekers"
+    },
+    {
+      "date": "2021-09-05",
+      "goalId": "goal-2021-09-05-belgium-czech-republic-41265",
+      "matchKey": "2021-09-05-belgium-czech-republic",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Saelemaekers"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+  },
+  "shirtNumber": 22,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belgium",
+  "teamName": "Belgium"
+}

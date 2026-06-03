@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-gibraltar-estonia-37351",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2017-10-07-gibraltar-estonia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siim Luts",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "2018-10-15",
+      "goalId": "goal-2018-10-15-estonia-hungary-37881",
+      "homeTeamId": "estonia",
+      "matchKey": "2018-10-15-estonia-hungary",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siim Luts",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "siim luts",
+  "playerKey": "siim-luts",
+  "scorer": "Siim Luts",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

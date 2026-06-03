@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2023-11-17",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2004-10-17",
+    "nationality": "Malawi",
+    "playerKey": "chifundo-mphasi",
+    "providerIds": {
+      "api_football": "424222",
+      "espn": "363767",
+      "footballdatabase_eu": "528749",
+      "national_football_teams": "91422",
+      "soccerway": "912171",
+      "sofascore": "1502236",
+      "thesportsdb": "34259615",
+      "transfermarkt": "999879",
+      "wikidata": "Q122259814"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-06",
+  "playerKey": "chifundo-mphasi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-malawi-sao-tome-and-principe-44671",
+      "matchKey": "2024-06-06-malawi-sao-tome-and-principe",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chifundo Mphasi"
+    },
+    {
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-liberia-malawi-43976",
+      "matchKey": "2023-11-17-liberia-malawi",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chifundo Mphasi"
+    }
+  ],
+  "scorer": "Chifundo Mphasi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "malawi",
+  "teamName": "Malawi",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

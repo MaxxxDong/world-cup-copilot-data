@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "2018-10-11",
+      "goalId": "goal-2018-10-11-kosovo-malta-37821",
+      "homeTeamId": "kosovo",
+      "matchKey": "2018-10-11-kosovo-malta",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Kololli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2018-10-11",
+      "goalId": "goal-2018-10-11-kosovo-malta-37824",
+      "homeTeamId": "kosovo",
+      "matchKey": "2018-10-11-kosovo-malta",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Kololli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2018-11-17",
+      "goalId": "goal-2018-11-17-malta-kosovo-37970",
+      "homeTeamId": "malta",
+      "matchKey": "2018-11-17-malta-kosovo",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Kololli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2020-09-03",
+      "goalId": "goal-2020-09-03-moldova-kosovo-39621",
+      "homeTeamId": "moldova",
+      "matchKey": "2020-09-03-moldova-kosovo",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Kololli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2020-10-08",
+      "goalId": "goal-2020-10-08-north-macedonia-kosovo-39744",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2020-10-08-north-macedonia-kosovo",
+      "minute": 16,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Benjamin Kololli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "benjamin kololli",
+  "playerKey": "benjamin-kololli",
+  "scorer": "Benjamin Kololli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kosovo",
+    "north-macedonia"
+  ]
+}

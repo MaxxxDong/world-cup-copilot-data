@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Costa Rica"
+  ],
+  "allTime": {
+    "draws": 178,
+    "goalsAgainst": 852,
+    "goalsFor": 1237,
+    "losses": 228,
+    "matches": 722,
+    "wins": 316
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 7,
+      "goalsAgainst": 15,
+      "goalsFor": 12,
+      "losses": 2,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 27,
+      "goalsFor": 46,
+      "losses": 4,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 5,
+      "awayTeamId": "iran",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2026-03-31-costa-rica-iran",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "jordan",
+      "date": "2026-03-27",
+      "homeScore": 2,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2026-03-27-costa-rica-jordan",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "honduras",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2025-11-18-costa-rica-honduras",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2025-11-13-haiti-costa-rica",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "nicaragua",
+      "date": "2025-10-13",
+      "homeScore": 4,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2025-10-13-costa-rica-nicaragua",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 111,
+      "goalsAgainst": 530,
+      "goalsFor": 933,
+      "losses": 131,
+      "matches": 485,
+      "wins": 243
+    },
+    "friendly": {
+      "draws": 67,
+      "goalsAgainst": 322,
+      "goalsFor": 304,
+      "losses": 97,
+      "matches": 237,
+      "wins": 73
+    },
+    "neutralVenue": {
+      "draws": 52,
+      "goalsAgainst": 281,
+      "goalsFor": 443,
+      "losses": 70,
+      "matches": 231,
+      "wins": 109
+    },
+    "nonNeutralVenue": {
+      "draws": 126,
+      "goalsAgainst": 571,
+      "goalsFor": 794,
+      "losses": 158,
+      "matches": 491,
+      "wins": 207
+    },
+    "worldCup": {
+      "draws": 5,
+      "goalsAgainst": 39,
+      "goalsFor": 22,
+      "losses": 10,
+      "matches": 21,
+      "wins": 6
+    }
+  },
+  "teamId": "costa-rica",
+  "teamName": "Costa Rica",
+  "topScorers": [
+    {
+      "goals": 37,
+      "playerKey": "paulo-wanchope",
+      "scorer": "Paulo Wanchope"
+    },
+    {
+      "goals": 21,
+      "playerKey": "lvaro-sabor-o",
+      "scorer": "Álvaro Saborío"
+    },
+    {
+      "goals": 20,
+      "playerKey": "bryan-ruiz",
+      "scorer": "Bryan Ruiz"
+    },
+    {
+      "goals": 17,
+      "playerKey": "celso-borges",
+      "scorer": "Celso Borges"
+    },
+    {
+      "goals": 16,
+      "playerKey": "rolando-fonseca",
+      "scorer": "Rolando Fonseca"
+    },
+    {
+      "goals": 15,
+      "playerKey": "walter-centeno",
+      "scorer": "Walter Centeno"
+    },
+    {
+      "goals": 14,
+      "playerKey": "joel-campbell",
+      "scorer": "Joel Campbell"
+    },
+    {
+      "goals": 14,
+      "playerKey": "r-nald-g-mez",
+      "scorer": "Rónald Gómez"
+    },
+    {
+      "goals": 12,
+      "playerKey": "hern-n-medford",
+      "scorer": "Hernán Medford"
+    },
+    {
+      "goals": 9,
+      "playerKey": "leonel-hern-ndez",
+      "scorer": "Leonel Hernández"
+    }
+  ]
+}

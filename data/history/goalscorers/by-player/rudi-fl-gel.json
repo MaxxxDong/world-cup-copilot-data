@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "1963-10-13",
+      "goalId": "goal-1963-10-13-republic-of-ireland-austria-4021",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1963-10-13-republic-of-ireland-austria",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rudi Flögel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1967-09-24",
+      "goalId": "goal-1967-09-24-austria-finland-4982",
+      "homeTeamId": "austria",
+      "matchKey": "1967-09-24-austria-finland",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rudi Flögel",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    }
+  ],
+  "normalizedScorer": "rudi fl gel",
+  "playerKey": "rudi-fl-gel",
+  "scorer": "Rudi Flögel",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria"
+  ]
+}

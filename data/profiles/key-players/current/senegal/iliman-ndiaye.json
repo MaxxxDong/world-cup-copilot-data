@@ -1,0 +1,105 @@
+{
+  "club": "Everton FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2000-03-06",
+    "nationality": "France",
+    "playerKey": "iliman-ndiaye",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "266648",
+      "api_football": "18592",
+      "capology": "iliman-ndiaye-36591",
+      "espn": "268641",
+      "fbref": "5ed97752",
+      "footballdatabase_eu": "341770",
+      "fotmob": "965764",
+      "heimspiel": "570288",
+      "impect": "58898",
+      "kicker": "iliman-ndiaye",
+      "lequipe": "86253",
+      "national_football_teams": "87749",
+      "opta": "3dm2bfuoyips4rbj0vhvbp9be",
+      "opta_numeric": "440993",
+      "premier_league": "31936",
+      "skillcorner": "37881",
+      "soccerbase": "109332",
+      "soccerway": "574083",
+      "sofascore": "914309",
+      "sportmonks": "23661272",
+      "statmuse_pl": "2512",
+      "thesportsdb": "34178338",
+      "transfermarkt": "623570",
+      "uefa": "250181626",
+      "understat": "9307",
+      "whoscored": "366116",
+      "wikidata": "Q105956269",
+      "worldfootball": "iliman-ndiaye",
+      "wyscout": "586894"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Iliman Ndiaye",
+  "playerKey": "iliman-ndiaye",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2026-01-09",
+      "goalId": "goal-2026-01-09-mali-senegal-47544",
+      "matchKey": "2026-01-09-mali-senegal",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iliman Ndiaye"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-senegal-mauritania-47198",
+      "matchKey": "2025-10-14-senegal-mauritania",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iliman Ndiaye"
+    },
+    {
+      "date": "2024-01-23",
+      "goalId": "goal-2024-01-23-guinea-senegal-44343",
+      "matchKey": "2024-01-23-guinea-senegal",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iliman Ndiaye"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+  },
+  "shirtNumber": 13,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "senegal",
+  "teamName": "Senegal"
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "grenada",
+      "date": "2008-06-21",
+      "goalId": "goal-2008-06-21-costa-rica-grenada-28152",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2008-06-21-costa-rica-grenada",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Randall Azofeifa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2016-09-02",
+      "goalId": "goal-2016-09-02-haiti-costa-rica-35999",
+      "homeTeamId": "haiti",
+      "matchKey": "2016-09-02-haiti-costa-rica",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Randall Azofeifa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "randall azofeifa",
+  "playerKey": "randall-azofeifa",
+  "scorer": "Randall Azofeifa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

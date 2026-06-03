@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Samoa"
+  ],
+  "allTime": {
+    "draws": 4,
+    "goalsAgainst": 249,
+    "goalsFor": 99,
+    "losses": 45,
+    "matches": 71,
+    "wins": 22
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 30,
+      "goalsFor": 12,
+      "losses": 6,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 69,
+      "goalsFor": 28,
+      "losses": 13,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "samoa",
+      "date": "2024-11-18",
+      "homeScore": 8,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2024-11-18-new-zealand-samoa",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "tahiti",
+      "date": "2024-11-15",
+      "homeScore": 0,
+      "homeTeamId": "samoa",
+      "matchId": "int-2024-11-15-samoa-tahiti",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "samoa",
+      "date": "2024-10-12",
+      "homeScore": 4,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2024-10-12-vanuatu-samoa",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tonga",
+      "date": "2024-09-09",
+      "homeScore": 2,
+      "homeTeamId": "samoa",
+      "matchId": "int-2024-09-09-samoa-tonga",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "american-samoa",
+      "date": "2024-09-06",
+      "homeScore": 2,
+      "homeTeamId": "samoa",
+      "matchId": "int-2024-09-06-samoa-american-samoa",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "goalsAgainst": 238,
+      "goalsFor": 98,
+      "losses": 42,
+      "matches": 67,
+      "wins": 22
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 11,
+      "goalsFor": 1,
+      "losses": 3,
+      "matches": 4,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 126,
+      "goalsFor": 44,
+      "losses": 23,
+      "matches": 32,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 123,
+      "goalsFor": 55,
+      "losses": 22,
+      "matches": 39,
+      "wins": 14
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "desmond-fa-aiuaso",
+      "scorer": "Desmond Fa'aiuaso"
+    },
+    {
+      "goals": 3,
+      "playerKey": "junior-michael",
+      "scorer": "Junior Michael"
+    },
+    {
+      "goals": 2,
+      "playerKey": "andrew-mobberley",
+      "scorer": "Andrew Mobberley"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ben-lemana",
+      "scorer": "Ben Lemana"
+    },
+    {
+      "goals": 2,
+      "playerKey": "johnny-hall",
+      "scorer": "Johnny Hall"
+    },
+    {
+      "goals": 2,
+      "playerKey": "luke-salisbury",
+      "scorer": "Luke Salisbury"
+    },
+    {
+      "goals": 2,
+      "playerKey": "luki-gosche",
+      "scorer": "Luki Gosche"
+    },
+    {
+      "goals": 2,
+      "playerKey": "silao-malo",
+      "scorer": "Silao Malo"
+    },
+    {
+      "goals": 2,
+      "playerKey": "tama-fasavalu",
+      "scorer": "Tama Fasavalu"
+    },
+    {
+      "goals": 1,
+      "playerKey": "albert-bell",
+      "scorer": "Albert Bell"
+    }
+  ]
+}

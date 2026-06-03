@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-colombia-chile-29580",
+      "homeTeamId": "colombia",
+      "matchKey": "2009-10-10-colombia-chile",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Valdivia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "2014-06-13",
+      "goalId": "goal-2014-06-13-chile-australia-33603",
+      "homeTeamId": "chile",
+      "matchKey": "2014-06-13-chile-australia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jorge Valdivia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "jorge valdivia",
+  "playerKey": "jorge-valdivia",
+  "scorer": "Jorge Valdivia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

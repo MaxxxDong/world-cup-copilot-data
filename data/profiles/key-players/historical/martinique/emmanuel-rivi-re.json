@@ -1,0 +1,44 @@
+{
+  "firstGoalDate": "2021-07-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "lastGoalDate": "2021-07-15",
+  "playerKey": "emmanuel-rivi-re",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-07-15",
+      "goalId": "goal-2021-07-15-usa-martinique-41041",
+      "matchKey": "2021-07-15-usa-martinique",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Emmanuel Rivière"
+    },
+    {
+      "date": "2021-07-11",
+      "goalId": "goal-2021-07-11-canada-martinique-41001",
+      "matchKey": "2021-07-11-canada-martinique",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Rivière"
+    }
+  ],
+  "scorer": "Emmanuel Rivière",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "martinique",
+  "teamName": "Martinique",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

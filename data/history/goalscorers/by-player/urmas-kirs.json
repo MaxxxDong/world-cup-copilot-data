@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1991-11-15",
+      "goalId": "goal-1991-11-15-lithuania-estonia-13024",
+      "homeTeamId": "lithuania",
+      "matchKey": "1991-11-15-lithuania-estonia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Urmas Kirs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1994-11-13",
+      "goalId": "goal-1994-11-13-ukraine-estonia-15072",
+      "homeTeamId": "ukraine",
+      "matchKey": "1994-11-13-ukraine-estonia",
+      "minute": 44,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Urmas Kirs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "1998-06-04",
+      "goalId": "goal-1998-06-04-estonia-faroe-islands-18201",
+      "homeTeamId": "estonia",
+      "matchKey": "1998-06-04-estonia-faroe-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Urmas Kirs",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "urmas kirs",
+  "playerKey": "urmas-kirs",
+  "scorer": "Urmas Kirs",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia",
+    "ukraine"
+  ]
+}

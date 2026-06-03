@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2015-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1991-02-16",
+    "nationality": "Samoa",
+    "playerKey": "johnny-hall",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c6f395ad",
+      "footballdatabase_eu": "273747",
+      "national_football_teams": "60267",
+      "transfermarkt": "391106",
+      "wikidata": "Q21066424"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-09-04",
+  "playerKey": "johnny-hall",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-09-04",
+      "goalId": "goal-2015-09-04-tonga-samoa-34800",
+      "matchKey": "2015-09-04-tonga-samoa",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johnny Hall"
+    },
+    {
+      "date": "2015-09-04",
+      "goalId": "goal-2015-09-04-tonga-samoa-34799",
+      "matchKey": "2015-09-04-tonga-samoa",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johnny Hall"
+    }
+  ],
+  "scorer": "Johnny Hall",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "samoa",
+  "teamName": "Samoa",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

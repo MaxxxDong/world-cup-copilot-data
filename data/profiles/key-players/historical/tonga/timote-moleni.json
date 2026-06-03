@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "1996-11-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1975-06-27",
+    "nationality": "Tonga",
+    "playerKey": "timote-moleni",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "201199",
+      "national_football_teams": "6660",
+      "soccerway": "282572",
+      "transfermarkt": "184619",
+      "wikidata": "Q7806994"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1996-11-11",
+  "playerKey": "timote-moleni",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-11-11",
+      "goalId": "goal-1996-11-11-tonga-cook-islands-16545",
+      "matchKey": "1996-11-11-tonga-cook-islands",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Timote Moleni"
+    },
+    {
+      "date": "1996-11-11",
+      "goalId": "goal-1996-11-11-tonga-cook-islands-16544",
+      "matchKey": "1996-11-11-tonga-cook-islands",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Timote Moleni"
+    }
+  ],
+  "scorer": "Timote Moleni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tonga",
+  "teamName": "Tonga",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

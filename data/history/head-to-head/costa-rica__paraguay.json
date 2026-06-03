@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 8,
+    "teamAGoals": 5,
+    "teamAWins": 3,
+    "teamBGoals": 6,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "paraguay",
+    "date": "2024-07-02",
+    "homeScore": 2,
+    "homeTeamId": "costa-rica",
+    "matchId": "int-2024-07-02-costa-rica-paraguay",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Copa América"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "1965-03-17",
+      "homeScore": 1,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-1965-03-17-costa-rica-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "1965-03-19",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-1965-03-19-costa-rica-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2000-06-21",
+      "homeScore": 1,
+      "homeTeamId": "paraguay",
+      "matchId": "int-2000-06-21-paraguay-costa-rica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2003-03-29",
+      "homeScore": 2,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2003-03-29-costa-rica-paraguay",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2004-07-08",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2004-07-08-costa-rica-paraguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2010-08-11",
+      "homeScore": 2,
+      "homeTeamId": "paraguay",
+      "matchId": "int-2010-08-11-paraguay-costa-rica",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "paraguay",
+      "date": "2016-06-04",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2016-06-04-costa-rica-paraguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "paraguay",
+      "date": "2024-07-02",
+      "homeScore": 2,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2024-07-02-costa-rica-paraguay",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Copa América"
+    }
+  ],
+  "pairKey": "costa-rica__paraguay",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "costa-rica",
+  "teamBId": "paraguay"
+}

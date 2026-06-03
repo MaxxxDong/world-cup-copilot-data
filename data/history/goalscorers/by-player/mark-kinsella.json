@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2000-10-11",
+      "goalId": "goal-2000-10-11-republic-of-ireland-estonia-20188",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2000-10-11-republic-of-ireland-estonia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Kinsella",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "andorra",
+      "date": "2001-04-25",
+      "goalId": "goal-2001-04-25-republic-of-ireland-andorra-20984",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2001-04-25-republic-of-ireland-andorra",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Kinsella",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "mark kinsella",
+  "playerKey": "mark-kinsella",
+  "scorer": "Mark Kinsella",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

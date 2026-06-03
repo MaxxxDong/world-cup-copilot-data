@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "albania",
+      "date": "1992-09-09",
+      "goalId": "goal-1992-09-09-northern-ireland-albania-13272",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1992-09-09-northern-ireland-albania",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jim Magilton",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1993-06-02",
+      "goalId": "goal-1993-06-02-latvia-northern-ireland-14155",
+      "homeTeamId": "latvia",
+      "matchKey": "1993-06-02-latvia-northern-ireland",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jim Magilton",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "jim magilton",
+  "playerKey": "jim-magilton",
+  "scorer": "Jim Magilton",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

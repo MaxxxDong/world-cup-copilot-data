@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "2012-01-21",
+      "goalId": "goal-2012-01-21-senegal-zambia-31602",
+      "homeTeamId": "senegal",
+      "matchKey": "2012-01-21-senegal-zambia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dame N'Doye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2012-06-02",
+      "goalId": "goal-2012-06-02-senegal-liberia-31775",
+      "homeTeamId": "senegal",
+      "matchKey": "2012-06-02-senegal-liberia",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dame N'Doye",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "dame n doye",
+  "playerKey": "dame-n-doye",
+  "scorer": "Dame N'Doye",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

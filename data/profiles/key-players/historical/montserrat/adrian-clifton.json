@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2021-06-02",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-02-21",
+    "nationality": "Montserrat",
+    "playerKey": "adrian-clifton",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "fe72912b",
+      "footballdatabase_eu": "221131",
+      "national_football_teams": "59031",
+      "soccerway": "308812",
+      "sofascore": "819263",
+      "transfermarkt": "367327",
+      "wikidata": "Q24258805"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-02",
+  "playerKey": "adrian-clifton",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-montserrat-united-states-virgin-islands-40459",
+      "matchKey": "2021-06-02-montserrat-united-states-virgin-islands",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adrian Clifton"
+    },
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-montserrat-united-states-virgin-islands-40458",
+      "matchKey": "2021-06-02-montserrat-united-states-virgin-islands",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adrian Clifton"
+    }
+  ],
+  "scorer": "Adrian Clifton",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

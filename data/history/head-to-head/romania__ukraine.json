@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 17,
+    "teamAWins": 4,
+    "teamBGoals": 10,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "ukraine",
+    "date": "2024-06-17",
+    "homeScore": 3,
+    "homeTeamId": "romania",
+    "matchId": "int-2024-06-17-romania-ukraine",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Euro"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2001-02-26",
+      "homeScore": 1,
+      "homeTeamId": "romania",
+      "matchId": "int-2001-02-26-romania-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Cyprus International Tournament"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "ukraine",
+      "date": "2002-03-27",
+      "homeScore": 4,
+      "homeTeamId": "romania",
+      "matchId": "int-2002-03-27-romania-ukraine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2003-08-20",
+      "homeScore": 0,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2003-08-20-ukraine-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2010-05-29",
+      "homeScore": 3,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2010-05-29-ukraine-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ukraine",
+      "date": "2011-02-08",
+      "homeScore": 2,
+      "homeTeamId": "romania",
+      "matchId": "int-2011-02-08-romania-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Cyprus International Tournament"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "ukraine",
+      "date": "2016-05-29",
+      "homeScore": 3,
+      "homeTeamId": "romania",
+      "matchId": "int-2016-05-29-romania-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "ukraine",
+      "date": "2024-06-17",
+      "homeScore": 3,
+      "homeTeamId": "romania",
+      "matchId": "int-2024-06-17-romania-ukraine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    }
+  ],
+  "pairKey": "romania__ukraine",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 0,
+    "teamBWins": 1
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 11,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "romania",
+  "teamBId": "ukraine"
+}

@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 6,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 11,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "japan",
+    "date": "2018-07-02",
+    "homeScore": 3,
+    "homeTeamId": "belgium",
+    "matchId": "int-2018-07-02-belgium-japan",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "belgium",
+      "date": "1999-06-03",
+      "homeScore": 0,
+      "homeTeamId": "japan",
+      "matchId": "int-1999-06-03-japan-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Kirin Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "belgium",
+      "date": "2002-06-04",
+      "homeScore": 2,
+      "homeTeamId": "japan",
+      "matchId": "int-2002-06-04-japan-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "belgium",
+      "date": "2009-05-31",
+      "homeScore": 4,
+      "homeTeamId": "japan",
+      "matchId": "int-2009-05-31-japan-belgium",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Kirin Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "japan",
+      "date": "2013-11-19",
+      "homeScore": 2,
+      "homeTeamId": "belgium",
+      "matchId": "int-2013-11-19-belgium-japan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "japan",
+      "date": "2017-11-14",
+      "homeScore": 1,
+      "homeTeamId": "belgium",
+      "matchId": "int-2017-11-14-belgium-japan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "japan",
+      "date": "2018-07-02",
+      "homeScore": 3,
+      "homeTeamId": "belgium",
+      "matchId": "int-2018-07-02-belgium-japan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    }
+  ],
+  "pairKey": "belgium__japan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "belgium",
+  "teamBId": "japan"
+}

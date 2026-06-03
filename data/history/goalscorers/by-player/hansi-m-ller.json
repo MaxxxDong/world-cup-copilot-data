@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1978-06-06",
+      "goalId": "goal-1978-06-06-germany-mex-8246",
+      "homeTeamId": "germany",
+      "matchKey": "1978-06-06-germany-mex",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hansi Müller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "hansi m ller",
+  "playerKey": "hansi-m-ller",
+  "scorer": "Hansi Müller",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

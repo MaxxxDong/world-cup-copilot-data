@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1994-11-16",
+      "goalId": "goal-1994-11-16-georgia-wales-15099",
+      "homeTeamId": "georgia",
+      "matchKey": "1994-11-16-georgia-wales",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Kinkladze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "1995-06-07",
+      "goalId": "goal-1995-06-07-wales-georgia-15391",
+      "homeTeamId": "wales",
+      "matchKey": "1995-06-07-wales-georgia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Kinkladze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "1995-10-11",
+      "goalId": "goal-1995-10-11-georgia-bulgaria-15598",
+      "homeTeamId": "georgia",
+      "matchKey": "1995-10-11-georgia-bulgaria",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Georgi Kinkladze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "moldova",
+      "date": "1997-06-07",
+      "goalId": "goal-1997-06-07-georgia-moldova-17199",
+      "homeTeamId": "georgia",
+      "matchKey": "1997-06-07-georgia-moldova",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Kinkladze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-lithuania-georgia-20104",
+      "homeTeamId": "lithuania",
+      "matchKey": "2000-10-07-lithuania-georgia",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Georgi Kinkladze",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    }
+  ],
+  "normalizedScorer": "georgi kinkladze",
+  "playerKey": "georgi-kinkladze",
+  "scorer": "Georgi Kinkladze",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "georgia"
+  ]
+}

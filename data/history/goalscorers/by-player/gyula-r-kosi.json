@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1963-10-19",
+      "goalId": "goal-1963-10-19-german-dr-hungary-4027",
+      "homeTeamId": "german-dr",
+      "matchKey": "1963-10-19-german-dr-hungary",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gyula Rákosi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "german-dr",
+      "date": "1965-10-09",
+      "goalId": "goal-1965-10-09-hungary-german-dr-4473",
+      "homeTeamId": "hungary",
+      "matchKey": "1965-10-09-hungary-german-dr",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gyula Rákosi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "gyula r kosi",
+  "playerKey": "gyula-r-kosi",
+  "scorer": "Gyula Rákosi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

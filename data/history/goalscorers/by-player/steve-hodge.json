@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1987-04-01",
+      "goalId": "goal-1987-04-01-northern-ireland-england-11397",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1987-04-01-northern-ireland-england",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steve Hodge",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "steve hodge",
+  "playerKey": "steve-hodge",
+  "scorer": "Steve Hodge",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Syria"
+  ],
+  "allTime": {
+    "draws": 120,
+    "goalsAgainst": 634,
+    "goalsFor": 691,
+    "losses": 190,
+    "matches": 483,
+    "wins": 173
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 8,
+      "goalsFor": 20,
+      "losses": 2,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 20,
+      "goalsFor": 37,
+      "losses": 6,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 2,
+      "goalsFor": 4,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "syria",
+      "date": "2025-12-11",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-2025-12-11-mar-syria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2025-12-07",
+      "homeScore": 0,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-12-07-syria-palestine",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "syria",
+      "date": "2025-12-04",
+      "homeScore": 1,
+      "homeTeamId": "qatar",
+      "matchId": "int-2025-12-04-qatar-syria",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "syria",
+      "date": "2025-12-01",
+      "homeScore": 0,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2025-12-01-tunisia-syria",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "south-sudan",
+      "date": "2025-11-25",
+      "homeScore": 2,
+      "homeTeamId": "syria",
+      "matchId": "int-2025-11-25-syria-south-sudan",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 67,
+      "goalsAgainst": 373,
+      "goalsFor": 508,
+      "losses": 111,
+      "matches": 307,
+      "wins": 129
+    },
+    "friendly": {
+      "draws": 53,
+      "goalsAgainst": 261,
+      "goalsFor": 183,
+      "losses": 79,
+      "matches": 176,
+      "wins": 44
+    },
+    "neutralVenue": {
+      "draws": 46,
+      "goalsAgainst": 255,
+      "goalsFor": 326,
+      "losses": 76,
+      "matches": 213,
+      "wins": 91
+    },
+    "nonNeutralVenue": {
+      "draws": 74,
+      "goalsAgainst": 379,
+      "goalsFor": 365,
+      "losses": 114,
+      "matches": 270,
+      "wins": 82
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "syria",
+  "teamName": "Syria",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "omar-khribin",
+      "scorer": "Omar Khribin"
+    },
+    {
+      "goals": 14,
+      "playerKey": "omar-al-somah",
+      "scorer": "Omar Al Somah"
+    },
+    {
+      "goals": 12,
+      "playerKey": "mahmoud-al-mawas",
+      "scorer": "Mahmoud Al-Mawas"
+    },
+    {
+      "goals": 11,
+      "playerKey": "said-bayazid",
+      "scorer": "Said Bayazid"
+    },
+    {
+      "goals": 8,
+      "playerKey": "bashar-srour",
+      "scorer": "Bashar Srour"
+    },
+    {
+      "goals": 8,
+      "playerKey": "raja-rafe",
+      "scorer": "Raja Rafe"
+    },
+    {
+      "goals": 7,
+      "playerKey": "mohammad-afash",
+      "scorer": "Mohammad Afash"
+    },
+    {
+      "goals": 6,
+      "playerKey": "bayazir-al-said",
+      "scorer": "Bayazir al-Said"
+    },
+    {
+      "goals": 6,
+      "playerKey": "nizar-mahrous",
+      "scorer": "Nizar Mahrous"
+    },
+    {
+      "goals": 5,
+      "playerKey": "firas-al-khatib",
+      "scorer": "Firas Al-Khatib"
+    }
+  ]
+}

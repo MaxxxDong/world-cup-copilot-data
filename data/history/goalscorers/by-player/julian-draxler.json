@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "slovakia",
+      "date": "2016-06-26",
+      "goalId": "goal-2016-06-26-germany-slovakia-35942",
+      "homeTeamId": "germany",
+      "matchKey": "2016-06-26-germany-slovakia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Draxler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "2016-10-11",
+      "goalId": "goal-2016-10-11-germany-northern-ireland-36358",
+      "homeTeamId": "germany",
+      "matchKey": "2016-10-11-germany-northern-ireland",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Draxler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2017-06-10",
+      "goalId": "goal-2017-06-10-germany-san-marino-36799",
+      "homeTeamId": "germany",
+      "matchKey": "2017-06-10-germany-san-marino",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Draxler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2017-06-19",
+      "goalId": "goal-2017-06-19-australia-germany-36898",
+      "homeTeamId": "australia",
+      "matchKey": "2017-06-19-australia-germany",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Julian Draxler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "2017-09-04",
+      "goalId": "goal-2017-09-04-germany-norway-37166",
+      "homeTeamId": "germany",
+      "matchKey": "2017-09-04-germany-norway",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Draxler",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "julian draxler",
+  "playerKey": "julian-draxler",
+  "scorer": "Julian Draxler",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

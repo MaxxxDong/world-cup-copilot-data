@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-cyprus-israel-16491",
+      "homeTeamId": "cyprus",
+      "matchKey": "1996-11-10-cyprus-israel",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siniša Gogić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-cyprus-israel-16492",
+      "homeTeamId": "cyprus",
+      "matchKey": "1996-11-10-cyprus-israel",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Siniša Gogić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1997-03-29",
+      "goalId": "goal-1997-03-29-cyprus-russia-16817",
+      "homeTeamId": "cyprus",
+      "matchKey": "1997-03-29-cyprus-russia",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siniša Gogić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1998-09-05",
+      "goalId": "goal-1998-09-05-cyprus-spain-18392",
+      "homeTeamId": "cyprus",
+      "matchKey": "1998-09-05-cyprus-spain",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Siniša Gogić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "sini a gogi",
+  "playerKey": "sini-a-gogi",
+  "scorer": "Siniša Gogić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus"
+  ]
+}

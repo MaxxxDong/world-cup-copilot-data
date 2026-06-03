@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "1934-03-16",
+      "goalId": "goal-1934-03-16-egypt-israel-722",
+      "homeTeamId": "egypt",
+      "matchKey": "1934-03-16-egypt-israel",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Latif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "1934-03-16",
+      "goalId": "goal-1934-03-16-egypt-israel-726",
+      "homeTeamId": "egypt",
+      "matchKey": "1934-03-16-egypt-israel",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Latif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "egypt",
+      "date": "1934-04-06",
+      "goalId": "goal-1934-04-06-israel-egypt-744",
+      "homeTeamId": "israel",
+      "matchKey": "1934-04-06-israel-egypt",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Latif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "mohamed latif",
+  "playerKey": "mohamed-latif",
+  "scorer": "Mohamed Latif",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

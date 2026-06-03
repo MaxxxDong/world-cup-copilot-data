@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2024-06-05",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1999-07-27",
+    "nationality": "United Kingdom",
+    "playerKey": "brandon-barzey",
+    "providerIds": {
+      "api_football": "328427",
+      "espn": "341957",
+      "footballdatabase_eu": "506904",
+      "impect": "239658",
+      "national_football_teams": "87761",
+      "soccerway": "722353",
+      "sofascore": "1381810",
+      "thesportsdb": "34250397",
+      "transfermarkt": "922642",
+      "wikidata": "Q121898120",
+      "wyscout": "773810"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-05",
+  "playerKey": "brandon-barzey",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-nicaragua-montserrat-44610",
+      "matchKey": "2024-06-05-nicaragua-montserrat",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brandon Barzey"
+    }
+  ],
+  "scorer": "Brandon Barzey",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

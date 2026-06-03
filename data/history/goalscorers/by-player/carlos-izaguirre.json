@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1919-05-13",
+      "goalId": "goal-1919-05-13-arg-uruguay-48",
+      "homeTeamId": "arg",
+      "matchKey": "1919-05-13-arg-uruguay",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Izaguirre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1919-05-18",
+      "goalId": "goal-1919-05-18-bra-arg-55",
+      "homeTeamId": "bra",
+      "matchKey": "1919-05-18-bra-arg",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Izaguirre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1919-05-22",
+      "goalId": "goal-1919-05-22-arg-chile-58",
+      "homeTeamId": "arg",
+      "matchKey": "1919-05-22-arg-chile",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Izaguirre",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "carlos izaguirre",
+  "playerKey": "carlos-izaguirre",
+  "scorer": "Carlos Izaguirre",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 9,
+    "teamAGoals": 14,
+    "teamAWins": 3,
+    "teamBGoals": 12,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "slovenia",
+    "date": "2022-11-17",
+    "homeScore": 1,
+    "homeTeamId": "romania",
+    "matchId": "int-2022-11-17-romania-slovenia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "1994-06-01",
+      "homeScore": 0,
+      "homeTeamId": "romania",
+      "matchId": "int-1994-06-01-romania-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2001-08-15",
+      "homeScore": 2,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2001-08-15-slovenia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "romania",
+      "date": "2001-11-10",
+      "homeScore": 2,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2001-11-10-slovenia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovenia",
+      "date": "2001-11-14",
+      "homeScore": 1,
+      "homeTeamId": "romania",
+      "matchId": "int-2001-11-14-romania-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2006-03-01",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2006-03-01-slovenia-romania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Cyprus International Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "2007-06-02",
+      "homeScore": 1,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2007-06-02-slovenia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "2007-06-06",
+      "homeScore": 2,
+      "homeTeamId": "romania",
+      "matchId": "int-2007-06-06-romania-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "romania",
+      "date": "2012-08-15",
+      "homeScore": 4,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2012-08-15-slovenia-romania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "slovenia",
+      "date": "2022-11-17",
+      "homeScore": 1,
+      "homeTeamId": "romania",
+      "matchId": "int-2022-11-17-romania-slovenia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "romania__slovenia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 8,
+      "teamAGoals": 12,
+      "teamAWins": 2,
+      "teamBGoals": 12,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "romania",
+  "teamBId": "slovenia"
+}

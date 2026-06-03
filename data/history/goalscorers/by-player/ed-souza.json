@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1947-07-20",
+      "goalId": "goal-1947-07-20-cuba-usa-1482",
+      "homeTeamId": "cuba",
+      "matchKey": "1947-07-20-cuba-usa",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ed Souza",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "ed souza",
+  "playerKey": "ed-souza",
+  "scorer": "Ed Souza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

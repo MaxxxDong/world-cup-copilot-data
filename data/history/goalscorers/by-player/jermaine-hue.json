@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "2005-07-08",
+      "goalId": "goal-2005-07-08-guatemala-jamaica-25494",
+      "homeTeamId": "guatemala",
+      "matchKey": "2005-07-08-guatemala-jamaica",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jermaine Hue",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2005-07-10",
+      "goalId": "goal-2005-07-10-jamaica-rsa-25508",
+      "homeTeamId": "jamaica",
+      "matchKey": "2005-07-10-jamaica-rsa",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jermaine Hue",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jamaica"
+    }
+  ],
+  "normalizedScorer": "jermaine hue",
+  "playerKey": "jermaine-hue",
+  "scorer": "Jermaine Hue",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jamaica"
+  ]
+}

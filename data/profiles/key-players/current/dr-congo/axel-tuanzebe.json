@@ -1,0 +1,86 @@
+{
+  "club": "Burnley FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1997-11-14",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "axel-tuanzebe",
+    "position": "centre-back",
+    "providerIds": {
+      "11v11": "250228",
+      "api_football": "19182",
+      "dongqiudi": "50248469",
+      "espn": "229524",
+      "fbref": "2baec6ce",
+      "footballdatabase_eu": "276645",
+      "fotmob": "690149",
+      "heimspiel": "420712",
+      "impect": "2259",
+      "kicker": "axel-tuanzebe",
+      "lequipe": "58560",
+      "opta": "cr74l0rwvkf4yck0go4esw44p",
+      "opta_numeric": "180804",
+      "premier_league": "13559",
+      "skillcorner": "12111",
+      "soccerbase": "88881",
+      "soccerway": "420198",
+      "sofascore": "817979",
+      "sportmonks": "4391",
+      "statmuse_pl": "551",
+      "thesportsdb": "34160942",
+      "transfermarkt": "342046",
+      "uefa": "250088247",
+      "understat": "934",
+      "whoscored": "299271",
+      "wikidata": "Q27019988",
+      "worldfootball": "axel-tuanzebe",
+      "wyscout": "397163"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Axel Tuanzebe",
+  "playerKey": "axel-tuanzebe",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2026-03-31",
+      "goalId": "goal-2026-03-31-dr-congo-jamaica-47592",
+      "matchKey": "2026-03-31-dr-congo-jamaica",
+      "minute": 100,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Tuanzebe"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dr-congo",
+  "teamName": "DR Congo"
+}

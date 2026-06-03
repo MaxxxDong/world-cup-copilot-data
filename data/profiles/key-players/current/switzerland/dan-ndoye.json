@@ -1,0 +1,100 @@
+{
+  "club": "Nottingham Forest FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2000-10-25",
+    "nationality": "Switzerland",
+    "playerKey": "dan-ndoye",
+    "position": "centre-forward",
+    "providerIds": {
+      "api_football": "48648",
+      "capology": "dan-ndoye-36824",
+      "espn": "275842",
+      "fbref": "8e697a8f",
+      "footballdatabase_eu": "369861",
+      "fotmob": "1022649",
+      "heimspiel": "508895",
+      "impect": "31417",
+      "kicker": "dan-ndoye",
+      "opta": "ex10o77wnk1exp9tj1t1rqj56",
+      "opta_numeric": "456512",
+      "serie_a": "dan-ndoye-107079",
+      "skillcorner": "24412",
+      "soccerway": "555563",
+      "sofascore": "944327",
+      "sportmonks": "19978623",
+      "thesportsdb": "34175837",
+      "transfermarkt": "365108",
+      "uefa": "250125538",
+      "understat": "8662",
+      "whoscored": "398414",
+      "wikidata": "Q61439485",
+      "worldfootball": "dan-ndoye",
+      "wyscout": "541676"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Dan Ndoye",
+  "playerKey": "dan-ndoye",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-15",
+      "goalId": "goal-2025-11-15-switzerland-sweden-47308",
+      "matchKey": "2025-11-15-switzerland-sweden",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dan Ndoye"
+    },
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-switzerland-slovenia-46787",
+      "matchKey": "2025-09-08-switzerland-slovenia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dan Ndoye"
+    },
+    {
+      "date": "2024-06-23",
+      "goalId": "goal-2024-06-23-germany-switzerland-45035",
+      "matchKey": "2024-06-23-germany-switzerland",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dan Ndoye"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "switzerland",
+  "teamName": "Switzerland"
+}

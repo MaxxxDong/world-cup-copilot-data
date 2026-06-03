@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 5,
+    "teamAGoals": 6,
+    "teamAWins": 1,
+    "teamBGoals": 8,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "israel",
+    "date": "2005-06-04",
+    "homeScore": 2,
+    "homeTeamId": "republic-of-ireland",
+    "matchId": "int-2005-06-04-republic-of-ireland-israel",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "republic-of-ireland",
+      "date": "1984-04-04",
+      "homeScore": 3,
+      "homeTeamId": "israel",
+      "matchId": "int-1984-04-04-israel-republic-of-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "republic-of-ireland",
+      "date": "1985-02-27",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1985-02-27-israel-republic-of-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "1987-11-10",
+      "homeScore": 5,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-1987-11-10-republic-of-ireland-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "republic-of-ireland",
+      "date": "2005-03-26",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-2005-03-26-israel-republic-of-ireland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "2005-06-04",
+      "homeScore": 2,
+      "homeTeamId": "republic-of-ireland",
+      "matchId": "int-2005-06-04-republic-of-ireland-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "israel__republic-of-ireland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "israel",
+  "teamBId": "republic-of-ireland"
+}

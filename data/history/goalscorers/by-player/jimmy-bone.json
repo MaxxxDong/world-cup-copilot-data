@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1972-10-18",
+      "goalId": "goal-1972-10-18-denmark-scotland-6453",
+      "homeTeamId": "denmark",
+      "matchKey": "1972-10-18-denmark-scotland",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy Bone",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "jimmy bone",
+  "playerKey": "jimmy-bone",
+  "scorer": "Jimmy Bone",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

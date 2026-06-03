@@ -1,0 +1,97 @@
+{
+  "club": "PSV Eindhoven (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2003-01-09",
+    "fullName": "Ricardo Daniel Pepi",
+    "nationality": "United States",
+    "playerKey": "ricardo-pepi",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "73868",
+      "capology": "ricardo-pepi-37630",
+      "espn": "289120",
+      "fbref": "a2b1ed42",
+      "footballdatabase_eu": "370551",
+      "fotmob": "1036401",
+      "heimspiel": "572724",
+      "impect": "51235",
+      "kicker": "ricardo-pepi",
+      "national_football_teams": "83800",
+      "opta": "emglxnqrlqskt8krglv7sziwa",
+      "skillcorner": "27121",
+      "soccerway": "523964",
+      "sofascore": "986395",
+      "thesportsdb": "34180925",
+      "transfermarkt": "627207",
+      "uefa": "250187620",
+      "wikidata": "Q62597239",
+      "worldfootball": "ricardo-pepi",
+      "wyscout": "550283"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ricardo Pepi",
+  "playerKey": "ricardo-pepi",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-usa-jamaica-41513",
+      "matchKey": "2021-10-07-usa-jamaica",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Pepi"
+    },
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-usa-jamaica-41512",
+      "matchKey": "2021-10-07-usa-jamaica",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Pepi"
+    },
+    {
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41423",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Pepi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+  },
+  "shirtNumber": 9,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

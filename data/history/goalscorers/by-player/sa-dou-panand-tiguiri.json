@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2005-06-18",
+      "goalId": "goal-2005-06-18-burkina-faso-dr-congo-25416",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "2005-06-18-burkina-faso-dr-congo",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saïdou Panandétiguiri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "burkina-faso"
+    },
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-civ-burkina-faso-29402",
+      "homeTeamId": "civ",
+      "matchKey": "2009-09-05-civ-burkina-faso",
+      "minute": 12,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Saïdou Panandétiguiri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "sa dou panand tiguiri",
+  "playerKey": "sa-dou-panand-tiguiri",
+  "scorer": "Saïdou Panandétiguiri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "burkina-faso",
+    "civ"
+  ]
+}

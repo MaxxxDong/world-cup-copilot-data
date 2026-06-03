@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2024-06-05",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-12-30",
+    "nationality": "Ivory Coast",
+    "playerKey": "roger-aholou",
+    "providerIds": {
+      "api_football": "180719",
+      "espn": "299635",
+      "footballdatabase_eu": "433493",
+      "impect": "244069",
+      "national_football_teams": "79495",
+      "skillcorner": "469787",
+      "soccerway": "645345",
+      "sofascore": "1008217",
+      "thesportsdb": "34288662",
+      "transfermarkt": "727208",
+      "wikidata": "Q108408554"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-05",
+  "playerKey": "roger-aholou",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-05",
+      "goalId": "goal-2024-06-05-togo-south-sudan-44623",
+      "matchKey": "2024-06-05-togo-south-sudan",
+      "minute": 68,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Roger Aholou"
+    }
+  ],
+  "scorer": "Roger Aholou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "south-sudan",
+  "teamName": "South Sudan",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

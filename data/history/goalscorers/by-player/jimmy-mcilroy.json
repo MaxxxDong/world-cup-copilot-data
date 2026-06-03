@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1957-05-01",
+      "goalId": "goal-1957-05-01-northern-ireland-portugal-2673",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1957-05-01-northern-ireland-portugal",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jimmy McIlroy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1958-01-15",
+      "goalId": "goal-1958-01-15-northern-ireland-italy-2930",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1958-01-15-northern-ireland-italy",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy McIlroy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1961-05-03",
+      "goalId": "goal-1961-05-03-greece-northern-ireland-3478",
+      "homeTeamId": "greece",
+      "matchKey": "1961-05-03-greece-northern-ireland",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy McIlroy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1961-05-10",
+      "goalId": "goal-1961-05-10-germany-northern-ireland-3491",
+      "homeTeamId": "germany",
+      "matchKey": "1961-05-10-germany-northern-ireland",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jimmy McIlroy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    }
+  ],
+  "normalizedScorer": "jimmy mcilroy",
+  "playerKey": "jimmy-mcilroy",
+  "scorer": "Jimmy McIlroy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland"
+  ]
+}

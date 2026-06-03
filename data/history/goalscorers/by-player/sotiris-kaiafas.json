@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1979-05-13",
+      "goalId": "goal-1979-05-13-cyprus-romania-8475",
+      "homeTeamId": "cyprus",
+      "matchKey": "1979-05-13-cyprus-romania",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sotiris Kaiafas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1980-03-26",
+      "goalId": "goal-1980-03-26-cyprus-republic-of-ireland-8829",
+      "homeTeamId": "cyprus",
+      "matchKey": "1980-03-26-cyprus-republic-of-ireland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Sotiris Kaiafas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "sotiris kaiafas",
+  "playerKey": "sotiris-kaiafas",
+  "scorer": "Sotiris Kaiafas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus"
+  ]
+}

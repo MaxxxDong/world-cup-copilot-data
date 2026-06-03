@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guatemala",
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-british-virgin-islands-guatemala-40203",
+      "homeTeamId": "british-virgin-islands",
+      "matchKey": "2021-03-27-british-virgin-islands-guatemala",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moisés Hernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-guatemala-saint-vincent-and-the-grenadines-40516",
+      "homeTeamId": "guatemala",
+      "matchKey": "2021-06-04-guatemala-saint-vincent-and-the-grenadines",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Moisés Hernández",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "mois s hern ndez",
+  "playerKey": "mois-s-hern-ndez",
+  "scorer": "Moisés Hernández",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala"
+  ]
+}

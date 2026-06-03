@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2001-07-18",
+      "goalId": "goal-2001-07-18-bra-paraguay-21606",
+      "homeTeamId": "bra",
+      "matchKey": "2001-07-18-bra-paraguay",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juliano Belletti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "2001-07-23",
+      "goalId": "goal-2001-07-23-bra-honduras-21626",
+      "homeTeamId": "bra",
+      "matchKey": "2001-07-23-bra-honduras",
+      "minute": 57,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Juliano Belletti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "honduras"
+    }
+  ],
+  "normalizedScorer": "juliano belletti",
+  "playerKey": "juliano-belletti",
+  "scorer": "Juliano Belletti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra",
+    "honduras"
+  ]
+}

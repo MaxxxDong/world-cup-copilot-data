@@ -1,0 +1,98 @@
+{
+  "club": "Lille OSC (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1994-11-24",
+    "nationality": "Algeria",
+    "playerKey": "nabil-bentaleb",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "241474",
+      "api_football": "409",
+      "capology": "nabil-bentaleb-34662",
+      "espn": "179187",
+      "fbref": "3189f61a",
+      "fff_fr": "7741-bentaleb-nabil",
+      "footballdatabase_eu": "161115",
+      "fotmob": "500520",
+      "heimspiel": "301260",
+      "hugman": "26030",
+      "impect": "1013",
+      "kicker": "nabil-bentaleb",
+      "lequipe": "50329",
+      "national_football_teams": "54727",
+      "opta": "6ynchgp6o4tajwvnfdnoo11at",
+      "opta_numeric": "126407",
+      "premier_league": "4847",
+      "skillcorner": "7832",
+      "soccerbase": "73353",
+      "soccerway": "232390",
+      "sofascore": "368120",
+      "sofifa": "379939",
+      "statmuse_pl": "4585",
+      "thesportsdb": "34146211",
+      "transfermarkt": "245537",
+      "uefa": "250057690",
+      "understat": "914",
+      "whoscored": "137521",
+      "wikidata": "Q15410320",
+      "worldfootball": "nabil-bentaleb",
+      "wyscout": "144766"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nabil Bentaleb",
+  "playerKey": "nabil-bentaleb",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2016-11-12",
+      "goalId": "goal-2016-11-12-nigeria-algeria-36468",
+      "matchKey": "2016-11-12-nigeria-algeria",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nabil Bentaleb"
+    },
+    {
+      "date": "2015-01-27",
+      "goalId": "goal-2015-01-27-senegal-algeria-34148",
+      "matchKey": "2015-01-27-senegal-algeria",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nabil Bentaleb"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

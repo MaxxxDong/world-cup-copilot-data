@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "1999-02-10",
+      "goalId": "goal-1999-02-10-cyprus-san-marino-18627",
+      "homeTeamId": "cyprus",
+      "matchKey": "1999-02-10-cyprus-san-marino",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vassos Melanarkitis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    }
+  ],
+  "normalizedScorer": "vassos melanarkitis",
+  "playerKey": "vassos-melanarkitis",
+  "scorer": "Vassos Melanarkitis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus"
+  ]
+}

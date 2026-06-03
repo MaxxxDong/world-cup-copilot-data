@@ -1,0 +1,76 @@
+{
+  "club": "BSC Young Boys (SUI)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2003-03-26",
+    "nationality": "Algeria",
+    "playerKey": "jaouen-hadjam",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "271539",
+      "espn": "306033",
+      "fbref": "576817b7",
+      "fff_fr": "9835-hadjam-jaouen",
+      "footballdatabase_eu": "425614",
+      "heimspiel": "676273",
+      "impect": "66825",
+      "kicker": "jaouen-hadjam",
+      "national_football_teams": "90692",
+      "opta": "dzh403ofb9zatvornq0svb0gk",
+      "skillcorner": "33213",
+      "soccerway": "664055",
+      "sofascore": "1049534",
+      "thesportsdb": "34174799",
+      "transfermarkt": "750903",
+      "uefa": "250171067",
+      "wikidata": "Q98561102",
+      "wyscout": "659540"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jaouen Hadjam",
+  "playerKey": "jaouen-hadjam",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-algeria-mozambique-46122",
+      "matchKey": "2025-03-25-algeria-mozambique",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaouen Hadjam"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 13,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

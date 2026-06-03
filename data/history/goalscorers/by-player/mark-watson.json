@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "1993-07-31",
+      "goalId": "goal-1993-07-31-canada-australia-14453",
+      "homeTeamId": "canada",
+      "matchKey": "1993-07-31-canada-australia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1996-12-15",
+      "goalId": "goal-1996-12-15-el-salvador-canada-16660",
+      "homeTeamId": "el-salvador",
+      "matchKey": "1996-12-15-el-salvador-canada",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "2000-02-24",
+      "goalId": "goal-2000-02-24-trinidad-and-tobago-canada-19328",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2000-02-24-trinidad-and-tobago-canada",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mark Watson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "mark watson",
+  "playerKey": "mark-watson",
+  "scorer": "Mark Watson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "canada"
+  ]
+}

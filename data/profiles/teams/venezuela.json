@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Venezuela"
+  ],
+  "allTime": {
+    "draws": 101,
+    "goalsAgainst": 854,
+    "goalsFor": 480,
+    "losses": 241,
+    "matches": 458,
+    "wins": 116
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 15,
+      "goalsFor": 11,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 33,
+      "goalsFor": 22,
+      "losses": 10,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 4,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2026-03-30-uzbekistan-venezuela",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "venezuela",
+      "matchId": "int-2026-03-27-venezuela-trinidad-and-tobago",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "canada",
+      "matchId": "int-2025-11-18-canada-venezuela",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "venezuela",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "australia",
+      "matchId": "int-2025-11-14-australia-venezuela",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "venezuela",
+      "date": "2025-10-10",
+      "homeScore": 1,
+      "homeTeamId": "arg",
+      "matchId": "int-2025-10-10-arg-venezuela",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 54,
+      "goalsAgainst": 613,
+      "goalsFor": 246,
+      "losses": 172,
+      "matches": 274,
+      "wins": 48
+    },
+    "friendly": {
+      "draws": 47,
+      "goalsAgainst": 241,
+      "goalsFor": 234,
+      "losses": 69,
+      "matches": 184,
+      "wins": 68
+    },
+    "neutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 203,
+      "goalsFor": 136,
+      "losses": 57,
+      "matches": 114,
+      "wins": 34
+    },
+    "nonNeutralVenue": {
+      "draws": 78,
+      "goalsAgainst": 651,
+      "goalsFor": 344,
+      "losses": 184,
+      "matches": 344,
+      "wins": 82
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "venezuela",
+  "teamName": "Venezuela",
+  "topScorers": [
+    {
+      "goals": 23,
+      "playerKey": "salom-n-rond-n",
+      "scorer": "Salomón Rondón"
+    },
+    {
+      "goals": 14,
+      "playerKey": "juan-arango",
+      "scorer": "Juan Arango"
+    },
+    {
+      "goals": 11,
+      "playerKey": "ruberth-mor-n",
+      "scorer": "Ruberth Morán"
+    },
+    {
+      "goals": 10,
+      "playerKey": "giancarlo-maldonado",
+      "scorer": "Giancarlo Maldonado"
+    },
+    {
+      "goals": 9,
+      "playerKey": "josef-mart-nez",
+      "scorer": "Josef Martínez"
+    },
+    {
+      "goals": 6,
+      "playerKey": "darwin-mach-s",
+      "scorer": "Darwin Machís"
+    },
+    {
+      "goals": 6,
+      "playerKey": "jos-luis-dolgetta",
+      "scorer": "José Luis Dolgetta"
+    },
+    {
+      "goals": 5,
+      "playerKey": "miku",
+      "scorer": "Miku"
+    },
+    {
+      "goals": 5,
+      "playerKey": "r-mulo-otero",
+      "scorer": "Rómulo Otero"
+    },
+    {
+      "goals": 4,
+      "playerKey": "carlos-maldonado",
+      "scorer": "Carlos Maldonado"
+    }
+  ]
+}

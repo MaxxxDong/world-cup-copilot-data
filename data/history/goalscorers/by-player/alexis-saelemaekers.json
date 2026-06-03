@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2021-09-05",
+      "goalId": "goal-2021-09-05-belgium-czech-republic-41265",
+      "homeTeamId": "belgium",
+      "matchKey": "2021-09-05-belgium-czech-republic",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Saelemaekers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2025-11-18",
+      "goalId": "goal-2025-11-18-belgium-liechtenstein-47383",
+      "homeTeamId": "belgium",
+      "matchKey": "2025-11-18-belgium-liechtenstein",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Saelemaekers",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "alexis saelemaekers",
+  "playerKey": "alexis-saelemaekers",
+  "scorer": "Alexis Saelemaekers",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

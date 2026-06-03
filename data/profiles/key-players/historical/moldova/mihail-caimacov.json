@@ -1,0 +1,91 @@
+{
+  "firstGoalDate": "2022-06-14",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1998-07-22",
+    "nationality": "Moldova",
+    "playerKey": "mihail-caimacov",
+    "providerIds": {
+      "api_football": "14649",
+      "capology": "mihail-caimacov-35998",
+      "espn": "260864",
+      "eu_football_info": "30940",
+      "fbref": "623220d6",
+      "footballdatabase_eu": "305197",
+      "heimspiel": "474373",
+      "impect": "13439",
+      "kicker": "mihail-caimacov",
+      "national_football_teams": "79203",
+      "opta": "bp23apnegi2ypci9rshsx8c89",
+      "skillcorner": "16628",
+      "soccerway": "463439",
+      "sofascore": "884871",
+      "sofifa": "400125728",
+      "thesportsdb": "34236406",
+      "transfermarkt": "414933",
+      "uefa": "250101813",
+      "wikidata": "Q98841708",
+      "worldfootball": "mihail-caimacov",
+      "wyscout": "476071"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-25",
+  "playerKey": "mihail-caimacov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-moldova-estonia-46181",
+      "matchKey": "2025-03-25-moldova-estonia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mihail Caimacov"
+    },
+    {
+      "date": "2024-09-07",
+      "goalId": "goal-2024-09-07-moldova-malta-45258",
+      "matchKey": "2024-09-07-moldova-malta",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mihail Caimacov"
+    },
+    {
+      "date": "2022-06-14",
+      "goalId": "goal-2022-06-14-moldova-andorra-42724",
+      "matchKey": "2022-06-14-moldova-andorra",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mihail Caimacov"
+    }
+  ],
+  "scorer": "Mihail Caimacov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "moldova",
+  "teamName": "Moldova",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

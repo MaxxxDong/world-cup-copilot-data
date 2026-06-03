@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2013-11-13",
+      "goalId": "goal-2013-11-13-mex-new-zealand-33550",
+      "homeTeamId": "mex",
+      "matchKey": "2013-11-13-mex-new-zealand",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paul Aguilar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2015-07-15",
+      "goalId": "goal-2015-07-15-trinidad-and-tobago-mex-34629",
+      "homeTeamId": "trinidad-and-tobago",
+      "matchKey": "2015-07-15-trinidad-and-tobago-mex",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paul Aguilar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "paul aguilar",
+  "playerKey": "paul-aguilar",
+  "scorer": "Paul Aguilar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

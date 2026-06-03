@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2017-10-05",
+      "goalId": "goal-2017-10-05-chile-ecuador-37271",
+      "homeTeamId": "chile",
+      "matchKey": "2017-10-05-chile-ecuador",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romario Ibarra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "2017-10-10",
+      "goalId": "goal-2017-10-10-ecuador-arg-37448",
+      "homeTeamId": "ecuador",
+      "matchKey": "2017-10-10-ecuador-arg",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Romario Ibarra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "romario ibarra",
+  "playerKey": "romario-ibarra",
+  "scorer": "Romario Ibarra",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

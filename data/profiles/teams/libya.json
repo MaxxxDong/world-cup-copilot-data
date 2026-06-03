@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Libya"
+  ],
+  "allTime": {
+    "draws": 92,
+    "goalsAgainst": 466,
+    "goalsFor": 500,
+    "losses": 149,
+    "matches": 384,
+    "wins": 143
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 6,
+      "goalsAgainst": 9,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 18,
+      "goalsFor": 23,
+      "losses": 4,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 4,
+      "goalsAgainst": 2,
+      "goalsFor": 3,
+      "losses": 0,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "libya",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "liberia",
+      "matchId": "int-2026-03-31-liberia-libya",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "libya",
+      "matchId": "int-2026-03-27-libya-niger",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Morocco, Capital of African Football"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2025-11-25",
+      "homeScore": 0,
+      "homeTeamId": "palestine",
+      "matchId": "int-2025-11-25-palestine-libya",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2025-11-15",
+      "homeScore": 1,
+      "homeTeamId": "libya",
+      "matchId": "int-2025-11-15-libya-mauritania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "libya",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "mauritius",
+      "matchId": "int-2025-10-13-mauritius-libya",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 54,
+      "goalsAgainst": 252,
+      "goalsFor": 275,
+      "losses": 85,
+      "matches": 206,
+      "wins": 67
+    },
+    "friendly": {
+      "draws": 38,
+      "goalsAgainst": 214,
+      "goalsFor": 225,
+      "losses": 64,
+      "matches": 178,
+      "wins": 76
+    },
+    "neutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 91,
+      "goalsFor": 164,
+      "losses": 26,
+      "matches": 91,
+      "wins": 42
+    },
+    "nonNeutralVenue": {
+      "draws": 69,
+      "goalsAgainst": 375,
+      "goalsFor": 336,
+      "losses": 123,
+      "matches": 293,
+      "wins": 101
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "libya",
+  "teamName": "Libya",
+  "topScorers": [
+    {
+      "goals": 6,
+      "playerKey": "ahmed-saad-osman",
+      "scorer": "Ahmed Saad Osman"
+    },
+    {
+      "goals": 5,
+      "playerKey": "ahmed-al-masli",
+      "scorer": "Ahmed Al Masli"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ali-al-beshari",
+      "scorer": "Ali Al-Beshari"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ezoo-el-maremi",
+      "scorer": "Ezoo El Maremi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "faisal-al-badri",
+      "scorer": "Faisal Al Badri"
+    },
+    {
+      "goals": 3,
+      "playerKey": "nader-kara",
+      "scorer": "Nader Kara"
+    },
+    {
+      "goals": 2,
+      "playerKey": "abubaker-bani",
+      "scorer": "Abubaker Bani"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ahmed-krawa-a",
+      "scorer": "Ahmed Krawa'a"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ahmed-zuway",
+      "scorer": "Ahmed Zuway"
+    },
+    {
+      "goals": 2,
+      "playerKey": "ihaab-boussefi",
+      "scorer": "Ihaab Boussefi"
+    }
+  ]
+}

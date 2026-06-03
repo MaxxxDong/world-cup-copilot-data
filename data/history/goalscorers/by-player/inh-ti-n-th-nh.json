@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vietnam",
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-taiwan-vietnam-34934",
+      "homeTeamId": "taiwan",
+      "matchKey": "2015-09-08-taiwan-vietnam",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Đinh Tiến Thành",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vietnam"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-vietnam-thailand-35254",
+      "homeTeamId": "vietnam",
+      "matchKey": "2015-10-13-vietnam-thailand",
+      "minute": 56,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Đinh Tiến Thành",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "thailand"
+    }
+  ],
+  "normalizedScorer": "inh ti n th nh",
+  "playerKey": "inh-ti-n-th-nh",
+  "scorer": "Đinh Tiến Thành",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "thailand",
+    "vietnam"
+  ]
+}

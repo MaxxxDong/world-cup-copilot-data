@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1959-04-05",
+      "goalId": "goal-1959-04-05-republic-of-ireland-czechoslovakia-3164",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1959-04-05-republic-of-ireland-czechoslovakia",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Tuohy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1962-08-12",
+      "goalId": "goal-1962-08-12-republic-of-ireland-iceland-3761",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1962-08-12-republic-of-ireland-iceland",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Tuohy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1962-09-02",
+      "goalId": "goal-1962-09-02-iceland-republic-of-ireland-3767",
+      "homeTeamId": "iceland",
+      "matchKey": "1962-09-02-iceland-republic-of-ireland",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Tuohy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "liam tuohy",
+  "playerKey": "liam-tuohy",
+  "scorer": "Liam Tuohy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "1996-04-24",
+      "goalId": "goal-1996-04-24-north-macedonia-liechtenstein-15888",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "1996-04-24-north-macedonia-liechtenstein",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srgjan Zaharievski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "1998-11-18",
+      "goalId": "goal-1998-11-18-malta-north-macedonia-18619",
+      "homeTeamId": "malta",
+      "matchKey": "1998-11-18-malta-north-macedonia",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Srgjan Zaharievski",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "srgjan zaharievski",
+  "playerKey": "srgjan-zaharievski",
+  "scorer": "Srgjan Zaharievski",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-macedonia"
+  ]
+}

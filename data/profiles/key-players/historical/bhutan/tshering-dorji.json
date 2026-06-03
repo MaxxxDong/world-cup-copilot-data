@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2015-03-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1995-09-11",
+    "nationality": "Bhutan",
+    "playerKey": "tshering-dorji",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "41c29d17",
+      "footballdatabase_eu": "219782",
+      "national_football_teams": "45878",
+      "soccerway": "181666",
+      "sofascore": "992723",
+      "transfermarkt": "345753",
+      "wikidata": "Q7849612"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-06-06",
+  "playerKey": "tshering-dorji",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-06-06",
+      "goalId": "goal-2019-06-06-bhutan-guam-38330",
+      "matchKey": "2019-06-06-bhutan-guam",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tshering Dorji"
+    },
+    {
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-maldives-bhutan-35677",
+      "matchKey": "2016-03-29-maldives-bhutan",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tshering Dorji"
+    },
+    {
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-bhutan-maldives-34972",
+      "matchKey": "2015-10-08-bhutan-maldives",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tshering Dorji"
+    },
+    {
+      "date": "2015-03-12",
+      "goalId": "goal-2015-03-12-sri-lanka-bhutan-34191",
+      "matchKey": "2015-03-12-sri-lanka-bhutan",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tshering Dorji"
+    }
+  ],
+  "scorer": "Tshering Dorji",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bhutan",
+  "teamName": "Bhutan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-11-02",
+      "goalId": "goal-1968-11-02-usa-bermuda-5280",
+      "homeTeamId": "usa",
+      "matchKey": "1968-11-02-usa-bermuda",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Clyde Best",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bermuda"
+    }
+  ],
+  "normalizedScorer": "clyde best",
+  "playerKey": "clyde-best",
+  "scorer": "Clyde Best",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bermuda"
+  ]
+}

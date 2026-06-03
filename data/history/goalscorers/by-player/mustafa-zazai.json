@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "afghanistan",
+      "date": "2015-06-16",
+      "goalId": "goal-2015-06-16-cambodia-afghanistan-34515",
+      "homeTeamId": "cambodia",
+      "matchKey": "2015-06-16-cambodia-afghanistan",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mustafa Zazai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "afghanistan"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-afghanistan-cambodia-35263",
+      "homeTeamId": "afghanistan",
+      "matchKey": "2015-11-12-afghanistan-cambodia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mustafa Zazai",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "afghanistan"
+    }
+  ],
+  "normalizedScorer": "mustafa zazai",
+  "playerKey": "mustafa-zazai",
+  "scorer": "Mustafa Zazai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "afghanistan"
+  ]
+}

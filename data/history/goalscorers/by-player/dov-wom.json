@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "togo",
+      "date": "2013-01-26",
+      "goalId": "goal-2013-01-26-algeria-togo-32493",
+      "homeTeamId": "algeria",
+      "matchKey": "2013-01-26-algeria-togo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dové Womé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "togo",
+      "date": "2013-03-23",
+      "goalId": "goal-2013-03-23-cameroon-togo-32643",
+      "homeTeamId": "cameroon",
+      "matchKey": "2013-03-23-cameroon-togo",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dové Womé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "dov wom",
+  "playerKey": "dov-wom",
+  "scorer": "Dové Womé",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mongolia",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-japan-mongolia-39149",
+      "homeTeamId": "japan",
+      "matchKey": "2019-10-10-japan-mongolia",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wataru Endō",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2024-01-19",
+      "goalId": "goal-2024-01-19-iraq-japan-44284",
+      "homeTeamId": "iraq",
+      "matchKey": "2024-01-19-iraq-japan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wataru Endō",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "wataru end",
+  "playerKey": "wataru-end",
+  "scorer": "Wataru Endō",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

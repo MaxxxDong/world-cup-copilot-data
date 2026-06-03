@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-05-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1980-08-29",
+    "nationality": "France",
+    "playerKey": "axel-temataua",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "8121",
+      "national_football_teams": "7586",
+      "sofifa": "213066",
+      "transfermarkt": "75722",
+      "wikidata": "Q18238279"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-06-06",
+  "playerKey": "axel-temataua",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-06-06",
+      "goalId": "goal-2004-06-06-tahiti-vanuatu-23755",
+      "matchKey": "2004-06-06-tahiti-vanuatu",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Temataua"
+    },
+    {
+      "date": "2004-05-17",
+      "goalId": "goal-2004-05-17-tahiti-tonga-23627",
+      "matchKey": "2004-05-17-tahiti-tonga",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Temataua"
+    },
+    {
+      "date": "2004-05-10",
+      "goalId": "goal-2004-05-10-tahiti-cook-islands-23562",
+      "matchKey": "2004-05-10-tahiti-cook-islands",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Axel Temataua"
+    }
+  ],
+  "scorer": "Axel Temataua",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tahiti",
+  "teamName": "Tahiti",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

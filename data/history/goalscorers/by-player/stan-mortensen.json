@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "1949-10-15",
+      "goalId": "goal-1949-10-15-wales-england-1798",
+      "homeTeamId": "wales",
+      "matchKey": "1949-10-15-wales-england",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stan Mortensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1949-11-16",
+      "goalId": "goal-1949-11-16-england-northern-ireland-1814",
+      "homeTeamId": "england",
+      "matchKey": "1949-11-16-england-northern-ireland",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stan Mortensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1949-11-16",
+      "goalId": "goal-1949-11-16-england-northern-ireland-1816",
+      "homeTeamId": "england",
+      "matchKey": "1949-11-16-england-northern-ireland",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stan Mortensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "1950-06-25",
+      "goalId": "goal-1950-06-25-chile-england-1849",
+      "homeTeamId": "chile",
+      "matchKey": "1950-06-25-chile-england",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stan Mortensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "stan mortensen",
+  "playerKey": "stan-mortensen",
+  "scorer": "Stan Mortensen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

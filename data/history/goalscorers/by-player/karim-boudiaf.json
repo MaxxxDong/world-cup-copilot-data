@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "qatar",
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-hong-kong-qatar-34894",
+      "homeTeamId": "hong-kong",
+      "matchKey": "2015-09-08-hong-kong-qatar",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karim Boudiaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-qatar-china-pr-35006",
+      "homeTeamId": "qatar",
+      "matchKey": "2015-10-08-qatar-china-pr",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karim Boudiaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "qatar",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-bangladesh-qatar-39109",
+      "homeTeamId": "bangladesh",
+      "matchKey": "2019-10-10-bangladesh-qatar",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karim Boudiaf",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "karim boudiaf",
+  "playerKey": "karim-boudiaf",
+  "scorer": "Karim Boudiaf",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

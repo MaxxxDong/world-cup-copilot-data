@@ -1,0 +1,77 @@
+{
+  "club": "Hull City FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1999-09-27",
+    "fullName": "Liam Alan Millar",
+    "nationality": "Canada",
+    "playerKey": "liam-millar",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "44798",
+      "capology": "liam-millar-36430",
+      "espn": "271879",
+      "fbref": "983515f8",
+      "footballdatabase_eu": "315521",
+      "heimspiel": "488868",
+      "impect": "26652",
+      "kicker": "liam-millar",
+      "national_football_teams": "70830",
+      "opta": "11brjfbwv1v5jvz5rleiob5k9",
+      "skillcorner": "12090",
+      "soccerway": "454418",
+      "thesportsdb": "34177860",
+      "transfermarkt": "487417",
+      "uefa": "250113266",
+      "wikidata": "Q50505969",
+      "worldfootball": "liam-millar",
+      "wyscout": "448614"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Liam Millar",
+  "playerKey": "liam-millar",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-canada-cuba-43399",
+      "matchKey": "2023-07-04-canada-cuba",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Millar"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

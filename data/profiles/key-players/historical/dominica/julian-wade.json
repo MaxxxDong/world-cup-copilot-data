@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2021-06-02",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-07-12",
+    "nationality": "Dominica",
+    "playerKey": "julian-wade",
+    "position": "midfielder",
+    "providerIds": {
+      "espn": "159215",
+      "fbref": "acc59ab3",
+      "footballdatabase_eu": "119424",
+      "national_football_teams": "40198",
+      "sofifa": "344984",
+      "transfermarkt": "189677",
+      "wikidata": "Q11729130"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-08",
+  "playerKey": "julian-wade",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-08",
+      "goalId": "goal-2021-06-08-barbados-dominica-40646",
+      "matchKey": "2021-06-08-barbados-dominica",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Wade"
+    },
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-dominica-anguilla-40455",
+      "matchKey": "2021-06-02-dominica-anguilla",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julian Wade"
+    }
+  ],
+  "scorer": "Julian Wade",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominica",
+  "teamName": "Dominica",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

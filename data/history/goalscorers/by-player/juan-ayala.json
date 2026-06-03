@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1949-04-25",
+      "goalId": "goal-1949-04-25-uruguay-colombia-1668",
+      "homeTeamId": "uruguay",
+      "matchKey": "1949-04-25-uruguay-colombia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Ayala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1949-05-04",
+      "goalId": "goal-1949-05-04-peru-uruguay-1705",
+      "homeTeamId": "peru",
+      "matchKey": "1949-05-04-peru-uruguay",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Ayala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "1949-05-08",
+      "goalId": "goal-1949-05-08-chile-uruguay-1713",
+      "homeTeamId": "chile",
+      "matchKey": "1949-05-08-chile-uruguay",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juan Ayala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "juan ayala",
+  "playerKey": "juan-ayala",
+  "scorer": "Juan Ayala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

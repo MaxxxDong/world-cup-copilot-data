@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jordan",
+      "date": "1997-04-14",
+      "goalId": "goal-1997-04-14-bahrain-jordan-16959",
+      "homeTeamId": "bahrain",
+      "matchKey": "1997-04-14-bahrain-jordan",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al-Doseri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bahrain"
+    },
+    {
+      "awayTeamId": "thailand",
+      "date": "2001-09-06",
+      "goalId": "goal-2001-09-06-bahrain-thailand-21856",
+      "homeTeamId": "bahrain",
+      "matchKey": "2001-09-06-bahrain-thailand",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khaled Al-Doseri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bahrain"
+    }
+  ],
+  "normalizedScorer": "khaled al doseri",
+  "playerKey": "khaled-al-doseri",
+  "scorer": "Khaled Al-Doseri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bahrain"
+  ]
+}

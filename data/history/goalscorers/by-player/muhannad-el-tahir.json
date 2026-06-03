@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-sudan-mali-28010",
+      "homeTeamId": "sudan",
+      "matchKey": "2008-06-14-sudan-mali",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Muhannad El Tahir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-sudan-congo-28662",
+      "homeTeamId": "sudan",
+      "matchKey": "2008-10-11-sudan-congo",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Muhannad El Tahir",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "sudan"
+    }
+  ],
+  "normalizedScorer": "muhannad el tahir",
+  "playerKey": "muhannad-el-tahir",
+  "scorer": "Muhannad El Tahir",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "sudan"
+  ]
+}

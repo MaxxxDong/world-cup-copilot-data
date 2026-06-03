@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malaysia",
+      "date": "1985-05-19",
+      "goalId": "goal-1985-05-19-south-korea-malaysia-10811",
+      "homeTeamId": "south-korea",
+      "matchKey": "1985-05-19-south-korea-malaysia",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Chang-Sun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    },
+    {
+      "awayTeamId": "south-korea",
+      "date": "1986-06-02",
+      "goalId": "goal-1986-06-02-arg-south-korea-11151",
+      "homeTeamId": "arg",
+      "matchKey": "1986-06-02-arg-south-korea",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Park Chang-Sun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "park chang sun",
+  "playerKey": "park-chang-sun",
+  "scorer": "Park Chang-Sun",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "south-korea"
+  ]
+}

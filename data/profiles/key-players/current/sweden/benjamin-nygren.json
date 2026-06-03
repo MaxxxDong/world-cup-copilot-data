@@ -1,0 +1,76 @@
+{
+  "club": "Celtic FC (SCO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2001-07-08",
+    "nationality": "Sweden",
+    "playerKey": "benjamin-nygren",
+    "position": "forward",
+    "providerIds": {
+      "capology": "benjamin-nygren-37080",
+      "eu_football_info": "33055",
+      "fbref": "d6ebf67f",
+      "footballdatabase_eu": "359518",
+      "heimspiel": "517428",
+      "impect": "30124",
+      "kicker": "benjamin-nygren",
+      "national_football_teams": "98857",
+      "opta": "5uqf7a0y0fd1hf2rrmgx11tuy",
+      "skillcorner": "27682",
+      "soccerbase": "112601",
+      "soccerway": "517071",
+      "sofascore": "918517",
+      "transfermarkt": "475949",
+      "uefa": "250108687",
+      "wikidata": "Q60677561",
+      "worldfootball": "benjamin-nygren",
+      "wyscout": "544348"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Benjamin Nygren",
+  "playerKey": "benjamin-nygren",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-15",
+      "goalId": "goal-2025-11-15-switzerland-sweden-47306",
+      "matchKey": "2025-11-15-switzerland-sweden",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benjamin Nygren"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+  },
+  "shirtNumber": 10,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sweden",
+  "teamName": "Sweden"
+}

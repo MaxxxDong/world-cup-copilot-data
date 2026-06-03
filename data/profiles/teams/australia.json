@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Australia",
+    "AUS",
+    "Socceroos"
+  ],
+  "allTime": {
+    "draws": 122,
+    "goalsAgainst": 617,
+    "goalsFor": 1166,
+    "losses": 161,
+    "matches": 579,
+    "wins": 296
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "AUS",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 15,
+      "losses": 3,
+      "matches": 10,
+      "wins": 7
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 15,
+      "goalsFor": 35,
+      "losses": 4,
+      "matches": 20,
+      "wins": 12
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "curacao",
+      "date": "2026-03-31",
+      "homeScore": 5,
+      "homeTeamId": "australia",
+      "matchId": "int-2026-03-31-australia-curacao",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cameroon",
+      "date": "2026-03-27",
+      "homeScore": 1,
+      "homeTeamId": "australia",
+      "matchId": "int-2026-03-27-australia-cameroon",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "australia",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "colombia",
+      "matchId": "int-2025-11-18-colombia-australia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "venezuela",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "australia",
+      "matchId": "int-2025-11-14-australia-venezuela",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "australia",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "usa",
+      "matchId": "int-2025-10-14-usa-australia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 67,
+      "goalsAgainst": 296,
+      "goalsFor": 818,
+      "losses": 71,
+      "matches": 331,
+      "wins": 193
+    },
+    "friendly": {
+      "draws": 55,
+      "goalsAgainst": 321,
+      "goalsFor": 348,
+      "losses": 90,
+      "matches": 248,
+      "wins": 103
+    },
+    "neutralVenue": {
+      "draws": 29,
+      "goalsAgainst": 152,
+      "goalsFor": 279,
+      "losses": 37,
+      "matches": 137,
+      "wins": 71
+    },
+    "nonNeutralVenue": {
+      "draws": 93,
+      "goalsAgainst": 465,
+      "goalsFor": 887,
+      "losses": 124,
+      "matches": 442,
+      "wins": 225
+    },
+    "worldCup": {
+      "draws": 4,
+      "goalsAgainst": 37,
+      "goalsFor": 17,
+      "losses": 12,
+      "matches": 20,
+      "wins": 4
+    }
+  },
+  "teamId": "australia",
+  "teamName": "Australia",
+  "topScorers": [
+    {
+      "goals": 36,
+      "playerKey": "tim-cahill",
+      "scorer": "Tim Cahill"
+    },
+    {
+      "goals": 25,
+      "playerKey": "damian-mori",
+      "scorer": "Damian Mori"
+    },
+    {
+      "goals": 22,
+      "playerKey": "john-aloisi",
+      "scorer": "John Aloisi"
+    },
+    {
+      "goals": 21,
+      "playerKey": "archie-thompson",
+      "scorer": "Archie Thompson"
+    },
+    {
+      "goals": 17,
+      "playerKey": "david-zdrilic",
+      "scorer": "David Zdrilic"
+    },
+    {
+      "goals": 17,
+      "playerKey": "mile-jedinak",
+      "scorer": "Mile Jedinak"
+    },
+    {
+      "goals": 15,
+      "playerKey": "brett-emerton",
+      "scorer": "Brett Emerton"
+    },
+    {
+      "goals": 13,
+      "playerKey": "harry-kewell",
+      "scorer": "Harry Kewell"
+    },
+    {
+      "goals": 13,
+      "playerKey": "john-kosmina",
+      "scorer": "John Kosmina"
+    },
+    {
+      "goals": 11,
+      "playerKey": "jamie-maclaren",
+      "scorer": "Jamie Maclaren"
+    }
+  ]
+}

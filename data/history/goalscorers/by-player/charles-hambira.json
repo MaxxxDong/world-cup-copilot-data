@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "congo",
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-namibia-congo-41192",
+      "homeTeamId": "namibia",
+      "matchKey": "2021-09-02-namibia-congo",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charles Hambira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "namibia"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-namibia-congo-41193",
+      "homeTeamId": "namibia",
+      "matchKey": "2021-09-02-namibia-congo",
+      "minute": 57,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Charles Hambira",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "congo"
+    }
+  ],
+  "normalizedScorer": "charles hambira",
+  "playerKey": "charles-hambira",
+  "scorer": "Charles Hambira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "congo",
+    "namibia"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Scotland",
+    "SCO",
+    "Tartan Army"
+  ],
+  "allTime": {
+    "draws": 182,
+    "goalsAgainst": 1049,
+    "goalsFor": 1446,
+    "losses": 267,
+    "matches": 849,
+    "wins": 400
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "SCO",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 18,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 25,
+      "goalsFor": 27,
+      "losses": 9,
+      "matches": 20,
+      "wins": 8
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 8,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "scotland",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "civ",
+      "matchId": "int-2026-03-31-civ-scotland",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "japan",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-2026-03-28-scotland-japan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "denmark",
+      "date": "2025-11-18",
+      "homeScore": 4,
+      "homeTeamId": "scotland",
+      "matchId": "int-2025-11-18-scotland-denmark",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "scotland",
+      "date": "2025-11-15",
+      "homeScore": 3,
+      "homeTeamId": "greece",
+      "matchId": "int-2025-11-15-greece-scotland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "belarus",
+      "date": "2025-10-12",
+      "homeScore": 2,
+      "homeTeamId": "scotland",
+      "matchId": "int-2025-10-12-scotland-belarus",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 133,
+      "goalsAgainst": 718,
+      "goalsFor": 1053,
+      "losses": 175,
+      "matches": 603,
+      "wins": 295
+    },
+    "friendly": {
+      "draws": 49,
+      "goalsAgainst": 331,
+      "goalsFor": 393,
+      "losses": 92,
+      "matches": 246,
+      "wins": 105
+    },
+    "neutralVenue": {
+      "draws": 15,
+      "goalsAgainst": 66,
+      "goalsFor": 63,
+      "losses": 21,
+      "matches": 50,
+      "wins": 14
+    },
+    "nonNeutralVenue": {
+      "draws": 167,
+      "goalsAgainst": 983,
+      "goalsFor": 1383,
+      "losses": 246,
+      "matches": 799,
+      "wins": 386
+    },
+    "worldCup": {
+      "draws": 7,
+      "goalsAgainst": 41,
+      "goalsFor": 25,
+      "losses": 12,
+      "matches": 23,
+      "wins": 4
+    }
+  },
+  "teamId": "scotland",
+  "teamName": "Scotland",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "john-mcginn",
+      "scorer": "John McGinn"
+    },
+    {
+      "goals": 14,
+      "playerKey": "kenny-dalglish",
+      "scorer": "Kenny Dalglish"
+    },
+    {
+      "goals": 14,
+      "playerKey": "scott-mctominay",
+      "scorer": "Scott McTominay"
+    },
+    {
+      "goals": 13,
+      "playerKey": "ally-mccoist",
+      "scorer": "Ally McCoist"
+    },
+    {
+      "goals": 11,
+      "playerKey": "kenny-miller",
+      "scorer": "Kenny Miller"
+    },
+    {
+      "goals": 10,
+      "playerKey": "james-mcfadden",
+      "scorer": "James McFadden"
+    },
+    {
+      "goals": 10,
+      "playerKey": "john-collins",
+      "scorer": "John Collins"
+    },
+    {
+      "goals": 10,
+      "playerKey": "lyndon-dykes",
+      "scorer": "Lyndon Dykes"
+    },
+    {
+      "goals": 10,
+      "playerKey": "mo-johnston",
+      "scorer": "Mo Johnston"
+    },
+    {
+      "goals": 10,
+      "playerKey": "steven-fletcher",
+      "scorer": "Steven Fletcher"
+    }
+  ]
+}

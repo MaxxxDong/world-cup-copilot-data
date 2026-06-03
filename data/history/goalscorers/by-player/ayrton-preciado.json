@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2021-06-20",
+      "goalId": "goal-2021-06-20-venezuela-ecuador-40875",
+      "homeTeamId": "venezuela",
+      "matchKey": "2021-06-20-venezuela-ecuador",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayrton Preciado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2021-06-23",
+      "goalId": "goal-2021-06-23-ecuador-peru-40902",
+      "homeTeamId": "ecuador",
+      "matchKey": "2021-06-23-ecuador-peru",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayrton Preciado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "ayrton preciado",
+  "playerKey": "ayrton-preciado",
+  "scorer": "Ayrton Preciado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

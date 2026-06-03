@@ -1,0 +1,86 @@
+{
+  "firstGoalDate": "2000-04-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1982-04-05",
+    "nationality": "Antigua and Barbuda",
+    "playerKey": "gayson-gregory",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "1e732f03",
+      "footballdatabase_eu": "33195",
+      "national_football_teams": "255",
+      "sofifa": "3102",
+      "transfermarkt": "71633",
+      "wikidata": "Q3759056"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-02-06",
+  "playerKey": "gayson-gregory",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-02-06",
+      "goalId": "goal-2008-02-06-aruba-antigua-and-barbuda-27633",
+      "matchKey": "2008-02-06-aruba-antigua-and-barbuda",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gayson Gregory"
+    },
+    {
+      "date": "2000-05-07",
+      "goalId": "goal-2000-05-07-antigua-and-barbuda-saint-vincent-and-the-grenadines-19639",
+      "matchKey": "2000-05-07-antigua-and-barbuda-saint-vincent-and-the-grenadines",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gayson Gregory"
+    },
+    {
+      "date": "2000-05-07",
+      "goalId": "goal-2000-05-07-antigua-and-barbuda-saint-vincent-and-the-grenadines-19638",
+      "matchKey": "2000-05-07-antigua-and-barbuda-saint-vincent-and-the-grenadines",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gayson Gregory"
+    },
+    {
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-bermuda-antigua-and-barbuda-19570",
+      "matchKey": "2000-04-23-bermuda-antigua-and-barbuda",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gayson Gregory"
+    }
+  ],
+  "scorer": "Gayson Gregory",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "antigua-and-barbuda",
+  "teamName": "Antigua and Barbuda",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

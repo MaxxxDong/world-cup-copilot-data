@@ -1,0 +1,65 @@
+{
+  "firstGoalDate": "2016-10-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1993-03-12",
+    "nationality": "San Marino",
+    "playerKey": "mattia-stefanelli",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "28816",
+      "fbref": "b05947f4",
+      "footballdatabase_eu": "193607",
+      "heimspiel": "262182",
+      "impect": "5219",
+      "kicker": "mattia-stefanelli",
+      "national_football_teams": "57017",
+      "soccerway": "134073",
+      "sofascore": "94073",
+      "transfermarkt": "136137",
+      "uefa": "250005055",
+      "wikidata": "Q3852319"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-10-11",
+  "playerKey": "mattia-stefanelli",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-10-11",
+      "goalId": "goal-2016-10-11-norway-san-marino-36368",
+      "matchKey": "2016-10-11-norway-san-marino",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mattia Stefanelli"
+    }
+  ],
+  "scorer": "Mattia Stefanelli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "san-marino",
+  "teamName": "San Marino",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

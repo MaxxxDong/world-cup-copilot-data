@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "1979-03-28",
+      "goalId": "goal-1979-03-28-belgium-austria-8443",
+      "homeTeamId": "belgium",
+      "matchKey": "1979-03-28-belgium-austria",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "René Vandereycken",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1980-06-22",
+      "goalId": "goal-1980-06-22-belgium-germany-8883",
+      "homeTeamId": "belgium",
+      "matchKey": "1980-06-22-belgium-germany",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "René Vandereycken",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "ren vandereycken",
+  "playerKey": "ren-vandereycken",
+  "scorer": "René Vandereycken",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

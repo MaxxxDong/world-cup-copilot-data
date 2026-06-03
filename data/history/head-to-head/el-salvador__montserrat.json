@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 11,
+    "teamAWins": 5,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "montserrat",
+    "date": "2024-11-17",
+    "homeScore": 1,
+    "homeTeamId": "el-salvador",
+    "matchId": "int-2024-11-17-el-salvador-montserrat",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "el-salvador",
+      "date": "2018-09-08",
+      "homeScore": 1,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2018-09-08-montserrat-el-salvador",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "el-salvador",
+      "date": "2019-10-12",
+      "homeScore": 0,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2019-10-12-montserrat-el-salvador",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "montserrat",
+      "date": "2019-11-16",
+      "homeScore": 1,
+      "homeTeamId": "el-salvador",
+      "matchId": "int-2019-11-16-el-salvador-montserrat",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "el-salvador",
+      "date": "2021-03-28",
+      "homeScore": 1,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2021-03-28-montserrat-el-salvador",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "el-salvador",
+      "date": "2024-09-05",
+      "homeScore": 1,
+      "homeTeamId": "montserrat",
+      "matchId": "int-2024-09-05-montserrat-el-salvador",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "montserrat",
+      "date": "2024-11-17",
+      "homeScore": 1,
+      "homeTeamId": "el-salvador",
+      "matchId": "int-2024-11-17-el-salvador-montserrat",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "el-salvador__montserrat",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 11,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 4,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "el-salvador",
+  "teamBId": "montserrat"
+}

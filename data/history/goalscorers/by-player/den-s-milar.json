@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1973-07-08",
+      "goalId": "goal-1973-07-08-uruguay-ecuador-6764",
+      "homeTeamId": "uruguay",
+      "matchKey": "1973-07-08-uruguay-ecuador",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Denís Milar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1979-09-26",
+      "goalId": "goal-1979-09-26-uruguay-paraguay-8574",
+      "homeTeamId": "uruguay",
+      "matchKey": "1979-09-26-uruguay-paraguay",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Denís Milar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "den s milar",
+  "playerKey": "den-s-milar",
+  "scorer": "Denís Milar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

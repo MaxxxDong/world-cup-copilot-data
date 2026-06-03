@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2009-09-06",
+      "goalId": "goal-2009-09-06-togo-mar-29456",
+      "homeTeamId": "togo",
+      "matchKey": "2009-09-06-togo-mar",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adel Taarabt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-gabon-mar-29610",
+      "homeTeamId": "gabon",
+      "matchKey": "2009-10-10-gabon-mar",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adel Taarabt",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "adel taarabt",
+  "playerKey": "adel-taarabt",
+  "scorer": "Adel Taarabt",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

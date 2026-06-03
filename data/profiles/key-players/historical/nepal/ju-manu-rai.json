@@ -1,0 +1,66 @@
+{
+  "firstGoalDate": "2011-06-29",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1983-03-01",
+    "nationality": "Nepal",
+    "playerKey": "ju-manu-rai",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "906bee49",
+      "footballdatabase_eu": "41500",
+      "national_football_teams": "23581",
+      "wikidata": "Q2494690"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-02",
+  "playerKey": "ju-manu-rai",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-02",
+      "goalId": "goal-2011-07-02-nepal-timor-leste-30616",
+      "matchKey": "2011-07-02-nepal-timor-leste",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ju Manu Rai"
+    },
+    {
+      "date": "2011-06-29",
+      "goalId": "goal-2011-06-29-nepal-timor-leste-30602",
+      "matchKey": "2011-06-29-nepal-timor-leste",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ju Manu Rai"
+    }
+  ],
+  "scorer": "Ju Manu Rai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

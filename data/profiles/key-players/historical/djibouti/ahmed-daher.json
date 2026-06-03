@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2008-05-31",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1982-10-17",
+    "nationality": "Djibouti",
+    "playerKey": "ahmed-daher",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "36926",
+      "national_football_teams": "26374",
+      "sofifa": "290255",
+      "transfermarkt": "82398",
+      "wikidata": "Q4115496"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-05-31",
+  "playerKey": "ahmed-daher",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-05-31",
+      "goalId": "goal-2008-05-31-malawi-djibouti-27755",
+      "matchKey": "2008-05-31-malawi-djibouti",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ahmed Daher"
+    }
+  ],
+  "scorer": "Ahmed Daher",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

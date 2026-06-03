@@ -1,0 +1,91 @@
+{
+  "firstGoalDate": "2015-06-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1988-12-11",
+    "nationality": "Kyrgyzstan",
+    "playerKey": "anton-zemlianukhin",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "0f276463",
+      "footballdatabase_eu": "67445",
+      "kicker": "anton-zemlyanukhin",
+      "national_football_teams": "30774",
+      "soccerway": "58596",
+      "sofascore": "60579",
+      "sofifa": "290007",
+      "transfermarkt": "58917",
+      "uefa": "250052298",
+      "wikidata": "Q594143",
+      "worldfootball": "anton-zemlianukhin"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-17",
+  "playerKey": "anton-zemlianukhin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-17",
+      "goalId": "goal-2015-11-17-kyrgyzstan-jordan-35477",
+      "matchKey": "2015-11-17-kyrgyzstan-jordan",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Zemlianukhin"
+    },
+    {
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-kyrgyzstan-tajikistan-34994",
+      "matchKey": "2015-10-08-kyrgyzstan-tajikistan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Anton Zemlianukhin"
+    },
+    {
+      "date": "2015-06-11",
+      "goalId": "goal-2015-06-11-bangladesh-kyrgyzstan-34355",
+      "matchKey": "2015-06-11-bangladesh-kyrgyzstan",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Zemlianukhin"
+    },
+    {
+      "date": "2015-06-11",
+      "goalId": "goal-2015-06-11-bangladesh-kyrgyzstan-34352",
+      "matchKey": "2015-06-11-bangladesh-kyrgyzstan",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Zemlianukhin"
+    }
+  ],
+  "scorer": "Anton Zemlianukhin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kyrgyzstan",
+  "teamName": "Kyrgyzstan",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

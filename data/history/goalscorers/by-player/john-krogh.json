@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "norway",
+      "date": "1962-11-04",
+      "goalId": "goal-1962-11-04-sweden-norway-3780",
+      "homeTeamId": "sweden",
+      "matchKey": "1962-11-04-sweden-norway",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "John Krogh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "norway"
+    }
+  ],
+  "normalizedScorer": "john krogh",
+  "playerKey": "john-krogh",
+  "scorer": "John Krogh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "norway"
+  ]
+}

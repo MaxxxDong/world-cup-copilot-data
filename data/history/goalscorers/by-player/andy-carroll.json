@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2012-06-15",
+      "goalId": "goal-2012-06-15-sweden-england-31992",
+      "homeTeamId": "sweden",
+      "matchKey": "2012-06-15-sweden-england",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andy Carroll",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "andy carroll",
+  "playerKey": "andy-carroll",
+  "scorer": "Andy Carroll",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

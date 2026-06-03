@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Israel"
+  ],
+  "allTime": {
+    "draws": 116,
+    "goalsAgainst": 737,
+    "goalsFor": 749,
+    "losses": 201,
+    "matches": 497,
+    "wins": 180
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 21,
+      "goalsFor": 20,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 42,
+      "goalsFor": 32,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 11,
+      "goalsFor": 6,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "israel",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "georgia",
+      "matchId": "int-2026-03-26-georgia-israel",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "israel",
+      "date": "2025-11-16",
+      "homeScore": 1,
+      "homeTeamId": "moldova",
+      "matchId": "int-2025-11-16-moldova-israel",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "lithuania",
+      "matchId": "int-2025-11-13-lithuania-israel",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2025-10-14",
+      "homeScore": 3,
+      "homeTeamId": "italy",
+      "matchId": "int-2025-10-14-italy-israel",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "2025-10-11",
+      "homeScore": 5,
+      "homeTeamId": "norway",
+      "matchId": "int-2025-10-11-norway-israel",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 61,
+      "goalsAgainst": 393,
+      "goalsFor": 425,
+      "losses": 105,
+      "matches": 273,
+      "wins": 107
+    },
+    "friendly": {
+      "draws": 55,
+      "goalsAgainst": 344,
+      "goalsFor": 324,
+      "losses": 96,
+      "matches": 224,
+      "wins": 73
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 66,
+      "goalsFor": 112,
+      "losses": 16,
+      "matches": 51,
+      "wins": 28
+    },
+    "nonNeutralVenue": {
+      "draws": 109,
+      "goalsAgainst": 671,
+      "goalsFor": 637,
+      "losses": 185,
+      "matches": 446,
+      "wins": 152
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 3,
+      "goalsFor": 1,
+      "losses": 1,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "israel",
+  "teamName": "Israel",
+  "topScorers": [
+    {
+      "goals": 31,
+      "playerKey": "eran-zahavi",
+      "scorer": "Eran Zahavi"
+    },
+    {
+      "goals": 17,
+      "playerKey": "yossi-benayoun",
+      "scorer": "Yossi Benayoun"
+    },
+    {
+      "goals": 14,
+      "playerKey": "tomer-hemed",
+      "scorer": "Tomer Hemed"
+    },
+    {
+      "goals": 11,
+      "playerKey": "mu-nas-dabbur",
+      "scorer": "Mu'nas Dabbur"
+    },
+    {
+      "goals": 10,
+      "playerKey": "haim-revivo",
+      "scorer": "Haim Revivo"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ronen-harazi",
+      "scorer": "Ronen Harazi"
+    },
+    {
+      "goals": 9,
+      "playerKey": "dor-peretz",
+      "scorer": "Dor Peretz"
+    },
+    {
+      "goals": 9,
+      "playerKey": "elyaniv-barda",
+      "scorer": "Elyaniv Barda"
+    },
+    {
+      "goals": 9,
+      "playerKey": "mordechai-spiegler",
+      "scorer": "Mordechai Spiegler"
+    },
+    {
+      "goals": 9,
+      "playerKey": "nahum-stelmach",
+      "scorer": "Nahum Stelmach"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Iceland"
+  ],
+  "allTime": {
+    "draws": 102,
+    "goalsAgainst": 872,
+    "goalsFor": 632,
+    "losses": 259,
+    "matches": 520,
+    "wins": 159
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 19,
+      "goalsFor": 16,
+      "losses": 5,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 42,
+      "goalsFor": 31,
+      "losses": 11,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "iceland",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2026-03-31-haiti-iceland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "2026-03-28",
+      "homeScore": 2,
+      "homeTeamId": "canada",
+      "matchId": "int-2026-03-28-canada-iceland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2026-02-25",
+      "homeScore": 4,
+      "homeTeamId": "mex",
+      "matchId": "int-2026-02-25-mex-iceland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2025-11-16",
+      "homeScore": 2,
+      "homeTeamId": "ukraine",
+      "matchId": "int-2025-11-16-ukraine-iceland",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "iceland",
+      "date": "2025-11-13",
+      "homeScore": 0,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2025-11-13-azerbaijan-iceland",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 53,
+      "goalsAgainst": 517,
+      "goalsFor": 313,
+      "losses": 159,
+      "matches": 289,
+      "wins": 77
+    },
+    "friendly": {
+      "draws": 49,
+      "goalsAgainst": 355,
+      "goalsFor": 319,
+      "losses": 100,
+      "matches": 231,
+      "wins": 82
+    },
+    "neutralVenue": {
+      "draws": 18,
+      "goalsAgainst": 90,
+      "goalsFor": 59,
+      "losses": 27,
+      "matches": 62,
+      "wins": 17
+    },
+    "nonNeutralVenue": {
+      "draws": 84,
+      "goalsAgainst": 782,
+      "goalsFor": 573,
+      "losses": 232,
+      "matches": 458,
+      "wins": 142
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 2,
+      "losses": 2,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "iceland",
+  "teamName": "Iceland",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "gylfi-sigur-sson",
+      "scorer": "Gylfi Sigurðsson"
+    },
+    {
+      "goals": 21,
+      "playerKey": "ei-ur-gu-johnsen",
+      "scorer": "Eiður Guðjohnsen"
+    },
+    {
+      "goals": 13,
+      "playerKey": "kolbeinn-sig-rsson",
+      "scorer": "Kolbeinn Sigþórsson"
+    },
+    {
+      "goals": 12,
+      "playerKey": "birkir-bjarnason",
+      "scorer": "Birkir Bjarnason"
+    },
+    {
+      "goals": 11,
+      "playerKey": "albert-gu-mundsson",
+      "scorer": "Albert Guðmundsson"
+    },
+    {
+      "goals": 10,
+      "playerKey": "alfre-finnbogason",
+      "scorer": "Alfreð Finnbogason"
+    },
+    {
+      "goals": 9,
+      "playerKey": "eyj-lfur-sverrisson",
+      "scorer": "Eyjólfur Sverrisson"
+    },
+    {
+      "goals": 7,
+      "playerKey": "andri-gu-johnsen",
+      "scorer": "Andri Guðjohnsen"
+    },
+    {
+      "goals": 7,
+      "playerKey": "atli-e-valdsson",
+      "scorer": "Atli Eðvaldsson"
+    },
+    {
+      "goals": 7,
+      "playerKey": "orri-skarsson",
+      "scorer": "Orri Óskarsson"
+    }
+  ]
+}

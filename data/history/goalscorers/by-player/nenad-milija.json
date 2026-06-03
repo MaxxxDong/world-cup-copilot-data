@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "austria",
+      "date": "2009-06-06",
+      "goalId": "goal-2009-06-06-serbia-austria-29102",
+      "homeTeamId": "serbia",
+      "matchKey": "2009-06-06-serbia-austria",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nenad Milijaš",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2009-09-09",
+      "goalId": "goal-2009-09-09-serbia-fra-29537",
+      "homeTeamId": "serbia",
+      "matchKey": "2009-09-09-serbia-fra",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nenad Milijaš",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    }
+  ],
+  "normalizedScorer": "nenad milija",
+  "playerKey": "nenad-milija",
+  "scorer": "Nenad Milijaš",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "serbia"
+  ]
+}

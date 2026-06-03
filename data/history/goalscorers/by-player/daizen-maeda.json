@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "2022-12-05",
+      "goalId": "goal-2022-12-05-japan-croatia-43032",
+      "homeTeamId": "japan",
+      "matchKey": "2022-12-05-japan-croatia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daizen Maeda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2024-09-05",
+      "goalId": "goal-2024-09-05-japan-china-pr-45191",
+      "homeTeamId": "japan",
+      "matchKey": "2024-09-05-japan-china-pr",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daizen Maeda",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "daizen maeda",
+  "playerKey": "daizen-maeda",
+  "scorer": "Daizen Maeda",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

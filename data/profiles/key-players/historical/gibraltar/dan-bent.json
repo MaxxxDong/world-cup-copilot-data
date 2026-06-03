@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2025-03-22",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1996-01-10",
+    "nationality": "United Kingdom",
+    "playerKey": "dan-bent",
+    "position": "midfielder",
+    "providerIds": {
+      "impect": "116945",
+      "national_football_teams": "95502",
+      "opta": "8wfwgr8pxfr7mwobhrmublses",
+      "sofascore": "1383878",
+      "transfermarkt": "697002",
+      "wikidata": "Q130236078",
+      "worldfootball": "daniel-bent"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-22",
+  "playerKey": "dan-bent",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-22",
+      "goalId": "goal-2025-03-22-montenegro-gibraltar-46005",
+      "matchKey": "2025-03-22-montenegro-gibraltar",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dan Bent"
+    }
+  ],
+  "scorer": "Dan Bent",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

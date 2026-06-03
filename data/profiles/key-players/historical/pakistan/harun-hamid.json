@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2023-10-17",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2003-11-10",
+    "nationality": "Pakistan",
+    "playerKey": "harun-hamid",
+    "providerIds": {
+      "api_football": "391782",
+      "footballdatabase_eu": "516631",
+      "impect": "184015",
+      "national_football_teams": "90638",
+      "soccerway": "682340",
+      "sofascore": "1480416",
+      "thesportsdb": "34244776",
+      "transfermarkt": "879396",
+      "wikidata": "Q117358522",
+      "worldfootball": "harun-hamid"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-10-17",
+  "playerKey": "harun-hamid",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-10-17",
+      "goalId": "goal-2023-10-17-pakistan-cambodia-43770",
+      "matchKey": "2023-10-17-pakistan-cambodia",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Harun Hamid"
+    }
+  ],
+  "scorer": "Harun Hamid",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "pakistan",
+  "teamName": "Pakistan",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

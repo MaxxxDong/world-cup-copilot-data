@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cambodia",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-iran-cambodia-39132",
+      "homeTeamId": "iran",
+      "matchKey": "2019-10-10-iran-cambodia",
+      "minute": 22,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Soeuy Visal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "2021-06-07",
+      "goalId": "goal-2021-06-07-iraq-cambodia-40620",
+      "homeTeamId": "iraq",
+      "matchKey": "2021-06-07-iraq-cambodia",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Soeuy Visal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cambodia"
+    }
+  ],
+  "normalizedScorer": "soeuy visal",
+  "playerKey": "soeuy-visal",
+  "scorer": "Soeuy Visal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cambodia",
+    "iran"
+  ]
+}

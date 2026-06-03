@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "seychelles",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43965",
+      "homeTeamId": "civ",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "mali",
+      "date": "2024-02-03",
+      "goalId": "goal-2024-02-03-civ-mali-44425",
+      "homeTeamId": "civ",
+      "matchKey": "2024-02-03-civ-mali",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47018",
+      "homeTeamId": "seychelles",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Adingra",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "simon adingra",
+  "playerKey": "simon-adingra",
+  "scorer": "Simon Adingra",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

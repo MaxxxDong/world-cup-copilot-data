@@ -1,0 +1,57 @@
+[
+  {
+    "accessMethod": "official-pdf-derived-json",
+    "license": "official-public-page-attributed",
+    "name": "FIFA World Cup 2026 final squad lists",
+    "publisher": "FIFA",
+    "retrievedAt": "2026-06-03T02:23:00.000Z",
+    "rightsNote": "Official FIFA final squad list PDF published for the FIFA World Cup 2026. Derived roster JSON preserves rosterStatus=final and per-team PDF page URLs.",
+    "sourceCommit": "ce281/SquadLists-English.pdf",
+    "sourceId": "fifa-squad-announcements-2026",
+    "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf"
+  },
+  {
+    "accessMethod": "github",
+    "license": "CC0-1.0",
+    "name": "martj42/international_results",
+    "publisher": "martj42",
+    "retrievedAt": "2026-05-27T00:00:00.000Z",
+    "rightsNote": "CC0 international results dataset. Used to derive head-to-head and form summaries.",
+    "sourceCommit": "local",
+    "sourceId": "martj42-international-results",
+    "url": "https://github.com/martj42/international_results"
+  },
+  {
+    "accessMethod": "github",
+    "license": "CC0-1.0",
+    "name": "openfootball/worldcup.json",
+    "publisher": "openfootball",
+    "retrievedAt": "2026-05-27T00:00:00.000Z",
+    "rightsNote": "Public domain / CC0 project data. Used for World Cup schedule structure.",
+    "sourceCommit": "local",
+    "sourceId": "openfootball-worldcup-json",
+    "url": "https://github.com/openfootball/worldcup.json"
+  },
+  {
+    "accessMethod": "github",
+    "license": "CC0-1.0",
+    "name": "withqwerty/reep",
+    "publisher": "withqwerty",
+    "retrievedAt": "2026-05-27T00:00:00.000Z",
+    "rightsNote": "Football entity register used for stable team and player identity mappings.",
+    "sourceCommit": "local",
+    "sourceId": "withqwerty-reep",
+    "url": "https://github.com/withqwerty/reep"
+  },
+  {
+    "accessMethod": "local-seed",
+    "license": "project-curated-attributed",
+    "name": "World Cup Copilot curated team registry seed",
+    "publisher": "world-cup-copilot-data",
+    "retrievedAt": "2026-05-27T00:00:00.000Z",
+    "rightsNote": "Curated registry seed used to stabilize teamId, FIFA code, and aliases for known World Cup teams. It must be reconciled with Wikidata/FIFA IDs before being treated as a full national-team authority.",
+    "sourceCommit": "local",
+    "sourceId": "world-cup-copilot-team-registry",
+    "url": "input/team-registry.seed.json"
+  }
+]

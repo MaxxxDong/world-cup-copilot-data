@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1997-03-29",
+      "goalId": "goal-1997-03-29-scotland-estonia-16838",
+      "homeTeamId": "scotland",
+      "matchKey": "1997-03-29-scotland-estonia",
+      "minute": 52,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Janek Meet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-czech-republic-estonia-18555",
+      "homeTeamId": "czech-republic",
+      "matchKey": "1998-10-14-czech-republic-estonia",
+      "minute": 45,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Janek Meet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    }
+  ],
+  "normalizedScorer": "janek meet",
+  "playerKey": "janek-meet",
+  "scorer": "Janek Meet",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic",
+    "scotland"
+  ]
+}

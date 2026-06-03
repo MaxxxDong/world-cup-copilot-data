@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1953-09-23",
+      "goalId": "goal-1953-09-23-belgium-finland-2053",
+      "homeTeamId": "belgium",
+      "matchKey": "1953-09-23-belgium-finland",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mathieu Bollen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1953-09-23",
+      "goalId": "goal-1953-09-23-belgium-finland-2054",
+      "homeTeamId": "belgium",
+      "matchKey": "1953-09-23-belgium-finland",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mathieu Bollen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "belgium"
+    }
+  ],
+  "normalizedScorer": "mathieu bollen",
+  "playerKey": "mathieu-bollen",
+  "scorer": "Mathieu Bollen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "belgium"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 2,
+    "teamBGoals": 9,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 6,
+    "awayTeamId": "british-virgin-islands",
+    "date": "2025-11-15",
+    "homeScore": 0,
+    "homeTeamId": "bahamas",
+    "matchId": "int-2025-11-15-bahamas-british-virgin-islands",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Series"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2008-03-26",
+      "homeScore": 1,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2008-03-26-bahamas-british-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2008-03-30",
+      "homeScore": 2,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2008-03-30-bahamas-british-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "bahamas",
+      "date": "2019-10-10",
+      "homeScore": 0,
+      "homeTeamId": "british-virgin-islands",
+      "matchId": "int-2019-10-10-british-virgin-islands-bahamas",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2019-11-14",
+      "homeScore": 3,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2019-11-14-bahamas-british-virgin-islands",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "bahamas",
+      "matchId": "int-2025-11-15-bahamas-british-virgin-islands",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    }
+  ],
+  "pairKey": "bahamas__british-virgin-islands",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 2,
+      "teamBGoals": 9,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bahamas",
+  "teamBId": "british-virgin-islands"
+}

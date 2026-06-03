@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2019-11-14",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1999-05-05",
+    "nationality": "Bangladesh",
+    "playerKey": "biplu-ahmed",
+    "position": "wing half",
+    "providerIds": {
+      "espn": "312687",
+      "national_football_teams": "70908",
+      "soccerway": "492725",
+      "transfermarkt": "579708",
+      "wikidata": "Q56292737",
+      "worldfootball": "biplo-ahamed"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-11-14",
+  "playerKey": "biplu-ahmed",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-11-14",
+      "goalId": "goal-2019-11-14-oman-bangladesh-39407",
+      "matchKey": "2019-11-14-oman-bangladesh",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Biplu Ahmed"
+    }
+  ],
+  "scorer": "Biplu Ahmed",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

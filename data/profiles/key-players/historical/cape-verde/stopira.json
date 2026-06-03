@@ -1,0 +1,88 @@
+{
+  "firstGoalDate": "2021-11-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1988-05-20",
+    "nationality": "Cape Verde",
+    "playerKey": "stopira",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "2331",
+      "fbref": "e9517008",
+      "footballdatabase_eu": "38412",
+      "heimspiel": "128927",
+      "impect": "19275",
+      "kicker": "stopira",
+      "lequipe": "37772",
+      "national_football_teams": "26087",
+      "opta": "1s0utngpx12whfm33bfsxn74l",
+      "skillcorner": "10147",
+      "soccerway": "153261",
+      "sofascore": "59609",
+      "sofifa": "297266",
+      "thesportsdb": "34420892",
+      "transfermarkt": "80486",
+      "wikidata": "Q918049",
+      "wyscout": "70591"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-13",
+  "playerKey": "stopira",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-cape-verde-eswatini-47112",
+      "matchKey": "2025-10-13-cape-verde-eswatini",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira"
+    },
+    {
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-nigeria-cape-verde-42124",
+      "matchKey": "2021-11-16-nigeria-cape-verde",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira"
+    },
+    {
+      "date": "2021-11-13",
+      "goalId": "goal-2021-11-13-cape-verde-central-african-republic-41947",
+      "matchKey": "2021-11-13-cape-verde-central-african-republic",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Stopira"
+    }
+  ],
+  "scorer": "Stopira",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cape-verde",
+  "teamName": "Cape Verde",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

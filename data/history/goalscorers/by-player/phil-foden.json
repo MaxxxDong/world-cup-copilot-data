@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "iceland",
+      "date": "2020-11-18",
+      "goalId": "goal-2020-11-18-england-iceland-40041",
+      "homeTeamId": "england",
+      "matchKey": "2020-11-18-england-iceland",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Phil Foden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2020-11-18",
+      "goalId": "goal-2020-11-18-england-iceland-40042",
+      "homeTeamId": "england",
+      "matchKey": "2020-11-18-england-iceland",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Phil Foden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2022-11-29",
+      "goalId": "goal-2022-11-29-wales-england-42981",
+      "homeTeamId": "wales",
+      "matchKey": "2022-11-29-wales-england",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Phil Foden",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "phil foden",
+  "playerKey": "phil-foden",
+  "scorer": "Phil Foden",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

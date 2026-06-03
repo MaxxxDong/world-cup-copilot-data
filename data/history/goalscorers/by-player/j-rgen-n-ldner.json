@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "hungary",
+      "date": "1963-10-19",
+      "goalId": "goal-1963-10-19-german-dr-hungary-4026",
+      "homeTeamId": "german-dr",
+      "matchKey": "1963-10-19-german-dr-hungary",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jürgen Nöldner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    },
+    {
+      "awayTeamId": "german-dr",
+      "date": "1965-04-25",
+      "goalId": "goal-1965-04-25-austria-german-dr-4303",
+      "homeTeamId": "austria",
+      "matchKey": "1965-04-25-austria-german-dr",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jürgen Nöldner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1965-10-31",
+      "goalId": "goal-1965-10-31-german-dr-austria-4518",
+      "homeTeamId": "german-dr",
+      "matchKey": "1965-10-31-german-dr-austria",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jürgen Nöldner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    }
+  ],
+  "normalizedScorer": "j rgen n ldner",
+  "playerKey": "j-rgen-n-ldner",
+  "scorer": "Jürgen Nöldner",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "german-dr"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lebanon",
+      "date": "2019-01-09",
+      "goalId": "goal-2019-01-09-qatar-lebanon-38073",
+      "homeTeamId": "qatar",
+      "matchKey": "2019-01-09-qatar-lebanon",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bassam Al-Rawi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2019-01-22",
+      "goalId": "goal-2019-01-22-qatar-iraq-38151",
+      "homeTeamId": "qatar",
+      "matchKey": "2019-01-22-qatar-iraq",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bassam Al-Rawi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "bassam al rawi",
+  "playerKey": "bassam-al-rawi",
+  "scorer": "Bassam Al-Rawi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "1953-06-24",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1923-09-03",
+    "nationality": "Germany",
+    "playerKey": "herbert-binkert",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "1949",
+      "footballdatabase_eu": "46158",
+      "german_fa": "128524",
+      "national_football_teams": "36332",
+      "transfermarkt": "289238",
+      "wikidata": "Q96053",
+      "worldfootball": "herbert-binkert"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1953-06-24",
+  "playerKey": "herbert-binkert",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1953-06-24",
+      "goalId": "goal-1953-06-24-norway-saarland-2016",
+      "matchKey": "1953-06-24-norway-saarland",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Herbert Binkert"
+    }
+  ],
+  "scorer": "Herbert Binkert",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saarland",
+  "teamName": "Saarland",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

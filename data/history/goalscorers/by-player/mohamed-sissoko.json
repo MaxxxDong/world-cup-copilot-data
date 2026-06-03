@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "2004-01-26",
+      "goalId": "goal-2004-01-26-kenya-mali-23292",
+      "homeTeamId": "kenya",
+      "matchKey": "2004-01-26-kenya-mali",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Sissoko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2005-09-03",
+      "goalId": "goal-2005-09-03-mali-congo-25626",
+      "homeTeamId": "mali",
+      "matchKey": "2005-09-03-mali-congo",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Sissoko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "mohamed sissoko",
+  "playerKey": "mohamed-sissoko",
+  "scorer": "Mohamed Sissoko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali"
+  ]
+}

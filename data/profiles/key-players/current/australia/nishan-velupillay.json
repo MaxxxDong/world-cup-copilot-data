@@ -1,0 +1,88 @@
+{
+  "club": "Melbourne Victory FC (AUS)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2001-05-07",
+    "nationality": "Australia",
+    "playerKey": "nishan-velupillay",
+    "providerIds": {
+      "api_football": "312459",
+      "espn": "318429",
+      "footballdatabase_eu": "448008",
+      "heimspiel": "754041",
+      "impect": "112509",
+      "kicker": "nishan-velupillay",
+      "national_football_teams": "95887",
+      "skillcorner": "50955",
+      "soccerway": "643671",
+      "sofascore": "1118467",
+      "thesportsdb": "34227114",
+      "transfermarkt": "888140",
+      "wikidata": "Q106916460"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nishan Velupillay",
+  "playerKey": "nishan-velupillay",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-china-pr-australia-46146",
+      "matchKey": "2025-03-25-china-pr-australia",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nishan Velupillay"
+    },
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-australia-indonesia-45854",
+      "matchKey": "2025-03-20-australia-indonesia",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nishan Velupillay"
+    },
+    {
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-australia-china-pr-45378",
+      "matchKey": "2024-10-10-australia-china-pr",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nishan Velupillay"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+  },
+  "shirtNumber": 23,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "australia",
+  "teamName": "Australia"
+}

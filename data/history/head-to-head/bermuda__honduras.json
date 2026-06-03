@@ -1,0 +1,127 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 3,
+    "teamAGoals": 4,
+    "teamAWins": 0,
+    "teamBGoals": 13,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "bermuda",
+    "date": "2025-03-25",
+    "homeScore": 2,
+    "homeTeamId": "honduras",
+    "matchId": "int-2025-03-25-honduras-bermuda",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Gold Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "honduras",
+      "date": "2024-06-09",
+      "homeScore": 1,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2024-06-09-bermuda-honduras",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "honduras",
+      "date": "2025-03-21",
+      "homeScore": 3,
+      "homeTeamId": "bermuda",
+      "matchId": "int-2025-03-21-bermuda-honduras",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bermuda",
+      "date": "2025-03-25",
+      "homeScore": 2,
+      "homeTeamId": "honduras",
+      "matchId": "int-2025-03-25-honduras-bermuda",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    }
+  ],
+  "pairKey": "bermuda__honduras",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 13,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "bermuda",
+  "teamBId": "honduras"
+}

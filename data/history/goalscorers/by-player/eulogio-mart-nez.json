@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1954-03-21",
+      "goalId": "goal-1954-03-21-bra-paraguay-2182",
+      "homeTeamId": "bra",
+      "matchKey": "1954-03-21-bra-paraguay",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eulogio Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1955-03-02",
+      "goalId": "goal-1955-03-02-arg-paraguay-2359",
+      "homeTeamId": "arg",
+      "matchKey": "1955-03-02-arg-paraguay",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eulogio Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "eulogio mart nez",
+  "playerKey": "eulogio-mart-nez",
+  "scorer": "Eulogio Martínez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-italy-north-macedonia-43959",
+      "homeTeamId": "italy",
+      "matchKey": "2023-11-17-italy-north-macedonia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jani Atanasov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-italy-north-macedonia-43960",
+      "homeTeamId": "italy",
+      "matchKey": "2023-11-17-italy-north-macedonia",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jani Atanasov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2023-11-20",
+      "goalId": "goal-2023-11-20-north-macedonia-england-44081",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2023-11-20-north-macedonia-england",
+      "minute": 59,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Jani Atanasov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-latvia-north-macedonia-45415",
+      "homeTeamId": "latvia",
+      "matchKey": "2024-10-10-latvia-north-macedonia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jani Atanasov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-macedonia"
+    }
+  ],
+  "normalizedScorer": "jani atanasov",
+  "playerKey": "jani-atanasov",
+  "scorer": "Jani Atanasov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england",
+    "north-macedonia"
+  ]
+}

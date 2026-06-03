@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-albania-england-20622",
+      "homeTeamId": "albania",
+      "matchKey": "2001-03-28-albania-england",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Andy Cole",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "andy cole",
+  "playerKey": "andy-cole",
+  "scorer": "Andy Cole",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

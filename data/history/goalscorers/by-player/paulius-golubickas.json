@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-latvia-lithuania-40524",
+      "homeTeamId": "latvia",
+      "matchKey": "2021-06-04-latvia-lithuania",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulius Golubickas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2024-10-12",
+      "goalId": "goal-2024-10-12-lithuania-kosovo-45474",
+      "homeTeamId": "lithuania",
+      "matchKey": "2024-10-12-lithuania-kosovo",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulius Golubickas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "paulius golubickas",
+  "playerKey": "paulius-golubickas",
+  "scorer": "Paulius Golubickas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

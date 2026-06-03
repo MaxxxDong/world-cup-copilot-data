@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2021-06-20",
+      "goalId": "goal-2021-06-20-italy-wales-40870",
+      "homeTeamId": "italy",
+      "matchKey": "2021-06-20-italy-wales",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matteo Pessina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "2021-06-26",
+      "goalId": "goal-2021-06-26-italy-austria-40928",
+      "homeTeamId": "italy",
+      "matchKey": "2021-06-26-italy-austria",
+      "minute": 105,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matteo Pessina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2023-03-26",
+      "goalId": "goal-2023-03-26-malta-italy-43152",
+      "homeTeamId": "malta",
+      "matchKey": "2023-03-26-malta-italy",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matteo Pessina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "matteo pessina",
+  "playerKey": "matteo-pessina",
+  "scorer": "Matteo Pessina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

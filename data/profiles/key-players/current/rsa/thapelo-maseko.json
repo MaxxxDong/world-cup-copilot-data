@@ -1,0 +1,68 @@
+{
+  "club": "AEL Limassol (CYP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2003-11-11",
+    "nationality": "South Africa",
+    "playerKey": "thapelo-maseko",
+    "position": "winger",
+    "providerIds": {
+      "api_football": "354831",
+      "espn": "335450",
+      "footballdatabase_eu": "480585",
+      "kicker": "thapelo-maseko",
+      "national_football_teams": "88118",
+      "soccerway": "815945",
+      "thesportsdb": "34228104",
+      "transfermarkt": "983330",
+      "wikidata": "Q124173111",
+      "worldfootball": "thapelo-maseko"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Thapelo Maseko",
+  "playerKey": "thapelo-maseko",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-01-21",
+      "goalId": "goal-2024-01-21-rsa-namibia-44313",
+      "matchKey": "2024-01-21-rsa-namibia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thapelo Maseko"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 12,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

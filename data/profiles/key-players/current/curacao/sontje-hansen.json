@@ -1,0 +1,77 @@
+{
+  "club": "Middlesbrough FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2002-05-18",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "sontje-hansen",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "161884",
+      "capology": "sontje-hansen-37394",
+      "espn": "297299",
+      "fbref_verified": "70bad10b",
+      "footballdatabase_eu": "368024",
+      "heimspiel": "497466",
+      "impect": "28266",
+      "kicker": "sontje-hansen",
+      "lequipe": "78688",
+      "opta": "alfx6xxo38q6hmydbcr0rw67e",
+      "skillcorner": "30223",
+      "soccerbase": "128354",
+      "soccerway": "508823",
+      "sofascore": "1199057",
+      "thesportsdb": "34220663",
+      "transfermarkt": "485582",
+      "wikidata": "Q64224437",
+      "worldfootball": "sontje-hansen",
+      "wyscout": "535826"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Sontje Hansen",
+  "playerKey": "sontje-hansen",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-11-13",
+      "goalId": "goal-2025-11-13-bermuda-curacao-47227",
+      "matchKey": "2025-11-13-bermuda-curacao",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sontje Hansen"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+  },
+  "shirtNumber": 12,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao"
+}

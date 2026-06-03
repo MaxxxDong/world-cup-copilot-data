@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2009-06-06",
+      "goalId": "goal-2009-06-06-el-salvador-mex-29082",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2009-06-06-el-salvador-mex",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Enrique Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-mex-el-salvador-29637",
+      "homeTeamId": "mex",
+      "matchKey": "2009-10-10-mex-el-salvador",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Enrique Martínez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "el-salvador"
+    }
+  ],
+  "normalizedScorer": "julio enrique mart nez",
+  "playerKey": "julio-enrique-mart-nez",
+  "scorer": "Julio Enrique Martínez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "el-salvador"
+  ]
+}

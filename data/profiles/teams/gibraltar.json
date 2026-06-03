@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Gibraltar"
+  ],
+  "allTime": {
+    "draws": 20,
+    "goalsAgainst": 394,
+    "goalsFor": 169,
+    "losses": 100,
+    "matches": 157,
+    "wins": 37
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 31,
+      "goalsFor": 3,
+      "losses": 10,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 39,
+      "goalsFor": 9,
+      "losses": 13,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 1,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "gibraltar",
+      "date": "2025-11-17",
+      "homeScore": 6,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2025-11-17-czech-republic-gibraltar",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "montenegro",
+      "date": "2025-11-14",
+      "homeScore": 1,
+      "homeTeamId": "gibraltar",
+      "matchId": "int-2025-11-14-gibraltar-montenegro",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gibraltar",
+      "date": "2025-10-12",
+      "homeScore": 3,
+      "homeTeamId": "croatia",
+      "matchId": "int-2025-10-12-croatia-gibraltar",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "new-caledonia",
+      "date": "2025-10-08",
+      "homeScore": 0,
+      "homeTeamId": "gibraltar",
+      "matchId": "int-2025-10-08-gibraltar-new-caledonia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "faroe-islands",
+      "date": "2025-09-08",
+      "homeScore": 0,
+      "homeTeamId": "gibraltar",
+      "matchId": "int-2025-09-08-gibraltar-faroe-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 11,
+      "goalsAgainst": 345,
+      "goalsFor": 145,
+      "losses": 84,
+      "matches": 124,
+      "wins": 29
+    },
+    "friendly": {
+      "draws": 9,
+      "goalsAgainst": 49,
+      "goalsFor": 24,
+      "losses": 16,
+      "matches": 33,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 130,
+      "goalsFor": 103,
+      "losses": 33,
+      "matches": 59,
+      "wins": 19
+    },
+    "nonNeutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 264,
+      "goalsFor": 66,
+      "losses": 67,
+      "matches": 98,
+      "wins": 18
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "gibraltar",
+  "teamName": "Gibraltar",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "liam-walker",
+      "scorer": "Liam Walker"
+    },
+    {
+      "goals": 3,
+      "playerKey": "lee-casciaro",
+      "scorer": "Lee Casciaro"
+    },
+    {
+      "goals": 3,
+      "playerKey": "reece-styche",
+      "scorer": "Reece Styche"
+    },
+    {
+      "goals": 3,
+      "playerKey": "tjay-de-barr",
+      "scorer": "Tjay De Barr"
+    },
+    {
+      "goals": 2,
+      "playerKey": "james-scanlon",
+      "scorer": "James Scanlon"
+    },
+    {
+      "goals": 2,
+      "playerKey": "joseph-chipolina",
+      "scorer": "Joseph Chipolina"
+    },
+    {
+      "goals": 2,
+      "playerKey": "roy-chipolina",
+      "scorer": "Roy Chipolina"
+    },
+    {
+      "goals": 1,
+      "playerKey": "adam-priestley",
+      "scorer": "Adam Priestley"
+    },
+    {
+      "goals": 1,
+      "playerKey": "anthony-hernandez",
+      "scorer": "Anthony Hernandez"
+    },
+    {
+      "goals": 1,
+      "playerKey": "dan-bent",
+      "scorer": "Dan Bent"
+    }
+  ]
+}

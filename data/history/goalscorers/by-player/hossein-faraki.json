@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "1980-09-28",
+      "goalId": "goal-1980-09-28-kuwait-iran-9017",
+      "homeTeamId": "kuwait",
+      "matchKey": "1980-09-28-kuwait-iran",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossein Faraki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-29",
+      "goalId": "goal-1980-09-29-iran-north-korea-9022",
+      "homeTeamId": "iran",
+      "matchKey": "1980-09-29-iran-north-korea",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossein Faraki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1980-09-29",
+      "goalId": "goal-1980-09-29-iran-north-korea-9023",
+      "homeTeamId": "iran",
+      "matchKey": "1980-09-29-iran-north-korea",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hossein Faraki",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "hossein faraki",
+  "playerKey": "hossein-faraki",
+  "scorer": "Hossein Faraki",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

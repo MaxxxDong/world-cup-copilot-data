@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "1946-01-19",
+      "goalId": "goal-1946-01-19-arg-bolivia-1419",
+      "homeTeamId": "arg",
+      "matchKey": "1946-01-19-arg-bolivia",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miguel Peredo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1946-02-08",
+      "goalId": "goal-1946-02-08-bolivia-chile-1464",
+      "homeTeamId": "bolivia",
+      "matchKey": "1946-02-08-bolivia-chile",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miguel Peredo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "miguel peredo",
+  "playerKey": "miguel-peredo",
+  "scorer": "Miguel Peredo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

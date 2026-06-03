@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 7,
+    "teamAGoals": 13,
+    "teamAWins": 4,
+    "teamBGoals": 3,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "sudan",
+    "date": "2021-11-12",
+    "homeScore": 3,
+    "homeTeamId": "mar",
+    "matchId": "int-2021-11-12-mar-sudan",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mar",
+      "date": "1969-10-10",
+      "homeScore": 0,
+      "homeTeamId": "sudan",
+      "matchId": "int-1969-10-10-sudan-mar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sudan",
+      "date": "1969-10-26",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-1969-10-26-mar-sudan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sudan",
+      "date": "1972-02-27",
+      "homeScore": 1,
+      "homeTeamId": "mar",
+      "matchId": "int-1972-02-27-mar-sudan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sudan",
+      "date": "1974-10-07",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-1974-10-07-mar-sudan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Kuneitra Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sudan",
+      "date": "1976-03-01",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-1976-03-01-mar-sudan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sudan",
+      "date": "2021-09-02",
+      "homeScore": 2,
+      "homeTeamId": "mar",
+      "matchId": "int-2021-09-02-mar-sudan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sudan",
+      "date": "2021-11-12",
+      "homeScore": 3,
+      "homeTeamId": "mar",
+      "matchId": "int-2021-11-12-mar-sudan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "mar__sudan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 13,
+      "teamAWins": 4,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "mar",
+  "teamBId": "sudan"
+}

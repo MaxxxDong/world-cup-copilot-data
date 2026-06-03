@@ -1,0 +1,57 @@
+{
+  "firstGoalDate": "2019-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1991-12-16",
+    "playerKey": "abdi-idleh-hamza",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "92408b63",
+      "footballdatabase_eu": "290318",
+      "national_football_teams": "63615",
+      "transfermarkt": "512520",
+      "wikidata": "Q67166549"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-04",
+  "playerKey": "abdi-idleh-hamza",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-04",
+      "goalId": "goal-2019-09-04-djibouti-eswatini-38790",
+      "matchKey": "2019-09-04-djibouti-eswatini",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdi Idleh Hamza"
+    }
+  ],
+  "scorer": "Abdi Idleh Hamza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "2023-09-10",
+      "goalId": "goal-2023-09-10-san-marino-slovenia-43541",
+      "homeTeamId": "san-marino",
+      "matchKey": "2023-09-10-san-marino-slovenia",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Žan Karničnik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2024-06-20",
+      "goalId": "goal-2024-06-20-slovenia-serbia-45006",
+      "homeTeamId": "slovenia",
+      "matchKey": "2024-06-20-slovenia-serbia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Žan Karničnik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    },
+    {
+      "awayTeamId": "kosovo",
+      "date": "2025-11-15",
+      "goalId": "goal-2025-11-15-slovenia-kosovo-47304",
+      "homeTeamId": "slovenia",
+      "matchKey": "2025-11-15-slovenia-kosovo",
+      "minute": 64,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Žan Karničnik",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kosovo"
+    }
+  ],
+  "normalizedScorer": "an karni nik",
+  "playerKey": "an-karni-nik",
+  "scorer": "Žan Karničnik",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kosovo",
+    "slovenia"
+  ]
+}

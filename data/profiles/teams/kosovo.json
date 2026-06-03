@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Kosovo"
+  ],
+  "allTime": {
+    "draws": 23,
+    "goalsAgainst": 137,
+    "goalsFor": 148,
+    "losses": 38,
+    "matches": 102,
+    "wins": 41
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 13,
+      "goalsFor": 19,
+      "losses": 2,
+      "matches": 10,
+      "wins": 6
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 24,
+      "goalsFor": 34,
+      "losses": 5,
+      "matches": 20,
+      "wins": 12
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "turkey",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "kosovo",
+      "matchId": "int-2026-03-31-kosovo-turkey",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "kosovo",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2026-03-26-slovakia-kosovo",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "switzerland",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "kosovo",
+      "matchId": "int-2025-11-18-kosovo-switzerland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kosovo",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2025-11-15-slovenia-kosovo",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kosovo",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "sweden",
+      "matchId": "int-2025-10-13-sweden-kosovo",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 17,
+      "goalsAgainst": 98,
+      "goalsFor": 87,
+      "losses": 30,
+      "matches": 71,
+      "wins": 24
+    },
+    "friendly": {
+      "draws": 6,
+      "goalsAgainst": 39,
+      "goalsFor": 61,
+      "losses": 8,
+      "matches": 31,
+      "wins": 17
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 30,
+      "goalsFor": 27,
+      "losses": 10,
+      "matches": 19,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 22,
+      "goalsAgainst": 107,
+      "goalsFor": 121,
+      "losses": 28,
+      "matches": 83,
+      "wins": 33
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kosovo",
+  "teamName": "Kosovo",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "vedat-muriqi",
+      "scorer": "Vedat Muriqi"
+    },
+    {
+      "goals": 7,
+      "playerKey": "milot-rashica",
+      "scorer": "Milot Rashica"
+    },
+    {
+      "goals": 5,
+      "playerKey": "amir-rrahmani",
+      "scorer": "Amir Rrahmani"
+    },
+    {
+      "goals": 5,
+      "playerKey": "arb-r-zeneli",
+      "scorer": "Arbër Zeneli"
+    },
+    {
+      "goals": 4,
+      "playerKey": "benjamin-kololli",
+      "scorer": "Benjamin Kololli"
+    },
+    {
+      "goals": 4,
+      "playerKey": "valon-berisha",
+      "scorer": "Valon Berisha"
+    },
+    {
+      "goals": 3,
+      "playerKey": "atdhe-nuhiu",
+      "scorer": "Atdhe Nuhiu"
+    },
+    {
+      "goals": 3,
+      "playerKey": "edon-zhegrova",
+      "scorer": "Edon Zhegrova"
+    },
+    {
+      "goals": 3,
+      "playerKey": "fisnik-asllani",
+      "scorer": "Fisnik Asllani"
+    },
+    {
+      "goals": 3,
+      "playerKey": "florent-muslija",
+      "scorer": "Florent Muslija"
+    }
+  ]
+}

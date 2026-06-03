@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 8,
+    "teamAGoals": 21,
+    "teamAWins": 6,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "gambia",
+    "date": "2025-03-24",
+    "homeScore": 1,
+    "homeTeamId": "civ",
+    "matchId": "int-2025-03-24-civ-gambia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "civ",
+      "date": "1979-01-29",
+      "homeScore": 2,
+      "homeTeamId": "gambia",
+      "matchId": "int-1979-01-29-gambia-civ",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "1984-10-21",
+      "homeScore": 4,
+      "homeTeamId": "civ",
+      "matchId": "int-1984-10-21-civ-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "civ",
+      "date": "1984-11-04",
+      "homeScore": 3,
+      "homeTeamId": "gambia",
+      "matchId": "int-1984-11-04-gambia-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "2002-09-18",
+      "homeScore": 5,
+      "homeTeamId": "civ",
+      "matchId": "int-2002-09-18-civ-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "2013-03-23",
+      "homeScore": 3,
+      "homeTeamId": "civ",
+      "matchId": "int-2013-03-23-civ-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "civ",
+      "date": "2013-06-08",
+      "homeScore": 0,
+      "homeTeamId": "gambia",
+      "matchId": "int-2013-06-08-gambia-civ",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "civ",
+      "date": "2023-11-20",
+      "homeScore": 0,
+      "homeTeamId": "gambia",
+      "matchId": "int-2023-11-20-gambia-civ",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gambia",
+      "date": "2025-03-24",
+      "homeScore": 1,
+      "homeTeamId": "civ",
+      "matchId": "int-2025-03-24-civ-gambia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "civ__gambia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 15,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 18,
+      "teamAWins": 5,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "civ",
+  "teamBId": "gambia"
+}

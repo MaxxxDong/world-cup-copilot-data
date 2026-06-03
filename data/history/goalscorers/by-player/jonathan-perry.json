@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2000-06-21",
+      "goalId": "goal-2000-06-21-new-zealand-vanuatu-19796",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2000-06-21-new-zealand-vanuatu",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Perry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "2001-06-06",
+      "goalId": "goal-2001-06-06-new-zealand-tahiti-21399",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2001-06-06-new-zealand-tahiti",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Perry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "jonathan perry",
+  "playerKey": "jonathan-perry",
+  "scorer": "Jonathan Perry",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

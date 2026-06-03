@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-slovakia-azerbaijan-15240",
+      "homeTeamId": "slovakia",
+      "matchKey": "1995-03-29-slovakia-azerbaijan",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nazim Suleymanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-azerbaijan-romania-15268",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "1995-04-26-azerbaijan-romania",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nazim Suleymanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-azerbaijan-finland-16869",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "1997-04-02-azerbaijan-finland",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nazim Suleymanov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "nazim suleymanov",
+  "playerKey": "nazim-suleymanov",
+  "scorer": "Nazim Suleymanov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan"
+  ]
+}

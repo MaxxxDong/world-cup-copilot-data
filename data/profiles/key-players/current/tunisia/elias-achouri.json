@@ -1,0 +1,95 @@
+{
+  "club": "FC København (DEN)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1999-02-10",
+    "nationality": "Tunisia",
+    "playerKey": "elias-achouri",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "42012",
+      "capology": "elias-achouri-36201",
+      "fbref_verified": "4dd2a0be",
+      "footballdatabase_eu": "388003",
+      "heimspiel": "559201",
+      "impect": "103537",
+      "kicker": "elias-achouri",
+      "lequipe": "90614",
+      "national_football_teams": "87657",
+      "opta": "ssluj1c3ft94nkfs58dc8cq2",
+      "skillcorner": "61341",
+      "soccerway": "561410",
+      "sofascore": "945204",
+      "thesportsdb": "34220789",
+      "transfermarkt": "645589",
+      "uefa": "250132393",
+      "wikidata": "Q64740426",
+      "worldfootball": "elias-achouri",
+      "wyscout": "593207"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Elias Achouri",
+  "playerKey": "elias-achouri",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-23",
+      "goalId": "goal-2025-12-23-tunisia-uganda-47454",
+      "matchKey": "2025-12-23-tunisia-uganda",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elias Achouri"
+    },
+    {
+      "date": "2025-12-23",
+      "goalId": "goal-2025-12-23-tunisia-uganda-47453",
+      "matchKey": "2025-12-23-tunisia-uganda",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elias Achouri"
+    },
+    {
+      "date": "2025-03-24",
+      "goalId": "goal-2025-03-24-tunisia-malawi-46117",
+      "matchKey": "2025-03-24-tunisia-malawi",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Elias Achouri"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 7,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

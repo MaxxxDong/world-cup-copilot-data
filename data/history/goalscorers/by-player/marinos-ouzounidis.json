@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1995-10-11",
+      "goalId": "goal-1995-10-11-russia-greece-15622",
+      "homeTeamId": "russia",
+      "matchKey": "1995-10-11-russia-greece",
+      "minute": 36,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Marinos Ouzounidis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "1996-09-01",
+      "goalId": "goal-1996-09-01-greece-bosnia-and-herzegovina-16209",
+      "homeTeamId": "greece",
+      "matchKey": "1996-09-01-greece-bosnia-and-herzegovina",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marinos Ouzounidis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-greece-georgia-18561",
+      "homeTeamId": "greece",
+      "matchKey": "1998-10-14-greece-georgia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marinos Ouzounidis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "greece"
+    }
+  ],
+  "normalizedScorer": "marinos ouzounidis",
+  "playerKey": "marinos-ouzounidis",
+  "scorer": "Marinos Ouzounidis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "greece",
+    "russia"
+  ]
+}

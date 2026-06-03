@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "1992-12-16",
+      "goalId": "goal-1992-12-16-spain-latvia-13585",
+      "homeTeamId": "spain",
+      "matchKey": "1992-12-16-spain-latvia",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pep Guardiola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1994-06-27",
+      "goalId": "goal-1994-06-27-bolivia-spain-14864",
+      "homeTeamId": "bolivia",
+      "matchKey": "1994-06-27-bolivia-spain",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Pep Guardiola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "1996-12-14",
+      "goalId": "goal-1996-12-14-spain-serbia-16653",
+      "homeTeamId": "spain",
+      "matchKey": "1996-12-14-spain-serbia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pep Guardiola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1997-02-12",
+      "goalId": "goal-1997-02-12-spain-malta-16735",
+      "homeTeamId": "spain",
+      "matchKey": "1997-02-12-spain-malta",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pep Guardiola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "pep guardiola",
+  "playerKey": "pep-guardiola",
+  "scorer": "Pep Guardiola",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

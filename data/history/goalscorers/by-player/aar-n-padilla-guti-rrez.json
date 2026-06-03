@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "1965-05-03",
+      "goalId": "goal-1965-05-03-jamaica-mex-4310",
+      "homeTeamId": "jamaica",
+      "matchKey": "1965-05-03-jamaica-mex",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aarón Padilla Gutiérrez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "jamaica",
+      "date": "1965-05-07",
+      "goalId": "goal-1965-05-07-mex-jamaica-4322",
+      "homeTeamId": "mex",
+      "matchKey": "1965-05-07-mex-jamaica",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aarón Padilla Gutiérrez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "aar n padilla guti rrez",
+  "playerKey": "aar-n-padilla-guti-rrez",
+  "scorer": "Aarón Padilla Gutiérrez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

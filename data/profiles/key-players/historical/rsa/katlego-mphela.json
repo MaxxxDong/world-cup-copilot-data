@@ -1,0 +1,101 @@
+{
+  "firstGoalDate": "2008-01-27",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1984-11-29",
+    "nationality": "South Africa",
+    "playerKey": "katlego-mphela",
+    "position": "forward",
+    "providerIds": {
+      "espn": "92547",
+      "fbref": "eab2ee32",
+      "footballdatabase_eu": "7719",
+      "impect": "42844",
+      "kicker": "katlego-mphela",
+      "national_football_teams": "9630",
+      "soccerway": "21665",
+      "sofascore": "818548",
+      "sofifa": "230776",
+      "transfermarkt": "18917",
+      "wikidata": "Q214877",
+      "worldfootball": "katlego-mphela"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-06-03",
+  "playerKey": "katlego-mphela",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-rsa-ethiopia-31802",
+      "matchKey": "2012-06-03-rsa-ethiopia",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Katlego Mphela"
+    },
+    {
+      "date": "2010-06-22",
+      "goalId": "goal-2010-06-22-rsa-fra-29950",
+      "matchKey": "2010-06-22-rsa-fra",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Katlego Mphela"
+    },
+    {
+      "date": "2009-06-28",
+      "goalId": "goal-2009-06-28-rsa-spain-29252",
+      "matchKey": "2009-06-28-rsa-spain",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Katlego Mphela"
+    },
+    {
+      "date": "2009-06-28",
+      "goalId": "goal-2009-06-28-rsa-spain-29249",
+      "matchKey": "2009-06-28-rsa-spain",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Katlego Mphela"
+    },
+    {
+      "date": "2008-01-27",
+      "goalId": "goal-2008-01-27-tunisia-rsa-27597",
+      "matchKey": "2008-01-27-tunisia-rsa",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Katlego Mphela"
+    }
+  ],
+  "scorer": "Katlego Mphela",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

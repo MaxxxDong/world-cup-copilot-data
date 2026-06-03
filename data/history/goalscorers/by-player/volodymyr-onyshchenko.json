@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1973-05-13",
+      "goalId": "goal-1973-05-13-russia-republic-of-ireland-6680",
+      "homeTeamId": "russia",
+      "matchKey": "1973-05-13-russia-republic-of-ireland",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Volodymyr Onyshchenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1973-05-26",
+      "goalId": "goal-1973-05-26-russia-fra-6721",
+      "homeTeamId": "russia",
+      "matchKey": "1973-05-26-russia-fra",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Volodymyr Onyshchenko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "volodymyr onyshchenko",
+  "playerKey": "volodymyr-onyshchenko",
+  "scorer": "Volodymyr Onyshchenko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "russia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1980-11-16",
+      "goalId": "goal-1980-11-16-madagascar-dr-congo-9074",
+      "homeTeamId": "madagascar",
+      "matchKey": "1980-11-16-madagascar-dr-congo",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Imowa Malgbanga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "madagascar",
+      "date": "1980-12-21",
+      "goalId": "goal-1980-12-21-dr-congo-madagascar-9123",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1980-12-21-dr-congo-madagascar",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Imowa Malgbanga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "imowa malgbanga",
+  "playerKey": "imowa-malgbanga",
+  "scorer": "Imowa Malgbanga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Kabylia"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 15,
+    "goalsFor": 8,
+    "losses": 3,
+    "matches": 6,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 6,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 6,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "abkhazia",
+      "date": "2018-06-09",
+      "homeScore": 0,
+      "homeTeamId": "kabylia",
+      "matchId": "int-2018-06-09-kabylia-abkhazia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "kabylia",
+      "date": "2018-06-07",
+      "homeScore": 1,
+      "homeTeamId": "tibet",
+      "matchId": "int-2018-06-07-tibet-kabylia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kabylia",
+      "date": "2018-06-05",
+      "homeScore": 0,
+      "homeTeamId": "matabeleland",
+      "matchId": "int-2018-06-05-matabeleland-kabylia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kabylia",
+      "date": "2018-06-03",
+      "homeScore": 4,
+      "homeTeamId": "western-armenia",
+      "matchId": "int-2018-06-03-western-armenia-kabylia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kabylia",
+      "date": "2018-06-02",
+      "homeScore": 0,
+      "homeTeamId": "united-koreans-in-japan",
+      "matchId": "int-2018-06-02-united-koreans-in-japan-kabylia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 6,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 8,
+      "losses": 3,
+      "matches": 6,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "kabylia",
+  "teamName": "Kabylia",
+  "topScorers": []
+}

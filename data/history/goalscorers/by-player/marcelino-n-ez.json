@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "2022-02-01",
+      "goalId": "goal-2022-02-01-bolivia-chile-42274",
+      "homeTeamId": "bolivia",
+      "matchKey": "2022-02-01-bolivia-chile",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcelino Núñez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-chile-peru-43609",
+      "homeTeamId": "chile",
+      "matchKey": "2023-10-12-chile-peru",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcelino Núñez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "chile"
+    }
+  ],
+  "normalizedScorer": "marcelino n ez",
+  "playerKey": "marcelino-n-ez",
+  "scorer": "Marcelino Núñez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "chile"
+  ]
+}

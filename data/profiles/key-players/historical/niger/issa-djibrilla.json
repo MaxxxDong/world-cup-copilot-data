@@ -1,0 +1,72 @@
+{
+  "firstGoalDate": "2021-11-15",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1996-01-01",
+    "nationality": "Niger",
+    "playerKey": "issa-djibrilla",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "291480",
+      "footballdatabase_eu": "432604",
+      "impect": "240846",
+      "kicker": "issa-djibrilla",
+      "national_football_teams": "79797",
+      "soccerway": "680622",
+      "sofascore": "1089932",
+      "thesportsdb": "34225413",
+      "transfermarkt": "823469",
+      "wikidata": "Q108387153"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-11-15",
+  "playerKey": "issa-djibrilla",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-niger-djibouti-42049",
+      "matchKey": "2021-11-15-niger-djibouti",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Issa Djibrilla"
+    },
+    {
+      "date": "2021-11-15",
+      "goalId": "goal-2021-11-15-niger-djibouti-42048",
+      "matchKey": "2021-11-15-niger-djibouti",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Issa Djibrilla"
+    }
+  ],
+  "scorer": "Issa Djibrilla",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "niger",
+  "teamName": "Niger",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

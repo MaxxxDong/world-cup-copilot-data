@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2000-07-02",
+      "goalId": "goal-2000-07-02-fra-italy-19866",
+      "homeTeamId": "fra",
+      "matchKey": "2000-07-02-fra-italy",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Delvecchio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-italy-romania-20095",
+      "homeTeamId": "italy",
+      "matchKey": "2000-10-07-italy-romania",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Delvecchio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "2001-06-02",
+      "goalId": "goal-2001-06-02-georgia-italy-21273",
+      "homeTeamId": "georgia",
+      "matchKey": "2001-06-02-georgia-italy",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Delvecchio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "marco delvecchio",
+  "playerKey": "marco-delvecchio",
+  "scorer": "Marco Delvecchio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

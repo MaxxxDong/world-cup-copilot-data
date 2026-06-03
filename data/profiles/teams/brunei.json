@@ -1,0 +1,211 @@
+{
+  "aliases": [
+    "Brunei"
+  ],
+  "allTime": {
+    "draws": 11,
+    "goalsAgainst": 449,
+    "goalsFor": 107,
+    "losses": 104,
+    "matches": 137,
+    "wins": 22
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 24,
+      "goalsFor": 4,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 62,
+      "goalsFor": 13,
+      "losses": 13,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 2,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "lebanon",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "brunei",
+      "matchId": "int-2025-11-18-brunei-lebanon",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2025-10-14",
+      "homeScore": 9,
+      "homeTeamId": "yemen",
+      "matchId": "int-2025-10-14-yemen-brunei",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "yemen",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "brunei",
+      "matchId": "int-2025-10-09-brunei-yemen",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bhutan",
+      "date": "2025-06-10",
+      "homeScore": 2,
+      "homeTeamId": "brunei",
+      "matchId": "int-2025-06-10-brunei-bhutan",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "brunei",
+      "date": "2025-06-05",
+      "homeScore": 1,
+      "homeTeamId": "sri-lanka",
+      "matchId": "int-2025-06-05-sri-lanka-brunei",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 11,
+      "goalsAgainst": 397,
+      "goalsFor": 93,
+      "losses": 92,
+      "matches": 121,
+      "wins": 18
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 52,
+      "goalsFor": 14,
+      "losses": 12,
+      "matches": 16,
+      "wins": 4
+    },
+    "neutralVenue": {
+      "draws": 9,
+      "goalsAgainst": 242,
+      "goalsFor": 60,
+      "losses": 53,
+      "matches": 73,
+      "wins": 11
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 207,
+      "goalsFor": 47,
+      "losses": 51,
+      "matches": 64,
+      "wins": 11
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "brunei",
+  "teamName": "Brunei",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "razimie-ramlli",
+      "scorer": "Razimie Ramlli"
+    },
+    {
+      "goals": 1,
+      "playerKey": "adi-said",
+      "scorer": "Adi Said"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ahmed-rahim",
+      "scorer": "Ahmed Rahim"
+    },
+    {
+      "goals": 1,
+      "playerKey": "zainudin-kassim",
+      "scorer": "Zainudin Kassim"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1950-07-02",
+      "goalId": "goal-1950-07-02-mex-switzerland-1899",
+      "homeTeamId": "mex",
+      "matchKey": "1950-07-02-mex-switzerland",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Bader",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "ren bader",
+  "playerKey": "ren-bader",
+  "scorer": "René Bader",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

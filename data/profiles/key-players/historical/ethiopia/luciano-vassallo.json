@@ -1,0 +1,111 @@
+{
+  "firstGoalDate": "1961-03-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 7,
+  "identity": {
+    "dateOfBirth": "1935-08-15",
+    "nationality": "Ethiopia",
+    "playerKey": "luciano-vassallo",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "500521",
+      "national_football_teams": "59834",
+      "sofifa": "59494",
+      "wikidata": "Q2054110"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1968-01-19",
+  "playerKey": "luciano-vassallo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1968-01-19",
+      "goalId": "goal-1968-01-19-ethiopia-dr-congo-5122",
+      "matchKey": "1968-01-19-ethiopia-dr-congo",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1968-01-16",
+      "goalId": "goal-1968-01-16-ethiopia-algeria-5115",
+      "matchKey": "1968-01-16-ethiopia-algeria",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1968-01-12",
+      "goalId": "goal-1968-01-12-ethiopia-uganda-5089",
+      "matchKey": "1968-01-12-ethiopia-uganda",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1965-11-19",
+      "goalId": "goal-1965-11-19-ethiopia-senegal-4569",
+      "matchKey": "1965-11-19-ethiopia-senegal",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1962-01-14",
+      "goalId": "goal-1962-01-14-ethiopia-tunisia-3650",
+      "matchKey": "1962-01-14-ethiopia-tunisia",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1962-01-14",
+      "goalId": "goal-1962-01-14-ethiopia-tunisia-3647",
+      "matchKey": "1962-01-14-ethiopia-tunisia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Luciano Vassallo"
+    },
+    {
+      "date": "1961-03-19",
+      "goalId": "goal-1961-03-19-israel-ethiopia-3438",
+      "matchKey": "1961-03-19-israel-ethiopia",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luciano Vassallo"
+    }
+  ],
+  "scorer": "Luciano Vassallo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "ethiopia",
+  "teamName": "Ethiopia",
+  "tournaments": [
+    {
+      "goals": 7,
+      "tournament": "unknown"
+    }
+  ]
+}

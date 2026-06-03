@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 10,
+    "teamAWins": 3,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "saint-kitts-and-nevis",
+    "date": "2024-11-18",
+    "homeScore": 4,
+    "homeTeamId": "cuba",
+    "matchId": "int-2024-11-18-cuba-saint-kitts-and-nevis",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CONCACAF Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "cuba",
+      "date": "1997-10-04",
+      "homeScore": 0,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-1997-10-04-saint-kitts-and-nevis-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "1999-06-08",
+      "homeScore": 2,
+      "homeTeamId": "cuba",
+      "matchId": "int-1999-06-08-cuba-saint-kitts-and-nevis",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2001-05-18",
+      "homeScore": 1,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2001-05-18-saint-kitts-and-nevis-cuba",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cuba",
+      "date": "2024-11-14",
+      "homeScore": 2,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2024-11-14-saint-kitts-and-nevis-cuba",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2024-11-18",
+      "homeScore": 4,
+      "homeTeamId": "cuba",
+      "matchId": "int-2024-11-18-cuba-saint-kitts-and-nevis",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Nations League"
+    }
+  ],
+  "pairKey": "cuba__saint-kitts-and-nevis",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "cuba",
+  "teamBId": "saint-kitts-and-nevis"
+}

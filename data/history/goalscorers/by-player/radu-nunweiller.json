@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1970-10-11",
+      "goalId": "goal-1970-10-11-romania-finland-5947",
+      "homeTeamId": "romania",
+      "matchKey": "1970-10-11-romania-finland",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radu Nunweiller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1972-09-20",
+      "goalId": "goal-1972-09-20-finland-romania-6423",
+      "homeTeamId": "finland",
+      "matchKey": "1972-09-20-finland-romania",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radu Nunweiller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "radu nunweiller",
+  "playerKey": "radu-nunweiller",
+  "scorer": "Radu Nunweiller",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

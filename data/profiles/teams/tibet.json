@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Tibet"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 121,
+    "goalsFor": 30,
+    "losses": 18,
+    "matches": 21,
+    "wins": 1
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 41,
+      "goalsFor": 16,
+      "losses": 8,
+      "matches": 10,
+      "wins": 0
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 117,
+      "goalsFor": 29,
+      "losses": 17,
+      "matches": 20,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 21,
+      "goalsFor": 12,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 6,
+      "awayTeamId": "east-turkestan",
+      "date": "2025-07-03",
+      "homeScore": 4,
+      "homeTeamId": "tibet",
+      "matchId": "int-2025-07-03-tibet-east-turkestan",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Asia Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tibet",
+      "date": "2025-07-01",
+      "homeScore": 4,
+      "homeTeamId": "tamil-eelam",
+      "matchId": "int-2025-07-01-tamil-eelam-tibet",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Asia Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "tamil-eelam",
+      "date": "2023-08-06",
+      "homeScore": 1,
+      "homeTeamId": "tibet",
+      "matchId": "int-2023-08-06-tibet-tamil-eelam",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Asia Cup"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "tibet",
+      "date": "2023-08-05",
+      "homeScore": 5,
+      "homeTeamId": "hmong",
+      "matchId": "int-2023-08-05-hmong-tibet",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Asia Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "tibet",
+      "date": "2022-08-07",
+      "homeScore": 3,
+      "homeTeamId": "raetia",
+      "matchId": "int-2022-08-07-raetia-tibet",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 109,
+      "goalsFor": 25,
+      "losses": 15,
+      "matches": 17,
+      "wins": 1
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 3,
+      "matches": 4,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 79,
+      "goalsFor": 27,
+      "losses": 15,
+      "matches": 17,
+      "wins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 42,
+      "goalsFor": 3,
+      "losses": 3,
+      "matches": 4,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "tibet",
+  "teamName": "Tibet",
+  "topScorers": []
+}

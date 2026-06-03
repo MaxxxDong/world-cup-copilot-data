@@ -1,0 +1,91 @@
+{
+  "club": "Philadelphia Union (USA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2000-05-20",
+    "nationality": "Haiti",
+    "playerKey": "danley-jean-jacques",
+    "position": "midfielder",
+    "providerIds": {
+      "besoccer": "834264",
+      "capology": "danley-jean-jacques-36666",
+      "fbref": "59fcbd6d",
+      "footballdatabase_eu": "361005",
+      "heimspiel": "745847",
+      "impect": "109883",
+      "kicker": "danley-jean-jacques",
+      "national_football_teams": "90616",
+      "opta": "ecikirj22qzmxyxtiz1ciw4ix",
+      "skillcorner": "103042",
+      "soccerway": "481439",
+      "sofascore": "1173167",
+      "transfermarkt": "628834",
+      "wikidata": "Q113393306",
+      "wyscout": "502878"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Danley Jean Jacques",
+  "playerKey": "danley-jean-jacques",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-09",
+      "goalId": "goal-2025-10-09-nicaragua-haiti-46969",
+      "matchKey": "2025-10-09-nicaragua-haiti",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danley Jean Jacques"
+    },
+    {
+      "date": "2025-06-07",
+      "goalId": "goal-2025-06-07-aruba-haiti-46307",
+      "matchKey": "2025-06-07-aruba-haiti",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danley Jean Jacques"
+    },
+    {
+      "date": "2023-06-29",
+      "goalId": "goal-2023-06-29-haiti-mex-43368",
+      "matchKey": "2023-06-29-haiti-mex",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Danley Jean Jacques"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=22"
+  },
+  "shirtNumber": 17,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=22"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "haiti",
+  "teamName": "Haiti"
+}

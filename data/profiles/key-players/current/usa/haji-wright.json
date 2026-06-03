@@ -1,0 +1,87 @@
+{
+  "club": "Coventry City FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1998-03-27",
+    "nationality": "United States",
+    "playerKey": "haji-wright",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "427",
+      "capology": "haji-wright-35881",
+      "espn": "220474",
+      "fbref": "91cd37b7",
+      "footballdatabase_eu": "259055",
+      "german_fa": "362689",
+      "heimspiel": "402866",
+      "impect": "15765",
+      "kicker": "haji-wright",
+      "national_football_teams": "87638",
+      "opta": "xvcq4pdg6xecz1cwhj7qvhm1",
+      "skillcorner": "26772",
+      "soccerbase": "102802",
+      "soccerway": "401946",
+      "sofascore": "818391",
+      "thesportsdb": "34170612",
+      "transfermarkt": "315291",
+      "wikidata": "Q19787021",
+      "worldfootball": "haji-wright",
+      "wyscout": "370773"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Haji Wright",
+  "playerKey": "haji-wright",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-15",
+      "goalId": "goal-2025-06-15-usa-trinidad-and-tobago-46468",
+      "matchKey": "2025-06-15-usa-trinidad-and-tobago",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Haji Wright"
+    },
+    {
+      "date": "2022-12-03",
+      "goalId": "goal-2022-12-03-netherlands-usa-43018",
+      "matchKey": "2022-12-03-netherlands-usa",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Haji Wright"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

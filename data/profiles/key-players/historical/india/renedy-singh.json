@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2004-02-18",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1979-06-20",
+    "nationality": "India",
+    "playerKey": "renedy-singh",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "c58feeb8",
+      "footballdatabase_eu": "8340",
+      "national_football_teams": "3123",
+      "soccerway": "72909",
+      "sofifa": "214344",
+      "transfermarkt": "157449",
+      "wikidata": "Q957005",
+      "worldfootball": "renedy-singh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-03-31",
+  "playerKey": "renedy-singh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-03-31",
+      "goalId": "goal-2004-03-31-india-oman-23505",
+      "matchKey": "2004-03-31-india-oman",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renedy Singh"
+    },
+    {
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-india-singapore-23380",
+      "matchKey": "2004-02-18-india-singapore",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renedy Singh"
+    }
+  ],
+  "scorer": "Renedy Singh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "india",
+  "teamName": "India",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

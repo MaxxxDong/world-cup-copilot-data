@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1935-01-06",
+      "goalId": "goal-1935-01-06-arg-chile-863",
+      "homeTeamId": "arg",
+      "matchKey": "1935-01-06-arg-chile",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego García",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1935-01-20",
+      "goalId": "goal-1935-01-20-peru-arg-871",
+      "homeTeamId": "peru",
+      "matchKey": "1935-01-20-peru-arg",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Diego García",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "diego garc a",
+  "playerKey": "diego-garc-a",
+  "scorer": "Diego García",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

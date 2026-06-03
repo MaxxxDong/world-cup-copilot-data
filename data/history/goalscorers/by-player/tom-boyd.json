@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1997-03-29",
+      "goalId": "goal-1997-03-29-scotland-estonia-16837",
+      "homeTeamId": "scotland",
+      "matchKey": "1997-03-29-scotland-estonia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Boyd",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1998-06-10",
+      "goalId": "goal-1998-06-10-bra-scotland-18204",
+      "homeTeamId": "bra",
+      "matchKey": "1998-06-10-bra-scotland",
+      "minute": 74,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Tom Boyd",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "tom boyd",
+  "playerKey": "tom-boyd",
+  "scorer": "Tom Boyd",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra",
+    "scotland"
+  ]
+}

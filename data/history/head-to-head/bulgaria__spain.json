@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 30,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "bulgaria",
+    "date": "2025-10-14",
+    "homeScore": 4,
+    "homeTeamId": "spain",
+    "matchId": "int-2025-10-14-spain-bulgaria",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "1933-05-21",
+      "homeScore": 13,
+      "homeTeamId": "spain",
+      "matchId": "int-1933-05-21-spain-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "1985-12-18",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-1985-12-18-spain-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "1996-06-09",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-1996-06-09-spain-bulgaria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bulgaria",
+      "date": "1998-06-24",
+      "homeScore": 6,
+      "homeTeamId": "spain",
+      "matchId": "int-1998-06-24-spain-bulgaria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2002-11-20",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-2002-11-20-spain-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "spain",
+      "date": "2025-09-04",
+      "homeScore": 0,
+      "homeTeamId": "bulgaria",
+      "matchId": "int-2025-09-04-bulgaria-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bulgaria",
+      "date": "2025-10-14",
+      "homeScore": 4,
+      "homeTeamId": "spain",
+      "matchId": "int-2025-10-14-spain-bulgaria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "bulgaria__spain",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 14,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 16,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 23,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 1
+    }
+  },
+  "teamAId": "bulgaria",
+  "teamBId": "spain"
+}

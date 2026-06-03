@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "1928-06-13",
+      "goalId": "goal-1928-06-13-uruguay-arg-492",
+      "homeTeamId": "uruguay",
+      "matchKey": "1928-06-13-uruguay-arg",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Monti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1930-07-15",
+      "goalId": "goal-1930-07-15-arg-fra-557",
+      "homeTeamId": "arg",
+      "matchKey": "1930-07-15-arg-fra",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Monti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "1930-07-26",
+      "goalId": "goal-1930-07-26-arg-usa-592",
+      "homeTeamId": "arg",
+      "matchKey": "1930-07-26-arg-usa",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Monti",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "luis monti",
+  "playerKey": "luis-monti",
+  "scorer": "Luis Monti",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

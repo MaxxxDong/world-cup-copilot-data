@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1976-03-04",
+      "goalId": "goal-1976-03-04-mar-dr-congo-7457",
+      "homeTeamId": "mar",
+      "matchKey": "1976-03-04-mar-dr-congo",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdelâali Zahraoui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1976-03-09",
+      "goalId": "goal-1976-03-09-egypt-mar-7478",
+      "homeTeamId": "egypt",
+      "matchKey": "1976-03-09-egypt-mar",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdelâali Zahraoui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "abdel ali zahraoui",
+  "playerKey": "abdel-ali-zahraoui",
+  "scorer": "Abdelâali Zahraoui",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

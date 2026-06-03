@@ -719,6 +719,8 @@ function buildSourceAuditMetadata({ snapshot, teams, generatedAt }) {
   const sourceIds = new Set(snapshot.sources.map((source) => source.sourceId));
   const sourcePresent = (sourceId) => sourceIds.has(sourceId);
   const hasSimulatedSquads = sourcePresent("world-cup-copilot-simulated-squads");
+  const rosterStatuses = uniqueStrings((snapshot.rosters ?? []).map((roster) => roster.rosterStatus ?? "unknown"));
+  const hasFinalRosters = (snapshot.rosters ?? []).length > 0 && rosterStatuses.every((status) => status === "final");
   const hasRosterSource = sourcePresent("fifa-squad-announcements-2026") || hasSimulatedSquads;
   const identityGapSummary = buildIdentityGaps(teams ?? [], generatedAt).summary;
   const teamIdentityGapsResolved =
@@ -786,18 +788,30 @@ function buildSourceAuditMetadata({ snapshot, teams, generatedAt }) {
         layerId: "official-rosters",
         primarySourceIds: ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"].filter(sourcePresent),
         candidateSourceIds: ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"],
-        decision: sourcePresent("fifa-squad-announcements-2026")
-          ? "packaged-provisional-await-final-confirmation"
+        decision: hasFinalRosters
+          ? "package-final-official-rosters"
+          : sourcePresent("fifa-squad-announcements-2026")
+            ? "package-with-roster-status"
+            : hasSimulatedSquads
+              ? "use-simulated-until-official"
+              : "wait-for-official-import-or-simulation",
+        status: hasRosterSource
+          ? hasFinalRosters
+            ? "final-packaged"
+            : hasSimulatedSquads
+              ? "simulated-packaged"
+              : "provisional-packaged"
+          : "not-packaged",
+        reason: hasFinalRosters
+          ? "FIFA final squad lists are packaged as official roster facts with source URLs and rosterStatus=final."
           : hasSimulatedSquads
-            ? "use-simulated-until-official"
-            : "wait-for-official-import-or-simulation",
-        status: hasRosterSource ? (hasSimulatedSquads ? "simulated-packaged" : "provisional-packaged") : "not-packaged",
-        reason: hasSimulatedSquads
-          ? "User accepted simulated roster facts for current development; they must stay labelled simulated and be replaced by FIFA final lists later."
-          : "Official final squad facts should come from FIFA or federation sources; media projections must not become canonical final roster data.",
-        nextGate: hasSimulatedSquads
-          ? "Replace simulated squads with FIFA final squad lists when available; keep simulated label in agent responses."
-          : "Import FIFA final squad lists with source metadata, or generate labelled simulated squads for current development.",
+            ? "User accepted simulated roster facts for current development; they must stay labelled simulated and be replaced by FIFA final lists later."
+            : "Official final squad facts should come from FIFA or federation sources; media projections must not become canonical final roster data.",
+        nextGate: hasFinalRosters
+          ? "Keep final roster input under release audit and update only from official FIFA or federation sources."
+          : hasSimulatedSquads
+            ? "Replace simulated squads with FIFA final squad lists when available; keep simulated label in agent responses."
+            : "Import FIFA final squad lists with source metadata, or generate labelled simulated squads for current development.",
       },
       {
         layerId: "club-form-and-player-workload",

@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2021-09-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "2000-03-03",
+    "playerKey": "anas-farah-ali",
+    "providerIds": {
+      "api_football": "94827",
+      "footballdatabase_eu": "266154",
+      "heimspiel": "403524",
+      "impect": "32304",
+      "national_football_teams": "83729",
+      "soccerway": "406814",
+      "thesportsdb": "34250117",
+      "transfermarkt": "376847",
+      "wikidata": "Q108434757",
+      "worldfootball": "anas-ali",
+      "wyscout": "375816"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-09-06",
+  "playerKey": "anas-farah-ali",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-09-06",
+      "goalId": "goal-2021-09-06-djibouti-niger-41319",
+      "matchKey": "2021-09-06-djibouti-niger",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anas Farah Ali"
+    }
+  ],
+  "scorer": "Anas Farah Ali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

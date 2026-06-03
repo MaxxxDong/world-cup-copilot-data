@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Matabeleland"
+  ],
+  "allTime": {
+    "draws": 2,
+    "goalsAgainst": 14,
+    "goalsFor": 7,
+    "losses": 3,
+    "matches": 8,
+    "wins": 3
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 2,
+      "goalsFor": 3,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "matabeleland",
+      "date": "2022-05-25",
+      "homeScore": 1,
+      "homeTeamId": "biafra",
+      "matchId": "int-2022-05-25-biafra-matabeleland",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "matabeleland",
+      "date": "2022-05-22",
+      "homeScore": 0,
+      "homeTeamId": "biafra",
+      "matchId": "int-2022-05-22-biafra-matabeleland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "matabeleland",
+      "date": "2022-05-21",
+      "homeScore": 1,
+      "homeTeamId": "yoruba-nation",
+      "matchId": "int-2022-05-21-yoruba-nation-matabeleland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA Africa Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tamil-eelam",
+      "date": "2018-06-09",
+      "homeScore": 1,
+      "homeTeamId": "matabeleland",
+      "matchId": "int-2018-06-09-matabeleland-tamil-eelam",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "kabylia",
+      "date": "2018-06-05",
+      "homeScore": 0,
+      "homeTeamId": "matabeleland",
+      "matchId": "int-2018-06-05-matabeleland-kabylia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 14,
+      "goalsFor": 7,
+      "losses": 3,
+      "matches": 8,
+      "wins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "matabeleland",
+  "teamName": "Matabeleland",
+  "topScorers": []
+}

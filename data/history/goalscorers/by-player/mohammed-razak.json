@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "qatar",
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-indonesia-qatar-31278",
+      "homeTeamId": "indonesia",
+      "matchKey": "2011-10-11-indonesia-qatar",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Razak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "indonesia",
+      "date": "2011-11-11",
+      "goalId": "goal-2011-11-11-qatar-indonesia-31427",
+      "homeTeamId": "qatar",
+      "matchKey": "2011-11-11-qatar-indonesia",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Razak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "mohammed razak",
+  "playerKey": "mohammed-razak",
+  "scorer": "Mohammed Razak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

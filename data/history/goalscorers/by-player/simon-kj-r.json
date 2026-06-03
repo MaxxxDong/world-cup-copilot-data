@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "2013-03-22",
+      "goalId": "goal-2013-03-22-czech-republic-denmark-32573",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2013-03-22-czech-republic-denmark",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Kjær",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2014-11-14",
+      "goalId": "goal-2014-11-14-serbia-denmark-33985",
+      "homeTeamId": "serbia",
+      "matchKey": "2014-11-14-serbia-denmark",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Kjær",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2021-07-07",
+      "goalId": "goal-2021-07-07-england-denmark-40993",
+      "homeTeamId": "england",
+      "matchKey": "2021-07-07-england-denmark",
+      "minute": 39,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Simon Kjær",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2021-09-07",
+      "goalId": "goal-2021-09-07-denmark-israel-41353",
+      "homeTeamId": "denmark",
+      "matchKey": "2021-09-07-denmark-israel",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Simon Kjær",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-moldova-denmark-41606",
+      "homeTeamId": "moldova",
+      "matchKey": "2021-10-09-moldova-denmark",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Simon Kjær",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "simon kj r",
+  "playerKey": "simon-kj-r",
+  "scorer": "Simon Kjær",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark",
+    "england"
+  ]
+}

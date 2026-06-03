@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2008-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1984-03-19",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "angelo-zimmerman",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "7e637a6f",
+      "footballdatabase_eu": "33179",
+      "national_football_teams": "24973",
+      "soccerway": "49551",
+      "sofifa": "294842",
+      "transfermarkt": "56322",
+      "wikidata": "Q2849526"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-09-06",
+  "playerKey": "angelo-zimmerman",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-curacao-haiti-30993",
+      "matchKey": "2011-09-06-curacao-haiti",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Angelo Zimmerman"
+    },
+    {
+      "date": "2008-03-26",
+      "goalId": "goal-2008-03-26-curacao-nicaragua-27701",
+      "matchKey": "2008-03-26-curacao-nicaragua",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Angelo Zimmerman"
+    }
+  ],
+  "scorer": "Angelo Zimmerman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "curacao",
+  "teamName": "Curaçao",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

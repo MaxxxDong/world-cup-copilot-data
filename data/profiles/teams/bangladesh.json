@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Bangladesh"
+  ],
+  "allTime": {
+    "draws": 66,
+    "goalsAgainst": 555,
+    "goalsFor": 274,
+    "losses": 159,
+    "matches": 304,
+    "wins": 79
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 13,
+      "goalsFor": 12,
+      "losses": 3,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 36,
+      "goalsFor": 16,
+      "losses": 10,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 10,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "bangladesh",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "vietnam",
+      "matchId": "int-2026-03-26-vietnam-bangladesh",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "india",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-11-18-bangladesh-india",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "nepal",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-11-13-bangladesh-nepal",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "bangladesh",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2025-10-14-hong-kong-bangladesh",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "hong-kong",
+      "date": "2025-10-09",
+      "homeScore": 3,
+      "homeTeamId": "bangladesh",
+      "matchId": "int-2025-10-09-bangladesh-hong-kong",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 44,
+      "goalsAgainst": 482,
+      "goalsFor": 214,
+      "losses": 139,
+      "matches": 242,
+      "wins": 59
+    },
+    "friendly": {
+      "draws": 22,
+      "goalsAgainst": 73,
+      "goalsFor": 60,
+      "losses": 20,
+      "matches": 62,
+      "wins": 20
+    },
+    "neutralVenue": {
+      "draws": 30,
+      "goalsAgainst": 264,
+      "goalsFor": 125,
+      "losses": 76,
+      "matches": 137,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 36,
+      "goalsAgainst": 291,
+      "goalsFor": 149,
+      "losses": 83,
+      "matches": 167,
+      "wins": 48
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "alfaz-ahmed",
+      "scorer": "Alfaz Ahmed"
+    },
+    {
+      "goals": 3,
+      "playerKey": "ashraf-uddin-ahmed-chunnu",
+      "scorer": "Ashraf Uddin Ahmed Chunnu"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jahid-hasan-ameli",
+      "scorer": "Jahid Hasan Ameli"
+    },
+    {
+      "goals": 3,
+      "playerKey": "mamun-joarder",
+      "scorer": "Mamun Joarder"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kaiser-hamid",
+      "scorer": "Kaiser Hamid"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohammed-jewel-rana",
+      "scorer": "Mohammed Jewel Rana"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohammed-sujan",
+      "scorer": "Mohammed Sujan"
+    },
+    {
+      "goals": 2,
+      "playerKey": "rizvi-karim-rumi",
+      "scorer": "Rizvi Karim Rumi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "sabbir",
+      "scorer": "Sabbir"
+    },
+    {
+      "goals": 1,
+      "playerKey": "ashish-bhadra",
+      "scorer": "Ashish Bhadra"
+    }
+  ]
+}

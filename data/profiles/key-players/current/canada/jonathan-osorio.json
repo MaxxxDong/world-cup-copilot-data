@@ -1,0 +1,94 @@
+{
+  "club": "Toronto FC (CAN)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1992-06-12",
+    "nationality": "Canada",
+    "playerKey": "jonathan-osorio",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "50817",
+      "capology": "jonathan-osorio-33767",
+      "espn": "184221",
+      "fbref": "70106ff6",
+      "footballdatabase_eu": "194963",
+      "heimspiel": "252473",
+      "impect": "17833",
+      "kicker": "jonathan-osorio",
+      "lequipe": "67349",
+      "national_football_teams": "52388",
+      "opta": "a31s7t25qa1llzl3v79x2iimt",
+      "skillcorner": "17907",
+      "soccerway": "183261",
+      "thesportsdb": "34180980",
+      "transfermarkt": "260807",
+      "wikidata": "Q10554558",
+      "worldfootball": "jonathan-osorio",
+      "wyscout": "138848"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jonathan Osorio",
+  "playerKey": "jonathan-osorio",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-07-04",
+      "goalId": "goal-2023-07-04-canada-cuba-43396",
+      "matchKey": "2023-07-04-canada-cuba",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio"
+    },
+    {
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-mex-canada-41498",
+      "matchKey": "2021-10-07-mex-canada",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio"
+    },
+    {
+      "date": "2021-07-11",
+      "goalId": "goal-2021-07-11-canada-martinique-41003",
+      "matchKey": "2021-07-11-canada-martinique",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Osorio"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 21,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

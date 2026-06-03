@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1974-06-18",
+      "goalId": "goal-1974-06-18-yugoslavia-dr-congo-7020",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1974-06-18-yugoslavia-dr-congo",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladislav Bogićević",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "yugoslavia",
+      "date": "1975-06-09",
+      "goalId": "goal-1975-06-09-norway-yugoslavia-7241",
+      "homeTeamId": "norway",
+      "matchKey": "1975-06-09-norway-yugoslavia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vladislav Bogićević",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "vladislav bogi evi",
+  "playerKey": "vladislav-bogi-evi",
+  "scorer": "Vladislav Bogićević",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

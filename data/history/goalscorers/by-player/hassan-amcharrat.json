@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1973-05-20",
+      "goalId": "goal-1973-05-20-civ-mar-6698",
+      "homeTeamId": "civ",
+      "matchKey": "1973-05-20-civ-mar",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Amcharrat",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1978-03-06",
+      "goalId": "goal-1978-03-06-mar-tunisia-8188",
+      "homeTeamId": "mar",
+      "matchKey": "1978-03-06-mar-tunisia",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Amcharrat",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1978-03-09",
+      "goalId": "goal-1978-03-09-congo-mar-8194",
+      "homeTeamId": "congo",
+      "matchKey": "1978-03-09-congo-mar",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hassan Amcharrat",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "hassan amcharrat",
+  "playerKey": "hassan-amcharrat",
+  "scorer": "Hassan Amcharrat",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

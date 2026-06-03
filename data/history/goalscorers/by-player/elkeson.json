@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "china-pr",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-maldives-china-pr-39058",
+      "homeTeamId": "maldives",
+      "matchKey": "2019-09-10-maldives-china-pr",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Elkeson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-maldives-china-pr-39059",
+      "homeTeamId": "maldives",
+      "matchKey": "2019-09-10-maldives-china-pr",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elkeson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "guam",
+      "date": "2019-10-10",
+      "goalId": "goal-2019-10-10-china-pr-guam-39125",
+      "homeTeamId": "china-pr",
+      "matchKey": "2019-10-10-china-pr-guam",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elkeson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "guam",
+      "date": "2021-05-30",
+      "goalId": "goal-2021-05-30-china-pr-guam-40440",
+      "homeTeamId": "china-pr",
+      "matchKey": "2021-05-30-china-pr-guam",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elkeson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "elkeson",
+  "playerKey": "elkeson",
+  "scorer": "Elkeson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr"
+  ]
+}

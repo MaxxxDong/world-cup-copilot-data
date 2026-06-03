@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 5,
+    "teamAWins": 2,
+    "teamBGoals": 0,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "mayotte",
+    "date": "2012-09-29",
+    "homeScore": 1,
+    "homeTeamId": "guadeloupe",
+    "matchId": "int-2012-09-29-guadeloupe-mayotte",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Coupe de l'Outre-Mer"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "guadeloupe",
+      "date": "2010-10-01",
+      "homeScore": 0,
+      "homeTeamId": "mayotte",
+      "matchId": "int-2010-10-01-mayotte-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Coupe de l'Outre-Mer"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mayotte",
+      "date": "2012-09-29",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-2012-09-29-guadeloupe-mayotte",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Coupe de l'Outre-Mer"
+    }
+  ],
+  "pairKey": "guadeloupe__mayotte",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guadeloupe",
+  "teamBId": "mayotte"
+}

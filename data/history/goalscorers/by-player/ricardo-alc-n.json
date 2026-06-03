@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1953-03-08",
+      "goalId": "goal-1953-03-08-bolivia-ecuador-1955",
+      "homeTeamId": "bolivia",
+      "matchKey": "1953-03-08-bolivia-ecuador",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Alcón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1953-03-28",
+      "goalId": "goal-1953-03-28-bolivia-chile-1990",
+      "homeTeamId": "bolivia",
+      "matchKey": "1953-03-28-bolivia-chile",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Alcón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "1957-09-22",
+      "goalId": "goal-1957-09-22-chile-bolivia-2843",
+      "homeTeamId": "chile",
+      "matchKey": "1957-09-22-chile-bolivia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Alcón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1959-03-21",
+      "goalId": "goal-1959-03-21-bolivia-bra-3125",
+      "homeTeamId": "bolivia",
+      "matchKey": "1959-03-21-bolivia-bra",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ricardo Alcón",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    }
+  ],
+  "normalizedScorer": "ricardo alc n",
+  "playerKey": "ricardo-alc-n",
+  "scorer": "Ricardo Alcón",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia"
+  ]
+}

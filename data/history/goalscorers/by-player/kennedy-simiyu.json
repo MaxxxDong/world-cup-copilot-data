@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-kenya-nigeria-16713",
+      "homeTeamId": "kenya",
+      "matchKey": "1997-01-12-kenya-nigeria",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kennedy Simiyu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kenya"
+    },
+    {
+      "awayTeamId": "kenya",
+      "date": "1997-08-16",
+      "goalId": "goal-1997-08-16-burkina-faso-kenya-17528",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "1997-08-16-burkina-faso-kenya",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kennedy Simiyu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kenya"
+    }
+  ],
+  "normalizedScorer": "kennedy simiyu",
+  "playerKey": "kennedy-simiyu",
+  "scorer": "Kennedy Simiyu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kenya"
+  ]
+}

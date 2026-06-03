@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mongolia",
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-myanmar-mongolia-39575",
+      "homeTeamId": "myanmar",
+      "matchKey": "2019-11-19-myanmar-mongolia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlaing Bo Bo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    },
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-myanmar-kyrgyzstan-40724",
+      "homeTeamId": "myanmar",
+      "matchKey": "2021-06-11-myanmar-kyrgyzstan",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlaing Bo Bo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    }
+  ],
+  "normalizedScorer": "hlaing bo bo",
+  "playerKey": "hlaing-bo-bo",
+  "scorer": "Hlaing Bo Bo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "myanmar"
+  ]
+}

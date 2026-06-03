@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iceland",
+      "date": "2023-03-26",
+      "goalId": "goal-2023-03-26-liechtenstein-iceland-43144",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2023-03-26-liechtenstein-iceland",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mikael Egill Ellertsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    },
+    {
+      "awayTeamId": "ukraine",
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-iceland-ukraine-46996",
+      "homeTeamId": "iceland",
+      "matchKey": "2025-10-10-iceland-ukraine",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mikael Egill Ellertsson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    }
+  ],
+  "normalizedScorer": "mikael egill ellertsson",
+  "playerKey": "mikael-egill-ellertsson",
+  "scorer": "Mikael Egill Ellertsson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iceland"
+  ]
+}

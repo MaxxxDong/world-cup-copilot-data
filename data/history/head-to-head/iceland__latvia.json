@@ -1,0 +1,202 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 7,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 12,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "iceland",
+    "date": "2022-11-19",
+    "homeScore": 1,
+    "homeTeamId": "latvia",
+    "matchId": "int-2022-11-19-latvia-iceland",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Baltic Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "1998-08-19",
+      "homeScore": 4,
+      "homeTeamId": "iceland",
+      "matchId": "int-1998-08-19-iceland-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2004-04-28",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2004-04-28-latvia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "iceland",
+      "date": "2006-10-07",
+      "homeScore": 4,
+      "homeTeamId": "latvia",
+      "matchId": "int-2006-10-07-latvia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "latvia",
+      "date": "2007-10-13",
+      "homeScore": 2,
+      "homeTeamId": "iceland",
+      "matchId": "int-2007-10-13-iceland-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "iceland",
+      "date": "2014-10-10",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2014-10-10-latvia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "latvia",
+      "date": "2015-10-10",
+      "homeScore": 2,
+      "homeTeamId": "iceland",
+      "matchId": "int-2015-10-10-iceland-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "iceland",
+      "date": "2022-11-19",
+      "homeScore": 1,
+      "homeTeamId": "latvia",
+      "matchId": "int-2022-11-19-latvia-iceland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Baltic Cup"
+    }
+  ],
+  "pairKey": "iceland__latvia",
+  "shootoutSummary": {
+    "firstShooterTeamA": 1,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 5,
+      "teamAGoals": 8,
+      "teamAWins": 1,
+      "teamBGoals": 11,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 7,
+      "teamAGoals": 12,
+      "teamAWins": 2,
+      "teamBGoals": 12,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "iceland",
+  "teamBId": "latvia"
+}

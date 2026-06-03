@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tunisia",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-liberia-tunisia-16509",
+      "homeTeamId": "liberia",
+      "matchKey": "1996-11-10-liberia-tunisia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Riadh Jelassi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    },
+    {
+      "awayTeamId": "congo",
+      "date": "2001-07-01",
+      "goalId": "goal-2001-07-01-tunisia-congo-21529",
+      "homeTeamId": "tunisia",
+      "matchKey": "2001-07-01-tunisia-congo",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Riadh Jelassi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tunisia"
+    }
+  ],
+  "normalizedScorer": "riadh jelassi",
+  "playerKey": "riadh-jelassi",
+  "scorer": "Riadh Jelassi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tunisia"
+  ]
+}

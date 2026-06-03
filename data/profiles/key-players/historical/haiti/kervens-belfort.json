@@ -1,0 +1,110 @@
+{
+  "firstGoalDate": "2011-10-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 6,
+  "identity": {
+    "dateOfBirth": "1992-05-16",
+    "nationality": "Haiti",
+    "playerKey": "kervens-belfort",
+    "position": "forward",
+    "providerIds": {
+      "espn": "163927",
+      "fbref": "524dceaf",
+      "footballdatabase_eu": "138786",
+      "kicker": "kervens-fils-belfort",
+      "lequipe": "41143",
+      "national_football_teams": "36975",
+      "soccerbase": "70498",
+      "soccerway": "75514",
+      "sofascore": "157723",
+      "sofifa": "303807",
+      "transfermarkt": "93614",
+      "wikidata": "Q3065670"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2016-01-08",
+  "playerKey": "kervens-belfort",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2016-01-08",
+      "goalId": "goal-2016-01-08-trinidad-and-tobago-haiti-35548",
+      "matchKey": "2016-01-08-trinidad-and-tobago-haiti",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-haiti-grenada-34893",
+      "matchKey": "2015-09-08-haiti-grenada",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-haiti-antigua-and-barbuda-31512",
+      "matchKey": "2011-11-15-haiti-antigua-and-barbuda",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "date": "2011-10-11",
+      "goalId": "goal-2011-10-11-haiti-curacao-31273",
+      "matchKey": "2011-10-11-haiti-curacao",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-united-states-virgin-islands-haiti-31209",
+      "matchKey": "2011-10-07-united-states-virgin-islands-haiti",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "date": "2011-10-07",
+      "goalId": "goal-2011-10-07-united-states-virgin-islands-haiti-31206",
+      "matchKey": "2011-10-07-united-states-virgin-islands-haiti",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kervens Belfort"
+    }
+  ],
+  "scorer": "Kervens Belfort",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "haiti",
+  "teamName": "Haiti",
+  "tournaments": [
+    {
+      "goals": 6,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "2001-10-07",
+      "goalId": "goal-2001-10-07-bra-chile-21980",
+      "homeTeamId": "bra",
+      "matchKey": "2001-10-07-bra-chile",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edílson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "2001-11-07",
+      "goalId": "goal-2001-11-07-bolivia-bra-22035",
+      "homeTeamId": "bolivia",
+      "matchKey": "2001-11-07-bolivia-bra",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edílson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "ed lson",
+  "playerKey": "ed-lson",
+  "scorer": "Edílson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

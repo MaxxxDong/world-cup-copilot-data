@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2001-05-04",
+      "goalId": "goal-2001-05-04-algeria-mar-21047",
+      "homeTeamId": "algeria",
+      "matchKey": "2001-05-04-algeria-mar",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rachid Benmahmoud",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2002-01-30",
+      "goalId": "goal-2002-01-30-rsa-mar-22158",
+      "homeTeamId": "rsa",
+      "matchKey": "2002-01-30-rsa-mar",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Rachid Benmahmoud",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "rachid benmahmoud",
+  "playerKey": "rachid-benmahmoud",
+  "scorer": "Rachid Benmahmoud",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

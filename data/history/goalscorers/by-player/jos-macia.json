@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1957-03-13",
+      "goalId": "goal-1957-03-13-bra-chile-2566",
+      "homeTeamId": "bra",
+      "matchKey": "1957-03-13-bra-chile",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Macia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1957-03-21",
+      "goalId": "goal-1957-03-21-bra-ecuador-2587",
+      "homeTeamId": "bra",
+      "matchKey": "1957-03-21-bra-ecuador",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Macia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1957-03-24",
+      "goalId": "goal-1957-03-24-bra-colombia-2607",
+      "homeTeamId": "bra",
+      "matchKey": "1957-03-24-bra-colombia",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "José Macia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "jos macia",
+  "playerKey": "jos-macia",
+  "scorer": "José Macia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

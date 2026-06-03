@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kenya",
+      "date": "2008-10-12",
+      "goalId": "goal-2008-10-12-guinea-kenya-28715",
+      "homeTeamId": "guinea",
+      "matchKey": "2008-10-12-guinea-kenya",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Zayatte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-burkina-faso-guinea-28875",
+      "homeTeamId": "burkina-faso",
+      "matchKey": "2009-03-28-burkina-faso-guinea",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kamil Zayatte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guinea"
+    }
+  ],
+  "normalizedScorer": "kamil zayatte",
+  "playerKey": "kamil-zayatte",
+  "scorer": "Kamil Zayatte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guinea"
+  ]
+}

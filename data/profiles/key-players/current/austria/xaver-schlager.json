@@ -1,0 +1,82 @@
+{
+  "club": "RB Leipzig (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1998-09-28",
+    "nationality": "Austria",
+    "playerKey": "xaver-schlager",
+    "position": "midfielder",
+    "providerIds": {
+      "capology": "xaver-schlager-35701",
+      "eu_football_info": "30194",
+      "fbref": "8f056768",
+      "footballdatabase_eu": "255862",
+      "german_fa": "362519",
+      "kicker": "xaver-schlager",
+      "national_football_teams": "70792",
+      "opta": "1s1v1tweyx8wxc9hj2jrnaggl",
+      "soccerway": "316765",
+      "sofascore": "791079",
+      "sofifa": "201400643",
+      "transfermarkt": "223979",
+      "uefa": "250065408",
+      "wikidata": "Q20190657",
+      "worldfootball": "xaver-schlager"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Xaver Schlager",
+  "playerKey": "xaver-schlager",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-06-06",
+      "goalId": "goal-2022-06-06-austria-denmark-42562",
+      "matchKey": "2022-06-06-austria-denmark",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Xaver Schlager"
+    },
+    {
+      "date": "2018-11-18",
+      "goalId": "goal-2018-11-18-northern-ireland-austria-37989",
+      "matchKey": "2018-11-18-northern-ireland-austria",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Xaver Schlager"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=4"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=4"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "austria",
+  "teamName": "Austria"
+}

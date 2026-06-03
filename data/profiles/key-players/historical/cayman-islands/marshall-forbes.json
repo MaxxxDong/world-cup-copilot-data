@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2008-03-30",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1980-11-06",
+    "nationality": "United Kingdom",
+    "playerKey": "marshall-forbes",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "e29436c6",
+      "footballdatabase_eu": "29609",
+      "national_football_teams": "1318",
+      "soccerway": "236837",
+      "sofascore": "965467",
+      "sofifa": "212256",
+      "transfermarkt": "78284",
+      "wikidata": "Q6773582"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-03-30",
+  "playerKey": "marshall-forbes",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-03-30",
+      "goalId": "goal-2008-03-30-cayman-islands-bermuda-27748",
+      "matchKey": "2008-03-30-cayman-islands-bermuda",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marshall Forbes"
+    }
+  ],
+  "scorer": "Marshall Forbes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "cayman-islands",
+  "teamName": "Cayman Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

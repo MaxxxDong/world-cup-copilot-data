@@ -1,0 +1,97 @@
+{
+  "firstGoalDate": "1971-04-24",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1949-12-23",
+    "nationality": "Luxembourg",
+    "playerKey": "gilbert-dussier",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "5191",
+      "footballdatabase_eu": "45297",
+      "kicker": "gilbert-dussier",
+      "national_football_teams": "19580",
+      "sofifa": "48810",
+      "transfermarkt": "194667",
+      "uefa": "36850",
+      "wikidata": "Q1523959"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1975-10-19",
+  "playerKey": "gilbert-dussier",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1975-10-19",
+      "goalId": "goal-1975-10-19-hungary-luxembourg-7384",
+      "matchKey": "1975-10-19-hungary-luxembourg",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gilbert Dussier"
+    },
+    {
+      "date": "1974-10-13",
+      "goalId": "goal-1974-10-13-luxembourg-hungary-7126",
+      "matchKey": "1974-10-13-luxembourg-hungary",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gilbert Dussier"
+    },
+    {
+      "date": "1974-10-13",
+      "goalId": "goal-1974-10-13-luxembourg-hungary-7123",
+      "matchKey": "1974-10-13-luxembourg-hungary",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gilbert Dussier"
+    },
+    {
+      "date": "1972-10-22",
+      "goalId": "goal-1972-10-22-luxembourg-turkey-6464",
+      "matchKey": "1972-10-22-luxembourg-turkey",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gilbert Dussier"
+    },
+    {
+      "date": "1971-04-24",
+      "goalId": "goal-1971-04-24-german-dr-luxembourg-6034",
+      "matchKey": "1971-04-24-german-dr-luxembourg",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gilbert Dussier"
+    }
+  ],
+  "scorer": "Gilbert Dussier",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "luxembourg",
+  "teamName": "Luxembourg",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

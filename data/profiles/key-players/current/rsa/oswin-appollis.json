@@ -1,0 +1,101 @@
+{
+  "club": "Orlando Pirates FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "2001-08-25",
+    "nationality": "South Africa",
+    "playerKey": "oswin-appollis",
+    "position": "winger",
+    "providerIds": {
+      "api_football": "179893",
+      "espn": "288771",
+      "fbref": "e8933eb0",
+      "footballdatabase_eu": "384808",
+      "heimspiel": "613932",
+      "impect": "50191",
+      "kicker": "oswin-appollis",
+      "national_football_teams": "93109",
+      "skillcorner": "168734",
+      "soccerway": "611234",
+      "sofascore": "984505",
+      "thesportsdb": "34287804",
+      "transfermarkt": "673381",
+      "wikidata": "Q64167435",
+      "worldfootball": "oswin-appollis",
+      "wyscout": "610483"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Oswin Appollis",
+  "playerKey": "oswin-appollis",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-29",
+      "goalId": "goal-2025-12-29-zimbabwe-rsa-47495",
+      "matchKey": "2025-12-29-zimbabwe-rsa",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Oswin Appollis"
+    },
+    {
+      "date": "2025-12-22",
+      "goalId": "goal-2025-12-22-rsa-angola-47442",
+      "matchKey": "2025-12-22-rsa-angola",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis"
+    },
+    {
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-rsa-rwanda-47209",
+      "matchKey": "2025-10-14-rsa-rwanda",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis"
+    },
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-rsa-lesotho-46671",
+      "matchKey": "2025-09-05-rsa-lesotho",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 7,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

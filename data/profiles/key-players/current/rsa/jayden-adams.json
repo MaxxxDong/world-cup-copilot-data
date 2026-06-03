@@ -1,0 +1,74 @@
+{
+  "club": "Mamelodi Sundowns FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2001-05-05",
+    "nationality": "South Africa",
+    "playerKey": "jayden-adams",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "268710",
+      "espn": "304736",
+      "fbref": "259affab",
+      "footballdatabase_eu": "426480",
+      "heimspiel": "694389",
+      "impect": "110901",
+      "kicker": "jayden-adams",
+      "national_football_teams": "88124",
+      "skillcorner": "168306",
+      "soccerway": "662421",
+      "sofascore": "1049669",
+      "thesportsdb": "34228222",
+      "transfermarkt": "804472",
+      "wikidata": "Q105520386",
+      "worldfootball": "jayden-adams",
+      "wyscout": "683009"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jayden Adams",
+  "playerKey": "jayden-adams",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-benin-rsa-46133",
+      "matchKey": "2025-03-25-benin-rsa",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jayden Adams"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 23,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

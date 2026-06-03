@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "rsa",
+      "date": "2002-02-03",
+      "goalId": "goal-2002-02-03-mali-rsa-22168",
+      "homeTeamId": "mali",
+      "matchKey": "2002-02-03-mali-rsa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dramane Coulibaly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2005-06-05",
+      "goalId": "goal-2005-06-05-mali-liberia-25304",
+      "homeTeamId": "mali",
+      "matchKey": "2005-06-05-mali-liberia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Dramane Coulibaly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "liberia",
+      "date": "2005-06-05",
+      "goalId": "goal-2005-06-05-mali-liberia-25305",
+      "homeTeamId": "mali",
+      "matchKey": "2005-06-05-mali-liberia",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dramane Coulibaly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    }
+  ],
+  "normalizedScorer": "dramane coulibaly",
+  "playerKey": "dramane-coulibaly",
+  "scorer": "Dramane Coulibaly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mali"
+  ]
+}

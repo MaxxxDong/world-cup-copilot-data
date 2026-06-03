@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "2002-01-26",
+      "goalId": "goal-2002-01-26-senegal-zambia-22133",
+      "homeTeamId": "senegal",
+      "matchKey": "2002-01-26-senegal-zambia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Souleymane Camara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    },
+    {
+      "awayTeamId": "senegal",
+      "date": "2006-01-31",
+      "goalId": "goal-2006-01-31-nigeria-senegal-26064",
+      "homeTeamId": "nigeria",
+      "matchKey": "2006-01-31-nigeria-senegal",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Souleymane Camara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "senegal"
+    }
+  ],
+  "normalizedScorer": "souleymane camara",
+  "playerKey": "souleymane-camara",
+  "scorer": "Souleymane Camara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "senegal"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1979-02-25",
+      "goalId": "goal-1979-02-25-fra-luxembourg-8439",
+      "homeTeamId": "fra",
+      "matchKey": "1979-02-25-fra-luxembourg",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-François Larios",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1980-10-11",
+      "goalId": "goal-1980-10-11-cyprus-fra-9030",
+      "homeTeamId": "cyprus",
+      "matchKey": "1980-10-11-cyprus-fra",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jean-François Larios",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "1980-10-11",
+      "goalId": "goal-1980-10-11-cyprus-fra-9031",
+      "homeTeamId": "cyprus",
+      "matchKey": "1980-10-11-cyprus-fra",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jean-François Larios",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "jean fran ois larios",
+  "playerKey": "jean-fran-ois-larios",
+  "scorer": "Jean-François Larios",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

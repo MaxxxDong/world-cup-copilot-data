@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "qatar",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-laos-qatar-24441",
+      "homeTeamId": "laos",
+      "matchKey": "2004-09-08-laos-qatar",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saad Al-Shammari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "sri-lanka",
+      "date": "2007-10-28",
+      "goalId": "goal-2007-10-28-qatar-sri-lanka-27319",
+      "homeTeamId": "qatar",
+      "matchKey": "2007-10-28-qatar-sri-lanka",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Saad Al-Shammari",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "saad al shammari",
+  "playerKey": "saad-al-shammari",
+  "scorer": "Saad Al-Shammari",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

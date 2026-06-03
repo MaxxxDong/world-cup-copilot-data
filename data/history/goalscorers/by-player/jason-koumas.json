@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-wales-cyprus-26495",
+      "homeTeamId": "wales",
+      "matchKey": "2006-10-11-wales-cyprus",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jason Koumas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2007-03-28",
+      "goalId": "goal-2007-03-28-wales-san-marino-26613",
+      "homeTeamId": "wales",
+      "matchKey": "2007-03-28-wales-san-marino",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jason Koumas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-wales-republic-of-ireland-27430",
+      "homeTeamId": "wales",
+      "matchKey": "2007-11-17-wales-republic-of-ireland",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jason Koumas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2007-11-17",
+      "goalId": "goal-2007-11-17-wales-republic-of-ireland-27433",
+      "homeTeamId": "wales",
+      "matchKey": "2007-11-17-wales-republic-of-ireland",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jason Koumas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "jason koumas",
+  "playerKey": "jason-koumas",
+  "scorer": "Jason Koumas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

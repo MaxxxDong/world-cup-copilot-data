@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "2001-05-17",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1972-12-15",
+    "nationality": "Pakistan",
+    "playerKey": "gohar-zaman",
+    "position": "midfielder",
+    "providerIds": {
+      "national_football_teams": "32623",
+      "wikidata": "Q5577576"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-05-17",
+  "playerKey": "gohar-zaman",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-05-17",
+      "goalId": "goal-2001-05-17-pakistan-sri-lanka-21173",
+      "matchKey": "2001-05-17-pakistan-sri-lanka",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gohar Zaman"
+    },
+    {
+      "date": "2001-05-17",
+      "goalId": "goal-2001-05-17-pakistan-sri-lanka-21171",
+      "matchKey": "2001-05-17-pakistan-sri-lanka",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gohar Zaman"
+    },
+    {
+      "date": "2001-05-17",
+      "goalId": "goal-2001-05-17-pakistan-sri-lanka-21168",
+      "matchKey": "2001-05-17-pakistan-sri-lanka",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gohar Zaman"
+    }
+  ],
+  "scorer": "Gohar Zaman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "pakistan",
+  "teamName": "Pakistan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

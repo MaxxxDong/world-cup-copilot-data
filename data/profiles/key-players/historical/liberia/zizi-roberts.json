@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2001-02-25",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1979-07-19",
+    "nationality": "Liberia",
+    "playerKey": "zizi-roberts",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "d6e64054",
+      "footballdatabase_eu": "8510",
+      "national_football_teams": "3831",
+      "soccerway": "230685",
+      "sofifa": "156330",
+      "transfermarkt": "27003",
+      "wikidata": "Q207078",
+      "worldfootball": "zizi-roberts"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2003-11-16",
+  "playerKey": "zizi-roberts",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-liberia-gambia-23178",
+      "matchKey": "2003-11-16-liberia-gambia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zizi Roberts"
+    },
+    {
+      "date": "2001-02-25",
+      "goalId": "goal-2001-02-25-liberia-sierra-leone-20454",
+      "matchKey": "2001-02-25-liberia-sierra-leone",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zizi Roberts"
+    }
+  ],
+  "scorer": "Zizi Roberts",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

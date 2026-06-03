@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1962-11-21",
+      "goalId": "goal-1962-11-21-german-dr-czechoslovakia-3799",
+      "homeTeamId": "german-dr",
+      "matchKey": "1962-11-21-german-dr-czechoslovakia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Kurt Liebrecht",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    }
+  ],
+  "normalizedScorer": "kurt liebrecht",
+  "playerKey": "kurt-liebrecht",
+  "scorer": "Kurt Liebrecht",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "german-dr"
+  ]
+}

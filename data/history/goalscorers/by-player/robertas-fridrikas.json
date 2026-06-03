@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "1992-04-28",
+      "goalId": "goal-1992-04-28-northern-ireland-lithuania-13114",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1992-04-28-northern-ireland-lithuania",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robertas Fridrikas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "1992-10-28",
+      "goalId": "goal-1992-10-28-lithuania-latvia-13443",
+      "homeTeamId": "lithuania",
+      "matchKey": "1992-10-28-lithuania-latvia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Robertas Fridrikas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "lithuania"
+    }
+  ],
+  "normalizedScorer": "robertas fridrikas",
+  "playerKey": "robertas-fridrikas",
+  "scorer": "Robertas Fridrikas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "lithuania"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Ynys Môn"
+  ],
+  "allTime": {
+    "draws": 11,
+    "goalsAgainst": 96,
+    "goalsFor": 125,
+    "losses": 19,
+    "matches": 67,
+    "wins": 37
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 10,
+      "goalsFor": 21,
+      "losses": 1,
+      "matches": 10,
+      "wins": 9
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 29,
+      "goalsFor": 44,
+      "losses": 5,
+      "matches": 20,
+      "wins": 14
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 11,
+      "losses": 1,
+      "matches": 5,
+      "wins": 4
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "ynys-mon",
+      "date": "2025-07-17",
+      "homeScore": 0,
+      "homeTeamId": "isle-of-man",
+      "matchId": "int-2025-07-17-isle-of-man-ynys-mon",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "western-isles",
+      "date": "2025-07-14",
+      "homeScore": 1,
+      "homeTeamId": "ynys-mon",
+      "matchId": "int-2025-07-14-ynys-mon-western-isles",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "jersey",
+      "date": "2023-07-14",
+      "homeScore": 2,
+      "homeTeamId": "ynys-mon",
+      "matchId": "int-2023-07-14-ynys-mon-jersey",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "ynys-mon",
+      "date": "2023-07-11",
+      "homeScore": 1,
+      "homeTeamId": "isle-of-man",
+      "matchId": "int-2023-07-11-isle-of-man-ynys-mon",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "ynys-mon",
+      "date": "2023-07-10",
+      "homeScore": 1,
+      "homeTeamId": "falkland-islands",
+      "matchId": "int-2023-07-10-falkland-islands-ynys-mon",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 11,
+      "goalsAgainst": 94,
+      "goalsFor": 118,
+      "losses": 19,
+      "matches": 66,
+      "wins": 36
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 2,
+      "goalsFor": 7,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 74,
+      "goalsFor": 105,
+      "losses": 14,
+      "matches": 54,
+      "wins": 30
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 22,
+      "goalsFor": 20,
+      "losses": 5,
+      "matches": 13,
+      "wins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "ynys-mon",
+  "teamName": "Ynys Môn",
+  "topScorers": []
+}

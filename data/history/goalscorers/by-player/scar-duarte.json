@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2014-06-14",
+      "goalId": "goal-2014-06-14-uruguay-costa-rica-33624",
+      "homeTeamId": "uruguay",
+      "matchKey": "2014-06-14-uruguay-costa-rica",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Óscar Duarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "2021-11-16",
+      "goalId": "goal-2021-11-16-costa-rica-honduras-42086",
+      "homeTeamId": "costa-rica",
+      "matchKey": "2021-11-16-costa-rica-honduras",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Óscar Duarte",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "scar duarte",
+  "playerKey": "scar-duarte",
+  "scorer": "Óscar Duarte",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

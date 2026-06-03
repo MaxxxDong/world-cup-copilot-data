@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "2014-10-10",
+      "goalId": "goal-2014-10-10-bulgaria-croatia-33863",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2014-10-10-bulgaria-croatia",
+      "minute": 36,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nikolay Bodurov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2014-10-13",
+      "goalId": "goal-2014-10-13-norway-bulgaria-33945",
+      "homeTeamId": "norway",
+      "matchKey": "2014-10-13-norway-bulgaria",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikolay Bodurov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "nikolay bodurov",
+  "playerKey": "nikolay-bodurov",
+  "scorer": "Nikolay Bodurov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria",
+    "croatia"
+  ]
+}

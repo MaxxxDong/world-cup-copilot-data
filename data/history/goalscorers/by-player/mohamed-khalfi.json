@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tunisia",
+      "date": "1960-10-30",
+      "goalId": "goal-1960-10-30-mar-tunisia-3378",
+      "homeTeamId": "mar",
+      "matchKey": "1960-10-30-mar-tunisia",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Khalfi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "ghana",
+      "date": "1961-05-28",
+      "goalId": "goal-1961-05-28-mar-ghana-3505",
+      "homeTeamId": "mar",
+      "matchKey": "1961-05-28-mar-ghana",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohamed Khalfi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "mohamed khalfi",
+  "playerKey": "mohamed-khalfi",
+  "scorer": "Mohamed Khalfi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

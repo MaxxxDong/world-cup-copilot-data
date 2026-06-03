@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "singapore",
+      "date": "1993-04-11",
+      "goalId": "goal-1993-04-11-north-korea-singapore-13786",
+      "homeTeamId": "north-korea",
+      "matchKey": "1993-04-11-north-korea-singapore",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Choi Won-nam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1993-04-26",
+      "goalId": "goal-1993-04-26-singapore-north-korea-13879",
+      "homeTeamId": "singapore",
+      "matchKey": "1993-04-26-singapore-north-korea",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Choi Won-nam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "1993-10-15",
+      "goalId": "goal-1993-10-15-north-korea-iraq-14655",
+      "homeTeamId": "north-korea",
+      "matchKey": "1993-10-15-north-korea-iraq",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Choi Won-nam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1993-10-25",
+      "goalId": "goal-1993-10-25-iran-north-korea-14679",
+      "homeTeamId": "iran",
+      "matchKey": "1993-10-25-iran-north-korea",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Choi Won-nam",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "choi won nam",
+  "playerKey": "choi-won-nam",
+  "scorer": "Choi Won-nam",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

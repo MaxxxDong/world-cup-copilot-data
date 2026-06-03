@@ -1,0 +1,58 @@
+{
+  "club": "Çaykur Rizespor (TUR)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1994-03-13",
+    "playerKey": "samet-akaydin",
+    "providerIds": {
+      "opta": "en0b8q0jtl0sd9s9wjhv0cyc5",
+      "wikidata": "reep_p5234efb9"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Samet Akaydin",
+  "playerKey": "samet-akaydin",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-07-06",
+      "goalId": "goal-2024-07-06-netherlands-turkey-45149",
+      "matchKey": "2024-07-06-netherlands-turkey",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samet Akaydin"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=45"
+  },
+  "shirtNumber": 25,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=45"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "turkey",
+  "teamName": "Turkey"
+}

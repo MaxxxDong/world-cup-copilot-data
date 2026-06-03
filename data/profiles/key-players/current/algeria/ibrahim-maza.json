@@ -1,0 +1,87 @@
+{
+  "club": "Bayer Leverkusen (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "2005-11-24",
+    "nationality": "Algeria",
+    "playerKey": "ibrahim-maza",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "380587",
+      "espn": "361212",
+      "fbref_verified": "89b3bc5e",
+      "footballdatabase_eu": "504807",
+      "german_fa": "ibrahim-maza",
+      "heimspiel": "642888",
+      "impect": "109694",
+      "kicker": "ibrahim-maza",
+      "lequipe": "101711",
+      "national_football_teams": "95894",
+      "opta": "9x0s8mzjc9ey0q812sn3poums",
+      "skillcorner": "162527",
+      "soccerbase": "176115",
+      "soccerway": "753802",
+      "sofascore": "1407524",
+      "thesportsdb": "34219244",
+      "transfermarkt": "905011",
+      "wikidata": "Q118118504",
+      "worldfootball": "ibrahim-maza",
+      "wyscout": "691864"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ibrahim Maza",
+  "playerKey": "ibrahim-maza",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-31",
+      "goalId": "goal-2025-12-31-equatorial-guinea-algeria-47510",
+      "matchKey": "2025-12-31-equatorial-guinea-algeria",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahim Maza"
+    },
+    {
+      "date": "2025-12-24",
+      "goalId": "goal-2025-12-24-algeria-sudan-47458",
+      "matchKey": "2025-12-24-algeria-sudan",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ibrahim Maza"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 22,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

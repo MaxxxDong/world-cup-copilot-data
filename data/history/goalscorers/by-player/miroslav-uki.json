@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "serbia",
+      "date": "1997-10-29",
+      "goalId": "goal-1997-10-29-hungary-serbia-17912",
+      "homeTeamId": "hungary",
+      "matchKey": "1997-10-29-hungary-serbia",
+      "minute": 6,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miroslav Đukić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2001-08-15",
+      "goalId": "goal-2001-08-15-serbia-faroe-islands-21675",
+      "homeTeamId": "serbia",
+      "matchKey": "2001-08-15-serbia-faroe-islands",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miroslav Đukić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "serbia"
+    }
+  ],
+  "normalizedScorer": "miroslav uki",
+  "playerKey": "miroslav-uki",
+  "scorer": "Miroslav Đukić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "serbia"
+  ]
+}

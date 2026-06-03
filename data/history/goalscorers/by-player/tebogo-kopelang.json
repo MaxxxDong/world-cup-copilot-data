@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-botswana-algeria-45947",
+      "homeTeamId": "botswana",
+      "matchKey": "2025-03-21-botswana-algeria",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tebogo Kopelang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "botswana"
+    },
+    {
+      "awayTeamId": "botswana",
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-algeria-botswana-46541",
+      "homeTeamId": "algeria",
+      "matchKey": "2025-09-04-algeria-botswana",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tebogo Kopelang",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "botswana"
+    }
+  ],
+  "normalizedScorer": "tebogo kopelang",
+  "playerKey": "tebogo-kopelang",
+  "scorer": "Tebogo Kopelang",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "botswana"
+  ]
+}

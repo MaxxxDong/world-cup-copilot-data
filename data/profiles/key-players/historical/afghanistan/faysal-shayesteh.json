@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1991-06-21",
+    "nationality": "Afghanistan",
+    "playerKey": "faysal-shayesteh",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "13bf14ff",
+      "footballdatabase_eu": "195167",
+      "kicker": "faysal-shayesteh",
+      "national_football_teams": "55066",
+      "soccerway": "286565",
+      "transfermarkt": "262104",
+      "wikidata": "Q10554064",
+      "worldfootball": "faysal-shayesteh"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-10-13",
+  "playerKey": "faysal-shayesteh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-syria-afghanistan-35245",
+      "matchKey": "2015-10-13-syria-afghanistan",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faysal Shayesteh"
+    }
+  ],
+  "scorer": "Faysal Shayesteh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "afghanistan",
+  "teamName": "Afghanistan",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "singapore",
+      "date": "2004-02-18",
+      "goalId": "goal-2004-02-18-india-singapore-23380",
+      "homeTeamId": "india",
+      "matchKey": "2004-02-18-india-singapore",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renedy Singh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    },
+    {
+      "awayTeamId": "oman",
+      "date": "2004-03-31",
+      "goalId": "goal-2004-03-31-india-oman-23505",
+      "homeTeamId": "india",
+      "matchKey": "2004-03-31-india-oman",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Renedy Singh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "india"
+    }
+  ],
+  "normalizedScorer": "renedy singh",
+  "playerKey": "renedy-singh",
+  "scorer": "Renedy Singh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "india"
+  ]
+}

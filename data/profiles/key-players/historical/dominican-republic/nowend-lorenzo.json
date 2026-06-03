@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2021-03-27",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "2002-11-02",
+    "nationality": "Dominican Republic",
+    "playerKey": "nowend-lorenzo",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "286586",
+      "fbref": "1ab66afe",
+      "footballdatabase_eu": "440303",
+      "heimspiel": "656516",
+      "impect": "207650",
+      "kicker": "nowend-lorenzo",
+      "national_football_teams": "81140",
+      "skillcorner": "769314",
+      "soccerway": "673920",
+      "sofascore": "1099328",
+      "thesportsdb": "34246255",
+      "transfermarkt": "710675",
+      "wikidata": "Q104920685",
+      "wyscout": "736917"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-03-27",
+  "playerKey": "nowend-lorenzo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-anguilla-dominican-republic-40183",
+      "matchKey": "2021-03-27-anguilla-dominican-republic",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nowend Lorenzo"
+    },
+    {
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-anguilla-dominican-republic-40181",
+      "matchKey": "2021-03-27-anguilla-dominican-republic",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nowend Lorenzo"
+    }
+  ],
+  "scorer": "Nowend Lorenzo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominican-republic",
+  "teamName": "Dominican Republic",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "samoa",
+      "date": "2024-06-16",
+      "goalId": "goal-2024-06-16-tahiti-samoa-44965",
+      "homeTeamId": "tahiti",
+      "matchKey": "2024-06-16-tahiti-samoa",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matéo Degrumelle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "2024-06-19",
+      "goalId": "goal-2024-06-19-papua-new-guinea-tahiti-44998",
+      "homeTeamId": "papua-new-guinea",
+      "matchKey": "2024-06-19-papua-new-guinea-tahiti",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matéo Degrumelle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    }
+  ],
+  "normalizedScorer": "mat o degrumelle",
+  "playerKey": "mat-o-degrumelle",
+  "scorer": "Matéo Degrumelle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tahiti"
+  ]
+}

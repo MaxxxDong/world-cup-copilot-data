@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uganda",
+      "date": "1968-01-12",
+      "goalId": "goal-1968-01-12-ethiopia-uganda-5090",
+      "homeTeamId": "ethiopia",
+      "matchKey": "1968-01-12-ethiopia-uganda",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Polly Ouma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uganda"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "1977-02-13",
+      "goalId": "goal-1977-02-13-uganda-zambia-7714",
+      "homeTeamId": "uganda",
+      "matchKey": "1977-02-13-uganda-zambia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Polly Ouma",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uganda"
+    }
+  ],
+  "normalizedScorer": "polly ouma",
+  "playerKey": "polly-ouma",
+  "scorer": "Polly Ouma",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uganda"
+  ]
+}

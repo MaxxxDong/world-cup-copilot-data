@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2023-11-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1999-04-15",
+    "nationality": "United Kingdom",
+    "playerKey": "rahis-nabi",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "8c4873d4",
+      "footballdatabase_eu": "304024",
+      "impect": "110601",
+      "national_football_teams": "74477",
+      "soccerway": "453155",
+      "sofascore": "992786",
+      "transfermarkt": "409053",
+      "wikidata": "Q64746830"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-11-21",
+  "playerKey": "rahis-nabi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-11-21",
+      "goalId": "goal-2023-11-21-pakistan-tajikistan-44156",
+      "matchKey": "2023-11-21-pakistan-tajikistan",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rahis Nabi"
+    }
+  ],
+  "scorer": "Rahis Nabi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "pakistan",
+  "teamName": "Pakistan",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

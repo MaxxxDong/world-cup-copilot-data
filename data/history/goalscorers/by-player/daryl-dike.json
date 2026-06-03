@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "martinique",
+      "date": "2021-07-15",
+      "goalId": "goal-2021-07-15-usa-martinique-41037",
+      "homeTeamId": "usa",
+      "matchKey": "2021-07-15-usa-martinique",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daryl Dike",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "martinique",
+      "date": "2021-07-15",
+      "goalId": "goal-2021-07-15-usa-martinique-41040",
+      "homeTeamId": "usa",
+      "matchKey": "2021-07-15-usa-martinique",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daryl Dike",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "daryl dike",
+  "playerKey": "daryl-dike",
+  "scorer": "Daryl Dike",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

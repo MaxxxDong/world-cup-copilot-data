@@ -1,0 +1,68 @@
+{
+  "club": "Pakhtakor Tashkent FK (UZB)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1997-04-19",
+    "nationality": "Uzbekistan",
+    "playerKey": "khojiakbar-alijonov",
+    "position": "full-back",
+    "providerIds": {
+      "api_football": "72122",
+      "espn": "274005",
+      "fbref": "e53cbd7a",
+      "footballdatabase_eu": "304237",
+      "national_football_teams": "74512",
+      "soccerway": "407287",
+      "sofascore": "888187",
+      "thesportsdb": "34231667",
+      "transfermarkt": "492558",
+      "wikidata": "Q64853255"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Khojiakbar Alijonov",
+  "playerKey": "khojiakbar-alijonov",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-uzbekistan-kyrgyzstan-45939",
+      "matchKey": "2025-03-20-uzbekistan-kyrgyzstan",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khojiakbar Alijonov"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+  },
+  "shirtNumber": 3,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uzbekistan",
+  "teamName": "Uzbekistan"
+}

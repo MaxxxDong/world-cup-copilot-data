@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1976-03-14",
+      "goalId": "goal-1976-03-14-egypt-nigeria-7496",
+      "homeTeamId": "egypt",
+      "matchKey": "1976-03-14-egypt-nigeria",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ossama Khalil",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "kenya",
+      "date": "1977-02-27",
+      "goalId": "goal-1977-02-27-egypt-kenya-7724",
+      "homeTeamId": "egypt",
+      "matchKey": "1977-02-27-egypt-kenya",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ossama Khalil",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "ossama khalil",
+  "playerKey": "ossama-khalil",
+  "scorer": "Ossama Khalil",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

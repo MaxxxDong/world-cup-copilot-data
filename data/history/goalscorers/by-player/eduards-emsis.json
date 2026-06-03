@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-latvia-lithuania-40525",
+      "homeTeamId": "latvia",
+      "matchKey": "2021-06-04-latvia-lithuania",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduards Emsis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    },
+    {
+      "awayTeamId": "turkey",
+      "date": "2023-06-16",
+      "goalId": "goal-2023-06-16-latvia-turkey-43216",
+      "homeTeamId": "latvia",
+      "matchKey": "2023-06-16-latvia-turkey",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduards Emsis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "latvia"
+    }
+  ],
+  "normalizedScorer": "eduards emsis",
+  "playerKey": "eduards-emsis",
+  "scorer": "Eduards Emsis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "latvia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1942-01-11",
+      "goalId": "goal-1942-01-11-arg-paraguay-1251",
+      "homeTeamId": "arg",
+      "matchKey": "1942-01-11-arg-paraguay",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rubén Aveiro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1942-01-11",
+      "goalId": "goal-1942-01-11-arg-paraguay-1252",
+      "homeTeamId": "arg",
+      "matchKey": "1942-01-11-arg-paraguay",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rubén Aveiro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "rub n aveiro",
+  "playerKey": "rub-n-aveiro",
+  "scorer": "Rubén Aveiro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

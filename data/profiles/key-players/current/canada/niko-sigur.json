@@ -1,0 +1,73 @@
+{
+  "club": "HNK Hajduk Split (CRO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2003-09-09",
+    "nationality": "Canada",
+    "playerKey": "niko-sigur",
+    "providerIds": {
+      "api_football": "416901",
+      "espn": "363538",
+      "footballdatabase_eu": "523158",
+      "heimspiel": "966147",
+      "impect": "161792",
+      "kicker": "niko-sigur",
+      "national_football_teams": "95784",
+      "skillcorner": "639284",
+      "soccerway": "904588",
+      "sofascore": "1411145",
+      "thesportsdb": "34236351",
+      "transfermarkt": "1045375",
+      "uefa": "250185922",
+      "wikidata": "Q117830854",
+      "worldfootball": "niko-sigur",
+      "wyscout": "879352"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Niko Sigur",
+  "playerKey": "niko-sigur",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-17",
+      "goalId": "goal-2025-06-17-canada-honduras-46477",
+      "matchKey": "2025-06-17-canada-honduras",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Niko Sigur"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 23,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

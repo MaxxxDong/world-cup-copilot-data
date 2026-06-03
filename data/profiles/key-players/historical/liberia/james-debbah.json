@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "1988-08-21",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1969-12-14",
+    "nationality": "Liberia",
+    "playerKey": "james-debbah",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "f51b5fa7",
+      "footballdatabase_eu": "4083",
+      "kicker": "james-debbah",
+      "national_football_teams": "7762",
+      "sofifa": "156311",
+      "transfermarkt": "173636",
+      "wikidata": "Q2275781"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1996-06-23",
+  "playerKey": "james-debbah",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1996-06-23",
+      "goalId": "goal-1996-06-23-liberia-gambia-16129",
+      "matchKey": "1996-06-23-liberia-gambia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Debbah"
+    },
+    {
+      "date": "1996-06-01",
+      "goalId": "goal-1996-06-01-gambia-liberia-15939",
+      "matchKey": "1996-06-01-gambia-liberia",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "James Debbah"
+    },
+    {
+      "date": "1989-06-25",
+      "goalId": "goal-1989-06-25-liberia-egypt-12134",
+      "matchKey": "1989-06-25-liberia-egypt",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Debbah"
+    },
+    {
+      "date": "1988-08-21",
+      "goalId": "goal-1988-08-21-liberia-ghana-11675",
+      "matchKey": "1988-08-21-liberia-ghana",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "James Debbah"
+    }
+  ],
+  "scorer": "James Debbah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

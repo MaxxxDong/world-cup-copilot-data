@@ -1,0 +1,95 @@
+{
+  "firstGoalDate": "2019-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1991-03-30",
+    "nationality": "France",
+    "playerKey": "joseph-mendes",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "20963",
+      "fbref": "d93c6b04",
+      "footballdatabase_eu": "81268",
+      "heimspiel": "233683",
+      "impect": "25983",
+      "kicker": "joseph-mendes",
+      "national_football_teams": "74581",
+      "opta": "cjlnpo3hm42zhaqstox2mc8np",
+      "skillcorner": "13126",
+      "soccerway": "166367",
+      "sofascore": "139739",
+      "thesportsdb": "34175005",
+      "transfermarkt": "169275",
+      "wikidata": "Q6285509",
+      "wyscout": "27418"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-09-01",
+  "playerKey": "joseph-mendes",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-09-01",
+      "goalId": "goal-2021-09-01-guinea-bissau-guinea-41104",
+      "matchKey": "2021-09-01-guinea-bissau-guinea",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Mendes"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-guinea-bissau-sao-tome-and-principe-39032",
+      "matchKey": "2019-09-10-guinea-bissau-sao-tome-and-principe",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Mendes"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-guinea-bissau-sao-tome-and-principe-39031",
+      "matchKey": "2019-09-10-guinea-bissau-sao-tome-and-principe",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joseph Mendes"
+    },
+    {
+      "date": "2019-09-04",
+      "goalId": "goal-2019-09-04-sao-tome-and-principe-guinea-bissau-38801",
+      "matchKey": "2019-09-04-sao-tome-and-principe-guinea-bissau",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Joseph Mendes"
+    }
+  ],
+  "scorer": "Joseph Mendes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guinea-bissau",
+  "teamName": "Guinea-Bissau",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

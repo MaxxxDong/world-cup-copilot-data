@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "antigua-and-barbuda",
+      "date": "2004-03-31",
+      "goalId": "goal-2004-03-31-curacao-antigua-and-barbuda-23502",
+      "homeTeamId": "curacao",
+      "matchKey": "2004-03-31-curacao-antigua-and-barbuda",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brutil Hosé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    },
+    {
+      "awayTeamId": "honduras",
+      "date": "2004-06-12",
+      "goalId": "goal-2004-06-12-curacao-honduras-23827",
+      "homeTeamId": "curacao",
+      "matchKey": "2004-06-12-curacao-honduras",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brutil Hosé",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "curacao"
+    }
+  ],
+  "normalizedScorer": "brutil hos",
+  "playerKey": "brutil-hos",
+  "scorer": "Brutil Hosé",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "curacao"
+  ]
+}

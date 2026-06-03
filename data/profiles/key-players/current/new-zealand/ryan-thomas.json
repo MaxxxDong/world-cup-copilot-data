@@ -1,0 +1,92 @@
+{
+  "club": "PEC Zwolle (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1994-12-20",
+    "nationality": "New Zealand",
+    "playerKey": "ryan-thomas",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "95efdac2",
+      "footballdatabase_eu": "186206",
+      "fotmob": "496356",
+      "heimspiel": "316869",
+      "impect": "16364",
+      "kicker": "ryan-thomas",
+      "lequipe": "51667",
+      "national_football_teams": "54718",
+      "opta": "1rd0zzpp3dn0y7qtxwc57g7h1",
+      "skillcorner": "9429",
+      "soccerway": "215382",
+      "sofifa": "336641",
+      "transfermarkt": "203357",
+      "wikidata": "Q3943100",
+      "worldfootball": "ryan-thomas_3",
+      "wyscout": "77399"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ryan Thomas",
+  "playerKey": "ryan-thomas",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-new-zealand-solomon-islands-37083",
+      "matchKey": "2017-09-01-new-zealand-solomon-islands",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ryan Thomas"
+    },
+    {
+      "date": "2017-03-28",
+      "goalId": "goal-2017-03-28-new-zealand-fiji-36744",
+      "matchKey": "2017-03-28-new-zealand-fiji",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ryan Thomas"
+    },
+    {
+      "date": "2017-03-28",
+      "goalId": "goal-2017-03-28-new-zealand-fiji-36743",
+      "matchKey": "2017-03-28-new-zealand-fiji",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ryan Thomas"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+  },
+  "shirtNumber": 23,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "new-zealand",
+  "teamName": "New Zealand"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Fiji"
+  ],
+  "allTime": {
+    "draws": 48,
+    "goalsAgainst": 437,
+    "goalsFor": 607,
+    "losses": 103,
+    "matches": 267,
+    "wins": 116
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 29,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 38,
+      "goalsFor": 32,
+      "losses": 8,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 22,
+      "goalsFor": 0,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2025-11-20",
+      "homeScore": 2,
+      "homeTeamId": "papua-new-guinea",
+      "matchId": "int-2025-11-20-papua-new-guinea-fiji",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2025-11-17",
+      "homeScore": 2,
+      "homeTeamId": "vanuatu",
+      "matchId": "int-2025-11-17-vanuatu-fiji",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "MSG Prime Minister's Cup"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "hong-kong",
+      "date": "2025-09-07",
+      "homeScore": 0,
+      "homeTeamId": "fiji",
+      "matchId": "int-2025-09-07-fiji-hong-kong",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2025-09-04",
+      "homeScore": 3,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-09-04-thailand-fiji",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "fiji",
+      "date": "2025-03-21",
+      "homeScore": 7,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2025-03-21-new-zealand-fiji",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 35,
+      "goalsAgainst": 303,
+      "goalsFor": 507,
+      "losses": 63,
+      "matches": 193,
+      "wins": 95
+    },
+    "friendly": {
+      "draws": 13,
+      "goalsAgainst": 134,
+      "goalsFor": 100,
+      "losses": 40,
+      "matches": 74,
+      "wins": 21
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 166,
+      "goalsFor": 339,
+      "losses": 35,
+      "matches": 115,
+      "wins": 59
+    },
+    "nonNeutralVenue": {
+      "draws": 27,
+      "goalsAgainst": 271,
+      "goalsFor": 268,
+      "losses": 68,
+      "matches": 152,
+      "wins": 57
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "fiji",
+  "teamName": "Fiji",
+  "topScorers": [
+    {
+      "goals": 14,
+      "playerKey": "esala-masi",
+      "scorer": "Esala Masi"
+    },
+    {
+      "goals": 14,
+      "playerKey": "roy-krishna",
+      "scorer": "Roy Krishna"
+    },
+    {
+      "goals": 8,
+      "playerKey": "veresa-toma",
+      "scorer": "Veresa Toma"
+    },
+    {
+      "goals": 6,
+      "playerKey": "na",
+      "scorer": "NA"
+    },
+    {
+      "goals": 5,
+      "playerKey": "shailemdra-lal",
+      "scorer": "Shailemdra Lal"
+    },
+    {
+      "goals": 4,
+      "playerKey": "laisiasa-gataurua",
+      "scorer": "Laisiasa Gataurua"
+    },
+    {
+      "goals": 4,
+      "playerKey": "meli-vuilabasa",
+      "scorer": "Meli Vuilabasa"
+    },
+    {
+      "goals": 4,
+      "playerKey": "seveci-rokotakala",
+      "scorer": "Seveci Rokotakala"
+    },
+    {
+      "goals": 4,
+      "playerKey": "thomas-dunn",
+      "scorer": "Thomas Dunn"
+    },
+    {
+      "goals": 3,
+      "playerKey": "bakalevu-moceimereke",
+      "scorer": "Bakalevu Moceimereke"
+    }
+  ]
+}

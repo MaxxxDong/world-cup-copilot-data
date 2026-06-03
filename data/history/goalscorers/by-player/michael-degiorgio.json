@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malta",
+      "date": "1983-12-21",
+      "goalId": "goal-1983-12-21-spain-malta-10191",
+      "homeTeamId": "spain",
+      "matchKey": "1983-12-21-spain-malta",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Degiorgio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1985-10-12",
+      "goalId": "goal-1985-10-12-portugal-malta-10997",
+      "homeTeamId": "portugal",
+      "matchKey": "1985-10-12-portugal-malta",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Michael Degiorgio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    }
+  ],
+  "normalizedScorer": "michael degiorgio",
+  "playerKey": "michael-degiorgio",
+  "scorer": "Michael Degiorgio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malta"
+  ]
+}

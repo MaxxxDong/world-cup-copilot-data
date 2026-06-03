@@ -1,0 +1,243 @@
+{
+  "aliases": [
+    "Haiti",
+    "HAI"
+  ],
+  "allTime": {
+    "draws": 110,
+    "goalsAgainst": 684,
+    "goalsFor": 833,
+    "losses": 183,
+    "matches": 508,
+    "wins": 215
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "HAI",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 11,
+      "goalsFor": 12,
+      "losses": 3,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 22,
+      "goalsFor": 50,
+      "losses": 5,
+      "matches": 20,
+      "wins": 11
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "iceland",
+      "date": "2026-03-31",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2026-03-31-haiti-iceland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "tunisia",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "haiti",
+      "matchId": "int-2026-03-28-haiti-tunisia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nicaragua",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "haiti",
+      "matchId": "int-2025-11-18-haiti-nicaragua",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2025-11-13",
+      "homeScore": 1,
+      "homeTeamId": "haiti",
+      "matchId": "int-2025-11-13-haiti-costa-rica",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "haiti",
+      "date": "2025-10-13",
+      "homeScore": 3,
+      "homeTeamId": "honduras",
+      "matchId": "int-2025-10-13-honduras-haiti",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 57,
+      "goalsAgainst": 374,
+      "goalsFor": 551,
+      "losses": 97,
+      "matches": 297,
+      "wins": 143
+    },
+    "friendly": {
+      "draws": 53,
+      "goalsAgainst": 310,
+      "goalsFor": 282,
+      "losses": 86,
+      "matches": 211,
+      "wins": 72
+    },
+    "neutralVenue": {
+      "draws": 36,
+      "goalsAgainst": 218,
+      "goalsFor": 262,
+      "losses": 60,
+      "matches": 168,
+      "wins": 72
+    },
+    "nonNeutralVenue": {
+      "draws": 74,
+      "goalsAgainst": 466,
+      "goalsFor": 571,
+      "losses": 123,
+      "matches": 340,
+      "wins": 143
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "haiti",
+  "teamName": "Haiti",
+  "topScorers": [
+    {
+      "goals": 18,
+      "playerKey": "duckens-nazon",
+      "scorer": "Duckens Nazon"
+    },
+    {
+      "goals": 15,
+      "playerKey": "golman-pierre",
+      "scorer": "Golman Pierre"
+    },
+    {
+      "goals": 10,
+      "playerKey": "emmanuel-sanon",
+      "scorer": "Emmanuel Sanon"
+    },
+    {
+      "goals": 10,
+      "playerKey": "frantzdy-pierrot",
+      "scorer": "Frantzdy Pierrot"
+    },
+    {
+      "goals": 9,
+      "playerKey": "guy-saint-vil",
+      "scorer": "Guy Saint-Vil"
+    },
+    {
+      "goals": 8,
+      "playerKey": "jean-eudes-maurice",
+      "scorer": "Jean-Eudes Maurice"
+    },
+    {
+      "goals": 6,
+      "playerKey": "kervens-belfort",
+      "scorer": "Kervens Belfort"
+    },
+    {
+      "goals": 4,
+      "playerKey": "carnejy-antoine",
+      "scorer": "Carnejy Antoine"
+    },
+    {
+      "goals": 4,
+      "playerKey": "isaac-chauvet",
+      "scorer": "Isaac Chauvet"
+    },
+    {
+      "goals": 4,
+      "playerKey": "james-marcelin",
+      "scorer": "James Marcelin"
+    }
+  ]
+}

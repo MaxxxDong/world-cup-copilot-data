@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Jersey"
+  ],
+  "allTime": {
+    "draws": 20,
+    "goalsAgainst": 285,
+    "goalsFor": 645,
+    "losses": 62,
+    "matches": 235,
+    "wins": 153
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 27,
+      "losses": 1,
+      "matches": 10,
+      "wins": 8
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 15,
+      "goalsFor": 57,
+      "losses": 2,
+      "matches": 20,
+      "wins": 16
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 14,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "jersey",
+      "date": "2025-07-18",
+      "homeScore": 3,
+      "homeTeamId": "isle-of-man",
+      "matchId": "int-2025-07-18-isle-of-man-jersey",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "shetland",
+      "date": "2025-07-15",
+      "homeScore": 2,
+      "homeTeamId": "jersey",
+      "matchId": "int-2025-07-15-jersey-shetland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gozo",
+      "date": "2025-07-14",
+      "homeScore": 2,
+      "homeTeamId": "jersey",
+      "matchId": "int-2025-07-14-jersey-gozo",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "jersey",
+      "date": "2023-07-14",
+      "homeScore": 2,
+      "homeTeamId": "ynys-mon",
+      "matchId": "int-2023-07-14-ynys-mon-jersey",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "jersey",
+      "date": "2023-07-13",
+      "homeScore": 2,
+      "homeTeamId": "isle-of-wight",
+      "matchId": "int-2023-07-13-isle-of-wight-jersey",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 20,
+      "goalsAgainst": 271,
+      "goalsFor": 638,
+      "losses": 57,
+      "matches": 228,
+      "wins": 151
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 14,
+      "goalsFor": 7,
+      "losses": 5,
+      "matches": 7,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 47,
+      "goalsFor": 148,
+      "losses": 5,
+      "matches": 53,
+      "wins": 42
+    },
+    "nonNeutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 238,
+      "goalsFor": 497,
+      "losses": 57,
+      "matches": 182,
+      "wins": 111
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "jersey",
+  "teamName": "Jersey",
+  "topScorers": []
+}

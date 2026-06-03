@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cyprus",
+      "date": "1985-02-27",
+      "goalId": "goal-1985-02-27-netherlands-cyprus-10554",
+      "homeTeamId": "netherlands",
+      "matchKey": "1985-02-27-netherlands-cyprus",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erwin Koeman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "finland",
+      "date": "1989-11-15",
+      "goalId": "goal-1989-11-15-netherlands-finland-12419",
+      "homeTeamId": "netherlands",
+      "matchKey": "1989-11-15-netherlands-finland",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Erwin Koeman",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "erwin koeman",
+  "playerKey": "erwin-koeman",
+  "scorer": "Erwin Koeman",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

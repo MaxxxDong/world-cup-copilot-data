@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1985-07-28",
+      "goalId": "goal-1985-07-28-mar-egypt-10896",
+      "homeTeamId": "mar",
+      "matchKey": "1985-07-28-mar-egypt",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aziz Bouderbala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "libya",
+      "date": "1985-10-06",
+      "goalId": "goal-1985-10-06-mar-libya-10980",
+      "homeTeamId": "mar",
+      "matchKey": "1985-10-06-mar-libya",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aziz Bouderbala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1989-01-22",
+      "goalId": "goal-1989-01-22-tunisia-mar-11862",
+      "homeTeamId": "tunisia",
+      "matchKey": "1989-01-22-tunisia-mar",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aziz Bouderbala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "aziz bouderbala",
+  "playerKey": "aziz-bouderbala",
+  "scorer": "Aziz Bouderbala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

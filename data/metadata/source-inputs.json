@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "guidance": {
+    "privacy": "Paths are repository-relative or basename-only; raw source files are not included in the published package unless explicitly indexed elsewhere.",
+    "refresh": "Regenerate the package when a raw input hash changes, then rerun validate-package, budget, readiness, FIFA fixture, and remote-latency audits.",
+    "sourceRefs": "Use sourceRefs for fact-level attribution and this file for package build provenance."
+  },
+  "inputCount": 5,
+  "inputs": [
+    {
+      "format": "pdf",
+      "inputRole": "official-rosters-pdf",
+      "path": "input/raw/SquadLists-English.pdf",
+      "sha256": "09473e3a619c37e37342fc8837d9083ebb1267774a8060a09afd9cd6b6411db0",
+      "sizeBytes": 750868,
+      "sourceId": "fifa-squad-announcements-2026",
+      "sourcePath": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf"
+    },
+    {
+      "format": "json",
+      "inputRole": "official-rosters",
+      "path": "input/raw/fifa-squads.json",
+      "sha256": "2bcba0c900945796003e77056e0357e965d5f34fc73b52b49d75cdcbe0552e9d",
+      "sizeBytes": 489544,
+      "sourceId": "fifa-squad-announcements-2026",
+      "sourcePath": "fifa-squads.json"
+    },
+    {
+      "format": "git-tree",
+      "inputRole": "restored-published-package",
+      "path": "input/restored/manifest-96b788df.json",
+      "sha256": "51d6505e820b3ebae98867af318b8626d191d6647eafb36fa067d53a7ff7199f",
+      "sizeBytes": 86138,
+      "sourceId": "world-cup-copilot-data-published-package",
+      "sourcePath": "git commit 96b788df"
+    },
+    {
+      "format": "json",
+      "inputRole": "team-registry",
+      "path": "input/team-registry.seed.json",
+      "sha256": "59c953bb6de71adea03df6fdd355e22b98748011b3a6b8af9753208e4d8ea8cf",
+      "sizeBytes": 6492,
+      "sourceId": "world-cup-copilot-team-registry",
+      "sourcePath": "input/team-registry.seed.json"
+    },
+    {
+      "format": "json",
+      "inputRole": "venue-registry",
+      "path": "input/venue-registry.seed.json",
+      "sha256": "a4e3f91b41c7c60c68c751681f5b664561c03f7e11ba7fa2f7115764f14138aa",
+      "sizeBytes": 2277,
+      "sourceId": "world-cup-copilot-venue-registry",
+      "sourcePath": "input/venue-registry.seed.json"
+    }
+  ],
+  "purpose": "Machine-readable raw input provenance for package QA, source refresh, and agent audit."
+}

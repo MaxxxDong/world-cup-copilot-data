@@ -1,0 +1,71 @@
+{
+  "firstGoalDate": "1984-10-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "nationality": "Kenya",
+    "playerKey": "joe-masiga",
+    "position": "forward",
+    "providerIds": {
+      "wikidata": "Q6211148"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1985-04-20",
+  "playerKey": "joe-masiga",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1985-04-20",
+      "goalId": "goal-1985-04-20-nigeria-kenya-10726",
+      "matchKey": "1985-04-20-nigeria-kenya",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Masiga"
+    },
+    {
+      "date": "1984-10-28",
+      "goalId": "goal-1984-10-28-ethiopia-kenya-10390",
+      "matchKey": "1984-10-28-ethiopia-kenya",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Masiga"
+    },
+    {
+      "date": "1984-10-13",
+      "goalId": "goal-1984-10-13-kenya-ethiopia-10335",
+      "matchKey": "1984-10-13-kenya-ethiopia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Joe Masiga"
+    }
+  ],
+  "scorer": "Joe Masiga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kenya",
+  "teamName": "Kenya",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Székely Land"
+  ],
+  "allTime": {
+    "draws": 3,
+    "goalsAgainst": 56,
+    "goalsFor": 56,
+    "losses": 15,
+    "matches": 27,
+    "wins": 9
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 22,
+      "goalsFor": 21,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 42,
+      "goalsFor": 41,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 15,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "two-sicilies",
+      "date": "2023-07-02",
+      "homeScore": 7,
+      "homeTeamId": "szekely-land",
+      "matchId": "int-2023-07-02-szekely-land-two-sicilies",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "chameria",
+      "date": "2023-06-30",
+      "homeScore": 3,
+      "homeTeamId": "szekely-land",
+      "matchId": "int-2023-06-30-szekely-land-chameria",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-08",
+      "homeScore": 3,
+      "homeTeamId": "sapmi",
+      "matchId": "int-2019-06-08-sapmi-szekely-land",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-06",
+      "homeScore": 2,
+      "homeTeamId": "artsakh",
+      "matchId": "int-2019-06-06-artsakh-szekely-land",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "szekely-land",
+      "date": "2019-06-04",
+      "homeScore": 2,
+      "homeTeamId": "south-ossetia",
+      "matchId": "int-2019-06-04-south-ossetia-szekely-land",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "goalsAgainst": 56,
+      "goalsFor": 53,
+      "losses": 15,
+      "matches": 26,
+      "wins": 8
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 3,
+      "losses": 0,
+      "matches": 1,
+      "wins": 1
+    },
+    "neutralVenue": {
+      "draws": 3,
+      "goalsAgainst": 40,
+      "goalsFor": 36,
+      "losses": 10,
+      "matches": 19,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 16,
+      "goalsFor": 20,
+      "losses": 5,
+      "matches": 8,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "szekely-land",
+  "teamName": "Székely Land",
+  "topScorers": []
+}

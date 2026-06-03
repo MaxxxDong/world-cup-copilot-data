@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2024-06-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1996-07-14",
+    "nationality": "Saint Lucia",
+    "playerKey": "caniggia-elva",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "26404",
+      "espn": "266494",
+      "fbref": "2a316ff8",
+      "footballdatabase_eu": "255585",
+      "heimspiel": "363183",
+      "impect": "32107",
+      "kicker": "caniggia-elva",
+      "national_football_teams": "92566",
+      "skillcorner": "108975",
+      "soccerway": "409156",
+      "sofascore": "800333",
+      "thesportsdb": "34285933",
+      "transfermarkt": "330795",
+      "wikidata": "Q15917220",
+      "worldfootball": "caniggia-elva",
+      "wyscout": "382270"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-10",
+  "playerKey": "caniggia-elva",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-saint-lucia-barbados-46431",
+      "matchKey": "2025-06-10-saint-lucia-barbados",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Caniggia Elva"
+    },
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-saint-lucia-barbados-46430",
+      "matchKey": "2025-06-10-saint-lucia-barbados",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Caniggia Elva"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-haiti-saint-lucia-44644",
+      "matchKey": "2024-06-06-haiti-saint-lucia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Caniggia Elva"
+    }
+  ],
+  "scorer": "Caniggia Elva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-lucia",
+  "teamName": "Saint Lucia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

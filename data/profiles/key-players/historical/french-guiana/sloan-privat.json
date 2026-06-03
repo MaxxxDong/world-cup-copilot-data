@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2017-07-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1989-07-24",
+    "nationality": "France",
+    "playerKey": "sloan-privat",
+    "position": "forward",
+    "providerIds": {
+      "fbref_verified": "4df04a86",
+      "fff_fr": "8333-privat-sloan",
+      "footballdatabase_eu": "26544",
+      "impect": "1572",
+      "kicker": "sloan-privat",
+      "lequipe": "28557",
+      "national_football_teams": "58521",
+      "opta": "5nctqs1tcdhne849zvu109b6d",
+      "skillcorner": "9915",
+      "soccerbase": "52560",
+      "soccerway": "21514",
+      "sofascore": "31960",
+      "transfermarkt": "66407",
+      "wikidata": "Q2700168",
+      "worldfootball": "sloan-privat",
+      "wyscout": "25479"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2017-07-07",
+  "playerKey": "sloan-privat",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2017-07-07",
+      "goalId": "goal-2017-07-07-french-guiana-canada-36935",
+      "matchKey": "2017-07-07-french-guiana-canada",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sloan Privat"
+    }
+  ],
+  "scorer": "Sloan Privat",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "french-guiana",
+  "teamName": "French Guiana",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

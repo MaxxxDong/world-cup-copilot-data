@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Gabon"
+  ],
+  "allTime": {
+    "draws": 114,
+    "goalsAgainst": 484,
+    "goalsFor": 477,
+    "losses": 150,
+    "matches": 405,
+    "wins": 141
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 19,
+      "goalsFor": 18,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 33,
+      "goalsFor": 35,
+      "losses": 8,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 12,
+      "goalsFor": 7,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-30",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2026-03-30-gabon-trinidad-and-tobago",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "gabon",
+      "date": "2026-03-27",
+      "homeScore": 3,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2026-03-27-uzbekistan-gabon",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "civ",
+      "date": "2025-12-31",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2025-12-31-gabon-civ",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "mozambique",
+      "date": "2025-12-28",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2025-12-28-gabon-mozambique",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "gabon",
+      "date": "2025-12-24",
+      "homeScore": 1,
+      "homeTeamId": "cameroon",
+      "matchId": "int-2025-12-24-cameroon-gabon",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 61,
+      "goalsAgainst": 265,
+      "goalsFor": 291,
+      "losses": 83,
+      "matches": 238,
+      "wins": 94
+    },
+    "friendly": {
+      "draws": 53,
+      "goalsAgainst": 219,
+      "goalsFor": 186,
+      "losses": 67,
+      "matches": 167,
+      "wins": 47
+    },
+    "neutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 135,
+      "goalsFor": 134,
+      "losses": 36,
+      "matches": 101,
+      "wins": 33
+    },
+    "nonNeutralVenue": {
+      "draws": 82,
+      "goalsAgainst": 349,
+      "goalsFor": 343,
+      "losses": 114,
+      "matches": 304,
+      "wins": 108
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "gabon",
+  "teamName": "Gabon",
+  "topScorers": [
+    {
+      "goals": 21,
+      "playerKey": "pierre-emerick-aubameyang",
+      "scorer": "Pierre-Emerick Aubameyang"
+    },
+    {
+      "goals": 9,
+      "playerKey": "denis-bouanga",
+      "scorer": "Denis Bouanga"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jim-allevinah",
+      "scorer": "Jim Allevinah"
+    },
+    {
+      "goals": 5,
+      "playerKey": "daniel-cousin",
+      "scorer": "Daniel Cousin"
+    },
+    {
+      "goals": 5,
+      "playerKey": "guy-roger-nzamba",
+      "scorer": "Guy Roger Nzamba"
+    },
+    {
+      "goals": 5,
+      "playerKey": "th-odore-nzue-nguema",
+      "scorer": "Théodore Nzue Nguema"
+    },
+    {
+      "goals": 4,
+      "playerKey": "bruno-zita-mbanangoy",
+      "scorer": "Bruno Zita Mbanangoyé"
+    },
+    {
+      "goals": 4,
+      "playerKey": "roguy-m-y",
+      "scorer": "Roguy Méyé"
+    },
+    {
+      "goals": 4,
+      "playerKey": "st-phane-n-gu-ma",
+      "scorer": "Stéphane N'Guéma"
+    },
+    {
+      "goals": 3,
+      "playerKey": "brice-mackaya",
+      "scorer": "Brice Mackaya"
+    }
+  ]
+}

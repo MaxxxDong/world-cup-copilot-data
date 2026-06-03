@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 25,
+    "teamBWins": 4
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "mex",
+    "date": "2017-07-16",
+    "homeScore": 0,
+    "homeTeamId": "curacao",
+    "matchId": "int-2017-07-16-curacao-mex",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Gold Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "1961-04-05",
+      "homeScore": 7,
+      "homeTeamId": "mex",
+      "matchId": "int-1961-04-05-mex-curacao",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mex",
+      "date": "1961-05-21",
+      "homeScore": 0,
+      "homeTeamId": "curacao",
+      "matchId": "int-1961-05-21-curacao-mex",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "curacao",
+      "date": "1963-03-24",
+      "homeScore": 1,
+      "homeTeamId": "mex",
+      "matchId": "int-1963-03-24-mex-curacao",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Championship"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "1965-04-01",
+      "homeScore": 5,
+      "homeTeamId": "mex",
+      "matchId": "int-1965-04-01-mex-curacao",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "curacao",
+      "date": "1969-12-04",
+      "homeScore": 2,
+      "homeTeamId": "mex",
+      "matchId": "int-1969-12-04-mex-curacao",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Championship"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "curacao",
+      "date": "1973-12-08",
+      "homeScore": 8,
+      "homeTeamId": "mex",
+      "matchId": "int-1973-12-08-mex-curacao",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Championship"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mex",
+      "date": "2017-07-16",
+      "homeScore": 0,
+      "homeTeamId": "curacao",
+      "matchId": "int-2017-07-16-curacao-mex",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Gold Cup"
+    }
+  ],
+  "pairKey": "curacao__mex",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 25,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 18,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "curacao",
+  "teamBId": "mex"
+}

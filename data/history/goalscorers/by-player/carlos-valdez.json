@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "haiti",
+      "date": "1965-03-28",
+      "goalId": "goal-1965-03-28-guatemala-haiti-4254",
+      "homeTeamId": "guatemala",
+      "matchKey": "1965-03-28-guatemala-haiti",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Valdez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "1965-04-04",
+      "goalId": "goal-1965-04-04-guatemala-el-salvador-4268",
+      "homeTeamId": "guatemala",
+      "matchKey": "1965-04-04-guatemala-el-salvador",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Valdez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    }
+  ],
+  "normalizedScorer": "carlos valdez",
+  "playerKey": "carlos-valdez",
+  "scorer": "Carlos Valdez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "peru",
+      "date": "2005-06-04",
+      "goalId": "goal-2005-06-04-colombia-peru-25216",
+      "homeTeamId": "colombia",
+      "matchKey": "2005-06-04-colombia-peru",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elkin Soto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "2005-09-04",
+      "goalId": "goal-2005-09-04-uruguay-colombia-25723",
+      "homeTeamId": "uruguay",
+      "matchKey": "2005-09-04-uruguay-colombia",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elkin Soto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "elkin soto",
+  "playerKey": "elkin-soto",
+  "scorer": "Elkin Soto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "firstGoalDate": "2016-09-05",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1993-02-07",
+    "nationality": "Kosovo",
+    "playerKey": "valon-berisha",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "1851",
+      "capology": "valon-berisha-34007",
+      "espn": "141449",
+      "eu_football_info": "27673",
+      "fbref": "d5575935",
+      "footballdatabase_eu": "82598",
+      "heimspiel": "172783",
+      "impect": "5214",
+      "kicker": "valon-berisha",
+      "lequipe": "45639",
+      "national_football_teams": "46277",
+      "opta": "446scvw0ckoxnvnsqcqocve1h",
+      "skillcorner": "11299",
+      "soccerbase": "59271",
+      "soccerway": "122245",
+      "sofascore": "98197",
+      "thesportsdb": "34169018",
+      "transfermarkt": "145115",
+      "uefa": "250014313",
+      "wikidata": "Q275986",
+      "worldfootball": "valon-berisha",
+      "wyscout": "54587"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2022-06-02",
+  "playerKey": "valon-berisha",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2022-06-02",
+      "goalId": "goal-2022-06-02-cyprus-kosovo-42478",
+      "matchKey": "2022-06-02-cyprus-kosovo",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valon Berisha"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-england-kosovo-39020",
+      "matchKey": "2019-09-10-england-kosovo",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valon Berisha"
+    },
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-england-kosovo-39014",
+      "matchKey": "2019-09-10-england-kosovo",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Valon Berisha"
+    },
+    {
+      "date": "2016-09-05",
+      "goalId": "goal-2016-09-05-finland-kosovo-36043",
+      "matchKey": "2016-09-05-finland-kosovo",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Valon Berisha"
+    }
+  ],
+  "scorer": "Valon Berisha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "kosovo",
+  "teamName": "Kosovo",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

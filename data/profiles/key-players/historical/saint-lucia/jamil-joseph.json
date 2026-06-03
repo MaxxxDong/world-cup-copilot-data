@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2011-07-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1991-01-17",
+    "nationality": "Saint Lucia",
+    "playerKey": "jamil-joseph",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "0c579d93",
+      "footballdatabase_eu": "117899",
+      "national_football_teams": "44008",
+      "soccerway": "195415",
+      "transfermarkt": "192336",
+      "wikidata": "Q3161568"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-12",
+  "playerKey": "jamil-joseph",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30699",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamil Joseph"
+    },
+    {
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30697",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamil Joseph"
+    },
+    {
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30696",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamil Joseph"
+    }
+  ],
+  "scorer": "Jamil Joseph",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-lucia",
+  "teamName": "Saint Lucia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

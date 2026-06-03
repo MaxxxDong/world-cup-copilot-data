@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1973-03-11",
+      "goalId": "goal-1973-03-11-indonesia-new-zealand-6591",
+      "homeTeamId": "indonesia",
+      "matchKey": "1973-03-11-indonesia-new-zealand",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sarman Panggabean",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "indonesia"
+    },
+    {
+      "awayTeamId": "indonesia",
+      "date": "1973-03-21",
+      "goalId": "goal-1973-03-21-iraq-indonesia-6608",
+      "homeTeamId": "iraq",
+      "matchKey": "1973-03-21-iraq-indonesia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sarman Panggabean",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "indonesia"
+    }
+  ],
+  "normalizedScorer": "sarman panggabean",
+  "playerKey": "sarman-panggabean",
+  "scorer": "Sarman Panggabean",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "indonesia"
+  ]
+}

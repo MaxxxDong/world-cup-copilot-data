@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-liechtenstein-denmark-26461",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2006-10-11-liechtenstein-denmark",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Jensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-portugal-denmark-28527",
+      "homeTeamId": "portugal",
+      "matchKey": "2008-09-10-portugal-denmark",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Jensen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "daniel jensen",
+  "playerKey": "daniel-jensen",
+  "scorer": "Daniel Jensen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

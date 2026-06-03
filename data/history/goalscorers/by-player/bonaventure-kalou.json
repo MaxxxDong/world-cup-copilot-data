@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "civ",
+      "date": "2000-01-31",
+      "goalId": "goal-2000-01-31-ghana-civ-19238",
+      "homeTeamId": "ghana",
+      "matchKey": "2000-01-31-ghana-civ",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bonaventure Kalou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "2000-06-18",
+      "goalId": "goal-2000-06-18-civ-tunisia-19745",
+      "homeTeamId": "civ",
+      "matchKey": "2000-06-18-civ-tunisia",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bonaventure Kalou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "benin",
+      "date": "2005-03-27",
+      "goalId": "goal-2005-03-27-civ-benin-25092",
+      "homeTeamId": "civ",
+      "matchKey": "2005-03-27-civ-benin",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bonaventure Kalou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2006-06-21",
+      "goalId": "goal-2006-06-21-civ-serbia-26179",
+      "homeTeamId": "civ",
+      "matchKey": "2006-06-21-civ-serbia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Bonaventure Kalou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "bonaventure kalou",
+  "playerKey": "bonaventure-kalou",
+  "scorer": "Bonaventure Kalou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

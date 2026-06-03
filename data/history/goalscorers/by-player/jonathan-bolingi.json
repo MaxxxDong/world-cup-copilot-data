@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "libya",
+      "date": "2016-10-08",
+      "goalId": "goal-2016-10-08-dr-congo-libya-36248",
+      "homeTeamId": "dr-congo",
+      "matchKey": "2016-10-08-dr-congo-libya",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Bolingi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "guinea",
+      "date": "2017-11-11",
+      "goalId": "goal-2017-11-11-dr-congo-guinea-37504",
+      "homeTeamId": "dr-congo",
+      "matchKey": "2017-11-11-dr-congo-guinea",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Jonathan Bolingi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "2019-06-30",
+      "goalId": "goal-2019-06-30-zimbabwe-dr-congo-38715",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "2019-06-30-zimbabwe-dr-congo",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Bolingi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "jonathan bolingi",
+  "playerKey": "jonathan-bolingi",
+  "scorer": "Jonathan Bolingi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kyrgyzstan",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-malaysia-kyrgyzstan-43879",
+      "homeTeamId": "malaysia",
+      "matchKey": "2023-11-16-malaysia-kyrgyzstan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Halim",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malaysia"
+    },
+    {
+      "awayTeamId": "malaysia",
+      "date": "2024-01-25",
+      "goalId": "goal-2024-01-25-south-korea-malaysia-44366",
+      "homeTeamId": "south-korea",
+      "matchKey": "2024-01-25-south-korea-malaysia",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Halim",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malaysia"
+    }
+  ],
+  "normalizedScorer": "faisal halim",
+  "playerKey": "faisal-halim",
+  "scorer": "Faisal Halim",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malaysia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "algeria",
+      "date": "2008-06-14",
+      "goalId": "goal-2008-06-14-gambia-algeria-27961",
+      "homeTeamId": "gambia",
+      "matchKey": "2008-06-14-gambia-algeria",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tijan Jaiteh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    },
+    {
+      "awayTeamId": "gambia",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-senegal-gambia-28656",
+      "homeTeamId": "senegal",
+      "matchKey": "2008-10-11-senegal-gambia",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tijan Jaiteh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    }
+  ],
+  "normalizedScorer": "tijan jaiteh",
+  "playerKey": "tijan-jaiteh",
+  "scorer": "Tijan Jaiteh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gambia"
+  ]
+}

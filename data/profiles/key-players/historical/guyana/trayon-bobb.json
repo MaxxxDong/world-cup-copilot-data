@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2012-09-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-11-05",
+    "nationality": "Guyana",
+    "playerKey": "trayon-bobb",
+    "position": "midfielder",
+    "providerIds": {
+      "espn": "166231",
+      "fbref": "652acffb",
+      "footballdatabase_eu": "147674",
+      "national_football_teams": "44800",
+      "soccerway": "158156",
+      "sofifa": "347665",
+      "transfermarkt": "220552",
+      "wikidata": "Q6152045"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2012-09-07",
+  "playerKey": "trayon-bobb",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-el-salvador-guyana-32063",
+      "matchKey": "2012-09-07-el-salvador-guyana",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trayon Bobb"
+    },
+    {
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-el-salvador-guyana-32061",
+      "matchKey": "2012-09-07-el-salvador-guyana",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Trayon Bobb"
+    }
+  ],
+  "scorer": "Trayon Bobb",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

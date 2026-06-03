@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1965-12-01",
+      "goalId": "goal-1965-12-01-wales-denmark-4610",
+      "homeTeamId": "wales",
+      "matchKey": "1965-12-01-wales-denmark",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronnie Rees",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1968-02-28",
+      "goalId": "goal-1968-02-28-wales-northern-ireland-5139",
+      "homeTeamId": "wales",
+      "matchKey": "1968-02-28-wales-northern-ireland",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ronnie Rees",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "ronnie rees",
+  "playerKey": "ronnie-rees",
+  "scorer": "Ronnie Rees",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Bolivia"
+  ],
+  "allTime": {
+    "draws": 119,
+    "goalsAgainst": 1043,
+    "goalsFor": 545,
+    "losses": 294,
+    "matches": 532,
+    "wins": 119
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 9,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 34,
+      "goalsFor": 17,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 7,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "bolivia",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "iraq",
+      "matchId": "int-2026-03-31-iraq-bolivia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "suriname",
+      "date": "2026-03-26",
+      "homeScore": 2,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-03-26-bolivia-suriname",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "trinidad-and-tobago",
+      "date": "2026-03-15",
+      "homeScore": 3,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-03-15-bolivia-trinidad-and-tobago",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mex",
+      "date": "2026-01-25",
+      "homeScore": 0,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-01-25-bolivia-mex",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "panama",
+      "date": "2026-01-18",
+      "homeScore": 1,
+      "homeTeamId": "bolivia",
+      "matchId": "int-2026-01-18-bolivia-panama",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 77,
+      "goalsAgainst": 777,
+      "goalsFor": 381,
+      "losses": 209,
+      "matches": 367,
+      "wins": 81
+    },
+    "friendly": {
+      "draws": 42,
+      "goalsAgainst": 266,
+      "goalsFor": 164,
+      "losses": 85,
+      "matches": 165,
+      "wins": 38
+    },
+    "neutralVenue": {
+      "draws": 33,
+      "goalsAgainst": 340,
+      "goalsFor": 90,
+      "losses": 96,
+      "matches": 143,
+      "wins": 14
+    },
+    "nonNeutralVenue": {
+      "draws": 86,
+      "goalsAgainst": 703,
+      "goalsFor": 455,
+      "losses": 198,
+      "matches": 389,
+      "wins": 105
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 20,
+      "goalsFor": 1,
+      "losses": 5,
+      "matches": 6,
+      "wins": 0
+    }
+  },
+  "teamId": "bolivia",
+  "teamName": "Bolivia",
+  "topScorers": [
+    {
+      "goals": 25,
+      "playerKey": "marcelo-martins-moreno",
+      "scorer": "Marcelo Martins Moreno"
+    },
+    {
+      "goals": 17,
+      "playerKey": "joaqu-n-botero",
+      "scorer": "Joaquín Botero"
+    },
+    {
+      "goals": 13,
+      "playerKey": "erwin-s-nchez",
+      "scorer": "Erwin Sánchez"
+    },
+    {
+      "goals": 11,
+      "playerKey": "julio-c-sar-baldivieso",
+      "scorer": "Julio César Baldivieso"
+    },
+    {
+      "goals": 11,
+      "playerKey": "marco-etcheverry",
+      "scorer": "Marco Etcheverry"
+    },
+    {
+      "goals": 11,
+      "playerKey": "m-ximo-alc-cer",
+      "scorer": "Máximo Alcócer"
+    },
+    {
+      "goals": 10,
+      "playerKey": "juan-carlos-arce",
+      "scorer": "Juan Carlos Arce"
+    },
+    {
+      "goals": 9,
+      "playerKey": "v-ctor-ugarte",
+      "scorer": "Víctor Ugarte"
+    },
+    {
+      "goals": 8,
+      "playerKey": "carlos-aragon-s",
+      "scorer": "Carlos Aragonés"
+    },
+    {
+      "goals": 8,
+      "playerKey": "miguel-terceros",
+      "scorer": "Miguel Terceros"
+    }
+  ]
+}

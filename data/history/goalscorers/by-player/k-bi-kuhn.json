@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "northern-ireland",
+      "date": "1964-11-14",
+      "goalId": "goal-1964-11-14-switzerland-northern-ireland-4166",
+      "homeTeamId": "switzerland",
+      "matchKey": "1964-11-14-switzerland-northern-ireland",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Köbi Kuhn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1965-04-11",
+      "goalId": "goal-1965-04-11-albania-switzerland-4287",
+      "homeTeamId": "albania",
+      "matchKey": "1965-04-11-albania-switzerland",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Köbi Kuhn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "1965-05-02",
+      "goalId": "goal-1965-05-02-switzerland-albania-4308",
+      "homeTeamId": "switzerland",
+      "matchKey": "1965-05-02-switzerland-albania",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Köbi Kuhn",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "k bi kuhn",
+  "playerKey": "k-bi-kuhn",
+  "scorer": "Köbi Kuhn",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

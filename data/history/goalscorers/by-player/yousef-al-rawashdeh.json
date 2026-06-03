@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jordan",
+      "date": "2015-01-16",
+      "goalId": "goal-2015-01-16-palestine-jordan-34071",
+      "homeTeamId": "palestine",
+      "matchKey": "2015-01-16-palestine-jordan",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yousef Al-Rawashdeh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "bangladesh",
+      "date": "2016-03-24",
+      "goalId": "goal-2016-03-24-jordan-bangladesh-35591",
+      "homeTeamId": "jordan",
+      "matchKey": "2016-03-24-jordan-bangladesh",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yousef Al-Rawashdeh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "yousef al rawashdeh",
+  "playerKey": "yousef-al-rawashdeh",
+  "scorer": "Yousef Al-Rawashdeh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

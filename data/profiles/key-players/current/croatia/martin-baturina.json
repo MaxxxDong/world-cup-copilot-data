@@ -1,0 +1,81 @@
+{
+  "club": "Como (ITA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2003-02-16",
+    "nationality": "Croatia",
+    "playerKey": "martin-baturina",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "295026",
+      "capology": "martin-baturina-37668",
+      "espn": "311475",
+      "eu_football_info": "32560",
+      "fbref": "d1eda5f0",
+      "footballdatabase_eu": "441921",
+      "fotmob": "1215064",
+      "heimspiel": "606342",
+      "impect": "69083",
+      "kicker": "martin-baturina",
+      "lequipe": "85490",
+      "national_football_teams": "93011",
+      "opta": "7onr52be14is8cwcfd2k1i784",
+      "skillcorner": "35029",
+      "soccerbase": "136786",
+      "soccerway": "685172",
+      "sofascore": "1090019",
+      "thesportsdb": "34200040",
+      "transfermarkt": "580451",
+      "uefa": "250140940",
+      "wikidata": "Q107446975",
+      "worldfootball": "martin-baturina",
+      "wyscout": "547565"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Martin Baturina",
+  "playerKey": "martin-baturina",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-poland-croatia-45585",
+      "matchKey": "2024-10-15-poland-croatia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martin Baturina"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13"
+  },
+  "shirtNumber": 16,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "croatia",
+  "teamName": "Croatia"
+}

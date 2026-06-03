@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 8,
+    "teamAGoals": 5,
+    "teamAWins": 1,
+    "teamBGoals": 24,
+    "teamBWins": 7
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "senegal",
+    "date": "2021-10-12",
+    "homeScore": 1,
+    "homeTeamId": "namibia",
+    "matchId": "int-2021-10-12-namibia-senegal",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2001-03-10",
+      "homeScore": 4,
+      "homeTeamId": "senegal",
+      "matchId": "int-2001-03-10-senegal-namibia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "senegal",
+      "date": "2001-07-21",
+      "homeScore": 0,
+      "homeTeamId": "namibia",
+      "matchId": "int-2001-07-21-namibia-senegal",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "namibia",
+      "date": "2008-01-12",
+      "homeScore": 3,
+      "homeTeamId": "senegal",
+      "matchId": "int-2008-01-12-senegal-namibia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "senegal",
+      "date": "2015-09-05",
+      "homeScore": 0,
+      "homeTeamId": "namibia",
+      "matchId": "int-2015-09-05-namibia-senegal",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2016-09-03",
+      "homeScore": 2,
+      "homeTeamId": "senegal",
+      "matchId": "int-2016-09-03-senegal-namibia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "namibia",
+      "date": "2021-07-07",
+      "homeScore": 1,
+      "homeTeamId": "senegal",
+      "matchId": "int-2021-07-07-senegal-namibia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "COSAFA Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "namibia",
+      "date": "2021-10-09",
+      "homeScore": 4,
+      "homeTeamId": "senegal",
+      "matchId": "int-2021-10-09-senegal-namibia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "senegal",
+      "date": "2021-10-12",
+      "homeScore": 1,
+      "homeTeamId": "namibia",
+      "matchId": "int-2021-10-12-namibia-senegal",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "namibia__senegal",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 7,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 21,
+      "teamBWins": 6
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 6,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 20,
+      "teamBWins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "namibia",
+  "teamBId": "senegal"
+}

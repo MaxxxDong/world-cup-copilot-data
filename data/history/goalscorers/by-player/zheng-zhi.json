@@ -1,0 +1,126 @@
+{
+  "goalCount": 6,
+  "goals": [
+    {
+      "awayTeamId": "bahrain",
+      "date": "2004-07-17",
+      "goalId": "goal-2004-07-17-china-pr-bahrain-24110",
+      "homeTeamId": "china-pr",
+      "matchKey": "2004-07-17-china-pr-bahrain",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2004-07-30",
+      "goalId": "goal-2004-07-30-china-pr-iraq-24194",
+      "homeTeamId": "china-pr",
+      "matchKey": "2004-07-30-china-pr-iraq",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2004-07-30",
+      "goalId": "goal-2004-07-30-china-pr-iraq-24195",
+      "homeTeamId": "china-pr",
+      "matchKey": "2004-07-30-china-pr-iraq",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2008-02-06",
+      "goalId": "goal-2008-02-06-iraq-china-pr-27657",
+      "homeTeamId": "iraq",
+      "matchKey": "2008-02-06-iraq-china-pr",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "singapore",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-china-pr-singapore-30871",
+      "homeTeamId": "china-pr",
+      "matchKey": "2011-09-02-china-pr-singapore",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "china-pr",
+      "date": "2016-09-01",
+      "goalId": "goal-2016-09-01-south-korea-china-pr-35989",
+      "homeTeamId": "south-korea",
+      "matchKey": "2016-09-01-south-korea-china-pr",
+      "minute": 21,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Zheng Zhi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "south-korea"
+    }
+  ],
+  "normalizedScorer": "zheng zhi",
+  "playerKey": "zheng-zhi",
+  "scorer": "Zheng Zhi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr",
+    "south-korea"
+  ]
+}

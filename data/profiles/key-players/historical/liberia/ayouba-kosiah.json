@@ -1,0 +1,84 @@
+{
+  "firstGoalDate": "2025-09-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "2001-07-22",
+    "playerKey": "ayouba-kosiah",
+    "providerIds": {
+      "api_football": "325848",
+      "espn": "304476",
+      "footballdatabase_eu": "464884",
+      "heimspiel": "546205",
+      "impect": "117709",
+      "kicker": "ayouba-kosiah",
+      "national_football_teams": "83672",
+      "opta": "f07j2ge60cbdp3bcys4cx18iy",
+      "skillcorner": "61741",
+      "soccerway": "567703",
+      "sofascore": "1046939",
+      "thesportsdb": "34251789",
+      "transfermarkt": "596150",
+      "wikidata": "Q108169782",
+      "wyscout": "762614"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-09",
+  "playerKey": "ayouba-kosiah",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-09",
+      "goalId": "goal-2025-10-09-liberia-namibia-46957",
+      "matchKey": "2025-10-09-liberia-namibia",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ayouba Kosiah"
+    },
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-malawi-liberia-46778",
+      "matchKey": "2025-09-08-malawi-liberia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayouba Kosiah"
+    },
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-malawi-liberia-46777",
+      "matchKey": "2025-09-08-malawi-liberia",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ayouba Kosiah"
+    }
+  ],
+  "scorer": "Ayouba Kosiah",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liberia",
+  "teamName": "Liberia",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

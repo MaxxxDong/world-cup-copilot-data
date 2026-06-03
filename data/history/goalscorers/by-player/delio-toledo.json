@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "2000-06-03",
+      "goalId": "goal-2000-06-03-paraguay-ecuador-19669",
+      "homeTeamId": "paraguay",
+      "matchKey": "2000-06-03-paraguay-ecuador",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Delio Toledo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "delio toledo",
+  "playerKey": "delio-toledo",
+  "scorer": "Delio Toledo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "firstGoalDate": "2000-04-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1976-11-16",
+    "fullName": "Marlon Alex James",
+    "nationality": "Saint Vincent and the Grenadines",
+    "playerKey": "marlon-james",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "11086",
+      "national_football_teams": "5593",
+      "soccerway": "77913",
+      "sofifa": "158565",
+      "transfermarkt": "76511",
+      "wikidata": "Q6771939"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-06-20",
+  "playerKey": "marlon-james",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-06-20",
+      "goalId": "goal-2008-06-20-canada-saint-vincent-and-the-grenadines-28135",
+      "matchKey": "2008-06-20-canada-saint-vincent-and-the-grenadines",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon James"
+    },
+    {
+      "date": "2004-06-20",
+      "goalId": "goal-2004-06-20-saint-vincent-and-the-grenadines-nicaragua-23969",
+      "matchKey": "2004-06-20-saint-vincent-and-the-grenadines-nicaragua",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon James"
+    },
+    {
+      "date": "2000-10-08",
+      "goalId": "goal-2000-10-08-saint-vincent-and-the-grenadines-el-salvador-20150",
+      "matchKey": "2000-10-08-saint-vincent-and-the-grenadines-el-salvador",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon James"
+    },
+    {
+      "date": "2000-04-16",
+      "goalId": "goal-2000-04-16-saint-vincent-and-the-grenadines-saint-kitts-and-nevis-19533",
+      "matchKey": "2000-04-16-saint-vincent-and-the-grenadines-saint-kitts-and-nevis",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marlon James"
+    }
+  ],
+  "scorer": "Marlon James",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "saint-vincent-and-the-grenadines",
+  "teamName": "Saint Vincent and the Grenadines",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

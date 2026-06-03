@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iran",
+      "date": "2007-07-15",
+      "goalId": "goal-2007-07-15-china-pr-iran-26908",
+      "homeTeamId": "china-pr",
+      "matchKey": "2007-07-15-china-pr-iran",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ferydoon Zandi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "2008-06-07",
+      "goalId": "goal-2008-06-07-united-arab-emirates-iran-27878",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2008-06-07-united-arab-emirates-iran",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ferydoon Zandi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iran"
+    }
+  ],
+  "normalizedScorer": "ferydoon zandi",
+  "playerKey": "ferydoon-zandi",
+  "scorer": "Ferydoon Zandi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iran"
+  ]
+}

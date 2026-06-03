@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2002-02-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1979-03-18",
+    "nationality": "Mali",
+    "playerKey": "dramane-coulibaly",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "768f9fab",
+      "footballdatabase_eu": "5829",
+      "national_football_teams": "4193",
+      "soccerway": "37799",
+      "transfermarkt": "76266",
+      "wikidata": "Q3038925",
+      "worldfootball": "dramane-coulibaly"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2005-06-05",
+  "playerKey": "dramane-coulibaly",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2005-06-05",
+      "goalId": "goal-2005-06-05-mali-liberia-25305",
+      "matchKey": "2005-06-05-mali-liberia",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dramane Coulibaly"
+    },
+    {
+      "date": "2005-06-05",
+      "goalId": "goal-2005-06-05-mali-liberia-25304",
+      "matchKey": "2005-06-05-mali-liberia",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Dramane Coulibaly"
+    },
+    {
+      "date": "2002-02-03",
+      "goalId": "goal-2002-02-03-mali-rsa-22168",
+      "matchKey": "2002-02-03-mali-rsa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dramane Coulibaly"
+    }
+  ],
+  "scorer": "Dramane Coulibaly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mali",
+  "teamName": "Mali",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

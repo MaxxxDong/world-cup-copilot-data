@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2000-04-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1972-10-05",
+    "nationality": "France",
+    "playerKey": "jean-sebastien-bax",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "188c67d0",
+      "footballdatabase_eu": "15556",
+      "national_football_teams": "4332",
+      "sofascore": "1869953",
+      "sofifa": "177363",
+      "transfermarkt": "39569",
+      "wikidata": "Q2390901"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2000-04-23",
+  "playerKey": "jean-sebastien-bax",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2000-04-23",
+      "goalId": "goal-2000-04-23-egypt-mauritius-19594",
+      "matchKey": "2000-04-23-egypt-mauritius",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jean-Sebastien Bax"
+    }
+  ],
+  "scorer": "Jean-Sebastien Bax",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mauritius",
+  "teamName": "Mauritius",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

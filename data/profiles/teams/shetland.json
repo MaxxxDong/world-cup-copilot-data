@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Shetland"
+  ],
+  "allTime": {
+    "draws": 9,
+    "goalsAgainst": 113,
+    "goalsFor": 101,
+    "losses": 28,
+    "matches": 58,
+    "wins": 21
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 18,
+      "losses": 5,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 38,
+      "goalsFor": 41,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 13,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "shetland",
+      "date": "2025-07-17",
+      "homeScore": 3,
+      "homeTeamId": "orkney",
+      "matchId": "int-2025-07-17-orkney-shetland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "shetland",
+      "date": "2025-07-15",
+      "homeScore": 2,
+      "homeTeamId": "jersey",
+      "matchId": "int-2025-07-15-jersey-shetland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "shetland",
+      "date": "2025-07-13",
+      "homeScore": 0,
+      "homeTeamId": "gozo",
+      "matchId": "int-2025-07-13-gozo-shetland",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "greenland",
+      "date": "2023-07-13",
+      "homeScore": 5,
+      "homeTeamId": "shetland",
+      "matchId": "int-2023-07-13-shetland-greenland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "shetland",
+      "date": "2023-07-11",
+      "homeScore": 1,
+      "homeTeamId": "falkland-islands",
+      "matchId": "int-2023-07-11-falkland-islands-shetland",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 9,
+      "goalsAgainst": 113,
+      "goalsFor": 101,
+      "losses": 28,
+      "matches": 58,
+      "wins": 21
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 7,
+      "goalsAgainst": 93,
+      "goalsFor": 85,
+      "losses": 21,
+      "matches": 46,
+      "wins": 18
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 16,
+      "losses": 7,
+      "matches": 12,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "shetland",
+  "teamName": "Shetland",
+  "topScorers": []
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "myanmar",
+      "date": "2021-05-28",
+      "goalId": "goal-2021-05-28-japan-myanmar-40435",
+      "homeTeamId": "japan",
+      "matchKey": "2021-05-28-japan-myanmar",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ko Itakura",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2024-11-19",
+      "goalId": "goal-2024-11-19-china-pr-japan-45801",
+      "homeTeamId": "china-pr",
+      "matchKey": "2024-11-19-china-pr-japan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ko Itakura",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "ko itakura",
+  "playerKey": "ko-itakura",
+  "scorer": "Ko Itakura",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

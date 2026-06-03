@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "1991-05-22",
+      "goalId": "goal-1991-05-22-austria-faroe-islands-12788",
+      "homeTeamId": "austria",
+      "matchKey": "1991-05-22-austria-faroe-islands",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arnold Wetl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1995-11-15",
+      "goalId": "goal-1995-11-15-northern-ireland-austria-15696",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1995-11-15-northern-ireland-austria",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arnold Wetl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "austria"
+    },
+    {
+      "awayTeamId": "austria",
+      "date": "1999-03-27",
+      "goalId": "goal-1999-03-27-spain-austria-18675",
+      "homeTeamId": "spain",
+      "matchKey": "1999-03-27-spain-austria",
+      "minute": 76,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Arnold Wetl",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "arnold wetl",
+  "playerKey": "arnold-wetl",
+  "scorer": "Arnold Wetl",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "austria",
+    "spain"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "generatedFromMatchCount": 2,
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "aymara",
+      "date": "2022-06-18",
+      "homeScore": 3,
+      "homeTeamId": "mapuche",
+      "matchId": "int-2022-06-18-mapuche-aymara",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA South America Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maule-sur",
+      "date": "2022-06-17",
+      "homeScore": 0,
+      "homeTeamId": "mapuche",
+      "matchId": "int-2022-06-17-mapuche-maule-sur",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA South America Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teamId": "mapuche",
+  "windows": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 2,
+      "goalsFor": 3,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 0,
+      "goalsAgainst": 2,
+      "goalsFor": 3,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 2,
+      "goalsFor": 3,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    }
+  }
+}

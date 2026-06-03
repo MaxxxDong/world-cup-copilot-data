@@ -1,0 +1,92 @@
+{
+  "club": "Fulham FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1997-08-08",
+    "nationality": "United Kingdom",
+    "playerKey": "antonee-robinson",
+    "position": "full-back",
+    "providerIds": {
+      "11v11": "253799",
+      "api_football": "19549",
+      "espn": "222396",
+      "fbref": "289601e6",
+      "footballdatabase_eu": "302613",
+      "fotmob": "662428",
+      "heimspiel": "376379",
+      "impect": "26460",
+      "kicker": "antonee-robinson",
+      "national_football_teams": "71211",
+      "opta": "bgc1psqiv7vagmphfl920nbah",
+      "opta_numeric": "169528",
+      "premier_league": "14624",
+      "skillcorner": "17969",
+      "soccerbase": "85572",
+      "soccerway": "409164",
+      "sofascore": "803174",
+      "sportmonks": "581067",
+      "statmuse_pl": "482",
+      "transfermarkt": "349701",
+      "understat": "8940",
+      "whoscored": "306581",
+      "wikidata": "Q35778151",
+      "worldfootball": "antonee-robinson",
+      "wyscout": "383569"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Antonee Robinson",
+  "playerKey": "antonee-robinson",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2022-01-27",
+      "goalId": "goal-2022-01-27-usa-el-salvador-42245",
+      "matchKey": "2022-01-27-usa-el-salvador",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonee Robinson"
+    },
+    {
+      "date": "2021-09-08",
+      "goalId": "goal-2021-09-08-honduras-usa-41422",
+      "matchKey": "2021-09-08-honduras-usa",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Antonee Robinson"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1995-07-13",
+      "goalId": "goal-1995-07-13-peru-ecuador-15447",
+      "homeTeamId": "peru",
+      "matchKey": "1995-07-13-peru-ecuador",
+      "minute": 82,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Iván Hurtado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1997-07-06",
+      "goalId": "goal-1997-07-06-venezuela-ecuador-17512",
+      "homeTeamId": "venezuela",
+      "matchKey": "1997-07-06-venezuela-ecuador",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Iván Hurtado",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "iv n hurtado",
+  "playerKey": "iv-n-hurtado",
+  "scorer": "Iván Hurtado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador",
+    "peru"
+  ]
+}

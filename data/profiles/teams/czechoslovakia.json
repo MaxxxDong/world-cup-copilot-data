@@ -1,0 +1,245 @@
+{
+  "aliases": [
+    "Czechoslovakia"
+  ],
+  "allTime": {
+    "draws": 119,
+    "goalsAgainst": 721,
+    "goalsFor": 984,
+    "losses": 165,
+    "matches": 520,
+    "wins": 236
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 9,
+      "goalsFor": 21,
+      "losses": 1,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 8,
+      "goalsAgainst": 26,
+      "goalsFor": 34,
+      "losses": 6,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 4,
+      "goalsFor": 13,
+      "losses": 0,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "czechoslovakia",
+      "date": "1993-11-17",
+      "homeScore": 0,
+      "homeTeamId": "belgium",
+      "matchId": "int-1993-11-17-belgium-czechoslovakia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cyprus",
+      "date": "1993-10-27",
+      "homeScore": 3,
+      "homeTeamId": "czechoslovakia",
+      "matchId": "int-1993-10-27-czechoslovakia-cyprus",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "czechoslovakia",
+      "date": "1993-09-08",
+      "homeScore": 2,
+      "homeTeamId": "wales",
+      "matchId": "int-1993-09-08-wales-czechoslovakia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "czechoslovakia",
+      "date": "1993-06-16",
+      "homeScore": 0,
+      "homeTeamId": "faroe-islands",
+      "matchId": "int-1993-06-16-faroe-islands-czechoslovakia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "romania",
+      "date": "1993-06-02",
+      "homeScore": 5,
+      "homeTeamId": "czechoslovakia",
+      "matchId": "int-1993-06-02-czechoslovakia-romania",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "former_names.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 54,
+      "goalsAgainst": 274,
+      "goalsFor": 453,
+      "losses": 63,
+      "matches": 232,
+      "wins": 115
+    },
+    "friendly": {
+      "draws": 65,
+      "goalsAgainst": 447,
+      "goalsFor": 531,
+      "losses": 102,
+      "matches": 288,
+      "wins": 121
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 75,
+      "goalsFor": 100,
+      "losses": 21,
+      "matches": 54,
+      "wins": 23
+    },
+    "nonNeutralVenue": {
+      "draws": 109,
+      "goalsAgainst": 646,
+      "goalsFor": 884,
+      "losses": 144,
+      "matches": 466,
+      "wins": 213
+    },
+    "worldCup": {
+      "draws": 5,
+      "goalsAgainst": 45,
+      "goalsFor": 44,
+      "losses": 14,
+      "matches": 30,
+      "wins": 11
+    }
+  },
+  "teamId": "czechoslovakia",
+  "teamName": "Czechoslovakia",
+  "topScorers": [
+    {
+      "goals": 16,
+      "playerKey": "zden-k-nehoda",
+      "scorer": "Zdeněk Nehoda"
+    },
+    {
+      "goals": 11,
+      "playerKey": "anton-n-panenka",
+      "scorer": "Antonín Panenka"
+    },
+    {
+      "goals": 11,
+      "playerKey": "tom-skuhrav",
+      "scorer": "Tomáš Skuhravý"
+    },
+    {
+      "goals": 10,
+      "playerKey": "adolf-scherer",
+      "scorer": "Adolf Scherer"
+    },
+    {
+      "goals": 10,
+      "playerKey": "andrej-kva-k",
+      "scorer": "Andrej Kvašňák"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ladislav-v-zek",
+      "scorer": "Ladislav Vízek"
+    },
+    {
+      "goals": 9,
+      "playerKey": "old-ich-nejedl",
+      "scorer": "Oldřich Nejedlý"
+    },
+    {
+      "goals": 8,
+      "playerKey": "petr-jane-ka",
+      "scorer": "Petr Janečka"
+    },
+    {
+      "goals": 7,
+      "playerKey": "jozef-adamec",
+      "scorer": "Jozef Adamec"
+    },
+    {
+      "goals": 7,
+      "playerKey": "mari-n-masn",
+      "scorer": "Marián Masný"
+    }
+  ]
+}

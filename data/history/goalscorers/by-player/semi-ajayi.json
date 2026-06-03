@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "lesotho",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-nigeria-lesotho-43883",
+      "homeTeamId": "nigeria",
+      "matchKey": "2023-11-16-nigeria-lesotho",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Semi Ajayi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    },
+    {
+      "awayTeamId": "tanzania",
+      "date": "2025-12-23",
+      "goalId": "goal-2025-12-23-nigeria-tanzania-47446",
+      "homeTeamId": "nigeria",
+      "matchKey": "2025-12-23-nigeria-tanzania",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Semi Ajayi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "semi ajayi",
+  "playerKey": "semi-ajayi",
+  "scorer": "Semi Ajayi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria"
+  ]
+}

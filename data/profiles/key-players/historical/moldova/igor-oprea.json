@@ -1,0 +1,79 @@
+{
+  "firstGoalDate": "1994-09-07",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1969-10-05",
+    "nationality": "Soviet Union",
+    "playerKey": "igor-oprea",
+    "position": "midfielder",
+    "providerIds": {
+      "eu_football_info": "15654",
+      "fbref": "f2e0228e",
+      "footballdatabase_eu": "34097",
+      "kicker": "igor-oprea",
+      "national_football_teams": "16137",
+      "transfermarkt": "149172",
+      "uefa": "25501",
+      "wikidata": "Q1657764"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1998-09-05",
+  "playerKey": "igor-oprea",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1998-09-05",
+      "goalId": "goal-1998-09-05-finland-moldova-18398",
+      "matchKey": "1998-09-05-finland-moldova",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Oprea"
+    },
+    {
+      "date": "1998-09-05",
+      "goalId": "goal-1998-09-05-finland-moldova-18397",
+      "matchKey": "1998-09-05-finland-moldova",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Oprea"
+    },
+    {
+      "date": "1994-09-07",
+      "goalId": "goal-1994-09-07-georgia-moldova-14971",
+      "matchKey": "1994-09-07-georgia-moldova",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Igor Oprea"
+    }
+  ],
+  "scorer": "Igor Oprea",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "moldova",
+  "teamName": "Moldova",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

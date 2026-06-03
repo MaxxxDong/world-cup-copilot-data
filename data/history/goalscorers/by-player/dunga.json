@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1997-06-19",
+      "goalId": "goal-1997-06-19-bra-colombia-17403",
+      "homeTeamId": "bra",
+      "matchKey": "1997-06-19-bra-colombia",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dunga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "dunga",
+  "playerKey": "dunga",
+  "scorer": "Dunga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

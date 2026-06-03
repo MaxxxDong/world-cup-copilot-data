@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1996-12-21",
+      "goalId": "goal-1996-12-21-guatemala-usa-16699",
+      "homeTeamId": "guatemala",
+      "matchKey": "1996-12-21-guatemala-usa",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frankie Hejduk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "2007-06-21",
+      "goalId": "goal-2007-06-21-usa-canada-26769",
+      "homeTeamId": "usa",
+      "matchKey": "2007-06-21-usa-canada",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frankie Hejduk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "usa",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-el-salvador-usa-28884",
+      "homeTeamId": "el-salvador",
+      "matchKey": "2009-03-28-el-salvador-usa",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frankie Hejduk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "frankie hejduk",
+  "playerKey": "frankie-hejduk",
+  "scorer": "Frankie Hejduk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

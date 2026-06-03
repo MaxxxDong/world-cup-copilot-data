@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2011-07-03",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-08-04",
+    "nationality": "Philippines",
+    "playerKey": "phil-younghusband",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "e2cb074a",
+      "footballdatabase_eu": "67139",
+      "kicker": "philip-younghusband",
+      "national_football_teams": "13447",
+      "sofascore": "857283",
+      "sofifa": "345354",
+      "transfermarkt": "40055",
+      "wikidata": "Q240008"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-03",
+  "playerKey": "phil-younghusband",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-philippines-sri-lanka-30646",
+      "matchKey": "2011-07-03-philippines-sri-lanka",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Phil Younghusband"
+    },
+    {
+      "date": "2011-07-03",
+      "goalId": "goal-2011-07-03-philippines-sri-lanka-30644",
+      "matchKey": "2011-07-03-philippines-sri-lanka",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Phil Younghusband"
+    }
+  ],
+  "scorer": "Phil Younghusband",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "philippines",
+  "teamName": "Philippines",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

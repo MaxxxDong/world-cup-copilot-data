@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2004-05-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1985-03-02",
+    "nationality": "United States",
+    "playerKey": "natia-natia",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "3b237c9b",
+      "footballdatabase_eu": "201085",
+      "national_football_teams": "7571",
+      "sofascore": "1892964",
+      "sofifa": "213299",
+      "transfermarkt": "75277",
+      "wikidata": "Q1388311",
+      "worldfootball": "natia-natia"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-05-12",
+  "playerKey": "natia-natia",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-05-12",
+      "goalId": "goal-2004-05-12-american-samoa-vanuatu-23566",
+      "matchKey": "2004-05-12-american-samoa-vanuatu",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Natia Natia"
+    }
+  ],
+  "scorer": "Natia Natia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "american-samoa",
+  "teamName": "American Samoa",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

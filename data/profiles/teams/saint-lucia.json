@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Saint Lucia"
+  ],
+  "allTime": {
+    "draws": 33,
+    "goalsAgainst": 438,
+    "goalsFor": 327,
+    "losses": 117,
+    "matches": 230,
+    "wins": 80
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 0,
+      "goalsAgainst": 31,
+      "goalsFor": 9,
+      "losses": 7,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 45,
+      "goalsFor": 25,
+      "losses": 11,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 17,
+      "goalsFor": 4,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-lucia",
+      "date": "2026-03-27",
+      "homeScore": 6,
+      "homeTeamId": "azerbaijan",
+      "matchId": "int-2026-03-27-azerbaijan-saint-lucia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-lucia",
+      "date": "2025-11-15",
+      "homeScore": 3,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2025-11-15-saint-vincent-and-the-grenadines-saint-lucia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-lucia",
+      "date": "2025-11-12",
+      "homeScore": 3,
+      "homeTeamId": "cuba",
+      "matchId": "int-2025-11-12-cuba-saint-lucia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "barbados",
+      "date": "2025-06-10",
+      "homeScore": 2,
+      "homeTeamId": "saint-lucia",
+      "matchId": "int-2025-06-10-saint-lucia-barbados",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-lucia",
+      "date": "2025-06-06",
+      "homeScore": 4,
+      "homeTeamId": "curacao",
+      "matchId": "int-2025-06-06-curacao-saint-lucia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 25,
+      "goalsAgainst": 322,
+      "goalsFor": 264,
+      "losses": 82,
+      "matches": 172,
+      "wins": 65
+    },
+    "friendly": {
+      "draws": 8,
+      "goalsAgainst": 116,
+      "goalsFor": 63,
+      "losses": 35,
+      "matches": 58,
+      "wins": 15
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 122,
+      "goalsFor": 100,
+      "losses": 27,
+      "matches": 59,
+      "wins": 22
+    },
+    "nonNeutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 316,
+      "goalsFor": 227,
+      "losses": 90,
+      "matches": 171,
+      "wins": 58
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "saint-lucia",
+  "teamName": "Saint Lucia",
+  "topScorers": [
+    {
+      "goals": 5,
+      "playerKey": "earl-jean",
+      "scorer": "Earl Jean"
+    },
+    {
+      "goals": 3,
+      "playerKey": "caniggia-elva",
+      "scorer": "Caniggia Elva"
+    },
+    {
+      "goals": 3,
+      "playerKey": "cliff-magnam-valcin",
+      "scorer": "Cliff Magnam Valcin"
+    },
+    {
+      "goals": 3,
+      "playerKey": "jamil-joseph",
+      "scorer": "Jamil Joseph"
+    },
+    {
+      "goals": 3,
+      "playerKey": "titus-elva",
+      "scorer": "Titus Elva"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jarvin-skeete",
+      "scorer": "Jarvin Skeete"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kenwin-mcphee",
+      "scorer": "Kenwin McPhee"
+    },
+    {
+      "goals": 2,
+      "playerKey": "kurt-frederick",
+      "scorer": "Kurt Frederick"
+    },
+    {
+      "goals": 2,
+      "playerKey": "sheldon-emmanuel",
+      "scorer": "Sheldon Emmanuel"
+    },
+    {
+      "goals": 2,
+      "playerKey": "tremain-paul",
+      "scorer": "Tremain Paul"
+    }
+  ]
+}

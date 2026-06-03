@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "samoa",
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-vanuatu-samoa-31814",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2012-06-03-vanuatu-samoa",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brian Kaltak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2016-06-04",
+      "goalId": "goal-2016-06-04-fiji-vanuatu-35759",
+      "homeTeamId": "fiji",
+      "matchKey": "2016-06-04-fiji-vanuatu",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Brian Kaltak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "vanuatu"
+    },
+    {
+      "awayTeamId": "new-zealand",
+      "date": "2024-06-21",
+      "goalId": "goal-2024-06-21-vanuatu-new-zealand-45017",
+      "homeTeamId": "vanuatu",
+      "matchKey": "2024-06-21-vanuatu-new-zealand",
+      "minute": 27,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Brian Kaltak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-new-zealand-vanuatu-45670",
+      "homeTeamId": "new-zealand",
+      "matchKey": "2024-11-15-new-zealand-vanuatu",
+      "minute": 38,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Brian Kaltak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "brian kaltak",
+  "playerKey": "brian-kaltak",
+  "scorer": "Brian Kaltak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand",
+    "vanuatu"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2011-09-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-07-03",
+    "nationality": "United States",
+    "playerKey": "jamie-browne",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "11efbbda",
+      "footballdatabase_eu": "147688",
+      "national_football_teams": "16462",
+      "soccerway": "206263",
+      "sofascore": "792650",
+      "sofifa": "347433",
+      "transfermarkt": "209723",
+      "wikidata": "Q11716810"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-03-22",
+  "playerKey": "jamie-browne",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-03-22",
+      "goalId": "goal-2015-03-22-barbados-united-states-virgin-islands-34204",
+      "matchKey": "2015-03-22-barbados-united-states-virgin-islands",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamie Browne"
+    },
+    {
+      "date": "2011-09-06",
+      "goalId": "goal-2011-09-06-united-states-virgin-islands-antigua-and-barbuda-31086",
+      "matchKey": "2011-09-06-united-states-virgin-islands-antigua-and-barbuda",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jamie Browne"
+    }
+  ],
+  "scorer": "Jamie Browne",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "united-states-virgin-islands",
+  "teamName": "United States Virgin Islands",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "lithuania",
+      "date": "2023-11-16",
+      "goalId": "goal-2023-11-16-montenegro-lithuania-43880",
+      "homeTeamId": "montenegro",
+      "matchKey": "2023-11-16-montenegro-lithuania",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edvin Kuč",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "montenegro"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-montenegro-faroe-islands-46182",
+      "homeTeamId": "montenegro",
+      "matchKey": "2025-03-25-montenegro-faroe-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edvin Kuč",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "montenegro"
+    },
+    {
+      "awayTeamId": "montenegro",
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-croatia-montenegro-46747",
+      "homeTeamId": "croatia",
+      "matchKey": "2025-09-08-croatia-montenegro",
+      "minute": 85,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Edvin Kuč",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "edvin ku",
+  "playerKey": "edvin-ku",
+  "scorer": "Edvin Kuč",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia",
+    "montenegro"
+  ]
+}

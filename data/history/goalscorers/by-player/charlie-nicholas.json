@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "switzerland",
+      "date": "1983-03-30",
+      "goalId": "goal-1983-03-30-scotland-switzerland-9956",
+      "homeTeamId": "scotland",
+      "matchKey": "1983-03-30-scotland-switzerland",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Nicholas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "1983-10-12",
+      "goalId": "goal-1983-10-12-scotland-belgium-10114",
+      "homeTeamId": "scotland",
+      "matchKey": "1983-10-12-scotland-belgium",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Nicholas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "1984-10-17",
+      "goalId": "goal-1984-10-17-scotland-iceland-10368",
+      "homeTeamId": "scotland",
+      "matchKey": "1984-10-17-scotland-iceland",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charlie Nicholas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "charlie nicholas",
+  "playerKey": "charlie-nicholas",
+  "scorer": "Charlie Nicholas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

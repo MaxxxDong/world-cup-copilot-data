@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2005-03-29",
+      "goalId": "goal-2005-03-29-bolivia-venezuela-25103",
+      "homeTeamId": "bolivia",
+      "matchKey": "2005-03-29-bolivia-venezuela",
+      "minute": 2,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Alejandro Cichero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2007-06-30",
+      "goalId": "goal-2007-06-30-venezuela-peru-26800",
+      "homeTeamId": "venezuela",
+      "matchKey": "2007-06-30-venezuela-peru",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alejandro Cichero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "alejandro cichero",
+  "playerKey": "alejandro-cichero",
+  "scorer": "Alejandro Cichero",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia",
+    "venezuela"
+  ]
+}

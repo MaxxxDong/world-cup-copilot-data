@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2015-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1986-10-09",
+    "nationality": "United Kingdom",
+    "playerKey": "jordan-johnson",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "144997",
+      "kicker": "jordan-johnson",
+      "national_football_teams": "58614",
+      "opta": "b8mlsjo3h179a3ig62rij8qtx",
+      "soccerway": "161327",
+      "sofascore": "268839",
+      "transfermarkt": "238277",
+      "wikidata": "Q19874722"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-03-26",
+  "playerKey": "jordan-johnson",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-03-26",
+      "goalId": "goal-2015-03-26-dominica-british-virgin-islands-34225",
+      "matchKey": "2015-03-26-dominica-british-virgin-islands",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jordan Johnson"
+    }
+  ],
+  "scorer": "Jordan Johnson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "british-virgin-islands",
+  "teamName": "British Virgin Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

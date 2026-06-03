@@ -1,0 +1,100 @@
+{
+  "club": "Stade Reims (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2000-07-28",
+    "nationality": "Japan",
+    "playerKey": "keito-nakamura",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "272419",
+      "api_football": "33321",
+      "besoccer": "448584",
+      "capology": "keito-nakamura-36735",
+      "espn": "265953",
+      "fbref": "d97af612",
+      "footballdatabase_eu": "351177",
+      "heimspiel": "515594",
+      "impect": "27379",
+      "kicker": "keito-nakamura",
+      "lequipe": "76273",
+      "national_football_teams": "90508",
+      "opta": "8wq90yejo2ktnfuzrkju45all",
+      "skillcorner": "29153",
+      "soccerbase": "122596",
+      "soccerway": "479397",
+      "sofascore": "905352",
+      "sofifa": "405522",
+      "thesportsdb": "34170429",
+      "transfermarkt": "405397",
+      "uefa": "250162112",
+      "wikidata": "Q45819496",
+      "worldfootball": "keito-nakamura",
+      "wyscout": "499657"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Keito Nakamura",
+  "playerKey": "keito-nakamura",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-myanmar-japan-44681",
+      "matchKey": "2024-06-06-myanmar-japan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keito Nakamura"
+    },
+    {
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-myanmar-japan-44677",
+      "matchKey": "2024-06-06-myanmar-japan",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keito Nakamura"
+    },
+    {
+      "date": "2024-01-14",
+      "goalId": "goal-2024-01-14-japan-vietnam-44218",
+      "matchKey": "2024-01-14-japan-vietnam",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keito Nakamura"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+  },
+  "shirtNumber": 13,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "japan",
+  "teamName": "Japan"
+}

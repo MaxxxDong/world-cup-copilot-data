@@ -1,0 +1,101 @@
+{
+  "club": "Mamelodi Sundowns FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "1989-08-03",
+    "nationality": "South Africa",
+    "playerKey": "themba-zwane",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "3289",
+      "espn": "157046",
+      "fbref": "c6f21aa8",
+      "footballdatabase_eu": "151323",
+      "heimspiel": "259659",
+      "impect": "99900",
+      "kicker": "themba-zwane",
+      "national_football_teams": "55466",
+      "skillcorner": "22965",
+      "soccerway": "181748",
+      "sofascore": "559504",
+      "sofifa": "395984",
+      "thesportsdb": "34178378",
+      "transfermarkt": "176578",
+      "wikidata": "Q7781199",
+      "wyscout": "121571"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Themba Zwane",
+  "playerKey": "themba-zwane",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-06-07",
+      "goalId": "goal-2024-06-07-nigeria-rsa-44726",
+      "matchKey": "2024-06-07-nigeria-rsa",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Themba Zwane"
+    },
+    {
+      "date": "2024-01-21",
+      "goalId": "goal-2024-01-21-rsa-namibia-44312",
+      "matchKey": "2024-01-21-rsa-namibia",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Themba Zwane"
+    },
+    {
+      "date": "2024-01-21",
+      "goalId": "goal-2024-01-21-rsa-namibia-44311",
+      "matchKey": "2024-01-21-rsa-namibia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Themba Zwane"
+    },
+    {
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-rsa-burkina-faso-37370",
+      "matchKey": "2017-10-07-rsa-burkina-faso",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Themba Zwane"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1985-09-10",
+      "goalId": "goal-1985-09-10-wales-scotland-10935",
+      "homeTeamId": "wales",
+      "matchKey": "1985-09-10-wales-scotland",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Davie Cooper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1985-11-20",
+      "goalId": "goal-1985-11-20-scotland-australia-11107",
+      "homeTeamId": "scotland",
+      "matchKey": "1985-11-20-scotland-australia",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davie Cooper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1986-11-12",
+      "goalId": "goal-1986-11-12-scotland-luxembourg-11331",
+      "homeTeamId": "scotland",
+      "matchKey": "1986-11-12-scotland-luxembourg",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Davie Cooper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1986-11-12",
+      "goalId": "goal-1986-11-12-scotland-luxembourg-11332",
+      "homeTeamId": "scotland",
+      "matchKey": "1986-11-12-scotland-luxembourg",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Davie Cooper",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "davie cooper",
+  "playerKey": "davie-cooper",
+  "scorer": "Davie Cooper",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

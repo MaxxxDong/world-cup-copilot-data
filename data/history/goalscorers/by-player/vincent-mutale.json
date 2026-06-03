@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1996-01-27",
+      "goalId": "goal-1996-01-27-zambia-egypt-15827",
+      "homeTeamId": "zambia",
+      "matchKey": "1996-01-27-zambia-egypt",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Mutale",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "sudan",
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-zambia-sudan-16080",
+      "homeTeamId": "zambia",
+      "matchKey": "1996-06-16-zambia-sudan",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Mutale",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "vincent mutale",
+  "playerKey": "vincent-mutale",
+  "scorer": "Vincent Mutale",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

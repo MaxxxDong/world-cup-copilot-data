@@ -1,0 +1,90 @@
+{
+  "club": "Borussia Mönchengladbach (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1996-09-30",
+    "nationality": "Switzerland",
+    "playerKey": "nico-elvedi",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "2803",
+      "capology": "nico-elvedi-35338",
+      "espn": "212237",
+      "eu_football_info": "29405",
+      "fbref": "48035304",
+      "footballdatabase_eu": "206770",
+      "fotmob": "517346",
+      "heimspiel": "314055",
+      "impect": "568",
+      "kicker": "nico-elvedi",
+      "national_football_teams": "64423",
+      "opta": "8k5c8po5gx3vnxx36viq08xqt",
+      "skillcorner": "7965",
+      "soccerbase": "75685",
+      "soccerway": "272851",
+      "sofascore": "282229",
+      "sofifa": "398509",
+      "thesportsdb": "34169241",
+      "transfermarkt": "192635",
+      "uefa": "250055734",
+      "wikidata": "Q18637339",
+      "worldfootball": "nico-elvedi",
+      "wyscout": "236528"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nico Elvedi",
+  "playerKey": "nico-elvedi",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-08",
+      "goalId": "goal-2025-09-08-switzerland-slovenia-46785",
+      "matchKey": "2025-09-08-switzerland-slovenia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nico Elvedi"
+    },
+    {
+      "date": "2018-11-18",
+      "goalId": "goal-2018-11-18-switzerland-belgium-37999",
+      "matchKey": "2018-11-18-switzerland-belgium",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nico Elvedi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "switzerland",
+  "teamName": "Switzerland"
+}

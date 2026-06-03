@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Slovenia"
+  ],
+  "allTime": {
+    "draws": 85,
+    "goalsAgainst": 369,
+    "goalsFor": 390,
+    "losses": 116,
+    "matches": 315,
+    "wins": 114
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 12,
+      "goalsFor": 9,
+      "losses": 3,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 9,
+      "goalsAgainst": 21,
+      "goalsFor": 17,
+      "losses": 5,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 4,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "slovenia",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "montenegro",
+      "matchId": "int-2026-03-31-montenegro-slovenia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "slovenia",
+      "date": "2026-03-28",
+      "homeScore": 1,
+      "homeTeamId": "hungary",
+      "matchId": "int-2026-03-28-hungary-slovenia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "slovenia",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-2025-11-18-sweden-slovenia",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kosovo",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2025-11-15-slovenia-kosovo",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "switzerland",
+      "date": "2025-10-13",
+      "homeScore": 0,
+      "homeTeamId": "slovenia",
+      "matchId": "int-2025-10-13-slovenia-switzerland",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 60,
+      "goalsAgainst": 250,
+      "goalsFor": 272,
+      "losses": 77,
+      "matches": 216,
+      "wins": 79
+    },
+    "friendly": {
+      "draws": 25,
+      "goalsAgainst": 119,
+      "goalsFor": 118,
+      "losses": 39,
+      "matches": 99,
+      "wins": 35
+    },
+    "neutralVenue": {
+      "draws": 14,
+      "goalsAgainst": 43,
+      "goalsFor": 32,
+      "losses": 11,
+      "matches": 30,
+      "wins": 5
+    },
+    "nonNeutralVenue": {
+      "draws": 71,
+      "goalsAgainst": 326,
+      "goalsFor": 358,
+      "losses": 105,
+      "matches": 285,
+      "wins": 109
+    },
+    "worldCup": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 5,
+      "losses": 4,
+      "matches": 6,
+      "wins": 1
+    }
+  },
+  "teamId": "slovenia",
+  "teamName": "Slovenia",
+  "topScorers": [
+    {
+      "goals": 24,
+      "playerKey": "zlatko-zahovi",
+      "scorer": "Zlatko Zahovič"
+    },
+    {
+      "goals": 21,
+      "playerKey": "milivoje-novakovi",
+      "scorer": "Milivoje Novaković"
+    },
+    {
+      "goals": 14,
+      "playerKey": "benjamin-e-ko",
+      "scorer": "Benjamin Šeško"
+    },
+    {
+      "goals": 14,
+      "playerKey": "josip-ili-i",
+      "scorer": "Josip Iličić"
+    },
+    {
+      "goals": 10,
+      "playerKey": "ermin-iljak",
+      "scorer": "Ermin Šiljak"
+    },
+    {
+      "goals": 9,
+      "playerKey": "milenko-a-imovi",
+      "scorer": "Milenko Ačimovič"
+    },
+    {
+      "goals": 8,
+      "playerKey": "tim-matav",
+      "scorer": "Tim Matavž"
+    },
+    {
+      "goals": 7,
+      "playerKey": "andra-porar",
+      "scorer": "Andraž Šporar"
+    },
+    {
+      "goals": 7,
+      "playerKey": "bo-tjan-cesar",
+      "scorer": "Boštjan Cesar"
+    },
+    {
+      "goals": 6,
+      "playerKey": "benjamin-verbi",
+      "scorer": "Benjamin Verbič"
+    }
+  ]
+}

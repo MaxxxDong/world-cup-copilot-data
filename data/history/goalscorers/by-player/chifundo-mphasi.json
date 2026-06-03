@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malawi",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-liberia-malawi-43976",
+      "homeTeamId": "liberia",
+      "matchKey": "2023-11-17-liberia-malawi",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chifundo Mphasi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2024-06-06",
+      "goalId": "goal-2024-06-06-malawi-sao-tome-and-principe-44671",
+      "homeTeamId": "malawi",
+      "matchKey": "2024-06-06-malawi-sao-tome-and-principe",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chifundo Mphasi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    }
+  ],
+  "normalizedScorer": "chifundo mphasi",
+  "playerKey": "chifundo-mphasi",
+  "scorer": "Chifundo Mphasi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malawi"
+  ]
+}

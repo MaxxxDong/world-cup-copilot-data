@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "1990-03-03",
+      "goalId": "goal-1990-03-03-cameroon-zambia-12451",
+      "homeTeamId": "cameroon",
+      "matchKey": "1990-03-03-cameroon-zambia",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Webster Chikabala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    },
+    {
+      "awayTeamId": "zambia",
+      "date": "1990-03-15",
+      "goalId": "goal-1990-03-15-senegal-zambia-12469",
+      "homeTeamId": "senegal",
+      "matchKey": "1990-03-15-senegal-zambia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Webster Chikabala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zambia"
+    }
+  ],
+  "normalizedScorer": "webster chikabala",
+  "playerKey": "webster-chikabala",
+  "scorer": "Webster Chikabala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zambia"
+  ]
+}

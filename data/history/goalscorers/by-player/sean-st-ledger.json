@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-republic-of-ireland-italy-29647",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2009-10-10-republic-of-ireland-italy",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sean St Ledger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "2010-10-12",
+      "goalId": "goal-2010-10-12-slovakia-republic-of-ireland-30253",
+      "homeTeamId": "slovakia",
+      "matchKey": "2010-10-12-slovakia-republic-of-ireland",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sean St Ledger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-republic-of-ireland-croatia-31927",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2012-06-10-republic-of-ireland-croatia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sean St Ledger",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "sean st ledger",
+  "playerKey": "sean-st-ledger",
+  "scorer": "Sean St Ledger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

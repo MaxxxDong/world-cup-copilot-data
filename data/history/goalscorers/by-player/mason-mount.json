@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "england",
+      "date": "2019-11-17",
+      "goalId": "goal-2019-11-17-kosovo-england-39498",
+      "homeTeamId": "kosovo",
+      "matchKey": "2019-11-17-kosovo-england",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mason Mount",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2020-10-11",
+      "goalId": "goal-2020-10-11-england-belgium-39785",
+      "homeTeamId": "england",
+      "matchKey": "2020-10-11-england-belgium",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mason Mount",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2020-11-18",
+      "goalId": "goal-2020-11-18-england-iceland-40040",
+      "homeTeamId": "england",
+      "matchKey": "2020-11-18-england-iceland",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mason Mount",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "england",
+      "date": "2021-03-28",
+      "goalId": "goal-2021-03-28-albania-england-40241",
+      "homeTeamId": "albania",
+      "matchKey": "2021-03-28-albania-england",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mason Mount",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2022-09-26",
+      "goalId": "goal-2022-09-26-england-germany-42842",
+      "homeTeamId": "england",
+      "matchKey": "2022-09-26-england-germany",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mason Mount",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "mason mount",
+  "playerKey": "mason-mount",
+  "scorer": "Mason Mount",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

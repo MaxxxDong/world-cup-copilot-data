@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Namibia"
+  ],
+  "allTime": {
+    "draws": 80,
+    "goalsAgainst": 397,
+    "goalsFor": 273,
+    "losses": 129,
+    "matches": 279,
+    "wins": 70
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 16,
+      "goalsFor": 7,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 27,
+      "goalsFor": 10,
+      "losses": 11,
+      "matches": 20,
+      "wins": 2
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 0,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "comoros",
+      "date": "2026-03-28",
+      "homeScore": 0,
+      "homeTeamId": "namibia",
+      "matchId": "int-2026-03-28-namibia-comoros",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2026-03-25",
+      "homeScore": 2,
+      "homeTeamId": "kazakhstan",
+      "matchId": "int-2026-03-25-kazakhstan-namibia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2025-11-17",
+      "homeScore": 4,
+      "homeTeamId": "comoros",
+      "matchId": "int-2025-11-17-comoros-namibia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2025-11-14",
+      "homeScore": 1,
+      "homeTeamId": "comoros",
+      "matchId": "int-2025-11-14-comoros-namibia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "namibia",
+      "date": "2025-10-13",
+      "homeScore": 3,
+      "homeTeamId": "tunisia",
+      "matchId": "int-2025-10-13-tunisia-namibia",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 57,
+      "goalsAgainst": 313,
+      "goalsFor": 223,
+      "losses": 97,
+      "matches": 214,
+      "wins": 60
+    },
+    "friendly": {
+      "draws": 23,
+      "goalsAgainst": 84,
+      "goalsFor": 50,
+      "losses": 32,
+      "matches": 65,
+      "wins": 10
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 81,
+      "goalsFor": 73,
+      "losses": 26,
+      "matches": 67,
+      "wins": 20
+    },
+    "nonNeutralVenue": {
+      "draws": 59,
+      "goalsAgainst": 316,
+      "goalsFor": 200,
+      "losses": 103,
+      "matches": 212,
+      "wins": 50
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "namibia",
+  "teamName": "Namibia",
+  "topScorers": [
+    {
+      "goals": 8,
+      "playerKey": "peter-shalulile",
+      "scorer": "Peter Shalulile"
+    },
+    {
+      "goals": 5,
+      "playerKey": "eliphas-shivute",
+      "scorer": "Eliphas Shivute"
+    },
+    {
+      "goals": 4,
+      "playerKey": "gervatius-uri-khob",
+      "scorer": "Gervatius Uri Khob"
+    },
+    {
+      "goals": 4,
+      "playerKey": "razundara-tjikuzu",
+      "scorer": "Razundara Tjikuzu"
+    },
+    {
+      "goals": 4,
+      "playerKey": "rudolf-bester",
+      "scorer": "Rudolf Bester"
+    },
+    {
+      "goals": 3,
+      "playerKey": "lazarus-kaimbi",
+      "scorer": "Lazarus Kaimbi"
+    },
+    {
+      "goals": 3,
+      "playerKey": "wilko-risser",
+      "scorer": "Wilko Risser"
+    },
+    {
+      "goals": 2,
+      "playerKey": "brian-brendell",
+      "scorer": "Brian Brendell"
+    },
+    {
+      "goals": 2,
+      "playerKey": "joslin-kamatuka",
+      "scorer": "Joslin Kamatuka"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mohammed-ouseb",
+      "scorer": "Mohammed Ouseb"
+    }
+  ]
+}

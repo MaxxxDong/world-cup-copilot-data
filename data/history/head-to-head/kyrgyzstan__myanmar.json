@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 26,
+    "teamAWins": 5,
+    "teamBGoals": 5,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "kyrgyzstan",
+    "date": "2023-03-25",
+    "homeScore": 1,
+    "homeTeamId": "myanmar",
+    "matchId": "int-2023-03-25-myanmar-kyrgyzstan",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Tri Nation Tournament"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "2014-05-23",
+      "homeScore": 1,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2014-05-23-kyrgyzstan-myanmar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Challenge Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2017-10-10",
+      "homeScore": 2,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2017-10-10-myanmar-kyrgyzstan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "myanmar",
+      "date": "2018-03-22",
+      "homeScore": 5,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2018-03-22-kyrgyzstan-myanmar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "2019-10-10",
+      "homeScore": 7,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2019-10-10-kyrgyzstan-myanmar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 8,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2021-06-11",
+      "homeScore": 1,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2021-06-11-myanmar-kyrgyzstan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "myanmar",
+      "date": "2022-06-11",
+      "homeScore": 2,
+      "homeTeamId": "kyrgyzstan",
+      "matchId": "int-2022-06-11-kyrgyzstan-myanmar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kyrgyzstan",
+      "date": "2023-03-25",
+      "homeScore": 1,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2023-03-25-myanmar-kyrgyzstan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Tri Nation Tournament"
+    }
+  ],
+  "pairKey": "kyrgyzstan__myanmar",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 26,
+      "teamAWins": 5,
+      "teamBGoals": 5,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 15,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 11,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "kyrgyzstan",
+  "teamBId": "myanmar"
+}

@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "2009-06-20",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1983-11-13",
+    "nationality": "Mozambique",
+    "playerKey": "domingues",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "46262",
+      "espn": "108591",
+      "fbref": "c2a6f370",
+      "footballdatabase_eu": "36966",
+      "heimspiel": "74275",
+      "impect": "100819",
+      "kicker": "domingues",
+      "national_football_teams": "4543",
+      "skillcorner": "168253",
+      "soccerway": "62561",
+      "thesportsdb": "34228035",
+      "transfermarkt": "64298",
+      "wikidata": "Q2784086",
+      "wyscout": "121568"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-06-09",
+  "playerKey": "domingues",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-06-09",
+      "goalId": "goal-2013-06-09-guinea-mozambique-32841",
+      "matchKey": "2013-06-09-guinea-mozambique",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Domingues"
+    },
+    {
+      "date": "2011-11-15",
+      "goalId": "goal-2011-11-15-mozambique-comoros-31536",
+      "matchKey": "2011-11-15-mozambique-comoros",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domingues"
+    },
+    {
+      "date": "2009-06-20",
+      "goalId": "goal-2009-06-20-kenya-mozambique-29225",
+      "matchKey": "2009-06-20-kenya-mozambique",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Domingues"
+    }
+  ],
+  "scorer": "Domingues",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mozambique",
+  "teamName": "Mozambique",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "el-salvador",
+      "date": "1968-12-22",
+      "goalId": "goal-1968-12-22-suriname-el-salvador-5378",
+      "homeTeamId": "suriname",
+      "matchKey": "1968-12-22-suriname-el-salvador",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edwin Schal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "suriname",
+      "date": "1977-10-08",
+      "goalId": "goal-1977-10-08-guatemala-suriname-7984",
+      "homeTeamId": "guatemala",
+      "matchKey": "1977-10-08-guatemala-suriname",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Edwin Schal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    },
+    {
+      "awayTeamId": "suriname",
+      "date": "1977-10-15",
+      "goalId": "goal-1977-10-15-mex-suriname-8029",
+      "homeTeamId": "mex",
+      "matchKey": "1977-10-15-mex-suriname",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Edwin Schal",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "suriname"
+    }
+  ],
+  "normalizedScorer": "edwin schal",
+  "playerKey": "edwin-schal",
+  "scorer": "Edwin Schal",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "suriname"
+  ]
+}

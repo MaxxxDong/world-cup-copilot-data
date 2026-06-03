@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "singapore",
+      "date": "1985-05-25",
+      "goalId": "goal-1985-05-25-north-korea-singapore-10816",
+      "homeTeamId": "north-korea",
+      "matchKey": "1985-05-25-north-korea-singapore",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yun Jong-su",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1989-06-04",
+      "goalId": "goal-1989-06-04-japan-north-korea-12076",
+      "homeTeamId": "japan",
+      "matchKey": "1989-06-04-japan-north-korea",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yun Jong-su",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "vietnam",
+      "date": "1993-04-09",
+      "goalId": "goal-1993-04-09-north-korea-vietnam-13764",
+      "homeTeamId": "north-korea",
+      "matchKey": "1993-04-09-north-korea-vietnam",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yun Jong-su",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "yun jong su",
+  "playerKey": "yun-jong-su",
+  "scorer": "Yun Jong-su",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "tahiti",
+      "date": "2024-11-15",
+      "goalId": "goal-2024-11-15-samoa-tahiti-45683",
+      "homeTeamId": "samoa",
+      "matchKey": "2024-11-15-samoa-tahiti",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Benoît Mathon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2024-11-18",
+      "goalId": "goal-2024-11-18-tahiti-vanuatu-45777",
+      "homeTeamId": "tahiti",
+      "matchKey": "2024-11-18-tahiti-vanuatu",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Benoît Mathon",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    }
+  ],
+  "normalizedScorer": "beno t mathon",
+  "playerKey": "beno-t-mathon",
+  "scorer": "Benoît Mathon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tahiti"
+  ]
+}

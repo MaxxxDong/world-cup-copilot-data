@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "lesotho",
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-rsa-lesotho-46671",
+      "homeTeamId": "rsa",
+      "matchKey": "2025-09-05-rsa-lesotho",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rwanda",
+      "date": "2025-10-14",
+      "goalId": "goal-2025-10-14-rsa-rwanda-47209",
+      "homeTeamId": "rsa",
+      "matchKey": "2025-10-14-rsa-rwanda",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "angola",
+      "date": "2025-12-22",
+      "goalId": "goal-2025-12-22-rsa-angola-47442",
+      "homeTeamId": "rsa",
+      "matchKey": "2025-12-22-rsa-angola",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Oswin Appollis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2025-12-29",
+      "goalId": "goal-2025-12-29-zimbabwe-rsa-47495",
+      "homeTeamId": "zimbabwe",
+      "matchKey": "2025-12-29-zimbabwe-rsa",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Oswin Appollis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    }
+  ],
+  "normalizedScorer": "oswin appollis",
+  "playerKey": "oswin-appollis",
+  "scorer": "Oswin Appollis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rsa"
+  ]
+}

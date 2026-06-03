@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Honduras"
+  ],
+  "allTime": {
+    "draws": 161,
+    "goalsAgainst": 796,
+    "goalsFor": 909,
+    "losses": 211,
+    "matches": 619,
+    "wins": 247
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 5,
+      "goalsAgainst": 7,
+      "goalsFor": 10,
+      "losses": 2,
+      "matches": 10,
+      "wins": 3
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 22,
+      "goalsFor": 25,
+      "losses": 5,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 3,
+      "goalsAgainst": 4,
+      "goalsFor": 5,
+      "losses": 1,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "honduras",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "peru",
+      "matchId": "int-2026-03-31-peru-honduras",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "honduras",
+      "date": "2025-11-18",
+      "homeScore": 0,
+      "homeTeamId": "costa-rica",
+      "matchId": "int-2025-11-18-costa-rica-honduras",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "honduras",
+      "date": "2025-11-13",
+      "homeScore": 2,
+      "homeTeamId": "nicaragua",
+      "matchId": "int-2025-11-13-nicaragua-honduras",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "haiti",
+      "date": "2025-10-13",
+      "homeScore": 3,
+      "homeTeamId": "honduras",
+      "matchId": "int-2025-10-13-honduras-haiti",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "costa-rica",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "honduras",
+      "matchId": "int-2025-10-09-honduras-costa-rica",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 87,
+      "goalsAgainst": 507,
+      "goalsFor": 628,
+      "losses": 134,
+      "matches": 391,
+      "wins": 170
+    },
+    "friendly": {
+      "draws": 74,
+      "goalsAgainst": 289,
+      "goalsFor": 281,
+      "losses": 77,
+      "matches": 228,
+      "wins": 77
+    },
+    "neutralVenue": {
+      "draws": 56,
+      "goalsAgainst": 287,
+      "goalsFor": 318,
+      "losses": 76,
+      "matches": 217,
+      "wins": 85
+    },
+    "nonNeutralVenue": {
+      "draws": 105,
+      "goalsAgainst": 509,
+      "goalsFor": 591,
+      "losses": 135,
+      "matches": 402,
+      "wins": 162
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 14,
+      "goalsFor": 3,
+      "losses": 6,
+      "matches": 9,
+      "wins": 0
+    }
+  },
+  "teamId": "honduras",
+  "teamName": "Honduras",
+  "topScorers": [
+    {
+      "goals": 34,
+      "playerKey": "carlos-pav-n",
+      "scorer": "Carlos Pavón"
+    },
+    {
+      "goals": 22,
+      "playerKey": "carlo-costly",
+      "scorer": "Carlo Costly"
+    },
+    {
+      "goals": 15,
+      "playerKey": "amado-guevara",
+      "scorer": "Amado Guevara"
+    },
+    {
+      "goals": 14,
+      "playerKey": "jerry-bengtson",
+      "scorer": "Jerry Bengtson"
+    },
+    {
+      "goals": 13,
+      "playerKey": "romell-quioto",
+      "scorer": "Romell Quioto"
+    },
+    {
+      "goals": 12,
+      "playerKey": "eduardo-bennett",
+      "scorer": "Eduardo Bennett"
+    },
+    {
+      "goals": 12,
+      "playerKey": "milton-n-ez",
+      "scorer": "Milton Núñez"
+    },
+    {
+      "goals": 11,
+      "playerKey": "david-suazo",
+      "scorer": "David Suazo"
+    },
+    {
+      "goals": 8,
+      "playerKey": "julio-c-sar-de-le-n",
+      "scorer": "Julio César de León"
+    },
+    {
+      "goals": 8,
+      "playerKey": "nicol-s-suazo",
+      "scorer": "Nicolás Suazo"
+    }
+  ]
+}

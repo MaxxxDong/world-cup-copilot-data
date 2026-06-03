@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "2000-10-14",
+      "goalId": "goal-2000-10-14-saudi-arabia-japan-20213",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2000-10-14-saudi-arabia-japan",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Ono",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "2001-05-31",
+      "goalId": "goal-2001-05-31-japan-canada-21244",
+      "homeTeamId": "japan",
+      "matchKey": "2001-05-31-japan-canada",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Ono",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-india-japan-24421",
+      "homeTeamId": "india",
+      "matchKey": "2004-09-08-india-japan",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Shinji Ono",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "shinji ono",
+  "playerKey": "shinji-ono",
+  "scorer": "Shinji Ono",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

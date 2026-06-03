@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2015-10-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1992-09-29",
+    "nationality": "Tajikistan",
+    "playerKey": "akhtam-nazarov",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "122506",
+      "espn": "168561",
+      "fbref": "b9007bf6",
+      "footballdatabase_eu": "162356",
+      "heimspiel": "267358",
+      "impect": "79011",
+      "kicker": "akhtam-nazarov",
+      "national_football_teams": "46922",
+      "skillcorner": "74177",
+      "soccerway": "182575",
+      "thesportsdb": "34228938",
+      "transfermarkt": "208885",
+      "wikidata": "Q10553630",
+      "wyscout": "142578"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-12",
+  "playerKey": "akhtam-nazarov",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-tajikistan-bangladesh-35333",
+      "matchKey": "2015-11-12-tajikistan-bangladesh",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Akhtam Nazarov"
+    },
+    {
+      "date": "2015-10-08",
+      "goalId": "goal-2015-10-08-kyrgyzstan-tajikistan-34993",
+      "matchKey": "2015-10-08-kyrgyzstan-tajikistan",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Akhtam Nazarov"
+    }
+  ],
+  "scorer": "Akhtam Nazarov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tajikistan",
+  "teamName": "Tajikistan",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-slovenia-estonia-30946",
+      "homeTeamId": "slovenia",
+      "matchKey": "2011-09-02-slovenia-estonia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ats Purje",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2014-09-08",
+      "goalId": "goal-2014-09-08-estonia-slovenia-33796",
+      "homeTeamId": "estonia",
+      "matchKey": "2014-09-08-estonia-slovenia",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ats Purje",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "ats purje",
+  "playerKey": "ats-purje",
+  "scorer": "Ats Purje",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

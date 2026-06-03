@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2018-09-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1991-08-24",
+    "nationality": "Liechtenstein",
+    "playerKey": "sandro-wolfinger",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "56148",
+      "espn": "178445",
+      "eu_football_info": "28436",
+      "fbref": "10f7ba8d",
+      "footballdatabase_eu": "194408",
+      "heimspiel": "301222",
+      "impect": "2602",
+      "kicker": "sandro-wolfinger",
+      "national_football_teams": "54132",
+      "soccerway": "134683",
+      "sofifa": "373300",
+      "thesportsdb": "34199122",
+      "transfermarkt": "203567",
+      "uefa": "106440",
+      "wikidata": "Q3948320",
+      "worldfootball": "sandro-wolfinger"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-09-08",
+  "playerKey": "sandro-wolfinger",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-09-08",
+      "goalId": "goal-2023-09-08-bosnia-and-herzegovina-liechtenstein-43468",
+      "matchKey": "2023-09-08-bosnia-and-herzegovina-liechtenstein",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sandro Wolfinger"
+    },
+    {
+      "date": "2018-09-06",
+      "goalId": "goal-2018-09-06-armenia-liechtenstein-37710",
+      "matchKey": "2018-09-06-armenia-liechtenstein",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sandro Wolfinger"
+    }
+  ],
+  "scorer": "Sandro Wolfinger",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "liechtenstein",
+  "teamName": "Liechtenstein",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

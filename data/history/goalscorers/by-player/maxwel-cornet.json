@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "2017-09-05",
+      "goalId": "goal-2017-09-05-civ-gabon-37227",
+      "homeTeamId": "civ",
+      "matchKey": "2017-09-05-civ-gabon",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maxwel Cornet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "2019-07-01",
+      "goalId": "goal-2019-07-01-namibia-civ-38726",
+      "homeTeamId": "namibia",
+      "matchKey": "2019-07-01-namibia-civ",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maxwel Cornet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "mozambique",
+      "date": "2021-11-13",
+      "goalId": "goal-2021-11-13-civ-mozambique-41958",
+      "homeTeamId": "civ",
+      "matchKey": "2021-11-13-civ-mozambique",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Maxwel Cornet",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "maxwel cornet",
+  "playerKey": "maxwel-cornet",
+  "scorer": "Maxwel Cornet",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

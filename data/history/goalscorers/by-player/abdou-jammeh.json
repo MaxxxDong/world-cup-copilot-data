@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2012-06-02",
+      "goalId": "goal-2012-06-02-gambia-mar-31769",
+      "homeTeamId": "gambia",
+      "matchKey": "2012-06-02-gambia-mar",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdou Jammeh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    },
+    {
+      "awayTeamId": "namibia",
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-gambia-namibia-35037",
+      "homeTeamId": "gambia",
+      "matchKey": "2015-10-09-gambia-namibia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdou Jammeh",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    }
+  ],
+  "normalizedScorer": "abdou jammeh",
+  "playerKey": "abdou-jammeh",
+  "scorer": "Abdou Jammeh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gambia"
+  ]
+}

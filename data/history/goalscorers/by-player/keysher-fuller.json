@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2021-10-13",
+      "goalId": "goal-2021-10-13-usa-costa-rica-41796",
+      "homeTeamId": "usa",
+      "matchKey": "2021-10-13-usa-costa-rica",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keysher Fuller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "2022-11-27",
+      "goalId": "goal-2022-11-27-japan-costa-rica-42957",
+      "homeTeamId": "japan",
+      "matchKey": "2022-11-27-japan-costa-rica",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Keysher Fuller",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "keysher fuller",
+  "playerKey": "keysher-fuller",
+  "scorer": "Keysher Fuller",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

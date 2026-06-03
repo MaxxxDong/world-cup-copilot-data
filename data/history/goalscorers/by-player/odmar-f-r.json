@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "2020-10-10",
+      "goalId": "goal-2020-10-10-faroe-islands-latvia-39766",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2020-10-10-faroe-islands-latvia",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Odmar Færø",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2023-06-20",
+      "goalId": "goal-2023-06-20-faroe-islands-albania-43314",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2023-06-20-faroe-islands-albania",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Odmar Færø",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "faroe-islands"
+    }
+  ],
+  "normalizedScorer": "odmar f r",
+  "playerKey": "odmar-f-r",
+  "scorer": "Odmar Færø",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "faroe-islands"
+  ]
+}

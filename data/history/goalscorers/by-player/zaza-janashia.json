@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "1999-03-27",
+      "goalId": "goal-1999-03-27-georgia-slovenia-18656",
+      "homeTeamId": "georgia",
+      "matchKey": "1999-03-27-georgia-slovenia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zaza Janashia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1999-04-28",
+      "goalId": "goal-1999-04-28-georgia-norway-18733",
+      "homeTeamId": "georgia",
+      "matchKey": "1999-04-28-georgia-norway",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zaza Janashia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "georgia"
+    }
+  ],
+  "normalizedScorer": "zaza janashia",
+  "playerKey": "zaza-janashia",
+  "scorer": "Zaza Janashia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "georgia"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "2025-10-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-09-02",
+    "playerKey": "hlompho-kalake",
+    "providerIds": {
+      "fbref": "23024f64",
+      "footballdatabase_eu": "263535",
+      "impect": "100939",
+      "national_football_teams": "59241",
+      "soccerway": "404815",
+      "transfermarkt": "394648",
+      "wikidata": "Q102299903"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-13",
+  "playerKey": "hlompho-kalake",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-lesotho-zimbabwe-47127",
+      "matchKey": "2025-10-13-lesotho-zimbabwe",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlompho Kalake"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-lesotho-nigeria-47009",
+      "matchKey": "2025-10-10-lesotho-nigeria",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlompho Kalake"
+    }
+  ],
+  "scorer": "Hlompho Kalake",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "lesotho",
+  "teamName": "Lesotho",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

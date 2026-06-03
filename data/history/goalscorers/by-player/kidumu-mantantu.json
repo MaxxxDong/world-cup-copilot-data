@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "senegal",
+      "date": "1968-01-16",
+      "goalId": "goal-1968-01-16-dr-congo-senegal-5110",
+      "homeTeamId": "dr-congo",
+      "matchKey": "1968-01-16-dr-congo-senegal",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kidumu Mantantu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1968-01-19",
+      "goalId": "goal-1968-01-19-ethiopia-dr-congo-5120",
+      "homeTeamId": "ethiopia",
+      "matchKey": "1968-01-19-ethiopia-dr-congo",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kidumu Mantantu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1974-03-09",
+      "goalId": "goal-1974-03-09-egypt-dr-congo-6982",
+      "homeTeamId": "egypt",
+      "matchKey": "1974-03-09-egypt-dr-congo",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kidumu Mantantu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "dr-congo"
+    }
+  ],
+  "normalizedScorer": "kidumu mantantu",
+  "playerKey": "kidumu-mantantu",
+  "scorer": "Kidumu Mantantu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "dr-congo"
+  ]
+}

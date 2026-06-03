@@ -1,0 +1,18 @@
+{
+  "duplicateFifaCodes": [],
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "guidance": {
+    "matchDetection": "Prefer registry/high teams and aliases. Treat inferred/low teams and duplicate FIFA codes as fallback-only signals.",
+    "rosterProfiles": "Do not generate official roster or key-player profile facts for unresolved teams without a roster sourceRef.",
+    "sourceUpgrade": "Use this file to prioritize Wikidata/FIFA ID reconciliation and registry expansion before promoting a team to registry/high."
+  },
+  "lowConfidenceTeams": [],
+  "missingSourceRefTeamIds": [],
+  "purpose": "Machine-readable identity quality gaps for extension UI, package QA, and agent routing.",
+  "summary": {
+    "duplicateFifaCodeCount": 0,
+    "lowConfidenceTeamCount": 0,
+    "missingSourceRefTeamCount": 0,
+    "realTeamCount": 336
+  }
+}

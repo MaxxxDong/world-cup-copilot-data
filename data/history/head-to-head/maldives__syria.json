@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 7,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 39,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "syria",
+    "date": "2021-06-04",
+    "homeScore": 0,
+    "homeTeamId": "maldives",
+    "matchId": "int-2021-06-04-maldives-syria",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "1997-06-04",
+      "homeScore": 12,
+      "homeTeamId": "syria",
+      "matchId": "int-1997-06-04-syria-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 12,
+      "awayTeamId": "syria",
+      "date": "1997-06-09",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-1997-06-09-maldives-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "maldives",
+      "date": "2000-04-04",
+      "homeScore": 6,
+      "homeTeamId": "syria",
+      "matchId": "int-2000-04-04-syria-maldives",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2000-04-09",
+      "homeScore": 2,
+      "homeTeamId": "syria",
+      "matchId": "int-2000-04-09-syria-maldives",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "syria",
+      "date": "2012-08-27",
+      "homeScore": 2,
+      "homeTeamId": "maldives",
+      "matchId": "int-2012-08-27-maldives-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Nehru Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "maldives",
+      "date": "2019-10-10",
+      "homeScore": 2,
+      "homeTeamId": "syria",
+      "matchId": "int-2019-10-10-syria-maldives",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "syria",
+      "date": "2021-06-04",
+      "homeScore": 0,
+      "homeTeamId": "maldives",
+      "matchId": "int-2021-06-04-maldives-syria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "maldives__syria",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 7,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 39,
+      "teamBWins": 6
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 21,
+      "teamBWins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "maldives",
+  "teamBId": "syria"
+}

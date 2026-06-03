@@ -1,0 +1,86 @@
+{
+  "club": "FC Twente (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1998-05-26",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "ramiz-zerrouki",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "129047",
+      "capology": "ramiz-zerrouki-35941",
+      "espn": "290517",
+      "fbref": "c762b1a6",
+      "footballdatabase_eu": "389843",
+      "heimspiel": "510354",
+      "impect": "51819",
+      "kicker": "ramiz-zerrouki",
+      "national_football_teams": "81958",
+      "opta": "dc119ejc7lls2rd3ywigl2smi",
+      "skillcorner": "29155",
+      "soccerway": "621348",
+      "sofascore": "989882",
+      "thesportsdb": "34176063",
+      "transfermarkt": "416660",
+      "uefa": "250174849",
+      "wikidata": "Q73149048",
+      "worldfootball": "ramiz-zerrouki",
+      "wyscout": "632105"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ramiz Zerrouki",
+  "playerKey": "ramiz-zerrouki",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2023-11-19",
+      "goalId": "goal-2023-11-19-mozambique-algeria-44045",
+      "matchKey": "2023-11-19-mozambique-algeria",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramiz Zerrouki"
+    },
+    {
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-algeria-djibouti-41145",
+      "matchKey": "2021-09-02-algeria-djibouti",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramiz Zerrouki"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 6,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

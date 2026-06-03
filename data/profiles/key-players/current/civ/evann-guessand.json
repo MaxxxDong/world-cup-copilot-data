@@ -1,0 +1,102 @@
+{
+  "club": "Crystal Palace FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2001-07-01",
+    "nationality": "Ivory Coast",
+    "playerKey": "evann-guessand",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "137303",
+      "espn": "288924",
+      "fbref": "b73f17f8",
+      "fff_fr": "9439-guessand-evann",
+      "footballdatabase_eu": "318228",
+      "fotmob": "1087966",
+      "heimspiel": "536977",
+      "impect": "55830",
+      "kicker": "evann-guessand",
+      "lequipe": "69899",
+      "national_football_teams": "95197",
+      "opta": "7k0r5crdh9blj3edt31zwy0dm",
+      "opta_numeric": "485337",
+      "skillcorner": "23201",
+      "soccerbase": "124994",
+      "soccerway": "542649",
+      "sofascore": "930245",
+      "sportmonks": "21782219",
+      "thesportsdb": "34194251",
+      "transfermarkt": "500689",
+      "uefa": "250117945",
+      "understat": "8006",
+      "whoscored": "382587",
+      "wikidata": "Q98593672",
+      "worldfootball": "evann-guessand",
+      "wyscout": "583051"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Evann Guessand",
+  "playerKey": "evann-guessand",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-31",
+      "goalId": "goal-2025-12-31-gabon-civ-47515",
+      "matchKey": "2025-12-31-gabon-civ",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evann Guessand"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-seychelles-civ-47016",
+      "matchKey": "2025-10-10-seychelles-civ",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evann Guessand"
+    },
+    {
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-burundi-civ-45954",
+      "matchKey": "2025-03-21-burundi-civ",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Evann Guessand"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+  },
+  "shirtNumber": 22,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "civ",
+  "teamName": "Cote d'Ivoire"
+}

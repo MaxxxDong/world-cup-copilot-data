@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "saint-lucia",
+      "date": "2011-07-08",
+      "goalId": "goal-2011-07-08-aruba-saint-lucia-30665",
+      "homeTeamId": "aruba",
+      "matchKey": "2011-07-08-aruba-saint-lucia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frederick Gomez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "aruba"
+    },
+    {
+      "awayTeamId": "aruba",
+      "date": "2011-07-12",
+      "goalId": "goal-2011-07-12-saint-lucia-aruba-30698",
+      "homeTeamId": "saint-lucia",
+      "matchKey": "2011-07-12-saint-lucia-aruba",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Frederick Gomez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "aruba"
+    }
+  ],
+  "normalizedScorer": "frederick gomez",
+  "playerKey": "frederick-gomez",
+  "scorer": "Frederick Gomez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "aruba"
+  ]
+}

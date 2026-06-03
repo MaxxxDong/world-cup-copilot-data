@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 6,
+    "teamAGoals": 2,
+    "teamAWins": 1,
+    "teamBGoals": 10,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "palestine",
+    "date": "2024-01-07",
+    "homeScore": 1,
+    "homeTeamId": "uzbekistan",
+    "matchId": "int-2024-01-07-uzbekistan-palestine",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2004-06-09",
+      "homeScore": 3,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2004-06-09-uzbekistan-palestine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "uzbekistan",
+      "date": "2004-09-08",
+      "homeScore": 0,
+      "homeTeamId": "palestine",
+      "matchId": "int-2004-09-08-palestine-uzbekistan",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2014-12-13",
+      "homeScore": 1,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2014-12-13-uzbekistan-palestine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "uzbekistan",
+      "date": "2019-09-05",
+      "homeScore": 2,
+      "homeTeamId": "palestine",
+      "matchId": "int-2019-09-05-palestine-uzbekistan",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2019-11-19",
+      "homeScore": 2,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2019-11-19-uzbekistan-palestine",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "palestine",
+      "date": "2024-01-07",
+      "homeScore": 1,
+      "homeTeamId": "uzbekistan",
+      "matchId": "int-2024-01-07-uzbekistan-palestine",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "palestine__uzbekistan",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 3
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "palestine",
+  "teamBId": "uzbekistan"
+}

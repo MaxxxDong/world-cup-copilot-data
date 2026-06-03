@@ -1,0 +1,84 @@
+{
+  "firstGoalDate": "2015-03-25",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1994-06-04",
+    "nationality": "United Kingdom",
+    "playerKey": "zeiko-lewis",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "71043",
+      "espn": "166087",
+      "fbref": "ad68acb3",
+      "footballdatabase_eu": "147672",
+      "heimspiel": "266601",
+      "impect": "18224",
+      "national_football_teams": "44868",
+      "opta": "6sqbbasqmtyfmsrp0ba64xxp1",
+      "soccerway": "137855",
+      "thesportsdb": "34247050",
+      "transfermarkt": "220574",
+      "wikidata": "Q4024083",
+      "wyscout": "141263"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-06-04",
+  "playerKey": "zeiko-lewis",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-06-04",
+      "goalId": "goal-2025-06-04-bermuda-cayman-islands-46207",
+      "matchKey": "2025-06-04-bermuda-cayman-islands",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Zeiko Lewis"
+    },
+    {
+      "date": "2024-06-09",
+      "goalId": "goal-2024-06-09-bermuda-honduras-44776",
+      "matchKey": "2024-06-09-bermuda-honduras",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zeiko Lewis"
+    },
+    {
+      "date": "2015-03-25",
+      "goalId": "goal-2015-03-25-bahamas-bermuda-34220",
+      "matchKey": "2015-03-25-bahamas-bermuda",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zeiko Lewis"
+    }
+  ],
+  "scorer": "Zeiko Lewis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bermuda",
+  "teamName": "Bermuda",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

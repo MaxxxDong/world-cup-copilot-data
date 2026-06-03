@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "iceland",
+      "date": "1979-05-22",
+      "goalId": "goal-1979-05-22-switzerland-iceland-8482",
+      "homeTeamId": "switzerland",
+      "matchKey": "1979-05-22-switzerland-iceland",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gianpetro Zappa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    },
+    {
+      "awayTeamId": "switzerland",
+      "date": "1981-10-10",
+      "goalId": "goal-1981-10-10-romania-switzerland-9475",
+      "homeTeamId": "romania",
+      "matchKey": "1981-10-10-romania-switzerland",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gianpetro Zappa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "switzerland"
+    }
+  ],
+  "normalizedScorer": "gianpetro zappa",
+  "playerKey": "gianpetro-zappa",
+  "scorer": "Gianpetro Zappa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "switzerland"
+  ]
+}

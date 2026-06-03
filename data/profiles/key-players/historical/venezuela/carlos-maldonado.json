@@ -1,0 +1,85 @@
+{
+  "firstGoalDate": "1989-07-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1963-07-30",
+    "nationality": "Venezuela",
+    "playerKey": "carlos-maldonado",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "59152",
+      "national_football_teams": "18662",
+      "transfermarkt": "351365",
+      "wikidata": "Q1986493",
+      "worldfootball": "carlos-maldonado"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1989-07-05",
+  "playerKey": "carlos-maldonado",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1989-07-05",
+      "goalId": "goal-1989-07-05-peru-venezuela-12172",
+      "matchKey": "1989-07-05-peru-venezuela",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado"
+    },
+    {
+      "date": "1989-07-03",
+      "goalId": "goal-1989-07-03-venezuela-colombia-12167",
+      "matchKey": "1989-07-03-venezuela-colombia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado"
+    },
+    {
+      "date": "1989-07-03",
+      "goalId": "goal-1989-07-03-venezuela-colombia-12165",
+      "matchKey": "1989-07-03-venezuela-colombia",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado"
+    },
+    {
+      "date": "1989-07-01",
+      "goalId": "goal-1989-07-01-bra-venezuela-12147",
+      "matchKey": "1989-07-01-bra-venezuela",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Maldonado"
+    }
+  ],
+  "scorer": "Carlos Maldonado",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "venezuela",
+  "teamName": "Venezuela",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

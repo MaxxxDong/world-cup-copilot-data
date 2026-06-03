@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2007-10-17",
+      "goalId": "goal-2007-10-17-albania-bulgaria-27185",
+      "homeTeamId": "albania",
+      "matchKey": "2007-10-17-albania-bulgaria",
+      "minute": 32,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Radostin Kishishev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "albania"
+    },
+    {
+      "awayTeamId": "montenegro",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-bulgaria-montenegro-29366",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2009-09-05-bulgaria-montenegro",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Radostin Kishishev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "radostin kishishev",
+  "playerKey": "radostin-kishishev",
+  "scorer": "Radostin Kishishev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "albania",
+    "bulgaria"
+  ]
+}

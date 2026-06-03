@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "1996-10-05",
+      "goalId": "goal-1996-10-05-ukraine-portugal-16311",
+      "homeTeamId": "ukraine",
+      "matchKey": "1996-10-05-ukraine-portugal",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuriy Maksymov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "ukraine",
+      "date": "1997-10-11",
+      "goalId": "goal-1997-10-11-armenia-ukraine-17805",
+      "homeTeamId": "armenia",
+      "matchKey": "1997-10-11-armenia-ukraine",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuriy Maksymov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    }
+  ],
+  "normalizedScorer": "yuriy maksymov",
+  "playerKey": "yuriy-maksymov",
+  "scorer": "Yuriy Maksymov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ukraine"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2004-10-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1978-08-24",
+    "nationality": "Sudan",
+    "playerKey": "faisal-agab",
+    "position": "midfielder",
+    "providerIds": {
+      "footballdatabase_eu": "11072",
+      "kicker": "faisal-agab",
+      "national_football_teams": "9515",
+      "transfermarkt": "66659",
+      "wikidata": "Q2746907"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "faisal-agab",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-sudan-congo-28663",
+      "matchKey": "2008-10-11-sudan-congo",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Agab"
+    },
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-chad-sudan-28462",
+      "matchKey": "2008-09-10-chad-sudan",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Faisal Agab"
+    },
+    {
+      "date": "2004-10-09",
+      "goalId": "goal-2004-10-09-sudan-cameroon-24624",
+      "matchKey": "2004-10-09-sudan-cameroon",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Faisal Agab"
+    }
+  ],
+  "scorer": "Faisal Agab",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sudan",
+  "teamName": "Sudan",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

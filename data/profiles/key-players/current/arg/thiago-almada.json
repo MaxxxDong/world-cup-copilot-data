@@ -1,0 +1,96 @@
+{
+  "club": "Atlético De Madrid (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "2001-04-26",
+    "nationality": "Argentina",
+    "playerKey": "thiago-almada",
+    "position": "inside forward",
+    "providerIds": {
+      "api_football": "6067",
+      "capology": "thiago-almada-37007",
+      "espn": "277208",
+      "fbref": "27f33438",
+      "footballdatabase_eu": "363139",
+      "heimspiel": "538539",
+      "impect": "46523",
+      "kicker": "thiago-almada",
+      "lequipe": "74575",
+      "national_football_teams": "88718",
+      "opta": "4ea0sjczqa5ah1w720zlakkfe",
+      "skillcorner": "26300",
+      "soccerbase": "146710",
+      "soccerway": "555904",
+      "sofascore": "944660",
+      "thesportsdb": "34197736",
+      "transfermarkt": "576028",
+      "wikidata": "Q57293140",
+      "worldfootball": "thiago-almada",
+      "wyscout": "578270"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Thiago Almada",
+  "playerKey": "thiago-almada",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-06-10",
+      "goalId": "goal-2025-06-10-arg-colombia-46357",
+      "matchKey": "2025-06-10-arg-colombia",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Almada"
+    },
+    {
+      "date": "2025-03-21",
+      "goalId": "goal-2025-03-21-uruguay-arg-45990",
+      "matchKey": "2025-03-21-uruguay-arg",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Almada"
+    },
+    {
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-arg-bolivia-45536",
+      "matchKey": "2024-10-15-arg-bolivia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thiago Almada"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+  },
+  "shirtNumber": 16,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "arg",
+  "teamName": "Argentina"
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "2022-06-09",
+      "goalId": "goal-2022-06-09-malta-estonia-42612",
+      "homeTeamId": "malta",
+      "matchKey": "2022-06-09-malta-estonia",
+      "minute": 56,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Karl Hein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malta"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2025-03-22",
+      "goalId": "goal-2025-03-22-israel-estonia-45995",
+      "homeTeamId": "israel",
+      "matchKey": "2025-03-22-israel-estonia",
+      "minute": 23,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Karl Hein",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "karl hein",
+  "playerKey": "karl-hein",
+  "scorer": "Karl Hein",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel",
+    "malta"
+  ]
+}

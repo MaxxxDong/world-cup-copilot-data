@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "jordan",
+      "date": "2001-04-27",
+      "goalId": "goal-2001-04-27-uzbekistan-jordan-21000",
+      "homeTeamId": "uzbekistan",
+      "matchKey": "2001-04-27-uzbekistan-jordan",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "2001-05-03",
+      "goalId": "goal-2001-05-03-jordan-taiwan-21033",
+      "homeTeamId": "jordan",
+      "matchKey": "2001-05-03-jordan-taiwan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "taiwan",
+      "date": "2001-05-03",
+      "goalId": "goal-2001-05-03-jordan-taiwan-21034",
+      "homeTeamId": "jordan",
+      "matchKey": "2001-05-03-jordan-taiwan",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Essam Abu Touk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "turkmenistan",
+      "date": "2001-05-05",
+      "goalId": "goal-2001-05-05-jordan-turkmenistan-21072",
+      "homeTeamId": "jordan",
+      "matchKey": "2001-05-05-jordan-turkmenistan",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Essam Abu Touk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    },
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "2001-05-07",
+      "goalId": "goal-2001-05-07-jordan-uzbekistan-21104",
+      "homeTeamId": "jordan",
+      "matchKey": "2001-05-07-jordan-uzbekistan",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Essam Abu Touk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "jordan"
+    }
+  ],
+  "normalizedScorer": "essam abu touk",
+  "playerKey": "essam-abu-touk",
+  "scorer": "Essam Abu Touk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "jordan"
+  ]
+}

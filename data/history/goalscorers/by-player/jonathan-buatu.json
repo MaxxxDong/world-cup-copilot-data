@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gabon",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-angola-gabon-41528",
+      "homeTeamId": "angola",
+      "matchKey": "2021-10-08-angola-gabon",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Buatu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    },
+    {
+      "awayTeamId": "angola",
+      "date": "2025-10-08",
+      "goalId": "goal-2025-10-08-eswatini-angola-46903",
+      "homeTeamId": "eswatini",
+      "matchKey": "2025-10-08-eswatini-angola",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jonathan Buatu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "angola"
+    }
+  ],
+  "normalizedScorer": "jonathan buatu",
+  "playerKey": "jonathan-buatu",
+  "scorer": "Jonathan Buatu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "angola"
+  ]
+}

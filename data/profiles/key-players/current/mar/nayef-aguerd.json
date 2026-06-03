@@ -1,0 +1,95 @@
+{
+  "club": "Olympique Marseille (FRA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1996-03-30",
+    "nationality": "Morocco",
+    "playerKey": "nayef-aguerd",
+    "position": "defender",
+    "providerIds": {
+      "11v11": "253686",
+      "api_football": "21694",
+      "capology": "nayef-aguerd-35154",
+      "espn": "245243",
+      "fbref": "288e1e13",
+      "footballdatabase_eu": "248629",
+      "fotmob": "617310",
+      "heimspiel": "470304",
+      "impect": "2376",
+      "kicker": "nayef-aguerd",
+      "lequipe": "69535",
+      "national_football_teams": "64996",
+      "opta": "3o0zpl9cnmna2hyk595ja0xrd",
+      "opta_numeric": "210494",
+      "premier_league": "108628",
+      "skillcorner": "12817",
+      "soccerbase": "112913",
+      "soccerway": "405620",
+      "sofascore": "877102",
+      "statmuse_pl": "7033",
+      "thesportsdb": "34165631",
+      "transfermarkt": "361914",
+      "uefa": "250101087",
+      "understat": "6935",
+      "whoscored": "362434",
+      "wikidata": "Q28872567",
+      "worldfootball": "nayef-aguerd",
+      "wyscout": "375011"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nayef Aguerd",
+  "playerKey": "nayef-aguerd",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-mar-tanzania-46183",
+      "matchKey": "2025-03-25-mar-tanzania",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nayef Aguerd"
+    },
+    {
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-mar-sudan-41190",
+      "matchKey": "2021-09-02-mar-sudan",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nayef Aguerd"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=29"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=29"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mar",
+  "teamName": "Morocco"
+}

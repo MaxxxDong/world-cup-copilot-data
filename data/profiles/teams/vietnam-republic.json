@@ -1,0 +1,221 @@
+{
+  "aliases": [
+    "Vietnam Republic"
+  ],
+  "allTime": {
+    "draws": 37,
+    "goalsAgainst": 312,
+    "goalsFor": 364,
+    "losses": 76,
+    "matches": 195,
+    "wins": 82
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 10,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 38,
+      "goalsFor": 29,
+      "losses": 10,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 12,
+      "goalsFor": 1,
+      "losses": 5,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam-republic",
+      "date": "1975-03-23",
+      "homeScore": 3,
+      "homeTeamId": "malaysia",
+      "matchId": "int-1975-03-23-malaysia-vietnam-republic",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam-republic",
+      "date": "1975-03-21",
+      "homeScore": 4,
+      "homeTeamId": "thailand",
+      "matchId": "int-1975-03-21-thailand-vietnam-republic",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam-republic",
+      "date": "1975-03-19",
+      "homeScore": 1,
+      "homeTeamId": "south-korea",
+      "matchId": "int-1975-03-19-south-korea-vietnam-republic",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "vietnam-republic",
+      "date": "1975-03-17",
+      "homeScore": 2,
+      "homeTeamId": "indonesia",
+      "matchId": "int-1975-03-17-indonesia-vietnam-republic",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "vietnam-republic",
+      "date": "1974-12-16",
+      "homeScore": 2,
+      "homeTeamId": "cambodia",
+      "matchId": "int-1974-12-16-cambodia-vietnam-republic",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "King's Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 32,
+      "goalsAgainst": 292,
+      "goalsFor": 335,
+      "losses": 71,
+      "matches": 177,
+      "wins": 74
+    },
+    "friendly": {
+      "draws": 5,
+      "goalsAgainst": 20,
+      "goalsFor": 29,
+      "losses": 5,
+      "matches": 18,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 25,
+      "goalsAgainst": 212,
+      "goalsFor": 228,
+      "losses": 51,
+      "matches": 123,
+      "wins": 47
+    },
+    "nonNeutralVenue": {
+      "draws": 12,
+      "goalsAgainst": 100,
+      "goalsFor": 136,
+      "losses": 25,
+      "matches": 72,
+      "wins": 35
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "vietnam-republic",
+  "teamName": "Vietnam Republic",
+  "topScorers": [
+    {
+      "goals": 3,
+      "playerKey": "l-h-u-c",
+      "scorer": "Lê Hữu Đức"
+    },
+    {
+      "goals": 2,
+      "playerKey": "tr-n-v-n-t-ng",
+      "scorer": "Trần Văn Tổng"
+    },
+    {
+      "goals": 1,
+      "playerKey": "nguy-n-v-n-tu",
+      "scorer": "Nguyễn Văn Tu"
+    },
+    {
+      "goals": 1,
+      "playerKey": "supakit-meelarpkit",
+      "scorer": "Supakit Meelarpkit"
+    },
+    {
+      "goals": 1,
+      "playerKey": "tr-i-v-n-o",
+      "scorer": "Trải Văn Đào"
+    },
+    {
+      "goals": 1,
+      "playerKey": "tr-n-v-n-nhung",
+      "scorer": "Trần Văn Nhung"
+    }
+  ]
+}

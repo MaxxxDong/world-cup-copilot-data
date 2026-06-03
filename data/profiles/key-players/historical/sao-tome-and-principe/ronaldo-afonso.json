@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2025-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "2000-07-11",
+    "playerKey": "ronaldo-afonso",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "de244237",
+      "national_football_teams": "68901",
+      "soccerway": "671751",
+      "sofascore": "1089977",
+      "transfermarkt": "836182",
+      "wikidata": "Q42671023"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-10-13",
+  "playerKey": "ronaldo-afonso",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-10-13",
+      "goalId": "goal-2025-10-13-sao-tome-and-principe-malawi-47134",
+      "matchKey": "2025-10-13-sao-tome-and-principe-malawi",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ronaldo Afonso"
+    },
+    {
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-sao-tome-and-principe-equatorial-guinea-46595",
+      "matchKey": "2025-09-04-sao-tome-and-principe-equatorial-guinea",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ronaldo Afonso"
+    },
+    {
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-sao-tome-and-principe-equatorial-guinea-46594",
+      "matchKey": "2025-09-04-sao-tome-and-principe-equatorial-guinea",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ronaldo Afonso"
+    }
+  ],
+  "scorer": "Ronaldo Afonso",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sao-tome-and-principe",
+  "teamName": "São Tomé and Príncipe",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "latvia",
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-netherlands-latvia-40213",
+      "homeTeamId": "netherlands",
+      "matchKey": "2021-03-27-netherlands-latvia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steven Berghuis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-gibraltar-netherlands-40330",
+      "homeTeamId": "gibraltar",
+      "matchKey": "2021-03-30-gibraltar-netherlands",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Steven Berghuis",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "steven berghuis",
+  "playerKey": "steven-berghuis",
+  "scorer": "Steven Berghuis",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

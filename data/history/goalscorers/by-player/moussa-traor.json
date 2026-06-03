@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mali",
+      "date": "1972-03-05",
+      "goalId": "goal-1972-03-05-congo-mali-6291",
+      "homeTeamId": "congo",
+      "matchKey": "1972-03-05-congo-mali",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Traoré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mali"
+    },
+    {
+      "awayTeamId": "civ",
+      "date": "1996-01-25",
+      "goalId": "goal-1996-01-25-tunisia-civ-15821",
+      "homeTeamId": "tunisia",
+      "matchKey": "1996-01-25-tunisia-civ",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Traoré",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "moussa traor",
+  "playerKey": "moussa-traor",
+  "scorer": "Moussa Traoré",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ",
+    "mali"
+  ]
+}

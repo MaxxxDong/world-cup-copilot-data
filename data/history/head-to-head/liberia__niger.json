@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 7,
+    "teamAWins": 3,
+    "teamBGoals": 3,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "liberia",
+    "date": "2022-09-25",
+    "homeScore": 0,
+    "homeTeamId": "niger",
+    "matchId": "int-2022-09-25-niger-liberia",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "1986-02-25",
+      "homeScore": 3,
+      "homeTeamId": "liberia",
+      "matchId": "int-1986-02-25-liberia-niger",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "West African Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "liberia",
+      "date": "1998-08-02",
+      "homeScore": 2,
+      "homeTeamId": "niger",
+      "matchId": "int-1998-08-02-niger-liberia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "1998-08-16",
+      "homeScore": 2,
+      "homeTeamId": "liberia",
+      "matchId": "int-1998-08-16-liberia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2002-10-12",
+      "homeScore": 1,
+      "homeTeamId": "liberia",
+      "matchId": "int-2002-10-12-liberia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liberia",
+      "date": "2003-07-05",
+      "homeScore": 1,
+      "homeTeamId": "niger",
+      "matchId": "int-2003-07-05-niger-liberia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "niger",
+      "date": "2011-08-14",
+      "homeScore": 0,
+      "homeTeamId": "liberia",
+      "matchId": "int-2011-08-14-liberia-niger",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "liberia",
+      "date": "2022-09-25",
+      "homeScore": 0,
+      "homeTeamId": "niger",
+      "matchId": "int-2022-09-25-niger-liberia",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "liberia__niger",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 7,
+      "teamAWins": 3,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 2,
+      "matches": 2,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 4,
+      "teamAWins": 2,
+      "teamBGoals": 3,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "liberia",
+  "teamBId": "niger"
+}

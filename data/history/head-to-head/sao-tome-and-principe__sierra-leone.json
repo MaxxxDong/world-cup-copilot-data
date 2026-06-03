@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 8,
+    "teamAWins": 2,
+    "teamBGoals": 13,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "sierra-leone",
+    "date": "2023-03-26",
+    "homeScore": 0,
+    "homeTeamId": "sao-tome-and-principe",
+    "matchId": "int-2023-03-26-sao-tome-and-principe-sierra-leone",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "sierra-leone",
+      "date": "2000-04-08",
+      "homeScore": 2,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2000-04-08-sao-tome-and-principe-sierra-leone",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2000-04-22",
+      "homeScore": 4,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2000-04-22-sierra-leone-sao-tome-and-principe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sierra-leone",
+      "date": "2012-02-29",
+      "homeScore": 2,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2012-02-29-sao-tome-and-principe-sierra-leone",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2012-06-16",
+      "homeScore": 4,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2012-06-16-sierra-leone-sao-tome-and-principe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sao-tome-and-principe",
+      "date": "2023-03-22",
+      "homeScore": 2,
+      "homeTeamId": "sierra-leone",
+      "matchId": "int-2023-03-22-sierra-leone-sao-tome-and-principe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "sierra-leone",
+      "date": "2023-03-26",
+      "homeScore": 0,
+      "homeTeamId": "sao-tome-and-principe",
+      "matchId": "int-2023-03-26-sao-tome-and-principe-sierra-leone",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    }
+  ],
+  "pairKey": "sao-tome-and-principe__sierra-leone",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 13,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 4,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 9,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "sao-tome-and-principe",
+  "teamBId": "sierra-leone"
+}

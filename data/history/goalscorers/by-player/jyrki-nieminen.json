@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "1976-10-13",
+      "goalId": "goal-1976-10-13-england-finland-7620",
+      "homeTeamId": "england",
+      "matchKey": "1976-10-13-england-finland",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jyrki Nieminen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "greece",
+      "date": "1978-05-24",
+      "goalId": "goal-1978-05-24-finland-greece-8218",
+      "homeTeamId": "finland",
+      "matchKey": "1978-05-24-finland-greece",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jyrki Nieminen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "jyrki nieminen",
+  "playerKey": "jyrki-nieminen",
+  "scorer": "Jyrki Nieminen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

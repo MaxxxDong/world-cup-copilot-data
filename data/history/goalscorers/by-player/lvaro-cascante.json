@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "jamaica",
+      "date": "1969-11-23",
+      "goalId": "goal-1969-11-23-costa-rica-jamaica-5728",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1969-11-23-costa-rica-jamaica",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Cascante",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "1969-11-27",
+      "goalId": "goal-1969-11-27-costa-rica-curacao-5735",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1969-11-27-costa-rica-curacao",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Álvaro Cascante",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "lvaro cascante",
+  "playerKey": "lvaro-cascante",
+  "scorer": "Álvaro Cascante",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

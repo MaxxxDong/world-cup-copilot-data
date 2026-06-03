@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ukraine",
+      "date": "2023-06-16",
+      "goalId": "goal-2023-06-16-north-macedonia-ukraine-43227",
+      "homeTeamId": "north-macedonia",
+      "matchKey": "2023-06-16-north-macedonia-ukraine",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yukhym Konoplya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    },
+    {
+      "awayTeamId": "albania",
+      "date": "2024-09-07",
+      "goalId": "goal-2024-09-07-ukraine-albania-45269",
+      "homeTeamId": "ukraine",
+      "matchKey": "2024-09-07-ukraine-albania",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yukhym Konoplya",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ukraine"
+    }
+  ],
+  "normalizedScorer": "yukhym konoplya",
+  "playerKey": "yukhym-konoplya",
+  "scorer": "Yukhym Konoplya",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ukraine"
+  ]
+}

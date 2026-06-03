@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-11-02",
+      "goalId": "goal-1968-11-02-usa-bermuda-5278",
+      "homeTeamId": "usa",
+      "matchKey": "1968-11-02-usa-bermuda",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerry Baker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "bermuda",
+      "date": "1968-11-02",
+      "goalId": "goal-1968-11-02-usa-bermuda-5281",
+      "homeTeamId": "usa",
+      "matchKey": "1968-11-02-usa-bermuda",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerry Baker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "gerry baker",
+  "playerKey": "gerry-baker",
+  "scorer": "Gerry Baker",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

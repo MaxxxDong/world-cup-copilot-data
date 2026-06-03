@@ -1,0 +1,84 @@
+{
+  "firstGoalDate": "1996-06-01",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1975-05-05",
+    "nationality": "Angola",
+    "playerKey": "paulo-jorge-da-silva",
+    "position": "defender",
+    "providerIds": {
+      "footballdatabase_eu": "89587",
+      "national_football_teams": "33364",
+      "transfermarkt": "254481",
+      "wikidata": "Q7487046"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1998-02-16",
+  "playerKey": "paulo-jorge-da-silva",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1998-02-16",
+      "goalId": "goal-1998-02-16-civ-angola-18154",
+      "matchKey": "1998-02-16-civ-angola",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulo Jorge Da Silva"
+    },
+    {
+      "date": "1998-02-12",
+      "goalId": "goal-1998-02-12-angola-namibia-18129",
+      "matchKey": "1998-02-12-angola-namibia",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paulo Jorge Da Silva"
+    },
+    {
+      "date": "1996-06-16",
+      "goalId": "goal-1996-06-16-angola-uganda-16052",
+      "matchKey": "1996-06-16-angola-uganda",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Paulo Jorge Da Silva"
+    },
+    {
+      "date": "1996-06-01",
+      "goalId": "goal-1996-06-01-uganda-angola-15959",
+      "matchKey": "1996-06-01-uganda-angola",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Paulo Jorge Da Silva"
+    }
+  ],
+  "scorer": "Paulo Jorge Da Silva",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "angola",
+  "teamName": "Angola",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

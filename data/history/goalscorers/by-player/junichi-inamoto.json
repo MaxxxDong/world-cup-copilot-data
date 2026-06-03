@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "2002-06-04",
+      "goalId": "goal-2002-06-04-japan-belgium-22215",
+      "homeTeamId": "japan",
+      "matchKey": "2002-06-04-japan-belgium",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Junichi Inamoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2002-06-09",
+      "goalId": "goal-2002-06-09-japan-russia-22249",
+      "homeTeamId": "japan",
+      "matchKey": "2002-06-09-japan-russia",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Junichi Inamoto",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "junichi inamoto",
+  "playerKey": "junichi-inamoto",
+  "scorer": "Junichi Inamoto",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

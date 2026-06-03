@@ -1,0 +1,237 @@
+{
+  "aliases": [
+    "Afghanistan"
+  ],
+  "allTime": {
+    "draws": 34,
+    "goalsAgainst": 289,
+    "goalsFor": 141,
+    "losses": 75,
+    "matches": 144,
+    "wins": 35
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 13,
+      "goalsFor": 5,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 36,
+      "goalsFor": 13,
+      "losses": 10,
+      "matches": 20,
+      "wins": 3
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 6,
+      "goalsFor": 2,
+      "losses": 3,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "pakistan",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2025-10-14-afghanistan-pakistan",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "pakistan",
+      "matchId": "int-2025-10-09-pakistan-afghanistan",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "syria",
+      "date": "2025-06-10",
+      "homeScore": 0,
+      "homeTeamId": "afghanistan",
+      "matchId": "int-2025-06-10-afghanistan-syria",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "afghanistan",
+      "date": "2025-03-25",
+      "homeScore": 2,
+      "homeTeamId": "myanmar",
+      "matchId": "int-2025-03-25-myanmar-afghanistan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "afghanistan",
+      "date": "2025-03-21",
+      "homeScore": 2,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-03-21-thailand-afghanistan",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 26,
+      "goalsAgainst": 233,
+      "goalsFor": 111,
+      "losses": 55,
+      "matches": 108,
+      "wins": 27
+    },
+    "friendly": {
+      "draws": 8,
+      "goalsAgainst": 56,
+      "goalsFor": 30,
+      "losses": 20,
+      "matches": 36,
+      "wins": 8
+    },
+    "neutralVenue": {
+      "draws": 21,
+      "goalsAgainst": 148,
+      "goalsFor": 101,
+      "losses": 32,
+      "matches": 80,
+      "wins": 27
+    },
+    "nonNeutralVenue": {
+      "draws": 13,
+      "goalsAgainst": 141,
+      "goalsFor": 40,
+      "losses": 43,
+      "matches": 64,
+      "wins": 8
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "afghanistan",
+  "teamName": "Afghanistan",
+  "topScorers": [
+    {
+      "goals": 2,
+      "playerKey": "amredin-sharifi",
+      "scorer": "Amredin Sharifi"
+    },
+    {
+      "goals": 2,
+      "playerKey": "farshad-noor",
+      "scorer": "Farshad Noor"
+    },
+    {
+      "goals": 2,
+      "playerKey": "khaibar-amani",
+      "scorer": "Khaibar Amani"
+    },
+    {
+      "goals": 2,
+      "playerKey": "mustafa-zazai",
+      "scorer": "Mustafa Zazai"
+    },
+    {
+      "goals": 2,
+      "playerKey": "norlla-amiri",
+      "scorer": "Norlla Amiri"
+    },
+    {
+      "goals": 1,
+      "playerKey": "balal-arezou",
+      "scorer": "Balal Arezou"
+    },
+    {
+      "goals": 1,
+      "playerKey": "faysal-shayesteh",
+      "scorer": "Faysal Shayesteh"
+    },
+    {
+      "goals": 1,
+      "playerKey": "hossein-zamani",
+      "scorer": "Hossein Zamani"
+    },
+    {
+      "goals": 1,
+      "playerKey": "jabar-sharza",
+      "scorer": "Jabar Sharza"
+    },
+    {
+      "goals": 1,
+      "playerKey": "josef-shirdel",
+      "scorer": "Josef Shirdel"
+    }
+  ]
+}

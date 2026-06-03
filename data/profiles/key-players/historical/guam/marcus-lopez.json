@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2019-09-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-02-09",
+    "nationality": "United States",
+    "playerKey": "marcus-lopez",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "54735a32",
+      "footballdatabase_eu": "187423",
+      "national_football_teams": "47968",
+      "soccerway": "130549",
+      "sofascore": "992864",
+      "transfermarkt": "256548",
+      "wikidata": "Q6758288"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-10",
+  "playerKey": "marcus-lopez",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-guam-philippines-39027",
+      "matchKey": "2019-09-10-guam-philippines",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Marcus Lopez"
+    }
+  ],
+  "scorer": "Marcus Lopez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guam",
+  "teamName": "Guam",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

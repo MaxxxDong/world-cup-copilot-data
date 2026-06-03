@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "uzbekistan",
+      "date": "2008-06-22",
+      "goalId": "goal-2008-06-22-saudi-arabia-uzbekistan-28243",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2008-06-22-saudi-arabia-uzbekistan",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdoh Otaif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "saudi-arabia",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-united-arab-emirates-saudi-arabia-28553",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "2008-09-10-united-arab-emirates-saudi-arabia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdoh Otaif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    },
+    {
+      "awayTeamId": "united-arab-emirates",
+      "date": "2009-04-01",
+      "goalId": "goal-2009-04-01-saudi-arabia-united-arab-emirates-29037",
+      "homeTeamId": "saudi-arabia",
+      "matchKey": "2009-04-01-saudi-arabia-united-arab-emirates",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Abdoh Otaif",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "saudi-arabia"
+    }
+  ],
+  "normalizedScorer": "abdoh otaif",
+  "playerKey": "abdoh-otaif",
+  "scorer": "Abdoh Otaif",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "saudi-arabia"
+  ]
+}

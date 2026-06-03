@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "2021-10-07",
+      "goalId": "goal-2021-10-07-venezuela-bra-41514",
+      "homeTeamId": "venezuela",
+      "matchKey": "2021-10-07-venezuela-bra",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Ramírez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "2024-06-30",
+      "goalId": "goal-2024-06-30-jamaica-venezuela-45106",
+      "homeTeamId": "jamaica",
+      "matchKey": "2024-06-30-jamaica-venezuela",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eric Ramírez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "venezuela"
+    }
+  ],
+  "normalizedScorer": "eric ram rez",
+  "playerKey": "eric-ram-rez",
+  "scorer": "Eric Ramírez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "venezuela"
+  ]
+}

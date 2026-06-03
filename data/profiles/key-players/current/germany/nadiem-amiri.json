@@ -1,0 +1,79 @@
+{
+  "club": "1. FSV Mainz 05 (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1996-10-27",
+    "nationality": "Germany",
+    "playerKey": "nadiem-amiri",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "714",
+      "capology": "nadiem-amiri-35365",
+      "espn": "210818",
+      "eu_football_info": "30769",
+      "fbref_verified": "555d5edd",
+      "footballdatabase_eu": "228643",
+      "german_fa": "297145",
+      "heimspiel": "297145",
+      "impect": "1286",
+      "kicker": "nadiem-amiri",
+      "national_football_teams": "75669",
+      "opta": "7w63iqek6hmnizlirurla1cr9",
+      "skillcorner": "7846",
+      "soccerway": "296416",
+      "sofascore": "327755",
+      "thesportsdb": "34169220",
+      "transfermarkt": "232454",
+      "uefa": "250078643",
+      "wikidata": "Q19274473",
+      "worldfootball": "nadiem-amiri",
+      "wyscout": "263614"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Nadiem Amiri",
+  "playerKey": "nadiem-amiri",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-07",
+      "goalId": "goal-2025-09-07-germany-northern-ireland-46720",
+      "matchKey": "2025-09-07-germany-northern-ireland",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nadiem Amiri"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=20"
+  },
+  "shirtNumber": 20,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=20"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "germany",
+  "teamName": "Germany"
+}

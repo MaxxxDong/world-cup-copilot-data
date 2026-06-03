@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "solomon-islands",
+      "date": "2001-06-13",
+      "goalId": "goal-2001-06-13-tahiti-solomon-islands-21464",
+      "homeTeamId": "tahiti",
+      "matchKey": "2001-06-13-tahiti-solomon-islands",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Samuel Garcia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "tahiti",
+      "date": "2002-07-09",
+      "goalId": "goal-2002-07-09-papua-new-guinea-tahiti-22384",
+      "homeTeamId": "papua-new-guinea",
+      "matchKey": "2002-07-09-papua-new-guinea-tahiti",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Samuel Garcia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    }
+  ],
+  "normalizedScorer": "samuel garcia",
+  "playerKey": "samuel-garcia",
+  "scorer": "Samuel Garcia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "tahiti"
+  ]
+}

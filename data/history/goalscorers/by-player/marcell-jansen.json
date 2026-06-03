@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2007-06-02",
+      "goalId": "goal-2007-06-02-germany-san-marino-26639",
+      "homeTeamId": "germany",
+      "matchKey": "2007-06-02-germany-san-marino",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcell Jansen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "liechtenstein",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-germany-liechtenstein-28886",
+      "homeTeamId": "germany",
+      "matchKey": "2009-03-28-germany-liechtenstein",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcell Jansen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2010-07-10",
+      "goalId": "goal-2010-07-10-uruguay-germany-30017",
+      "homeTeamId": "uruguay",
+      "matchKey": "2010-07-10-uruguay-germany",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marcell Jansen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "marcell jansen",
+  "playerKey": "marcell-jansen",
+  "scorer": "Marcell Jansen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

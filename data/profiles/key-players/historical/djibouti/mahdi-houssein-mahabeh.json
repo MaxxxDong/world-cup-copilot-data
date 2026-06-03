@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2019-09-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1995-12-20",
+    "playerKey": "mahdi-houssein-mahabeh",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "d5a2a188",
+      "footballdatabase_eu": "294453",
+      "national_football_teams": "64647",
+      "soccerway": "589377",
+      "transfermarkt": "440022",
+      "wikidata": "Q74069949"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-04",
+  "playerKey": "mahdi-houssein-mahabeh",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-04",
+      "goalId": "goal-2019-09-04-djibouti-eswatini-38788",
+      "matchKey": "2019-09-04-djibouti-eswatini",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mahdi Houssein Mahabeh"
+    }
+  ],
+  "scorer": "Mahdi Houssein Mahabeh",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

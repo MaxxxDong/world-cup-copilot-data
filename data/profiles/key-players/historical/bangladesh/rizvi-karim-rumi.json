@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "1993-04-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1968-05-18",
+    "playerKey": "rizvi-karim-rumi",
+    "providerIds": {
+      "national_football_teams": "80770",
+      "wikidata": "Q110401709"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1993-04-30",
+  "playerKey": "rizvi-karim-rumi",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1993-04-30",
+      "goalId": "goal-1993-04-30-bangladesh-japan-13926",
+      "matchKey": "1993-04-30-bangladesh-japan",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rizvi Karim Rumi"
+    },
+    {
+      "date": "1993-04-13",
+      "goalId": "goal-1993-04-13-sri-lanka-bangladesh-13796",
+      "matchKey": "1993-04-13-sri-lanka-bangladesh",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Rizvi Karim Rumi"
+    }
+  ],
+  "scorer": "Rizvi Karim Rumi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bangladesh",
+  "teamName": "Bangladesh",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

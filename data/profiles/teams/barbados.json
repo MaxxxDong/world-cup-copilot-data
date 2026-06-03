@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Barbados"
+  ],
+  "allTime": {
+    "draws": 67,
+    "goalsAgainst": 527,
+    "goalsFor": 393,
+    "losses": 141,
+    "matches": 302,
+    "wins": 94
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 23,
+      "goalsFor": 12,
+      "losses": 6,
+      "matches": 10,
+      "wins": 1
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 52,
+      "goalsFor": 35,
+      "losses": 12,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 13,
+      "goalsFor": 7,
+      "losses": 4,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "2026-03-29",
+      "homeScore": 2,
+      "homeTeamId": "barbados",
+      "matchId": "int-2026-03-29-barbados-saint-vincent-and-the-grenadines",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "barbados",
+      "date": "2026-03-26",
+      "homeScore": 3,
+      "homeTeamId": "saint-martin",
+      "matchId": "int-2026-03-26-saint-martin-barbados",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "aruba",
+      "date": "2025-11-15",
+      "homeScore": 0,
+      "homeTeamId": "barbados",
+      "matchId": "int-2025-11-15-barbados-aruba",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "bonaire",
+      "date": "2025-11-12",
+      "homeScore": 3,
+      "homeTeamId": "barbados",
+      "matchId": "int-2025-11-12-barbados-bonaire",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "barbados",
+      "date": "2025-06-10",
+      "homeScore": 2,
+      "homeTeamId": "saint-lucia",
+      "matchId": "int-2025-06-10-saint-lucia-barbados",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 29,
+      "goalsAgainst": 276,
+      "goalsFor": 217,
+      "losses": 80,
+      "matches": 163,
+      "wins": 54
+    },
+    "friendly": {
+      "draws": 38,
+      "goalsAgainst": 251,
+      "goalsFor": 176,
+      "losses": 61,
+      "matches": 139,
+      "wins": 40
+    },
+    "neutralVenue": {
+      "draws": 8,
+      "goalsAgainst": 122,
+      "goalsFor": 88,
+      "losses": 34,
+      "matches": 60,
+      "wins": 18
+    },
+    "nonNeutralVenue": {
+      "draws": 59,
+      "goalsAgainst": 405,
+      "goalsFor": 305,
+      "losses": 107,
+      "matches": 242,
+      "wins": 76
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "barbados",
+  "teamName": "Barbados",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "jerry-alexander",
+      "scorer": "Jerry Alexander"
+    },
+    {
+      "goals": 5,
+      "playerKey": "llewellyn-riley",
+      "scorer": "Llewellyn Riley"
+    },
+    {
+      "goals": 4,
+      "playerKey": "gregory-goodridge",
+      "scorer": "Gregory Goodridge"
+    },
+    {
+      "goals": 3,
+      "playerKey": "niall-reid-stephen",
+      "scorer": "Niall Reid-Stephen"
+    },
+    {
+      "goals": 2,
+      "playerKey": "emile-saimovici",
+      "scorer": "Emile Saimovici"
+    },
+    {
+      "goals": 2,
+      "playerKey": "emmerson-boyce",
+      "scorer": "Emmerson Boyce"
+    },
+    {
+      "goals": 1,
+      "playerKey": "alexander-cruzata",
+      "scorer": "Alexander Cruzata"
+    },
+    {
+      "goals": 1,
+      "playerKey": "devonte-richards",
+      "scorer": "Devonte Richards"
+    },
+    {
+      "goals": 1,
+      "playerKey": "diquan-adamson",
+      "scorer": "Diquan Adamson"
+    },
+    {
+      "goals": 1,
+      "playerKey": "dwayne-stanford",
+      "scorer": "Dwayne Stanford"
+    }
+  ]
+}

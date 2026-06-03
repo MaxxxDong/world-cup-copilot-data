@@ -1,0 +1,104 @@
+{
+  "club": "Liverpool FC (ENG)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 3,
+  "identity": {
+    "dateOfBirth": "1998-12-24",
+    "nationality": "Argentina",
+    "playerKey": "alexis-mac-allister",
+    "position": "midfielder",
+    "providerIds": {
+      "11v11": "261081",
+      "api_football": "6716",
+      "capology": "alexis-mac-allister-36153",
+      "dongqiudi": "50274082",
+      "espn": "249299",
+      "fbref": "83d074ff",
+      "footballdatabase_eu": "309971",
+      "heimspiel": "477198",
+      "impect": "33109",
+      "kicker": "alexis-mac-allister",
+      "lequipe": "68928",
+      "national_football_teams": "75349",
+      "opta": "am6ppbdrbz4ml3xsbty53o73d",
+      "opta_numeric": "660387",
+      "premier_league": "63633",
+      "skillcorner": "24818",
+      "soccerbase": "121587",
+      "soccerway": "468060",
+      "sofascore": "895324",
+      "sportmonks": "216612",
+      "statmuse_pl": "261",
+      "transfermarkt": "534033",
+      "uefa": "250172672",
+      "understat": "8379",
+      "whoscored": "345319",
+      "wikidata": "Q33297140",
+      "worldfootball": "alexis-mac-allister",
+      "wyscout": "481911"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Alexis Mac Allister",
+  "playerKey": "alexis-mac-allister",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-arg-bra-46130",
+      "matchKey": "2025-03-25-arg-bra",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Mac Allister"
+    },
+    {
+      "date": "2024-09-05",
+      "goalId": "goal-2024-09-05-arg-chile-45169",
+      "matchKey": "2024-09-05-arg-chile",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Mac Allister"
+    },
+    {
+      "date": "2022-11-30",
+      "goalId": "goal-2022-11-30-poland-arg-42984",
+      "matchKey": "2022-11-30-poland-arg",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexis Mac Allister"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+  },
+  "shirtNumber": 20,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "arg",
+  "teamName": "Argentina"
+}

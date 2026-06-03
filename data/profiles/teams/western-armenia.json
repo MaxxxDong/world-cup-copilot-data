@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Western Armenia"
+  ],
+  "allTime": {
+    "draws": 4,
+    "goalsAgainst": 20,
+    "goalsFor": 34,
+    "losses": 7,
+    "matches": 16,
+    "wins": 5
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 13,
+      "goalsFor": 20,
+      "losses": 4,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 20,
+      "goalsFor": 34,
+      "losses": 7,
+      "matches": 16,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 5,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "south-ossetia",
+      "date": "2019-06-09",
+      "homeScore": 0,
+      "homeTeamId": "western-armenia",
+      "matchId": "int-2019-06-09-western-armenia-south-ossetia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "western-armenia",
+      "date": "2019-06-06",
+      "homeScore": 1,
+      "homeTeamId": "abkhazia",
+      "matchId": "int-2019-06-06-abkhazia-western-armenia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "western-armenia",
+      "date": "2019-06-04",
+      "homeScore": 1,
+      "homeTeamId": "padania",
+      "matchId": "int-2019-06-04-padania-western-armenia",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "western-armenia",
+      "date": "2019-06-03",
+      "homeScore": 0,
+      "homeTeamId": "szekely-land",
+      "matchId": "int-2019-06-03-szekely-land-western-armenia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "south-ossetia",
+      "date": "2019-06-02",
+      "homeScore": 1,
+      "homeTeamId": "western-armenia",
+      "matchId": "int-2019-06-02-western-armenia-south-ossetia",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA European Football Cup"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 4,
+      "goalsAgainst": 20,
+      "goalsFor": 34,
+      "losses": 7,
+      "matches": 16,
+      "wins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 19,
+      "goalsFor": 27,
+      "losses": 6,
+      "matches": 14,
+      "wins": 4
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 1,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 2,
+      "wins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "western-armenia",
+  "teamName": "Western Armenia",
+  "topScorers": []
+}

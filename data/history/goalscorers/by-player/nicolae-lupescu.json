@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1971-09-22",
+      "goalId": "goal-1971-09-22-finland-romania-6105",
+      "homeTeamId": "finland",
+      "matchKey": "1971-09-22-finland-romania",
+      "minute": 37,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nicolae Lupescu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1971-11-24",
+      "goalId": "goal-1971-11-24-romania-wales-6192",
+      "homeTeamId": "romania",
+      "matchKey": "1971-11-24-romania-wales",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nicolae Lupescu",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "nicolae lupescu",
+  "playerKey": "nicolae-lupescu",
+  "scorer": "Nicolae Lupescu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

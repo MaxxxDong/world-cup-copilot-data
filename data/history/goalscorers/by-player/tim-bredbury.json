@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "indonesia",
+      "date": "1989-06-04",
+      "goalId": "goal-1989-06-04-hong-kong-indonesia-12074",
+      "homeTeamId": "hong-kong",
+      "matchKey": "1989-06-04-hong-kong-indonesia",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tim Bredbury",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1989-07-02",
+      "goalId": "goal-1989-07-02-north-korea-hong-kong-12157",
+      "homeTeamId": "north-korea",
+      "matchKey": "1989-07-02-north-korea-hong-kong",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tim Bredbury",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hong-kong"
+    }
+  ],
+  "normalizedScorer": "tim bredbury",
+  "playerKey": "tim-bredbury",
+  "scorer": "Tim Bredbury",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hong-kong"
+  ]
+}

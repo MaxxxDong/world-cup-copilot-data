@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2004-01-29",
+      "goalId": "goal-2004-01-29-cameroon-zimbabwe-23314",
+      "homeTeamId": "cameroon",
+      "matchKey": "2004-01-29-cameroon-zimbabwe",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Esrom Nyandoro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    },
+    {
+      "awayTeamId": "zimbabwe",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-namibia-zimbabwe-28635",
+      "homeTeamId": "namibia",
+      "matchKey": "2008-10-11-namibia-zimbabwe",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Esrom Nyandoro",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "zimbabwe"
+    }
+  ],
+  "normalizedScorer": "esrom nyandoro",
+  "playerKey": "esrom-nyandoro",
+  "scorer": "Esrom Nyandoro",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "zimbabwe"
+  ]
+}

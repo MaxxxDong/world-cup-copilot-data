@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mex",
+      "date": "2013-07-14",
+      "goalId": "goal-2013-07-14-martinique-mex-33048",
+      "homeTeamId": "martinique",
+      "matchKey": "2013-07-14-martinique-mex",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Montes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2013-07-24",
+      "goalId": "goal-2013-07-24-panama-mex-33075",
+      "homeTeamId": "panama",
+      "matchKey": "2013-07-24-panama-mex",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luis Montes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "luis montes",
+  "playerKey": "luis-montes",
+  "scorer": "Luis Montes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

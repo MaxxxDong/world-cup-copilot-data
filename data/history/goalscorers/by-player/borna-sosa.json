@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "2022-09-22",
+      "goalId": "goal-2022-09-22-croatia-denmark-42746",
+      "homeTeamId": "croatia",
+      "matchKey": "2022-09-22-croatia-denmark",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Borna Sosa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "croatia",
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-poland-croatia-45583",
+      "homeTeamId": "poland",
+      "matchKey": "2024-10-15-poland-croatia",
+      "minute": 19,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Borna Sosa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "borna sosa",
+  "playerKey": "borna-sosa",
+  "scorer": "Borna Sosa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

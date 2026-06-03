@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "1986-03-11",
+      "goalId": "goal-1986-03-11-cameroon-mar-11126",
+      "homeTeamId": "cameroon",
+      "matchKey": "1986-03-11-cameroon-mar",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdelkrim Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "1986-06-11",
+      "goalId": "goal-1986-06-11-portugal-mar-11218",
+      "homeTeamId": "portugal",
+      "matchKey": "1986-06-11-portugal-mar",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Abdelkrim Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "dr-congo",
+      "date": "1988-03-13",
+      "goalId": "goal-1988-03-13-mar-dr-congo-11598",
+      "homeTeamId": "mar",
+      "matchKey": "1988-03-13-mar-dr-congo",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Abdelkrim Merry",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "abdelkrim merry",
+  "playerKey": "abdelkrim-merry",
+  "scorer": "Abdelkrim Merry",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

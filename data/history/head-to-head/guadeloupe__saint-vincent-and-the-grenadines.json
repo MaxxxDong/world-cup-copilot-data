@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 6,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 9,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "guadeloupe",
+    "date": "2007-01-18",
+    "homeScore": 0,
+    "homeTeamId": "saint-vincent-and-the-grenadines",
+    "matchId": "int-2007-01-18-saint-vincent-and-the-grenadines-guadeloupe",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "CFU Caribbean Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "1979-10-22",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1979-10-22-guadeloupe-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "guadeloupe",
+      "date": "1979-10-22",
+      "homeScore": 0,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-1979-10-22-saint-vincent-and-the-grenadines-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "1981-08-02",
+      "homeScore": 3,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1981-08-02-guadeloupe-saint-vincent-and-the-grenadines",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guadeloupe",
+      "date": "1981-08-16",
+      "homeScore": 3,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-1981-08-16-saint-vincent-and-the-grenadines-guadeloupe",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "saint-vincent-and-the-grenadines",
+      "date": "1981-10-24",
+      "homeScore": 1,
+      "homeTeamId": "guadeloupe",
+      "matchId": "int-1981-10-24-guadeloupe-saint-vincent-and-the-grenadines",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "guadeloupe",
+      "date": "2007-01-18",
+      "homeScore": 0,
+      "homeTeamId": "saint-vincent-and-the-grenadines",
+      "matchId": "int-2007-01-18-saint-vincent-and-the-grenadines-guadeloupe",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CFU Caribbean Cup"
+    }
+  ],
+  "pairKey": "guadeloupe__saint-vincent-and-the-grenadines",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 6,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 9,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "guadeloupe",
+  "teamBId": "saint-vincent-and-the-grenadines"
+}

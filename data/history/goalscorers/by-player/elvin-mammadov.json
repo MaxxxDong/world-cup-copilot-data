@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "finland",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-azerbaijan-finland-29362",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2009-09-05-azerbaijan-finland",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elvin Mammadov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2009-10-10",
+      "goalId": "goal-2009-10-10-liechtenstein-azerbaijan-29628",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2009-10-10-liechtenstein-azerbaijan",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elvin Mammadov",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "elvin mammadov",
+  "playerKey": "elvin-mammadov",
+  "scorer": "Elvin Mammadov",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "2024-06-24",
+      "goalId": "goal-2024-06-24-colombia-paraguay-45045",
+      "homeTeamId": "colombia",
+      "matchKey": "2024-06-24-colombia-paraguay",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Muñoz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "2024-07-02",
+      "goalId": "goal-2024-07-02-bra-colombia-45128",
+      "homeTeamId": "bra",
+      "matchKey": "2024-07-02-bra-colombia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daniel Muñoz",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "daniel mu oz",
+  "playerKey": "daniel-mu-oz",
+  "scorer": "Daniel Muñoz",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

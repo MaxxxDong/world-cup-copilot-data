@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Singapore"
+  ],
+  "allTime": {
+    "draws": 141,
+    "goalsAgainst": 1267,
+    "goalsFor": 933,
+    "losses": 335,
+    "matches": 694,
+    "wins": 218
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 12,
+      "goalsFor": 14,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 4,
+      "goalsAgainst": 37,
+      "goalsFor": 28,
+      "losses": 9,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "singapore",
+      "date": "2025-11-18",
+      "homeScore": 1,
+      "homeTeamId": "hong-kong",
+      "matchId": "int-2025-11-18-hong-kong-singapore",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "singapore",
+      "date": "2025-11-13",
+      "homeScore": 3,
+      "homeTeamId": "thailand",
+      "matchId": "int-2025-11-13-thailand-singapore",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "singapore",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "india",
+      "matchId": "int-2025-10-14-india-singapore",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "india",
+      "date": "2025-10-09",
+      "homeScore": 1,
+      "homeTeamId": "singapore",
+      "matchId": "int-2025-10-09-singapore-india",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "AFC Asian Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "myanmar",
+      "date": "2025-09-09",
+      "homeScore": 1,
+      "homeTeamId": "singapore",
+      "matchId": "int-2025-09-09-singapore-myanmar",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 94,
+      "goalsAgainst": 893,
+      "goalsFor": 622,
+      "losses": 238,
+      "matches": 474,
+      "wins": 142
+    },
+    "friendly": {
+      "draws": 47,
+      "goalsAgainst": 374,
+      "goalsFor": 311,
+      "losses": 97,
+      "matches": 220,
+      "wins": 76
+    },
+    "neutralVenue": {
+      "draws": 50,
+      "goalsAgainst": 521,
+      "goalsFor": 344,
+      "losses": 133,
+      "matches": 254,
+      "wins": 71
+    },
+    "nonNeutralVenue": {
+      "draws": 91,
+      "goalsAgainst": 746,
+      "goalsFor": 589,
+      "losses": 202,
+      "matches": 440,
+      "wins": 147
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "singapore",
+  "teamName": "Singapore",
+  "topScorers": [
+    {
+      "goals": 7,
+      "playerKey": "aleksandar-uri",
+      "scorer": "Aleksandar Đurić"
+    },
+    {
+      "goals": 4,
+      "playerKey": "darimosuvito-tokijan",
+      "scorer": "Darimosuvito Tokijan"
+    },
+    {
+      "goals": 4,
+      "playerKey": "fandi-ahmad",
+      "scorer": "Fandi Ahmad"
+    },
+    {
+      "goals": 4,
+      "playerKey": "faris-ramli",
+      "scorer": "Faris Ramli"
+    },
+    {
+      "goals": 4,
+      "playerKey": "fazrul-nawaz",
+      "scorer": "Fazrul Nawaz"
+    },
+    {
+      "goals": 4,
+      "playerKey": "ikhsan-fandi",
+      "scorer": "Ikhsan Fandi"
+    },
+    {
+      "goals": 4,
+      "playerKey": "safuwan-baharudin",
+      "scorer": "Safuwan Baharudin"
+    },
+    {
+      "goals": 4,
+      "playerKey": "shi-jiayi",
+      "scorer": "Shi Jiayi"
+    },
+    {
+      "goals": 4,
+      "playerKey": "v-sundramoorthy",
+      "scorer": "V. Sundramoorthy"
+    },
+    {
+      "goals": 3,
+      "playerKey": "john-wilkinson",
+      "scorer": "John Wilkinson"
+    }
+  ]
+}

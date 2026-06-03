@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 8,
+    "teamAWins": 3,
+    "teamBGoals": 5,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "malta",
+    "date": "2020-10-13",
+    "homeScore": 0,
+    "homeTeamId": "latvia",
+    "matchId": "int-2020-10-13-latvia-malta",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "latvia",
+      "date": "1992-05-26",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-1992-05-26-malta-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "1994-06-02",
+      "homeScore": 2,
+      "homeTeamId": "latvia",
+      "matchId": "int-1994-06-02-latvia-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "1998-02-08",
+      "homeScore": 2,
+      "homeTeamId": "malta",
+      "matchId": "int-1998-02-08-malta-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Malta International Tournament"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "latvia",
+      "date": "2010-09-07",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-2010-09-07-malta-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "2011-10-07",
+      "homeScore": 2,
+      "homeTeamId": "latvia",
+      "matchId": "int-2011-10-07-latvia-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "latvia",
+      "date": "2020-09-06",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-2020-09-06-malta-latvia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "malta",
+      "date": "2020-10-13",
+      "homeScore": 0,
+      "homeTeamId": "latvia",
+      "matchId": "int-2020-10-13-latvia-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "latvia__malta",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 5,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 4,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 8,
+      "teamAWins": 3,
+      "teamBGoals": 5,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "latvia",
+  "teamBId": "malta"
+}

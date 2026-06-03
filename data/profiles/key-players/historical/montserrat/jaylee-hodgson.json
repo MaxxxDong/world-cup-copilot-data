@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2011-06-15",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1981-06-05",
+    "nationality": "United Kingdom",
+    "playerKey": "jaylee-hodgson",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "17c3cb01",
+      "footballdatabase_eu": "141181",
+      "national_football_teams": "43624",
+      "transfermarkt": "189663",
+      "wikidata": "Q3807498"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-07-17",
+  "playerKey": "jaylee-hodgson",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-07-17",
+      "goalId": "goal-2011-07-17-belize-montserrat-30720",
+      "matchKey": "2011-07-17-belize-montserrat",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaylee Hodgson"
+    },
+    {
+      "date": "2011-06-15",
+      "goalId": "goal-2011-06-15-montserrat-belize-30566",
+      "matchKey": "2011-06-15-montserrat-belize",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaylee Hodgson"
+    },
+    {
+      "date": "2011-06-15",
+      "goalId": "goal-2011-06-15-montserrat-belize-30561",
+      "matchKey": "2011-06-15-montserrat-belize",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaylee Hodgson"
+    }
+  ],
+  "scorer": "Jaylee Hodgson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

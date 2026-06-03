@@ -1,0 +1,113 @@
+{
+  "club": "Real Madrid C. F. (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 4,
+  "identity": {
+    "dateOfBirth": "2003-06-29",
+    "fullName": "Jude Victor William Bellingham",
+    "nationality": "United Kingdom",
+    "playerKey": "jude-bellingham",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "129718",
+      "besoccer": "839567",
+      "capology": "jude-bellingham-37801",
+      "dongqiudi": "50517899",
+      "espn": "291281",
+      "eu_football_info": "31273",
+      "fbref": "57d88cf9",
+      "footballdatabase_eu": "390683",
+      "german_fa": "396585",
+      "heimspiel": "541929",
+      "impect": "52229",
+      "kicker": "jude-bellingham",
+      "lequipe": "77722",
+      "national_football_teams": "80451",
+      "opta": "e83ula4wockmc2xid7185kcq2",
+      "opta_numeric": "244855",
+      "skillcorner": "24583",
+      "soccerbase": "123255",
+      "soccerway": "590862",
+      "sofascore": "991011",
+      "sofifa": "400136607",
+      "thesportsdb": "34171882",
+      "transfermarkt": "581678",
+      "uefa": "250128377",
+      "wikidata": "Q66241169",
+      "worldfootball": "jude-bellingham",
+      "wyscout": "617894"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jude Bellingham",
+  "playerKey": "jude-bellingham",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-england-greece-45392",
+      "matchKey": "2024-10-10-england-greece",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jude Bellingham"
+    },
+    {
+      "date": "2024-06-30",
+      "goalId": "goal-2024-06-30-england-slovakia-45102",
+      "matchKey": "2024-06-30-england-slovakia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jude Bellingham"
+    },
+    {
+      "date": "2024-06-16",
+      "goalId": "goal-2024-06-16-serbia-england-44962",
+      "matchKey": "2024-06-16-serbia-england",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jude Bellingham"
+    },
+    {
+      "date": "2022-11-21",
+      "goalId": "goal-2022-11-21-england-iran-42895",
+      "matchKey": "2022-11-21-england-iran",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jude Bellingham"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+  },
+  "shirtNumber": 10,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "england",
+  "teamName": "England"
+}

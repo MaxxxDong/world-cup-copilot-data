@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1950-06-25",
+      "goalId": "goal-1950-06-25-spain-usa-1857",
+      "homeTeamId": "spain",
+      "matchKey": "1950-06-25-spain-usa",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Silvestre Igoa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "1950-07-13",
+      "goalId": "goal-1950-07-13-bra-spain-1920",
+      "homeTeamId": "bra",
+      "matchKey": "1950-07-13-bra-spain",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Silvestre Igoa",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "silvestre igoa",
+  "playerKey": "silvestre-igoa",
+  "scorer": "Silvestre Igoa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "spain"
+  ]
+}

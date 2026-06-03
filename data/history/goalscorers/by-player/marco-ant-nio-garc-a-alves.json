@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1963-03-14",
+      "goalId": "goal-1963-03-14-bra-colombia-3848",
+      "homeTeamId": "bra",
+      "matchKey": "1963-03-14-bra-colombia",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Antônio García Alves",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1963-03-31",
+      "goalId": "goal-1963-03-31-bolivia-bra-3961",
+      "homeTeamId": "bolivia",
+      "matchKey": "1963-03-31-bolivia-bra",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Antônio García Alves",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "marco ant nio garc a alves",
+  "playerKey": "marco-ant-nio-garc-a-alves",
+  "scorer": "Marco Antônio García Alves",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

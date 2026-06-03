@@ -1,0 +1,55 @@
+{
+  "firstGoalDate": "2007-11-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1978-09-15",
+    "nationality": "Djibouti",
+    "playerKey": "hussein-yassin",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "37130",
+      "wikidata": "Q5905414"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2007-11-16",
+  "playerKey": "hussein-yassin",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2007-11-16",
+      "goalId": "goal-2007-11-16-djibouti-somalia-27350",
+      "matchKey": "2007-11-16-djibouti-somalia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hussein Yassin"
+    }
+  ],
+  "scorer": "Hussein Yassin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "djibouti",
+  "teamName": "Djibouti",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "2004-10-13",
+      "goalId": "goal-2004-10-13-portugal-russia-24757",
+      "homeTeamId": "portugal",
+      "matchKey": "2004-10-13-portugal-russia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "iran",
+      "date": "2006-06-17",
+      "goalId": "goal-2006-06-17-portugal-iran-26145",
+      "homeTeamId": "portugal",
+      "matchKey": "2006-06-17-portugal-iran",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "portugal",
+      "date": "2008-06-11",
+      "goalId": "goal-2008-06-11-czech-republic-portugal-27924",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2008-06-11-czech-republic-portugal",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Deco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-portugal-denmark-28525",
+      "homeTeamId": "portugal",
+      "matchKey": "2008-09-10-portugal-denmark",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Deco",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "portugal"
+    }
+  ],
+  "normalizedScorer": "deco",
+  "playerKey": "deco",
+  "scorer": "Deco",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "portugal"
+  ]
+}

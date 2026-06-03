@@ -1,0 +1,75 @@
+{
+  "firstGoalDate": "2019-06-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1990-08-19",
+    "nationality": "Zimbabwe",
+    "playerKey": "khama-billiat",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "50491f39",
+      "footballdatabase_eu": "120901",
+      "heimspiel": "228018",
+      "impect": "101130",
+      "kicker": "khama-billiat",
+      "national_football_teams": "42820",
+      "skillcorner": "168337",
+      "soccerway": "145963",
+      "sofascore": "827763",
+      "sofifa": "356655",
+      "transfermarkt": "135849",
+      "wikidata": "Q652662",
+      "wyscout": "121544"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-10",
+  "playerKey": "khama-billiat",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-zimbabwe-somalia-39098",
+      "matchKey": "2019-09-10-zimbabwe-somalia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khama Billiat"
+    },
+    {
+      "date": "2019-06-26",
+      "goalId": "goal-2019-06-26-uganda-zimbabwe-38685",
+      "matchKey": "2019-06-26-uganda-zimbabwe",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Khama Billiat"
+    }
+  ],
+  "scorer": "Khama Billiat",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "zimbabwe",
+  "teamName": "Zimbabwe",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

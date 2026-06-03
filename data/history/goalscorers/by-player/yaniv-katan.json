@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bosnia-and-herzegovina",
+      "date": "2000-10-11",
+      "goalId": "goal-2000-10-11-israel-bosnia-and-herzegovina-20175",
+      "homeTeamId": "israel",
+      "matchKey": "2000-10-11-israel-bosnia-and-herzegovina",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yaniv Katan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2005-09-07",
+      "goalId": "goal-2005-09-07-faroe-islands-israel-25770",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2005-09-07-faroe-islands-israel",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yaniv Katan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "yaniv katan",
+  "playerKey": "yaniv-katan",
+  "scorer": "Yaniv Katan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

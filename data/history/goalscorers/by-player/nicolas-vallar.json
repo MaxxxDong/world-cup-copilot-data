@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "new-caledonia",
+      "date": "2012-06-03",
+      "goalId": "goal-2012-06-03-tahiti-new-caledonia-31804",
+      "homeTeamId": "tahiti",
+      "matchKey": "2012-06-03-tahiti-new-caledonia",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nicolas Vallar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "vanuatu",
+      "date": "2012-06-05",
+      "goalId": "goal-2012-06-05-tahiti-vanuatu-31831",
+      "homeTeamId": "tahiti",
+      "matchKey": "2012-06-05-tahiti-vanuatu",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Nicolas Vallar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "tahiti"
+    },
+    {
+      "awayTeamId": "nigeria",
+      "date": "2013-06-17",
+      "goalId": "goal-2013-06-17-tahiti-nigeria-32944",
+      "homeTeamId": "tahiti",
+      "matchKey": "2013-06-17-tahiti-nigeria",
+      "minute": 5,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nicolas Vallar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "nigeria"
+    }
+  ],
+  "normalizedScorer": "nicolas vallar",
+  "playerKey": "nicolas-vallar",
+  "scorer": "Nicolas Vallar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "nigeria",
+    "tahiti"
+  ]
+}

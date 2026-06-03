@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1999-07-30",
+      "goalId": "goal-1999-07-30-usa-germany-18957",
+      "homeTeamId": "usa",
+      "matchKey": "1999-07-30-usa-germany",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ben Olsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "ben olsen",
+  "playerKey": "ben-olsen",
+  "scorer": "Ben Olsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

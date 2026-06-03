@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "1980-10-11",
+      "goalId": "goal-1980-10-11-luxembourg-italy-9034",
+      "homeTeamId": "luxembourg",
+      "matchKey": "1980-10-11-luxembourg-italy",
+      "minute": 33,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fulvio Collovati",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1981-12-05",
+      "goalId": "goal-1981-12-05-italy-luxembourg-9623",
+      "homeTeamId": "italy",
+      "matchKey": "1981-12-05-italy-luxembourg",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Fulvio Collovati",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "fulvio collovati",
+  "playerKey": "fulvio-collovati",
+  "scorer": "Fulvio Collovati",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

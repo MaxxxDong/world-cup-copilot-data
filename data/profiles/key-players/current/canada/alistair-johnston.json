@@ -1,0 +1,77 @@
+{
+  "club": "Celtic FC (SCO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1998-10-08",
+    "nationality": "Canada",
+    "playerKey": "alistair-johnston",
+    "position": "right-back",
+    "providerIds": {
+      "api_football": "78547",
+      "capology": "alistair-johnston-36076",
+      "espn": "293691",
+      "fbref": "4fb17e20",
+      "footballdatabase_eu": "407420",
+      "heimspiel": "669089",
+      "impect": "57094",
+      "kicker": "alistair-johnston",
+      "national_football_teams": "81967",
+      "opta": "epwfc94g7m7ed1nbt9wbgo6ei",
+      "skillcorner": "34548",
+      "soccerway": "610682",
+      "sofascore": "984419",
+      "thesportsdb": "34180906",
+      "transfermarkt": "637446",
+      "uefa": "250181680",
+      "wikidata": "Q81878309",
+      "worldfootball": "alistair-johnston",
+      "wyscout": "659608"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Alistair Johnston",
+  "playerKey": "alistair-johnston",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-03-29",
+      "goalId": "goal-2021-03-29-cayman-islands-canada-40298",
+      "matchKey": "2021-03-29-cayman-islands-canada",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alistair Johnston"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+  },
+  "shirtNumber": 2,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "canada",
+  "teamName": "Canada"
+}

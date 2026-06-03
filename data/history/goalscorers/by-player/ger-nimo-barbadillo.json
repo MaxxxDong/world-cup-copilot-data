@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1981-08-16",
+      "goalId": "goal-1981-08-16-peru-colombia-9417",
+      "homeTeamId": "peru",
+      "matchKey": "1981-08-16-peru-colombia",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerónimo Barbadillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "venezuela",
+      "date": "1985-06-16",
+      "goalId": "goal-1985-06-16-peru-venezuela-10867",
+      "homeTeamId": "peru",
+      "matchKey": "1985-06-16-peru-venezuela",
+      "minute": 20,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerónimo Barbadillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "1985-06-30",
+      "goalId": "goal-1985-06-30-arg-peru-10880",
+      "homeTeamId": "arg",
+      "matchKey": "1985-06-30-arg-peru",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerónimo Barbadillo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "ger nimo barbadillo",
+  "playerKey": "ger-nimo-barbadillo",
+  "scorer": "Gerónimo Barbadillo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

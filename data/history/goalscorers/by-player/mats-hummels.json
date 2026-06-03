@@ -1,0 +1,109 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "portugal",
+      "date": "2014-06-16",
+      "goalId": "goal-2014-06-16-germany-portugal-33636",
+      "homeTeamId": "germany",
+      "matchKey": "2014-06-16-germany-portugal",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Hummels",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2014-07-04",
+      "goalId": "goal-2014-07-04-fra-germany-33755",
+      "homeTeamId": "fra",
+      "matchKey": "2014-07-04-fra-germany",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Hummels",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2015-09-07",
+      "goalId": "goal-2015-09-07-scotland-germany-34856",
+      "homeTeamId": "scotland",
+      "matchKey": "2015-09-07-scotland-germany",
+      "minute": 28,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mats Hummels",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2017-09-01",
+      "goalId": "goal-2017-09-01-czech-republic-germany-37055",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2017-09-01-czech-republic-germany",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mats Hummels",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2021-06-15",
+      "goalId": "goal-2021-06-15-germany-fra-40800",
+      "homeTeamId": "germany",
+      "matchKey": "2021-06-15-germany-fra",
+      "minute": 20,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mats Hummels",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "mats hummels",
+  "playerKey": "mats-hummels",
+  "scorer": "Mats Hummels",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra",
+    "germany",
+    "scotland"
+  ]
+}

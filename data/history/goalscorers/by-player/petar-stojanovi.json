@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "slovenia",
+      "date": "2018-09-09",
+      "goalId": "goal-2018-09-09-cyprus-slovenia-37766",
+      "homeTeamId": "cyprus",
+      "matchKey": "2018-09-09-cyprus-slovenia",
+      "minute": 89,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Petar Stojanović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "cyprus"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2021-09-01",
+      "goalId": "goal-2021-09-01-slovenia-slovakia-41133",
+      "homeTeamId": "slovenia",
+      "matchKey": "2021-09-01-slovenia-slovakia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petar Stojanović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    },
+    {
+      "awayTeamId": "slovenia",
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-serbia-slovenia-42553",
+      "homeTeamId": "serbia",
+      "matchKey": "2022-06-05-serbia-slovenia",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Petar Stojanović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovenia"
+    }
+  ],
+  "normalizedScorer": "petar stojanovi",
+  "playerKey": "petar-stojanovi",
+  "scorer": "Petar Stojanović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "cyprus",
+    "slovenia"
+  ]
+}

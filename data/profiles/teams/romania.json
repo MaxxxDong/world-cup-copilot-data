@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Romania"
+  ],
+  "allTime": {
+    "draws": 194,
+    "goalsAgainst": 975,
+    "goalsFor": 1236,
+    "losses": 236,
+    "matches": 764,
+    "wins": 334
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 15,
+      "goalsFor": 16,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 24,
+      "goalsFor": 37,
+      "losses": 7,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 7,
+      "goalsFor": 9,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2026-03-31",
+      "homeScore": 2,
+      "homeTeamId": "slovakia",
+      "matchId": "int-2026-03-31-slovakia-romania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "romania",
+      "date": "2026-03-26",
+      "homeScore": 1,
+      "homeTeamId": "turkey",
+      "matchId": "int-2026-03-26-turkey-romania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "san-marino",
+      "date": "2025-11-18",
+      "homeScore": 7,
+      "homeTeamId": "romania",
+      "matchId": "int-2025-11-18-romania-san-marino",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "romania",
+      "date": "2025-11-15",
+      "homeScore": 3,
+      "homeTeamId": "bosnia-and-herzegovina",
+      "matchId": "int-2025-11-15-bosnia-and-herzegovina-romania",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "austria",
+      "date": "2025-10-12",
+      "homeScore": 1,
+      "homeTeamId": "romania",
+      "matchId": "int-2025-10-12-romania-austria",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 99,
+      "goalsAgainst": 469,
+      "goalsFor": 705,
+      "losses": 113,
+      "matches": 409,
+      "wins": 197
+    },
+    "friendly": {
+      "draws": 95,
+      "goalsAgainst": 506,
+      "goalsFor": 531,
+      "losses": 123,
+      "matches": 355,
+      "wins": 137
+    },
+    "neutralVenue": {
+      "draws": 23,
+      "goalsAgainst": 126,
+      "goalsFor": 125,
+      "losses": 33,
+      "matches": 87,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 171,
+      "goalsAgainst": 849,
+      "goalsFor": 1111,
+      "losses": 203,
+      "matches": 677,
+      "wins": 303
+    },
+    "worldCup": {
+      "draws": 5,
+      "goalsAgainst": 32,
+      "goalsFor": 30,
+      "losses": 8,
+      "matches": 21,
+      "wins": 8
+    }
+  },
+  "teamId": "romania",
+  "teamName": "Romania",
+  "topScorers": [
+    {
+      "goals": 27,
+      "playerKey": "gheorghe-hagi",
+      "scorer": "Gheorghe Hagi"
+    },
+    {
+      "goals": 24,
+      "playerKey": "adrian-mutu",
+      "scorer": "Adrian Mutu"
+    },
+    {
+      "goals": 21,
+      "playerKey": "florin-r-ducioiu",
+      "scorer": "Florin Răducioiu"
+    },
+    {
+      "goals": 17,
+      "playerKey": "ciprian-marica",
+      "scorer": "Ciprian Marica"
+    },
+    {
+      "goals": 16,
+      "playerKey": "viorel-moldovan",
+      "scorer": "Viorel Moldovan"
+    },
+    {
+      "goals": 13,
+      "playerKey": "dorinel-munteanu",
+      "scorer": "Dorinel Munteanu"
+    },
+    {
+      "goals": 13,
+      "playerKey": "gheorghe-popescu",
+      "scorer": "Gheorghe Popescu"
+    },
+    {
+      "goals": 12,
+      "playerKey": "florea-dumitrache",
+      "scorer": "Florea Dumitrache"
+    },
+    {
+      "goals": 11,
+      "playerKey": "r-zvan-marin",
+      "scorer": "Răzvan Marin"
+    },
+    {
+      "goals": 10,
+      "playerKey": "claudiu-ke-er",
+      "scorer": "Claudiu Keșerü"
+    }
+  ]
+}

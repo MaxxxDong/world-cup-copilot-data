@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 2,
+    "matches": 7,
+    "teamAGoals": 3,
+    "teamAWins": 0,
+    "teamBGoals": 10,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "czech-republic",
+    "date": "2022-06-12",
+    "homeScore": 2,
+    "homeTeamId": "spain",
+    "matchId": "int-2022-06-12-spain-czech-republic",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "spain",
+      "date": "1996-10-09",
+      "homeScore": 0,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-1996-10-09-czech-republic-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "czech-republic",
+      "date": "1997-06-08",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-1997-06-08-spain-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "czech-republic",
+      "date": "2011-03-25",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-2011-03-25-spain-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "spain",
+      "date": "2011-10-07",
+      "homeScore": 0,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2011-10-07-czech-republic-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "czech-republic",
+      "date": "2016-06-13",
+      "homeScore": 1,
+      "homeTeamId": "spain",
+      "matchId": "int-2016-06-13-spain-czech-republic",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "spain",
+      "date": "2022-06-05",
+      "homeScore": 2,
+      "homeTeamId": "czech-republic",
+      "matchId": "int-2022-06-05-czech-republic-spain",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "czech-republic",
+      "date": "2022-06-12",
+      "homeScore": 2,
+      "homeTeamId": "spain",
+      "matchId": "int-2022-06-12-spain-czech-republic",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "czech-republic__spain",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 5
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "matches": 6,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 9,
+      "teamBWins": 4
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "czech-republic",
+  "teamBId": "spain"
+}

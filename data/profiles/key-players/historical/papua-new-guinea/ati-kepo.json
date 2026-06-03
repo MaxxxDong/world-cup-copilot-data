@@ -1,0 +1,89 @@
+{
+  "firstGoalDate": "2022-03-24",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 4,
+  "identity": {
+    "dateOfBirth": "1996-01-15",
+    "playerKey": "ati-kepo",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "628809",
+      "espn": "337977",
+      "footballdatabase_eu": "407451",
+      "national_football_teams": "74742",
+      "soccerway": "652334",
+      "sofascore": "1192117",
+      "thesportsdb": "34292795",
+      "transfermarkt": "678455",
+      "wikidata": "Q111360377",
+      "worldfootball": "atti-kepo"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-11-14",
+  "playerKey": "ati-kepo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-11-14",
+      "goalId": "goal-2024-11-14-papua-new-guinea-fiji-45626",
+      "matchKey": "2024-11-14-papua-new-guinea-fiji",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ati Kepo"
+    },
+    {
+      "date": "2024-06-22",
+      "goalId": "goal-2024-06-22-samoa-papua-new-guinea-45030",
+      "matchKey": "2024-06-22-samoa-papua-new-guinea",
+      "minute": 47,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ati Kepo"
+    },
+    {
+      "date": "2022-03-27",
+      "goalId": "goal-2022-03-27-solomon-islands-papua-new-guinea-42407",
+      "matchKey": "2022-03-27-solomon-islands-papua-new-guinea",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ati Kepo"
+    },
+    {
+      "date": "2022-03-24",
+      "goalId": "goal-2022-03-24-fiji-papua-new-guinea-42344",
+      "matchKey": "2022-03-24-fiji-papua-new-guinea",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ati Kepo"
+    }
+  ],
+  "scorer": "Ati Kepo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "papua-new-guinea",
+  "teamName": "Papua New Guinea",
+  "tournaments": [
+    {
+      "goals": 4,
+      "tournament": "unknown"
+    }
+  ]
+}

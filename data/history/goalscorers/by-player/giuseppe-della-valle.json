@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1924-05-29",
+      "goalId": "goal-1924-05-29-italy-luxembourg-187",
+      "homeTeamId": "italy",
+      "matchKey": "1924-05-29-italy-luxembourg",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giuseppe Della Valle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    },
+    {
+      "awayTeamId": "italy",
+      "date": "1924-06-02",
+      "goalId": "goal-1924-06-02-switzerland-italy-216",
+      "homeTeamId": "switzerland",
+      "matchKey": "1924-06-02-switzerland-italy",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Giuseppe Della Valle",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "italy"
+    }
+  ],
+  "normalizedScorer": "giuseppe della valle",
+  "playerKey": "giuseppe-della-valle",
+  "scorer": "Giuseppe Della Valle",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "italy"
+  ]
+}

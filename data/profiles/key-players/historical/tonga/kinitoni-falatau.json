@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2011-11-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1994-11-14",
+    "nationality": "Tonga",
+    "playerKey": "kinitoni-falatau",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "552fe22d",
+      "footballdatabase_eu": "170192",
+      "national_football_teams": "45771",
+      "transfermarkt": "208149",
+      "wikidata": "Q646257"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2011-11-26",
+  "playerKey": "kinitoni-falatau",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2011-11-26",
+      "goalId": "goal-2011-11-26-tonga-cook-islands-31598",
+      "matchKey": "2011-11-26-tonga-cook-islands",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kinitoni Falatau"
+    }
+  ],
+  "scorer": "Kinitoni Falatau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tonga",
+  "teamName": "Tonga",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

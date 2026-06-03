@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "Egypt",
+    "EGY",
+    "Pharaohs"
+  ],
+  "allTime": {
+    "draws": 185,
+    "goalsAgainst": 764,
+    "goalsFor": 1223,
+    "losses": 191,
+    "matches": 754,
+    "wins": 378
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "EGY",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 8,
+      "goalsFor": 13,
+      "losses": 2,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 7,
+      "goalsAgainst": 13,
+      "goalsFor": 25,
+      "losses": 3,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 3,
+      "goalsFor": 7,
+      "losses": 1,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "2026-03-31",
+      "homeScore": 0,
+      "homeTeamId": "spain",
+      "matchId": "int-2026-03-31-spain-egypt",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "egypt",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "saudi-arabia",
+      "matchId": "int-2026-03-27-saudi-arabia-egypt",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "nigeria",
+      "date": "2026-01-17",
+      "homeScore": 0,
+      "homeTeamId": "egypt",
+      "matchId": "int-2026-01-17-egypt-nigeria",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "2026-01-14",
+      "homeScore": 1,
+      "homeTeamId": "senegal",
+      "matchId": "int-2026-01-14-senegal-egypt",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "civ",
+      "date": "2026-01-10",
+      "homeScore": 3,
+      "homeTeamId": "egypt",
+      "matchId": "int-2026-01-10-egypt-civ",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 108,
+      "goalsAgainst": 414,
+      "goalsFor": 747,
+      "losses": 100,
+      "matches": 444,
+      "wins": 236
+    },
+    "friendly": {
+      "draws": 77,
+      "goalsAgainst": 350,
+      "goalsFor": 476,
+      "losses": 91,
+      "matches": 310,
+      "wins": 142
+    },
+    "neutralVenue": {
+      "draws": 55,
+      "goalsAgainst": 252,
+      "goalsFor": 395,
+      "losses": 62,
+      "matches": 231,
+      "wins": 114
+    },
+    "nonNeutralVenue": {
+      "draws": 130,
+      "goalsAgainst": 512,
+      "goalsFor": 828,
+      "losses": 129,
+      "matches": 523,
+      "wins": 264
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 12,
+      "goalsFor": 5,
+      "losses": 5,
+      "matches": 7,
+      "wins": 0
+    }
+  },
+  "teamId": "egypt",
+  "teamName": "Egypt",
+  "topScorers": [
+    {
+      "goals": 33,
+      "playerKey": "mohamed-salah",
+      "scorer": "Mohamed Salah"
+    },
+    {
+      "goals": 20,
+      "playerKey": "hossam-hassan",
+      "scorer": "Hossam Hassan"
+    },
+    {
+      "goals": 20,
+      "playerKey": "mohamed-aboutrika",
+      "scorer": "Mohamed Aboutrika"
+    },
+    {
+      "goals": 17,
+      "playerKey": "amr-zaki",
+      "scorer": "Amr Zaki"
+    },
+    {
+      "goals": 16,
+      "playerKey": "ahmed-hassan",
+      "scorer": "Ahmed Hassan"
+    },
+    {
+      "goals": 12,
+      "playerKey": "hassan-el-shazly",
+      "scorer": "Hassan El-Shazly"
+    },
+    {
+      "goals": 11,
+      "playerKey": "emad-moteab",
+      "scorer": "Emad Moteab"
+    },
+    {
+      "goals": 9,
+      "playerKey": "hosny-abd-rabo",
+      "scorer": "Hosny Abd Rabo"
+    },
+    {
+      "goals": 9,
+      "playerKey": "mahmoud-mokhtar-el-tetsh",
+      "scorer": "Mahmoud Mokhtar El-Tetsh"
+    },
+    {
+      "goals": 8,
+      "playerKey": "mahmoud-el-khatib",
+      "scorer": "Mahmoud El Khatib"
+    }
+  ]
+}

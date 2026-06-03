@@ -1,0 +1,98 @@
+{
+  "firstGoalDate": "1994-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 5,
+  "identity": {
+    "dateOfBirth": "1965-10-13",
+    "nationality": "Soviet Union",
+    "playerKey": "syarhey-herasimets",
+    "position": "forward",
+    "providerIds": {
+      "eu_football_info": "6707",
+      "fbref": "d22c357e",
+      "footballdatabase_eu": "34883",
+      "national_football_teams": "13605",
+      "soccerway": "225386",
+      "transfermarkt": "63134",
+      "uefa": "21922",
+      "wikidata": "Q4135991",
+      "worldfootball": "sergey-gerasimets"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1995-11-12",
+  "playerKey": "syarhey-herasimets",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1995-11-12",
+      "goalId": "goal-1995-11-12-malta-belarus-15651",
+      "matchKey": "1995-11-12-malta-belarus",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Syarhey Herasimets"
+    },
+    {
+      "date": "1995-11-12",
+      "goalId": "goal-1995-11-12-malta-belarus-15650",
+      "matchKey": "1995-11-12-malta-belarus",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Syarhey Herasimets"
+    },
+    {
+      "date": "1995-06-07",
+      "goalId": "goal-1995-06-07-belarus-netherlands-15344",
+      "matchKey": "1995-06-07-belarus-netherlands",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Syarhey Herasimets"
+    },
+    {
+      "date": "1995-03-29",
+      "goalId": "goal-1995-03-29-czech-republic-belarus-15213",
+      "matchKey": "1995-03-29-czech-republic-belarus",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Syarhey Herasimets"
+    },
+    {
+      "date": "1994-10-12",
+      "goalId": "goal-1994-10-12-belarus-luxembourg-15015",
+      "matchKey": "1994-10-12-belarus-luxembourg",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Syarhey Herasimets"
+    }
+  ],
+  "scorer": "Syarhey Herasimets",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belarus",
+  "teamName": "Belarus",
+  "tournaments": [
+    {
+      "goals": 5,
+      "tournament": "unknown"
+    }
+  ]
+}

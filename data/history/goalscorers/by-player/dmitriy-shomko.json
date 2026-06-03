@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-republic-of-ireland-kazakhstan-33505",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2013-10-15-republic-of-ireland-kazakhstan",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dmitriy Shomko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2013-10-15",
+      "goalId": "goal-2013-10-15-republic-of-ireland-kazakhstan-33508",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2013-10-15-republic-of-ireland-kazakhstan",
+      "minute": 77,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Dmitriy Shomko",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "dmitriy shomko",
+  "playerKey": "dmitriy-shomko",
+  "scorer": "Dmitriy Shomko",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "kazakhstan",
+    "republic-of-ireland"
+  ]
+}

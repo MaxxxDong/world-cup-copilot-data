@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "andorra",
+      "date": "2006-09-06",
+      "goalId": "goal-2006-09-06-israel-andorra-26324",
+      "homeTeamId": "israel",
+      "matchKey": "2006-09-06-israel-andorra",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amit Ben-Shushan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2006-10-07",
+      "goalId": "goal-2006-10-07-russia-israel-26416",
+      "homeTeamId": "russia",
+      "matchKey": "2006-10-07-russia-israel",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amit Ben-Shushan",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "israel"
+    }
+  ],
+  "normalizedScorer": "amit ben shushan",
+  "playerKey": "amit-ben-shushan",
+  "scorer": "Amit Ben-Shushan",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "israel"
+  ]
+}

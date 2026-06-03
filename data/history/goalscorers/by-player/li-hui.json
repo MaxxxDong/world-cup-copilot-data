@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "brunei",
+      "date": "1985-02-26",
+      "goalId": "goal-1985-02-26-china-pr-brunei-10542",
+      "homeTeamId": "china-pr",
+      "matchKey": "1985-02-26-china-pr-brunei",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Li Hui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "macau",
+      "date": "1985-05-12",
+      "goalId": "goal-1985-05-12-china-pr-macau-10781",
+      "homeTeamId": "china-pr",
+      "matchKey": "1985-05-12-china-pr-macau",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Li Hui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    },
+    {
+      "awayTeamId": "hong-kong",
+      "date": "1985-05-19",
+      "goalId": "goal-1985-05-19-china-pr-hong-kong-10804",
+      "homeTeamId": "china-pr",
+      "matchKey": "1985-05-19-china-pr-hong-kong",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Li Hui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "china-pr"
+    }
+  ],
+  "normalizedScorer": "li hui",
+  "playerKey": "li-hui",
+  "scorer": "Li Hui",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "china-pr"
+  ]
+}

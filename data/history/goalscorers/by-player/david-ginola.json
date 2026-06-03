@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "israel",
+      "date": "1993-10-13",
+      "goalId": "goal-1993-10-13-fra-israel-14624",
+      "homeTeamId": "fra",
+      "matchKey": "1993-10-13-fra-israel",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Ginola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "1995-04-26",
+      "goalId": "goal-1995-04-26-fra-slovakia-15289",
+      "homeTeamId": "fra",
+      "matchKey": "1995-04-26-fra-slovakia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Ginola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "david ginola",
+  "playerKey": "david-ginola",
+  "scorer": "David Ginola",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

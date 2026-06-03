@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "barbados",
+      "date": "2011-09-02",
+      "goalId": "goal-2011-09-02-guyana-barbados-30907",
+      "homeTeamId": "guyana",
+      "matchKey": "2011-09-02-guyana-barbados",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charles Pollard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guyana"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2012-10-12",
+      "goalId": "goal-2012-10-12-guyana-mex-32287",
+      "homeTeamId": "guyana",
+      "matchKey": "2012-10-12-guyana-mex",
+      "minute": 82,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Charles Pollard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "charles pollard",
+  "playerKey": "charles-pollard",
+  "scorer": "Charles Pollard",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guyana",
+    "mex"
+  ]
+}

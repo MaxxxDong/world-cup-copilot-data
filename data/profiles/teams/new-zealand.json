@@ -1,0 +1,244 @@
+{
+  "aliases": [
+    "New Zealand",
+    "NZL",
+    "All Whites"
+  ],
+  "allTime": {
+    "draws": 73,
+    "goalsAgainst": 619,
+    "goalsFor": 729,
+    "losses": 169,
+    "matches": 414,
+    "wins": 172
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "fifaCode": "NZL",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 15,
+      "goalsFor": 9,
+      "losses": 7,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 2,
+      "goalsAgainst": 20,
+      "goalsFor": 51,
+      "losses": 8,
+      "matches": 20,
+      "wins": 10
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 8,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "high",
+  "identityStatus": "registry",
+  "profileConfidence": "medium",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "chile",
+      "date": "2026-03-30",
+      "homeScore": 4,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2026-03-30-new-zealand-chile",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "finland",
+      "date": "2026-03-27",
+      "homeScore": 0,
+      "homeTeamId": "new-zealand",
+      "matchId": "int-2026-03-27-new-zealand-finland",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "new-zealand",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "ecuador",
+      "matchId": "int-2025-11-18-ecuador-new-zealand",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "2025-11-15",
+      "homeScore": 2,
+      "homeTeamId": "colombia",
+      "matchId": "int-2025-11-15-colombia-new-zealand",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "new-zealand",
+      "date": "2025-10-14",
+      "homeScore": 1,
+      "homeTeamId": "norway",
+      "matchId": "int-2025-10-14-norway-new-zealand",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "input/team-registry.seed.json",
+      "sourceId": "world-cup-copilot-team-registry"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 36,
+      "goalsAgainst": 296,
+      "goalsFor": 434,
+      "losses": 76,
+      "matches": 219,
+      "wins": 107
+    },
+    "friendly": {
+      "draws": 37,
+      "goalsAgainst": 323,
+      "goalsFor": 295,
+      "losses": 93,
+      "matches": 195,
+      "wins": 65
+    },
+    "neutralVenue": {
+      "draws": 17,
+      "goalsAgainst": 149,
+      "goalsFor": 160,
+      "losses": 48,
+      "matches": 107,
+      "wins": 42
+    },
+    "nonNeutralVenue": {
+      "draws": 56,
+      "goalsAgainst": 470,
+      "goalsFor": 569,
+      "losses": 121,
+      "matches": 307,
+      "wins": 130
+    },
+    "worldCup": {
+      "draws": 3,
+      "goalsAgainst": 14,
+      "goalsFor": 4,
+      "losses": 3,
+      "matches": 6,
+      "wins": 0
+    }
+  },
+  "teamId": "new-zealand",
+  "teamName": "New Zealand",
+  "topScorers": [
+    {
+      "goals": 30,
+      "playerKey": "chris-wood",
+      "scorer": "Chris Wood"
+    },
+    {
+      "goals": 23,
+      "playerKey": "vaughan-coveny",
+      "scorer": "Vaughan Coveny"
+    },
+    {
+      "goals": 17,
+      "playerKey": "steve-sumner",
+      "scorer": "Steve Sumner"
+    },
+    {
+      "goals": 14,
+      "playerKey": "shane-smeltz",
+      "scorer": "Shane Smeltz"
+    },
+    {
+      "goals": 11,
+      "playerKey": "brian-turner",
+      "scorer": "Brian Turner"
+    },
+    {
+      "goals": 10,
+      "playerKey": "chris-killen",
+      "scorer": "Chris Killen"
+    },
+    {
+      "goals": 10,
+      "playerKey": "grant-turner",
+      "scorer": "Grant Turner"
+    },
+    {
+      "goals": 9,
+      "playerKey": "steve-wooddin",
+      "scorer": "Steve Wooddin"
+    },
+    {
+      "goals": 9,
+      "playerKey": "wynton-rufer",
+      "scorer": "Wynton Rufer"
+    },
+    {
+      "goals": 8,
+      "playerKey": "darren-mcclennan",
+      "scorer": "Darren McClennan"
+    }
+  ]
+}

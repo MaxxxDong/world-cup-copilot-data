@@ -1,0 +1,207 @@
+{
+  "allTime": {
+    "draws": 3,
+    "matches": 8,
+    "teamAGoals": 7,
+    "teamAWins": 2,
+    "teamBGoals": 8,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "croatia",
+    "date": "2024-11-15",
+    "homeScore": 1,
+    "homeTeamId": "scotland",
+    "matchId": "int-2024-11-15-scotland-croatia",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "UEFA Nations League"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "2000-10-11",
+      "homeScore": 1,
+      "homeTeamId": "croatia",
+      "matchId": "int-2000-10-11-croatia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2001-09-01",
+      "homeScore": 0,
+      "homeTeamId": "scotland",
+      "matchId": "int-2001-09-01-scotland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "croatia",
+      "date": "2008-03-26",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-2008-03-26-scotland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "2013-06-07",
+      "homeScore": 0,
+      "homeTeamId": "croatia",
+      "matchId": "int-2013-06-07-croatia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2013-10-15",
+      "homeScore": 2,
+      "homeTeamId": "scotland",
+      "matchId": "int-2013-10-15-scotland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "croatia",
+      "date": "2021-06-22",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-2021-06-22-scotland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Euro"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "2024-10-12",
+      "homeScore": 2,
+      "homeTeamId": "croatia",
+      "matchId": "int-2024-10-12-croatia-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "croatia",
+      "date": "2024-11-15",
+      "homeScore": 1,
+      "homeTeamId": "scotland",
+      "matchId": "int-2024-11-15-scotland-croatia",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "UEFA Nations League"
+    }
+  ],
+  "pairKey": "croatia__scotland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 2,
+      "matches": 7,
+      "teamAGoals": 6,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 3
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 8,
+      "teamAGoals": 7,
+      "teamAWins": 2,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "croatia",
+  "teamBId": "scotland"
+}

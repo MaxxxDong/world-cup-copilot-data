@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "turkey",
+      "date": "2009-03-28",
+      "goalId": "goal-2009-03-28-spain-turkey-28934",
+      "homeTeamId": "spain",
+      "matchKey": "2009-03-28-spain-turkey",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard Piqué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "belgium",
+      "date": "2009-09-05",
+      "goalId": "goal-2009-09-05-spain-belgium-29426",
+      "homeTeamId": "spain",
+      "matchKey": "2009-09-05-spain-belgium",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard Piqué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2009-10-14",
+      "goalId": "goal-2009-10-14-bosnia-and-herzegovina-spain-29684",
+      "homeTeamId": "bosnia-and-herzegovina",
+      "matchKey": "2009-10-14-bosnia-and-herzegovina-spain",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard Piqué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2010-10-12",
+      "goalId": "goal-2010-10-12-scotland-spain-30251",
+      "homeTeamId": "scotland",
+      "matchKey": "2010-10-12-scotland-spain",
+      "minute": 67,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Gerard Piqué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "czech-republic",
+      "date": "2016-06-13",
+      "goalId": "goal-2016-06-13-spain-czech-republic-35847",
+      "homeTeamId": "spain",
+      "matchKey": "2016-06-13-spain-czech-republic",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Gerard Piqué",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "spain"
+    }
+  ],
+  "normalizedScorer": "gerard piqu",
+  "playerKey": "gerard-piqu",
+  "scorer": "Gerard Piqué",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland",
+    "spain"
+  ]
+}

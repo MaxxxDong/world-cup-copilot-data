@@ -1,0 +1,108 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "paraguay",
+      "date": "1942-01-11",
+      "goalId": "goal-1942-01-11-arg-paraguay-1250",
+      "homeTeamId": "arg",
+      "matchKey": "1942-01-11-arg-paraguay",
+      "minute": 59,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vicente Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2004-07-13",
+      "goalId": "goal-2004-07-13-arg-uruguay-24097",
+      "homeTeamId": "arg",
+      "matchKey": "2004-07-13-arg-uruguay",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vicente Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2004-07-24",
+      "goalId": "goal-2004-07-24-colombia-uruguay-24164",
+      "homeTeamId": "colombia",
+      "matchKey": "2004-07-24-colombia-uruguay",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vicente Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "uruguay",
+      "date": "2007-06-30",
+      "goalId": "goal-2007-06-30-bolivia-uruguay-26799",
+      "homeTeamId": "bolivia",
+      "matchKey": "2007-06-30-bolivia-uruguay",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vicente Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2007-10-13",
+      "goalId": "goal-2007-10-13-uruguay-bolivia-27156",
+      "homeTeamId": "uruguay",
+      "matchKey": "2007-10-13-uruguay-bolivia",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vicente Sánchez",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "vicente s nchez",
+  "playerKey": "vicente-s-nchez",
+  "scorer": "Vicente Sánchez",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay",
+    "uruguay"
+  ]
+}

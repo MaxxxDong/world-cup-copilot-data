@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "rwanda",
+      "date": "2019-09-05",
+      "goalId": "goal-2019-09-05-seychelles-rwanda-38874",
+      "homeTeamId": "seychelles",
+      "matchKey": "2019-09-05-seychelles-rwanda",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yannick Mukunzi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    },
+    {
+      "awayTeamId": "seychelles",
+      "date": "2019-09-10",
+      "goalId": "goal-2019-09-10-rwanda-seychelles-39079",
+      "homeTeamId": "rwanda",
+      "matchKey": "2019-09-10-rwanda-seychelles",
+      "minute": 57,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yannick Mukunzi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rwanda"
+    }
+  ],
+  "normalizedScorer": "yannick mukunzi",
+  "playerKey": "yannick-mukunzi",
+  "scorer": "Yannick Mukunzi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rwanda"
+  ]
+}

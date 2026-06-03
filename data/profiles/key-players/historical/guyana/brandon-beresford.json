@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2015-06-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1992-07-15",
+    "nationality": "United States",
+    "playerKey": "brandon-beresford",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "023eb759",
+      "footballdatabase_eu": "153727",
+      "kicker": "brandon-beresford",
+      "national_football_teams": "40683",
+      "soccerway": "165939",
+      "transfermarkt": "247252",
+      "wikidata": "Q4956765"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-06-10",
+  "playerKey": "brandon-beresford",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-06-10",
+      "goalId": "goal-2015-06-10-saint-vincent-and-the-grenadines-guyana-34342",
+      "matchKey": "2015-06-10-saint-vincent-and-the-grenadines-guyana",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Brandon Beresford"
+    }
+  ],
+  "scorer": "Brandon Beresford",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guyana",
+  "teamName": "Guyana",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

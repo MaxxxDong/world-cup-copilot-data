@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "jordan",
+      "date": "2024-09-10",
+      "goalId": "goal-2024-09-10-palestine-jordan-45368",
+      "homeTeamId": "palestine",
+      "matchKey": "2024-09-10-palestine-jordan",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wessam Abou Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    },
+    {
+      "awayTeamId": "kuwait",
+      "date": "2024-10-15",
+      "goalId": "goal-2024-10-15-palestine-kuwait-45576",
+      "homeTeamId": "palestine",
+      "matchKey": "2024-10-15-palestine-kuwait",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Wessam Abou Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    },
+    {
+      "awayTeamId": "iraq",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-palestine-iraq-46193",
+      "homeTeamId": "palestine",
+      "matchKey": "2025-03-25-palestine-iraq",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wessam Abou Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    },
+    {
+      "awayTeamId": "palestine",
+      "date": "2025-06-05",
+      "goalId": "goal-2025-06-05-kuwait-palestine-46239",
+      "homeTeamId": "kuwait",
+      "matchKey": "2025-06-05-kuwait-palestine",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Wessam Abou Ali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    }
+  ],
+  "normalizedScorer": "wessam abou ali",
+  "playerKey": "wessam-abou-ali",
+  "scorer": "Wessam Abou Ali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "palestine"
+  ]
+}

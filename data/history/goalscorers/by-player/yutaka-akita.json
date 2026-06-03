@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "japan",
+      "date": "1997-03-25",
+      "goalId": "goal-1997-03-25-macau-japan-16790",
+      "homeTeamId": "macau",
+      "matchKey": "1997-03-25-macau-japan",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yutaka Akita",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "japan",
+      "date": "1997-10-04",
+      "goalId": "goal-1997-10-04-kazakhstan-japan-17788",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "1997-10-04-kazakhstan-japan",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yutaka Akita",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "1997-11-08",
+      "goalId": "goal-1997-11-08-japan-kazakhstan-17934",
+      "homeTeamId": "japan",
+      "matchKey": "1997-11-08-japan-kazakhstan",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yutaka Akita",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "japan"
+    }
+  ],
+  "normalizedScorer": "yutaka akita",
+  "playerKey": "yutaka-akita",
+  "scorer": "Yutaka Akita",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "japan"
+  ]
+}

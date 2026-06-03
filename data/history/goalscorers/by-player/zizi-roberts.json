@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "sierra-leone",
+      "date": "2001-02-25",
+      "goalId": "goal-2001-02-25-liberia-sierra-leone-20454",
+      "homeTeamId": "liberia",
+      "matchKey": "2001-02-25-liberia-sierra-leone",
+      "minute": 65,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zizi Roberts",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "liberia"
+    },
+    {
+      "awayTeamId": "gambia",
+      "date": "2003-11-16",
+      "goalId": "goal-2003-11-16-liberia-gambia-23178",
+      "homeTeamId": "liberia",
+      "matchKey": "2003-11-16-liberia-gambia",
+      "minute": 10,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zizi Roberts",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "liberia"
+    }
+  ],
+  "normalizedScorer": "zizi roberts",
+  "playerKey": "zizi-roberts",
+  "scorer": "Zizi Roberts",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "liberia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "rsa",
+      "date": "1997-12-17",
+      "goalId": "goal-1997-12-17-uruguay-rsa-18040",
+      "homeTeamId": "uruguay",
+      "matchKey": "1997-12-17-uruguay-rsa",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucas Radebe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "spain",
+      "date": "2002-06-12",
+      "goalId": "goal-2002-06-12-rsa-spain-22281",
+      "homeTeamId": "rsa",
+      "matchKey": "2002-06-12-rsa-spain",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lucas Radebe",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    }
+  ],
+  "normalizedScorer": "lucas radebe",
+  "playerKey": "lucas-radebe",
+  "scorer": "Lucas Radebe",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rsa"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "netherlands",
+      "date": "2002-10-16",
+      "goalId": "goal-2002-10-16-austria-netherlands-22503",
+      "homeTeamId": "austria",
+      "matchKey": "2002-10-16-austria-netherlands",
+      "minute": 30,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roy Makaay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2004-06-23",
+      "goalId": "goal-2004-06-23-netherlands-latvia-24005",
+      "homeTeamId": "netherlands",
+      "matchKey": "2004-06-23-netherlands-latvia",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Roy Makaay",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "roy makaay",
+  "playerKey": "roy-makaay",
+  "scorer": "Roy Makaay",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

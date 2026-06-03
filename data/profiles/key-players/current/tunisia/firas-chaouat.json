@@ -1,0 +1,78 @@
+{
+  "club": "Club Africain (TUN)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1996-05-08",
+    "nationality": "Tunisia",
+    "playerKey": "firas-chaouat",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "2962",
+      "fbref": "7fa8ef98",
+      "footballdatabase_eu": "278627",
+      "impect": "99990",
+      "kicker": "firas-chaouat",
+      "national_football_teams": "72298",
+      "soccerway": "426035",
+      "sofascore": "919198",
+      "thesportsdb": "34238667",
+      "transfermarkt": "402087",
+      "wikidata": "Q58815643"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Firas Chaouat",
+  "playerKey": "firas-chaouat",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2026-01-03",
+      "goalId": "goal-2026-01-03-mali-tunisia-47522",
+      "matchKey": "2026-01-03-mali-tunisia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Firas Chaouat"
+    },
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-tunisia-sao-tome-and-principe-47030",
+      "matchKey": "2025-10-10-tunisia-sao-tome-and-principe",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Firas Chaouat"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "tunisia",
+  "teamName": "Tunisia"
+}

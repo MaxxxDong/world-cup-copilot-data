@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "hong-kong",
+      "date": "2001-03-25",
+      "goalId": "goal-2001-03-25-qatar-hong-kong-20611",
+      "homeTeamId": "qatar",
+      "matchKey": "2001-03-25-qatar-hong-kong",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Meshal Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    },
+    {
+      "awayTeamId": "vietnam",
+      "date": "2011-07-23",
+      "goalId": "goal-2011-07-23-qatar-vietnam-30767",
+      "homeTeamId": "qatar",
+      "matchKey": "2011-07-23-qatar-vietnam",
+      "minute": 51,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Meshal Mubarak",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "qatar"
+    }
+  ],
+  "normalizedScorer": "meshal mubarak",
+  "playerKey": "meshal-mubarak",
+  "scorer": "Meshal Mubarak",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "qatar"
+  ]
+}

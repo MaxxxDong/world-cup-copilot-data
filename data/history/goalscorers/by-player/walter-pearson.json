@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "honduras",
+      "date": "1960-09-11",
+      "goalId": "goal-1960-09-11-costa-rica-honduras-3332",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1960-09-11-costa-rica-honduras",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Pearson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1963-04-03",
+      "goalId": "goal-1963-04-03-el-salvador-costa-rica-3986",
+      "homeTeamId": "el-salvador",
+      "matchKey": "1963-04-03-el-salvador-costa-rica",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Pearson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "curacao",
+      "date": "1963-04-05",
+      "goalId": "goal-1963-04-05-costa-rica-curacao-3992",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1963-04-05-costa-rica-curacao",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Pearson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "walter pearson",
+  "playerKey": "walter-pearson",
+  "scorer": "Walter Pearson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

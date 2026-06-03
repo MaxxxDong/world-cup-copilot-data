@@ -1,0 +1,191 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 7,
+    "teamAGoals": 5,
+    "teamAWins": 0,
+    "teamBGoals": 18,
+    "teamBWins": 6
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "malta",
+    "date": "2017-09-04",
+    "homeScore": 2,
+    "homeTeamId": "scotland",
+    "matchId": "int-2017-09-04-scotland-malta",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "FIFA World Cup qualification"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "scotland",
+      "date": "1988-03-22",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-1988-03-22-malta-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "scotland",
+      "date": "1990-05-28",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-1990-05-28-malta-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "1993-02-17",
+      "homeScore": 3,
+      "homeTeamId": "scotland",
+      "matchId": "int-1993-02-17-scotland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "scotland",
+      "date": "1993-11-17",
+      "homeScore": 0,
+      "homeTeamId": "malta",
+      "matchId": "int-1993-11-17-malta-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "scotland",
+      "date": "1997-06-01",
+      "homeScore": 2,
+      "homeTeamId": "malta",
+      "matchId": "int-1997-06-01-malta-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 5,
+      "awayTeamId": "scotland",
+      "date": "2016-09-04",
+      "homeScore": 1,
+      "homeTeamId": "malta",
+      "matchId": "int-2016-09-04-malta-scotland",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "malta",
+      "date": "2017-09-04",
+      "homeScore": 2,
+      "homeTeamId": "scotland",
+      "matchId": "int-2017-09-04-scotland-malta",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    }
+  ],
+  "pairKey": "malta__scotland",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 4,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 12,
+      "teamBWins": 4
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 6,
+      "teamBWins": 2
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 5,
+      "teamAWins": 0,
+      "teamBGoals": 18,
+      "teamBWins": 6
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "malta",
+  "teamBId": "scotland"
+}

@@ -1,0 +1,83 @@
+{
+  "club": "Real Betis (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1991-04-11",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "cedric-bakambu",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "3033",
+      "capology": "cedric-bakambu-33339",
+      "dongqiudi": "50089342",
+      "espn": "147193",
+      "fbref": "0af4dcf0",
+      "fff_fr": "9372-bakambu-cedric",
+      "footballdatabase_eu": "52386",
+      "fotmob": "201939",
+      "heimspiel": "223870",
+      "impect": "7301",
+      "kicker": "cedric-bakambu",
+      "lequipe": "32971",
+      "national_football_teams": "59433",
+      "opta": "a68fosxpgtyxj64ex9f6nget",
+      "skillcorner": "27912",
+      "soccerbase": "54507",
+      "soccerway": "136141",
+      "sofascore": "115665",
+      "sofifa": "336425",
+      "thesportsdb": "34196334",
+      "transfermarkt": "127048",
+      "uefa": "250019497",
+      "wikidata": "Q932982",
+      "worldfootball": "cedric-bakambu",
+      "wyscout": "25472"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Cedric Bakambu",
+  "playerKey": "cedric-bakambu",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-10-10",
+      "goalId": "goal-2025-10-10-togo-dr-congo-47029",
+      "matchKey": "2025-10-10-togo-dr-congo",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Cedric Bakambu"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+  },
+  "shirtNumber": 17,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dr-congo",
+  "teamName": "DR Congo"
+}

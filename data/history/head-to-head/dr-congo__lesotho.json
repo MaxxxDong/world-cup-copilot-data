@@ -1,0 +1,175 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 6,
+    "teamAGoals": 14,
+    "teamAWins": 2,
+    "teamBGoals": 4,
+    "teamBWins": 0
+  },
+  "lastMeeting": {
+    "awayScore": 3,
+    "awayTeamId": "dr-congo",
+    "date": "2011-11-06",
+    "homeScore": 0,
+    "homeTeamId": "lesotho",
+    "matchId": "int-2011-11-06-lesotho-dr-congo",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "dr-congo",
+      "date": "1993-04-11",
+      "homeScore": 1,
+      "homeTeamId": "lesotho",
+      "matchId": "int-1993-04-11-lesotho-dr-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "lesotho",
+      "date": "1993-07-25",
+      "homeScore": 7,
+      "homeTeamId": "dr-congo",
+      "matchId": "int-1993-07-25-dr-congo-lesotho",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "lesotho",
+      "date": "2000-10-10",
+      "homeScore": 1,
+      "homeTeamId": "dr-congo",
+      "matchId": "int-2000-10-10-dr-congo-lesotho",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "dr-congo",
+      "date": "2001-06-03",
+      "homeScore": 0,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2001-06-03-lesotho-dr-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "dr-congo",
+      "date": "2003-03-16",
+      "homeScore": 2,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2003-03-16-lesotho-dr-congo",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "dr-congo",
+      "date": "2011-11-06",
+      "homeScore": 0,
+      "homeTeamId": "lesotho",
+      "matchId": "int-2011-11-06-lesotho-dr-congo",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "dr-congo__lesotho",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 4,
+      "teamAGoals": 9,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 2,
+      "teamAGoals": 5,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 3,
+      "teamAWins": 1,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 4,
+      "matches": 5,
+      "teamAGoals": 11,
+      "teamAWins": 1,
+      "teamBGoals": 4,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "dr-congo",
+  "teamBId": "lesotho"
+}

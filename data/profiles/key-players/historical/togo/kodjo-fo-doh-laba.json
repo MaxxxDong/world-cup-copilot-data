@@ -1,0 +1,77 @@
+{
+  "firstGoalDate": "2017-01-24",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1992-01-27",
+    "nationality": "Togo",
+    "playerKey": "kodjo-fo-doh-laba",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "36679",
+      "fbref": "bdfc0882",
+      "footballdatabase_eu": "264210",
+      "heimspiel": "446027",
+      "impect": "17230",
+      "kicker": "kodjo-fo-doh-laba",
+      "lequipe": "62181",
+      "national_football_teams": "63620",
+      "skillcorner": "79110",
+      "soccerway": "334478",
+      "sofascore": "865839",
+      "thesportsdb": "34230673",
+      "transfermarkt": "425973",
+      "wikidata": "Q28112115",
+      "wyscout": "428474"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2019-09-06",
+  "playerKey": "kodjo-fo-doh-laba",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2019-09-06",
+      "goalId": "goal-2019-09-06-comoros-togo-38893",
+      "matchKey": "2019-09-06-comoros-togo",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kodjo Fo-Doh Laba"
+    },
+    {
+      "date": "2017-01-24",
+      "goalId": "goal-2017-01-24-togo-dr-congo-36597",
+      "matchKey": "2017-01-24-togo-dr-congo",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kodjo Fo-Doh Laba"
+    }
+  ],
+  "scorer": "Kodjo Fo-Doh Laba",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "togo",
+  "teamName": "Togo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

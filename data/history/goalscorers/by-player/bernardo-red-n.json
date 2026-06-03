@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1987-07-08",
+      "goalId": "goal-1987-07-08-chile-colombia-11484",
+      "homeTeamId": "chile",
+      "matchKey": "1987-07-08-chile-colombia",
+      "minute": 103,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Bernardo Redín",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1990-06-09",
+      "goalId": "goal-1990-06-09-united-arab-emirates-colombia-12477",
+      "homeTeamId": "united-arab-emirates",
+      "matchKey": "1990-06-09-united-arab-emirates-colombia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernardo Redín",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1990-06-23",
+      "goalId": "goal-1990-06-23-cameroon-colombia-12557",
+      "homeTeamId": "cameroon",
+      "matchKey": "1990-06-23-cameroon-colombia",
+      "minute": 115,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bernardo Redín",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "colombia"
+    }
+  ],
+  "normalizedScorer": "bernardo red n",
+  "playerKey": "bernardo-red-n",
+  "scorer": "Bernardo Redín",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "colombia"
+  ]
+}

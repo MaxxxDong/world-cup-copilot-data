@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bulgaria",
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-italy-bulgaria-41177",
+      "homeTeamId": "italy",
+      "matchKey": "2021-09-02-italy-bulgaria",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Atanas Iliev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    },
+    {
+      "awayTeamId": "georgia",
+      "date": "2022-06-05",
+      "goalId": "goal-2022-06-05-bulgaria-georgia-42534",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2022-06-05-bulgaria-georgia",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Atanas Iliev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bulgaria"
+    }
+  ],
+  "normalizedScorer": "atanas iliev",
+  "playerKey": "atanas-iliev",
+  "scorer": "Atanas Iliev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bulgaria"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "1993-06-22",
+      "goalId": "goal-1993-06-22-usa-venezuela-14288",
+      "homeTeamId": "usa",
+      "matchKey": "1993-06-22-usa-venezuela",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Henderson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    },
+    {
+      "awayTeamId": "el-salvador",
+      "date": "1997-11-16",
+      "goalId": "goal-1997-11-16-usa-el-salvador-17987",
+      "homeTeamId": "usa",
+      "matchKey": "1997-11-16-usa-el-salvador",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chris Henderson",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "chris henderson",
+  "playerKey": "chris-henderson",
+  "scorer": "Chris Henderson",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}

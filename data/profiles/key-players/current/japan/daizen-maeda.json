@@ -1,0 +1,90 @@
+{
+  "club": "Celtic FC (SCO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1997-10-20",
+    "nationality": "Japan",
+    "playerKey": "daizen-maeda",
+    "position": "forward",
+    "providerIds": {
+      "11v11": "262587",
+      "api_football": "33224",
+      "besoccer": "317598",
+      "capology": "daizen-maeda-35723",
+      "espn": "286347",
+      "fbref": "395451fc",
+      "footballdatabase_eu": "288653",
+      "heimspiel": "561453",
+      "impect": "52072",
+      "kicker": "daizen-maeda",
+      "lequipe": "75347",
+      "national_football_teams": "74628",
+      "opta": "4x7o9h6ea8ldt9sxgz87vwycp",
+      "skillcorner": "29216",
+      "soccerbase": "120390",
+      "soccerway": "436946",
+      "sofascore": "832420",
+      "thesportsdb": "34180666",
+      "transfermarkt": "420931",
+      "uefa": "250169706",
+      "wikidata": "Q27990906",
+      "worldfootball": "daizen-maeda",
+      "wyscout": "419853"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Daizen Maeda",
+  "playerKey": "daizen-maeda",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-09-05",
+      "goalId": "goal-2024-09-05-japan-china-pr-45191",
+      "matchKey": "2024-09-05-japan-china-pr",
+      "minute": 87,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daizen Maeda"
+    },
+    {
+      "date": "2022-12-05",
+      "goalId": "goal-2022-12-05-japan-croatia-43032",
+      "matchKey": "2022-12-05-japan-croatia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Daizen Maeda"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+  },
+  "shirtNumber": 11,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "japan",
+  "teamName": "Japan"
+}

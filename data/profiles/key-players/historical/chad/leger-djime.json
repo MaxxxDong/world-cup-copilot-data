@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2008-09-10",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1987-10-02",
+    "nationality": "Chad",
+    "playerKey": "leger-djime",
+    "position": "winger",
+    "providerIds": {
+      "fbref": "76b6eca4",
+      "footballdatabase_eu": "37517",
+      "national_football_teams": "38881",
+      "sofifa": "298013",
+      "transfermarkt": "82353",
+      "wikidata": "Q450559"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-10-11",
+  "playerKey": "leger-djime",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-mali-chad-28624",
+      "matchKey": "2008-10-11-mali-chad",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leger Djime"
+    },
+    {
+      "date": "2008-09-10",
+      "goalId": "goal-2008-09-10-chad-sudan-28461",
+      "matchKey": "2008-09-10-chad-sudan",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Leger Djime"
+    }
+  ],
+  "scorer": "Leger Djime",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "chad",
+  "teamName": "Chad",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

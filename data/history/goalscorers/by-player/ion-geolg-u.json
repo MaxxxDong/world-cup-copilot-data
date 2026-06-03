@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "romania",
+      "date": "1983-11-30",
+      "goalId": "goal-1983-11-30-czechoslovakia-romania-10176",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1983-11-30-czechoslovakia-romania",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ion Geolgău",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    },
+    {
+      "awayTeamId": "romania",
+      "date": "1984-09-12",
+      "goalId": "goal-1984-09-12-northern-ireland-romania-10322",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1984-09-12-northern-ireland-romania",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ion Geolgău",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "romania"
+    }
+  ],
+  "normalizedScorer": "ion geolg u",
+  "playerKey": "ion-geolg-u",
+  "scorer": "Ion Geolgău",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "romania"
+  ]
+}

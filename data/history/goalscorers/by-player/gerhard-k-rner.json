@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1967-10-11",
+      "goalId": "goal-1967-10-11-german-dr-denmark-5011",
+      "homeTeamId": "german-dr",
+      "matchKey": "1967-10-11-german-dr-denmark",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Gerhard Körner",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "german-dr"
+    }
+  ],
+  "normalizedScorer": "gerhard k rner",
+  "playerKey": "gerhard-k-rner",
+  "scorer": "Gerhard Körner",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "german-dr"
+  ]
+}

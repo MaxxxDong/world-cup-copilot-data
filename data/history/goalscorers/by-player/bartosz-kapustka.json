@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gibraltar",
+      "date": "2015-09-07",
+      "goalId": "goal-2015-09-07-poland-gibraltar-34852",
+      "homeTeamId": "poland",
+      "matchKey": "2015-09-07-poland-gibraltar",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bartosz Kapustka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2016-09-04",
+      "goalId": "goal-2016-09-04-kazakhstan-poland-36016",
+      "homeTeamId": "kazakhstan",
+      "matchKey": "2016-09-04-kazakhstan-poland",
+      "minute": 9,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bartosz Kapustka",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "bartosz kapustka",
+  "playerKey": "bartosz-kapustka",
+  "scorer": "Bartosz Kapustka",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

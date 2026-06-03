@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1997-06-12",
+      "goalId": "goal-1997-06-12-peru-uruguay-17322",
+      "homeTeamId": "peru",
+      "matchKey": "1997-06-12-peru-uruguay",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martín Hidalgo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "arg",
+      "date": "1997-06-21",
+      "goalId": "goal-1997-06-21-peru-arg-17422",
+      "homeTeamId": "peru",
+      "matchKey": "1997-06-21-peru-arg",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Martín Hidalgo",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "mart n hidalgo",
+  "playerKey": "mart-n-hidalgo",
+  "scorer": "Martín Hidalgo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

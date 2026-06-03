@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Burundi"
+  ],
+  "allTime": {
+    "draws": 52,
+    "goalsAgainst": 290,
+    "goalsFor": 237,
+    "losses": 100,
+    "matches": 217,
+    "wins": 65
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 2,
+      "goalsAgainst": 9,
+      "goalsFor": 6,
+      "losses": 6,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 31,
+      "goalsFor": 18,
+      "losses": 12,
+      "matches": 20,
+      "wins": 5
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 6,
+      "goalsFor": 0,
+      "losses": 4,
+      "matches": 5,
+      "wins": 0
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "burundi",
+      "date": "2025-10-14",
+      "homeScore": 2,
+      "homeTeamId": "gabon",
+      "matchId": "int-2025-10-14-gabon-burundi",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "kenya",
+      "date": "2025-10-09",
+      "homeScore": 0,
+      "homeTeamId": "burundi",
+      "matchId": "int-2025-10-09-burundi-kenya",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burundi",
+      "date": "2025-09-09",
+      "homeScore": 2,
+      "homeTeamId": "gambia",
+      "matchId": "int-2025-09-09-gambia-burundi",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "burundi",
+      "date": "2025-09-05",
+      "homeScore": 1,
+      "homeTeamId": "civ",
+      "matchId": "int-2025-09-05-civ-burundi",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2025-06-10",
+      "homeScore": 0,
+      "homeTeamId": "burundi",
+      "matchId": "int-2025-06-10-burundi-mauritania",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 38,
+      "goalsAgainst": 220,
+      "goalsFor": 175,
+      "losses": 82,
+      "matches": 172,
+      "wins": 52
+    },
+    "friendly": {
+      "draws": 14,
+      "goalsAgainst": 70,
+      "goalsFor": 62,
+      "losses": 18,
+      "matches": 45,
+      "wins": 13
+    },
+    "neutralVenue": {
+      "draws": 20,
+      "goalsAgainst": 96,
+      "goalsFor": 109,
+      "losses": 34,
+      "matches": 87,
+      "wins": 33
+    },
+    "nonNeutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 194,
+      "goalsFor": 128,
+      "losses": 66,
+      "matches": 130,
+      "wins": 32
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "burundi",
+  "teamName": "Burundi",
+  "topScorers": [
+    {
+      "goals": 4,
+      "playerKey": "c-dric-amissi",
+      "scorer": "Cédric Amissi"
+    },
+    {
+      "goals": 4,
+      "playerKey": "fiston-abdul-razak",
+      "scorer": "Fiston Abdul Razak"
+    },
+    {
+      "goals": 3,
+      "playerKey": "bienvenue-kanakimana",
+      "scorer": "Bienvenue Kanakimana"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sudi-abdallah",
+      "scorer": "Sudi Abdallah"
+    },
+    {
+      "goals": 2,
+      "playerKey": "abedi-bigirimana",
+      "scorer": "Abedi Bigirimana"
+    },
+    {
+      "goals": 2,
+      "playerKey": "bonfils-caleb-bimenyimana",
+      "scorer": "Bonfils-Caleb Bimenyimana"
+    },
+    {
+      "goals": 2,
+      "playerKey": "claude-nahimana",
+      "scorer": "Claude Nahimana"
+    },
+    {
+      "goals": 2,
+      "playerKey": "henri-mbazumutima",
+      "scorer": "Henri Mbazumutima"
+    },
+    {
+      "goals": 2,
+      "playerKey": "selemani-ndikumana",
+      "scorer": "Selemani Ndikumana"
+    },
+    {
+      "goals": 1,
+      "playerKey": "albert-niyonkuru",
+      "scorer": "Albert Niyonkuru"
+    }
+  ]
+}

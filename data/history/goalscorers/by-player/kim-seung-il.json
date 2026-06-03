@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "north-korea",
+      "date": "1965-11-24",
+      "goalId": "goal-1965-11-24-australia-north-korea-4604",
+      "homeTeamId": "australia",
+      "matchKey": "1965-11-24-australia-north-korea",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Seung-il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    },
+    {
+      "awayTeamId": "north-korea",
+      "date": "1965-11-24",
+      "goalId": "goal-1965-11-24-australia-north-korea-4606",
+      "homeTeamId": "australia",
+      "matchKey": "1965-11-24-australia-north-korea",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kim Seung-il",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "north-korea"
+    }
+  ],
+  "normalizedScorer": "kim seung il",
+  "playerKey": "kim-seung-il",
+  "scorer": "Kim Seung-il",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "north-korea"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Grenada"
+  ],
+  "allTime": {
+    "draws": 56,
+    "goalsAgainst": 479,
+    "goalsFor": 422,
+    "losses": 117,
+    "matches": 259,
+    "wins": 86
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 17,
+      "goalsFor": 18,
+      "losses": 4,
+      "matches": 10,
+      "wins": 5
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 35,
+      "goalsFor": 27,
+      "losses": 10,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 9,
+      "goalsFor": 6,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "kenya",
+      "date": "2026-03-30",
+      "homeScore": 0,
+      "homeTeamId": "grenada",
+      "matchId": "int-2026-03-30-grenada-kenya",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "grenada",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "rwanda",
+      "matchId": "int-2026-03-27-rwanda-grenada",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "jamaica",
+      "date": "2026-01-18",
+      "homeScore": 0,
+      "homeTeamId": "grenada",
+      "matchId": "int-2026-01-18-grenada-jamaica",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "cuba",
+      "date": "2025-10-11",
+      "homeScore": 2,
+      "homeTeamId": "grenada",
+      "matchId": "int-2025-10-11-grenada-cuba",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "british-virgin-islands",
+      "date": "2025-10-09",
+      "homeScore": 4,
+      "homeTeamId": "grenada",
+      "matchId": "int-2025-10-09-grenada-british-virgin-islands",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 37,
+      "goalsAgainst": 345,
+      "goalsFor": 323,
+      "losses": 81,
+      "matches": 185,
+      "wins": 67
+    },
+    "friendly": {
+      "draws": 19,
+      "goalsAgainst": 134,
+      "goalsFor": 99,
+      "losses": 36,
+      "matches": 74,
+      "wins": 19
+    },
+    "neutralVenue": {
+      "draws": 16,
+      "goalsAgainst": 106,
+      "goalsFor": 117,
+      "losses": 26,
+      "matches": 67,
+      "wins": 25
+    },
+    "nonNeutralVenue": {
+      "draws": 40,
+      "goalsAgainst": 373,
+      "goalsFor": 305,
+      "losses": 91,
+      "matches": 192,
+      "wins": 61
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "grenada",
+  "teamName": "Grenada",
+  "topScorers": [
+    {
+      "goals": 8,
+      "playerKey": "ricky-charles",
+      "scorer": "Ricky Charles"
+    },
+    {
+      "goals": 5,
+      "playerKey": "jason-roberts",
+      "scorer": "Jason Roberts"
+    },
+    {
+      "goals": 3,
+      "playerKey": "anthony-modeste",
+      "scorer": "Anthony Modeste"
+    },
+    {
+      "goals": 3,
+      "playerKey": "clive-murray",
+      "scorer": "Clive Murray"
+    },
+    {
+      "goals": 3,
+      "playerKey": "keith-fletcher",
+      "scorer": "Keith Fletcher"
+    },
+    {
+      "goals": 3,
+      "playerKey": "saydrel-lewis",
+      "scorer": "Saydrel Lewis"
+    },
+    {
+      "goals": 3,
+      "playerKey": "shane-rennie",
+      "scorer": "Shane Rennie"
+    },
+    {
+      "goals": 2,
+      "playerKey": "byron-bubb",
+      "scorer": "Byron Bubb"
+    },
+    {
+      "goals": 2,
+      "playerKey": "darius-johnson",
+      "scorer": "Darius Johnson"
+    },
+    {
+      "goals": 2,
+      "playerKey": "jason-fran-ois",
+      "scorer": "Jason François"
+    }
+  ]
+}

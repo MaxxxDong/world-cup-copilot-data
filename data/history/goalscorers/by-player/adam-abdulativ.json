@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "cambodia",
+      "date": "2001-04-01",
+      "goalId": "goal-2001-04-01-maldives-cambodia-20700",
+      "homeTeamId": "maldives",
+      "matchKey": "2001-04-01-maldives-cambodia",
+      "minute": 52,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adam Abdulativ",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "maldives"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "2001-04-01",
+      "goalId": "goal-2001-04-01-maldives-cambodia-20704",
+      "homeTeamId": "maldives",
+      "matchKey": "2001-04-01-maldives-cambodia",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Adam Abdulativ",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "maldives"
+    }
+  ],
+  "normalizedScorer": "adam abdulativ",
+  "playerKey": "adam-abdulativ",
+  "scorer": "Adam Abdulativ",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "maldives"
+  ]
+}

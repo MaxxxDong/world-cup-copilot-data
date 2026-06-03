@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "curacao",
+      "date": "1969-11-27",
+      "goalId": "goal-1969-11-27-costa-rica-curacao-5733",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1969-11-27-costa-rica-curacao",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaime Grant",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1969-11-30",
+      "goalId": "goal-1969-11-30-costa-rica-mex-5751",
+      "homeTeamId": "costa-rica",
+      "matchKey": "1969-11-30-costa-rica-mex",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jaime Grant",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "costa-rica"
+    }
+  ],
+  "normalizedScorer": "jaime grant",
+  "playerKey": "jaime-grant",
+  "scorer": "Jaime Grant",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "costa-rica"
+  ]
+}

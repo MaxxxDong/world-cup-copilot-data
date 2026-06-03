@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Ellan Vannin"
+  ],
+  "allTime": {
+    "draws": 5,
+    "goalsAgainst": 32,
+    "goalsFor": 54,
+    "losses": 6,
+    "matches": 22,
+    "wins": 11
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 3,
+      "goalsAgainst": 14,
+      "goalsFor": 16,
+      "losses": 3,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 5,
+      "goalsAgainst": 30,
+      "goalsFor": 41,
+      "losses": 6,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 5,
+      "goalsFor": 9,
+      "losses": 1,
+      "matches": 5,
+      "wins": 3
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "ellan-vannin",
+      "date": "2018-06-03",
+      "homeScore": 2,
+      "homeTeamId": "barawa",
+      "matchId": "int-2018-06-03-barawa-ellan-vannin",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "tamil-eelam",
+      "date": "2018-06-02",
+      "homeScore": 2,
+      "homeTeamId": "ellan-vannin",
+      "matchId": "int-2018-06-02-ellan-vannin-tamil-eelam",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "cascadia",
+      "date": "2018-05-31",
+      "homeScore": 4,
+      "homeTeamId": "ellan-vannin",
+      "matchId": "int-2018-05-31-ellan-vannin-cascadia",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONIFA World Football Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "panjab",
+      "date": "2018-04-29",
+      "homeScore": 2,
+      "homeTeamId": "ellan-vannin",
+      "matchId": "int-2018-04-29-ellan-vannin-panjab",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "ellan-vannin",
+      "date": "2018-01-28",
+      "homeScore": 1,
+      "homeTeamId": "yorkshire",
+      "matchId": "int-2018-01-28-yorkshire-ellan-vannin",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 4,
+      "goalsAgainst": 25,
+      "goalsFor": 40,
+      "losses": 5,
+      "matches": 18,
+      "wins": 9
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 7,
+      "goalsFor": 14,
+      "losses": 1,
+      "matches": 4,
+      "wins": 2
+    },
+    "neutralVenue": {
+      "draws": 4,
+      "goalsAgainst": 22,
+      "goalsFor": 31,
+      "losses": 4,
+      "matches": 16,
+      "wins": 8
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 10,
+      "goalsFor": 23,
+      "losses": 2,
+      "matches": 6,
+      "wins": 3
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "ellan-vannin",
+  "teamName": "Ellan Vannin",
+  "topScorers": []
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "canada",
+      "date": "1957-06-30",
+      "goalId": "goal-1957-06-30-mex-canada-2779",
+      "homeTeamId": "mex",
+      "matchKey": "1957-06-30-mex-canada",
+      "minute": 5,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos González",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "canada",
+      "date": "1957-06-30",
+      "goalId": "goal-1957-06-30-mex-canada-2781",
+      "homeTeamId": "mex",
+      "matchKey": "1957-06-30-mex-canada",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos González",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "carlos gonz lez",
+  "playerKey": "carlos-gonz-lez",
+  "scorer": "Carlos González",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

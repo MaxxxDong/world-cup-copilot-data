@@ -1,0 +1,90 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "el-salvador",
+      "date": "2004-11-17",
+      "goalId": "goal-2004-11-17-panama-el-salvador-24899",
+      "homeTeamId": "panama",
+      "matchKey": "2004-11-17-panama-el-salvador",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Baloy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2005-08-17",
+      "goalId": "goal-2005-08-17-guatemala-panama-25562",
+      "homeTeamId": "guatemala",
+      "matchKey": "2005-08-17-guatemala-panama",
+      "minute": 70,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Felipe Baloy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "guatemala"
+    },
+    {
+      "awayTeamId": "haiti",
+      "date": "2016-03-29",
+      "goalId": "goal-2016-03-29-panama-haiti-35690",
+      "homeTeamId": "panama",
+      "matchKey": "2016-03-29-panama-haiti",
+      "minute": 81,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Baloy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2018-06-24",
+      "goalId": "goal-2018-06-24-england-panama-37617",
+      "homeTeamId": "england",
+      "matchKey": "2018-06-24-england-panama",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Felipe Baloy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "felipe baloy",
+  "playerKey": "felipe-baloy",
+  "scorer": "Felipe Baloy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "guatemala",
+    "panama"
+  ]
+}

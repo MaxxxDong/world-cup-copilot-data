@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "seychelles",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43966",
+      "homeTeamId": "civ",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Karim Konaté",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    },
+    {
+      "awayTeamId": "seychelles",
+      "date": "2023-11-17",
+      "goalId": "goal-2023-11-17-civ-seychelles-43970",
+      "homeTeamId": "civ",
+      "matchKey": "2023-11-17-civ-seychelles",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Karim Konaté",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "civ"
+    }
+  ],
+  "normalizedScorer": "karim konat",
+  "playerKey": "karim-konat",
+  "scorer": "Karim Konaté",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "civ"
+  ]
+}

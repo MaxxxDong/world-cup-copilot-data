@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "2018-10-15",
+      "goalId": "goal-2018-10-15-finland-greece-37888",
+      "homeTeamId": "finland",
+      "matchKey": "2018-10-15-finland-greece",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Glen Kamara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    },
+    {
+      "awayTeamId": "san-marino",
+      "date": "2023-06-19",
+      "goalId": "goal-2023-06-19-finland-san-marino-43281",
+      "homeTeamId": "finland",
+      "matchKey": "2023-06-19-finland-san-marino",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Glen Kamara",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "finland"
+    }
+  ],
+  "normalizedScorer": "glen kamara",
+  "playerKey": "glen-kamara",
+  "scorer": "Glen Kamara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "finland"
+  ]
+}

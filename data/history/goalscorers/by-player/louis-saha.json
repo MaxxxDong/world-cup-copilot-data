@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "2006-09-02",
+      "goalId": "goal-2006-09-02-georgia-fra-26254",
+      "homeTeamId": "georgia",
+      "matchKey": "2006-09-02-georgia-fra",
+      "minute": 15,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Saha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "faroe-islands",
+      "date": "2006-10-11",
+      "goalId": "goal-2006-10-11-fra-faroe-islands-26447",
+      "homeTeamId": "fra",
+      "matchKey": "2006-10-11-fra-faroe-islands",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Louis Saha",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "louis saha",
+  "playerKey": "louis-saha",
+  "scorer": "Louis Saha",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

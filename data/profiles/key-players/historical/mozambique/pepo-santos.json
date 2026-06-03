@@ -1,0 +1,69 @@
+{
+  "firstGoalDate": "2025-03-20",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-03-24",
+    "nationality": "Portugal",
+    "playerKey": "pepo-santos",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "119437",
+      "espn": "318710",
+      "footballdatabase_eu": "389511",
+      "impect": "153932",
+      "soccerway": "310950",
+      "thesportsdb": "34242741",
+      "wikidata": "Q66480595"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-20",
+  "playerKey": "pepo-santos",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-mozambique-uganda-45907",
+      "matchKey": "2025-03-20-mozambique-uganda",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pepo Santos"
+    },
+    {
+      "date": "2025-03-20",
+      "goalId": "goal-2025-03-20-mozambique-uganda-45905",
+      "matchKey": "2025-03-20-mozambique-uganda",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pepo Santos"
+    }
+  ],
+  "scorer": "Pepo Santos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mozambique",
+  "teamName": "Mozambique",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

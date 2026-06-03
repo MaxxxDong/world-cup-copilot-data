@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "scotland",
+      "date": "1949-10-01",
+      "goalId": "goal-1949-10-01-northern-ireland-scotland-1787",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "1949-10-01-northern-ireland-scotland",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lawrence Reilly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1953-11-04",
+      "goalId": "goal-1953-11-04-scotland-wales-2101",
+      "homeTeamId": "scotland",
+      "matchKey": "1953-11-04-scotland-wales",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Lawrence Reilly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "lawrence reilly",
+  "playerKey": "lawrence-reilly",
+  "scorer": "Lawrence Reilly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "scotland"
+  ]
+}

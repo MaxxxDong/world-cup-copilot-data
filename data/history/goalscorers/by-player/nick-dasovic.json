@@ -1,0 +1,72 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "costa-rica",
+      "date": "1993-07-11",
+      "goalId": "goal-1993-07-11-canada-costa-rica-14382",
+      "homeTeamId": "canada",
+      "matchKey": "1993-07-11-canada-costa-rica",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nick Dasovic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    },
+    {
+      "awayTeamId": "australia",
+      "date": "1993-07-31",
+      "goalId": "goal-1993-07-31-canada-australia-14452",
+      "homeTeamId": "canada",
+      "matchKey": "1993-07-31-canada-australia",
+      "minute": 44,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Nick Dasovic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "australia"
+    },
+    {
+      "awayTeamId": "cuba",
+      "date": "1996-10-13",
+      "goalId": "goal-1996-10-13-canada-cuba-16394",
+      "homeTeamId": "canada",
+      "matchKey": "1996-10-13-canada-cuba",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nick Dasovic",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "canada"
+    }
+  ],
+  "normalizedScorer": "nick dasovic",
+  "playerKey": "nick-dasovic",
+  "scorer": "Nick Dasovic",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "australia",
+    "canada"
+  ]
+}

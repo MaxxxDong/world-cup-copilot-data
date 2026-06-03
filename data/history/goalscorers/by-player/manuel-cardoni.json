@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1995-02-22",
+      "goalId": "goal-1995-02-22-malta-luxembourg-15187",
+      "homeTeamId": "malta",
+      "matchKey": "1995-02-22-malta-luxembourg",
+      "minute": 55,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Cardoni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "latvia",
+      "date": "2004-09-08",
+      "goalId": "goal-2004-09-08-luxembourg-latvia-24450",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2004-09-08-luxembourg-latvia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Cardoni",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "manuel cardoni",
+  "playerKey": "manuel-cardoni",
+  "scorer": "Manuel Cardoni",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Hitra"
+  ],
+  "allTime": {
+    "draws": 1,
+    "goalsAgainst": 92,
+    "goalsFor": 37,
+    "losses": 16,
+    "matches": 23,
+    "wins": 6
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 29,
+      "goalsFor": 23,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 1,
+      "goalsAgainst": 78,
+      "goalsFor": 36,
+      "losses": 13,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 0,
+      "goalsAgainst": 13,
+      "goalsFor": 14,
+      "losses": 3,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "fr-ya",
+      "date": "2025-07-17",
+      "homeScore": 3,
+      "homeTeamId": "hitra",
+      "matchId": "int-2025-07-17-hitra-fr-ya",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "hitra",
+      "date": "2025-07-15",
+      "homeScore": 0,
+      "homeTeamId": "fr-ya",
+      "matchId": "int-2025-07-15-fr-ya-hitra",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "hitra",
+      "date": "2025-07-14",
+      "homeScore": 3,
+      "homeTeamId": "orkney",
+      "matchId": "int-2025-07-14-orkney-hitra",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 7,
+      "awayTeamId": "isle-of-man",
+      "date": "2025-07-13",
+      "homeScore": 2,
+      "homeTeamId": "hitra",
+      "matchId": "int-2025-07-13-hitra-isle-of-man",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "hitra",
+      "date": "2019-06-20",
+      "homeScore": 3,
+      "homeTeamId": "jersey",
+      "matchId": "int-2019-06-20-jersey-hitra",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Inter Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "goalsAgainst": 92,
+      "goalsFor": 37,
+      "losses": 16,
+      "matches": 23,
+      "wins": 6
+    },
+    "friendly": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "goalsAgainst": 77,
+      "goalsFor": 34,
+      "losses": 14,
+      "matches": 21,
+      "wins": 6
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "goalsAgainst": 15,
+      "goalsFor": 3,
+      "losses": 2,
+      "matches": 2,
+      "wins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "hitra",
+  "teamName": "Hitra",
+  "topScorers": []
+}

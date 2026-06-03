@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2021-06-02",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1986-12-19",
+    "nationality": "Dominica",
+    "playerKey": "chad-bertrand",
+    "providerIds": {
+      "fbref": "c67b7cf8",
+      "footballdatabase_eu": "119411",
+      "national_football_teams": "40086",
+      "sofifa": "347729",
+      "transfermarkt": "209176",
+      "wikidata": "Q23664050"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-02",
+  "playerKey": "chad-bertrand",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-02",
+      "goalId": "goal-2021-06-02-dominica-anguilla-40454",
+      "matchKey": "2021-06-02-dominica-anguilla",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Chad Bertrand"
+    }
+  ],
+  "scorer": "Chad Bertrand",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dominica",
+  "teamName": "Dominica",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "2014-10-11",
+      "goalId": "goal-2014-10-11-poland-germany-33892",
+      "homeTeamId": "poland",
+      "matchKey": "2014-10-11-poland-germany",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Mila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    },
+    {
+      "awayTeamId": "poland",
+      "date": "2014-11-14",
+      "goalId": "goal-2014-11-14-georgia-poland-33971",
+      "homeTeamId": "georgia",
+      "matchKey": "2014-11-14-georgia-poland",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Sebastian Mila",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "poland"
+    }
+  ],
+  "normalizedScorer": "sebastian mila",
+  "playerKey": "sebastian-mila",
+  "scorer": "Sebastian Mila",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "poland"
+  ]
+}

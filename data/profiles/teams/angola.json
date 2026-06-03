@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Angola"
+  ],
+  "allTime": {
+    "draws": 147,
+    "goalsAgainst": 427,
+    "goalsFor": 466,
+    "losses": 126,
+    "matches": 413,
+    "wins": 140
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 13,
+      "goalsFor": 11,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 9,
+      "goalsAgainst": 17,
+      "goalsFor": 21,
+      "losses": 4,
+      "matches": 20,
+      "wins": 7
+    },
+    "last5": {
+      "draws": 2,
+      "goalsAgainst": 7,
+      "goalsFor": 5,
+      "losses": 2,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "egypt",
+      "date": "2025-12-29",
+      "homeScore": 0,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-12-29-angola-egypt",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "zimbabwe",
+      "date": "2025-12-26",
+      "homeScore": 1,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-12-26-angola-zimbabwe",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "angola",
+      "date": "2025-12-22",
+      "homeScore": 2,
+      "homeTeamId": "rsa",
+      "matchId": "int-2025-12-22-rsa-angola",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "zambia",
+      "date": "2025-11-18",
+      "homeScore": 3,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-11-18-angola-zambia",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "arg",
+      "date": "2025-11-14",
+      "homeScore": 0,
+      "homeTeamId": "angola",
+      "matchId": "int-2025-11-14-angola-arg",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 89,
+      "goalsAgainst": 269,
+      "goalsFor": 320,
+      "losses": 82,
+      "matches": 268,
+      "wins": 97
+    },
+    "friendly": {
+      "draws": 58,
+      "goalsAgainst": 158,
+      "goalsFor": 146,
+      "losses": 44,
+      "matches": 145,
+      "wins": 43
+    },
+    "neutralVenue": {
+      "draws": 41,
+      "goalsAgainst": 112,
+      "goalsFor": 117,
+      "losses": 31,
+      "matches": 103,
+      "wins": 31
+    },
+    "nonNeutralVenue": {
+      "draws": 106,
+      "goalsAgainst": 315,
+      "goalsFor": 349,
+      "losses": 95,
+      "matches": 310,
+      "wins": 109
+    },
+    "worldCup": {
+      "draws": 2,
+      "goalsAgainst": 2,
+      "goalsFor": 1,
+      "losses": 1,
+      "matches": 3,
+      "wins": 0
+    }
+  },
+  "teamId": "angola",
+  "teamName": "Angola",
+  "topScorers": [
+    {
+      "goals": 14,
+      "playerKey": "akw",
+      "scorer": "Akwá"
+    },
+    {
+      "goals": 13,
+      "playerKey": "fl-vio-amado",
+      "scorer": "Flávio Amado"
+    },
+    {
+      "goals": 10,
+      "playerKey": "paulo-ant-nio-alves",
+      "scorer": "Paulo António Alves"
+    },
+    {
+      "goals": 9,
+      "playerKey": "manucho",
+      "scorer": "Manucho"
+    },
+    {
+      "goals": 6,
+      "playerKey": "gelson-dala",
+      "scorer": "Gelson Dala"
+    },
+    {
+      "goals": 5,
+      "playerKey": "mabululu",
+      "scorer": "Mabululu"
+    },
+    {
+      "goals": 4,
+      "playerKey": "joaquim-alberto-silva",
+      "scorer": "Joaquim Alberto Silva"
+    },
+    {
+      "goals": 4,
+      "playerKey": "paulo-jorge-da-silva",
+      "scorer": "Paulo Jorge Da Silva"
+    },
+    {
+      "goals": 4,
+      "playerKey": "zini",
+      "scorer": "Zini"
+    },
+    {
+      "goals": 3,
+      "playerKey": "sebasti-o-gilberto",
+      "scorer": "Sebastião Gilberto"
+    }
+  ]
+}

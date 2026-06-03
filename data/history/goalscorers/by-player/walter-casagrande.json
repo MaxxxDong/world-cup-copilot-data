@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1985-06-02",
+      "goalId": "goal-1985-06-02-bolivia-bra-10834",
+      "homeTeamId": "bolivia",
+      "matchKey": "1985-06-02-bolivia-bra",
+      "minute": 56,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Casagrande",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1985-06-16",
+      "goalId": "goal-1985-06-16-paraguay-bra-10864",
+      "homeTeamId": "paraguay",
+      "matchKey": "1985-06-16-paraguay-bra",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Walter Casagrande",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "walter casagrande",
+  "playerKey": "walter-casagrande",
+  "scorer": "Walter Casagrande",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

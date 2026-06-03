@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1922-09-28",
+      "goalId": "goal-1922-09-28-arg-chile-104",
+      "homeTeamId": "arg",
+      "matchKey": "1922-09-28-arg-chile",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Francia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1922-09-28",
+      "goalId": "goal-1922-09-28-arg-chile-105",
+      "homeTeamId": "arg",
+      "matchKey": "1922-09-28-arg-chile",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Francia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1922-10-18",
+      "goalId": "goal-1922-10-18-arg-paraguay-114",
+      "homeTeamId": "arg",
+      "matchKey": "1922-10-18-arg-paraguay",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Francia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1922-10-18",
+      "goalId": "goal-1922-10-18-arg-paraguay-115",
+      "homeTeamId": "arg",
+      "matchKey": "1922-10-18-arg-paraguay",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Julio Francia",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "julio francia",
+  "playerKey": "julio-francia",
+  "scorer": "Julio Francia",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

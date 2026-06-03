@@ -1,0 +1,61 @@
+{
+  "firstGoalDate": "2008-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1981-11-30",
+    "nationality": "Belize",
+    "playerKey": "elroy-smith",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "0f223b45",
+      "footballdatabase_eu": "8151",
+      "national_football_teams": "7996",
+      "soccerway": "43842",
+      "sofascore": "811982",
+      "sofifa": "215024",
+      "transfermarkt": "69675",
+      "wikidata": "Q924307"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-03-26",
+  "playerKey": "elroy-smith",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-03-26",
+      "goalId": "goal-2008-03-26-saint-kitts-and-nevis-belize-27727",
+      "matchKey": "2008-03-26-saint-kitts-and-nevis-belize",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Elroy Smith"
+    }
+  ],
+  "scorer": "Elroy Smith",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belize",
+  "teamName": "Belize",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

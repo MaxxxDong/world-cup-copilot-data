@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "australia",
+      "date": "2005-06-15",
+      "goalId": "goal-2005-06-15-germany-australia-25399",
+      "homeTeamId": "germany",
+      "matchKey": "2005-06-15-germany-australia",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Per Mertesacker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "sweden",
+      "date": "2012-10-16",
+      "goalId": "goal-2012-10-16-germany-sweden-32380",
+      "homeTeamId": "germany",
+      "matchKey": "2012-10-16-germany-sweden",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Per Mertesacker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-faroe-islands-germany-33251",
+      "homeTeamId": "faroe-islands",
+      "matchKey": "2013-09-10-faroe-islands-germany",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Per Mertesacker",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "per mertesacker",
+  "playerKey": "per-mertesacker",
+  "scorer": "Per Mertesacker",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

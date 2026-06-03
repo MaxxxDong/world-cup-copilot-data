@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "macau",
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-myanmar-macau-43637",
+      "homeTeamId": "myanmar",
+      "matchKey": "2023-10-12-myanmar-macau",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Soe Moe Kyaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    },
+    {
+      "awayTeamId": "syria",
+      "date": "2024-03-21",
+      "goalId": "goal-2024-03-21-myanmar-syria-44479",
+      "homeTeamId": "myanmar",
+      "matchKey": "2024-03-21-myanmar-syria",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Soe Moe Kyaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "myanmar"
+    }
+  ],
+  "normalizedScorer": "soe moe kyaw",
+  "playerKey": "soe-moe-kyaw",
+  "scorer": "Soe Moe Kyaw",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "myanmar"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "azerbaijan",
+      "date": "2001-03-28",
+      "goalId": "goal-2001-03-28-slovakia-azerbaijan-20686",
+      "homeTeamId": "slovakia",
+      "matchKey": "2001-03-28-slovakia-azerbaijan",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Vadim Vasilyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2001-06-06",
+      "goalId": "goal-2001-06-06-azerbaijan-slovakia-21351",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2001-06-06-azerbaijan-slovakia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vadim Vasilyev",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "vadim vasilyev",
+  "playerKey": "vadim-vasilyev",
+  "scorer": "Vadim Vasilyev",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan"
+  ]
+}

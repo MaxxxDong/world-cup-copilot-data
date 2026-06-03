@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "denmark",
+      "date": "1987-04-29",
+      "goalId": "goal-1987-04-29-finland-denmark-11409",
+      "homeTeamId": "finland",
+      "matchKey": "1987-04-29-finland-denmark",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Mølby",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1987-06-03",
+      "goalId": "goal-1987-06-03-denmark-czechoslovakia-11445",
+      "homeTeamId": "denmark",
+      "matchKey": "1987-06-03-denmark-czechoslovakia",
+      "minute": 16,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jan Mølby",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "jan m lby",
+  "playerKey": "jan-m-lby",
+  "scorer": "Jan Mølby",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

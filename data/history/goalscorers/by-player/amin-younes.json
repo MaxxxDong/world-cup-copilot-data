@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2017-06-10",
+      "goalId": "goal-2017-06-10-germany-san-marino-36802",
+      "homeTeamId": "germany",
+      "matchKey": "2017-06-10-germany-san-marino",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amin Younes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "2017-06-29",
+      "goalId": "goal-2017-06-29-germany-mex-36926",
+      "homeTeamId": "germany",
+      "matchKey": "2017-06-29-germany-mex",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Amin Younes",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "amin younes",
+  "playerKey": "amin-younes",
+  "scorer": "Amin Younes",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

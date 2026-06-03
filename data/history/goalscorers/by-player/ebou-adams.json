@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "gambia",
+      "date": "2024-06-11",
+      "goalId": "goal-2024-06-11-gabon-gambia-44846",
+      "homeTeamId": "gabon",
+      "matchKey": "2024-06-11-gabon-gambia",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ebou Adams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    },
+    {
+      "awayTeamId": "burundi",
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-gambia-burundi-46836",
+      "homeTeamId": "gambia",
+      "matchKey": "2025-09-09-gambia-burundi",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ebou Adams",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "gambia"
+    }
+  ],
+  "normalizedScorer": "ebou adams",
+  "playerKey": "ebou-adams",
+  "scorer": "Ebou Adams",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "gambia"
+  ]
+}

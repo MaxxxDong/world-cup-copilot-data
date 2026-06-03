@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "san-marino",
+      "date": "2016-10-11",
+      "goalId": "goal-2016-10-11-norway-san-marino-36368",
+      "homeTeamId": "norway",
+      "matchKey": "2016-10-11-norway-san-marino",
+      "minute": 54,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mattia Stefanelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "san-marino"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2016-11-11",
+      "goalId": "goal-2016-11-11-san-marino-germany-36437",
+      "homeTeamId": "san-marino",
+      "matchKey": "2016-11-11-san-marino-germany",
+      "minute": 82,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Mattia Stefanelli",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "mattia stefanelli",
+  "playerKey": "mattia-stefanelli",
+  "scorer": "Mattia Stefanelli",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany",
+    "san-marino"
+  ]
+}

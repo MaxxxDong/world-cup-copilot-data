@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "bolivia",
+      "date": "1973-09-30",
+      "goalId": "goal-1973-09-30-paraguay-bolivia-6826",
+      "homeTeamId": "paraguay",
+      "matchKey": "1973-09-30-paraguay-bolivia",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juvencio Osorio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "1979-09-13",
+      "goalId": "goal-1979-09-13-paraguay-ecuador-8567",
+      "homeTeamId": "paraguay",
+      "matchKey": "1979-09-13-paraguay-ecuador",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Juvencio Osorio",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "paraguay"
+    }
+  ],
+  "normalizedScorer": "juvencio osorio",
+  "playerKey": "juvencio-osorio",
+  "scorer": "Juvencio Osorio",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "paraguay"
+  ]
+}

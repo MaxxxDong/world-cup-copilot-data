@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "zambia",
+      "date": "1977-07-15",
+      "goalId": "goal-1977-07-15-egypt-zambia-7937",
+      "homeTeamId": "egypt",
+      "matchKey": "1977-07-15-egypt-zambia",
+      "minute": 29,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Farouk Gaafar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1977-11-25",
+      "goalId": "goal-1977-11-25-egypt-tunisia-8142",
+      "homeTeamId": "egypt",
+      "matchKey": "1977-11-25-egypt-tunisia",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Farouk Gaafar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "farouk gaafar",
+  "playerKey": "farouk-gaafar",
+  "scorer": "Farouk Gaafar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

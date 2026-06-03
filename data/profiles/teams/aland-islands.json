@@ -1,0 +1,186 @@
+{
+  "aliases": [
+    "Åland Islands"
+  ],
+  "allTime": {
+    "draws": 8,
+    "goalsAgainst": 86,
+    "goalsFor": 77,
+    "losses": 22,
+    "matches": 51,
+    "wins": 21
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 4,
+      "goalsAgainst": 14,
+      "goalsFor": 8,
+      "losses": 4,
+      "matches": 10,
+      "wins": 2
+    },
+    "last20": {
+      "draws": 6,
+      "goalsAgainst": 33,
+      "goalsFor": 24,
+      "losses": 8,
+      "matches": 20,
+      "wins": 6
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 9,
+      "goalsFor": 4,
+      "losses": 3,
+      "matches": 5,
+      "wins": 1
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "falkland-islands",
+      "date": "2023-07-13",
+      "homeScore": 1,
+      "homeTeamId": "aland-islands",
+      "matchId": "int-2023-07-13-aland-islands-falkland-islands",
+      "neutral": true,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "western-isles",
+      "date": "2023-07-11",
+      "homeScore": 0,
+      "homeTeamId": "aland-islands",
+      "matchId": "int-2023-07-11-aland-islands-western-isles",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "aland-islands",
+      "date": "2023-07-10",
+      "homeScore": 4,
+      "homeTeamId": "guernsey",
+      "matchId": "int-2023-07-10-guernsey-aland-islands",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "isle-of-wight",
+      "date": "2023-07-09",
+      "homeScore": 0,
+      "homeTeamId": "aland-islands",
+      "matchId": "int-2023-07-09-aland-islands-isle-of-wight",
+      "neutral": true,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "aland-islands",
+      "date": "2017-06-29",
+      "homeScore": 0,
+      "homeTeamId": "ynys-mon",
+      "matchId": "int-2017-06-29-ynys-mon-aland-islands",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Island Games"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 7,
+      "goalsAgainst": 84,
+      "goalsFor": 75,
+      "losses": 22,
+      "matches": 50,
+      "wins": 21
+    },
+    "friendly": {
+      "draws": 1,
+      "goalsAgainst": 2,
+      "goalsFor": 2,
+      "losses": 0,
+      "matches": 1,
+      "wins": 0
+    },
+    "neutralVenue": {
+      "draws": 6,
+      "goalsAgainst": 59,
+      "goalsFor": 53,
+      "losses": 16,
+      "matches": 36,
+      "wins": 14
+    },
+    "nonNeutralVenue": {
+      "draws": 2,
+      "goalsAgainst": 27,
+      "goalsFor": 24,
+      "losses": 6,
+      "matches": 15,
+      "wins": 7
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "aland-islands",
+  "teamName": "Åland Islands",
+  "topScorers": []
+}

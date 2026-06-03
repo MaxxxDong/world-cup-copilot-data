@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 4,
+    "teamAWins": 1,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "mayotte",
+    "date": "2012-09-24",
+    "homeScore": 0,
+    "homeTeamId": "new-caledonia",
+    "matchId": "int-2012-09-24-new-caledonia-mayotte",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Coupe de l'Outre-Mer"
+  },
+  "matches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "mayotte",
+      "date": "2008-10-03",
+      "homeScore": 3,
+      "homeTeamId": "new-caledonia",
+      "matchId": "int-2008-10-03-new-caledonia-mayotte",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Coupe de l'Outre-Mer"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "mayotte",
+      "date": "2012-09-24",
+      "homeScore": 0,
+      "homeTeamId": "new-caledonia",
+      "matchId": "int-2012-09-24-new-caledonia-mayotte",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Coupe de l'Outre-Mer"
+    }
+  ],
+  "pairKey": "mayotte__new-caledonia",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 3,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "mayotte",
+  "teamBId": "new-caledonia"
+}

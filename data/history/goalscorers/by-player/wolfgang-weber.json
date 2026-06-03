@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1966-07-30",
+      "goalId": "goal-1966-07-30-england-germany-4705",
+      "homeTeamId": "england",
+      "matchKey": "1966-07-30-england-germany",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Wolfgang Weber",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "wolfgang weber",
+  "playerKey": "wolfgang-weber",
+  "scorer": "Wolfgang Weber",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "russia",
+      "date": "1998-10-14",
+      "goalId": "goal-1998-10-14-iceland-russia-18564",
+      "homeTeamId": "iceland",
+      "matchKey": "1998-10-14-iceland-russia",
+      "minute": 87,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Yuri Kovtun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    },
+    {
+      "awayTeamId": "serbia",
+      "date": "2001-06-02",
+      "goalId": "goal-2001-06-02-russia-serbia-21298",
+      "homeTeamId": "russia",
+      "matchKey": "2001-06-02-russia-serbia",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Yuri Kovtun",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "yuri kovtun",
+  "playerKey": "yuri-kovtun",
+  "scorer": "Yuri Kovtun",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "iceland",
+    "russia"
+  ]
+}

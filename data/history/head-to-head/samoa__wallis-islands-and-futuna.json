@@ -1,0 +1,111 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 2,
+    "teamAGoals": 2,
+    "teamAWins": 0,
+    "teamBGoals": 5,
+    "teamBWins": 2
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "wallis-islands-and-futuna",
+    "date": "1983-08-24",
+    "homeScore": 1,
+    "homeTeamId": "samoa",
+    "matchId": "int-1983-08-24-samoa-wallis-islands-and-futuna",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "South Pacific Games"
+  },
+  "matches": [
+    {
+      "awayScore": 1,
+      "awayTeamId": "samoa",
+      "date": "1979-09-01",
+      "homeScore": 3,
+      "homeTeamId": "wallis-islands-and-futuna",
+      "matchId": "int-1979-09-01-wallis-islands-and-futuna-samoa",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "wallis-islands-and-futuna",
+      "date": "1983-08-24",
+      "homeScore": 1,
+      "homeTeamId": "samoa",
+      "matchId": "int-1983-08-24-samoa-wallis-islands-and-futuna",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "South Pacific Games"
+    }
+  ],
+  "pairKey": "samoa__wallis-islands-and-futuna",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 5,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "samoa",
+  "teamBId": "wallis-islands-and-futuna"
+}

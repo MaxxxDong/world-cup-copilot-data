@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "nigeria",
+      "date": "1969-09-21",
+      "goalId": "goal-1969-09-21-mar-nigeria-5611",
+      "homeTeamId": "mar",
+      "matchKey": "1969-09-21-mar-nigeria",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed El Filali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "sudan",
+      "date": "1969-10-26",
+      "goalId": "goal-1969-10-26-mar-sudan-5695",
+      "homeTeamId": "mar",
+      "matchKey": "1969-10-26-mar-sudan",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed El Filali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "mohammed el filali",
+  "playerKey": "mohammed-el-filali",
+  "scorer": "Mohammed El Filali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

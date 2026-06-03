@@ -1,0 +1,111 @@
+{
+  "club": "Mamelodi Sundowns FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 5,
+  "identity": {
+    "dateOfBirth": "1997-01-24",
+    "nationality": "South Africa",
+    "playerKey": "teboho-mokoena",
+    "position": "midfielder",
+    "providerIds": {
+      "api_football": "3287",
+      "espn": "256691",
+      "fbref": "00029b1e",
+      "footballdatabase_eu": "302529",
+      "heimspiel": "489636",
+      "impect": "15844",
+      "kicker": "teboho-mokoena",
+      "national_football_teams": "68562",
+      "skillcorner": "116676",
+      "soccerbase": "28213",
+      "soccerway": "456850",
+      "sofascore": "881117",
+      "thesportsdb": "34228103",
+      "transfermarkt": "436372",
+      "wikidata": "Q58790870",
+      "worldfootball": "teboho-mokoena_2",
+      "wyscout": "453647"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Teboho Mokoena",
+  "playerKey": "teboho-mokoena",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-02-07",
+      "goalId": "goal-2024-02-07-nigeria-rsa-44433",
+      "matchKey": "2024-02-07-nigeria-rsa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Teboho Mokoena"
+    },
+    {
+      "date": "2024-01-30",
+      "goalId": "goal-2024-01-30-mar-rsa-44400",
+      "matchKey": "2024-01-30-mar-rsa",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Teboho Mokoena"
+    },
+    {
+      "date": "2021-11-11",
+      "goalId": "goal-2021-11-11-rsa-zimbabwe-41873",
+      "matchKey": "2021-11-11-rsa-zimbabwe",
+      "minute": 26,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Teboho Mokoena"
+    },
+    {
+      "date": "2021-10-09",
+      "goalId": "goal-2021-10-09-ethiopia-rsa-41578",
+      "matchKey": "2021-10-09-ethiopia-rsa",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Teboho Mokoena"
+    },
+    {
+      "date": "2002-06-02",
+      "goalId": "goal-2002-06-02-paraguay-rsa-22199",
+      "matchKey": "2002-06-02-paraguay-rsa",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Teboho Mokoena"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 4,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

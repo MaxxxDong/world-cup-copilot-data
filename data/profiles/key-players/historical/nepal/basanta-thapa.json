@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2001-04-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1977-04-10",
+    "playerKey": "basanta-thapa",
+    "providerIds": {
+      "footballdatabase_eu": "404875",
+      "national_football_teams": "4604",
+      "wikidata": "Q110486797"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-04-25",
+  "playerKey": "basanta-thapa",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-04-25",
+      "goalId": "goal-2001-04-25-macau-nepal-20972",
+      "matchKey": "2001-04-25-macau-nepal",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Basanta Thapa"
+    },
+    {
+      "date": "2001-04-16",
+      "goalId": "goal-2001-04-16-nepal-macau-20863",
+      "matchKey": "2001-04-16-nepal-macau",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Basanta Thapa"
+    }
+  ],
+  "scorer": "Basanta Thapa",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nepal",
+  "teamName": "Nepal",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

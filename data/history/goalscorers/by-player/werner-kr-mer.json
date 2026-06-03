@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "germany",
+      "date": "1965-09-26",
+      "goalId": "goal-1965-09-26-sweden-germany-4464",
+      "homeTeamId": "sweden",
+      "matchKey": "1965-09-26-sweden-germany",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Werner Krämer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "1965-11-14",
+      "goalId": "goal-1965-11-14-cyprus-germany-4557",
+      "homeTeamId": "cyprus",
+      "matchKey": "1965-11-14-cyprus-germany",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Werner Krämer",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "germany"
+    }
+  ],
+  "normalizedScorer": "werner kr mer",
+  "playerKey": "werner-kr-mer",
+  "scorer": "Werner Krämer",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "germany"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2004-03-26",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1979-10-28",
+    "nationality": "The Bahamas",
+    "playerKey": "damani-horton",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "9cec5352",
+      "footballdatabase_eu": "37814",
+      "national_football_teams": "576",
+      "sofascore": "965557",
+      "transfermarkt": "81336",
+      "wikidata": "Q5211964"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2004-03-26",
+  "playerKey": "damani-horton",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2004-03-26",
+      "goalId": "goal-2004-03-26-bahamas-dominica-23470",
+      "matchKey": "2004-03-26-bahamas-dominica",
+      "minute": 66,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Damani Horton"
+    }
+  ],
+  "scorer": "Damani Horton",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "bahamas",
+  "teamName": "Bahamas",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

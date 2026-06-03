@@ -1,0 +1,60 @@
+{
+  "firstGoalDate": "2024-06-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1996-07-08",
+    "nationality": "United Kingdom",
+    "playerKey": "kaleem-simon",
+    "providerIds": {
+      "fbref": "0b235f91",
+      "footballdatabase_eu": "239218",
+      "national_football_teams": "82140",
+      "soccerway": "350151",
+      "sofascore": "795526",
+      "transfermarkt": "331183",
+      "wikidata": "Q106248556",
+      "worldfootball": "kaleem-simon"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2024-06-09",
+  "playerKey": "kaleem-simon",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2024-06-09",
+      "goalId": "goal-2024-06-09-montserrat-panama-44795",
+      "matchKey": "2024-06-09-montserrat-panama",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Kaleem Simon"
+    }
+  ],
+  "scorer": "Kaleem Simon",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "montserrat",
+  "teamName": "Montserrat",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

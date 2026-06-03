@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "panama",
+      "date": "2024-07-01",
+      "goalId": "goal-2024-07-01-bolivia-panama-45120",
+      "homeTeamId": "bolivia",
+      "matchKey": "2024-07-01-bolivia-panama",
+      "minute": 79,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduardo Guerrero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "panama",
+      "date": "2025-06-07",
+      "goalId": "goal-2025-06-07-belize-panama-46324",
+      "homeTeamId": "belize",
+      "matchKey": "2025-06-07-belize-panama",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Eduardo Guerrero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    },
+    {
+      "awayTeamId": "guadeloupe",
+      "date": "2025-06-16",
+      "goalId": "goal-2025-06-16-panama-guadeloupe-46473",
+      "homeTeamId": "panama",
+      "matchKey": "2025-06-16-panama-guadeloupe",
+      "minute": 22,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Eduardo Guerrero",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "panama"
+    }
+  ],
+  "normalizedScorer": "eduardo guerrero",
+  "playerKey": "eduardo-guerrero",
+  "scorer": "Eduardo Guerrero",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "panama"
+  ]
+}

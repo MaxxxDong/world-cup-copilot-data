@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2008-01-21",
+      "goalId": "goal-2008-01-21-namibia-mar-27552",
+      "homeTeamId": "namibia",
+      "matchKey": "2008-01-21-namibia-mar",
+      "minute": 40,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tarik Sektioui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    },
+    {
+      "awayTeamId": "mar",
+      "date": "2008-06-07",
+      "goalId": "goal-2008-06-07-mauritania-mar-27856",
+      "homeTeamId": "mauritania",
+      "matchKey": "2008-06-07-mauritania-mar",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tarik Sektioui",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "tarik sektioui",
+  "playerKey": "tarik-sektioui",
+  "scorer": "Tarik Sektioui",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

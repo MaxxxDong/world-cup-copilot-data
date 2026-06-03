@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "greece",
+      "date": "1965-10-27",
+      "goalId": "goal-1965-10-27-denmark-greece-4508",
+      "homeTeamId": "denmark",
+      "matchKey": "1965-10-27-denmark-greece",
+      "minute": 12,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ole Fritsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    },
+    {
+      "awayTeamId": "denmark",
+      "date": "1965-12-01",
+      "goalId": "goal-1965-12-01-wales-denmark-4611",
+      "homeTeamId": "wales",
+      "matchKey": "1965-12-01-wales-denmark",
+      "minute": 48,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ole Fritsen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "denmark"
+    }
+  ],
+  "normalizedScorer": "ole fritsen",
+  "playerKey": "ole-fritsen",
+  "scorer": "Ole Fritsen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "denmark"
+  ]
+}

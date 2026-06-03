@@ -1,0 +1,54 @@
+{
+  "firstGoalDate": "2025-03-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1997-08-27",
+    "nationality": "Mauritius",
+    "playerKey": "emmanuel-vincent",
+    "providerIds": {
+      "national_football_teams": "58816",
+      "wikidata": "Q135710197"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-03-23",
+  "playerKey": "emmanuel-vincent",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-03-23",
+      "goalId": "goal-2025-03-23-eswatini-mauritius-46025",
+      "matchKey": "2025-03-23-eswatini-mauritius",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Emmanuel Vincent"
+    }
+  ],
+  "scorer": "Emmanuel Vincent",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "mauritius",
+  "teamName": "Mauritius",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1953-03-01",
+      "goalId": "goal-1953-03-01-bolivia-bra-1943",
+      "homeTeamId": "bolivia",
+      "matchKey": "1953-03-01-bolivia-bra",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "bra",
+      "date": "1953-03-01",
+      "goalId": "goal-1953-03-01-bolivia-bra-1947",
+      "homeTeamId": "bolivia",
+      "matchKey": "1953-03-01-bolivia-bra",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1954-06-16",
+      "goalId": "goal-1954-06-16-bra-mex-2211",
+      "homeTeamId": "bra",
+      "matchKey": "1954-06-16-bra-mex",
+      "minute": 34,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    },
+    {
+      "awayTeamId": "mex",
+      "date": "1954-06-16",
+      "goalId": "goal-1954-06-16-bra-mex-2212",
+      "homeTeamId": "bra",
+      "matchKey": "1954-06-16-bra-mex",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Pinga",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "pinga",
+  "playerKey": "pinga",
+  "scorer": "Pinga",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

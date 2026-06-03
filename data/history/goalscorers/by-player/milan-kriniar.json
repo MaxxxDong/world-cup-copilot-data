@@ -1,0 +1,109 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "slovakia",
+      "date": "2020-11-12",
+      "goalId": "goal-2020-11-12-northern-ireland-slovakia-39900",
+      "homeTeamId": "northern-ireland",
+      "matchKey": "2020-11-12-northern-ireland-slovakia",
+      "minute": 88,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Milan Škriniar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "northern-ireland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "2021-03-27",
+      "goalId": "goal-2021-03-27-slovakia-malta-40229",
+      "homeTeamId": "slovakia",
+      "matchKey": "2021-03-27-slovakia-malta",
+      "minute": 53,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Škriniar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "2021-03-30",
+      "goalId": "goal-2021-03-30-slovakia-russia-40369",
+      "homeTeamId": "slovakia",
+      "matchKey": "2021-03-30-slovakia-russia",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Škriniar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2021-06-14",
+      "goalId": "goal-2021-06-14-poland-slovakia-40780",
+      "homeTeamId": "poland",
+      "matchKey": "2021-06-14-poland-slovakia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Milan Škriniar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "slovakia"
+    },
+    {
+      "awayTeamId": "slovakia",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-russia-slovakia-41567",
+      "homeTeamId": "russia",
+      "matchKey": "2021-10-08-russia-slovakia",
+      "minute": 24,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Milan Škriniar",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "russia"
+    }
+  ],
+  "normalizedScorer": "milan kriniar",
+  "playerKey": "milan-kriniar",
+  "scorer": "Milan Škriniar",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "northern-ireland",
+    "russia",
+    "slovakia"
+  ]
+}

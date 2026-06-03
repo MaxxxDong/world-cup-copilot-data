@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1954-01-24",
+      "goalId": "goal-1954-01-24-italy-egypt-2145",
+      "homeTeamId": "italy",
+      "matchKey": "1954-01-24-italy-egypt",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alaa El-Hamouly",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "egypt"
+    }
+  ],
+  "normalizedScorer": "alaa el hamouly",
+  "playerKey": "alaa-el-hamouly",
+  "scorer": "Alaa El-Hamouly",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "egypt"
+  ]
+}

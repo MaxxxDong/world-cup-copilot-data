@@ -1,0 +1,110 @@
+{
+  "club": "Rangers FC (SCO)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 5,
+  "identity": {
+    "dateOfBirth": "2002-05-02",
+    "nationality": "United Kingdom",
+    "playerKey": "thelo-aasgaard",
+    "providerIds": {
+      "api_football": "277930",
+      "espn": "307477",
+      "fbref_verified": "c88a28b9",
+      "footballdatabase_eu": "437111",
+      "heimspiel": "701961",
+      "impect": "69408",
+      "national_football_teams": "98871",
+      "opta": "46hksgr3nx4uo993u3mx7yzca",
+      "skillcorner": "42511",
+      "soccerbase": "133855",
+      "soccerway": "546945",
+      "sofascore": "1065989",
+      "thesportsdb": "34178558",
+      "transfermarkt": "647384",
+      "wikidata": "Q100711783",
+      "worldfootball": "thelo-aasgaard",
+      "wyscout": "685696"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Thelo Aasgaard",
+  "playerKey": "thelo-aasgaard",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-norway-moldova-46865",
+      "matchKey": "2025-09-09-norway-moldova",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thelo Aasgaard"
+    },
+    {
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-norway-moldova-46863",
+      "matchKey": "2025-09-09-norway-moldova",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Thelo Aasgaard"
+    },
+    {
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-norway-moldova-46862",
+      "matchKey": "2025-09-09-norway-moldova",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thelo Aasgaard"
+    },
+    {
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-norway-moldova-46860",
+      "matchKey": "2025-09-09-norway-moldova",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thelo Aasgaard"
+    },
+    {
+      "date": "2025-03-22",
+      "goalId": "goal-2025-03-22-moldova-norway-46002",
+      "matchKey": "2025-03-22-moldova-norway",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Thelo Aasgaard"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+  },
+  "shirtNumber": 19,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "norway",
+  "teamName": "Norway"
+}

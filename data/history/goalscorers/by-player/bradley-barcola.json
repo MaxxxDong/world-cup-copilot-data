@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2024-09-06",
+      "goalId": "goal-2024-09-06-fra-italy-45222",
+      "homeTeamId": "fra",
+      "matchKey": "2024-09-06-fra-italy",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bradley Barcola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2024-10-10",
+      "goalId": "goal-2024-10-10-israel-fra-45408",
+      "homeTeamId": "israel",
+      "matchKey": "2024-10-10-israel-fra",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bradley Barcola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "iceland",
+      "date": "2025-09-09",
+      "goalId": "goal-2025-09-09-fra-iceland-46834",
+      "homeTeamId": "fra",
+      "matchKey": "2025-09-09-fra-iceland",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Bradley Barcola",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "bradley barcola",
+  "playerKey": "bradley-barcola",
+  "scorer": "Bradley Barcola",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

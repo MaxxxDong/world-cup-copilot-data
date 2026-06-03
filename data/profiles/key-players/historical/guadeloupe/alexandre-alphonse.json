@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2009-07-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1982-06-17",
+    "nationality": "France",
+    "playerKey": "alexandre-alphonse",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "2bef9dfd",
+      "footballdatabase_eu": "21682",
+      "kicker": "alexandre-alphonse",
+      "lequipe": "16348",
+      "national_football_teams": "32106",
+      "opta": "d2mrc9fymxlbehqi6hdnuh6fp",
+      "soccerway": "11498",
+      "sofascore": "4112",
+      "transfermarkt": "22814",
+      "wikidata": "Q44682"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2009-07-19",
+  "playerKey": "alexandre-alphonse",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2009-07-19",
+      "goalId": "goal-2009-07-19-guadeloupe-costa-rica-29312",
+      "matchKey": "2009-07-19-guadeloupe-costa-rica",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alexandre Alphonse"
+    }
+  ],
+  "scorer": "Alexandre Alphonse",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "guadeloupe",
+  "teamName": "Guadeloupe",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

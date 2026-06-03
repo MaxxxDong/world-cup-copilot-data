@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 9,
+    "teamAGoals": 26,
+    "teamAWins": 7,
+    "teamBGoals": 4,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 0,
+    "awayTeamId": "algeria",
+    "date": "2024-01-23",
+    "homeScore": 1,
+    "homeTeamId": "mauritania",
+    "matchId": "int-2024-01-23-mauritania-algeria",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "African Cup of Nations"
+  },
+  "matches": [
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "1985-03-08",
+      "homeScore": 4,
+      "homeTeamId": "algeria",
+      "matchId": "int-1985-03-08-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "algeria",
+      "date": "1985-03-22",
+      "homeScore": 1,
+      "homeTeamId": "mauritania",
+      "matchId": "int-1985-03-22-mauritania-algeria",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "1987-12-15",
+      "homeScore": 3,
+      "homeTeamId": "algeria",
+      "matchId": "int-1987-12-15-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Arab Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "1995-11-03",
+      "homeScore": 4,
+      "homeTeamId": "algeria",
+      "matchId": "int-1995-11-03-algeria-mauritania",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2013-05-25",
+      "homeScore": 1,
+      "homeTeamId": "algeria",
+      "matchId": "int-2013-05-25-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "2017-01-07",
+      "homeScore": 3,
+      "homeTeamId": "algeria",
+      "matchId": "int-2017-01-07-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "mauritania",
+      "date": "2017-01-10",
+      "homeScore": 6,
+      "homeTeamId": "algeria",
+      "matchId": "int-2017-01-10-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "mauritania",
+      "date": "2021-06-03",
+      "homeScore": 4,
+      "homeTeamId": "algeria",
+      "matchId": "int-2021-06-03-algeria-mauritania",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "algeria",
+      "date": "2024-01-23",
+      "homeScore": 1,
+      "homeTeamId": "mauritania",
+      "matchId": "int-2024-01-23-mauritania-algeria",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "African Cup of Nations"
+    }
+  ],
+  "pairKey": "algeria__mauritania",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 8,
+      "teamAWins": 2,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 5,
+      "teamAGoals": 18,
+      "teamAWins": 5,
+      "teamBGoals": 2,
+      "teamBWins": 0
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 4,
+      "teamAWins": 1,
+      "teamBGoals": 1,
+      "teamBWins": 1
+    },
+    "nonNeutralVenue": {
+      "draws": 1,
+      "matches": 7,
+      "teamAGoals": 22,
+      "teamAWins": 6,
+      "teamBGoals": 3,
+      "teamBWins": 0
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "algeria",
+  "teamBId": "mauritania"
+}

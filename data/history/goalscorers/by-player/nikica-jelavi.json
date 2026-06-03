@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "croatia",
+      "date": "2012-06-10",
+      "goalId": "goal-2012-06-10-republic-of-ireland-croatia-31928",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "2012-06-10-republic-of-ireland-croatia",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikica Jelavić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    },
+    {
+      "awayTeamId": "north-macedonia",
+      "date": "2012-09-07",
+      "goalId": "goal-2012-09-07-croatia-north-macedonia-32055",
+      "homeTeamId": "croatia",
+      "matchKey": "2012-09-07-croatia-north-macedonia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Nikica Jelavić",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "croatia"
+    }
+  ],
+  "normalizedScorer": "nikica jelavi",
+  "playerKey": "nikica-jelavi",
+  "scorer": "Nikica Jelavić",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "croatia"
+  ]
+}

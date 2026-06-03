@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "burkina-faso",
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-rsa-burkina-faso-37369",
+      "homeTeamId": "rsa",
+      "matchKey": "2017-10-07-rsa-burkina-faso",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Percy Tau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "rsa",
+      "date": "2017-11-14",
+      "goalId": "goal-2017-11-14-senegal-rsa-37527",
+      "homeTeamId": "senegal",
+      "matchKey": "2017-11-14-senegal-rsa",
+      "minute": 63,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Percy Tau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "benin",
+      "date": "2023-11-18",
+      "goalId": "goal-2023-11-18-rsa-benin-44023",
+      "homeTeamId": "rsa",
+      "matchKey": "2023-11-18-rsa-benin",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Percy Tau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    },
+    {
+      "awayTeamId": "namibia",
+      "date": "2024-01-21",
+      "goalId": "goal-2024-01-21-rsa-namibia-44310",
+      "homeTeamId": "rsa",
+      "matchKey": "2024-01-21-rsa-namibia",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Percy Tau",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "rsa"
+    }
+  ],
+  "normalizedScorer": "percy tau",
+  "playerKey": "percy-tau",
+  "scorer": "Percy Tau",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "rsa"
+  ]
+}

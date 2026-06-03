@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "1968-01-16",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1947-06-13",
+    "nationality": "Uganda",
+    "playerKey": "denis-obua",
+    "position": "forward",
+    "providerIds": {
+      "sofifa": "39393",
+      "wikidata": "Q5257448"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "1977-02-27",
+  "playerKey": "denis-obua",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "1977-02-27",
+      "goalId": "goal-1977-02-27-zambia-uganda-7733",
+      "matchKey": "1977-02-27-zambia-uganda",
+      "minute": 74,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Denis Obua"
+    },
+    {
+      "date": "1976-03-03",
+      "goalId": "goal-1976-03-03-egypt-uganda-7451",
+      "matchKey": "1976-03-03-egypt-uganda",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Denis Obua"
+    },
+    {
+      "date": "1968-01-16",
+      "goalId": "goal-1968-01-16-civ-uganda-5119",
+      "matchKey": "1968-01-16-civ-uganda",
+      "minute": null,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Denis Obua"
+    }
+  ],
+  "scorer": "Denis Obua",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "uganda",
+  "teamName": "Uganda",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

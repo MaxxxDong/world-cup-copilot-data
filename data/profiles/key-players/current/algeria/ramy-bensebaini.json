@@ -1,0 +1,79 @@
+{
+  "club": "Borussia Dortmund (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1995-04-16",
+    "nationality": "Algeria",
+    "playerKey": "ramy-bensebaini",
+    "position": "centre-back",
+    "providerIds": {
+      "api_football": "2194",
+      "capology": "ramy-bensebaini-34805",
+      "espn": "220703",
+      "fbref": "378825c7",
+      "footballdatabase_eu": "236042",
+      "german_fa": "386936",
+      "heimspiel": "358208",
+      "impect": "1979",
+      "kicker": "ramy-bensebaini",
+      "lequipe": "53433",
+      "national_football_teams": "66160",
+      "opta": "dqrzogrwznyks6whhfhq748ut",
+      "skillcorner": "8863",
+      "soccerway": "351537",
+      "sofascore": "577726",
+      "thesportsdb": "34166996",
+      "transfermarkt": "284732",
+      "uefa": "250119677",
+      "wikidata": "Q17484446",
+      "worldfootball": "ramy-bensebaini",
+      "wyscout": "334720"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Ramy Bensebaini",
+  "playerKey": "ramy-bensebaini",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-09-02",
+      "goalId": "goal-2021-09-02-algeria-djibouti-41140",
+      "matchKey": "2021-09-02-algeria-djibouti",
+      "minute": 27,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ramy Bensebaini"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+  },
+  "shirtNumber": 21,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "algeria",
+  "teamName": "Algeria"
+}

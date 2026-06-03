@@ -1,0 +1,73 @@
+{
+  "firstGoalDate": "2021-06-04",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1993-08-30",
+    "nationality": "Nicaragua",
+    "playerKey": "byron-bonilla",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "14062",
+      "footballdatabase_eu": "374300",
+      "impect": "200752",
+      "kicker": "byron-bonilla",
+      "national_football_teams": "66145",
+      "skillcorner": "286754",
+      "soccerway": "592186",
+      "sofascore": "986161",
+      "thesportsdb": "34349205",
+      "transfermarkt": "478518",
+      "wikidata": "Q55905607"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2025-09-05",
+  "playerKey": "byron-bonilla",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2025-09-05",
+      "goalId": "goal-2025-09-05-nicaragua-costa-rica-46659",
+      "matchKey": "2025-09-05-nicaragua-costa-rica",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Byron Bonilla"
+    },
+    {
+      "date": "2021-06-04",
+      "goalId": "goal-2021-06-04-nicaragua-belize-40532",
+      "matchKey": "2021-06-04-nicaragua-belize",
+      "minute": 46,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Byron Bonilla"
+    }
+  ],
+  "scorer": "Byron Bonilla",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "nicaragua",
+  "teamName": "Nicaragua",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

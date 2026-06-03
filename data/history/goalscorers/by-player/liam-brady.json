@@ -1,0 +1,107 @@
+{
+  "goalCount": 5,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "1977-03-30",
+      "goalId": "goal-1977-03-30-republic-of-ireland-fra-7863",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1977-03-30-republic-of-ireland-fra",
+      "minute": 11,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Brady",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "netherlands",
+      "date": "1983-10-12",
+      "goalId": "goal-1983-10-12-republic-of-ireland-netherlands-10109",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1983-10-12-republic-of-ireland-netherlands",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Liam Brady",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1983-11-16",
+      "goalId": "goal-1983-11-16-republic-of-ireland-malta-10166",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1983-11-16-republic-of-ireland-malta",
+      "minute": 76,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Brady",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "malta",
+      "date": "1983-11-16",
+      "goalId": "goal-1983-11-16-republic-of-ireland-malta-10167",
+      "homeTeamId": "republic-of-ireland",
+      "matchKey": "1983-11-16-republic-of-ireland-malta",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Liam Brady",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    },
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1986-09-10",
+      "goalId": "goal-1986-09-10-belgium-republic-of-ireland-11279",
+      "homeTeamId": "belgium",
+      "matchKey": "1986-09-10-belgium-republic-of-ireland",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Liam Brady",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "republic-of-ireland"
+    }
+  ],
+  "normalizedScorer": "liam brady",
+  "playerKey": "liam-brady",
+  "scorer": "Liam Brady",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "republic-of-ireland"
+  ]
+}

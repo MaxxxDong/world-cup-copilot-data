@@ -1,0 +1,77 @@
+{
+  "club": "RCD Espanyol (ESP)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "1997-05-15",
+    "nationality": "Switzerland",
+    "playerKey": "charles-pickel",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "48555",
+      "capology": "charles-pickel-35565",
+      "espn": "235875",
+      "fbref": "f71ad8cb",
+      "footballdatabase_eu": "243581",
+      "fotmob": "743720",
+      "heimspiel": "366248",
+      "impect": "21132",
+      "kicker": "charles-pickel",
+      "lequipe": "59234",
+      "national_football_teams": "92136",
+      "opta": "a8ez7qv4n62b8s45pdo8u07o5",
+      "skillcorner": "1743",
+      "soccerbase": "90944",
+      "soccerway": "372395",
+      "thesportsdb": "34174910",
+      "transfermarkt": "243879",
+      "wikidata": "Q24256738",
+      "wyscout": "344207"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Charles Pickel",
+  "playerKey": "charles-pickel",
+  "position": "MF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-mauritania-dr-congo-46175",
+      "matchKey": "2025-03-25-mauritania-dr-congo",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Charles Pickel"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+  },
+  "shirtNumber": 18,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "dr-congo",
+  "teamName": "DR Congo"
+}

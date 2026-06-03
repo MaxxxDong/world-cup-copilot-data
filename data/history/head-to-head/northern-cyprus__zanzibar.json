@@ -1,0 +1,170 @@
+{
+  "allTime": {
+    "draws": 1,
+    "matches": 5,
+    "teamAGoals": 11,
+    "teamAWins": 3,
+    "teamBGoals": 3,
+    "teamBWins": 1
+  },
+  "lastMeeting": {
+    "awayScore": 2,
+    "awayTeamId": "northern-cyprus",
+    "date": "2012-06-08",
+    "homeScore": 0,
+    "homeTeamId": "zanzibar",
+    "matchId": "int-2012-06-08-zanzibar-northern-cyprus",
+    "neutral": true,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Viva World Cup"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "northern-cyprus",
+      "date": "2006-05-30",
+      "homeScore": 1,
+      "homeTeamId": "zanzibar",
+      "matchId": "int-2006-05-30-zanzibar-northern-cyprus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zanzibar",
+      "date": "2006-06-03",
+      "homeScore": 0,
+      "homeTeamId": "northern-cyprus",
+      "matchId": "int-2006-06-03-northern-cyprus-zanzibar",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFI Wild Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "zanzibar",
+      "date": "2006-11-23",
+      "homeScore": 5,
+      "homeTeamId": "northern-cyprus",
+      "matchId": "int-2006-11-23-northern-cyprus-zanzibar",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "ELF Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "northern-cyprus",
+      "date": "2007-01-24",
+      "homeScore": 2,
+      "homeTeamId": "zanzibar",
+      "matchId": "int-2007-01-24-zanzibar-northern-cyprus",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 2,
+      "awayTeamId": "northern-cyprus",
+      "date": "2012-06-08",
+      "homeScore": 0,
+      "homeTeamId": "zanzibar",
+      "matchId": "int-2012-06-08-zanzibar-northern-cyprus",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Viva World Cup"
+    }
+  ],
+  "pairKey": "northern-cyprus__zanzibar",
+  "shootoutSummary": {
+    "firstShooterTeamA": 0,
+    "firstShooterTeamB": 0,
+    "matches": 1,
+    "teamAWins": 1,
+    "teamBWins": 0
+  },
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 10,
+      "teamAWins": 3,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 3,
+      "teamAGoals": 5,
+      "teamAWins": 2,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 6,
+      "teamAWins": 1,
+      "teamBGoals": 2,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 0,
+      "teamAGoals": 0,
+      "teamAWins": 0,
+      "teamBGoals": 0,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "northern-cyprus",
+  "teamBId": "zanzibar"
+}

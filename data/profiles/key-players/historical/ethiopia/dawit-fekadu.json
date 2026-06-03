@@ -1,0 +1,68 @@
+{
+  "firstGoalDate": "2015-10-11",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1986-04-29",
+    "nationality": "Ethiopia",
+    "playerKey": "dawit-fekadu",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "10cdb8b6",
+      "footballdatabase_eu": "133433",
+      "national_football_teams": "45697",
+      "soccerway": "218325",
+      "transfermarkt": "210976",
+      "wikidata": "Q16206218"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-11-14",
+  "playerKey": "dawit-fekadu",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-11-14",
+      "goalId": "goal-2015-11-14-ethiopia-congo-35403",
+      "matchKey": "2015-11-14-ethiopia-congo",
+      "minute": 82,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dawit Fekadu"
+    },
+    {
+      "date": "2015-10-11",
+      "goalId": "goal-2015-10-11-ethiopia-sao-tome-and-principe-35103",
+      "matchKey": "2015-10-11-ethiopia-sao-tome-and-principe",
+      "minute": 1,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Dawit Fekadu"
+    }
+  ],
+  "scorer": "Dawit Fekadu",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "ethiopia",
+  "teamName": "Ethiopia",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

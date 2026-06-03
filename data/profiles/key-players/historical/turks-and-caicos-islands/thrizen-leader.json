@@ -1,0 +1,59 @@
+{
+  "firstGoalDate": "2015-03-23",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1984-07-03",
+    "nationality": "Saint Kitts and Nevis",
+    "playerKey": "thrizen-leader",
+    "position": "defender",
+    "providerIds": {
+      "fbref": "8bc924e5",
+      "footballdatabase_eu": "8402",
+      "national_football_teams": "5512",
+      "soccerway": "212142",
+      "transfermarkt": "79073",
+      "wikidata": "Q7798304"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2015-03-23",
+  "playerKey": "thrizen-leader",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2015-03-23",
+      "goalId": "goal-2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands-34215",
+      "matchKey": "2015-03-23-saint-kitts-and-nevis-turks-and-caicos-islands",
+      "minute": 74,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Thrizen Leader"
+    }
+  ],
+  "scorer": "Thrizen Leader",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "turks-and-caicos-islands",
+  "teamName": "Turks and Caicos Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

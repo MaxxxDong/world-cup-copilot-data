@@ -1,0 +1,71 @@
+{
+  "goalCount": 3,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1963-12-10",
+      "goalId": "goal-1963-12-10-denmark-luxembourg-4084",
+      "homeTeamId": "denmark",
+      "matchKey": "1963-12-10-denmark-luxembourg",
+      "minute": 13,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johny Léonard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1969-04-20",
+      "goalId": "goal-1969-04-20-poland-luxembourg-5430",
+      "homeTeamId": "poland",
+      "matchKey": "1969-04-20-poland-luxembourg",
+      "minute": 68,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Johny Léonard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "1969-04-23",
+      "goalId": "goal-1969-04-23-bulgaria-luxembourg-5435",
+      "homeTeamId": "bulgaria",
+      "matchKey": "1969-04-23-bulgaria-luxembourg",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Johny Léonard",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "johny l onard",
+  "playerKey": "johny-l-onard",
+  "scorer": "Johny Léonard",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

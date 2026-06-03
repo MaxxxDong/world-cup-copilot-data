@@ -1,0 +1,159 @@
+{
+  "allTime": {
+    "draws": 0,
+    "matches": 5,
+    "teamAGoals": 12,
+    "teamAWins": 2,
+    "teamBGoals": 14,
+    "teamBWins": 3
+  },
+  "lastMeeting": {
+    "awayScore": 4,
+    "awayTeamId": "bra",
+    "date": "2004-04-28",
+    "homeScore": 1,
+    "homeTeamId": "hungary",
+    "matchId": "int-2004-04-28-hungary-bra",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 4,
+      "awayTeamId": "hungary",
+      "date": "1954-06-27",
+      "homeScore": 2,
+      "homeTeamId": "bra",
+      "matchId": "int-1954-06-27-bra-hungary",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "hungary",
+      "date": "1965-11-21",
+      "homeScore": 5,
+      "homeTeamId": "bra",
+      "matchId": "int-1965-11-21-bra-hungary",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "hungary",
+      "date": "1966-07-15",
+      "homeScore": 1,
+      "homeTeamId": "bra",
+      "matchId": "int-1966-07-15-bra-hungary",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "bra",
+      "date": "1986-03-16",
+      "homeScore": 3,
+      "homeTeamId": "hungary",
+      "matchId": "int-1986-03-16-hungary-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 4,
+      "awayTeamId": "bra",
+      "date": "2004-04-28",
+      "homeScore": 1,
+      "homeTeamId": "hungary",
+      "matchId": "int-2004-04-28-hungary-bra",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "bra__hungary",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "neutralVenue": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    },
+    "nonNeutralVenue": {
+      "draws": 0,
+      "matches": 3,
+      "teamAGoals": 9,
+      "teamAWins": 2,
+      "teamBGoals": 7,
+      "teamBWins": 1
+    },
+    "worldCup": {
+      "draws": 0,
+      "matches": 2,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 7,
+      "teamBWins": 2
+    }
+  },
+  "teamAId": "bra",
+  "teamBId": "hungary"
+}

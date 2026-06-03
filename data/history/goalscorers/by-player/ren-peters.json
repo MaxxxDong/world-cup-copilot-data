@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2001-10-06",
+      "goalId": "goal-2001-10-06-serbia-luxembourg-21961",
+      "homeTeamId": "serbia",
+      "matchKey": "2001-10-06-serbia-luxembourg",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Peters",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "israel",
+      "date": "2008-10-11",
+      "goalId": "goal-2008-10-11-luxembourg-israel-28617",
+      "homeTeamId": "luxembourg",
+      "matchKey": "2008-10-11-luxembourg-israel",
+      "minute": 14,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "René Peters",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    }
+  ],
+  "normalizedScorer": "ren peters",
+  "playerKey": "ren-peters",
+  "scorer": "René Peters",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "luxembourg"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2020-09-05",
+      "goalId": "goal-2020-09-05-azerbaijan-luxembourg-39649",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2020-09-05-azerbaijan-luxembourg",
+      "minute": 48,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Anton Kryvotsyuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "luxembourg"
+    },
+    {
+      "awayTeamId": "estonia",
+      "date": "2023-06-17",
+      "goalId": "goal-2023-06-17-azerbaijan-estonia-43241",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2023-06-17-azerbaijan-estonia",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Anton Kryvotsyuk",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    }
+  ],
+  "normalizedScorer": "anton kryvotsyuk",
+  "playerKey": "anton-kryvotsyuk",
+  "scorer": "Anton Kryvotsyuk",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan",
+    "luxembourg"
+  ]
+}

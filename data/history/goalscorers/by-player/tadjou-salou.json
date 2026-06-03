@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "egypt",
+      "date": "1992-10-25",
+      "goalId": "goal-1992-10-25-togo-egypt-13432",
+      "homeTeamId": "togo",
+      "matchKey": "1992-10-25-togo-egypt",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tadjou Salou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    },
+    {
+      "awayTeamId": "cameroon",
+      "date": "1996-11-10",
+      "goalId": "goal-1996-11-10-togo-cameroon-16534",
+      "homeTeamId": "togo",
+      "matchKey": "1996-11-10-togo-cameroon",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tadjou Salou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "togo"
+    }
+  ],
+  "normalizedScorer": "tadjou salou",
+  "playerKey": "tadjou-salou",
+  "scorer": "Tadjou Salou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "togo"
+  ]
+}

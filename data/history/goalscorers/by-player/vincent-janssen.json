@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belarus",
+      "date": "2016-10-07",
+      "goalId": "goal-2016-10-07-netherlands-belarus-36232",
+      "homeTeamId": "netherlands",
+      "matchKey": "2016-10-07-netherlands-belarus",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Vincent Janssen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    },
+    {
+      "awayTeamId": "luxembourg",
+      "date": "2017-06-09",
+      "goalId": "goal-2017-06-09-netherlands-luxembourg-36789",
+      "homeTeamId": "netherlands",
+      "matchKey": "2017-06-09-netherlands-luxembourg",
+      "minute": 84,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Vincent Janssen",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "netherlands"
+    }
+  ],
+  "normalizedScorer": "vincent janssen",
+  "playerKey": "vincent-janssen",
+  "scorer": "Vincent Janssen",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "netherlands"
+  ]
+}

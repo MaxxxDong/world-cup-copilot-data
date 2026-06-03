@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "afghanistan",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-syria-afghanistan-35244",
+      "homeTeamId": "syria",
+      "matchKey": "2015-10-13-syria-afghanistan",
+      "minute": 44,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norlla Amiri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "afghanistan"
+    },
+    {
+      "awayTeamId": "cambodia",
+      "date": "2015-11-12",
+      "goalId": "goal-2015-11-12-afghanistan-cambodia-35264",
+      "homeTeamId": "afghanistan",
+      "matchKey": "2015-11-12-afghanistan-cambodia",
+      "minute": 78,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Norlla Amiri",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "afghanistan"
+    }
+  ],
+  "normalizedScorer": "norlla amiri",
+  "playerKey": "norlla-amiri",
+  "scorer": "Norlla Amiri",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "afghanistan"
+  ]
+}

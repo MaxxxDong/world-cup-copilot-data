@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "south-korea",
+      "date": "1954-06-17",
+      "goalId": "goal-1954-06-17-hungary-south-korea-2231",
+      "homeTeamId": "hungary",
+      "matchKey": "1954-06-17-hungary-south-korea",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mihály Lantos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    },
+    {
+      "awayTeamId": "hungary",
+      "date": "1954-06-27",
+      "goalId": "goal-1954-06-27-bra-hungary-2321",
+      "homeTeamId": "bra",
+      "matchKey": "1954-06-27-bra-hungary",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Mihály Lantos",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "hungary"
+    }
+  ],
+  "normalizedScorer": "mih ly lantos",
+  "playerKey": "mih-ly-lantos",
+  "scorer": "Mihály Lantos",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "hungary"
+  ]
+}

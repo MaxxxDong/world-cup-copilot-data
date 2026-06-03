@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "fra",
+      "date": "2014-06-20",
+      "goalId": "goal-2014-06-20-switzerland-fra-33669",
+      "homeTeamId": "switzerland",
+      "matchKey": "2014-06-20-switzerland-fra",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Blaise Matuidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    },
+    {
+      "awayTeamId": "fra",
+      "date": "2017-10-07",
+      "goalId": "goal-2017-10-07-bulgaria-fra-37341",
+      "homeTeamId": "bulgaria",
+      "matchKey": "2017-10-07-bulgaria-fra",
+      "minute": 3,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Blaise Matuidi",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fra"
+    }
+  ],
+  "normalizedScorer": "blaise matuidi",
+  "playerKey": "blaise-matuidi",
+  "scorer": "Blaise Matuidi",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fra"
+  ]
+}

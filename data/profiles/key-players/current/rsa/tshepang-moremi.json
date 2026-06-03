@@ -1,0 +1,70 @@
+{
+  "club": "Orlando Pirates FC (RSA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2000-10-02",
+    "nationality": "South Africa",
+    "playerKey": "tshepang-moremi",
+    "position": "winger",
+    "providerIds": {
+      "api_football": "295977",
+      "espn": "313399",
+      "heimspiel": "787888",
+      "impect": "110739",
+      "national_football_teams": "95265",
+      "skillcorner": "122590",
+      "sofascore": "1101745",
+      "thesportsdb": "34228214",
+      "transfermarkt": "844485",
+      "wikidata": "Q125166783",
+      "worldfootball": "tshepang-moremi",
+      "wyscout": "763477"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Tshepang Moremi",
+  "playerKey": "tshepang-moremi",
+  "position": "FW",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-12-29",
+      "goalId": "goal-2025-12-29-zimbabwe-rsa-47491",
+      "matchKey": "2025-12-29-zimbabwe-rsa",
+      "minute": 7,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tshepang Moremi"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+  },
+  "shirtNumber": 8,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "rsa",
+  "teamName": "South Africa"
+}

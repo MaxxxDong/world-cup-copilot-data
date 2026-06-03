@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "belgium",
+      "date": "1962-11-04",
+      "goalId": "goal-1962-11-04-yugoslavia-belgium-3785",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1962-11-04-yugoslavia-belgium",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Velibor Vasović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    },
+    {
+      "awayTeamId": "norway",
+      "date": "1965-11-07",
+      "goalId": "goal-1965-11-07-yugoslavia-norway-4537",
+      "homeTeamId": "yugoslavia",
+      "matchKey": "1965-11-07-yugoslavia-norway",
+      "minute": 23,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Velibor Vasović",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "yugoslavia"
+    }
+  ],
+  "normalizedScorer": "velibor vasovi",
+  "playerKey": "velibor-vasovi",
+  "scorer": "Velibor Vasović",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "yugoslavia"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "club": "Feyenoord Rotterdam (NED)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2002-10-29",
+    "nationality": "Kingdom of the Netherlands",
+    "playerKey": "jordan-bos",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "337587",
+      "espn": "328541",
+      "footballdatabase_eu": "471902",
+      "fotmob": "1316930",
+      "heimspiel": "724314",
+      "impect": "113835",
+      "kicker": "jordan-bos",
+      "national_football_teams": "90738",
+      "opta": "bwxn7o8ved1xo5bmfkfgzekiy",
+      "skillcorner": "159947",
+      "soccerway": "582633",
+      "sofascore": "1144138",
+      "thesportsdb": "34198695",
+      "transfermarkt": "855731",
+      "wikidata": "Q109768459",
+      "worldfootball": "jordan-bos",
+      "wyscout": "788997"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Jordan Bos",
+  "playerKey": "jordan-bos",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2024-01-13",
+      "goalId": "goal-2024-01-13-australia-india-44199",
+      "matchKey": "2024-01-13-australia-india",
+      "minute": 73,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jordan Bos"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+  },
+  "shirtNumber": 5,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "australia",
+  "teamName": "Australia"
+}

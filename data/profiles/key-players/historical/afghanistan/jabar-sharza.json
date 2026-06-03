@@ -1,0 +1,62 @@
+{
+  "firstGoalDate": "2023-10-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1996-04-06",
+    "nationality": "Afghanistan",
+    "playerKey": "jabar-sharza",
+    "position": "forward",
+    "providerIds": {
+      "api_football": "81059",
+      "fbref": "a14f60a3",
+      "footballdatabase_eu": "257466",
+      "national_football_teams": "67533",
+      "soccerway": "400249",
+      "sofascore": "845367",
+      "thesportsdb": "34349279",
+      "transfermarkt": "289415",
+      "wikidata": "Q28967811"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2023-10-12",
+  "playerKey": "jabar-sharza",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2023-10-12",
+      "goalId": "goal-2023-10-12-afghanistan-mongolia-43595",
+      "matchKey": "2023-10-12-afghanistan-mongolia",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jabar Sharza"
+    }
+  ],
+  "scorer": "Jabar Sharza",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "afghanistan",
+  "teamName": "Afghanistan",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

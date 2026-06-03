@@ -1,0 +1,78 @@
+{
+  "firstGoalDate": "2015-09-08",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 3,
+  "identity": {
+    "dateOfBirth": "1987-09-05",
+    "nationality": "Thailand",
+    "playerKey": "mongkol-tossakrai",
+    "position": "wing half",
+    "providerIds": {
+      "fbref": "ab24c462",
+      "footballdatabase_eu": "213966",
+      "national_football_teams": "53856",
+      "soccerway": "26567",
+      "transfermarkt": "281752",
+      "wikidata": "Q6899511",
+      "worldfootball": "mongkol-tossakrai"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2017-06-13",
+  "playerKey": "mongkol-tossakrai",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2017-06-13",
+      "goalId": "goal-2017-06-13-thailand-united-arab-emirates-36886",
+      "matchKey": "2017-06-13-thailand-united-arab-emirates",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mongkol Tossakrai"
+    },
+    {
+      "date": "2016-03-24",
+      "goalId": "goal-2016-03-24-iraq-thailand-35579",
+      "matchKey": "2016-03-24-iraq-thailand",
+      "minute": 39,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mongkol Tossakrai"
+    },
+    {
+      "date": "2015-09-08",
+      "goalId": "goal-2015-09-08-thailand-iraq-34943",
+      "matchKey": "2015-09-08-thailand-iraq",
+      "minute": 83,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mongkol Tossakrai"
+    }
+  ],
+  "scorer": "Mongkol Tossakrai",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "thailand",
+  "teamName": "Thailand",
+  "tournaments": [
+    {
+      "goals": 3,
+      "tournament": "unknown"
+    }
+  ]
+}

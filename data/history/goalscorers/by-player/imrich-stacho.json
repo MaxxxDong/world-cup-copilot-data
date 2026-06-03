@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "republic-of-ireland",
+      "date": "1959-05-10",
+      "goalId": "goal-1959-05-10-czechoslovakia-republic-of-ireland-3168",
+      "homeTeamId": "czechoslovakia",
+      "matchKey": "1959-05-10-czechoslovakia-republic-of-ireland",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Imrich Stacho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czechoslovakia"
+    }
+  ],
+  "normalizedScorer": "imrich stacho",
+  "playerKey": "imrich-stacho",
+  "scorer": "Imrich Stacho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czechoslovakia"
+  ]
+}

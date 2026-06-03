@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "2012-09-11",
+      "goalId": "goal-2012-09-11-peru-arg-32190",
+      "homeTeamId": "peru",
+      "matchKey": "2012-09-11-peru-arg",
+      "minute": 21,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Zambrano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    },
+    {
+      "awayTeamId": "peru",
+      "date": "2013-09-10",
+      "goalId": "goal-2013-09-10-venezuela-peru-33322",
+      "homeTeamId": "venezuela",
+      "matchKey": "2013-09-10-venezuela-peru",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Carlos Zambrano",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "peru"
+    }
+  ],
+  "normalizedScorer": "carlos zambrano",
+  "playerKey": "carlos-zambrano",
+  "scorer": "Carlos Zambrano",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "peru"
+  ]
+}

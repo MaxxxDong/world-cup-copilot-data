@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "guatemala",
+      "date": "1977-10-19",
+      "goalId": "goal-1977-10-19-mex-guatemala-8045",
+      "homeTeamId": "mex",
+      "matchKey": "1977-10-19-mex-guatemala",
+      "minute": 28,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Arturo Vázquez Ayala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    },
+    {
+      "awayTeamId": "tunisia",
+      "date": "1978-06-02",
+      "goalId": "goal-1978-06-02-mex-tunisia-8226",
+      "homeTeamId": "mex",
+      "matchKey": "1978-06-02-mex-tunisia",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Arturo Vázquez Ayala",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mex"
+    }
+  ],
+  "normalizedScorer": "arturo v zquez ayala",
+  "playerKey": "arturo-v-zquez-ayala",
+  "scorer": "Arturo Vázquez Ayala",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mex"
+  ]
+}

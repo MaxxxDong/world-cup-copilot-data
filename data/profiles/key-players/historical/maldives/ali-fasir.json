@@ -1,0 +1,63 @@
+{
+  "firstGoalDate": "2021-06-15",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1988-09-04",
+    "nationality": "Maldives",
+    "playerKey": "ali-fasir",
+    "position": "wing half",
+    "providerIds": {
+      "api_football": "164356",
+      "espn": "226853",
+      "fbref": "45480044",
+      "footballdatabase_eu": "141994",
+      "national_football_teams": "43551",
+      "soccerway": "165381",
+      "thesportsdb": "34253441",
+      "transfermarkt": "208967",
+      "wikidata": "Q4724792",
+      "worldfootball": "ali-fasir"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-15",
+  "playerKey": "ali-fasir",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-15",
+      "goalId": "goal-2021-06-15-philippines-maldives-40820",
+      "matchKey": "2021-06-15-philippines-maldives",
+      "minute": 25,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ali Fasir"
+    }
+  ],
+  "scorer": "Ali Fasir",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "maldives",
+  "teamName": "Maldives",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

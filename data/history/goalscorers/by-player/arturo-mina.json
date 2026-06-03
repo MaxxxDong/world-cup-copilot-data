@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "venezuela",
+      "date": "2016-11-15",
+      "goalId": "goal-2016-11-15-ecuador-venezuela-36529",
+      "homeTeamId": "ecuador",
+      "matchKey": "2016-11-15-ecuador-venezuela",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arturo Mina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "ecuador",
+      "date": "2019-06-16",
+      "goalId": "goal-2019-06-16-uruguay-ecuador-38558",
+      "homeTeamId": "uruguay",
+      "matchKey": "2019-06-16-uruguay-ecuador",
+      "minute": 78,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Arturo Mina",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "arturo mina",
+  "playerKey": "arturo-mina",
+  "scorer": "Arturo Mina",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador",
+    "uruguay"
+  ]
+}

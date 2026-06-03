@@ -1,0 +1,223 @@
+{
+  "allTime": {
+    "draws": 4,
+    "matches": 9,
+    "teamAGoals": 5,
+    "teamAWins": 0,
+    "teamBGoals": 18,
+    "teamBWins": 5
+  },
+  "lastMeeting": {
+    "awayScore": 1,
+    "awayTeamId": "sweden",
+    "date": "1997-03-12",
+    "homeScore": 0,
+    "homeTeamId": "israel",
+    "matchId": "int-1997-03-12-israel-sweden",
+    "neutral": false,
+    "sourceRefs": [
+      {
+        "path": "results.csv",
+        "sourceId": "martj42-international-results"
+      }
+    ],
+    "tournament": "Friendly"
+  },
+  "matches": [
+    {
+      "awayScore": 3,
+      "awayTeamId": "sweden",
+      "date": "1968-02-19",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1968-02-19-israel-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "israel",
+      "date": "1969-08-25",
+      "homeScore": 3,
+      "homeTeamId": "sweden",
+      "matchId": "int-1969-08-25-sweden-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "1970-06-07",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-1970-06-07-israel-sweden",
+      "neutral": true,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "israel",
+      "date": "1980-06-18",
+      "homeScore": 1,
+      "homeTeamId": "sweden",
+      "matchId": "int-1980-06-18-sweden-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sweden",
+      "date": "1980-11-12",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1980-11-12-israel-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "1985-05-01",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-1985-05-01-israel-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    },
+    {
+      "awayScore": 3,
+      "awayTeamId": "sweden",
+      "date": "1992-11-11",
+      "homeScore": 1,
+      "homeTeamId": "israel",
+      "matchId": "int-1992-11-11-israel-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "israel",
+      "date": "1993-06-02",
+      "homeScore": 5,
+      "homeTeamId": "sweden",
+      "matchId": "int-1993-06-02-sweden-israel",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA World Cup qualification"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "sweden",
+      "date": "1997-03-12",
+      "homeScore": 0,
+      "homeTeamId": "israel",
+      "matchId": "int-1997-03-12-israel-sweden",
+      "neutral": false,
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "pairKey": "israel__sweden",
+  "sourceRefs": [
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 3,
+      "matches": 5,
+      "teamAGoals": 3,
+      "teamAWins": 0,
+      "teamBGoals": 10,
+      "teamBWins": 2
+    },
+    "friendly": {
+      "draws": 1,
+      "matches": 4,
+      "teamAGoals": 2,
+      "teamAWins": 0,
+      "teamBGoals": 8,
+      "teamBWins": 3
+    },
+    "neutralVenue": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    },
+    "nonNeutralVenue": {
+      "draws": 3,
+      "matches": 8,
+      "teamAGoals": 4,
+      "teamAWins": 0,
+      "teamBGoals": 17,
+      "teamBWins": 5
+    },
+    "worldCup": {
+      "draws": 1,
+      "matches": 1,
+      "teamAGoals": 1,
+      "teamAWins": 0,
+      "teamBGoals": 1,
+      "teamBWins": 0
+    }
+  },
+  "teamAId": "israel",
+  "teamBId": "sweden"
+}

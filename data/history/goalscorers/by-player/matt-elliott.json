@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "czech-republic",
+      "date": "1999-03-31",
+      "goalId": "goal-1999-03-31-scotland-czech-republic-18715",
+      "homeTeamId": "scotland",
+      "matchKey": "1999-03-31-scotland-czech-republic",
+      "minute": 27,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Matt Elliott",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "2000-10-07",
+      "goalId": "goal-2000-10-07-san-marino-scotland-20118",
+      "homeTeamId": "san-marino",
+      "matchKey": "2000-10-07-san-marino-scotland",
+      "minute": 71,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Matt Elliott",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "scotland"
+    }
+  ],
+  "normalizedScorer": "matt elliott",
+  "playerKey": "matt-elliott",
+  "scorer": "Matt Elliott",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic",
+    "scotland"
+  ]
+}

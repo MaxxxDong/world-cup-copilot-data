@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "mar",
+      "date": "2004-06-05",
+      "goalId": "goal-2004-06-05-malawi-mar-23718",
+      "homeTeamId": "malawi",
+      "matchKey": "2004-06-05-malawi-mar",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Heston Munthali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    },
+    {
+      "awayTeamId": "malawi",
+      "date": "2004-09-04",
+      "goalId": "goal-2004-09-04-kenya-malawi-24302",
+      "homeTeamId": "kenya",
+      "matchKey": "2004-09-04-kenya-malawi",
+      "minute": 41,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Heston Munthali",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "malawi"
+    }
+  ],
+  "normalizedScorer": "heston munthali",
+  "playerKey": "heston-munthali",
+  "scorer": "Heston Munthali",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "malawi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "ecuador",
+      "date": "1939-02-05",
+      "goalId": "goal-1939-02-05-chile-ecuador-1195",
+      "homeTeamId": "chile",
+      "matchKey": "1939-02-05-chile-ecuador",
+      "minute": 35,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Arenas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    },
+    {
+      "awayTeamId": "paraguay",
+      "date": "1939-02-12",
+      "goalId": "goal-1939-02-12-ecuador-paraguay-1204",
+      "homeTeamId": "ecuador",
+      "matchKey": "1939-02-12-ecuador-paraguay",
+      "minute": 75,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Manuel Arenas",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "ecuador"
+    }
+  ],
+  "normalizedScorer": "manuel arenas",
+  "playerKey": "manuel-arenas",
+  "scorer": "Manuel Arenas",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "ecuador"
+  ]
+}

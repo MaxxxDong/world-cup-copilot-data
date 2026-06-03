@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "malaysia",
+      "date": "2001-03-11",
+      "goalId": "goal-2001-03-11-palestine-malaysia-20522",
+      "homeTeamId": "palestine",
+      "matchKey": "2001-03-11-palestine-malaysia",
+      "minute": 36,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Al-Jaish",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    },
+    {
+      "awayTeamId": "palestine",
+      "date": "2001-03-25",
+      "goalId": "goal-2001-03-25-malaysia-palestine-20605",
+      "homeTeamId": "malaysia",
+      "matchKey": "2001-03-25-malaysia-palestine",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Mohammed Al-Jaish",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "palestine"
+    }
+  ],
+  "normalizedScorer": "mohammed al jaish",
+  "playerKey": "mohammed-al-jaish",
+  "scorer": "Mohammed Al-Jaish",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "palestine"
+  ]
+}

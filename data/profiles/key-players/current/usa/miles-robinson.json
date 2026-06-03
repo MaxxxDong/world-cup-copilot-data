@@ -1,0 +1,87 @@
+{
+  "club": "FC Cincinnatti (USA)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 2,
+  "identity": {
+    "dateOfBirth": "1997-03-14",
+    "fullName": "Miles Gordon Robinson",
+    "nationality": "United States",
+    "playerKey": "miles-robinson",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "50879",
+      "capology": "miles-robinson-35503",
+      "espn": "249768",
+      "fbref": "782a95d9",
+      "footballdatabase_eu": "312848",
+      "heimspiel": "483411",
+      "impect": "15884",
+      "kicker": "miles-robinson",
+      "national_football_teams": "75401",
+      "opta": "bjpjsx12xdi3bwsv35746arqh",
+      "skillcorner": "27087",
+      "soccerbase": "100772",
+      "soccerway": "475095",
+      "sofascore": "868843",
+      "thesportsdb": "34179608",
+      "transfermarkt": "468022",
+      "wikidata": "Q30122953",
+      "worldfootball": "miles-robinson",
+      "wyscout": "493463"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Miles Robinson",
+  "playerKey": "miles-robinson",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2021-08-01",
+      "goalId": "goal-2021-08-01-usa-mex-41091",
+      "matchKey": "2021-08-01-usa-mex",
+      "minute": 117,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miles Robinson"
+    },
+    {
+      "date": "2021-07-15",
+      "goalId": "goal-2021-07-15-usa-martinique-41039",
+      "matchKey": "2021-07-15-usa-martinique",
+      "minute": 50,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Miles Robinson"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+  },
+  "shirtNumber": 12,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "usa",
+  "teamName": "USA"
+}

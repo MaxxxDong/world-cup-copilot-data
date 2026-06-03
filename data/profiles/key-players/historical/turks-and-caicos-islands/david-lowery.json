@@ -1,0 +1,58 @@
+{
+  "firstGoalDate": "2008-02-06",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 1,
+  "identity": {
+    "dateOfBirth": "1984-01-20",
+    "nationality": "United Kingdom",
+    "playerKey": "david-lowery",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "30283",
+      "national_football_teams": "24996",
+      "sofifa": "293361",
+      "transfermarkt": "78308",
+      "wikidata": "Q3703242"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2008-02-06",
+  "playerKey": "david-lowery",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2008-02-06",
+      "goalId": "goal-2008-02-06-turks-and-caicos-islands-saint-lucia-27673",
+      "matchKey": "2008-02-06-turks-and-caicos-islands-saint-lucia",
+      "minute": 31,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "David Lowery"
+    }
+  ],
+  "scorer": "David Lowery",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "turks-and-caicos-islands",
+  "teamName": "Turks and Caicos Islands",
+  "tournaments": [
+    {
+      "goals": 1,
+      "tournament": "unknown"
+    }
+  ]
+}

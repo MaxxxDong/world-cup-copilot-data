@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "italy",
+      "date": "2021-07-11",
+      "goalId": "goal-2021-07-11-england-italy-41008",
+      "homeTeamId": "england",
+      "matchKey": "2021-07-11-england-italy",
+      "minute": 2,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luke Shaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "germany",
+      "date": "2022-09-26",
+      "goalId": "goal-2022-09-26-england-germany-42841",
+      "homeTeamId": "england",
+      "matchKey": "2022-09-26-england-germany",
+      "minute": 72,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Luke Shaw",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "luke shaw",
+  "playerKey": "luke-shaw",
+  "scorer": "Luke Shaw",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

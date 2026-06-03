@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "new-zealand",
+      "date": "1973-03-16",
+      "goalId": "goal-1973-03-16-australia-new-zealand-6603",
+      "homeTeamId": "australia",
+      "matchKey": "1973-03-16-australia-new-zealand",
+      "minute": 86,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Bobby Hogg",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "new-zealand"
+    }
+  ],
+  "normalizedScorer": "bobby hogg",
+  "playerKey": "bobby-hogg",
+  "scorer": "Bobby Hogg",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "new-zealand"
+  ]
+}

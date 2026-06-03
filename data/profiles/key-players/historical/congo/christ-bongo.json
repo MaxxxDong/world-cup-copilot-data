@@ -1,0 +1,67 @@
+{
+  "firstGoalDate": "1997-01-12",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1976-08-11",
+    "nationality": "Democratic Republic of the Congo",
+    "playerKey": "christ-bongo",
+    "position": "forward",
+    "providerIds": {
+      "footballdatabase_eu": "186726",
+      "kicker": "christ-bongo",
+      "national_football_teams": "13989",
+      "transfermarkt": "200306",
+      "wikidata": "Q5108654"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2001-01-28",
+  "playerKey": "christ-bongo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2001-01-28",
+      "goalId": "goal-2001-01-28-congo-tunisia-20363",
+      "matchKey": "2001-01-28-congo-tunisia",
+      "minute": 42,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christ Bongo"
+    },
+    {
+      "date": "1997-01-12",
+      "goalId": "goal-1997-01-12-dr-congo-congo-16707",
+      "matchKey": "1997-01-12-dr-congo-congo",
+      "minute": 4,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Christ Bongo"
+    }
+  ],
+  "scorer": "Christ Bongo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "congo",
+  "teamName": "Congo",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

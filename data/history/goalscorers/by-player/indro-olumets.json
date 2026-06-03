@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "estonia",
+      "date": "1992-07-10",
+      "goalId": "goal-1992-07-10-latvia-estonia-13214",
+      "homeTeamId": "latvia",
+      "matchKey": "1992-07-10-latvia-estonia",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Indro Olumets",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    },
+    {
+      "awayTeamId": "lithuania",
+      "date": "1992-07-11",
+      "goalId": "goal-1992-07-11-estonia-lithuania-13216",
+      "homeTeamId": "estonia",
+      "matchKey": "1992-07-11-estonia-lithuania",
+      "minute": 64,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Indro Olumets",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "estonia"
+    }
+  ],
+  "normalizedScorer": "indro olumets",
+  "playerKey": "indro-olumets",
+  "scorer": "Indro Olumets",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "estonia"
+  ]
+}

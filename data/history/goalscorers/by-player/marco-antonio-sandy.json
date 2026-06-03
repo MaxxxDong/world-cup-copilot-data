@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "arg",
+      "date": "1997-04-02",
+      "goalId": "goal-1997-04-02-bolivia-arg-16870",
+      "homeTeamId": "bolivia",
+      "matchKey": "1997-04-02-bolivia-arg",
+      "minute": 8,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Marco Antonio Sandy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bolivia"
+    },
+    {
+      "awayTeamId": "bolivia",
+      "date": "2000-09-03",
+      "goalId": "goal-2000-09-03-bra-bolivia-20022",
+      "homeTeamId": "bra",
+      "matchKey": "2000-09-03-bra-bolivia",
+      "minute": 88,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Marco Antonio Sandy",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "marco antonio sandy",
+  "playerKey": "marco-antonio-sandy",
+  "scorer": "Marco Antonio Sandy",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bolivia",
+    "bra"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "1965-05-30",
+      "goalId": "goal-1965-05-30-russia-wales-4368",
+      "homeTeamId": "russia",
+      "matchKey": "1965-05-30-russia-wales",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ron Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "scotland",
+      "date": "1966-10-22",
+      "goalId": "goal-1966-10-22-wales-scotland-4730",
+      "homeTeamId": "wales",
+      "matchKey": "1966-10-22-wales-scotland",
+      "minute": 77,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ron Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "1967-11-22",
+      "goalId": "goal-1967-11-22-scotland-wales-5069",
+      "homeTeamId": "scotland",
+      "matchKey": "1967-11-22-scotland-wales",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ron Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    },
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1971-04-21",
+      "goalId": "goal-1971-04-21-wales-czechoslovakia-6028",
+      "homeTeamId": "wales",
+      "matchKey": "1971-04-21-wales-czechoslovakia",
+      "minute": 49,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Ron Davies",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "wales"
+    }
+  ],
+  "normalizedScorer": "ron davies",
+  "playerKey": "ron-davies",
+  "scorer": "Ron Davies",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "wales"
+  ]
+}

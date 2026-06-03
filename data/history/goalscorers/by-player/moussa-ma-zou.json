@@ -1,0 +1,89 @@
+{
+  "goalCount": 4,
+  "goals": [
+    {
+      "awayTeamId": "niger",
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-somalia-niger-35053",
+      "homeTeamId": "somalia",
+      "matchKey": "2015-10-09-somalia-niger",
+      "minute": 58,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Maâzou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    },
+    {
+      "awayTeamId": "niger",
+      "date": "2015-10-09",
+      "goalId": "goal-2015-10-09-somalia-niger-35054",
+      "homeTeamId": "somalia",
+      "matchKey": "2015-10-09-somalia-niger",
+      "minute": 61,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Moussa Maâzou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    },
+    {
+      "awayTeamId": "somalia",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-niger-somalia-35217",
+      "homeTeamId": "niger",
+      "matchKey": "2015-10-13-niger-somalia",
+      "minute": 18,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Maâzou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    },
+    {
+      "awayTeamId": "somalia",
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-niger-somalia-35218",
+      "homeTeamId": "niger",
+      "matchKey": "2015-10-13-niger-somalia",
+      "minute": 32,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Moussa Maâzou",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "niger"
+    }
+  ],
+  "normalizedScorer": "moussa ma zou",
+  "playerKey": "moussa-ma-zou",
+  "scorer": "Moussa Maâzou",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "niger"
+  ]
+}

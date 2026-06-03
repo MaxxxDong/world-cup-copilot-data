@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "wales",
+      "date": "2021-10-08",
+      "goalId": "goal-2021-10-08-czech-republic-wales-41538",
+      "homeTeamId": "czech-republic",
+      "matchKey": "2021-10-08-czech-republic-wales",
+      "minute": 49,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Danny Ward",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "czech-republic"
+    },
+    {
+      "awayTeamId": "wales",
+      "date": "2024-10-11",
+      "goalId": "goal-2024-10-11-iceland-wales-45455",
+      "homeTeamId": "iceland",
+      "matchKey": "2024-10-11-iceland-wales",
+      "minute": 72,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Danny Ward",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "iceland"
+    }
+  ],
+  "normalizedScorer": "danny ward",
+  "playerKey": "danny-ward",
+  "scorer": "Danny Ward",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "czech-republic",
+    "iceland"
+  ]
+}

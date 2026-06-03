@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2012-06-09",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1989-10-01",
+    "nationality": "Botswana",
+    "playerKey": "ofentse-nato",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "f0c88fe1",
+      "footballdatabase_eu": "105754",
+      "kicker": "ofentse-nato",
+      "national_football_teams": "32636",
+      "soccerway": "134526",
+      "sofascore": "216802",
+      "transfermarkt": "154211",
+      "wikidata": "Q2081582"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2013-06-15",
+  "playerKey": "ofentse-nato",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2013-06-15",
+      "goalId": "goal-2013-06-15-botswana-central-african-republic-32898",
+      "matchKey": "2013-06-15-botswana-central-african-republic",
+      "minute": 86,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ofentse Nato"
+    },
+    {
+      "date": "2012-06-09",
+      "goalId": "goal-2012-06-09-botswana-rsa-31886",
+      "matchKey": "2012-06-09-botswana-rsa",
+      "minute": 38,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Ofentse Nato"
+    }
+  ],
+  "scorer": "Ofentse Nato",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "botswana",
+  "teamName": "Botswana",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

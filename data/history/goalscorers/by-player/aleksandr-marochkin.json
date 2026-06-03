@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2022-09-25",
+      "goalId": "goal-2022-09-25-azerbaijan-kazakhstan-42824",
+      "homeTeamId": "azerbaijan",
+      "matchKey": "2022-09-25-azerbaijan-kazakhstan",
+      "minute": 66,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Aleksandr Marochkin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "azerbaijan"
+    },
+    {
+      "awayTeamId": "kazakhstan",
+      "date": "2025-03-25",
+      "goalId": "goal-2025-03-25-liechtenstein-kazakhstan-46174",
+      "homeTeamId": "liechtenstein",
+      "matchKey": "2025-03-25-liechtenstein-kazakhstan",
+      "minute": 45,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Aleksandr Marochkin",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "kazakhstan"
+    }
+  ],
+  "normalizedScorer": "aleksandr marochkin",
+  "playerKey": "aleksandr-marochkin",
+  "scorer": "Aleksandr Marochkin",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "azerbaijan",
+    "kazakhstan"
+  ]
+}

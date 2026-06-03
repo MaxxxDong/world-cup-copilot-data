@@ -1,0 +1,241 @@
+{
+  "aliases": [
+    "Saint Kitts and Nevis"
+  ],
+  "allTime": {
+    "draws": 42,
+    "goalsAgainst": 372,
+    "goalsFor": 387,
+    "losses": 94,
+    "matches": 226,
+    "wins": 90
+  },
+  "dataScope": "derived-from-public-history-results-and-goalscorers",
+  "form": {
+    "last10": {
+      "draws": 1,
+      "goalsAgainst": 27,
+      "goalsFor": 21,
+      "losses": 5,
+      "matches": 10,
+      "wins": 4
+    },
+    "last20": {
+      "draws": 3,
+      "goalsAgainst": 42,
+      "goalsFor": 35,
+      "losses": 8,
+      "matches": 20,
+      "wins": 9
+    },
+    "last5": {
+      "draws": 1,
+      "goalsAgainst": 13,
+      "goalsFor": 8,
+      "losses": 2,
+      "matches": 5,
+      "wins": 2
+    }
+  },
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "identityConfidence": "medium",
+  "identityStatus": "source-derived",
+  "profileConfidence": "low",
+  "recentMatches": [
+    {
+      "awayScore": 2,
+      "awayTeamId": "solomon-islands",
+      "date": "2026-03-30",
+      "homeScore": 4,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2026-03-30-saint-kitts-and-nevis-solomon-islands",
+      "neutral": true,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "saint-kitts-and-nevis",
+      "date": "2026-03-27",
+      "homeScore": 4,
+      "homeTeamId": "indonesia",
+      "matchId": "int-2026-03-27-indonesia-saint-kitts-and-nevis",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "FIFA Series"
+    },
+    {
+      "awayScore": 6,
+      "awayTeamId": "belize",
+      "date": "2025-11-18",
+      "homeScore": 2,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2025-11-18-saint-kitts-and-nevis-belize",
+      "neutral": false,
+      "result": "loss",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 0,
+      "awayTeamId": "sint-maarten",
+      "date": "2025-11-12",
+      "homeScore": 0,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2025-11-12-saint-kitts-and-nevis-sint-maarten",
+      "neutral": false,
+      "result": "draw",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "CONCACAF Series"
+    },
+    {
+      "awayScore": 1,
+      "awayTeamId": "saint-martin",
+      "date": "2025-10-05",
+      "homeScore": 2,
+      "homeTeamId": "saint-kitts-and-nevis",
+      "matchId": "int-2025-10-05-saint-kitts-and-nevis-saint-martin",
+      "neutral": false,
+      "result": "win",
+      "sourceRefs": [
+        {
+          "path": "results.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "tournament": "Friendly"
+    }
+  ],
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "results.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "shootouts.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "splits": {
+    "competitive": {
+      "draws": 33,
+      "goalsAgainst": 274,
+      "goalsFor": 297,
+      "losses": 67,
+      "matches": 165,
+      "wins": 65
+    },
+    "friendly": {
+      "draws": 9,
+      "goalsAgainst": 98,
+      "goalsFor": 90,
+      "losses": 27,
+      "matches": 61,
+      "wins": 25
+    },
+    "neutralVenue": {
+      "draws": 10,
+      "goalsAgainst": 79,
+      "goalsFor": 80,
+      "losses": 16,
+      "matches": 43,
+      "wins": 17
+    },
+    "nonNeutralVenue": {
+      "draws": 32,
+      "goalsAgainst": 293,
+      "goalsFor": 307,
+      "losses": 78,
+      "matches": 183,
+      "wins": 73
+    },
+    "worldCup": {
+      "draws": 0,
+      "goalsAgainst": 0,
+      "goalsFor": 0,
+      "losses": 0,
+      "matches": 0,
+      "wins": 0
+    }
+  },
+  "teamId": "saint-kitts-and-nevis",
+  "teamName": "Saint Kitts and Nevis",
+  "topScorers": [
+    {
+      "goals": 10,
+      "playerKey": "ian-lake",
+      "scorer": "Ian Lake"
+    },
+    {
+      "goals": 7,
+      "playerKey": "keith-gumbs",
+      "scorer": "Keith Gumbs"
+    },
+    {
+      "goals": 6,
+      "playerKey": "george-isaac",
+      "scorer": "George Isaac"
+    },
+    {
+      "goals": 5,
+      "playerKey": "orlando-mitchum",
+      "scorer": "Orlando Mitchum"
+    },
+    {
+      "goals": 4,
+      "playerKey": "keithroy-freeman",
+      "scorer": "Keithroy Freeman"
+    },
+    {
+      "goals": 3,
+      "playerKey": "alexis-saddler",
+      "scorer": "Alexis Saddler"
+    },
+    {
+      "goals": 3,
+      "playerKey": "austin-huggins",
+      "scorer": "Austin Huggins"
+    },
+    {
+      "goals": 3,
+      "playerKey": "dwight-allers-kelley",
+      "scorer": "Dwight Allers Kelley"
+    },
+    {
+      "goals": 3,
+      "playerKey": "harry-panayiotou",
+      "scorer": "Harry Panayiotou"
+    },
+    {
+      "goals": 3,
+      "playerKey": "romaine-sawyers",
+      "scorer": "Romaine Sawyers"
+    }
+  ]
+}

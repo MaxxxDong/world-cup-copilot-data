@@ -1,0 +1,76 @@
+{
+  "firstGoalDate": "2015-10-13",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1994-04-16",
+    "nationality": "Sweden",
+    "playerKey": "alhaji-kamara",
+    "position": "forward",
+    "providerIds": {
+      "fbref": "8846f47e",
+      "footballdatabase_eu": "161518",
+      "heimspiel": "293402",
+      "impect": "49153",
+      "kicker": "alhaji-kamara",
+      "national_football_teams": "47738",
+      "opta": "3xp5g6ooahnnxyqpldskaytp1",
+      "skillcorner": "27459",
+      "soccerbase": "66879",
+      "soccerway": "231948",
+      "transfermarkt": "235355",
+      "wikidata": "Q4724420",
+      "worldfootball": "alhaji-kamara",
+      "wyscout": "217079"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2022-01-16",
+  "playerKey": "alhaji-kamara",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2022-01-16",
+      "goalId": "goal-2022-01-16-civ-sierra-leone-42178",
+      "matchKey": "2022-01-16-civ-sierra-leone",
+      "minute": 90,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alhaji Kamara"
+    },
+    {
+      "date": "2015-10-13",
+      "goalId": "goal-2015-10-13-sierra-leone-chad-35236",
+      "matchKey": "2015-10-13-sierra-leone-chad",
+      "minute": 70,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alhaji Kamara"
+    }
+  ],
+  "scorer": "Alhaji Kamara",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "sierra-leone",
+  "teamName": "Sierra Leone",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

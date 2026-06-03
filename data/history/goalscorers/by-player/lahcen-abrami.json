@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "benin",
+      "date": "1993-01-31",
+      "goalId": "goal-1993-01-31-mar-benin-13664",
+      "homeTeamId": "mar",
+      "matchKey": "1993-01-31-mar-benin",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Lahcen Abrami",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "mar"
+    }
+  ],
+  "normalizedScorer": "lahcen abrami",
+  "playerKey": "lahcen-abrami",
+  "scorer": "Lahcen Abrami",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "mar"
+  ]
+}

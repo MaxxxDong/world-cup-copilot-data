@@ -1,0 +1,80 @@
+{
+  "club": "Eintracht Frankfurt (GER)",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "historicalNationalTeamGoals": 1,
+  "identity": {
+    "dateOfBirth": "2000-05-25",
+    "nationality": "Belgium",
+    "playerKey": "arthur-theate",
+    "position": "defender",
+    "providerIds": {
+      "api_football": "204043",
+      "capology": "arthur-theate-36671",
+      "espn": "304222",
+      "eu_football_info": "31785",
+      "fbref": "df8d6029",
+      "footballdatabase_eu": "368390",
+      "heimspiel": "437308",
+      "impect": "31660",
+      "kicker": "arthur-theate",
+      "lequipe": "82478",
+      "national_football_teams": "84737",
+      "opta": "8qlz4omhgfnzyb2cgeou7xn56",
+      "skillcorner": "32269",
+      "soccerbase": "130409",
+      "soccerway": "580972",
+      "sofascore": "965778",
+      "thesportsdb": "34175702",
+      "transfermarkt": "368891",
+      "uefa": "250127396",
+      "wikidata": "Q97724521",
+      "worldfootball": "arthur-theate",
+      "wyscout": "583730"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "name": "Arthur Theate",
+  "playerKey": "arthur-theate",
+  "position": "DF",
+  "profileScope": "current-roster-key-player-candidate",
+  "profileStatus": "available-final",
+  "recentHistoricalGoals": [
+    {
+      "date": "2025-09-04",
+      "goalId": "goal-2025-09-04-liechtenstein-belgium-46573",
+      "matchKey": "2025-09-04-liechtenstein-belgium",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Arthur Theate"
+    }
+  ],
+  "roster": {
+    "announcementDate": "2026-06-02",
+    "rosterStatus": "final",
+    "sourceUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+  },
+  "shirtNumber": 3,
+  "sourceRefs": [
+    {
+      "path": "fifa-squads.json",
+      "sourceId": "fifa-squad-announcements-2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+    },
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "belgium",
+  "teamName": "Belgium"
+}

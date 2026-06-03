@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "bra",
+      "date": "1999-08-04",
+      "goalId": "goal-1999-08-04-mex-bra-18974",
+      "homeTeamId": "mex",
+      "matchKey": "1999-08-04-mex-bra",
+      "minute": 43,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Serginho",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "serginho",
+  "playerKey": "serginho",
+  "scorer": "Serginho",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

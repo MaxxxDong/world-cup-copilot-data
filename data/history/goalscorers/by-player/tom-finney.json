@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "uruguay",
+      "date": "1954-06-26",
+      "goalId": "goal-1954-06-26-england-uruguay-2304",
+      "homeTeamId": "england",
+      "matchKey": "1954-06-26-england-uruguay",
+      "minute": 67,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Tom Finney",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    },
+    {
+      "awayTeamId": "russia",
+      "date": "1958-06-08",
+      "goalId": "goal-1958-06-08-england-russia-2946",
+      "homeTeamId": "england",
+      "matchKey": "1958-06-08-england-russia",
+      "minute": 85,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Tom Finney",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "england"
+    }
+  ],
+  "normalizedScorer": "tom finney",
+  "playerKey": "tom-finney",
+  "scorer": "Tom Finney",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "england"
+  ]
+}

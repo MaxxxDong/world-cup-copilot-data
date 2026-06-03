@@ -1,0 +1,70 @@
+{
+  "firstGoalDate": "2019-11-19",
+  "generatedAt": "2026-06-03T02:23:00.000Z",
+  "goalCount": 2,
+  "identity": {
+    "dateOfBirth": "1996-07-08",
+    "nationality": "Myanmar",
+    "playerKey": "hlaing-bo-bo",
+    "position": "midfielder",
+    "providerIds": {
+      "fbref": "5607e015",
+      "footballdatabase_eu": "256543",
+      "national_football_teams": "60439",
+      "soccerway": "395202",
+      "sofascore": "809756",
+      "transfermarkt": "352537",
+      "wikidata": "Q21180968",
+      "worldfootball": "hlaing-bo-bo"
+    },
+    "sourceRefs": [
+      {
+        "path": "data/people.csv",
+        "sourceId": "withqwerty-reep"
+      }
+    ]
+  },
+  "lastGoalDate": "2021-06-11",
+  "playerKey": "hlaing-bo-bo",
+  "profileScope": "historical-national-team-scorer",
+  "profileStatus": "available-historical",
+  "recentGoals": [
+    {
+      "date": "2021-06-11",
+      "goalId": "goal-2021-06-11-myanmar-kyrgyzstan-40724",
+      "matchKey": "2021-06-11-myanmar-kyrgyzstan",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlaing Bo Bo"
+    },
+    {
+      "date": "2019-11-19",
+      "goalId": "goal-2019-11-19-myanmar-mongolia-39575",
+      "matchKey": "2019-11-19-myanmar-mongolia",
+      "minute": 17,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Hlaing Bo Bo"
+    }
+  ],
+  "scorer": "Hlaing Bo Bo",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    },
+    {
+      "path": "data/people.csv",
+      "sourceId": "withqwerty-reep"
+    }
+  ],
+  "teamId": "myanmar",
+  "teamName": "Myanmar",
+  "tournaments": [
+    {
+      "goals": 2,
+      "tournament": "unknown"
+    }
+  ]
+}

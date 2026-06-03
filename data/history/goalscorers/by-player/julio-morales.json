@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "colombia",
+      "date": "1981-08-09",
+      "goalId": "goal-1981-08-09-uruguay-colombia-9386",
+      "homeTeamId": "uruguay",
+      "matchKey": "1981-08-09-uruguay-colombia",
+      "minute": 80,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Julio Morales",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    },
+    {
+      "awayTeamId": "colombia",
+      "date": "1981-08-09",
+      "goalId": "goal-1981-08-09-uruguay-colombia-9387",
+      "homeTeamId": "uruguay",
+      "matchKey": "1981-08-09-uruguay-colombia",
+      "minute": 88,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Julio Morales",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "uruguay"
+    }
+  ],
+  "normalizedScorer": "julio morales",
+  "playerKey": "julio-morales",
+  "scorer": "Julio Morales",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "uruguay"
+  ]
+}

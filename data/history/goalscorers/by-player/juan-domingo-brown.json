@@ -1,0 +1,53 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "chile",
+      "date": "1916-07-06",
+      "goalId": "goal-1916-07-06-arg-chile-7",
+      "homeTeamId": "arg",
+      "matchKey": "1916-07-06-arg-chile",
+      "minute": 60,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Juan Domingo Brown",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    },
+    {
+      "awayTeamId": "chile",
+      "date": "1916-07-06",
+      "goalId": "goal-1916-07-06-arg-chile-8",
+      "homeTeamId": "arg",
+      "matchKey": "1916-07-06-arg-chile",
+      "minute": 62,
+      "ownGoal": false,
+      "penalty": true,
+      "scorer": "Juan Domingo Brown",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "arg"
+    }
+  ],
+  "normalizedScorer": "juan domingo brown",
+  "playerKey": "juan-domingo-brown",
+  "scorer": "Juan Domingo Brown",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "arg"
+  ]
+}

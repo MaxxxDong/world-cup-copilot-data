@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "czechoslovakia",
+      "date": "1962-06-17",
+      "goalId": "goal-1962-06-17-bra-czechoslovakia-3750",
+      "homeTeamId": "bra",
+      "matchKey": "1962-06-17-bra-czechoslovakia",
+      "minute": 69,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Zito",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "bra"
+    }
+  ],
+  "normalizedScorer": "zito",
+  "playerKey": "zito",
+  "scorer": "Zito",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "bra"
+  ]
+}

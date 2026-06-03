@@ -1,0 +1,54 @@
+{
+  "goalCount": 2,
+  "goals": [
+    {
+      "awayTeamId": "papua-new-guinea",
+      "date": "2022-03-27",
+      "goalId": "goal-2022-03-27-solomon-islands-papua-new-guinea-42403",
+      "homeTeamId": "solomon-islands",
+      "matchKey": "2022-03-27-solomon-islands-papua-new-guinea",
+      "minute": 24,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Alwin Komolong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "papua-new-guinea"
+    },
+    {
+      "awayTeamId": "papua-new-guinea",
+      "date": "2024-06-16",
+      "goalId": "goal-2024-06-16-fiji-papua-new-guinea-44956",
+      "homeTeamId": "fiji",
+      "matchKey": "2024-06-16-fiji-papua-new-guinea",
+      "minute": 55,
+      "ownGoal": true,
+      "penalty": false,
+      "scorer": "Alwin Komolong",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "fiji"
+    }
+  ],
+  "normalizedScorer": "alwin komolong",
+  "playerKey": "alwin-komolong",
+  "scorer": "Alwin Komolong",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "fiji",
+    "papua-new-guinea"
+  ]
+}

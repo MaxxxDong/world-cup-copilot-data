@@ -1,0 +1,35 @@
+{
+  "goalCount": 1,
+  "goals": [
+    {
+      "awayTeamId": "usa",
+      "date": "1930-07-26",
+      "goalId": "goal-1930-07-26-arg-usa-598",
+      "homeTeamId": "arg",
+      "matchKey": "1930-07-26-arg-usa",
+      "minute": 89,
+      "ownGoal": false,
+      "penalty": false,
+      "scorer": "Jim Brown",
+      "sourceRefs": [
+        {
+          "path": "goalscorers.csv",
+          "sourceId": "martj42-international-results"
+        }
+      ],
+      "teamId": "usa"
+    }
+  ],
+  "normalizedScorer": "jim brown",
+  "playerKey": "jim-brown",
+  "scorer": "Jim Brown",
+  "sourceRefs": [
+    {
+      "path": "goalscorers.csv",
+      "sourceId": "martj42-international-results"
+    }
+  ],
+  "teams": [
+    "usa"
+  ]
+}
