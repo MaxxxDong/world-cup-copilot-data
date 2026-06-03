@@ -5,25 +5,16 @@
     "refresh": "Regenerate the package when a raw input hash changes, then rerun validate-package, budget, readiness, FIFA fixture, and remote-latency audits.",
     "sourceRefs": "Use sourceRefs for fact-level attribution and this file for package build provenance."
   },
-  "inputCount": 5,
+  "inputCount": 4,
   "inputs": [
-    {
-      "format": "pdf",
-      "inputRole": "official-rosters-pdf",
-      "path": "input/raw/SquadLists-English.pdf",
-      "sha256": "09473e3a619c37e37342fc8837d9083ebb1267774a8060a09afd9cd6b6411db0",
-      "sizeBytes": 750868,
-      "sourceId": "fifa-squad-announcements-2026",
-      "sourcePath": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf"
-    },
     {
       "format": "json",
       "inputRole": "official-rosters",
-      "path": "input/raw/fifa-squads.json",
+      "path": "input/official/fifa-squads.2026-final.json",
       "sha256": "2bcba0c900945796003e77056e0357e965d5f34fc73b52b49d75cdcbe0552e9d",
       "sizeBytes": 489544,
       "sourceId": "fifa-squad-announcements-2026",
-      "sourcePath": "fifa-squads.json"
+      "sourcePath": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf"
     },
     {
       "format": "git-tree",

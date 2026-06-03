@@ -14,6 +14,7 @@
     "audit:source-inputs": "node scripts/audit-source-inputs.mjs",
     "fetch:wikimedia-team-identities": "node scripts/fetch-wikimedia-team-identities.mjs",
     "generate": "node scripts/generate-phase-a.mjs --out dist/phase-a-demo",
+    "refresh:package-metadata": "node scripts/refresh-package-metadata.mjs",
     "validate": "node scripts/validate-package.mjs dist/phase-a-demo",
     "test": "node --test"
   }

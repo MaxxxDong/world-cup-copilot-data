@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 import { auditFifaSquadsInput } from "./lib/fifa-squads-audit.mjs";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const inputArg = getArg("--input") ?? "input/raw/fifa-squads.json";
+const inputArg = getArg("--input") ?? "input/official/fifa-squads.2026-final.json";
 const teamRegistryArg = getArg("--team-registry") ?? "input/team-registry.seed.json";
 const expectTeamCountArg = getArg("--expect-team-count");
 const requireFinal = process.argv.includes("--require-final");

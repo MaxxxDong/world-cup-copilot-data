@@ -15,7 +15,7 @@ const requireFinalFifaSquads = process.argv.includes("--require-final-fifa-squad
 const skipRemote = process.argv.includes("--skip-remote");
 const skipReadiness = process.argv.includes("--skip-readiness");
 const skipCompletion = process.argv.includes("--skip-completion") || skipReadiness;
-const fifaSquadsInput = getArg("--fifa-squads-input") ?? "input/raw/fifa-squads.json";
+const fifaSquadsInput = getArg("--fifa-squads-input") ?? "input/official/fifa-squads.2026-final.json";
 const fifaSquadsExpectedTeamCount = getArg("--fifa-squads-expected-team-count") ?? "48";
 const remotePaths = splitArg("--remote-paths") ?? [
   "data/metadata/source-inputs.json",

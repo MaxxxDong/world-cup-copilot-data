@@ -9,12 +9,13 @@
 https://raw.githubusercontent.com/MaxxxDong/world-cup-copilot-data/main/manifest.json
 ```
 
-当前版本是 Phase A 数据包生成器和已发布静态数据包。它已经覆盖 2026 赛程结构、比赛识别索引、国家队历史结果、历史队名、点球大战、进球者记录、head-to-head World Cup / competitive / neutral splits、team profiles、historical key-player profiles、FIFA 2026 final rosters、current key-player candidate profiles 和 Polymarket 搜索 query seeds。2026-06-03 发布包已用 FIFA official squad list PDF 衍生的 `--fifa-squads-json` 替换此前的模拟名单；`--simulate-squads` 仍保留为没有官方 roster 输入时的开发 fallback。
+当前版本是 Phase A 数据包生成器和已发布静态数据包。它已经覆盖 2026 赛程结构、比赛识别索引、国家队历史结果、历史队名、点球大战、进球者记录、head-to-head World Cup / competitive / neutral splits、team profiles、historical key-player profiles、FIFA 2026 final rosters、current key-player candidate profiles 和 Polymarket 搜索 query seeds。2026-06-03 发布包已用 FIFA official squad list PDF 衍生的 `--fifa-squads-json` 替换此前的模拟名单；正式发布路径不再使用模拟 roster。
 
 ## 目录
 
 ```text
 input/                 Phase A demo 输入 seed
+input/official/        已发布包可复核的官方输入衍生文件
 input/raw/             本地 raw source 缓存，已 gitignore
 scripts/               数据生成和校验脚本
 schemas/               数据结构 schema 草案
@@ -33,10 +34,11 @@ npm run audit:completion
 npm run audit:package-budget
 npm run audit:readiness
 npm run audit:source-inputs
-npm run audit:fifa-squads-input -- --allow-missing
+npm run audit:fifa-squads-input
 npm run audit:release
 npm run audit:remote-latency
 npm run audit:fifa-schedule
+npm run refresh:package-metadata -- .
 ```
 
 `npm run generate` 会从 `input/phase-a-seed.json` 生成 `dist/phase-a-demo/`：
@@ -77,7 +79,6 @@ node scripts/generate-phase-a.mjs `
   --reep-people-csv path\to\reep\data\people.csv `
   --wikidata-teams-csv path\to\wikidata-national-football-teams.csv `
   --fifa-squads-json path\to\fifa-squads.json `
-  --simulate-squads `
   --team-registry input\team-registry.seed.json `
   --venue-registry input\venue-registry.seed.json `
   --data-version 2026.05.26+001 `
@@ -85,7 +86,7 @@ node scripts/generate-phase-a.mjs `
   --git-commit <data-source-commit>
 ```
 
-`--simulate-squads` 只在没有 `--fifa-squads-json` 输入时生效。它会基于已确定的 48 支参赛队和历史国家队进球记录，为每队生成 8 名 current key-player candidate，所有 roster/profile 都写入 `rosterStatus=simulated` 和 `profileStatus=available-simulated`。插件和 agent 必须把这些内容说成“模拟/占位名单”，不能当作 FIFA 官方名单事实。
+`--simulate-squads` 只作为开发 fallback 保留，正式发布命令不要传这个参数。它只在没有 `--fifa-squads-json` 输入时生效，会为每队生成 8 名 current key-player candidate，所有 roster/profile 都写入 `rosterStatus=simulated` 和 `profileStatus=available-simulated`。插件和 agent 必须把这些内容说成“模拟/占位名单”，不能当作 FIFA 官方名单事实。
 
 本仓库也带有 raw fixture，可用于验证真实导入路径：
 
@@ -107,7 +108,7 @@ node scripts/generate-phase-a.mjs `
 2026-06-03 已从历史发布包 `96b788df` 恢复 Phase A 数据，并用 FIFA final squad PDF 衍生 JSON 替换 roster/current profile 层，跑通完整 final 发布校验：
 
 ```powershell
-node scripts/generate-phase-a.mjs --out dist/phase-a-real ...
+node scripts/generate-phase-a.mjs --out dist/phase-a-real ... --fifa-squads-json input\official\fifa-squads.2026-final.json
 node scripts/validate-package.mjs dist\phase-a-real
 npm run audit:source-inputs -- --package dist/phase-a-real
 ```
@@ -122,9 +123,9 @@ npm run audit:source-inputs -- --package dist/phase-a-real
 
 `audit:completion` 是更高层的阶段完成度审计：它同时读取 readiness、package budget、manifest 分类索引和 layer index，按 `dataCompletenessAndSources`、`databaseStructureAndPerformance`、`classificationAndIdentifiability` 三段输出证据。它会交叉检查 coverage 和 manifest：如果 coverage 声称 rosters 或 current key-player profiles 已 available/provisional/simulated/final，manifest 必须真的包含对应 index 和分类。它也会读取 `source-audit.json` 的 `candidateComparisons`，如果某个候选源被标记为 `strictlyBetterThanCurrent=true` 却没有进入 `switch-now`，会把它变成阻断项。`layer-index.json` 必须包含 startup、match-detection、match-analysis、historical-player-analysis、current-roster-analysis、market-analysis 和 developer-audit 七个导航层。当前真实包结构、性能、识别分类和 FIFA final roster/current profile 层都通过，`completionReady=true`。
 
-`audit:source-inputs` 会读取 `data/metadata/source-inputs.json`，重新计算本地 raw/seed 输入文件的 size 和 sha256，确认当前工作区输入仍与已生成包一致。它适合放在独立数据仓库发布前，避免 raw source 已变化但 dist 包没有重建。
+`audit:source-inputs` 会读取 `data/metadata/source-inputs.json`，重新计算本地 seed/official 输入文件的 size 和 sha256，确认当前工作区输入仍与已生成包一致。当前 final roster 输入是已提交的 `input/official/fifa-squads.2026-final.json`，fresh clone 可直接复核；`input/raw/` 只作为本机 PDF/下载缓存，不是发布审计的默认依赖。
 
-`audit:fifa-squads-input` 会在 roster JSON 进入生成器前先检查输入质量。默认读取 `input/raw/fifa-squads.json`；provisional 阶段可用 `--allow-missing` 保持非阻断，最终名单阶段应使用 `--expect-team-count 48 --require-final`，确保所有队伍可被 registry 识别、每队有 sourceUrl、final roster 人数为 23-26，并且没有重复队伍。
+`audit:fifa-squads-input` 会在 roster JSON 进入生成器前先检查输入质量。默认读取 `input/official/fifa-squads.2026-final.json`；provisional 阶段可用 `--allow-missing` 保持非阻断，最终名单阶段应使用 `--expect-team-count 48 --require-final`，确保所有队伍可被 registry 识别、每队有 sourceUrl、final roster 人数为 23-26，并且没有重复队伍。
 
 `source-audit.json` 现在包含 `candidateComparisons`：按 schedule、national-team-history、team-identity、player-identity、official-rosters、club-form/workload 和 live-sports-api 分层记录候选源、当前决策、是否严格优于当前主源、比较维度和下一道 gate。比较维度固定为 authority、license、structure、coverage、redistributability、runtimeCost。只有当候选源在关键维度上绝对优于当前组合时，才允许把 `strictlyBetterThanCurrent` 标为 true 并触发切换；否则作为 audit/enrichment/runtime-only 源使用。
 

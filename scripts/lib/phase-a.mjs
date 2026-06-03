@@ -141,6 +141,49 @@ export async function writePackage(rootDir, files) {
   }
 }
 
+export async function refreshPackageMetadata(rootDir) {
+  const manifestPath = path.join(rootDir, "manifest.json");
+  const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
+  const errors = [];
+  const indexedFiles = await readIndexedManifestFiles(rootDir, manifest, errors);
+  if (errors.length) {
+    throw new Error(`Cannot read existing file indexes:\n${errors.join("\n")}`);
+  }
+
+  const packagePaths = uniqueStrings([...(manifest.files ?? []), ...indexedFiles].map((file) => file.path))
+    .filter((relativePath) => relativePath !== "manifest.json")
+    .filter((relativePath) => !relativePath.startsWith("indexes/"))
+    .filter((relativePath) => !relativePath.startsWith("checksums/"));
+
+  const files = new Map();
+  for (const relativePath of packagePaths) {
+    files.set(relativePath, await readFile(path.join(rootDir, relativePath), "utf8"));
+  }
+
+  files.set("checksums/sha256.txt", buildChecksums(files));
+  const fileIndexes = writeFileIndexFiles(files, manifest.generatedAt);
+  setJson(
+    files,
+    "manifest.json",
+    buildManifest(
+      files,
+      {
+        dataVersion: manifest.dataVersion,
+        generatedAt: manifest.generatedAt,
+        gitCommit: manifest.gitCommit,
+      },
+      fileIndexes,
+    ),
+  );
+
+  await writePackage(rootDir, files);
+  return {
+    fileCount: files.size,
+    fileIndexCount: fileIndexes.length,
+    dataVersion: manifest.dataVersion,
+  };
+}
+
 export async function validatePackage(rootDir) {
   const errors = [];
   const manifestPath = path.join(rootDir, "manifest.json");
@@ -722,6 +765,12 @@ function buildSourceAuditMetadata({ snapshot, teams, generatedAt }) {
   const rosterStatuses = uniqueStrings((snapshot.rosters ?? []).map((roster) => roster.rosterStatus ?? "unknown"));
   const hasFinalRosters = (snapshot.rosters ?? []).length > 0 && rosterStatuses.every((status) => status === "final");
   const hasRosterSource = sourcePresent("fifa-squad-announcements-2026") || hasSimulatedSquads;
+  const officialRosterSourceIds = hasFinalRosters
+    ? ["fifa-squad-announcements-2026"].filter(sourcePresent)
+    : ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"].filter(sourcePresent);
+  const officialRosterCandidateSourceIds = hasFinalRosters
+    ? ["fifa-squad-announcements-2026"]
+    : ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"];
   const identityGapSummary = buildIdentityGaps(teams ?? [], generatedAt).summary;
   const teamIdentityGapsResolved =
     (identityGapSummary.lowConfidenceTeamCount ?? 0) === 0 &&
@@ -786,8 +835,8 @@ function buildSourceAuditMetadata({ snapshot, teams, generatedAt }) {
       },
       {
         layerId: "official-rosters",
-        primarySourceIds: ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"].filter(sourcePresent),
-        candidateSourceIds: ["fifa-squad-announcements-2026", "world-cup-copilot-simulated-squads"],
+        primarySourceIds: officialRosterSourceIds,
+        candidateSourceIds: officialRosterCandidateSourceIds,
         decision: hasFinalRosters
           ? "package-final-official-rosters"
           : sourcePresent("fifa-squad-announcements-2026")

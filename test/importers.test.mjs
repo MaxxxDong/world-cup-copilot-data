@@ -606,3 +606,30 @@ test("builds a generated package from raw source imports", () => {
     false,
   );
 });
+
+test("final FIFA rosters do not expose simulated roster candidates in source audit", () => {
+  const finalSquadsFixture = structuredClone(fifaSquadsFixture);
+  for (const squad of finalSquadsFixture.squads) {
+    squad.rosterStatus = "final";
+  }
+  const snapshot = buildSnapshotFromRawSources({
+    openfootballJson: openfootballFixture,
+    internationalResultsCsv,
+    fifaSquadsJson: finalSquadsFixture,
+    teamRegistry: registryFixture,
+    retrievedAt: "2026-06-03T00:00:00Z",
+    sourceCommit: "fixture",
+  });
+  const packageFiles = buildPhaseAData({
+    snapshot,
+    dataVersion: "2026.06.03+final-audit-test",
+    generatedAt: "2026-06-03T02:23:00.000Z",
+    gitCommit: "fixture",
+  });
+  const sourceAudit = JSON.parse(packageFiles.get("data/metadata/source-audit.json"));
+  const officialRosters = sourceAudit.layers.find((layer) => layer.layerId === "official-rosters");
+
+  assert.equal(officialRosters.status, "final-packaged");
+  assert.deepEqual(officialRosters.primarySourceIds, ["fifa-squad-announcements-2026"]);
+  assert.deepEqual(officialRosters.candidateSourceIds, ["fifa-squad-announcements-2026"]);
+});
